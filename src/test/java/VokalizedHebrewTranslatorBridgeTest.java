@@ -66,9 +66,16 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     }
 
     private List<String> getImOtElements() {
-        return Arrays.asList(new String[]{"nommascsg%sing%masc%","nomfemsg%sing%fem%h",
-                "nomfemplr%plr%fem%wt","nommascsg%sing%masc%","cst(nommascsg)%sing%masc%&",
-                "decim-w%sing%masc%w", "nomplr%plr%masc%im", "cst(nomplr)%plr%masc%i&"});
+        return Arrays.asList(new String[]{
+                "nommascsg%sing%masc%",
+                "nomfemsg%sing%fem%h",
+                "nomfemplr%plr%fem%wt",
+                "nommascsg%sing%masc%",
+                "cst(nommascsg)%sing%masc%&",
+                "decim-w%sing%masc%w",
+                "nomplr%plr%masc%im",
+                "cst(nomplr)%plr%masc%i&"
+        });
     }
 
     private List<String> getInvmascElements() {
@@ -95,6 +102,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                         "creer@NORM%[IPR]=[crée,crées,crée,créons,créez,créent]%[AIP]=[créai,créas,créa,créames,créates,créèrent]%[PAP]=[crée]%[INFINITIVE]=[créer]",
                         "dire@NORM%[INFINITIVE]=[dire]%[IPR]=[dis,dis,dit,disons,dîtes,disent]%[AIP]=[dis,dis,dit,dîmes,dîtes,dirent]%[PIP]=[suis dit,es dit,est dit,sommes dits, êtes dits, sont dit]%[AIP]=[x,dis,x,x,dites,x]%[AII]=[disais,disais,disait,disions,disiez,disaient]%[PAPR]=[disant]%[AIPP]=[ai dit,as dit,a dit,avons dit,avez dit,ont dit]%[ACAOIM]=[dis,dis,disons,dites]%[AIF]=[dirai,diras,dira,dirons,direz,diront]%[AIMP]=[-,dis,-,disons,dîtes,-]%[PAP]=[dit]%[ACAOIN]=[dis,dis,dit,dîmes,dîtes,dirent]%[ARAIPR]=[dis,dis,dit,disons,dîtes,disent]%[PAINPRMIPA]=[dire,dit,dite,dit]",
                         "donner@NORM%[INFINITIVE]=[donner]%[IPR]=[donne,donnes,donne,donnons,donnez,donnent]%[AIP]=[donnai,donnas,donna,donnâmes,donnâtes,donnèrent]%[PIP]=[suis donné,es donné,est donné,sommes donnés,êtes donnés,sont donnés]%[AIF]=[donnerai,donneras,donnera,donnerons,donnerez,donneront]%[PIF]=[serai donné,seras donné,sera donné,serons donnés,serez donnés,seront donnés]%[PAP]=[donné]%[AIMP]=[donne,donnez]%[PAPR]=[donnant]%[PALINF]=[donner]%[AIPP]=[ai donné,as donné,a donné,avons donné,avez donné,ont donné]",
+                        "etre@IRREGULAR%[INFINITIVE]=[être]%[IPR]=[suis,es,est,sommes,êtes,sont]%[AII]=[étais,étais,était,étions,étiez,étaient]%[AIF]=[serai,seras,sera,serons,serez,seront]%[ASP]=[sois,sois,soit,soyons,soyez,soient]%[ASI]=[étais,étais,était,étions,étiez,étaient]%[AIP]=[fus,fus,fut,fûmes,fûtes,fûrent]%[AIMP]=[sois,soit,soyons,soyez,soient]%[AIPP]=[ai été,as été,a été,avons  été,avez été,ont été]%[PAPR]=[étant]%[ACP]=[serais,serais,serait,serions,seriez,seraient]%[PAP]=[été]%[IAP]=[avoir été]%[ACOPPR]=[serais,serais,serait,serions,seriez,seraient]%[AIFP]=[aurai été,auras été,aura été,aurons été,aurez été,auront été]",
                         "venir@NORM%[INFINITIVE]=[venir]%[IPR]=[viens,viens,vient,venons,venez,viennent]%[AIP]=[vins,vins,vint,vînmes,vîntes,vinrent]%[AII]=[venais,venais,venait,venions,veniez,venaient]%[AIF]=[viendrai,viendrais,viendra,viendrons,viendrez,viendront]%[AIMP]=[viens,viens,venez]%[AIPP]=[ai venu,as venu,a venu,avonsvenu,avez venu,ont venus]%[PAPR]=[venant]%[PAP]=[venu]",
                         "voir@NORM%[INFINITIVE]=[voir]%[IPR]=[vois,vois,voit,voyons,voyez,voient]%[AIP]=[vis,vis,vit,vîmes,vîtes,virent]%[PSP]=[sois vu,sois vu,soit vu,soyons vus,soyez vus,soient vus]%[AII]=[voyais,voyais,voyait,voyions,voyiez,voyaient]%[AIF]=[verrai,verras,verra,verrons,verrez,verront]%[PIF]=[serai vu, seras vu,sera vu,serons vus,serez vus,seront vus]%[PII]=[suis vu,es vu,est vu,sommes vus,êtes vus,sont vus]%[AIPP]=[ai vu,as vu,a vu,avons vu,avez vu,ont vu]%[PIF]=[serai vu,seras vu,sera vu,serons vus,serez vus,seront vus]%[PIP]=[suis vu,es vu,est vu,sommes vus,êtes vus,sont vus]%[AIMP]=[vois,vois,vois,voyons,voyez,voyez]%[PAP]=[vu]%[PAPR]=[voyant]%[ACAOIN]=[vis,vis,vit,vîmes,vîtes,virent]%[PAAOIM]=[que sois vu,que sois vu,que soit vu,que soyons vus,que soyez vus,que soient vus]%[AORPASIND]=[fus vu,fus vu,fut vu,fûmes vus,fûtes vus,furent vus]"
                 }
@@ -159,6 +167,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "h64@prep%1(prep)=le[les,la]",
                 "h6469@prep%1(prep)=le[les,la]",
                 "h69@prep%1(prep)=le[les,la]",
+                "hiw@verb!irrg%1(verb)=etre",
                 "h61ik64l@noun!im%1(noun)=palais",
                 "hwa@prep%1(prep)=lui",
                 "hw309a@prep%1(prep)=lui",
@@ -208,6 +217,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "amr,,[paal],(AIF%leadingrootletter%a*a64@AIP%secondletterroot%m*m63)",
                 "ba,,[paal2],(AIP%leadingrootletter%b*b30564)",
                 "bra,,[paal],(AIP%leadingrootletter%*b30564@AIP%secondletterroot%r*r64@AIP%secondletterrootexception(5:9)%r*r56@AIP%lettertransform(1)%t*t60@AIP%lettertransform(2)%t*t64@AIP%lettertransform(7:8)%t*t62@AIP%lettertransform%t*w*w309)",
+                "hiw@IRREGULAR%[AIP]=[,,h64i64h,,,hiw]%[AIF]=[,,ihi,,,,]%[PALFUT]=[,,ihi,,,,]%[AIMP]=[,,,hiw,]",
                 "hlk,,[paal],(AIP%leadingrootletter%h*h64@AIP%secondletterroot%l*l63@AIP%sofitrootletter%k3*k000@AIP%sofitaccentuedletter%k000*k00056)",
                 "ntn,,[paal],(AIP%leadingrootletter%n*n64@AIP%secondletterroot%t*t63@AIP%sofitrootletter%n3*n000)",
                 "qra,,[paal],(AIP%leadingrootletter%q*q64@AIP%secondletterroot%r*r64@AIP%alternateaccentuation%q64*q6469@AIP%alternateaccentuation(5:9)%r64*r56@AIP%alternateaccentuation(5)%a*a64)",
@@ -385,7 +395,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
 
     @Test
     public void test_weingreen_chapter_18() {
-        checkInMaps("wein18J1", translatorBridge);
+        checkInMaps("wein18J2", translatorBridge);
         checkInMaps("wein18A1", translatorBridge);
         checkInMaps("wein18A2", translatorBridge);
         checkInMaps("wein18B1", translatorBridge);

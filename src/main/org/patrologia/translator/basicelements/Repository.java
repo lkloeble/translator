@@ -1,5 +1,7 @@
 package org.patrologia.translator.basicelements;
 
+import org.patrologia.translator.utils.StringUtils;
+
 import java.util.Arrays;
 import java.util.List;
 
@@ -19,12 +21,7 @@ public class Repository {
     }
 
     protected String unaccentued(String value) {
-        char[] letters = value.toCharArray();
-        StringBuilder sb = new StringBuilder();
-        for(char c : letters) {
-            if(c >= 'a') sb.append(c);
-        }
-        return sb.toString();
+        return StringUtils.unaccentuate(value);
     }
 
     private String lastLetter(String unaccentued) {

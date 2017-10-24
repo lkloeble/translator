@@ -17,13 +17,15 @@ public class FormRepository extends Repository {
     }
 
     public boolean containsFormValue(String initialValue) {
+        /*
         List<String> strs = new ArrayList<>(allPossibleWordsValue);
         Collections.sort(strs);
         int i=0;
         for(String s : strs) {
-            if(s.startsWith("q67")) System.out.println(i + " " + s);
+            if(s.startsWith("hi")) System.out.println(i + " " + s);
             i++;
         }
+        */
         return allPossibleWordsValue.contains(initialValue) || allPossibleWordsValue.contains(unaccentued(initialValue));
     }
 

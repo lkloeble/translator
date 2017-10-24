@@ -1,5 +1,7 @@
 package org.patrologia.translator.conjugation;
 
+import org.patrologia.translator.utils.StringUtils;
+
 /**
  * Created by lkloeble on 10/01/2017.
  */
@@ -16,7 +18,7 @@ public class ConjugationPart {
     public ConjugationPart(ConjugationPosition conjugationPosition, String value, String unaccentuedValue, Integer positionInDefinition) {
         this.conjugationPosition = conjugationPosition;
         this.value = cleanValue(value);
-        this.unaccentuedValue = unaccentuedValue;
+        this.unaccentuedValue = StringUtils.unaccentuate(unaccentuedValue);
         this.positionInDefinition = positionInDefinition;
     }
 
