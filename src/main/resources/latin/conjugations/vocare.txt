@@ -1,0 +1,16 @@
+IPR=>o,as,at,amus,atis,ant
+AIP=>avi,avisti,avit,avimus,avistis,averunt
+PSP=>er,eris,etur,emur,emini,entur
+PIP=>or,aris,atur,amur,amini,antur
+PII=>abar,abaris,abatur,abamur,abamini,abantur
+ASP=>em,es,et,emus,etis,ent
+IMP=>abam,abas,abat,abamus,abatis,abant
+AIF=>abo,abis,abit,abimus,abitis,abunt
+AII=>abam,abas,abat,abamus,abatis,abant
+PIF=>abor,aberis,abitur,abimur,abimini,abuntur
+PASUPR=>er,eris,etur,emur,emini,entur
+AIPP=>averam,averas,averat,averamus,averatis,averant
+AIFP=>avero,averis,averit,averimus,averitis,averint
+AIMP=>a,xxx,ate
+ASI=>em,es,et|at,emus,etis,ent
+PSI=>er,eris,etur,emur,emini,entur

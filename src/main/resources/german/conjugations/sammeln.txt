@@ -1,0 +1,3 @@
+IPR=>le,elst,elt,eln,elt,eln
+AIMP=>le,elt
+PAP=>elt

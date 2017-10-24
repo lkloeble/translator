@@ -1,0 +1,2 @@
+IPR=>in,ii,ine,inem,inetsi,in
+PAP=>inut

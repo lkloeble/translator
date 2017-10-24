@@ -1,0 +1,4 @@
+nom%sing%fem%a
+noma%plr%fem%uri
+nomb%plr%fem%urile
+gen%plr%fem%urilor

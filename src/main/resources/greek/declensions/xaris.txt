@@ -1,0 +1,10 @@
+nom%sing%fem%ς
+nom%plr%fem%τες
+gen%sing%fem%τος
+gen%plr%fem%των
+acc%sing%fem%τα
+acc%plr%fem%τας
+voc%sing%fem%ς
+voc%plr%fem%τες
+dat%sing%fem%τι
+dat%plr%fem%σι

@@ -1,0 +1,5 @@
+nom%sing%masc%ρ
+gen%sing%masc%ρος
+acc%sing%masc%ρα
+voc%sing%masc%ρ
+dat%sing%masc%ρι

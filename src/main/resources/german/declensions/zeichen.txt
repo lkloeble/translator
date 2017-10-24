@@ -1,0 +1,2 @@
+nom%sing%neut%
+gen%sing%neut%s

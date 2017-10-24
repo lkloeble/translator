@@ -1,0 +1,2 @@
+IPR=>c,ti,te,tem,etsi,c
+PAPR=>cand|cind|cindu

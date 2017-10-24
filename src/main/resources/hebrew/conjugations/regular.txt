@@ -1,0 +1,10 @@
+AIP=>ti,t,|h,nw,tm,w
+AIF=>-,-,,-,-,w
+IPR=>|t,|t,|t,im|wt,im|wt,im|wt|in
+ARAIPR=>-,-,-,-,-,im|in
+AIMP=>*h*@|*h*i,*h*w|*h*h
+PAPR=>x
+PALINF=>z
+PALFUT=>*a*@,*t*@|*t*i,*i*@|*t*@,*n*@,*t*w|*t*nh,*i*w|*t*nh
+HIFPER=>*h*ti,*h*t,*h*@|*h*h,*h*nw,*h*tm|*h*tn,*h*w
+HIFIPR=>*m*@|*m*h,*m*@|*m*h,*m*@|*m*h,*m*im|*m*wt,*m*im|*m*wt,*m*im|*m*wt

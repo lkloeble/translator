@@ -1,0 +1,13 @@
+IPR=>eo,es,et,emus,etis,ent
+PSP=>i,isti,it,imus,istis,erunt
+AIP=>i,isti,it,imus,istis,erunt
+PII=>ebar,ebaris,ebatur,ebamur,ebamini,ebantur
+ASP=>eam,eas,eat,eamus,eatis,eant
+PIP=>eor,eris,etur,emur,emini,entur
+PIF=>ar,eris,etur,emur,emini,entur
+AII=>ebam,ebas,ebat,ebamus,ebatis,ebant
+AIF=>ebo,ebis,ebit,ebimus,ebitis,ebunt
+AIMP=>xxx,e,xxx,xxx,ete,xxx
+ASI=>erem,eres,eret,eremus,eretis,erent
+AIPP=>eram,eras,erat,eramus,eratis,erant
+AIFP=>ueram,ueras,uerat,ueramus,ueratis,uerant|uerint

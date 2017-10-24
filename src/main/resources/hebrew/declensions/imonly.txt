@@ -1,0 +1,4 @@
+nomsg%sing%masc%
+cst(nomsg)%sing%masc%&
+nomplr%plr%masc%im
+cst(nomplr)%plr%masc%i&

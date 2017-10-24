@@ -1,0 +1,10 @@
+nom%sing%fem%s
+abl%sing%fem%te
+acc%sing%fem%tem
+gen%sing%fem%tis
+dat%sing%fem%ti
+nom%plr%fem%tes
+acc%plr%fem%tes
+gen%plr%fem%tum
+dat%plr%fem%tibus
+abl%plr%fem%tibus

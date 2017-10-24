@@ -1,0 +1,2 @@
+IPR=>e,est,et,en,et,en
+AIP=>ete,etest,ete,eten,etet,eten

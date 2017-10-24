@@ -1,0 +1,7 @@
+live%live.txt
+call%call.txt
+break%break.txt
+teach%teach.txt
+swim%swim.txt
+become%become.txt
+see%see.txt

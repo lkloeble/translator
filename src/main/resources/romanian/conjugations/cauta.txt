@@ -1,0 +1,5 @@
+IPR=>,si,a,am,atsi,a,
+AIMP=>x,a,x,x,atsi,x
+PSP=>,i,e,am,atsi,e
+CONJ=>,i,e,am,atsi,e
+AIP=>ai,asi,a,aram,atsi,ara

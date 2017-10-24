@@ -1,0 +1,6 @@
+nom%sing%masc%as
+gen%sing%masc%ae
+dat%sing%masc%ae
+acc1%sing%masc%an
+acc2%sing%masc%am
+abl%sing%masc%a

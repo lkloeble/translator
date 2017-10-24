@@ -1,0 +1,8 @@
+nommascsg%sing%masc%
+nomfemsg%sing%fem%h
+nomfemplr%plr%fem%wt
+nommascsg%sing%masc%
+cst(nommascsg)%sing%masc%&
+decim-w%sing%masc%w
+nomplr%plr%masc%im
+cst(nomplr)%plr%masc%i&

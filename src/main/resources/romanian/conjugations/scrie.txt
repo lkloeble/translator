@@ -1,0 +1,2 @@
+IPR=>u,i,e,em,etsi,u
+PAP=>s

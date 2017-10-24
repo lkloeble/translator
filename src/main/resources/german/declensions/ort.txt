@@ -1,0 +1,12 @@
+nom%sing%masc%
+noma%plr%masc%er
+nomb%plr%masc%e
+gena%sing%masc%es
+genb%sing%masc%s
+gen%plr%masc%e
+dat%sing%masc%e
+data%plr%masc%en
+datb%plr%masc%ern
+acc%sing%masc%
+acca%plr%masc%e
+accb%plr%masc%er

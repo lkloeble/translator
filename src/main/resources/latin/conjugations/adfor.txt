@@ -1,0 +1,5 @@
+IPR=>or,aris,atur,amur,amini,antur
+ASP=>er,eris,etur,emur,emini,entur
+ASI=>arer,areris,aretur,aremur,aremini,arentur
+AIMP=>xxx,are,xxx,xxx,amini,xxx
+AII=>abar,abaris,abatur,abamur,abamini,abantur

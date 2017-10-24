@@ -1,0 +1,2 @@
+nom%sing%neut%
+acc%sing%neut%α

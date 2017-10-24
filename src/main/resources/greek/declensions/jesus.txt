@@ -1,0 +1,5 @@
+nom%sing%neut%ους
+voc%sing%neut%ους
+acc%sing%neut%ουν
+gen%sing%neut%ου
+dat%sing%neut%ω

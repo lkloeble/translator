@@ -1,0 +1,9 @@
+noma%sing%fem%te
+nomb%sing%fem%tea
+nomc%sing%fem%tele
+gena%sing%fem%tsi
+genb%sing%fem%tsii
+noma%plr%fem%tsi
+nomb%plr%fem%tsile
+gena%plr%fem%tsi
+genb%plr%fem%tsilor

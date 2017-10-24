@@ -1,0 +1,10 @@
+nom%sing%masc%ηρ
+nom%plr%masc%δρες
+gen%sing%masc%δρος
+gen%plr%masc%δρων
+acc%sing%masc%δρα
+acc%plr%masc%δρας
+voc%sing%masc%ερ
+voc%plr%masc%δρες
+dat%sing%masc%δρι
+dat%plr%masc%δρασιν

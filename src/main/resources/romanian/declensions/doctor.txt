@@ -1,0 +1,11 @@
+noma%sing%masc%
+nomb%sing%masc%ul
+nomc%sing%masc%u
+nomd%sing%masc%e
+gen%sing%masc%ului
+noma%plr%masc%i
+nomb%plr%masc%si
+nomc%plr%masc%sii
+nomd%plr%masc%ii
+nome%plr%masc%ele
+gen%plr%masc%ilor

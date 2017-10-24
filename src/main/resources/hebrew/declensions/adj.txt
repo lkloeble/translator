@@ -1,0 +1,5 @@
+nomh%sing%fem%h
+nomot%plr%fem%ot
+nomempty%sing%masc%
+nomim%plr%masc%im
+cst(nomim)%plr%masc%i&

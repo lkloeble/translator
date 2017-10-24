@@ -1,0 +1,3 @@
+nom%sing%masc%
+gen%sing%masc%es
+nom%plr%masc%e

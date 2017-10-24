@@ -1,0 +1,3 @@
+noma%sing%masc%
+dir(noma)%sing%masc%h
+nom%plr%masc%

@@ -1,0 +1,3 @@
+hic@hic,haec,hoc,hi,hae,haec,hunc,hanc,hoc,hos,has,haec,huius,horum,harum,horum,huic,his,hoc,hac,hoc,his
+ego@ego,tu,tui,sui,mihi,sibi,suus,nos,vos,nostrum,vostri,vostrum,vobis,sibi,sese,vester,voster,suus
+?dem@?dem,?adem,?aedem,eiusdem,e?rundem,e?rundem,e?rundem,e?dem,e?sdem,?sdem,eundem,eandem,e?sdem,e?sdem,e?dem,

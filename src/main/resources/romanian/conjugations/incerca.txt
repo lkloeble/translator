@@ -1,0 +1,2 @@
+IPR=>,i,a,am,ati,a
+PAP=>at

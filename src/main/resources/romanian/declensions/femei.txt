@@ -1,0 +1,3 @@
+nom%sing%fem%e
+noma%plr%fem%
+nomb%plr%fem%le

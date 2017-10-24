@@ -1,0 +1,4 @@
+nom%sing%masc%us
+acc%sing%masc%um
+gen%sing%masc%i
+dat%sing%masc%o

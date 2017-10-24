@@ -1,0 +1,4 @@
+IPR=>e,st,t,en,t,en
+AIP=>,st,,en,t,en
+PAP=>en
+AIMP=>-,|e,-,-,t,-

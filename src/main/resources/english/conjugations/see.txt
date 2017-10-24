@@ -1,0 +1,7 @@
+IPR=>,,s,,, ,
+PAP=>d
+AIMP=>,, ,
+PAPR=>ing
+AIP=>,,,,, ,
+ACP=>would,would,would,would,would,would
+AIF=>will,will,will,will,will,will

@@ -1,0 +1,4 @@
+nom%sing%masc%de
+nom%sing%fem%da
+nom%plr%masc%zi
+nom%plr%fem%zile

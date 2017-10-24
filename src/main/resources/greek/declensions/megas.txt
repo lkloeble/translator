@@ -1,0 +1,5 @@
+acc%sing%fem%ην
+acc%sing%adj%x
+acc%plr%masc%ους
+acc%plr%fem%ας
+acc%plr%neut%α

@@ -1,0 +1,12 @@
+IPR=>io,is,it,imus,itis,iunt
+AIP=>i,isti,it,imus,istis,erunt
+PIP=>ior,iris,itur,imur,imini,iuntur
+AII=>iebam,iebas,iebat,iebamus,iebatis,iebant
+PII=>am,as,at,amus,atis,ant
+PIF=>iar,ieris,ietur,iemur,iemini,ientur
+AIF=>iam,ies,iet,iemus,ietis,ient
+AIPP=>eram,eras,erat,eramus,eratis,erant
+AIMP=>i,ite
+AIFP=>ero,eris,erit,erimus,eritis,erint
+ASP=>iam,ias,iat,iamus,iatis,iant
+ASI=>erem,eres,eret,eremus,eretis,erent

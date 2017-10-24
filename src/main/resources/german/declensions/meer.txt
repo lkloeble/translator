@@ -1,0 +1,11 @@
+nom%sing%neut%
+nom%plr%neut%e
+gena%sing%neut%es
+genb%sing%neut%s
+gen%plr%neut%e
+data%sing%neut%e
+datb%sing%neut%
+data%plr%neut%en
+datb%plr%neut%ens
+acc%sing%neut%
+acc%plr%neut%e

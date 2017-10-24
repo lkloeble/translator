@@ -1,0 +1,2 @@
+IPR=>,i,e,em,etsi,,
+PAP=>ut

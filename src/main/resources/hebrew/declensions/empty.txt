@@ -1,0 +1,5 @@
+nomempty%sing%neut%
+decendw%sing%neut%w
+decemptyh%sing%neut%h
+nomendk%sing%neut%k
+nomendi%sing%neut%i

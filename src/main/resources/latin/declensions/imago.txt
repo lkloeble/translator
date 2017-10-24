@@ -1,0 +1,12 @@
+nom%sing%fem%o
+voc%sing%fem%o
+acc%sing%fem%inem
+abl%sing%fem%ine
+gen%sing%fem%inis
+dat%sing%fem%ini
+nom%plr%fem%ines
+voc%plr%fem%ines
+acc%plr%fem%ines
+abl%plr%fem%inibus
+gen%plr%fem%inum
+dat%plr%fem%inibus

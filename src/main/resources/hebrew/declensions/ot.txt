@@ -1,0 +1,5 @@
+nomsg%sing%fem%h
+decot-t%sing%fem%t
+decot-w%sing%fem%w
+decot-tn%sing%fem%tn
+nomplr%plr%fem%ot

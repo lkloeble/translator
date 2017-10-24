@@ -1,0 +1,2 @@
+IPR=>asc,asti,aste,am,atsi,asc
+PAP=>at|it

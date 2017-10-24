@@ -1,0 +1,307 @@
+﻿a@noun!inv%1(noun)=un
+ab@noun!custom(nomsg=ab|nomplr=abwt|decot-h=abih|decot-i=abi)%1(noun)=père
+abr@noun!imonly%1(noun)=membre
+abrhm@noun!inv%1(noun)=abraham
+adm@noun!invmasc%1(noun)=homme
+admh@noun!custom(nomsg=admh|decim-nw=admtnw)%1(noun)=terre
+awi@noun!empty%1(noun)=malheur
+awmwt@prep%1(prep)=parmi
+a'hd@noun!empty%1(noun)=un
+a'hr@prep%1(prep)=après
+a'hri@prep%1(prep)=après  moi
+a'hr@noun!im%1(noun)=autre
+a'ht@noun!empty%1(noun)=une
+ain@prep%1(prep)=il n'y a pas
+aimti@prep%1(prep)=quand
+ais@noun!custom(nomplr=ansim|cst(nomplr)=ansi&|dechsofit=aish)%1(noun)=homme
+akl@verb!norm%1(verb)=manger
+ala@prep%1(prep)=mais
+aliyzr@noun!inv%1(noun)=éliezer
+akwl@verb!norm%1(verb)=manger
+al@prep%1(prep)=vers
+alh@prep%1(prep)=ceci
+alhim@noun!custom(nomsg=alhim|cst(nomsg)=alhi&|decim-inwplr=alhinw)%1(noun)=dieu
+am@prep%1(prep)=si
+amwt@prep%1(prep)=parmi
+amr@verb!norm%1(verb)=dire
+ani@prep%1(prep)=je
+an'hnw@prep%1(prep)=nous
+anki@prep%1(prep)=je
+arts@noun!custom(nomplr=artswt)%1(noun)=pays%2(noun)=terre
+ash@noun!custom(nomplr=nsim|cst(nomplr)=nsi&)%1(noun)=femme
+asmrt@noun!inv%1(noun)=veille
+asmwrt@noun!inv%1(noun)=veille
+ast@noun!inv%1(noun)=femme
+at@prep%1(prep)=COD
+atw@prep%1(prep)=le
+ath@prep%1(prep)=la
+ati@prep%1(prep)=me
+atk@prep%1(prep)=te
+atm@prep%1(prep)=vous%2(prep)=eux
+atn@prep%1(prep)=vous
+ath@prep%1(prep)=toi
+atnw@prep%1(prep)=nous
+atkm@prep%1(prep)=vous
+atkn@prep%1(prep)=vous
+att@noun!invmasc%1(noun)=signes
+awr@noun!invfem%1(noun)=flamme,feu%2(noun)=lumière
+asr@prep%1(prep)=qui
+b@prep%1(prep)=dans
+ba@verb!norm%1(verb)=venir
+bi@prep%1(prep)=en moi
+bk@prep%1(prep)=en toi
+bw@prep%1(prep)=en lui
+bh@prep%1(prep)=en elle
+bnw@prep%1(prep)=en nous
+bkm@prep%1(prep)=en vous
+bkn@prep%1(prep)=en vous
+bhm@prep%1(prep)=en eux
+bhn@prep%1(prep)=en elles
+bhw@noun!invmasc%1(noun)=vide
+b'hr@verb!norm%1(verb)=choisir
+bdl@verb!norm%1(verb)=separer
+bin@prep%1(prep)=entre
+bit@noun!im%1(noun)=maison
+bn@noun!im%1(noun)=fils
+bra@verb!norm%1(noun)=creer
+brk@noun!endingh%1(noun)=bénédiction
+brit@noun!empty%1(noun)=alliance
+bqr@noun!im%1(noun)=matin
+bsr@noun!im%1(noun)=chair
+bt@noun!custom(nomsg=bt|cst(nomsg)=bt&|decot-w=btw|nomplr=bnwt|cst(nomplr)=bnwt&)%1(noun)=fille
+btwk@prep%1(prep)=à l'intérieur de
+bwqr@noun!im%1(noun)=matin
+gdwl@noun!im-ot%1(noun)=grand
+gdl@adj!im%(adj)=grand
+gwi@noun!im%1(noun)=nation%2(noun)=gentil
+gmlial@noun!inv%1(noun)=gamaliel
+gn@noun!im%1(noun)=jardin
+dbr@noun!im%1(noun)=chose,acte%2(noun)=parole
+dbr@verb!norm%1(verb)=parler
+dp@noun!im%1(noun)=page
+drk@noun!empty%1(noun)=voie%2(noun)=chemin
+dsa@noun!im%1(noun)=végétation%2(noun)=pelouse%3(noun)=herbe
+dsa@verb!norm%1(verb)=germer%2(verb)=verdir
+gm@prep%1(prep)aussi%2(prep)=même%3(prep)=encore
+h@prep%1(prep)=le[les,la]
+hair@verb!norm%1(verb)=illuminer
+hgid@verb!norm%1(verb)=fairesavoir
+hwa@prep%1(prep)=lui
+hr'hiq@verb!norm%1(verb)=renvoyer%2(verb)=separer%3(verb)=eloigner
+ht'hil@verb!norm%1(verb)=commencer2
+hia@prep%1(prep)=cette
+hih@prep%1(verb)=il fut
+hikl@noun!im%1(noun)=palais
+hiw@verb!irrg%1(verb)=etre
+hkl@noun!im%1(noun)=palais
+hlk@verb!norm%1(noun)=aller
+hqbh@noun!invmasc%1(noun)=Le Saint-Béni soit-Il
+hm@prep%1(prep)=ils
+hmh@prep%1(prep)=ils
+hsofittowards@prep%1(prep)=en direction de
+hzh@prep%1(prep)=ce
+hzat@prep%1(prep)=cette
+hn@prep%1(prep)=elles
+hnh@prep%1(prep)=voici
+hr@noun!im%1(noun)=montagne
+is@prep%(prep)=il y a
+w@prep%1(prep)=et
+wtrin@adj!im-ot%1(adj)=permis
+zw@prep%(prep)=ce
+zh@prep%(prep)=ceci
+zhr@noun!inv%1(noun)=zohar
+zkr@verb!norm%1(verb)=sesouvenir
+zry@verb!norm%1(verb)=semer
+zry@noun!im%1(noun)=semence
+zqn@noun!adj%1(adj)=ancien
+'hds@adj!im-ot%1(noun)=mois%2(adj)=nouveau
+'hwds@noun!im%1(noun)=mois
+'hkm@noun!im-ot%1(noun)=sage
+'hlb@noun!im%1(noun)=lait%2(noun)=graisse
+'hlwm@noun!mascot%1(noun)=rêve
+'htswt@noun!inv%1(noun)=milieu de la nuit
+'hsk@noun!im-fem%1(noun)=arrêt,pause%2(noun)=sombre,obscur%3(noun)=obscurité
+ibsh@noun!invmasc%1(noun)=sec
+idy@verb!norm%1(verb)=connaitre
+id@noun!im%1(noun)=main
+iwm@noun!custom(nomplr=imim|cst(nomplr)=imi|cst(nomsg)=iwm&nomsg=iwm)%1(noun)=jour
+iwsp@noun!invmasc%1(noun)=joseph
+ihwh@noun!invmasc%1(noun)=le seigneur%1(noun)=YHVH
+ilqwt@noun!inv%1(noun)=sac à dos%2(noun)=anthologie%3(noun)=recueil%4(noun)=collection
+its'hq@noun!inv%1(noun)=isaac
+iyqb@noun!empty%1(noun)=jacob
+irah@noun!custom(cst(nomsg)=irat&nomsg=irah)%1(noun)=crainte
+irwslim@noun!invmasc%1(noun)=jérusalem
+ird@verb!norm%1(noun)=descendre
+isb@verb!norm%1(noun)=demeurer
+iswyh@noun!empty%1(noun)=josué
+iswy@noun!endingh%1(noun)=salut
+isral@noun!invmasc%1(noun)=israël
+itsa@verb!norm%1(verb)=sortir
+k@prep%1(prep)=comme
+kbs@verb!norm%1(verb)=conquerir
+kdi@prep%1(prep)=quand%2(prep)=afin de%3(prep)=pour
+ki@prep%1(prep)=car%2(prep)=lorsque%3(prep)=pour que%4(prep)=que
+kl@prep%1(prep)=tout
+kmwk@prep%1(prep)=comme toi
+kn@prep%1(prep)=oui%2(prep)=ainsi
+krt@verb!norm%1(verb)=couper
+ksofit@prep%1(prep)=de-toi
+khn@noun!im%1(noun)=prêtre
+kwhn@noun!im%1(noun)=prêtre
+kwkb@noun!im%1(noun)=étoile
+k'h@noun!mascot%1(noun)=pouvoir%2(noun)=force
+kkh@noun!empty%1(noun)=comme-ça
+knyn@noun!inv%1(noun)=canaan
+krti@noun!invmasc%1(noun)=poireau
+l@prep%1(prep)=à
+la@prep%1(prep)=ne
+lbd@prep%1(prep)=seulement
+lbn@noun!inv%1(noun)=blanc%2(noun)=laban
+li@prep%1(prep)=à moi
+liar@noun!empty%1(noun)=lior
+lilh@noun!invfem%1(noun)=nuit
+lk@prep%1(prep)=à toi
+lq'h@verb!norm%1(verb)=prendre
+lh@prep%1(prep)=à elle
+lhm@prep%1(prep)=à eux
+lhn@prep%1(prep)=à elles
+lw@prep%1(prep)=à lui
+lmh@prep%1(prep)=pourquoi
+lnw@prep%1(prep)=à nous
+lkm@prep%1(prep)=à vous
+lkn@prep%1(prep)=à vous
+l'hm@noun!inv%1(noun)=pain
+lswn@noun!invfem%1(noun)=langue
+lstim@noun!invmasc%1(noun)=brigands
+m@prep%1(prep)=de
+mad@prep%1(prep)=très
+mawr@noun!invneut%1(noun)=luminaire
+mamr@noun!im%1(noun)=expression%2(noun)=article (contexte académique et théorique)%3(noun)=parole
+mart@noun!invmasc%1(noun)=luminaires
+mdbr@noun!inv%1(noun)=désert
+mwyd@noun!im%1(noun)=saison%2(noun)=fête
+mh@prep%1(prep)=quoi
+mi@prep%1(prep)=qui
+mim@noun!invmasc%1(noun)=eaux
+min@noun!im%1(noun)=hérétique%2(noun)=genre grammatical%3(noun)=acte sexuel%4(noun)=genre sexuel%5(noun)=espèce%6(noun)=type
+mmni@prep%1(prep)=depuis moi
+mn@prep%1(prep)=de
+mlak@noun!im%1(noun)=messager%2(noun)=ange
+mlk@noun!im%1(noun)=moloch (divinité phénicienne)%2(noun)=roi
+mys@noun!endingh%1(noun)=acte%2(noun)=oeuvre
+mqwh@noun!empty%1(noun)=rassemblement des eaux
+mqwm@noun!empty%1(noun)=lieu
+mrgl@noun!im%1(noun)=explorateur%2(noun)=espion
+msh@noun!invmasc%1(noun)=moïse
+mswm@prep%1(prep)=parce que
+msth@noun!invmasc%1(noun)=fête%2(noun)=banquet
+msl@verb!norm%1(verb)=diriger
+msikir@noun!invmasc%1(noun)=meshearir%2(noun)=lorsque l'on sait reconnaître
+mtsa@verb!norm%1(verb)=trouver
+mtswh@noun!inv%1(noun)=commandement%2(noun)=mitsva
+mtsrim@noun!invmasc%1(noun)=égypte
+nakl@noun!im%1(noun)=destiné à être mangé
+nbia@noun!im-ot%1(noun)=prophète
+nhr@noun!im%1(noun)=rivière
+n'hl@noun!endingh%1(noun)=possession
+nyr@noun!im%1(noun)=jeune garçon
+nw@prep%1(prep)=nous
+nkns@verb!norm%1(verb)=entrer
+nsim@noun!invfem%1(noun)=femmes
+ntn@verb!norm%1(verb)=donner
+ymd@verb!norm%1(verb)=setenirdebout
+pt'h@verb!norm%1(verb)=ouvrir
+pnnn@noun!custom(plr=pnim|cstplr=pni)%1(noun)=face
+pri@noun!im%1(noun)=fruit
+pryh@noun!inv%1(noun)=pharaon
+prs@noun!ot%1(noun)=liaison%2(noun)=parasha
+qdws@adj!im-ot%1(noun)=saint
+qwh@verb!norm%1(verb)=couler
+qra@verb!norm%1(verb)=crier%2(verb)=lire%3(verb)=appeler
+qwl@noun!mascot%1(noun)=voix
+qtn@adj!im-ot%1(adj)=petit
+qtr@noun!invmasc%1(noun)=encens%2(noun)=combustion
+ra@verb!norm%1(noun)=apparaitre%2(verb)=voir
+ras@noun!im%1(noun)=venin,poison%2(noun)=début%3(noun)=chef%4(noun)=tête
+raswn@noun!ot%1(noun)=commencement%2(adj)=première
+rasit@noun!invfem%1(noun)=début
+rbi@noun!inv%1(noun)=rabbi
+rbn@noun!inv%1(noun)=rabban
+rw'h@noun!invmasc%1(noun)=esprit%2(noun)=souffle
+r'hl@noun!inv%1(noun)=rachel
+r'hp@verb!norm%1(verb)=planer
+rqiy@noun!im%1(noun)=firmament
+ry@noun!im-ot%1(noun)=mauvais
+rsy@noun!im-ot%1(noun)=impie
+s@prep%1(prep)=que
+sal@noun!inv%1(noun)=shéol
+sbyh@noun!inv%1(noun)=sept
+s'hr@noun!im%1(noun)=aube
+swp@noun!inv%1(noun)=fin
+sini@noun!empty%1(noun)=sinai
+sirli@noun!empty%1(noun)=shirli
+sl'h@verb!norm%1(verb)=envoyer
+slwm@noun!invmasc%1(noun)=bonjour%2(noun)=paix
+slisi@noun!empty%1(noun)=trois
+slmh@noun!empty%1(noun)=salomon
+sm@noun!mascot%1(noun)=nom
+smim@noun!invmasc%1(noun)=ciels
+smwal@noun!invmasc%1(noun)=samuel
+smwt@noun!invmasc%1(noun)=livre de l'exode
+smr@verb!norm%1(verb)=surveiller%2(verb)=garder
+smy@noun!invmasc%1(noun)=shema
+smy@verb!norm%1(verb)=entendre
+smywni@noun!invmasc%1(noun)=shimouni
+snh@noun!custom(nomsg=snh|cst(nomsg)=snt|nomplr=snim|cst(nomplr)=sni)%1(noun)=année
+sni@noun!invmasc%1(noun)=deuxième
+spt@verb!norm%1(verb)=juger
+syh@noun!inv%1(noun)=heure
+spr@noun!im%1(noun)=écrit%2(noun)=livre
+srh@noun!inv%1(noun)=sarah
+sws@noun!im-ot%1(noun)=cheval
+thw@noun!invmasc%1(noun)=informe
+thwm@noun!invfem%1(noun)=abîme
+t'hl@verb!norm%1(verb)=commencer
+t'ht@prep%1(prep)=à la place de%2(prep)=sous
+tym@noun!im%1(noun)=marque de cantillation%2(noun)=point%3(noun)=goût
+tsan@noun!im%1(noun)=troupeau
+tswtn@noun!invmasc%1(noun)=précepte
+tswh@verb!norm%1(verb)=commander
+tsrik@noun!im%1(noun)=besoin
+tsdiq@adj!im-ot%1(adj)=juste
+twb@noun!im-ot%1(noun)=bon
+twr@noun!endingh%1(noun)=torah
+tklt@adj!invmasc%1(adj)=bleu
+trwm@noun!ot%1(noun)=térouma
+yd@prep%1(prep)=jusqu'à
+ybir@noun!ot%1(noun)=crime%2(noun)=péché%3(noun)=transgression
+ybd@noun!im%1(noun)=esclave
+ybd@verb!norm%1(noun)=servir
+ybr@noun!ot%1(noun)=crime%2(noun)=péché%3(noun)=transgression
+ywlm@noun!im%1(noun)=monde
+yin@noun!im%1(noun)=oeil
+yir@noun!custom(nomplr=yrim|cst(nomplr)=yri&dir(nomsg)=yirh|nomsg=yir))%1(noun)=ange%2(noun)=anon%3(noun)=ville
+yl@prep%1(prep)=en faveur de%2(prep)=au dessus de%3(noun)=sur
+ylh@verb!norm%1(verb)=grandir%2(verb)=couter%3(verb)=selever
+ym@noun!im%1(noun)=peuple
+ym@prep%1(prep)=avec
+ymwd@noun!im%1(noun)=pilier%2(noun)=colonne%3(noun)=page
+ymnw@prep%1(prep)=avec nous
+ypr@noun!im-fem%1(noun)=jeune daim%2(noun)=gris,cendré%3(noun)=poussière
+yrb@noun!im%1(noun)=soir
+yrbit@noun!invmasc%1(noun)=prière du soir
+ysb@noun!im%1(noun)=herbe
+ysh@verb!norm%1(verb)=faire
+ysw@noun!empty%1(noun)=esav
+yts@noun!custom(nomsg=yts|cst(nomsg)=ytst&|nomplr=ytsim|cst(nomplr)=ytsi&)%1(noun)=arbre
+xxdexx@prep%1(prep)=de
+xxhexx@prep%1(prep)=à elle
+xxheandwav@prep%1(prep)=de lui
+xxdirectionalhexx@prep%1(prep)=vers
+xxmxx@prep%1(prep)=à elle
+xxnwxx@prep%1(prep)=à nous
+xxixx@prep%1(prep)=de moi
+xxmxx@prep%1(prep)=à eux
+xxtnxx@prep%1(prep)=à eux
+wavend@prep%1(prep)=de lui

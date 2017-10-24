@@ -1,0 +1,10 @@
+nom%sing%neut%en
+abl%sing%neut%ine
+acc%sing%neut%en
+gen%sing%neut%inis
+dat%sing%neut%ini
+nom%plr%neut%ina
+abl%plr%neut%inibus
+acc%plr%neut%inum
+gen%plr%neut%inum
+dat%plr%neut%inibus

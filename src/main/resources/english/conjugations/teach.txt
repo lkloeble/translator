@@ -1,0 +1,5 @@
+IPR=>,,es,,, ,
+AII=>,,ed,,, ,
+PAP=>ed
+PAPR=>ing
+ACP=>edwould,edwould,eswould,edwould,edwould,edwould

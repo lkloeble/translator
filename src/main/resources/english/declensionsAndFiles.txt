@@ -1,0 +1,7 @@
+invmasc%invariablemasc.txt
+invfem%invariablefem.txt
+normmasc%normalmasc.txt
+normfem%normalfem.txt
+child%child.txt
+endy%endy.txt
+church%church.txt

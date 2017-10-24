@@ -1,0 +1,11 @@
+nomadjmascsga%sing%masc%
+nomadjmascsgb%sing%masc%u
+nomnounmascsg%sing%masc%ul
+nomnounfemsga%sing%fem%a
+nomnounfemsge%sing%fem%e
+gennounmascsga%sing%masc%ui
+gennounfemsg%sing%masc%ei
+gennounmascsgb%plr%masc%ilor
+nommascplri%plr%masc%i
+nomfemplre%plr%fem%e
+nomfemplrii%plr%fem%ii

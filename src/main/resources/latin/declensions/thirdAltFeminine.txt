@@ -1,0 +1,6 @@
+nom%sing%fem%x
+abl%sing%fem%ce
+gen%sing%fem%cis
+dat%sing%fem%ci
+acc%sing%fem%cem
+nom%plr%fem%ces

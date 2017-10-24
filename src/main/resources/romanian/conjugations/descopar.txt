@@ -1,0 +1,3 @@
+IPR=>ar,eri,era,erim,eritsi,era
+ASP=>ar,eri,ere,erim,eritsi,ere
+PAP=>erit

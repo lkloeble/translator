@@ -1,0 +1,16 @@
+leben%leben.txt
+mochten%mochten.txt
+rufen%rufen.txt
+wollen%wollen.txt
+sammeln%sammeln.txt
+entstehen%entstehen.txt
+starken%starken.txt
+lassen%lassen.txt
+halten%halten.txt
+werden%werden.txt
+setzen%setzen.txt
+fordern%fordern.txt
+segnen%segnen.txt
+genesen%genesen.txt
+bedauern%bedauern.txt
+stehen%stehen.txt

@@ -1,0 +1,5 @@
+IPR=>o,s,t,imus,tis,unt
+PII=>ebar,ebaris,ebatur,ebamur,ebamini,ebantur
+AIP=>i,isti,it,imus,istis,erunt
+PIP=>or,ris|re,tur,imur,imini,untur
+AIMP=>xxx,xxx,xxx,xxx,te,xxx

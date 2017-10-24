@@ -1,0 +1,7 @@
+nom%sing%masc%s
+gena%sing%masc%
+genb%sing%masc%s
+data%sing%masc%
+datb%sing%masc%s
+acca%sing%masc%s
+accb%sing%masc%m

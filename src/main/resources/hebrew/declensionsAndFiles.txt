@@ -1,0 +1,15 @@
+im%im.txt
+imonly%imonly.txt
+m%m.txt
+ot%ot.txt
+im-ot%im-ot.txt
+im-fem%im-fem.txt
+adj%adj.txt
+empty%empty.txt
+emptyfem%emptyfem.txt
+inv%inv.txt
+invfem%invfem.txt
+invmasc%invmasc.txt
+invneut%invneut.txt
+endingh%endingh.txt
+mascot%mascot.txt

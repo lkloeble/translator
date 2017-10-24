@@ -1,0 +1,3 @@
+IPR=>e,,,en,t,en
+AIP=>te,test,te,ten,tet,ten
+PAP=>t

@@ -1,0 +1,12 @@
+le but est de reconstituer les préfixes et suffixes
+AIF=>*a*h,*t*h|*t*i,*i*h|*t*h,*n*h,*t*w|*t*inh,*i*w|*t*inh
+
+signifie pour le premier :
+
+on commence par un a
+on prend ensuite la racine modifiée dans le fichier verb
+et on termine par h
+
+donc qwh devient qw
+
+ça fait aqwh : je coulerai

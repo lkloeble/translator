@@ -1,0 +1,10 @@
+nom%sing%neut%ς
+nom%plr%neut%τα
+gen%sing%neut%τος
+gen%plr%neut%των
+acc%sing%neut%ς
+acc%plr%neut%τα
+voc%sing%neut%ς
+voc%plr%neut%τα
+dat%sing%neut%τι
+dat%plr%neut%σι

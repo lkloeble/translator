@@ -1,0 +1,3 @@
+IPR=>iesc,iesti,este,im,itsi,iesc
+PSP=>isem,isesi,ise,iseram,iseratsi,isera
+PAP=>it

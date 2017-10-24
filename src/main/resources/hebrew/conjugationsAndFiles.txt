@@ -1,0 +1,5 @@
+smr%regular.txt
+rah%twoletters.txt
+nifal%nifal.txt
+mishna%mishna.txt
+pealimtswh%pealimtswh.txt

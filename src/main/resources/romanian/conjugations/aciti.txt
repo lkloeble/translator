@@ -1,0 +1,4 @@
+IPR=>esc,esti,este,im,itsi,esc
+AII=>am,ai,a,am,atsi,au
+PAPR=>ind
+PAP=>it

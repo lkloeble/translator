@@ -1,0 +1,3 @@
+IPR=>o,s,t,mus,tis,unt
+PSP=>am,as,at,amus,atis,ant
+VENO=>eri,endi,endo,endum,ctum,ctu

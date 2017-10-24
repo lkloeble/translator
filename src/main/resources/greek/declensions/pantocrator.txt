@@ -1,0 +1,10 @@
+nom%sing%masc%ωρ
+nom%plr%masc%ορες
+gen%sing%masc%ορος
+gen%plr%masc%ορων
+acc%sing%masc%ορα
+acc%plr%masc%ορας
+voc%sing%masc%ορ
+voc%plr%masc%ορες
+dat%sing%masc%ορι
+dat%plr%masc%ορσι
