@@ -1,0 +1,329 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head><TITLE>Hebrew Keyboard Online LEXILOGOS &gt;&gt;</title>
+<style type="text/css">
+.bt, .bt:hover, .bt:visited {text-decoration:none; cursor:pointer; width:24pt; font-size:20pt; color:#CC0033; font-family:Times New Roman, Ezra SIL, Arial; }
+.heb {font-family:Times New Roman, Ezra SIL, Arial; font-size:150%; color:#0000FF; }
+.cadr {font-family:Times New Roman, Ezra SIL, Arial; color:blue; font-size:24pt; width:80%; padding:5px; scrollbar-base-color:transparent; scrollbar-track-color:transparent; }
+.bf, .bf:hover, .bf:visited {cursor:pointer; font-size:9pt; color:#666666; }
+</style>
+<link href="../style.css" rel="stylesheet" type="text/css">
+<script>
+//  copyright lexilogos.com
+function alpha(item) {
+var input = document.conversion.saisie;
+ if (document.selection) {
+  input.focus();
+range = document.selection.createRange() ;
+range.text = item ;
+  range.select();
+}
+else if (input.selectionStart || input.selectionStart == '0') {
+var startPos = input.selectionStart;
+var endPos = input.selectionEnd;
+var cursorPos = startPos;
+var scrollTop = input.scrollTop;
+var baselength = 0;
+input.value = input.value.substring(0, startPos)
+  + item
+  + input.value.substring(endPos, input.value.length);
+cursorPos += item.length;
+input.focus();
+input.selectionStart = cursorPos;
+input.selectionEnd = cursorPos;
+input.scrollTop = scrollTop;
+}
+else {
+input.value += item;
+input.focus();
+}
+}
+
+function copier () {
+   document.conversion.saisie.focus();
+   document.conversion.saisie.select();
+   CopiedTxt = document.selection.createRange();
+   CopiedTxt.execCommand("Copy");
+}
+
+function copy() {
+textRange=document.conversion.saisie.createTextRange();
+textRange.execCommand("Copy");
+textRange="";
+}
+
+var car;
+function annuler () {
+car = document.conversion.saisie.value;
+ car=car.replace(/\u200b/g, "");
+document.conversion.saisie.value=car;
+}
+
+//  copyright lexilogos.com
+var car;
+function transcrire() {
+car = document.conversion.saisie.value;
+car = car.replace(/’/g, "\'");
+car = car.replace(/a/g, "א");
+car = car.replace(/b/g, "ב");
+car = car.replace(/ב'/g, "בּ");
+car = car.replace(/g/g, "ג");
+car = car.replace(/d/g, "ד");
+car = car.replace(/h/g, "ה");
+car = car.replace(/[uov]/g, "ו");
+car = car.replace(/z/g, "ז");
+car = car.replace(/H/g, "ח");
+car = car.replace(/[iyeéèê]/g, "י");
+car = car.replace(/k/g, "כ");
+car = car.replace(/כ'/g, "כּ");
+car = car.replace(/כ /g, "ך ");
+car = car.replace(/K/g, "ך");
+car = car.replace(/l/g, "ל");
+car = car.replace(/m/g, "מ");
+car = car.replace(/M/g, "ם");
+car = car.replace(/מ /g, "ם ");
+car = car.replace(/n/g, "� ");
+car = car.replace(/�  /g, "ן ");
+car = car.replace(/N/g, "ן");
+car = car.replace(/s/g, "ס");
+car = car.replace(/j/g, "ע");
+car = car.replace(/ʿ/g, "ע");
+car = car.replace(/f/g, "פ");
+car = car.replace(/פ'/g, "פּ");
+car = car.replace(/p/g, "פּ");
+car = car.replace(/פ /g, "ף ");
+car = car.replace(/F/g, "ף");
+car = car.replace(/q/g, "ק");
+car = car.replace(/r/g, "ר");
+car = car.replace(/S/g, "צ");
+car = car.replace(/צ /g, "ץ ");
+car = car.replace(/[cç]/g, "ש");
+car = car.replace(/ש'/g, "שׁ");
+car = car.replace(/שׁ'/g, "שׂ");
+car = car.replace(/T/g, "ט");
+car = car.replace(/t/g, "ת");
+document.conversion.saisie.value=car;
+var obj=document.conversion.saisie;
+obj.focus();
+obj.scrollTop=obj.scrollHeight;
+}
+
+/*!
+ * clipboard.js v1.5.15
+ * https://zenorocha.github.io/clipboard.js
+ *
+ * Licensed MIT © Zeno Rocha
+ */
+!function(e){if("object"==typeof exports&&"undefined"!=typeof module)module.exports=e();else if("function"==typeof define&&define.amd)define([],e);else{var t;t="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof self?self:this,t.Clipboard=e()}}(function(){var e,t,n;return function e(t,n,i){function o(a,c){if(!n[a]){if(!t[a]){var l="function"==typeof require&&require;if(!c&&l)return l(a,!0);if(r)return r(a,!0);var s=new Error("Cannot find module '"+a+"'");throw s.code="MODULE_NOT_FOUND",s}var u=n[a]={exports:{}};t[a][0].call(u.exports,function(e){var n=t[a][1][e];return o(n?n:e)},u,u.exports,e,t,n,i)}return n[a].exports}for(var r="function"==typeof require&&require,a=0;a<i.length;a++)o(i[a]);return o}({1:[function(e,t,n){function i(e,t){for(;e&&e!==document;){if(e.matches(t))return e;e=e.parentNode}}if(Element&&!Element.prototype.matches){var o=Element.prototype;o.matches=o.matchesSelector||o.mozMatchesSelector||o.msMatchesSelector||o.oMatchesSelector||o.webkitMatchesSelector}t.exports=i},{}],2:[function(e,t,n){function i(e,t,n,i,r){var a=o.apply(this,arguments);return e.addEventListener(n,a,r),{destroy:function(){e.removeEventListener(n,a,r)}}}function o(e,t,n,i){return function(n){n.delegateTarget=r(n.target,t),n.delegateTarget&&i.call(e,n)}}var r=e("./closest");t.exports=i},{"./closest":1}],3:[function(e,t,n){n.node=function(e){return void 0!==e&&e instanceof HTMLElement&&1===e.nodeType},n.nodeList=function(e){var t=Object.prototype.toString.call(e);return void 0!==e&&("[object NodeList]"===t||"[object HTMLCollection]"===t)&&"length"in e&&(0===e.length||n.node(e[0]))},n.string=function(e){return"string"==typeof e||e instanceof String},n.fn=function(e){var t=Object.prototype.toString.call(e);return"[object Function]"===t}},{}],4:[function(e,t,n){function i(e,t,n){if(!e&&!t&&!n)throw new Error("Missing required arguments");if(!c.string(t))throw new TypeError("Second argument must be a String");if(!c.fn(n))throw new TypeError("Third argument must be a Function");if(c.node(e))return o(e,t,n);if(c.nodeList(e))return r(e,t,n);if(c.string(e))return a(e,t,n);throw new TypeError("First argument must be a String, HTMLElement, HTMLCollection, or NodeList")}function o(e,t,n){return e.addEventListener(t,n),{destroy:function(){e.removeEventListener(t,n)}}}function r(e,t,n){return Array.prototype.forEach.call(e,function(e){e.addEventListener(t,n)}),{destroy:function(){Array.prototype.forEach.call(e,function(e){e.removeEventListener(t,n)})}}}function a(e,t,n){return l(document.body,e,t,n)}var c=e("./is"),l=e("delegate");t.exports=i},{"./is":3,delegate:2}],5:[function(e,t,n){function i(e){var t;if("SELECT"===e.nodeName)e.focus(),t=e.value;else if("INPUT"===e.nodeName||"TEXTAREA"===e.nodeName)e.focus(),e.setSelectionRange(0,e.value.length),t=e.value;else{e.hasAttribute("contenteditable")&&e.focus();var n=window.getSelection(),i=document.createRange();i.selectNodeContents(e),n.removeAllRanges(),n.addRange(i),t=n.toString()}return t}t.exports=i},{}],6:[function(e,t,n){function i(){}i.prototype={on:function(e,t,n){var i=this.e||(this.e={});return(i[e]||(i[e]=[])).push({fn:t,ctx:n}),this},once:function(e,t,n){function i(){o.off(e,i),t.apply(n,arguments)}var o=this;return i._=t,this.on(e,i,n)},emit:function(e){var t=[].slice.call(arguments,1),n=((this.e||(this.e={}))[e]||[]).slice(),i=0,o=n.length;for(i;i<o;i++)n[i].fn.apply(n[i].ctx,t);return this},off:function(e,t){var n=this.e||(this.e={}),i=n[e],o=[];if(i&&t)for(var r=0,a=i.length;r<a;r++)i[r].fn!==t&&i[r].fn._!==t&&o.push(i[r]);return o.length?n[e]=o:delete n[e],this}},t.exports=i},{}],7:[function(t,n,i){!function(o,r){if("function"==typeof e&&e.amd)e(["module","select"],r);else if("undefined"!=typeof i)r(n,t("select"));else{var a={exports:{}};r(a,o.select),o.clipboardAction=a.exports}}(this,function(e,t){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var o=n(t),r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},a=function(){function e(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(t,n,i){return n&&e(t.prototype,n),i&&e(t,i),t}}(),c=function(){function e(t){i(this,e),this.resolveOptions(t),this.initSelection()}return a(e,[{key:"resolveOptions",value:function e(){var t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};this.action=t.action,this.emitter=t.emitter,this.target=t.target,this.text=t.text,this.trigger=t.trigger,this.selectedText=""}},{key:"initSelection",value:function e(){this.text?this.selectFake():this.target&&this.selectTarget()}},{key:"selectFake",value:function e(){var t=this,n="rtl"==document.documentElement.getAttribute("dir");this.removeFake(),this.fakeHandlerCallback=function(){return t.removeFake()},this.fakeHandler=document.body.addEventListener("click",this.fakeHandlerCallback)||!0,this.fakeElem=document.createElement("textarea"),this.fakeElem.style.fontSize="12pt",this.fakeElem.style.border="0",this.fakeElem.style.padding="0",this.fakeElem.style.margin="0",this.fakeElem.style.position="absolute",this.fakeElem.style[n?"right":"left"]="-9999px";var i=window.pageYOffset||document.documentElement.scrollTop;this.fakeElem.addEventListener("focus",window.scrollTo(0,i)),this.fakeElem.style.top=i+"px",this.fakeElem.setAttribute("readonly",""),this.fakeElem.value=this.text,document.body.appendChild(this.fakeElem),this.selectedText=(0,o.default)(this.fakeElem),this.copyText()}},{key:"removeFake",value:function e(){this.fakeHandler&&(document.body.removeEventListener("click",this.fakeHandlerCallback),this.fakeHandler=null,this.fakeHandlerCallback=null),this.fakeElem&&(document.body.removeChild(this.fakeElem),this.fakeElem=null)}},{key:"selectTarget",value:function e(){this.selectedText=(0,o.default)(this.target),this.copyText()}},{key:"copyText",value:function e(){var t=void 0;try{t=document.execCommand(this.action)}catch(e){t=!1}this.handleResult(t)}},{key:"handleResult",value:function e(t){this.emitter.emit(t?"success":"error",{action:this.action,text:this.selectedText,trigger:this.trigger,clearSelection:this.clearSelection.bind(this)})}},{key:"clearSelection",value:function e(){this.target&&this.target.blur(),window.getSelection().removeAllRanges()}},{key:"destroy",value:function e(){this.removeFake()}},{key:"action",set:function e(){var t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:"copy";if(this._action=t,"copy"!==this._action&&"cut"!==this._action)throw new Error('Invalid "action" value, use either "copy" or "cut"')},get:function e(){return this._action}},{key:"target",set:function e(t){if(void 0!==t){if(!t||"object"!==("undefined"==typeof t?"undefined":r(t))||1!==t.nodeType)throw new Error('Invalid "target" value, use a valid Element');if("copy"===this.action&&t.hasAttribute("disabled"))throw new Error('Invalid "target" attribute. Please use "readonly" instead of "disabled" attribute');if("cut"===this.action&&(t.hasAttribute("readonly")||t.hasAttribute("disabled")))throw new Error('Invalid "target" attribute. You can\'t cut text from elements with "readonly" or "disabled" attributes');this._target=t}},get:function e(){return this._target}}]),e}();e.exports=c})},{select:5}],8:[function(t,n,i){!function(o,r){if("function"==typeof e&&e.amd)e(["module","./clipboard-action","tiny-emitter","good-listener"],r);else if("undefined"!=typeof i)r(n,t("./clipboard-action"),t("tiny-emitter"),t("good-listener"));else{var a={exports:{}};r(a,o.clipboardAction,o.tinyEmitter,o.goodListener),o.clipboard=a.exports}}(this,function(e,t,n,i){"use strict";function o(e){return e&&e.__esModule?e:{default:e}}function r(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}function a(e,t){if(!e)throw new ReferenceError("this hasn't been initialised - super() hasn't been called");return!t||"object"!=typeof t&&"function"!=typeof t?e:t}function c(e,t){if("function"!=typeof t&&null!==t)throw new TypeError("Super expression must either be null or a function, not "+typeof t);e.prototype=Object.create(t&&t.prototype,{constructor:{value:e,enumerable:!1,writable:!0,configurable:!0}}),t&&(Object.setPrototypeOf?Object.setPrototypeOf(e,t):e.__proto__=t)}function l(e,t){var n="data-clipboard-"+e;if(t.hasAttribute(n))return t.getAttribute(n)}var s=o(t),u=o(n),f=o(i),d=function(){function e(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(t,n,i){return n&&e(t.prototype,n),i&&e(t,i),t}}(),h=function(e){function t(e,n){r(this,t);var i=a(this,(t.__proto__||Object.getPrototypeOf(t)).call(this));return i.resolveOptions(n),i.listenClick(e),i}return c(t,e),d(t,[{key:"resolveOptions",value:function e(){var t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};this.action="function"==typeof t.action?t.action:this.defaultAction,this.target="function"==typeof t.target?t.target:this.defaultTarget,this.text="function"==typeof t.text?t.text:this.defaultText}},{key:"listenClick",value:function e(t){var n=this;this.listener=(0,f.default)(t,"click",function(e){return n.onClick(e)})}},{key:"onClick",value:function e(t){var n=t.delegateTarget||t.currentTarget;this.clipboardAction&&(this.clipboardAction=null),this.clipboardAction=new s.default({action:this.action(n),target:this.target(n),text:this.text(n),trigger:n,emitter:this})}},{key:"defaultAction",value:function e(t){return l("action",t)}},{key:"defaultTarget",value:function e(t){var n=l("target",t);if(n)return document.querySelector(n)}},{key:"defaultText",value:function e(t){return l("text",t)}},{key:"destroy",value:function e(){this.listener.destroy(),this.clipboardAction&&(this.clipboardAction.destroy(),this.clipboardAction=null)}}]),t}(u.default);e.exports=h})},{"./clipboard-action":7,"good-listener":4,"tiny-emitter":6}]},{},[8])(8)});
+</script>
+<script type="text/javascript" src="../clavier/carhe.js"></script>
+<script type="text/javascript" src="../clavier/clipboard.js"></script>
+</head>
+<body onLoad="conversion.saisie.focus()">
+
+
+<br>
+<form name="conversion">
+<div id="delc">&nbsp;
+<p>
+<input type="button" class="eff" title="clear" onClick="reset();conversion.saisie.focus()" value="">
+</div>
+<textarea name="saisie" id="bar" onKeyUp="transcrire()" dir="rtl" rows="4" class="cadr"></textarea>
+<br>
+<br>
+<input type="button" class="bf" data-clipboard-action="copy" data-clipboard-target="#bar" value="copy">  &nbsp; &nbsp;
+<script>
+var clipboard = new Clipboard('.bf');
+clipboard.on('success', function(e) {
+console.log(e);
+});
+clipboard.on('error', function(e) {
+console.log(e);
+});
+</script>
+<input type="button" class="bf" onClick="alpha(' ')" value="space"> &nbsp; &nbsp;
+<input type="button" class="bf" onClick="conversion.saisie.rows=4;conversion.saisie.focus()" value="small frame"> &nbsp; &nbsp;
+<input type="button" class="bf" onClick="conversion.saisie.rows=40;conversion.saisie.focus()" value="large frame">
+<br>
+<br>
+<table>
+<tr align="center">
+<td>k'</td>
+<td>k</td>
+<td>y</td>
+<td>T</td>
+<td>H</td>
+<td>z</td>
+<td>v</td>
+<td>h</td>
+<td>d</td>
+<td>g</td>
+<td>b'</td>
+<td>b</td>
+<td>[a]</td>
+</tr>
+<tr align="center">
+<td><input type="button" class="bt" title="kaf" onclick="alpha('&#64315;')" value="&#64315;"></td>
+<td><input type="button" class="bt" title="khaf" onclick="alpha('&#1499;')" value="&#1499;"></td>
+<td><input type="button" class="bt" title="y�d" onclick="alpha('&#1497;')" value="&#1497;"></td>
+<td><input type="button" class="bt" title="t�t" onclick="alpha('&#1496;')" value="&#1496;"></td>
+<td><input type="button" class="bt" title="h�t" onclick="alpha('&#1495;')" value="&#1495;"></td>
+<td><input type="button" class="bt" title="za�n" onclick="alpha('&#1494;')" value="&#1494;"></td>
+<td><input type="button" class="bt" title="w�w" onclick="alpha('&#1493;')" value="&#1493;"></td>
+<td><input type="button" class="bt" title="he" onclick="alpha('&#1492;')" value="&#1492;"></td>
+<td><input type="button" class="bt" title="d�let" onclick="alpha('&#1491;')" value="&#1491;"></td>
+<td><input type="button" class="bt" title="g�mel" onclick="alpha('&#1490;')" value="&#1490;"></td>
+<td><input type="button" class="bt" title="b�t" onclick="alpha('&#64305;')" value="&#64305;"></td>
+<td><input type="button" class="bt" title="vet" onclick="alpha('&#1489;')" value="&#1489;"></td>
+<td><input type="button" class="bt" title="�lef" onclick="alpha('&#1488;')" value="&#1488;"></td>
+</tr>
+<tr align="center">
+<td>&nbsp;</td>
+<td><input type="button" class="bt" onclick="alpha('&#1498;')" value="&#1498;"></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</table>
+<table>
+<tr align="center">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>[c]</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>[S]</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>[j]</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr align="center">
+<td>t</td>
+<td>s</td>
+<td>sh</td>
+<td>sh/s</td>
+<td>r</td>
+<td>q</td>
+<td>ts</td>
+<td>p</td>
+<td>f</td>
+<td> ?</td>
+<td>s</td>
+<td>n</td>
+<td>m</td>
+<td>l</td>
+</tr>
+<tr align="center">
+<td><input type="button" class="bt" title="t&acirc;w" onclick="alpha('&#1514;')" value="&#1514;"></td>
+<td><input type="button" class="bt" title="sin" onclick="alpha('&#64299;')" value="&#64299;"></td>
+<td><input type="button" class="bt" title="shin" onclick="alpha('&#64298;')" value="&#64298;"></td>
+<td><input type="button" class="bt" title="s&icirc;n" onclick="alpha('&#1513;')" value="&#1513;"></td>
+<td><input type="button" class="bt" title="r&ecirc;sh" onclick="alpha('&#1512;')" value="&#1512;"></td>
+<td><input type="button" class="bt" title="q&ocirc;f" onclick="alpha('&#1511;')" value="&#1511;"></td>
+<td><input type="button" class="bt" title="s&acirc;d�" onclick="alpha('&#1510;')" value="&#1510;"></td>
+<td><input type="button" class="bt" title="p&ecirc;" onclick="alpha('&#64324;')" value="&#64324;"></td>
+<td><input type="button" class="bt" title="fe" onclick="alpha('&#1508;')" value="&#1508;"></td>
+<td><input type="button" class="bt" title="`ayn" onclick="alpha('&#1506;')" value="&#1506;"></td>
+<td><input type="button" class="bt" title="s&acirc;mek" onclick="alpha('&#1505;')" value="&#1505;"></td>
+<td><input type="button" class="bt" title="n&ucirc;n" onclick="alpha('&#1504;')" value="&#1504;"></td>
+<td><input type="button" class="bt" title="m&ecirc;m" onclick="alpha('&#1502;')" value="&#1502;"></td>
+<td><input type="button" class="bt" title="lamed" onclick="alpha('&#1500;')" value="&#1500;"></td>
+</tr>
+<tr align="center">
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td><input type="button" class="bt" onclick="alpha('&#1509;')" value="&#1509;"></td>
+<td>&nbsp;</td>
+<td><input type="button" class="bt" onclick="alpha('&#1507;')" value="&#1507;"></td>
+<td>&nbsp;</td>
+<td>&nbsp; </td>
+<td><input type="button" class="bt" onclick="alpha('&#1503;')" value="&#1503;"></td>
+<td><input type="button" class="bt" onclick="alpha('&#1501;')" value="&#1501;"></td>
+<td>&nbsp; </td>
+</tr>
+</table>
+<br>
+<table>
+<tr>
+<td><input type="button" class="bt" onclick="alpha('&#64309;')" value="&#64309;"></td>
+<td><input type="button" class="bt" onclick="alpha('&#64331;')" value="&#64331;"></td>
+<td><input type="button" class="bt" title="dagesh" onclick="alpha('&#1468;')" value="&#1468;"></td>
+<td><input type="button" class="bt" title="qubuts" onclick="alpha('&#1467;')" value="&#1467;"></td>
+<!-- td><input type="button" value="&#1466;" onclick="alpha('&#1466;')" class="bt" title="holam haser"></td -->
+<td><input type="button" class="bt" title="holam" onclick="alpha('&#1465;')" value="&#1465;"></td>
+<td><input type="button" class="bt" title="qamats" onclick="alpha('&#1464;')" value="&#1464;"></td>
+<td><input type="button" class="bt" title="patah" onclick="alpha('&#1463;')" value="&#1463;"></td>
+<td><input type="button" class="bt" title="segol" onclick="alpha('&#1462;')" value="&#1462;"></td>
+<td><input type="button" class="bt" title="tsere" onclick="alpha('&#1461;')" value="&#1461;"></td>
+<td><input type="button" class="bt" title="hiriq" onclick="alpha('&#1460;')" value="&#1460;"></td>
+<td><input type="button" class="bt" title="hataf qamats" onclick="alpha('&#1459;')" value="&#1459;"></td>
+<td><input type="button" class="bt" title="hataf patah" onclick="alpha('&#1458;')" value="&#1458;"></td>
+<td><input type="button" class="bt" title="hataf segol" onclick="alpha('&#1457;')" value="&#1457;"></td>
+<td><input type="button" class="bt" title="sheva" onclick="alpha('&#1456;')" value="&#1456;"></td>
+<td><input type="button" class="bt" title="meteg &amp; siluq" onclick="alpha('&#1469;')" value="&#1469;"></td>
+<td><input type="button" class="bt" title="ole" onclick="alpha('&#1451;')" value="&#1451;"></td>
+<td><input type="button" class="bt" title="zaqef qatan" onclick="alpha('&#1428;')" value="&#1428;"></td>
+<td><input type="button" class="bt" title="atnah" onclick="alpha('&#1425;')" value="&#1425;"></td>
+<!-- td><input type="button" value="&#1455;" onclick="alpha('&#1455;')" class="bt"></td -->
+</tr>
+</table>
+<br>
+<table>
+<tr>
+<td><input type="button" class="bt" title="sof pasuq" onclick="alpha('&#1475;')" value="&#1475;"></td>
+<td><input type="button" class="bt" title="pasuq" onclick="alpha('&#1472;')" value="&#1472;"></td>
+<td><input type="button" class="bt" title="maqaf" onclick="alpha('&#1470;')" value="&#1470;"></td>
+<!-- td><input type="button" value="&#1478;" onclick="alpha('&#1478;')" class="bt" title="nun hakufha"></td -->
+<td><input type="button" class="bt" title="gershayim" onclick="alpha('&#1524;')" value="&#1524;"></td>
+<td><input type="button" class="bt" title="geresh" onclick="alpha('&#1523;')" value="&#1523;"></td>
+<td> &nbsp; &nbsp; </td>
+<td><input type="button" class="bt" title="shekel" onclick="alpha('&#8362;')" value="&#8362;"></td>
+</tr>
+</table>
+<br>
+<br>
+change the font:
+<p>
+<input type="button" class="bf" onClick="document.getElementById('bar').style.fontFamily='Times New Roman';" value="times new roman"> &nbsp; &nbsp;
+<input type="button" class="bf" onClick="document.getElementById('bar').style.fontFamily='Ezra SIL';" value="ezra"> &nbsp; &nbsp;
+<input type="button" class="bf" onClick="document.getElementById('bar').style.fontFamily='Arial';" value="arial"> &nbsp; &nbsp;
+<input type="button" class="bf" onClick="document.getElementById('bar').style.fontFamily='Code2000';" value="code2000"> &nbsp; &nbsp;
+<input type="button" class="bf" onClick="document.getElementById('bar').style.fontFamily='Motek';" value="cursive">
+</form>
+</div>
+<div id="espb"></div>
+<div id="pa"> <b>Instructions</b>:
+<p>To type directly with the computer keyboard:<br>
+<ul>
+<li>Type the capitals: <font color="#0000CC">H</font> for <span class="heb">?</span>, <font color="#0000CC">T</font> for <span class="heb">?</span>, <font color="#0000CC">S</font> for <span class="heb">?</span></li>
+<li> Type the letter <font color="#0000CC">c</font> for the character <span class="heb">?</span> </li>
+<li> Type the letter <font color="#0000CC">a</font> for <span class="heb">?</span> and type <font color="#0000CC">j</font> for <span class="heb">?</span></li>
+<li> Type a space key to form the final characters: ex. <font color="#0000CC">m</font> + [space key] for <span class="heb">?</span></li>
+<li> Type an apostrophe ['] to add the daguesh: ex. <font color="#0000CC">b'</font> for <span class="heb">?</span>
+</ul>
+<br>
+Copy [Ctrl]+[C] &amp; Paste [Ctrl]+[V] <br>
+<br>
+<br>
+<p>Download the font <a href="../clavier/SILEOT.ttf">Ezra SIL</a> for Ancient Hebrew &amp; the font <a href="../clavier/motek.ttf">Motek</a> for the cursive (Modern Hebrew)
+</div>
+<br>
+<br>
+
+</body></html>
