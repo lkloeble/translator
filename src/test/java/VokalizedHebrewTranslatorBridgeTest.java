@@ -184,6 +184,8 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "k@prep%1(prep)=comme",
                 "k56@prep%1(prep)=comme",
                 "k31559@prep%1(prep)=comme",
+                "k31563@prep%1(prep)=comme",
+                "k31564@prep%1(prep)=comme",
                 "k3156369@prep%1(prep)=comme",
                 "k3156469@prep%1(prep)=comme",
                 "ki@prep%1(prep)=car%2(prep)=lorsque%3(prep)=pour que%4(prep)=que",
@@ -220,7 +222,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
 
     private List<String> getVerbs() {
         return Arrays.asList(new String[]{
-                "amr,,[paal],(AIF%leadingrootletter%a*a64@AIP%secondletterroot%m*m63)",
+                "amr,,[paal],(AIF%leadingrootletter%a*a64@AIP%secondletterroot%m*m63@AIP%alternateaccentuation(5:9)%m63*m56@AIP%alternateaccentuation(5:9)%r*r64)",
                 "ba,,[paal2],(AIP%leadingrootletter%b*b30564@AIP%alternateaccentuation(5)%a*a64))",
                 "bra,,[paal],(AIP%leadingrootletter%*b30564@AIP%secondletterroot%r*r64@AIP%secondletterrootexception(5:9)%r*r56",
                 "hiw@IRREGULAR%[AIP]=[,,h64i64h,,,hiw]%[AIF]=[,,ihi,,,,]%[PALFUT]=[,,ihi,,,,]%[AIMP]=[,,,hiw,]",
@@ -288,6 +290,8 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "k@prep()",
                 "k56@prep()",
                 "k31559@prep()",
+                "k31563@prep()",
+                "k31564@prep()",
                 "k3156369@prep()",
                 "k3156469@prep()",
                 "ki@prep()",
@@ -350,7 +354,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
 
     @Test
     public void test_weingreen_chapter_17() {
-        checkInMaps("wein17U1", translatorBridge);
+        checkInMaps("wein17H1", translatorBridge);
         checkInMaps("wein17A1", translatorBridge);
         checkInMaps("wein17A2", translatorBridge);
         checkInMaps("wein17B1", translatorBridge);
@@ -405,7 +409,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
 
     @Test
     public void test_weingreen_chapter_18() {
-        checkInMaps("wein18N1", translatorBridge);
+        checkInMaps("wein18T1", translatorBridge);
         checkInMaps("wein18A1", translatorBridge);
         checkInMaps("wein18A2", translatorBridge);
         checkInMaps("wein18B1", translatorBridge);

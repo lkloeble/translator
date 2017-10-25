@@ -155,7 +155,7 @@ public class HebrewAnalyzer implements Analizer {
                 case 1468://signe sous lettre
                     break;
                 case 1469://signe | sous lettre
-                    sb.append("69");
+                    //sb.append("69");
                     break;
                 case 1470://sorte de minus supérieur
                     sb.append(" ");

@@ -127,7 +127,9 @@ public class HebrewPhraseChanger extends CustomLanguageRulePhraseChanger {
         Phrase withoutMinPreposition = extractLetterFromBeginningOfNoun(withoutLamedPreposition, "m", stopWords, ruleFactory, null);
         Phrase withoutKe56Preposition = extractLetterFromBeginningOfNoun(withoutMinPreposition, "k56", stopWords, ruleFactory, null);
         Phrase withoutKe31559Preposition = extractLetterFromBeginningOfNoun(withoutKe56Preposition, "k31559", stopWords, ruleFactory, null);
-        Phrase withoutKe3156369Preposition = extractLetterFromBeginningOfNoun(withoutKe31559Preposition, "k3156369", stopWords, ruleFactory, null);
+        Phrase withoutKe31563Preposition = extractLetterFromBeginningOfNoun(withoutKe31559Preposition, "k31563", stopWords, ruleFactory, null);
+        Phrase withoutKe31564Preposition = extractLetterFromBeginningOfNoun(withoutKe31563Preposition, "k31564", stopWords, ruleFactory, null);
+        Phrase withoutKe3156369Preposition = extractLetterFromBeginningOfNoun(withoutKe31564Preposition, "k3156369", stopWords, ruleFactory, null);
         Phrase withoutKe3156469Preposition = extractLetterFromBeginningOfNoun(withoutKe3156369Preposition, "k3156469", stopWords, ruleFactory, null);
         Phrase withoutKePreposition = extractLetterFromBeginningOfNoun(withoutKe3156469Preposition, "k", stopWords, ruleFactory, null);
         Phrase withoutBeth30558 = extractLetterFromBeginningOfNoun(withoutKePreposition, "b30558", stopWords, ruleFactory, null);
