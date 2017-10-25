@@ -124,11 +124,12 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "h61ik64l@masc%im",
                 "ihwh@masc%invmasc",
                 "iw331m000@masc%custom(nomplr=imim|cst(nomplr)=imi|cst(nomsg)=iwm&|nomsg=iwm)",
-                "'h51s29862k00056@fem%im-fem",
+                "'hs29862k00056@fem%im-fem",
                 "'h63k63m000@adj%im-ot",
                 "l63i56l64h@fem%invfem",
-                "l6451i56l64h@fem%invfem",
+                "l64i56l64h@fem%invfem",
                 "m62l62k00056@masc%im",
+                "ms29862h@masc%invmasc",
                 "y60ir@fem%custom(nomplr=yrim|cst(nomplr)=yri&|dir(nomsg)=yirh|nomsg=yir)",
                 "y64m000@masc%im",
                 "y64p64r@fem%im-fem",
@@ -152,6 +153,8 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "aw331r@noun!invfem%1(noun)=flamme,feu%2(noun)=lumière",
                 "al65h60im000@noun!custom(nomsg=alhim|cst(nomsg)=alhi&|decim-inwplr=alhinw)%1(noun)=dieu",
                 "a6251r62ts@noun!custom(nomplr=artswt)%1(noun)=pays%2(noun)=terre",
+                "asr@prep%1(prep)=qui",
+                "a59s29862r@prep%1(prep)=qui",
                 "a60s29864h@noun!custom(nomplr=nsim|cst(nomplr)=nsi&)%1(noun)=femme",
                 "b@prep%1(prep)=dans",
                 "b30558@prep%1(prep)=dans",
@@ -174,7 +177,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "hlk@verb!norm%1(noun)=aller",
                 "w@prep%1(prep)=et",
                 "w56@prep%1(prep)=et",
-                "'h51s29862k00056@noun!im-fem%1(noun)=arrêt,pause%2(noun)=sombre,obscur%3(noun)=obscurité",
+                "'hs29862k00056@noun!im-fem%1(noun)=arrêt,pause%2(noun)=sombre,obscur%3(noun)=obscurité",
                 "'h63k63m000@noun!im-ot%1(noun)=sage",
                 "iw331m000@noun!custom(nomplr=imim|cst(nomplr)=imi|cst(nomsg)=iwm&nomsg=iwm)%1(noun)=jour",
                 "ihwh@noun!invmasc%1(noun)=le seigneur%1(noun)=YHVH",
@@ -183,10 +186,12 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "k31559@prep%1(prep)=comme",
                 "k3156369@prep%1(prep)=comme",
                 "k3156469@prep%1(prep)=comme",
+                "ki@prep%1(prep)=car%2(prep)=lorsque%3(prep)=pour que%4(prep)=que",
+                "k31560i@prep%1(prep)=car%2(prep)=lorsque%3(prep)=pour que%4(prep)=que",
                 "l@prep%1(prep)=à",
                 "l56@prep%1(prep)=à",
                 "l63i56l64h@noun!invfem%1(noun)=nuit",
-                "l6451i56l64h@noun!invfem%1(noun)=nuit",
+                "l64i56l64h@noun!invfem%1(noun)=nuit",
                 "la@prep%1(prep)=ne",
                 "l65a@prep%1(prep)=ne",
                 "m@prep%1(prep)=de",
@@ -195,6 +200,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "mn@prep%1(prep)=de",
                 "m60n000@prep%1(prep)=de",
                 "m00060n000@prep%1(prep)=de",
+                "ms29862h@noun!invmasc%1(noun)=moïse",
                 "ntn@verb!norm%1(verb)=donner",
                 "qw331l@noun!mascot%1(noun)=voix",
                 "qra@verb!norm%1(verb)=crier%2(verb)=lire%3(verb)=appeler",
@@ -215,8 +221,8 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs() {
         return Arrays.asList(new String[]{
                 "amr,,[paal],(AIF%leadingrootletter%a*a64@AIP%secondletterroot%m*m63)",
-                "ba,,[paal2],(AIP%leadingrootletter%b*b30564)",
-                "bra,,[paal],(AIP%leadingrootletter%*b30564@AIP%secondletterroot%r*r64@AIP%secondletterrootexception(5:9)%r*r56@AIP%lettertransform(1)%t*t60@AIP%lettertransform(2)%t*t64@AIP%lettertransform(7:8)%t*t62@AIP%lettertransform%t*w*w309)",
+                "ba,,[paal2],(AIP%leadingrootletter%b*b30564@AIP%alternateaccentuation(5)%a*a64))",
+                "bra,,[paal],(AIP%leadingrootletter%*b30564@AIP%secondletterroot%r*r64@AIP%secondletterrootexception(5:9)%r*r56",
                 "hiw@IRREGULAR%[AIP]=[,,h64i64h,,,hiw]%[AIF]=[,,ihi,,,,]%[PALFUT]=[,,ihi,,,,]%[AIMP]=[,,,hiw,]",
                 "hlk,,[paal],(AIP%leadingrootletter%h*h64@AIP%secondletterroot%l*l63@AIP%sofitrootletter%k3*k000@AIP%sofitaccentuedletter%k000*k00056)",
                 "ntn,,[paal],(AIP%leadingrootletter%n*n64@AIP%secondletterroot%t*t63@AIP%sofitrootletter%n3*n000)",
@@ -263,6 +269,8 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
         return Arrays.asList(new String[]{
                 "al@prep()%[eraseFollowingMinus]",
                 "a62l@prep()%[eraseFollowingMinus]",
+                "asr@prep()",
+                "a59s29862r@prep()",
                 "b@prep()",
                 "b30558@prep()",
                 "h@prep()",
@@ -282,6 +290,8 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "k31559@prep()",
                 "k3156369@prep()",
                 "k3156469@prep()",
+                "ki@prep()",
+                "k31560i@prep()",
                 "l@prep()",
                 "l56@prep()",
                 "la@prep()",
@@ -395,7 +405,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
 
     @Test
     public void test_weingreen_chapter_18() {
-        checkInMaps("wein18J2", translatorBridge);
+        checkInMaps("wein18N1", translatorBridge);
         checkInMaps("wein18A1", translatorBridge);
         checkInMaps("wein18A2", translatorBridge);
         checkInMaps("wein18B1", translatorBridge);

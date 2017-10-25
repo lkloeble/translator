@@ -35,7 +35,7 @@ public class HebrewAnalyzer implements Analizer {
     }
 
     private String replaceExpressions(String sentence) {
-        return sentence.replace("hqb \" h", "hqbh").replace("m6251","m62");
+        return sentence.replace("hqb \" h", "hqbh");
     }
 
 
@@ -121,7 +121,7 @@ public class HebrewAnalyzer implements Analizer {
                 case 1448://signe sous lettre
                     break;
                 case 1451://signe < sur lettre
-                    sb.append("51");
+                    //sb.append("51");
                     break;
                 case 1456://signe : sous lettre
                     sb.append("56");
