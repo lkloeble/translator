@@ -169,6 +169,8 @@ public class NounRepository extends Repository {
         for(Noun noun : nounsMap.values()) {
             if(noun.getInitialValue().endsWith(endingPattern)) {
                 nounValues.add(noun.getInitialValue());
+                nounValues.add(unaccentued(noun.getInitialValue()));
+                nounValues.add(unaccentuedWithSofit(noun.getInitialValue()));
             }
         }
         return nounValues;

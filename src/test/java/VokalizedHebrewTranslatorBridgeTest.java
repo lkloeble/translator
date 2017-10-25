@@ -42,7 +42,11 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     }
 
     private List<String> getImElements() {
-        return Arrays.asList(new String[]{"nomsg%sing%masc%"});
+        return Arrays.asList(new String[]{
+                "nomsg%sing%masc%",
+                "decim-h%sing%masc%h",
+                "nomplr%plr%masc%60im000"
+        });
     }
 
     private List<Declension> getDeclensionList() {
@@ -102,9 +106,11 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                         "aller@NORM%[INFINITIVE]=[aller]%[IPR]=[vais,vas,va,allons,allez,vont]%[AIP]=[allai,allas,alla,allions,alliez,allèrent]%[PAP]=[allé]%[PAPR]=[allant]",
                         "appeler@NORM%[INFINITIVE]=[appeler]%[IPR]=[appele,appelles,appele,appelons,appelez,appelent]%[AIP]=[appelai,appelas,appela,appelâmes,appelâtes,appelèrent]%[PAP]=[appelé]%[PII]=[ai été appelé,as été appelé,a été appelé,avons été appelés,avez été appelé,ont été appelés]%[ACP]=[appelerais,appelerais,appelerait,appelerions,appeleriez,appeleraient]%[AIMP]=[appele,appelons,appelez]%[PIP]=[suis appelé,es appelé,est appelé,sommes appelés,êtes appelés,sont appelés]%[PEACIN]=[ai appelé,as appelé,a appelé,avonns appelés,avez appelés,ont appelés]%[PRPARPASS]=[être appelé,qui appelle à,qui appelle à,qui appelle à]%[ARAIPR]=[appelle,appelles,appelle,appellons,appellez,appellent]%[ACAOIN]=[appelai,appelas,appela,appelâmes,appelâtes,appelèrent]%[AIF]=[appelerai,appeleras,appelera,appelerons,appelerez,appeleront]",
                         "creer@NORM%[IPR]=[crée,crées,crée,créons,créez,créent]%[AIP]=[créai,créas,créa,créames,créates,créèrent]%[PAP]=[crée]%[INFINITIVE]=[créer]",
+                        "demeurer@NORM%[IPR]=[demeure,demeures,demeure,demeurons,demeurez,demeurent]%[INFINITIVE]=[demeurer]%[AIP]=[demeurais,demeurais,demeura,demeurâmes,demeurâtes,demeurèrent]%[AIP]=[demeurais,demeurais,demeura,demeurâmes,demeurâtes,demeurèrent]",
                         "dire@NORM%[INFINITIVE]=[dire]%[IPR]=[dis,dis,dit,disons,dîtes,disent]%[AIP]=[dis,dis,dit,dîmes,dîtes,dirent]%[PIP]=[suis dit,es dit,est dit,sommes dits, êtes dits, sont dit]%[AIP]=[x,dis,x,x,dites,x]%[AII]=[disais,disais,disait,disions,disiez,disaient]%[PAPR]=[disant]%[AIPP]=[ai dit,as dit,a dit,avons dit,avez dit,ont dit]%[ACAOIM]=[dis,dis,disons,dites]%[AIF]=[dirai,diras,dira,dirons,direz,diront]%[AIMP]=[-,dis,-,disons,dîtes,-]%[PAP]=[dit]%[ACAOIN]=[dis,dis,dit,dîmes,dîtes,dirent]%[ARAIPR]=[dis,dis,dit,disons,dîtes,disent]%[PAINPRMIPA]=[dire,dit,dite,dit]",
                         "donner@NORM%[INFINITIVE]=[donner]%[IPR]=[donne,donnes,donne,donnons,donnez,donnent]%[AIP]=[donnai,donnas,donna,donnâmes,donnâtes,donnèrent]%[PIP]=[suis donné,es donné,est donné,sommes donnés,êtes donnés,sont donnés]%[AIF]=[donnerai,donneras,donnera,donnerons,donnerez,donneront]%[PIF]=[serai donné,seras donné,sera donné,serons donnés,serez donnés,seront donnés]%[PAP]=[donné]%[AIMP]=[donne,donnez]%[PAPR]=[donnant]%[PALINF]=[donner]%[AIPP]=[ai donné,as donné,a donné,avons donné,avez donné,ont donné]",
                         "etre@IRREGULAR%[INFINITIVE]=[être]%[IPR]=[suis,es,est,sommes,êtes,sont]%[AII]=[étais,étais,était,étions,étiez,étaient]%[AIF]=[serai,seras,sera,serons,serez,seront]%[ASP]=[sois,sois,soit,soyons,soyez,soient]%[ASI]=[étais,étais,était,étions,étiez,étaient]%[AIP]=[fus,fus,fut,fûmes,fûtes,fûrent]%[AIMP]=[sois,soit,soyons,soyez,soient]%[AIPP]=[ai été,as été,a été,avons  été,avez été,ont été]%[PAPR]=[étant]%[ACP]=[serais,serais,serait,serions,seriez,seraient]%[PAP]=[été]%[IAP]=[avoir été]%[ACOPPR]=[serais,serais,serait,serions,seriez,seraient]%[AIFP]=[aurai été,auras été,aura été,aurons été,aurez été,auront été]",
+                        "manger@NORM%[INFINITIVE]=[manger]%[IPR]=[mange,manges,mange,mangeons,mangez,mangent]%[AIP]=[mangeais,mangeais,mangea,mangeâmes,mangeâtes,mangèrent]%[PAP]=[mangé]%[AII]=[mangeais,mangeais,mangeait,mangeions,mangiez,mangeaient]",
                         "venir@NORM%[INFINITIVE]=[venir]%[IPR]=[viens,viens,vient,venons,venez,viennent]%[AIP]=[vins,vins,vint,vînmes,vîntes,vinrent]%[AII]=[venais,venais,venait,venions,veniez,venaient]%[AIF]=[viendrai,viendrais,viendra,viendrons,viendrez,viendront]%[AIMP]=[viens,viens,venez]%[AIPP]=[ai venu,as venu,a venu,avonsvenu,avez venu,ont venus]%[PAPR]=[venant]%[PAP]=[venu]",
                         "voir@NORM%[INFINITIVE]=[voir]%[IPR]=[vois,vois,voit,voyons,voyez,voient]%[AIP]=[vis,vis,vit,vîmes,vîtes,virent]%[PSP]=[sois vu,sois vu,soit vu,soyons vus,soyez vus,soient vus]%[AII]=[voyais,voyais,voyait,voyions,voyiez,voyaient]%[AIF]=[verrai,verras,verra,verrons,verrez,verront]%[PIF]=[serai vu, seras vu,sera vu,serons vus,serez vus,seront vus]%[PII]=[suis vu,es vu,est vu,sommes vus,êtes vus,sont vus]%[AIPP]=[ai vu,as vu,a vu,avons vu,avez vu,ont vu]%[PIF]=[serai vu,seras vu,sera vu,serons vus,serez vus,seront vus]%[PIP]=[suis vu,es vu,est vu,sommes vus,êtes vus,sont vus]%[AIMP]=[vois,vois,vois,voyons,voyez,voyez]%[PAP]=[vu]%[PAPR]=[voyant]%[ACAOIN]=[vis,vis,vit,vîmes,vîtes,virent]%[PAAOIM]=[que sois vu,que sois vu,que soit vu,que soyons vus,que soyez vus,que soient vus]%[AORPASIND]=[fus vu,fus vu,fut vu,fûmes vus,fûtes vus,furent vus]"
                 }
@@ -121,20 +127,24 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "al65h60im000@masc%custom(nomsg=alhim|cst(nomsg)=alhi&|decim-inwplr=alhinw)",
                 "a6251r62ts@fem%custom(nomplr=artswt)",
                 "a60s29864h@fem%custom(nomplr=nsim|cst(nomplr)=nsi&)",
-                "g64dw331l@adj%im",
+                "g64dw331l@adj%im-ot",
                 "d64b64r@masc%im",
                 "h61ik64l@masc%im",
                 "ihwh@masc%invmasc",
                 "iw331m000@masc%custom(nomplr=imim|cst(nomplr)=imi|cst(nomsg)=iwm&|nomsg=iwm)",
+                "i60s29956r64a61l@masc%invmasc",
                 "'hs29862k00056@fem%im-fem",
                 "'h63k63m000@adj%im-ot",
                 "l63i56l64h@fem%invfem",
                 "l64i56l64h@fem%invfem",
                 "m62l62k00056@masc%im",
                 "ms29862h@masc%invmasc",
+                "n64b60ia@masc%im-ot",
                 "y60ir@fem%custom(nomplr=yrim|cst(nomplr)=yri&|dir(nomsg)=yirh|nomsg=yir)",
                 "y64m000@masc%im",
                 "y64p64r@fem%im-fem",
+                "yts@masc%custom(nomsg=yts|cst(nomsg)=ytst&|nomplr=ytsim|cst(nomplr)=ytsi&)",
+                "q64dw331s298@adj%im-ot",
                 "qw331l@masc%mascot",
                 "ra65s298@fem%im",
                 "r63y@adj%im-ot",
@@ -150,6 +160,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "a58d64m64h@noun!custom(nomsg=admh|decim-nw=admtnw)%1(noun)=terre",
                 "a64d64m000@noun!invmasc%1(noun)=homme",
                 "a60is298@noun!custom(nomplr=ansim|cst(nomplr)=ansi&|dechsofit=aish)%1(noun)=homme",
+                "akl@verb!norm%1(verb)=manger",
                 "al@prep%1(prep)=vers",
                 "a62l@prep%1(prep)=vers",
                 "amr@verb!norm%1(verb)=dire",
@@ -163,7 +174,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "b30558@prep%1(prep)=dans",
                 "ba@verb!norm%1(verb)=venir",
                 "bra@verb!norm%1(noun)=creer",
-                "g64dw331l@adj!im%(adj)=grand",
+                "g64dw331l@adj!im-ot%(adj)=grand",
                 "d64b64r@noun!im%1(noun)=chose,acte%2(noun)=parole",
                 "h@prep%1(prep)=le[les,la]",
                 "h59@prep%1(prep)=le[les,la]",
@@ -184,6 +195,8 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "'h63k63m000@noun!im-ot%1(noun)=sage",
                 "iw331m000@noun!custom(nomplr=imim|cst(nomplr)=imi|cst(nomsg)=iwm&nomsg=iwm)%1(noun)=jour",
                 "ihwh@noun!invmasc%1(noun)=le seigneur%1(noun)=YHVH",
+                "isb@verb!norm%1(noun)=demeurer",
+                "i60s29956r64a61l@noun!invmasc%1(noun)=israël",
                 "k@prep%1(prep)=comme",
                 "k56@prep%1(prep)=comme",
                 "k31559@prep%1(prep)=comme",
@@ -193,6 +206,8 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "k3156469@prep%1(prep)=comme",
                 "ki@prep%1(prep)=car%2(prep)=lorsque%3(prep)=pour que%4(prep)=que",
                 "k31560i@prep%1(prep)=car%2(prep)=lorsque%3(prep)=pour que%4(prep)=que",
+                "kl@prep%1(prep)=tout",
+                "k31564l@prep%1(prep)=tout",
                 "l@prep%1(prep)=à",
                 "l56@prep%1(prep)=à",
                 "l63i56l64h@noun!invfem%1(noun)=nuit",
@@ -206,7 +221,9 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "m60n000@prep%1(prep)=de",
                 "m00060n000@prep%1(prep)=de",
                 "ms29862h@noun!invmasc%1(noun)=moïse",
+                "n64b60ia@noun!im-ot%1(noun)=prophète",
                 "ntn@verb!norm%1(verb)=donner",
+                "q64dw331s298@adj!im-ot%1(noun)=saint",
                 "qw331l@noun!mascot%1(noun)=voix",
                 "qra@verb!norm%1(verb)=crier%2(verb)=lire%3(verb)=appeler",
                 "y60ir@noun!custom(nomplr=yrim|cst(nomplr)=yri&dir(nomsg)=yirh|nomsg=yir))%1(noun)=ville",
@@ -214,6 +231,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "y63l@prep%1(prep)=en faveur de%2(prep)=au dessus de%3(noun)=sur",
                 "y64p64r@noun!im-fem%1(noun)=jeune daim%2(noun)=gris,cendré%3(noun)=poussière",
                 "y64m000@noun!im%1(noun)=peuple",
+                "yts@noun!custom(nomsg=yts|cst(nomsg)=ytst&|nomplr=ytsim|cst(nomplr)=ytsi&)%1(noun)=arbre",
                 "ra65s298@noun!im%1(noun)=tête",
                 "rah@verb!norm%1(noun)=apparaitre%2(verb)=voir",
                 "r63y@noun!im-ot%1(noun)=mauvais",
@@ -226,11 +244,13 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
 
     private List<String> getVerbs() {
         return Arrays.asList(new String[]{
+                "akl,,[paal],(AIP%leadingrootletter%*a64@AIP%secondletterroot%k*k64)",
                 "amr,,[paal],(AIF%leadingrootletter%a*a64@AIP%secondletterroot%m*m63@AIP%alternateaccentuation(5:9)%m63*m56@AIP%alternateaccentuation(5:9)%r*r64)",
                 "ba,,[paal2],(AIP%leadingrootletter%b*b30564@AIP%alternateaccentuation(5)%a*a64))",
                 "bra,,[paal],(AIP%leadingrootletter%*b30564@AIP%secondletterroot%r*r64@AIP%secondletterrootexception(5:9)%r*r56",
                 "hiw@IRREGULAR%[AIP]=[,,h64i64h,,,hiw]%[AIF]=[,,ihi,,,,]%[PALFUT]=[,,ihi,,,,]%[AIMP]=[,,,hiw,]",
                 "hlk,,[paal],(AIP%leadingrootletter%h*h64@AIP%secondletterroot%l*l63@AIP%sofitrootletter%k3*k000@AIP%sofitaccentuedletter%k000*k00056)",
+                "isb,,[paal],(AIP%leadingrootletter%i*i64@AIP%secondletterroot%s*s29863)",
                 "ntn,,[paal],(AIP%leadingrootletter%n*n64@AIP%secondletterroot%t*t63@AIP%sofitrootletter%n3*n000)",
                 "qra,,[paal],(AIP%leadingrootletter%q*q64@AIP%secondletterroot%r*r64@AIP%alternateaccentuation%q64*q6469@AIP%alternateaccentuation(5:9)%r64*r56@AIP%alternateaccentuation(5)%a*a64)",
                 "rah,,[paal],(AIP%leadingrootletter%r*r64@AIP%secondletterroot%a*a64)"
@@ -300,6 +320,8 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "k3156469@prep()",
                 "ki@prep()",
                 "k31560i@prep()",
+                "kl@prep()",
+                "k31564l@prep()",
                 "l@prep()",
                 "l56@prep()",
                 "la@prep()",
@@ -465,6 +487,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
 
     @Test
     public void test_weingreen_chapter_20() {
+        checkInMaps("wein20G1", translatorBridge);
         checkInMaps("wein20A1", translatorBridge);
         checkInMaps("wein20A2", translatorBridge);
         checkInMaps("wein20B1", translatorBridge);

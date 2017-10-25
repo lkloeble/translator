@@ -3,6 +3,7 @@ package org.patrologia.translator.linguisticimplementations;
 import org.patrologia.translator.basicelements.*;
 import org.patrologia.translator.rule.RuleFactory;
 import org.patrologia.translator.utils.ExpressionHolder;
+import org.patrologia.translator.utils.StringUtils;
 
 import java.util.Collections;
 import java.util.List;
@@ -20,6 +21,7 @@ public abstract class CustomLanguageRulePhraseChanger {
     protected boolean endsWithPattern(WordContainer wordAtPosition, String patternToFind, List<String> stopWords) {
         String initialValue = wordAtPosition.getInitialValue() != null ? wordAtPosition.getInitialValue() : "";
         if(stopWords.contains(wordAtPosition.getInitialValue().toLowerCase())) return false;
+        if(stopWords.contains(StringUtils.unaccentuate(wordAtPosition.getInitialValue().toLowerCase()))) return false;
         if(wordAtPosition.getInitialValue().length() == patternToFind.length()) return false;
         return initialValue.toLowerCase().endsWith(patternToFind);
     }

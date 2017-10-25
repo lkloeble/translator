@@ -92,7 +92,7 @@ public class HebrewPhraseChanger extends CustomLanguageRulePhraseChanger {
         stopWords = verbRepository.getAllFormsForRoot(stopWords,null);
 
         stopNounsWithEndingHe.add("h");
-        stopNounsWithEndingHe.addAll(nounRepository.getNounsRootValueForEndingWith("h"));
+        stopNounsWithEndingHe.addAll(nounRepository.getNounsValueForEndingWith("h"));
         stopNounsWithEndingHe.addAll(verbRepository.getValuesEndingWith("h"));
         stopNounsWithEndingHe.addAll(prepositionRepository.getValuesEndingWith("h"));
 

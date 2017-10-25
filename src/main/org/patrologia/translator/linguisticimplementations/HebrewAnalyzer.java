@@ -251,6 +251,9 @@ public class HebrewAnalyzer implements Analizer {
                 case 64298://shin with right point
                     sb.append("s298");
                     break;
+                case 64299://shin with left point
+                    sb.append("s299");
+                    break;
                 case 64305://b with central point
                     sb.append("b305");
                     break;
