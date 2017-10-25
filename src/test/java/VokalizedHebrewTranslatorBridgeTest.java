@@ -15,6 +15,8 @@ import org.patrologia.translator.utils.Analizer;
 
 import java.util.*;
 
+import static junit.framework.TestCase.assertEquals;
+
 /**
  * Created by lkloeble on 28/09/2017.
  */
@@ -138,6 +140,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "r63y@adj%im-ot",
                 "s29856mw309a61l@masc%invmasc",
                 "s29864m6351i60m000@masc%invmasc",
+                "sw309s@masc%im-ot",
                 "xw331b@noun%im-ot"
         });
     }
@@ -216,6 +219,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "r63y@noun!im-ot%1(noun)=mauvais",
                 "s29856mw309a61l@noun!invmasc%1(noun)=samuel",
                 "s29864m6351i60m000@noun!invmasc%1(noun)=ciels",
+                "sw309s@noun!im-ot%1(noun)=cheval",
                 "xw331b@noun!im-ot%1(noun)=bon"
         });
     }
@@ -452,6 +456,57 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("wein18T2", translatorBridge);
         checkInMaps("wein18U1", translatorBridge);
         checkInMaps("wein18U2", translatorBridge);
+    }
+
+    @Test
+    public void test_weingreen_chapter_19() {
+        assertEquals(2, 2);
+    }
+
+    @Test
+    public void test_weingreen_chapter_20() {
+        checkInMaps("wein20A1", translatorBridge);
+        checkInMaps("wein20A2", translatorBridge);
+        checkInMaps("wein20B1", translatorBridge);
+        checkInMaps("wein20B2", translatorBridge);
+        checkInMaps("wein20C1", translatorBridge);
+        checkInMaps("wein20C2", translatorBridge);
+        checkInMaps("wein20D1", translatorBridge);
+        checkInMaps("wein20D2", translatorBridge);
+        checkInMaps("wein20E1", translatorBridge);
+        checkInMaps("wein20E2", translatorBridge);
+        checkInMaps("wein20F1", translatorBridge);
+        checkInMaps("wein20F2", translatorBridge);
+        checkInMaps("wein20G1", translatorBridge);
+        checkInMaps("wein20G2", translatorBridge);
+        checkInMaps("wein20H1", translatorBridge);
+        checkInMaps("wein20H2", translatorBridge);
+        checkInMaps("wein20I1", translatorBridge);
+        checkInMaps("wein20I2", translatorBridge);
+        checkInMaps("wein20J1", translatorBridge);
+        checkInMaps("wein20J2", translatorBridge);
+        checkInMaps("wein20K1", translatorBridge);
+        checkInMaps("wein20K2", translatorBridge);
+        checkInMaps("wein20L1", translatorBridge);
+        checkInMaps("wein20L2", translatorBridge);
+        checkInMaps("wein20M1", translatorBridge);
+        checkInMaps("wein20M2", translatorBridge);
+        checkInMaps("wein20N1", translatorBridge);
+        checkInMaps("wein20N2", translatorBridge);
+        checkInMaps("wein20O1", translatorBridge);
+        checkInMaps("wein20O2", translatorBridge);
+        checkInMaps("wein20P1", translatorBridge);
+        checkInMaps("wein20P2", translatorBridge);
+        checkInMaps("wein20Q1", translatorBridge);
+        checkInMaps("wein20Q2", translatorBridge);
+        checkInMaps("wein20R1", translatorBridge);
+        checkInMaps("wein20R2", translatorBridge);
+        checkInMaps("wein20S1", translatorBridge);
+        checkInMaps("wein20S2", translatorBridge);
+        checkInMaps("wein20T1", translatorBridge);
+        checkInMaps("wein20T2", translatorBridge);
+        checkInMaps("wein20U1", translatorBridge);
+        checkInMaps("wein20U2", translatorBridge);
     }
 
 }
