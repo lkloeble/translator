@@ -33,7 +33,11 @@ public class FormRepository extends Repository {
         if(formCorrespondances.get(form) != null) {
            return formCorrespondances.get(form).getValue();
         }
-        Form formUpdated = formCorrespondances.get(form.updateToDefaultPreferedTranslation());
+        Form formUpdated = formCorrespondances.get(form.updateToUnaccentued());
+        if(formUpdated != null) {
+            return formUpdated.getValue();
+        }
+        formUpdated = formCorrespondances.get(form.updateToDefaultPreferedTranslation());
         if(formUpdated != null) {
             return formUpdated.getValue();
         }

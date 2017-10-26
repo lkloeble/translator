@@ -10,6 +10,7 @@ public class Form {
     private WordType type;
     private String declension;
     private int preferedTranslation;
+    private Repository repository = new Repository();
 
     public Form(String value, String originValue, WordType type, String declension, int preferedTranslation) {
         this.value = value;
@@ -76,5 +77,9 @@ public class Form {
 
     public Form updateToAvoidNounAndVerbConfusion() {
         return new Form(value,value,type,declension,1);
+    }
+
+    public Form updateToUnaccentued() {
+        return new Form(repository.unaccentuedWithSofit(value),value,type,declension,1);
     }
 }

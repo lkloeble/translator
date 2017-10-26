@@ -32,15 +32,23 @@ public class AlternateAccentuation extends TranslationRule {
                 String alternateValue = modifyValue(conjugationPart.getValue());
                 ConjugationPart alternateConjugationPart = new ConjugationPart(conjugationPart.getConjugationPosition(), alternateValue, conjugationPart.getUnaccentuedValue(), conjugationPart.getPositionInDefinition());
                 modifiedList.add(alternateConjugationPart);
+                if(isAllowedForAnyPosition()) {
+                    modifiedList.add(conjugationPart);
+                }
+            } else {
+                modifiedList.add(conjugationPart);
             }
-            modifiedList.add(conjugationPart);
         }
         return modifiedList;
     }
 
+    private boolean isAllowedForAnyPosition() {
+        return indices.size() == 0;
+    }
+
     private boolean isPositionAllowedForChange(ConjugationPart conjugationPart) {
         if(indices.size() == 0) return true;
-        return indices.contains(conjugationPart.getPositionInDefinition()+1);
+        return indices.contains(conjugationPart.getPositionInDefinition());
     }
 
     private String modifyValue(String value) {
@@ -53,7 +61,7 @@ public class AlternateAccentuation extends TranslationRule {
 
     @Override
     public String toString() {
-        return "AlternateAccentuation{" + conjugationName +  " " + ruleParameters + "}";
+        return "AlternateAccentuation{" + conjugationName +  " " + ruleParameters + " " + indices + "}";
     }
 
 }

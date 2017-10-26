@@ -181,6 +181,8 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "b30564@prep%1(prep)=dans",
                 "ba@verb!norm%1(verb)=venir",
                 "bra@verb!norm%1(noun)=creer",
+                "gm000@prep%1(prep)aussi%2(prep)=même%3(prep)=encore",
+                "g63m000@prep%1(prep)aussi%2(prep)=même%3(prep)=encore",
                 "g64dw331l@adj!im-ot%(adj)=grand",
                 "g64n000@noun!im%1(noun)=jardin",
                 "d64b64r@noun!im%1(noun)=chose,acte%2(noun)=parole",
@@ -256,15 +258,15 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
 
     private List<String> getVerbs() {
         return Arrays.asList(new String[]{
-                "akl,,[paal],(AIP%leadingrootletter%*a64@AIP%secondletterroot%k*k64)",
+                "akl,,[paal],(AIP%leadingrootletter%a*a64@AIP%secondletterroot%k*k64)",
                 "amr,,[paal],(AIF%leadingrootletter%a*a64@AIP%secondletterroot%m*m63@AIP%alternateaccentuation(5:9)%m63*m56@AIP%alternateaccentuation(5:9)%r*r64)",
                 "ba,,[paal2],(AIP%leadingrootletter%b*b30564@AIP%alternateaccentuation(5)%a*a64))",
                 "bra,,[paal],(AIP%leadingrootletter%*b30564@AIP%secondletterroot%r*r64@AIP%secondletterrootexception(5:9)%r*r56",
                 "hiw@IRREGULAR%[AIP]=[,,h64i64h,,,h64iw309]%[AIF]=[,,ihi,,,,]%[PALFUT]=[,,ihi,,,,]%[AIMP]=[,,,hiw,]",
                 "hlk,,[paal],(AIP%leadingrootletter%h*h64@AIP%secondletterroot%l*l63@AIP%sofitrootletter%k3*k000@AIP%sofitaccentuedletter%k000*k00056)",
                 "isb,,[paal],(AIP%leadingrootletter%i*i64@AIP%secondletterroot%s*s29863@AIP%alternateaccentuation(5:9)%s29863*s29856@AIP%alternateaccentuation(5)%b*b64)",
-                "lq'h,,[paal],(AIP%leadingrootletter%l*l64@AIP%secondletterroot%q*q63)",
-                "ntn,,[paal],(AIP%leadingrootletter%n*n64@AIP%secondletterroot%t*t63@AIP%sofitrootletter%n3*n000)",
+                "lq'h,,[paal],(AIP%leadingrootletter%l*l64@AIP%secondletterroot%q*q63@AIP%alternateaccentuation(5:9)%q63*q56@AIP%alternateaccentuation(5)%'h*'h64)",
+                "ntn,,[paal],(AIP%leadingrootletter%n*n64@AIP%secondletterroot%t*t63@AIP%sofitrootletter%n3*n000@AIP%alternateaccentuation(5:9)%t63*t56@AIP%alternateaccentuation(5)%56n*56n64)",
                 "qra,,[paal],(AIP%leadingrootletter%q*q64@AIP%secondletterroot%r*r64@AIP%alternateaccentuation%q64*q6469@AIP%alternateaccentuation(5:9)%r64*r56@AIP%alternateaccentuation(5)%a*a64)",
                 "rah,,[paal],(AIP%leadingrootletter%r*r64@AIP%secondletterroot%a*a64)"
         });
@@ -313,6 +315,8 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "b@prep()",
                 "b30558@prep()",
                 "b30564@prep()",
+                "gm000@prep()",
+                "g63m000@prep()",
                 "h@prep()",
                 "h59@prep()",
                 "h6269@prep()",
@@ -397,7 +401,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
 
     @Test
     public void test_weingreen_chapter_17() {
-        checkInMaps("wein17N1", translatorBridge);
+        checkInMaps("wein17J1", translatorBridge);
         checkInMaps("wein17A1", translatorBridge);
         checkInMaps("wein17A2", translatorBridge);
         checkInMaps("wein17B1", translatorBridge);
@@ -452,7 +456,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
 
     @Test
     public void test_weingreen_chapter_18() {
-        checkInMaps("wein18D1", translatorBridge);
+        checkInMaps("wein18I1", translatorBridge);
         checkInMaps("wein18A1", translatorBridge);
         checkInMaps("wein18A2", translatorBridge);
         checkInMaps("wein18B1", translatorBridge);
@@ -504,7 +508,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
 
     @Test
     public void test_weingreen_chapter_20() {
-        checkInMaps("wein20J2", translatorBridge);
+        checkInMaps("wein20K1", translatorBridge);
         checkInMaps("wein20A1", translatorBridge);
         checkInMaps("wein20A2", translatorBridge);
         checkInMaps("wein20B1", translatorBridge);

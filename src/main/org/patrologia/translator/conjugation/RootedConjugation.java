@@ -24,7 +24,7 @@ public class RootedConjugation {
         List<ConjugationPart> conjugationPartList = new ArrayList<>();
         String[] valueTab = conjugationValues.split(",");
         if(valueTab.length == 0) return Collections.EMPTY_LIST;
-        int positionInDefinition = 0;
+        int positionInDefinition = 1;
         for(int i=0;i<valueTab.length;i++) {
             if(valueTab[i].contains("|")) {
                 String[] allValuesForIndice = valueTab[i].split("\\|");
