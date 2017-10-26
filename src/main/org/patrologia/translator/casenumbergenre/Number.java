@@ -20,11 +20,14 @@ public enum Number {
     }
 
     public static Number strValueOf(String number) {
-        if("sing".equals(number)) {
+        if("sing".equals(number) || "sg".equals(number)) {
             return SINGULAR;
         } else if("plr".equals(number)) {
             return PLURAL;
         }
+        if(number.contains("plr")) return PLURAL;
+        if(number.contains("sg")) return SINGULAR;
+        if(number.equals("im-nw")) return PLURAL;
         return UNKNOWN;
     }
 

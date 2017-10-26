@@ -50,8 +50,8 @@ public class NounRepository extends Repository {
         String[] nameForms = definition.split("@");
         String root = nameForms[0];
         rootSet.add(root);
-        if(!root.equals(unaccentued(root))) {
-            rootSet.add(unaccentued(root));
+        if(!root.equals(unaccentuedWithSofit(root))) {
+            rootSet.add(unaccentuedWithSofit(root));
         }
         String[] forms = nameForms[1].split("%");
         Gender genderOrigin = Gender.getGenderByCode(forms[0]);
@@ -75,7 +75,7 @@ public class NounRepository extends Repository {
             if(exceptionsForms.containsKey(caseNumber)) {
                 construction = exceptionsForms.get(caseNumber);
             }
-            String unaccentuedConstruction = unaccentued(construction);
+            String unaccentuedConstruction = unaccentuedWithSofit(construction);
             if(!nounsMap.containsKey(construction, declensionPattern, gender)) {
                 Noun noun = new Noun(language, construction, root, Collections.singletonList(caseNumber), gender, declensionPattern, declensionPattern, specificRules);
                 if(genderOrigin.equals(new Gender(Gender.ADJECTIVE))) {

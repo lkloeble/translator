@@ -11,6 +11,7 @@ public class NounMap {
 
     private HashMap<PairConstructionGender, Noun> internalMap = new HashMap<PairConstructionGender, Noun>();
     private Map<String, Set<String>> declensionsForConstructions = new HashMap<>();
+    private Repository repository = new Repository();
 
     public Noun get(String construction, String declension, Gender gender) {
         return internalMap.get(new PairConstructionGender(construction, declension,gender));
@@ -44,16 +45,11 @@ public class NounMap {
         addNounByGenderAndContruction(construction, declensions, new Gender(Gender.FEMININE), nouns);
         addNounByGenderAndContruction(construction, declensions, new Gender(Gender.NEUTRAL), nouns);
         addNounByGenderAndContruction(construction, declensions, new Gender(Gender.ADJECTIVE), nouns);
-        return nouns.size() == 0  && !construction.equals(unaccentued(construction)) ? get(unaccentued(construction)) : nouns;
+        return nouns.size() == 0  && !construction.equals(unaccentuedWithSofit(construction)) ? get(unaccentuedWithSofit(construction)) : nouns;
     }
 
-    private String unaccentued(String value) {
-        char[] letters = value.toCharArray();
-        StringBuilder sb = new StringBuilder();
-        for(char c : letters) {
-            if(c >= 'a') sb.append(c);
-        }
-        return sb.toString();
+    private String unaccentuedWithSofit(String value) {
+        return repository.unaccentuedWithSofit(value);
     }
 
     private void addNounByGenderAndContruction(String construction, Set<String> declensions, Gender gender, Collection<Noun> nouns) {

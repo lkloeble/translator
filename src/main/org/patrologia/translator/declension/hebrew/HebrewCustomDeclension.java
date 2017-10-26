@@ -27,29 +27,27 @@ public class HebrewCustomDeclension extends Declension {
         for(String customValue : allCustomValues) {
             String[] keyValue = customValue.split("=");
             String caseKey = keyValue[0].substring(0,3);
-            String differentier = keyValue[0].length() > 3 ? keyValue[0].substring(3) : null;
-            CaseNumberGenre caseNumberGenre = getCaseNumberGenre(caseKey, differentier);
+            String differentier = keyValue[0].substring(3);
+            Number number = keyValue[0].length() > 3 ? Number.strValueOf(differentier) : Number.SINGULAR;
+            CaseNumberGenre caseNumberGenre = getCaseNumberGenre(caseKey, number, differentier);
             allEndings.put(caseNumberGenre, keyValue[1]);
         }
-        allEndings.put(getCaseNumberGenre("roo", null), root);
     }
 
-    private CaseNumberGenre getCaseNumberGenre(String cnb, String differentier) {
+    private CaseNumberGenre getCaseNumberGenre(String cnb, Number number, String differentier) {
         switch(cnb) {
             case "plr"://plural nominative standard
-                return new CaseNumberGenre(hebrewCaseFactory.getCaseByStringPattern("nom",differentier), Number.PLURAL, gender);
+                return new CaseNumberGenre(hebrewCaseFactory.getCaseByStringPattern("nom",differentier), number, gender);
             case "cst":// constructed state
-                return new CaseNumberGenre(hebrewCaseFactory.getCaseByStringPattern("cst",differentier),Number.PLURAL, gender);
+                return new CaseNumberGenre(hebrewCaseFactory.getCaseByStringPattern("cst",differentier),number, gender);
             case "gen":// gen
-                return new CaseNumberGenre(hebrewCaseFactory.getCaseByStringPattern("gen",differentier),Number.PLURAL, gender);
+                return new CaseNumberGenre(hebrewCaseFactory.getCaseByStringPattern("gen",differentier),number, gender);
             case "nom"://plural nominative standard
-                return new CaseNumberGenre(hebrewCaseFactory.getCaseByStringPattern("nom",differentier), Number.PLURAL, gender);
-            case "roo"://singular nominative standard, aka root itself
-                return new CaseNumberGenre(hebrewCaseFactory.getCaseByStringPattern("nom",differentier), Number.SINGULAR, gender);
+                return new CaseNumberGenre(hebrewCaseFactory.getCaseByStringPattern("nom",differentier), number, gender);
             case "dec"://declined
-                return new CaseNumberGenre(hebrewCaseFactory.getCaseByStringPattern("dec", differentier), Number.SINGULAR, gender);
+                return new CaseNumberGenre(hebrewCaseFactory.getCaseByStringPattern("dec", differentier), number, gender);
             case "dir" :
-                return new CaseNumberGenre(hebrewCaseFactory.getCaseByStringPattern("dir", differentier), Number.SINGULAR, gender);
+                return new CaseNumberGenre(hebrewCaseFactory.getCaseByStringPattern("dir", differentier), number, gender);
 
         }
         return null;

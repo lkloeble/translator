@@ -17,7 +17,7 @@ public class Repository {
         if(sofitLetters.contains(lastLetter(unaccentued(initialValue)))) {
             return unaccentued(initialValue) + SOFIT_END;
         }
-        return initialValue;
+        return unaccentued(initialValue);
     }
 
     protected String unaccentued(String value) {
