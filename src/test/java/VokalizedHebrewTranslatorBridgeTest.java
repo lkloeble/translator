@@ -258,7 +258,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
 
     private List<String> getVerbs() {
         return Arrays.asList(new String[]{
-                "akl,,[paal],(AIP%leadingrootletter%a*a64@AIP%secondletterroot%k*k64)",
+                "akl,,[paal],(AIP%leadingrootletter%a*a64@AIP%secondletterroot%k*k64@AIP%alternateaccentuation(5:9)%k64*k56)",
                 "amr,,[paal],(AIF%leadingrootletter%a*a64@AIP%secondletterroot%m*m63@AIP%alternateaccentuation(5:9)%m63*m56@AIP%alternateaccentuation(5:9)%r*r64)",
                 "ba,,[paal2],(AIP%leadingrootletter%b*b30564@AIP%alternateaccentuation(5)%a*a64))",
                 "bra,,[paal],(AIP%leadingrootletter%*b30564@AIP%secondletterroot%r*r64@AIP%secondletterrootexception(5:9)%r*r56",

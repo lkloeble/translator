@@ -135,6 +135,7 @@ public abstract class LanguageToFrench implements TranslatorRepository {
             TranslationInformationBean construction = getTranslationbean(word, frenchRoot);
             if(construction == null) {
                 System.out.println(word + " " + frenchRoot + " : pas de construction trouvée");
+                return "XXX";
             }
             Set<String> constructionNames = construction.getConstructionName(toTranslate, getLanguageSelector(), verb);
             Map<String, Integer> formPositionByConstructionName = construction.getFormPosition(constructionNames, toTranslate, (Verb)word);
@@ -194,6 +195,10 @@ public abstract class LanguageToFrench implements TranslatorRepository {
 
     private TranslationInformationBean getTranslationbean(Word word, String frenchRoot) {
         List<TranslationInformationBean> translationInformationBeans = originLanguageVerbFormConstruction.get(frenchRoot);
+        if(translationInformationBeans == null) {
+            System.out.println("verbe à compléter " + word);
+            return null;
+        }
         if(translationInformationBeans.size() == 1) return translationInformationBeans.get(0);
         for(TranslationInformationBean translationInformationBean : translationInformationBeans)  {
             if(translationInformationBean.hasRoot(word)) {

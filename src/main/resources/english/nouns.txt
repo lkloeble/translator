@@ -103,6 +103,7 @@ cain@masc%invmasc
 calor@fem%endy
 cambridge@neut%invmasc
 camera@fem%normfem
+cannot@neut%invmasc
 canon@neut%normmasc
 car@neut%normmasc
 cardiff@neut%invmasc
@@ -161,6 +162,7 @@ concert@neut%normmasc
 concord@neut%invmasc
 condition@neut%normmasc
 congratulation@neut%normmasc
+conjecture@neut%normmasc
 conscious@adj%invmasc
 consequence@fem%normfem
 conservative@adj%normmasc
@@ -495,6 +497,7 @@ matter@neut%normmasc
 matthew@neut%invmasc
 matthat@neut%invmasc
 mean@neut%normmasc
+meaning@neut%normmasc
 medieval@adj%normmasc
 mediterranean@adj%normmasc
 member@masc%normmasc
@@ -798,6 +801,7 @@ theater@neut%custom(plr=theatres)
 theologically@neut%invmasc
 thing@neut%normmasc
 third@neut%invmasc
+thirdly@neut%invmasc
 thirty@neut%invmasc
 thirsty@adj%invmasc
 thistle@neut%normmasc

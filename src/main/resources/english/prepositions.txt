@@ -140,6 +140,7 @@ previously@prep()
 probably@prep()
 properly@prep()
 rather@prep()
+scarce@prep()
 she@prep()%[electPersonInFollowingVerb(2)]
 since@prep()
 so@prep()%[soManyFinder]
@@ -204,5 +205,6 @@ without@prep()
 who@prep()
 whose@prep()
 why@prep()
+yea@prep()
 yet@prep()
 you@prep()%[electPersonInFollowingVerb(1)]

@@ -910,7 +910,12 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_lightfoot_chapter_2() {
         checkInMaps("lightfoot_ch2A", translatorBridge);
-        checkInMaps("lightfoot_ch2B", translatorBridge);
+        checkInMaps("lightfoot_ch2B1", translatorBridge);
+        checkInMaps("lightfoot_ch2B2", translatorBridge);
+        checkInMaps("lightfoot_ch2B3", translatorBridge);
+        checkInMaps("lightfoot_ch2B4", translatorBridge);
+        checkInMaps("lightfoot_ch2B5", translatorBridge);
+        checkInMaps("lightfoot_ch2B6", translatorBridge);
         checkInMaps("lightfoot_ch2C", translatorBridge);
         checkInMaps("lightfoot_ch2D", translatorBridge);
         checkInMaps("lightfoot_ch2E", translatorBridge);
