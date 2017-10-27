@@ -109,42 +109,6 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
 
 
     @Test
-    public void test_weingreen_chapter_21() {
-        assertEquals(2, 2);
-    }
-
-    @Test
-    public void test_weingreen_chapter_22() {
-        checkInMaps("wein22A", translatorBridge);
-        checkInMaps("wein22B", translatorBridge);
-        checkInMaps("wein22C", translatorBridge);
-        checkInMaps("wein22D", translatorBridge);
-        checkInMaps("wein22E", translatorBridge);
-        checkInMaps("wein22F", translatorBridge);
-        checkInMaps("wein22G", translatorBridge);
-        checkInMaps("wein22H", translatorBridge);
-        checkInMaps("wein22I", translatorBridge);
-        checkInMaps("wein22J", translatorBridge);
-        checkInMaps("wein22K", translatorBridge);
-        checkInMaps("wein22L", translatorBridge);
-        checkInMaps("wein22M", translatorBridge);
-        checkInMaps("wein22N", translatorBridge);
-        checkInMaps("wein22O", translatorBridge);
-        checkInMaps("wein22P", translatorBridge);
-        checkInMaps("wein22Q", translatorBridge);
-        checkInMaps("wein22R", translatorBridge);
-        checkInMaps("wein22S", translatorBridge);
-        checkInMaps("wein22T", translatorBridge);
-        checkInMaps("wein22U", translatorBridge);
-        checkInMaps("wein22V", translatorBridge);
-        checkInMaps("wein22W", translatorBridge);
-        checkInMaps("wein22X", translatorBridge);
-        checkInMaps("wein22Y", translatorBridge);
-        checkInMaps("wein22Z", translatorBridge);
-        checkInMaps("wein22A1", translatorBridge);
-    }
-
-    @Test
     public void test_weingreen_chapter_23() {
         assertEquals(2, 2);
     }
