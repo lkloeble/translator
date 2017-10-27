@@ -146,7 +146,7 @@ ruh,en,[leben],(PAP*ruht*geruht*0)
 ruhr,en,[leben]
 sag,en,[leben],(AIP*sag*sagt*0@PAP*sa*gesa*0)
 samm,eln,[sammeln],(PAP*sam*gesam*0)
-schaff,en,[rufen],(AIP*schaff*schuf*0)
+schaff,en,[rufen],(AIP*schaff*schuf*0@PAP*sch*gesch*0)
 schick,en,[leben]
 scheid,en,[rufen],(AIP*scheid*schied*0)
 schein,en,[rufen],(AIP*schein*schien*0)
@@ -208,7 +208,7 @@ vorstell,en,[leben]
 wag,en,[leben]
 web,en,[leben]
 weggeh,en,[rufen],(AIP*weggeh*wegging*0)
-werd,en,[werden],(AIP*werd*wurd*0)
+werd,en,[werden],(AIP*werd*wurd*0@PAP*werden*geworden*0)
 werf,en,[leben],(IPR12*wer*wir*0)
 widm,en,[mochten],(PAP*wid*gewid*0)
 woll,en,[wollen],(IPR012*woll*will*0@AII*will*woll*0)

@@ -29,3 +29,5 @@ reis%reis.txt
 phanomen%phanomen.txt
 bose%bose.txt
 bastard%bastard.txt
+wille%wille.txt
+schmerz%schmerz.txt

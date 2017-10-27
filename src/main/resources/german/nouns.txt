@@ -16,6 +16,7 @@ alpen@fem%inv
 alt@adj%ausreichend
 altest@adj%ausreichend
 amerikanisch@adj%ausreichend
+anarchisch@adj%ausreichend
 angeblich@adj%ausreichend
 ander@adj%ausreichend
 andre@adj%masc
@@ -98,6 +99,7 @@ birne@fem%flasche
 bisherig@adj%ausreichend
 blick@masc%ort
 blume@fem%flasche
+boden@masc%arbeiter
 bodensee@neut%inv
 bose@neut%bose
 brasilianisch@adj%ausreichend
@@ -177,8 +179,10 @@ erdgeschoss@masc%inv
 erfreulich@adj%ausreichend
 erkenntnis@fem%erkenntnis
 erklarung@fem%meinfem
+erkrankung@fem%meinfem
 erlauterung@fem%meinfem
 ermudet@adj%ausreichend
+ermudung@fem%meinfem
 erste@neut%masc
 esra@neut%inv
 esras@neut%inv
@@ -430,6 +434,7 @@ limonade@neut%inv
 literatur@neut%inv
 lk@neut%inv
 logisch@adj%ausreichend
+losend@adj%ausreichend
 lukas@masc%inv
 magazin@masc%norm
 mal@neut%meer
@@ -479,7 +484,7 @@ multikulturell@adj%ausreichend
 musee@fem%flasche
 museum@neut%zeichen
 musik@fem%inv
-mut@masc%inv[nomsg:mutes]
+mut@masc%inv
 mutter@fem%inv
 mythus@neut%inv
 nachdrucklich@adj%ausreichend
@@ -607,6 +612,7 @@ schlaf@masc%ort
 schlecht@adj%ausreichend
 schluss@neut%norm
 schlussel@neut%inv
+schmerz@masc%schmerz
 schon@adj%inv
 schonst@adj%ausreichend
 schriften@fem%inv
@@ -779,6 +785,7 @@ wichtigst@adj%ausreichend
 widrig@adj%ausreichend
 wiederholung@fem%meinfem
 wien@neut%inv
+wille@fem%wille
 winkel@masc%arbeiter
 wirklichkeit@fem%meinfem
 wirtschaft@fem%inv

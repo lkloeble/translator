@@ -1,0 +1,8 @@
+nom%sing%masc%
+nom%plr%masc%en
+gen%sing%masc%es
+gen%plr%masc%en
+dat%sing%masc%e
+dat%plr%masc%en
+acc%sing%masc%
+acc%plr%masc%en

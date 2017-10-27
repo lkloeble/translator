@@ -63,6 +63,7 @@ dort@prep()
 du@prep()%!article!
 durch@prep()
 ebenfalls@prep()
+ebenso@prep()
 eilends@prep()
 ein@prep()%[verbLeadingPreposition]
 einpaar@prep()
@@ -72,6 +73,7 @@ es@prep()[esGibtReplace,esBeforeVerb,gibtEsReplace]
 esgibt@prep()
 etwas@prep()
 euch@prep()
+eure@prep()
 eurer@prep()
 falls@prep()
 folglich@prep()
@@ -93,6 +95,7 @@ hervor@prep()
 hier@prep()
 hinauf@prep()
 hindurch@prep()
+hinter@prep()
 ich@prep()%[electPersonInFollowingVerb(0)]%!article!
 ihm@prep()
 ihn@prep()
