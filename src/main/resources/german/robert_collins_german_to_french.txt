@@ -41,6 +41,7 @@ anruf@verb!norm%1(verb)=appeler
 anrufung@noun!meinfem%1(noun)=invocation%2(noun)=appel
 anschauung@noun!meinfem%1(noun)=intution%2(noun)=opinion
 anschein@noun!arbeiter%1(noun)=apparence
+ansicht@noun!meinfem%1(noun)=opinion
 antwort@noun!meinfem%1(noun)=réponse
 anzuglich@adj!ausreichend%1(adj)=suggestive
 anzuzweif@verb!norm%1(vern)=douter
@@ -358,6 +359,7 @@ feststellung@noun!meinfem%1(noun)=détermination
 figaro@noun!inv%1(noun)=figaro
 finanzierung@noun!meinfem%1(noun)=financement
 find@verb!norm%1(verb)=trouver
+findling@noun!bastard%1(noun)=enfant errant
 finster@noun!inv%1(noun)=obscurité
 finsternis@noun!inv%1(noun)=ténèbre
 fisch@noun!angst%1(noun)=poisson
@@ -460,6 +462,7 @@ gewesen@noun!inv%1(noun)=été
 gewinn@verb!norm%1(verb)=gagner
 gewohnlich@prep%1(prep)=d'habitude
 gewurm@noun!inv%1(noun)=chose rampante
+gibeonit@adj!ausreichend%1(adj)=gabaonite
 glaub@verb!norm%1(verb)=croire
 gleich@adj!ausreichend%1(adj)=identique%(adj)=égal
 gleichzeitig@adj!ausreichend%1(adj)=simultané
@@ -495,6 +498,7 @@ haben@verb!irrg%1(verb)=avoir
 hebraisch@adj!ausreichend%1(adj)=hébreu
 heer@noun!meer%1(noun)=armée
 heilig@verb!norm%1(verb)=justifier%2(verb)=sanctifier
+heiligtum@noun!heiligtum%1(noun)=sanctuaire
 heim@noun!meer%1(noun)=asile%2(noun)=hôtel%3(noun)=maison
 heiss@verb!norm%1(verb)=appeler%2(verb)=signifier%3(verb)=nommer
 heiterkeit@noun!norm%1(noun)=joie
@@ -525,6 +529,7 @@ hoh@adj!ausreichend%1(adj)=haut
 hoher@adj!ausreichend%1(adj)=plus haut
 hochst@adj!ausreichend%1(adj)=le plus haut
 hollander@noun!arbeiter%1(noun)=hollandais
+holz@noun!holz%1(noun)=bois
 hor@verb!norm%1(noun)=entendre
 horn@noun!ort%1(noun)=corne%2(noun)=trompe
 hotel@noun!inv%1(noun)=hôtel
@@ -571,6 +576,7 @@ jahr@noun!jahrzehnt%1(noun)=année
 jahrig@noun!ausreichend%1(noun)=année
 jahrzehnt@noun!jahrzehnt%1(noun)=décade%2(noun)=décennie
 januar@noun!inv%1(noun)=janvier
+jeb@noun!inv%1(noun)=yev(amoth)
 japanisch@adj!ausreichend%1(adj)=japonais
 jed@adj!ausreichend%1(adj)=chaque
 jeglich@adj!ausreichend%1(adj)=chaque
@@ -584,7 +590,9 @@ jischmael@noun!inv%1(noun)=ismaël
 joh@noun!inv%1(noun)=jn
 johannes@noun!inv%1(noun)=jean
 jorg@noun!inv%1(noun)=jorg
+jos@noun!inv%1(noun)=jos
 jose@noun!inv%1(noun)=jose
+josua@noun!inv%1(noun)=josué
 journalist@noun!norm%1(noun)=journaliste
 jud@noun!meinmasc%1(noun)=juif
 judenschaft@noun!meinmasc%1(noun)=judéité
@@ -744,6 +752,7 @@ muss@verb!norm%1(verb)=devoir
 mut@noun!inv%1(noun)=courage
 mutter@noun!inv%1(noun)=mère
 mythus@noun!inv%1(noun)=mythe
+n@noun!inv%1(noun)=après
 nach@prep%1(prep)=après%2(prep)=à
 nachdrucklich@adj!ausreichend%1(adj)=insistant
 nachfolgend@adj!ausreichend%1(adj)=suivant
@@ -867,6 +876,7 @@ rentner@noun!arbeiter%1(noun)=retraité
 reservier@verb!norm%1(verb)=reserver
 rest@noun!rest%1(noun)=reste
 restaurant@noun!inv%1(noun)=restaurant
+rezipiert@noun!meinmasc%1(noun)=examen
 richard@noun!inv%1(noun)=richard
 rituell@adj!ausreichend%1(adj)=rituel
 rock@noun!inv%1(noun)=rock
@@ -896,6 +906,7 @@ scharfst@adj!ausreichend%1(adj)=le plus précis
 scheck@noun!meinfem%1(noun)=chèque
 schick@verb!norm%1(verb)=adresser
 schicklichkeit@noun!meinfem%1(noun)=convenance
+schimson@noun!inv%1(noun)=schimson
 schlacht@verb!norm%1(verb)=sacrifier
 schlaflos@adj!ausreichend%1(adj)=sans sommeil
 schlaflosigkeit@noun!inv%1(noun)=insomnie
@@ -915,6 +926,7 @@ schein@verb!norm%1(verb)=briller
 schlacht@noun!meinfem%1(noun)=bataille
 schlaf@verb!norm%1(verb)=dormir
 schlecht@adj!ausreichend%1(adj)=mauvais
+schopfern@noun!arbeiter%1(noun)=créateur
 schon@adj!inv%1(adj)=beau
 schon@prep%1(prep)=déjà
 schonst@adj!ausreichend%1(adj)=plus beau
@@ -951,7 +963,6 @@ sittenlehre@noun!flasche%1(noun)=morale%2(noun)=éthique
 situation@noun!norm%1(noun)=situation
 schlaf@noun!ort%1(noun)=sommeil
 smarkt@noun!inv%1(noun)=marché de
-spannung@noun!meinfem%1(noun)=tension
 so@prep%1(prep)=à ce point%2(prep)=alors
 sofort@prep%1(prep)=tout de suite
 sogar@prep%1(prep)=même
@@ -965,6 +976,8 @@ sorg@verb!norm%1(verb)=regretter%2(verb)=faireattention
 soweit@prep%1(prep)=autant que
 sozial@noun!inv%1(noun)=social
 sozialist@noun!meinmasc%1(noun)=socialiste
+spalt@noun!licht%1(noun)=cassure
+spannung@noun!meinfem%1(noun)=tension
 spat@adj!ausreichend%1(adj)=tardif
 spater@prep%1(prep)=plus tard
 speise@noun!flasche%1(noun)=nourriture
@@ -1010,6 +1023,7 @@ technik@noun!meinfem%1(noun)=technique
 tee@noun!inv%1(noun)=thé
 teig@noun!jahrzehnt%1(noun)=pâte
 telefon@noun!meinmasc%1(noun)=téléphone
+teman@noun!inv%1(noun)=théman
 tempel@noun!arbeiter%1(noun)=temple
 termin@noun!inv%1(noun)=rendez-vous
 testament@noun!norm%1(noun)=testament

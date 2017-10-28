@@ -277,11 +277,12 @@ strackmatc1v1exp2=>CONTINUER A SAISIR
 stracktoto=>falls
 strackp1notBA=>|Qid| |75A| : Rab Jehuda (tot 299) hat gesagt : hillel hat gelehrt : zehnerlei familienklassen sind aus babel her aufgezogen, und alle (die nicht in die gemeinde israel eintreten dürfen) durften einander ehelichen.
 strackp1notBB=>Dazu vgl. |Qid| 4:1-3 : zehnerlei familienklassen zogen aus babel herauf : priester, leviten, israeliten, profane (|chalalim|, priesterkinder von einer gesetzlich verbotenen mutter), proselyten, freigelassene, bastarde (nachkommen von eltern, auf deren fleischliche vermischung die strafe der ausrottung durch die hand des himmels stand;
-strackp1notBC=>so nach der rezipierten ansicht des schimschon aus teman um 110 n. Chr, Jeb 4:13), nethinim (nachkommen der gibeoniter, die josua zu holzpaltern u. wasserschöpfern am heiligtum machte, Jos 9:3), schetuqim u. findlinge.
+strackp1notBC=>so nach der rezipierten ansicht des schimson aus teman um 110 n. Chr, Jeb |4:13|), |nethinim| (nachkommen der gibeoniter, die josua zu holzspaltern u. wasserschöpfern am heiligtum machte, Jos |9:3|), |schetuqim| u. findlinge.
 strackp1notBD=>priester, leviten, israeliten dürfen einander ehelichen;
 strackp1notBE=>leviten, israeliten, profane, proselyten u. freigelassene dürfen einander ehelichen.
 strackp1notBF=>proselyten, freigelassene, bastarde, nethinim, shetuqim u. findlinge, sie alle dürfen einander ehelichen.
-strackp1notBG=>dies sind shetuqim : jeder, der seine mutter kennt u. seinen vater nicht kennt (dessen vater XX hebreu XXX = verschwiegen bleibt), u. findlinge : jeder, der von der straße aufgelesen ist u. weder vater noch mutter kennt. Alle, die nicht in die gemeinde (israel) eintreten dürfen einander ehelichen.
+strackp1notBG=>dies sind shetuqim : jeder, der seine mutter kennt u. seinen vater nicht kennt (dessen vater XX hebreu XXX = verschwiegen bleibt), u. findlinge :
+strackp1notBH=>jeder, der von der straße aufgelesen ist u. weder vater noch mutter kennt. Alle, die nicht in die gemeinde (israel) eintreten dürfen einander ehelichen.
 
 genesis1A=>Am Anfang@n schuf Gott Himmel und Erde.
 genesis1B=>Und die Erde war wüst und leer, und es war finster auf der Tiefe; und der Geist Gottes schwebte auf dem Wasser.

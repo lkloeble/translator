@@ -27,6 +27,7 @@ angst@fem%angst
 anrufung@fem%meinfem
 anschauung@fem%meinfem
 anschein@masc%arbeiter
+ansicht@fem%meinfem
 antwort@fem%meinfem
 anzuglich@adj%ausreichend
 apfel@neut%inv
@@ -207,6 +208,7 @@ feste@fem%flasche
 feststellung@fem%meinfem
 figaro@masc%inv
 finanzierung@fem%meinfem
+findling@masc%bastard
 finster@neut%inv
 finsternis@neut%inv
 fisch@masc%angst
@@ -286,6 +288,7 @@ getrank@neut%rest
 gevogel@neut%inv
 gewesen@neut%inv
 gewurm@neut%inv
+gibeonit@adj%ausreichend
 gleich@adj%ausreichend
 gleichzeitig@adj%ausreichend
 gluck@fem%flasche
@@ -312,6 +315,7 @@ hauptstadt@fem%flasche
 haus@neut%licht
 hebraisch@adj%ausreichend
 heer@neut%meer
+heiligtum@neut%heiligtum
 heim@neut%meer
 heiterkeit@fem%norm
 herkunft@fem%norm
@@ -330,6 +334,7 @@ hochst@adj%ausreichend
 hochzeit@fem%norm
 hoffmann@neut%inv
 hollander@neut%arbeiter
+holz@neut%holz
 horn@neut%ort
 hotel@neut%inv
 hund@fem%norm
@@ -357,6 +362,7 @@ jahrig@adj%ausreichend
 jahrzehnt@neut%jahrzehnt
 januar@neut%inv
 japanisch@adj%ausreichend
+jeb@neut%inv
 jed@adj%ausreichend
 jeglich@adj%ausreichend
 jehuda@neut%inv
@@ -368,7 +374,9 @@ jischmael@neut%inv
 joh@neut%inv
 johannes@masc%inv
 jorg@neut%inv
+jos@neut%inv
 jose@neut%inv
+josua@neut%inv
 journalist@masc%norm
 jud@masc%meinmasc
 judenschaft@masc%meinmasc
@@ -487,6 +495,7 @@ musik@fem%inv
 mut@masc%inv
 mutter@fem%inv
 mythus@neut%inv
+n@neut%inv
 nachdrucklich@adj%ausreichend
 nachfolgend@adj%ausreichend
 nachgeschlagen@adj%ausreichend
@@ -583,6 +592,7 @@ rente@fem%flasche
 rentner@masc%arbeiter
 rest@masc%rest
 restaurant@neut%inv
+rezipiert@masc%meinmasc
 richard@neut%inv
 rituell@adj%ausreichend
 rock@neut%inv
@@ -604,6 +614,7 @@ schauerlich@adj%ausreichend
 scharfst@adj%ausreichend
 scheck@fem%meinfem
 schicklichkeit@fem%meinfem
+schimson@neut%inv
 schlaflos@adj%ausreichend
 schlaflosigkeit@neut%inv
 schlank@adj%inv
@@ -615,6 +626,7 @@ schlussel@neut%inv
 schmerz@masc%schmerz
 schon@adj%inv
 schonst@adj%ausreichend
+schopfern@masc%arbeiter
 schriften@fem%inv
 schubert@neut%inv
 schuler@masc%arbeiter
@@ -634,6 +646,7 @@ sokratismus@neut%inv
 solch@adj%ausreichend
 sozialist@neut%meinmasc
 sozial@adj%inv
+spalt@masc%licht
 spannung@fem%meinfem
 spat@adj%ausreichend
 speise@fem%flasche
@@ -669,6 +682,7 @@ technik@fem%meinfem
 tee@neut%inv
 teig@masc%jahrzehnt
 telefon@fem%meinfem
+teman@neut%inv
 tempel@neut%arbeiter
 termin@neut%inv
 testament@neut%norm

@@ -235,9 +235,9 @@ stracktoto=>mélange quel seul fin farine est [XXX] [XXX]. référence au dessus
 
 strackp1notBA=>qid 75a : rab jehuda ( mort 299 ) a dit : hillel a enseigné : dizaine famille(s)(e) classe(s)(e) sont de babylone loin remonté, et tout(e)@tout(s)@ ( la pas dans la communauté(e) israël entrent/entrer être autorisé à ) furent autorisés à un autre (du) marital@marital@marital(s)(e)@.
 strackp1notBB=>et en plus cf. qid [XXX] 3 : dizaine famille(s)(e) classe(s)(e) prirent de babylone loin au dessus de : prêtre, lévite(s), israélite(s), profane(s)(e) ( chalalim, prêtre enfant de (des) un(s)@(du) un(e)@un@ légal (du) interdit@interdit@interdit(s)(e)@ mère ), prosélyte(s), affranchi(s), batard(s) ( descendant(s)(e) de parents, au dessus de dont charnel(e)@charnel(s)@ mélange la punition(e) le extermination par la main du (du) ciel tint;
-strackp1notBC=>foo
-strackp1notBD=>foo
-strackp1notBE=>foo
+strackp1notBC=>alors à le examen(s) opinion(e) du schimson de théman autour 110 après. chr, yev(amoth) 4:13 ), nethinim ( descendant(s)(e) le (des) gabaonite(s)@(du) gabaonite(e)@gabaonite@, la josué vers bois cassure(s) et. eau (des) créateur(s) au sanctuaire faisait, jos 9:3 ), schetuqim et. (des) enfant errant(s).
+strackp1notBD=>prêtre, lévite(s), israélite(s) sont autorisés à/être autorisé à un autre (du) marital@marital@marital(s)(e)@;
+strackp1notBE=>lévite(s), israélite(s), profane(s)(e), prosélyte(s) et. affranchi(s) sont autorisés à/être autorisé à un autre (du) marital@marital@marital(s)(e)@.
 strackp1notBF=>foo
 strackp1notBG=>foo
 
