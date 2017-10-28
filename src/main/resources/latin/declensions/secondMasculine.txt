@@ -2,3 +2,9 @@ nom%sing%masc%er
 nom%plr%masc%res
 gen%sing%masc%ris
 gen%plr%masc%rum
+dat%sing%masc%ri
+dat%plr%masc%ribus
+acc%sing%masc%rem
+acc%plr%masc%res
+abl%sing%masc%re
+abl%plr%masc%ribus

@@ -119,6 +119,7 @@ benedico@verb!norm%1(verb)=benir
 besti@noun!a-ae%1(noun)=bête
 bibliothec@noun!a-ae%1(noun)=bibliotheque
 bibo@verb!norm%1(verb)=boire
+bienni@noun!um-i%1(noun)=biennale
 bon@adj!us-a-um%1(adj)=bon (personne)%2(adj)=bien, de bonne qualite (chose)%3(adj)=bon pour, propre a (+dat)%4(adj)=bon
 britanni@noun!a-ae%1(noun)=bretagne
 brundisi@noun!um-i%1(noun)=brindisi
@@ -147,6 +148,7 @@ catholic@adj!us-a-um%1(adj)=catholique
 caus@noun!a-ae%1(noun)=chose%2(noun)=explication%3(noun)=condition%4(noun)=motif,prétexte%5(noun)=raison
 caveo@verb!norm%1(verb)=prendregarde
 celebro@verb!norm%1(verb)=celebrer
+celerit@noun!as-atis%1(noun)=vitesse
 celt@noun!a-ae%1(noun)=celte
 cen@noun!a-ae%1(noun)=souper%2(noun)=dîner%3(noun)=repas
 ceno@verb!norm%1(verb)=diner
@@ -168,6 +170,7 @@ christian@adj!us-a-um%1(adj)=chrétien
 cib@noun!us-i%1(noun)=nourriture
 circa@prep%1(prep)=autour
 circum@prep%1(prep)=autour
+circumspicio@verb!norm%1(verb)=regarder
 cito@prep%1(prep)=bientôt%2(prep)=rapidement
 civit@noun!as-atis%1(noun)=citoyen
 clar@adj!us-a-um%1(adj)=clair,brillant%2(adj)=glorieux,fameux%3(adj)=célèbre
@@ -187,6 +190,7 @@ concilio@verb!norm%1(verb)=acquerir%2(verb)=recommander%3(verb)=rassembler
 confirmo@verb!norm%1(verb)=confirmer
 conglorifico@verb!norm%1(verb)=glorifier
 concipio@verb!norm%1(noun)=recevoir
+conficiend@adj!us-a-um%1(adj)=qui doit être préparé
 congregat@adj!us-a-um%1(adj)=assemblé
 congregatio@noun!x-nis%1(noun)=association%2(noun)=société%3(noun)=réunion
 congrego@verb!norm%1(noun)=assembler2
@@ -388,6 +392,7 @@ fenestr@noun!a-ae%1(noun)=opportunité%2(noun)=orifice%3(noun)=fenêtre
 fere@prep%1(prep)=en général%2(prep)=la plupart du temps%3(prep)=proche%4(prep)=entièrement%5(prep)=pratiquement
 fero@verb!norm%1(verb)=déplacer%2(verb)=supporter%3(verb)=presenter%4(verb)=comporter%5(verb)=obtenir,produire%6(verb)=porter
 feris@prep%1(prep)=dehors
+fess@adj!us-a-um%1(adj)=fatigué
 fest@noun!um-i%1(noun)=jour de fete%2(noun)=fete
 fid@noun!es-ei%1(noun)=confiance%2(noun)=foi
 fio@verb!norm%1(verb)=advenir
@@ -425,6 +430,7 @@ gaudi@noun!um-i%1(noun)=joie
 gen@noun!adj-us-eris%1(noun)=genre%2(noun)=groupe%3(noun)=origine%4(noun)=type%5(noun)=espèce
 generatim@prep%1(prep)=par type%2(prep)=généralement
 generati@noun!o-onis%1(noun)=génération
+genit@adj!us-a-um%1(adj)=engendré
 genu@noun!a-ae%1(noun)=gêne
 genuin@adj!us-a-um%1(adj)=naturel,inne%2(adj)=authentique
 german@noun!us-i%1(noun)=germain
@@ -453,6 +459,7 @@ herb@noun!a-ae%1(noun)=herbe
 heri@noun!inv%1(noun)=hier
 hermas@noun!inv%1(noun)=hermas
 hermae@noun!inv%1(noun)=de hermas
+hi@prep%1(prep)=ces
 hic@prep%1(prep)=ici
 hinc@prep%1(prep)=puis
 his@prep%1(prep)=ceux-ci
@@ -464,6 +471,7 @@ homi@noun!x-nis%1(noun)=homme%2(noun)=personne%3(noun)=humain
 homo@noun!inv%1(noun)=homme%2(noun)=personne%3(noun)=humain
 hor@noun!a-ae%1(noun)=l'heure,le temps,le moment%2(noun)=horloge%3(noun)=heures de prieres (christianisme)%4(noun)=heure
 hort@noun!us-i%1(noun)=jardin
+horum@prep%1(prep)=ces
 hos@prep%1(prep)=les
 hosanna@noun!inv%1(noun)=hosanna
 host@noun!is-is%1(noun)=ennemi%2(noun)=étranger
@@ -472,6 +480,7 @@ hujus@prep%1(prep)=de ce
 hujusce@prep%1(prep)=de ce
 hujuscemodi@prep%1(prep)=de ce type
 humanita@noun!s-tis2%1(noun)=civilisation%2(noun)=courtoisie%3(noun)=humanité
+hum@noun!us-i%1(noun)=humus%2(noun)=terre
 hymn@noun!us-i%1(noun)=hymne
 i@prep%1(prep)=i
 id@prep%1(prep)=ce
@@ -695,6 +704,7 @@ nerv@noun!us-i%1(noun)=nerf
 nihil@prep%1(prep)=rien
 nil@noun!us-i%1(noun)=nil
 nimis@prep%1(prep)=trop
+nimi@adj!us-a-um%1(adj)=excessif
 nisi@prep%1(prep)=à l'exception de
 nobilissim@adj!us-a-um%1(adj)=le plus noble
 nobilitat@adj!us-a-um%1(adj)=noble
@@ -842,6 +852,7 @@ produco@verb!norm%1(verb)=placer%2(verb)=étaler%3(verb)=exposer%4(verb)=présen
 prodeo@verb!norm%1(verb)=sortir,pousser(plantes)%2(verb)=s'avancer%3(verb)=apparaitre
 proeli@noun!um-i%1(noun)=guerrier%2(noun)=bataille
 profect@adj!us-a-um%1(adj)=avance
+profecti@noun!o-onis%1(noun)=voyage%2(noun)=départ
 profero@verb!norm%1(verb)=apparaitre2
 proficiscor@verb!norm%1(verb)=partir
 prohibeo@verb!norm%1(verb)=preserver%2(verb)=defendre%3(verb)=proteger%4(verb)=garder
@@ -954,6 +965,7 @@ sardini@noun!a-ae%1(noun)=sardaigne
 satio@verb!norm%1(verb)=satisfaire
 satis@prep%1(prep)=suffisament
 schol@noun!a-ae%1(noun)=secte%2(noun)=ensemble de disciples%3(noun)=école%4(noun)=leçon
+scienti@noun!a-ae%1(noun)=savoir
 scio@verb!nom%1(verb)=savoir
 scribend@adj!us-a-um%1(adj)=qui doit être écrit
 scribo@verb!nom%1(verb)=ecrire
@@ -995,6 +1007,7 @@ soci@noun!us-a-um%1(adj)=allié%é(adj)=relié%3(adj)=associé
 sol@adj!us-a-um%1(adj)=seul
 sol@noun!x-is2%1(noun)=soleil
 solid@adj!us-a-um%1(adj)=solide
+solut@adj!us-a-um%1(adj)=libéré
 solvo@verb!norm%1(verb)=payer%2(verb)=résoudre%3(verb)=enlever%4(verb)=dissoudre%5(verb)=acquitter
 sono@verb!norm%1(verb)=sonner%2(verb)=resonner
 specto@verb!norm%1(verb)=regarder%2(verb)=observer
@@ -1011,6 +1024,7 @@ studeo@verb!norm%1(verb)=supporter%2(verb)=etudier
 studi@noun!um-i%1(noun)=zèle%2(noun)=étude
 studiose@prep%1(prep)=studieusement
 su@adj!us-a-um%1(adj)=son
+suav@adj!is-is-e%1(adj)=plaisant
 sub@prep%1(prep)=sous
 subicio@verb!norm%1(verb)=soumettre
 subito@prep%1(prep)=subitement
@@ -1086,6 +1100,7 @@ umer@noun!us-i%1(noun)=dos%2(noun)=umérus (os)%3(noun)=épaule
 un@adj!us-a-um%1(adj)=un
 unde@prep%1(prep)=d'où
 undique@prep%1(prep)=de tous côtés
+unic@adj!us-a-um%1(adj)=unique
 unigenit@adj!us-a-um%1(adj)=seul engendré
 univers@noun!um-i%1(noun)=univers
 univers@adj!us-a-um%1(adj)=tout%2(adj)=complet

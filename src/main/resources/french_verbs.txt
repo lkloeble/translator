@@ -364,7 +364,7 @@ referer@NORM%[INFINITIVE]=[référer]%[IPR]=[réfère,réfères,réfère,réfèr
 reflechir@NORM%[INFINITIVE]=[réfléchir]%[IPR]=[réfléchis,réfléchis,réfléchit,réfléchissons,réfléchissez,réfléchissent]%[AORPASDEP]=[réfléchissait]%[AIP]=[réfléchis,réfléchis,réfléchit,réfléchîmes,réfléchîtes,réfléchirent]
 refleter@NORM%[INFINITIVE]=[refléter]%[IPR]=[reflète,reflètes,reflète,reflètons,reflètez,reflètent]%[PAP]=[reflété]
 refuser@NORM%[INFINITIVE]=[refuser]%[IPR]=[refuse,refuses,refuse,refusons,refusez,refusent]
-regarder@NORM%[INFINITIVE]=[regarder]%[IPR]=[regarde,regardes,regarde,regardons,regardez,regardent]%[AII]=[regardais,regardas,regardait,regardions,regardiez,regardaient]
+regarder@NORM%[INFINITIVE]=[regarder]%[IPR]=[regarde,regardes,regarde,regardons,regardez,regardent]%[AII]=[regardais,regardas,regardait,regardions,regardiez,regardaient]%[AIP]=[regardais,regardas,regarda,regardâmes,regardâtes,regardèrent]
 regretter@NORM%[INFINITIVE]=[regretter]%[IPR]=[regrette,regrettes,regrette,regrettons,regrettez,regrettent]
 reparer@NORM%[INFINITIVE]=[réparer]%[IPR]=[répare,répares,répare,réparons,réparez,réparent]%[ASI]=[réparais,réparais,réparait,réparions,répariez,réparaient]
 regner@NORM%[IPR]=[règne,règnes,règne,régnons,régnez,règnent]%[INFINITIVE]=[régner]

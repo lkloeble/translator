@@ -37,6 +37,7 @@ cav,eo,es,ere,-,-,[eo-es]
 celebr,o,as,are,,,[o-as]
 cen,o,as,are,,,[o-as]
 cess,o,as,are,,,[o-as]
+circumspic,io,is,ere,,,[io-is],(AIP*circumspic*circumspex*0)
 coem,o,is,ere,,,[o-is]
 collaud,o,as,are,avi,atum,[o-as]
 comme,o,as,are,avi,atum,[o-as]
@@ -180,7 +181,7 @@ praest,o,as,are,,,[o-as],(ASI*praest*praestar*0)
 praesum@IRREGULAR%[IPR]=[praesum,praees,praeest,praesumus,praeestis,praesunt]%[AII]=[praeeram,praeeras,praeerat,praeeramus,praeeratis,praeerant]%[AIF]=[praeero,praeeris,praeerit,praeerimus,praeeritis,praeerunt]%[INFINITIVE]=[esse]%[ASP]=[praesim,praesis,praesit,praesimus,praesitis,praesint]%[ASI]=[praeessem,praeesses,praeesset,praeessemus,praeessetis,praeessent]%[AIP]=[praefui,praefuisti,praefuit,praefuimus,praefuistis,praefuerunt]
 prob,o,as,are,,,[o-as]
 prod,eo,is,ire,ii,itum,[eo-is]
-produc,o,is,ere,,,[o-is],(AIPP*produc*produx*0@AIFP*producs*produx*0)
+produc,o,is,ere,,,[o-is],(AIPP*produc*produx*0@AIFP*producs*produx*0@AIP*produc*produx*0)
 profer,o,s,re,,,[o-s],(AIP*profer*protul*0)
 proficisc,or,eris,i,,,[or-eris]
 prohib,eo,es,ere,,,[eo-es]

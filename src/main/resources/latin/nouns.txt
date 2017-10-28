@@ -75,6 +75,7 @@ bene@neut%inv
 benedict@adj%us-a-um
 besti@fem%a-ae
 bibliothec@fem%a-ae
+bienni@neut%um-i
 bon@adj%us-a-um
 britanni@fem%a-ae
 brundisi@masc%um-i
@@ -97,6 +98,7 @@ caro@fem%inv
 carr@masc%us-i
 catholic@adj%us-a-um
 caus@fem%a-ae
+celerit@fem%as-atis
 celt@fem%a-ae
 cen@fem%a-ae
 cenacul@neut%um-i
@@ -122,6 +124,7 @@ coct@adj%us-a-um
 collect@fem%a-ae
 column@fem%a-ae
 complet@adj%us-a-um
+conficiend@adj%us-a-um
 congregat@adj%us-a-um
 congregatio@neut%x-nis
 coniurati@fem%o-onis
@@ -232,6 +235,7 @@ familiarita@fem%s-tis2
 famul@masc%us-i
 femin@fem%a-ae
 fenestr@fem%a-ae
+fess@adj%us-a-um
 fest@neut%um-i
 fid@fem%es-ei
 fili@masc%us-i
@@ -260,6 +264,7 @@ garumn@fem%a-ae
 gaudi@neut%um-i
 gen@neut%adj-us-eris
 generati@fem%o-onis
+genit@adj%us-a-um
 genu@fem%a-ae
 genuin@adj%us-a-um
 germani@fem%a-ae
@@ -293,6 +298,7 @@ host@masc%is-is
 hosti@fem%a-ae
 hosanna@neut%inv
 humanita@fem%s-tis2
+hum@fem%us-i
 hymn@masc%us-i
 idol@neut%um-i
 ignati@masc%us-i2
@@ -436,6 +442,7 @@ nax@masc%us-i
 nazaren@masc%us-i
 nerv@masc%us-i
 nil@masc%us-i
+nimi@adj%us-a-um
 nobilissim@adj%us-a-um
 nonnull@adj%us-a-um
 nost@adj%er-ra-rum
@@ -527,6 +534,7 @@ principi@neut%um-i
 prob@adj%us-a-um
 proeli@neut%um-i
 profect@adj%us-a-um
+profecti@fem%o-onis
 promiscu@adj%us-a-um
 propagand@adj%us-a-um
 prophet@masc%a-ae
@@ -587,6 +595,7 @@ sanctissim@adj%us-a-um
 sangui@masc%s-nis
 sanguine@adj%us-a-um
 sardini@fem%a-ae
+scienti@fem%a-ae
 schol@fem%a-ae
 scribend@adj%us-a-um
 scriptor@masc%scriptor
@@ -614,6 +623,7 @@ soci@adj%us-a-um
 sol@adj%us-a-um
 sol@masc%x-is2
 solid@adj%us-a-um
+solut@adj%us-a-um
 spart@fem%a-ae
 spati@neut%um-i
 speci@fem%es-ei
@@ -624,6 +634,7 @@ stell@fem%a-ae
 stil@masc%us-i
 studi@neut%um-i
 su@adj%us-a-um
+suav@adj%is-is-e
 superfici@fem%es-ei
 supern@adj%us-a-um
 supposititi@adj%us-a-um
@@ -660,6 +671,7 @@ tuscul@masc%um-i
 umbr@fem%a-ae
 umer@masc%us-i
 un@adj%us-a-um
+unic@adj%us-a-um
 unigenit@adj%us-a-um
 univers@neut%um-i
 univers@adj%us-a-um
