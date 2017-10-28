@@ -121,7 +121,9 @@ public class HebrewPhraseChanger extends CustomLanguageRulePhraseChanger {
         Phrase erasedPatternOfMinus = erasePatternInWords(withoutOneWhichIsMinusForUnknowConstructedState, "&","#");
         caseOperatorContainer.emptyCases();
         Phrase withoutWav56 = extractLetterFromBeginningOfNoun(erasedPatternOfMinus, "w56", stopWords, ruleFactory, null);
-        Phrase withoutWav = extractLetterFromBeginningOfNoun(withoutWav56, "w", stopWords, ruleFactory, null);
+        Phrase withoutWav63 = extractLetterFromBeginningOfNoun(withoutWav56, "w63", stopWords, ruleFactory, null);
+        Phrase withoutWav309 = extractLetterFromBeginningOfNoun(withoutWav63, "w309", stopWords, ruleFactory, null);
+        Phrase withoutWav = extractLetterFromBeginningOfNoun(withoutWav309, "w", stopWords, ruleFactory, null);
         Phrase withoutLamed56 = extractLetterFromBeginningOfNoun(withoutWav, "l56", stopWords, ruleFactory, null);
         Phrase withoutLamedPreposition = extractLetterFromBeginningOfNoun(withoutLamed56, "l", stopWords, ruleFactory, null);
         Phrase withoutMinPreposition = extractLetterFromBeginningOfNoun(withoutLamedPreposition, "m", stopWords, ruleFactory, null);
@@ -134,7 +136,8 @@ public class HebrewPhraseChanger extends CustomLanguageRulePhraseChanger {
         Phrase withoutKePreposition = extractLetterFromBeginningOfNoun(withoutKe3156469Preposition, "k", stopWords, ruleFactory, null);
         Phrase withoutBeth30558 = extractLetterFromBeginningOfNoun(withoutKePreposition, "b30558", stopWords, ruleFactory, null);
         Phrase withoutBeth30564 = extractLetterFromBeginningOfNoun(withoutBeth30558, "b30564", stopWords, ruleFactory, null);
-        Phrase withoutBethPreposition = extractLetterFromBeginningOfNoun(withoutBeth30564, "b", stopWords, ruleFactory, null);
+        Phrase withoutBeth63 = extractLetterFromBeginningOfNoun(withoutBeth30564, "b63", stopWords, ruleFactory, null);
+        Phrase withoutBethPreposition = extractLetterFromBeginningOfNoun(withoutBeth63, "b", stopWords, ruleFactory, null);
         //Phrase withoutShinAsPreposition = extractLetterFromBeginningOfNoun(withoutBethPreposition, "s", stopWords, ruleFactory, null);
         Phrase withoutHe59 = extractLetterFromBeginningOfNoun(withoutBethPreposition, "h6269", stopWords, ruleFactory, "articleCopyFollowingNoun");
         Phrase withoutHe6269 = extractLetterFromBeginningOfNoun(withoutHe59, "h59", stopWords, ruleFactory, "articleCopyFollowingNoun");

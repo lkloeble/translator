@@ -169,6 +169,8 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "akl@verb!norm%1(verb)=manger",
                 "al@prep%1(prep)=vers",
                 "a62l@prep%1(prep)=vers",
+                "ani@prep%1(prep)=je",
+                "a58n60i@prep%1(prep)=je",
                 "amr@verb!norm%1(verb)=dire",
                 "aw331r@noun!invfem%1(noun)=flamme,feu%2(noun)=lumière",
                 "al65h60im000@noun!custom(nomsg=alhim|cst(nomsg)=alhi&|decim-inwplr=alhinw)%1(noun)=dieu",
@@ -179,6 +181,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "b@prep%1(prep)=dans",
                 "b30558@prep%1(prep)=dans",
                 "b30564@prep%1(prep)=dans",
+                "b63@prep%1(prep)=dans",
                 "ba@verb!norm%1(verb)=venir",
                 "bra@verb!norm%1(noun)=creer",
                 "gm000@prep%1(prep)aussi%2(prep)=même%3(prep)=encore",
@@ -201,6 +204,8 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "hlk@verb!norm%1(noun)=aller",
                 "w@prep%1(prep)=et",
                 "w56@prep%1(prep)=et",
+                "w63@prep%1(prep)=et",
+                "w309@prep%1(prep)=et",
                 "'hs29862k00056@noun!im-fem%1(noun)=arrêt,pause%2(noun)=sombre,obscur%3(noun)=obscurité",
                 "'h63k63m000@noun!im-ot%1(noun)=sage",
                 "iw331m000@noun!custom(nomplr=imim000|cst(nomplr)=imi|cst(nomsg)=iwm&|nomsg=iwm000)%1(noun)=jour",
@@ -310,11 +315,14 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
         return Arrays.asList(new String[]{
                 "al@prep()%[eraseFollowingMinus]",
                 "a62l@prep()%[eraseFollowingMinus]",
+                "ani@prep()",
+                "a58n60i@prep()",
                 "asr@prep()",
                 "a59s29862r@prep()",
                 "b@prep()",
                 "b30558@prep()",
                 "b30564@prep()",
+                "b63@prep()",
                 "gm000@prep()",
                 "g63m000@prep()",
                 "h@prep()",
@@ -328,7 +336,9 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "hwa@prep()",
                 "hw309a@prep()",
                 "w@prep()%[wawConversiveForFutureAndPastVerbs]",
+                "w63@prep()%[wawConversiveForFutureAndPastVerbs]",
                 "w56@prep()%[wawConversiveForFutureAndPastVerbs]",
+                "w309@prep()%[wawConversiveForFutureAndPastVerbs]",
                 "k@prep()",
                 "k56@prep()",
                 "k31559@prep()",
@@ -560,6 +570,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
 
     @Test
     public void test_weingreen_chapter_22() {
+        checkInMaps("wein22D1", translatorBridge);
         checkInMaps("wein22A1", translatorBridge);
         checkInMaps("wein22A2", translatorBridge);
         checkInMaps("wein22B1", translatorBridge);
