@@ -131,12 +131,14 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "al65h60im000@masc%custom(nomsg=alhim|cst(nomsg)=alhi&|decim-inwplr=alhinw)",
                 "a62r62ts@fem%custom(nomplr=artswt|nomsg=a62r62ts)",
                 "a60s29864h@fem%custom(nomplr=nsim|cst(nomplr)=nsi&|nomsg=a60s29864h)",
+                "b60q62r@masc%im",
                 "g64dw331l@adj%im-ot",
                 "g64n000@masc%im",
                 "d64b64r@masc%im",
                 "h61ik64l@masc%im",
                 "ihwh@masc%invmasc",
                 "iw331m000@masc%custom(nomplr=imim000|cst(nomplr)=imi|cst(nomsg)=iwm&|nomsg=iwm000)",
+                "i56rw309s29864l63i60m000@masc%invmasc",
                 "i60s29956r64a61l@masc%invmasc",
                 "'hs29862k00056@fem%im-fem",
                 "'h63k63m000@adj%im-ot",
@@ -148,6 +150,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "y60ir@fem%custom(nomplr=yrim|cst(nomplr)=yri&|dir(nomsg)=yirh|nomsg=y60ir)",
                 "y64m000@masc%im",
                 "y64p64r@fem%im-fem",
+                "y62r62b@masc%im",
                 "yts@masc%custom(nomsg=yts|cst(nomsg)=ytst&|nomplr=ytsim|cst(nomplr)=ytsi&)",
                 "p56r60i@masc%im",
                 "q64dw331s298@adj%im-ot",
@@ -183,6 +186,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "b30564@prep%1(prep)=dans",
                 "b63@prep%1(prep)=dans",
                 "ba@verb!norm%1(verb)=venir",
+                "b60q62r@noun!im%1(noun)=matin",
                 "bra@verb!norm%1(noun)=creer",
                 "gm000@prep%1(prep)aussi%2(prep)=même%3(prep)=encore",
                 "g63m000@prep%1(prep)aussi%2(prep)=même%3(prep)=encore",
@@ -211,6 +215,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "iw331m000@noun!custom(nomplr=imim000|cst(nomplr)=imi|cst(nomsg)=iwm&|nomsg=iwm000)%1(noun)=jour",
                 "ihwh@noun!invmasc%1(noun)=le seigneur%1(noun)=YHVH",
                 "isb@verb!norm%1(noun)=demeurer",
+                "i56rw309s29864l63i60m000@noun!invmasc%1(noun)=jérusalem",
                 "i60s29956r64a61l@noun!invmasc%1(noun)=israël",
                 "k@prep%1(prep)=comme",
                 "k56@prep%1(prep)=comme",
@@ -232,6 +237,10 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "lq'h@verb!norm%1(verb)=prendre",
                 "m@prep%1(prep)=de",
                 "m60@prep%1(prep)=de",
+                "mh@prep%1(prep)=quoi",
+                "m64h@prep%1(prep)=quoi",
+                "mi@prep%1(prep)=qui",
+                "m60i@prep%1(prep)=qui",
                 "m62l62k00056@noun!im%1(noun)=roi",
                 "mn@prep%1(prep)=de",
                 "m60n000@prep%1(prep)=de",
@@ -248,6 +257,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "y63l@prep%1(prep)=en faveur de%2(prep)=au dessus de%3(noun)=sur",
                 "y64p64r@noun!im-fem%1(noun)=jeune daim%2(noun)=gris,cendré%3(noun)=poussière",
                 "y64m000@noun!im%1(noun)=peuple",
+                "y62r62b@noun!im%1(noun)=soir",
                 "yts@noun!custom(nomsg=yts|cst(nomsg)=ytst&|nomplr=ytsim|cst(nomplr)=ytsi&)%1(noun)=arbre",
                 "ra65s298@noun!im%1(noun)=tête",
                 "rah@verb!norm%1(noun)=apparaitre%2(verb)=voir",
@@ -356,6 +366,10 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "l65a@prep()",
                 "m@prep()",
                 "m60@prep()",
+                "mh@prep()",
+                "m64h@prep()",
+                "mi@prep()",
+                "m60i@prep()",
                 "mn@prep()",
                 "m60n000@prep()",
                 "m00060n000@prep()",
@@ -570,7 +584,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
 
     @Test
     public void test_weingreen_chapter_22() {
-        checkInMaps("wein22D1", translatorBridge);
+        checkInMaps("wein22N1", translatorBridge);
         checkInMaps("wein22A1", translatorBridge);
         checkInMaps("wein22A2", translatorBridge);
         checkInMaps("wein22B1", translatorBridge);
