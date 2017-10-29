@@ -2,6 +2,7 @@ package org.patrologia.translator.translationrules.hebrew;
 
 import org.patrologia.translator.basicelements.TranslationRule;
 import org.patrologia.translator.conjugation.ConjugationPart;
+import org.patrologia.translator.utils.StringUtils;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -30,7 +31,7 @@ public class AlternateAccentuation extends TranslationRule {
         for(ConjugationPart conjugationPart : conjugationPartList) {
             if(hasPatternToChange(conjugationPart) && isPositionAllowedForChange(conjugationPart)) {
                 String alternateValue = modifyValue(conjugationPart.getValue());
-                ConjugationPart alternateConjugationPart = new ConjugationPart(conjugationPart.getConjugationPosition(), alternateValue, conjugationPart.getUnaccentuedValue(), conjugationPart.getPositionInDefinition());
+                ConjugationPart alternateConjugationPart = new ConjugationPart(conjugationPart.getConjugationPosition(), alternateValue, unaccentued(alternateValue), conjugationPart.getPositionInDefinition());
                 modifiedList.add(alternateConjugationPart);
                 if(isAllowedForAnyPosition()) {
                     modifiedList.add(conjugationPart);
@@ -57,6 +58,10 @@ public class AlternateAccentuation extends TranslationRule {
 
     private boolean hasPatternToChange(ConjugationPart conjugationPart) {
         return conjugationPart.getValue().contains(letterToUpdate);
+    }
+
+    private String unaccentued(String value) {
+        return StringUtils.unaccentuate(value);
     }
 
     @Override

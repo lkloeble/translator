@@ -80,6 +80,14 @@ public class Form {
     }
 
     public Form updateToUnaccentued() {
-        return new Form(repository.unaccentuedWithSofit(value),value,type,declension,1);
+        return new Form(unaccentued(value),value,type,declension,1);
+    }
+
+    public Form updateToUnaccentuedOriginValue() {
+        return new Form(unaccentued(value),unaccentued(value),type,declension,1);
+    }
+
+    private String unaccentued(String value) {
+        return repository.unaccentuedWithSofit(value);
     }
 }

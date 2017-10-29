@@ -14,4 +14,9 @@ public class NullDeclension extends Declension {
     public Map<CaseNumberGenre, String> getAllEndings() {
         return Collections.EMPTY_MAP;
     }
+
+    @Override
+    public boolean isNull() {
+        return true;
+    }
 }

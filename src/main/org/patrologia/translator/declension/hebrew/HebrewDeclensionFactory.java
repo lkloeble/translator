@@ -31,8 +31,7 @@ public class HebrewDeclensionFactory extends DeclensionFactory {
             HebrewCustomDeclension customHebrewDeclension = new HebrewCustomDeclension(declensionPattern, gender, root);
             return customHebrewDeclension;
         }
-        String declensionFile = declensions.get(declensionPattern.toLowerCase());
-        Declension result = null;//declensionFile != null ? new HebrewDeclension(declensionPath,) : new NullDeclension();
+        Declension result = new NullDeclension();
         declensionMap.put(declensionPattern,result);
         return result;
     }

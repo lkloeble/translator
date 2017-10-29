@@ -29,6 +29,8 @@ public abstract class Declension {
 
     public boolean isCustom() { return false;}
 
+    public boolean isNull() { return false;}
+
     public String getSuffixForDifferentier(String differentier) {
         if(isCustom()) return "";
         return "h";//à coder le jour où ce ne sera pas un h pour les noms féminins en déclined state hebrew

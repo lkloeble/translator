@@ -6,7 +6,6 @@ import org.patrologia.translator.casenumbergenre.CaseNumberGenre;
 import org.patrologia.translator.casenumbergenre.Gender;
 import org.patrologia.translator.declension.Declension;
 import org.patrologia.translator.declension.DeclensionFactory;
-import org.patrologia.translator.declension.NullDeclension;
 
 import java.util.*;
 
@@ -341,8 +340,9 @@ public abstract class LanguageToFrench implements TranslatorRepository {
         String root = originFrenchs[0];
         originLanguageDeclensionFactory.setTemporaryGenderAndRoot(null, root);
         Declension declension = originLanguageDeclensionFactory.getDeclensionByPattern(declensionStr);
-        if(declension instanceof NullDeclension) {
+        if(declension.isNull()) {
             System.out.println("unknown declension for " + lineInDictionaryData);
+            return;
         }
         //declension.getAllEndings().entrySet().stream().forEach(ending -> formRepository.addForm(new Form(root + ending.getValue(), root, WordType.NOUN), new Form(root, root, WordType.NOUN), exceptions, ending.getKey()));
         Set<Map.Entry<CaseNumberGenre, String>> entrySet = declension.getAllEndings().entrySet();

@@ -65,6 +65,10 @@ public class NounRepository extends Repository {
         Map<CaseNumberGenre, String> exceptionsForms = extractExceptionsForms(declensionSymbol, genderOrigin, root);
         declensionFactory.setTemporaryGenderAndRoot(genderOrigin,root);
         Declension declension = declensionFactory.getDeclensionByPattern(declensionPattern);
+        if(declension == null) {
+            System.out.println("declension not defined : " + declensionPattern);
+            return;
+        }
         Map<CaseNumberGenre, String> allEndings = declension.getAllEndings();
         List<CaseNumberGenre> caseNumberGenres = new ArrayList(allEndings.keySet());
         Collections.sort(caseNumberGenres);
