@@ -1,6 +1,25 @@
 import org.junit.Before;
 import org.junit.Test;
 import org.patrologia.translator.TranslatorBridge;
+import org.patrologia.translator.basicelements.Language;
+import org.patrologia.translator.basicelements.NounRepository;
+import org.patrologia.translator.basicelements.PrepositionRepository;
+import org.patrologia.translator.basicelements.VerbRepository;
+import org.patrologia.translator.casenumbergenre.greek.GreekCaseFactory;
+import org.patrologia.translator.conjugation.greek.GreekConjugationFactory;
+import org.patrologia.translator.declension.Declension;
+import org.patrologia.translator.declension.greek.GreekDeclension;
+import org.patrologia.translator.declension.greek.GreekDeclensionFactory;
+import org.patrologia.translator.linguisticimplementations.FrenchTranslator;
+import org.patrologia.translator.linguisticimplementations.GreekAnalyzer;
+import org.patrologia.translator.linguisticimplementations.Translator;
+import org.patrologia.translator.rule.greek.GreekRuleFactory;
+import org.patrologia.translator.utils.Analizer;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 
 import static org.junit.Assert.assertTrue;
 
@@ -13,30 +32,78 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
 
     @Before
     public void init() {
-        String prepositionFileDescription = "C:\\java_projects\\src\\main\\resources\\greek\\prepositions.txt";
-        String nounFileDescription = "C:\\java_projects\\src\\main\\resources\\greek\\nouns.txt";
-        String verbFileDescription = "C:\\java_projects\\src\\main\\resources\\greek\\verbs.txt";
-        String greekFrenchDataFile = "C:\\java_projects\\src\\main\\resources\\greek\\bailly_greek_to_french.txt";
-        String frenchVerbsDataFile = "C:\\java_projects\\src\\main\\resources\\french_verbs.txt";
-        String demonstrativeDataFile = "C:\\java_projects\\src\\main\\resources\\greek\\pronoms.txt";
-        String declensionPath = "C:\\java_projects\\src\\main\\resources\\greek\\declensions";
-        String declensionAndFiles = "C:\\java_projects\\src\\main\\resources\\greek\\declensionsAndFiles.txt";
-        String conjugationPath = "C:\\java_projects\\src\\main\\resources\\greek\\conjugations";
-        String conjugationsAndFiles = "C:\\java_projects\\src\\main\\resources\\greek\\conjugationsAndFiles.txt";
-        String greekPathFile = "C:\\java_projects\\src\\test\\resources\\greek_content.txt";
-        String greekResultFile = "C:\\java_projects\\src\\test\\resources\\greek_expected_result.txt";
-        /*
+        String prepositionFileDescription = "E:\\translator\\src\\main\\resources\\greek\\prepositions.txt";
+        String nounFileDescription = "E:\\translator\\src\\main\\resources\\greek\\nouns.txt";
+        String verbFileDescription = "E:\\translator\\src\\main\\resources\\greek\\verbs.txt";
+        String greekFrenchDataFile = "E:\\translator\\src\\main\\resources\\greek\\bailly_greek_to_french.txt";
+        String frenchVerbsDataFile = "E:\\translator\\src\\main\\resources\\french_verbs.txt";
+        String declensionPath = "E:\\translator\\src\\main\\resources\\greek\\declensions";
+        String declensionsAndFiles = "E:\\translator\\src\\main\\resources\\greek\\declensionsAndFiles.txt";
+        String conjugationPath = "E:\\translator\\src\\main\\resources\\greek\\conjugations";
+        String conjugationsAndFiles = "E:\\translator\\src\\main\\resources\\greek\\conjugationsAndFiles.txt";
+        String greekPathFile = "E:\\translator\\src\\test\\resources\\greek_content.txt";
+        String greekResultFile = "E:\\translator\\src\\test\\resources\\greek_expected_result.txt";
         GreekRuleFactory ruleFactory = new GreekRuleFactory();
+        GreekDeclensionFactory greekDeclensionFactory = new GreekDeclensionFactory(getDeclensions(declensionsAndFiles), getDeclensionList(declensionsAndFiles, declensionPath));
         PrepositionRepository prepositionRepository = new PrepositionRepository(Language.GREEK, new GreekCaseFactory(), ruleFactory, getFileContentForRepository(prepositionFileDescription));
-        NounRepository nounRepository = new NounRepository(Language.GREEK, new GreekDeclensionFactory(declensionPath, declensionAndFiles), getFileContentForRepository(nounFileDescription));
-        VerbRepository verbRepository = new VerbRepository(new GreekConjugationFactory(conjugationPath, conjugationsAndFiles), Language.GREEK, getFileContentForRepository(verbFileDescription));
-        DemonstrativeRepository demonstrativeRepository = new DemonstrativeRepository(Language.GREEK, getFileContentForRepository(demonstrativeDataFile));
-        Analizer greekAnalyzer = new GreekAnalyzer(prepositionRepository, nounRepository, verbRepository, demonstrativeRepository);
-        Translator frenchTranslator = new FrenchTranslator(getFileContentForRepository(greekFrenchDataFile), getFileContentForRepository(frenchVerbsDataFile), verbRepository, demonstrativeRepository, nounRepository, declensionPath, declensionAndFiles);
+        NounRepository nounRepository = new NounRepository(Language.GREEK, greekDeclensionFactory, getFileContentForRepository(nounFileDescription));
+        VerbRepository verbRepository = new VerbRepository(new GreekConjugationFactory(getGreekConjugations(conjugationsAndFiles), getGreekConjugationDefinitions(conjugationsAndFiles, conjugationPath)), Language.GREEK, getFileContentForRepository(verbFileDescription));
+        Analizer greekAnalyzer = new GreekAnalyzer(prepositionRepository, nounRepository, verbRepository);
+        Translator frenchTranslator = new FrenchTranslator(getFileContentForRepository(greekFrenchDataFile), getFileContentForRepository(frenchVerbsDataFile), verbRepository, nounRepository, declensionPath, declensionsAndFiles, greekDeclensionFactory);
         translatorBridge = new TranslatorBridge(greekAnalyzer, frenchTranslator);
         mapValuesForTest = loadMapFromFiles(greekPathFile);
         mapValuesForResult = loadMapFromFiles(greekResultFile);
+    }
+
+    private List<Declension> getDeclensionList(String file, String directory) {
+        List<String> declensionNameList = getFileContentForRepository(file);
+        List<Declension> declensionList = new ArrayList<>();
+        for (String declensionName : declensionNameList) {
+            String parts[] = declensionName.split("%");
+            String fileName = parts[1];
+            declensionList.add(new GreekDeclension(fileName, getDeclensionElements(fileName, directory)));
+        }
+        return declensionList;
+    }
+
+    private List<String> getVerbs(String verbFileDescription) {
+        /*
+        return Arrays.asList(new String[]{
+                "sum@IRREGULAR%[IPR]=[sum,es,est,sumus,estis,sunt]%[AII]=[eram,eras,erat,eramus,eratis,erant]%[AIF]=[ero,eris,erit,erimus,eritis,erunt]%[INFINITIVE]=[esse]%[ASP]=[sim,sis,sit,simus,sitis,sint]%[ASI]=[essem,esses,esset,essemus,essetis,essent]%[AIP]=[fui,fuisti,fuit,fuimus,fuistis,fuerunt]%[AIPP]=[fueram,fueras,fuerat,fueramus,fueratis,fuerant]%[IAP]=[fuisse]%[AIFP]=[fuero,fueris,fuerit,fuerimus,fueritis,fuerint]",
+                "sum,o,is,ere,,,[o-is]"
+        });
         */
+
+        return getFileContentForRepository(verbFileDescription);
+    }
+
+    private Map<String, List<String>> getGreekConjugationDefinitions(String file, String directory) {
+        /*
+        Map<String, List<String>> latinConjugationDefinitionsMap = new HashMap<>();
+        latinConjugationDefinitionsMap.put("o-is", getOIslDefinition());
+        return latinConjugationDefinitionsMap;
+        */
+
+
+        List<String> conjugationNameList = getFileContentForRepository(file);
+        Map<String, List<String>> germanConjugationDefinitionsMap = new HashMap<>();
+        for(String conjugationName : conjugationNameList) {
+            String parts[] = conjugationName.split("%");
+            String fileName = parts[1];
+            String nameOnly = parts[0];
+            germanConjugationDefinitionsMap.put(nameOnly, getConjugationElements(directory,fileName));
+        }
+        return germanConjugationDefinitionsMap;
+    }
+
+    private List<String> getGreekConjugations(String conjugationsAndFiles) {
+        /*
+        return Arrays.asList(new String[]{
+                "o-is%permittere.txt"
+        });
+        */
+
+        return getFileContentForRepository(conjugationsAndFiles);
     }
 
     @Test

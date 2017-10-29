@@ -5,14 +5,18 @@ import org.patrologia.translator.conjugation.VerbDefinition;
 
 import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 /**
  * Created by Laurent KLOEBLE on 08/10/2015.
  */
 public class GreekConjugationFactory extends ConjugationFactory {
 
-    public GreekConjugationFactory(List<String> conjugationDefinitions) {
+    private Map<String, List<String>> conjugationsDefinitionsList;
+
+    public GreekConjugationFactory(List<String> conjugationDefinitions, Map<String, List<String>> conjugationsDefinitionsList) {
         conjugations = new HashMap<>();
+        this.conjugationsDefinitionsList = conjugationsDefinitionsList;
         populateConjugationMap(conjugationDefinitions);
     }
 
@@ -22,12 +26,7 @@ public class GreekConjugationFactory extends ConjugationFactory {
         if(conjugationPattern == null) {
             return new NullGreekConjugation();
         }
-        /*
-        String conjugationFile = conjugations.get(conjugationPattern.toLowerCase());
-        return conjugationFile != null ? new GreekConjugation(conjugationsFilesPath + "\\" + conjugationFile, verbDefinition) : new NullGreekConjugation();
-        */
-        return new NullGreekConjugation();
-    }
+        return new GreekConjugation(conjugationsDefinitionsList.get(conjugationPattern), verbDefinition);    }
 
     @Override
     public String getConjugationSynonym(VerbDefinition verbDefinition) {

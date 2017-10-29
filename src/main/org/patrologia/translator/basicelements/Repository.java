@@ -25,7 +25,8 @@ public class Repository {
     }
 
     private String lastLetter(String unaccentued) {
-        return unaccentued.substring(unaccentued.length()-1,unaccentued.length());
+        if(unaccentued != null && unaccentued.length() > 0) return unaccentued.substring(unaccentued.length()-1,unaccentued.length());
+        return "";
     }
 
 }

@@ -2,7 +2,6 @@ package org.patrologia.translator;
 
 import org.patrologia.translator.basicelements.*;
 import org.patrologia.translator.declension.DeclensionFactory;
-import org.patrologia.translator.declension.greek.GreekDeclensionFactory;
 import org.patrologia.translator.linguisticimplementations.*;
 
 import java.util.List;
@@ -27,7 +26,7 @@ public class TranslatorRepositoryFactory {
         if(sourceLanguage.equals(Language.LATIN) && destinationLanguage.equals(Language.FRENCH)) {
             return new LatinToFrench(dictionaryReferenceData, destinationVerbFile, verbRepository, nounRepository, declensionFactory, new LatinLanguageDecorator(), new DefaultFinalModifier());
         } else if(sourceLanguage.equals(Language.GREEK) && destinationLanguage.equals(Language.FRENCH)) {
-            return new GreekToFrench(dictionaryReferenceData, destinationVerbFile, verbRepository, nounRepository, new GreekDeclensionFactory(declensionPathFile, declensionsAndFiles), new GreekLanguageDecorator(), new GreekFinalModifier());
+            return new GreekToFrench(dictionaryReferenceData, destinationVerbFile, verbRepository, nounRepository, declensionFactory, new GreekLanguageDecorator(), new GreekFinalModifier());
         } else if(sourceLanguage.equals(Language.HEBREW) && destinationLanguage.equals(Language.FRENCH)) {
             return new HebrewToFrench(dictionaryReferenceData, destinationVerbFile, verbRepository, nounRepository, declensionFactory, new DefaultFinalModifier());
         } else if(sourceLanguage.equals(Language.ROMANIAN) && destinationLanguage.equals(Language.FRENCH)) {

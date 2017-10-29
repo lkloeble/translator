@@ -6,18 +6,18 @@ import org.patrologia.translator.declension.DeclensionFactory;
 import org.patrologia.translator.declension.NullDeclension;
 
 import java.util.HashMap;
+import java.util.List;
 
 /**
  * Created by Laurent KLOEBLE on 08/10/2015.
  */
 public class GreekDeclensionFactory extends DeclensionFactory {
 
-    public GreekDeclensionFactory(String declensionPath, String declensionsAndFiles) {
-        this.declensionsAndFiles = declensionsAndFiles;
-        this.declensionPath = declensionPath;
+    public GreekDeclensionFactory(List<String> declensionsDefinitions, List<Declension> declensionList) {
         this.language = Language.GREEK;
         declensions = new HashMap<>();
-        //populateDeclensionMap();
+        declensionMap = new HashMap<>();
+        populateDeclensionMap(declensionsDefinitions, declensionList);
     }
 
     @Override
@@ -25,7 +25,8 @@ public class GreekDeclensionFactory extends DeclensionFactory {
         if(declensionPattern == null) {
             return new NullDeclension();
         }
-        String declensionFile = declensions.get(declensionPattern.toLowerCase());
-        return declensionFile != null ? new GreekDeclension(declensionPath + "\\" + declensionFile) : new NullDeclension();
+        Declension result = declensionMap.get(declensionPattern);
+        declensionMap.put(declensionPattern,result);
+        return result;
     }
 }

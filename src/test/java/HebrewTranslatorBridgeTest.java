@@ -21,7 +21,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import static junit.framework.Assert.assertTrue;
 import static junit.framework.TestCase.assertEquals;
 
 /**
@@ -311,90 +310,6 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("wein41V", translatorBridge);
     }
 
-    @Test
-    public void test_bereshit_chapter1() {
-        checkInMaps("bereshit1A", translatorBridge);
-        checkInMaps("bereshit1B", translatorBridge);
-        checkInMaps("bereshit1C", translatorBridge);
-        checkInMaps("bereshit1D", translatorBridge);
-        checkInMaps("bereshit1E", translatorBridge);
-        checkInMaps("bereshit1F", translatorBridge);
-        checkInMaps("bereshit1G", translatorBridge);
-        checkInMaps("bereshit1H", translatorBridge);
-        checkInMaps("bereshit1I", translatorBridge);
-        checkInMaps("bereshit1J", translatorBridge);
-        checkInMaps("bereshit1K", translatorBridge);
-        checkInMaps("bereshit1L", translatorBridge);
-        checkInMaps("bereshit1M", translatorBridge);
-        checkInMaps("bereshit1N", translatorBridge);
-        checkInMaps("bereshit1O", translatorBridge);
-        checkInMaps("bereshit1P", translatorBridge);
-        checkInMaps("bereshit1Q", translatorBridge);
-        checkInMaps("bereshit1R", translatorBridge);
-        checkInMaps("bereshit1S", translatorBridge);
-        checkInMaps("bereshit1T", translatorBridge);
-        checkInMaps("bereshit1U", translatorBridge);
-        checkInMaps("bereshit1V", translatorBridge);
-        checkInMaps("bereshit1W", translatorBridge);
-        checkInMaps("bereshit1X", translatorBridge);
-        checkInMaps("bereshit1Y", translatorBridge);
-        checkInMaps("bereshit1Z", translatorBridge);
-        checkInMaps("bereshit1AA", translatorBridge);
-        checkInMaps("bereshit1BB", translatorBridge);
-        checkInMaps("bereshit1CC", translatorBridge);
-        checkInMaps("bereshit1DD", translatorBridge);
-        checkInMaps("bereshit1EE", translatorBridge);
-    }
 
-    @Test
-    public void test_mishnah_berakhot_chapter1() {
-        checkInMaps("mishnah1A", translatorBridge);
-        checkInMaps("mishnah1B", translatorBridge);
-        checkInMaps("mishnah1C", translatorBridge);
-        checkInMaps("mishnah1D", translatorBridge);
-        checkInMaps("mishnah1E", translatorBridge);
-        checkInMaps("mishnah1F", translatorBridge);
-        checkInMaps("mishnah1G", translatorBridge);
-        checkInMaps("mishnah1H", translatorBridge);
-        checkInMaps("mishnah1I", translatorBridge);
-        checkInMaps("mishnah1J", translatorBridge);
-        checkInMaps("mishnah1K", translatorBridge);
-        checkInMaps("mishnah1L", translatorBridge);
-        checkInMaps("mishnah1M", translatorBridge);
-        checkInMaps("mishnah1N", translatorBridge);
-        checkInMaps("mishnah1O", translatorBridge);
-        checkInMaps("mishnah1P", translatorBridge);
-        checkInMaps("mishnah1Q", translatorBridge);
-        checkInMaps("mishnah1R", translatorBridge);
-        checkInMaps("mishnah1S", translatorBridge);
-        checkInMaps("mishnah1T", translatorBridge);
-        checkInMaps("mishnah1U", translatorBridge);
-        checkInMaps("mishnah1V", translatorBridge);
-        checkInMaps("mishnah1W", translatorBridge);
-    }
 
-    @Test
-    public void test_rachi_bereshit_chapter1() {
-        checkInMaps("rachitext1A", translatorBridge);
-        checkInMaps("rachitext1B", translatorBridge);
-        checkInMaps("rachitext1C", translatorBridge);
-        checkInMaps("rachitext1D", translatorBridge);
-        checkInMaps("rachitext1E", translatorBridge);
-        checkInMaps("rachitext1F", translatorBridge);
-        checkInMaps("rachitext1G", translatorBridge);
-        checkInMaps("rachitext1H", translatorBridge);
-        checkInMaps("rachitext1I", translatorBridge);
-        checkInMaps("rachitext1J", translatorBridge);
-        checkInMaps("rachitext1K", translatorBridge);
-        checkInMaps("rachitext1L", translatorBridge);
-        checkInMaps("rachitext1M", translatorBridge);
-        checkInMaps("rachitext1N", translatorBridge);
-        checkInMaps("rachitext1O", translatorBridge);
-    }
-
-    @Test
-    public void test_failedones() {
-        assertTrue(true);
-        checkInMaps("bereshit1K", translatorBridge);
-    }
 }

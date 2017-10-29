@@ -53,7 +53,7 @@ public class TranslationInformationBean {
     }
 
     private String lastLetter(String form, int rootSize) {
-        if(form.length() == rootSize) {
+        if(form.length() == rootSize && rootSize > 0) {
             return new Character(form.charAt(rootSize-1)).toString();
         }
         return EMPTY_STRING;

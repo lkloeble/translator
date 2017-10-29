@@ -5,6 +5,7 @@ import org.patrologia.translator.casenumbergenre.greek.GreekCaseFactory;
 import org.patrologia.translator.declension.Declension;
 import org.patrologia.translator.declension.DeclensionLoader;
 
+import java.util.List;
 import java.util.Map;
 
 /**
@@ -13,20 +14,19 @@ import java.util.Map;
 public class GreekDeclension extends Declension {
 
     protected GreekCaseFactory greekCaseFactory = new GreekCaseFactory();
-    protected String endingsFilePath;
     private DeclensionLoader declensionLoader = new DeclensionLoader();
 
-    public GreekDeclension(String endingsFilePath) {
+    public GreekDeclension(String endingsFilePath, List<String> declensionElements) {
         this.endingsFilePath = endingsFilePath;
-        initializeMap();
+        initializeMap(declensionElements);
     }
 
     public Map<CaseNumberGenre, String> getAllEndings() {
         return allEndings;
     }
 
-    private void initializeMap() {
-        //allEndings = declensionLoader.getEndings(endingsFilePath, greekCaseFactory);
+    private void initializeMap(List<String> declensionElements) {
+        allEndings = declensionLoader.getEndings(declensionElements, greekCaseFactory);
     }
 
     @Override
