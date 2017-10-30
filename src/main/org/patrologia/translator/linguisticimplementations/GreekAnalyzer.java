@@ -26,7 +26,7 @@ public class GreekAnalyzer implements Analizer {
     private GreekConjugationAnalyzer greekConjugationAnalyzer = new GreekConjugationAnalyzer();
 
     public GreekAnalyzer(PrepositionRepository prepositionRepository, NounRepository nounRepository, VerbRepository verbRepository) {
-        wordAnalyzer = new WordAnalyzer(prepositionRepository, nounRepository,verbRepository, new GreekPhraseChanger(nounRepository), new DefaultModificationLog(), new CustomRule(), new CaseOperatorContainer(nounRepository),Language.ENGLISH);
+        wordAnalyzer = new WordAnalyzer(prepositionRepository, nounRepository,verbRepository, new GreekPhraseChanger(nounRepository), new DefaultModificationLog(), new CustomRule(), new CaseOperatorContainer(nounRepository),Language.GREEK);
     }
 
     public Analysis analyze(String sentence) {
