@@ -268,6 +268,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "m@prep%1(prep)=de",
                 "m60@prep%1(prep)=de",
                 "mh@prep%1(prep)=quoi",
+                "m63h@prep%1(prep)=quoi",
                 "m64h@prep%1(prep)=quoi",
                 "mi@prep%1(prep)=qui",
                 "m60i@prep%1(prep)=qui",
@@ -411,6 +412,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "m@prep()",
                 "m60@prep()",
                 "mh@prep()",
+                "m63h@prep()",
                 "m64h@prep()",
                 "mi@prep()",
                 "m60i@prep()",
@@ -685,6 +687,58 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("wein22A12", translatorBridge);
     }
 
+    @Test
+    public void test_weingreen_chapter_23() {
+        assertEquals(2, 2);
+    }
+
+    @Test
+    public void test_weingreen_chapter_24() {
+        checkInMaps("wein24A1", translatorBridge);
+        checkInMaps("wein24A2", translatorBridge);
+        checkInMaps("wein24B1", translatorBridge);
+        checkInMaps("wein24B2", translatorBridge);
+        checkInMaps("wein24C1", translatorBridge);
+        checkInMaps("wein24C2", translatorBridge);
+        checkInMaps("wein24D1", translatorBridge);
+        checkInMaps("wein24D2", translatorBridge);
+        checkInMaps("wein24E1", translatorBridge);
+        checkInMaps("wein24E2", translatorBridge);
+        checkInMaps("wein24F1", translatorBridge);
+        checkInMaps("wein24F2", translatorBridge);
+        checkInMaps("wein24G1", translatorBridge);
+        checkInMaps("wein24G2", translatorBridge);
+        checkInMaps("wein24H1", translatorBridge);
+        checkInMaps("wein24H2", translatorBridge);
+        checkInMaps("wein24I1", translatorBridge);
+        checkInMaps("wein24I2", translatorBridge);
+        checkInMaps("wein24J1", translatorBridge);
+        checkInMaps("wein24J2", translatorBridge);
+        checkInMaps("wein24K1", translatorBridge);
+        checkInMaps("wein24K2", translatorBridge);
+        checkInMaps("wein24L1", translatorBridge);
+        checkInMaps("wein24L2", translatorBridge);
+        checkInMaps("wein24M1", translatorBridge);
+        checkInMaps("wein24M2", translatorBridge);
+        checkInMaps("wein24N1", translatorBridge);
+        checkInMaps("wein24N2", translatorBridge);
+        checkInMaps("wein24O1", translatorBridge);
+        checkInMaps("wein24O2", translatorBridge);
+        checkInMaps("wein24P1", translatorBridge);
+        checkInMaps("wein24P2", translatorBridge);
+        checkInMaps("wein24Q1", translatorBridge);
+        checkInMaps("wein24Q2", translatorBridge);
+        checkInMaps("wein24R1", translatorBridge);
+        checkInMaps("wein24R2", translatorBridge);
+        checkInMaps("wein24S1", translatorBridge);
+        checkInMaps("wein24S2", translatorBridge);
+        checkInMaps("wein24T1", translatorBridge);
+        checkInMaps("wein24T2", translatorBridge);
+        checkInMaps("wein24U1", translatorBridge);
+        checkInMaps("wein24U2", translatorBridge);
+        checkInMaps("wein24V1", translatorBridge);
+        checkInMaps("wein24V2", translatorBridge);
+    }
 
     @Test
     public void test_bereshit_chapter1() {
@@ -771,7 +825,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failed_ones() {
         assertTrue(true);
-        checkInMaps("wein22U1", translatorBridge);
+        checkInMaps("wein22Z1", translatorBridge);
     }
 
 }
