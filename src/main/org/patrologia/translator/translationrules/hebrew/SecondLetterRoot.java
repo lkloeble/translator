@@ -29,7 +29,7 @@ public class SecondLetterRoot extends TranslationRule {
             String value = conjugationPart.getValue();
             if(IsSecondLetterOfRoot(value,letterToUpdate)) {
                 int letterIndice = value.indexOf(letterToUpdate);
-                value = value.substring(0,letterIndice) + updatedValue  + value.substring(letterIndice+1);
+                value = value.substring(0,letterIndice) + updatedValue  + value.substring(letterIndice+letterToUpdate.length());
             }
             ConjugationPart modified = new ConjugationPart(conjugationPart.getConjugationPosition(),value,conjugationPart.getUnaccentuedValue(), conjugationPart.getPositionInDefinition());
             modifiedList.add(modified);

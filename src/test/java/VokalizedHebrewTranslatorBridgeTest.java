@@ -16,6 +16,7 @@ import org.patrologia.translator.utils.Analizer;
 import java.util.*;
 
 import static junit.framework.TestCase.assertEquals;
+import static org.junit.Assert.assertTrue;
 
 /**
  * Created by lkloeble on 28/09/2017.
@@ -145,6 +146,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "al65h60im000@masc%custom(nomsg=alhim|cst(nomsg)=alhi&|decim-inwplr=alhinw)",
                 "a62r62ts@fem%custom(nomplr=artswt|nomsg=a62r62ts)",
                 "a60s29864h@fem%custom(nomplr=nsim|cst(nomplr)=nsi&|nomsg=a60s29864h)",
+                "b30565q62r@masc%im",
                 "b60q62r@masc%im",
                 "g64dw331l@adj%im-ot",
                 "g64n000@masc%im",
@@ -208,6 +210,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "bdl@verb!norm%1(verb)=separer",
                 "bin000@prep%1(prep)=entre",
                 "b61in000@prep%1(prep)=entre",
+                "b30565q62r@noun!im%1(noun)=matin",
                 "b60q62r@noun!im%1(noun)=matin",
                 "bra@verb!norm%1(noun)=creer",
                 "dbr@verb!norm%1(verb)=parler",
@@ -239,9 +242,10 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "idy@verb!norm%1(verb)=connaitre",
                 "iw331m000@noun!custom(nomplr=imim000|cst(nomplr)=imi|cst(nomsg)=iwm&|nomsg=iwm000)%1(noun)=jour",
                 "ihwh@noun!invmasc%1(noun)=le seigneur%1(noun)=YHVH",
-                "isb@verb!norm%1(noun)=demeurer",
                 "i56rw309s29864l63i60m000@noun!invmasc%1(noun)=jérusalem",
+                "isb@verb!norm%1(noun)=demeurer",
                 "i60s29956r64a61l@noun!invmasc%1(noun)=israël",
+                "itsa@verb!norm%1(verb)=sortir",
                 "k@prep%1(prep)=comme",
                 "k56@prep%1(prep)=comme",
                 "k31559@prep%1(prep)=comme",
@@ -310,6 +314,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "hlk,,[paal],(AIP%leadingrootletter%h*h64@AIP%secondletterroot%l*l63@AIP%sofitrootletter%k3*k000@AIP%sofitaccentuedletter%k000*k00056)",
                 "idy,,[paal],(AIP%leadingrootletter%i*i64@AIP%secondletterroot%d*d63@AIP%alternateaccentuation(5:9)%d63*d56@AIP%alternateaccentuation(5)%y*y64)",
                 "isb,,[paal],(AIP%leadingrootletter%i*i64@AIP%secondletterroot%s*s29863@AIP%alternateaccentuation(5:9)%s29863*s29856@AIP%alternateaccentuation(5)%b*b64)",
+                "itsa,,[paal],(AIP%leadingrootletter%i*i64@AIP%secondletterroot%ts*ts64@AIP%alternateaccentuation(5:9)%ts64*ts56)",
                 "lq'h,,[paal],(AIP%leadingrootletter%l*l64@AIP%secondletterroot%q*q63@AIP%alternateaccentuation(5:9)%q63*q56@AIP%alternateaccentuation(5)%'h*'h64)",
                 "ntn,,[paal],(AIP%leadingrootletter%n*n64@AIP%secondletterroot%t*t63@AIP%sofitrootletter%n3*n000@AIP%alternateaccentuation(5:9)%t63*t56@AIP%alternateaccentuation(5)%56n*56n64)",
                 "qra,,[paal],(AIP%leadingrootletter%q*q64@AIP%secondletterroot%r*r64@AIP%alternateaccentuation%q64*q6469@AIP%alternateaccentuation(5:9)%r64*r56@AIP%alternateaccentuation(5)%a*a64)",
@@ -762,4 +767,11 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("rachitext1N", translatorBridge);
         checkInMaps("rachitext1O", translatorBridge);
     }
+
+    @Test
+    public void test_failed_ones() {
+        assertTrue(true);
+        checkInMaps("wein22U1", translatorBridge);
+    }
+
 }
