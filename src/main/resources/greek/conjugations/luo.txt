@@ -20,5 +20,5 @@ AORACTINF=>σαι,ειν,-x,conjpassure
 AORPASSUB=>ω,ης,η,ης,ωμεν,ητε,ωσιν
 MFI=>ομαι,η|ει,εται,ομεθα,εσθε,ονται
 AIF=>-x,-x,ει,-x,-x,-x
-AORPASSPART=>-x,-x,εντα,-x,-x,-x
+AORPASSPART=>-x,-x,ηναι,εις,εισα,εν
 PRPARPASS=>-x,-x,-x,ομενων

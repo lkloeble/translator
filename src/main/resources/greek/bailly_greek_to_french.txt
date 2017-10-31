@@ -64,6 +64,7 @@
 αποθνησκ@verb!norm%1(verb)=mourir
 αποκλει@verb!norm%1(verb)=verouiller%2(verb)=eteindre%3(verb)=exclure%4(verb)=enfermer
 αποκριν@verb!norm%1(verb)=separer%2(verb)=choisir%3(verb)=repondre
+αποκριθεντ@adj!ος-α-ον%1(adj)=séparé
 απολυ@verb!norm%1(verb)=être séparé,annulé%2(verb)=vendre%3(verb)=payer une dette%4(verb)=divorcer%5(verb)=acquitter%6(verb)=liberer
 απονοι@noun!α-ας%1(noun)=folie
 απορι@noun!α-ας%1(noun)=aporie%2(noun)=embarras%3(noun)=destitution%4(noun)=question
@@ -463,6 +464,7 @@
 περιgen@prep%1(prep)=à propos
 περιεχ@verb!norm%1(verb)=entourer
 περιλαμβαν@verb!norm%1(verb)=encercler
+περιληφθεντ@adj!ος-α-ον%1(adj)=encerclé
 περιπατε@verb!norm%1(verb)=marcher
 περιπατ@verb!norm%1(verb)=marcher2
 περιπτωσ@noun!ις-εως%1(noun)=calamité
@@ -496,6 +498,7 @@
 προφητευ@verb!norm%1(verb)=prophetiser
 προσωπ@noun!ον-ου%1(noun)=face%2(noun)=figure%3(noun)=visage
 προσευχ@noun!η-ης%1(noun)=prière
+προστασσ@verb!norm%1(noun)=ordonner
 προ@prep%1(prep)=devant%2(prep)=avant
 προς@prep%1(prep)=près de%2(noun)=vers
 προσκυν@verb!norm%1(verb)=adorer
@@ -605,6 +608,7 @@
 υπαρχ@verb!norm%1(verb)=etrerendupossible%2(verb)=debuter
 υπαρχοντα@noun!inv%1(noun)=circonstances
 υπερ@prep%1(prep)=au dessus
+υπν@noun!ος-ου%1(noun)=sommeil
 υπο@prep%1(prep)=au dessous
 υποacc@prep%1(prep)=au dessous
 υποgen@prep%1(prep)=par
