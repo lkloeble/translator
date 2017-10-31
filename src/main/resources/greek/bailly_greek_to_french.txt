@@ -238,6 +238,7 @@
 ζω@noun!η-ης%1(noun)=vie
 η@noun!inv%1(noun)=la
 ηι@prep%1(prep)=lequel
+ηθ@noun!ος-ους%1(noun)=coutûme%2(noun)=charactère
 ηλι@noun!ος-ου%1(noun)=soleil
 ηλι@noun!ας-ου%1(noun)=élie
 ημερ@noun!α-ας%1(noun)=jour
@@ -311,6 +312,7 @@
 καταgen@prep%1(prep)=contre
 κατοικε@verb!norm%1(verb)=habiter
 κεφαλ@noun!η-ης%1(noun)=dirigeant%2(noun)=tête
+κηρυσσ@verb!norm%1(verb)=proclamer
 κινησ@noun!ις-εως%1(noun)=changement%2(noun)=danse%3(noun)=mouvement
 κινουμεν@adj!ος-α-ον%1(adj)=mouvant%2(adj)=animé
 κιονι@noun!inv%1(noun)=colonne
@@ -350,6 +352,7 @@
 μαρτυρι@noun!α-ας%1(noun)=témoignage
 ματθαν@noun!inv%1(noun)=matthan
 ματηρ@noun!inv%1(noun)=mère
+μεγαλοπρεπ@adj!ης-ης-ες%1(noun)=splendide
 μεγαλως@prep%1(prep)=grandement
 μεθερμηνευ@verb!norm%1(verb)=traduire
 μελπ@verb!norm%1(verb)=chanter
@@ -567,6 +570,7 @@
 τηρ@verb!norm%1(verb)=épier,surveiller%2(verb)=garder
 της@prep%1(prep)=la
 τι@prep%1(prep)=quoi%2(prep)=quelque chose%3(prep)=quelqu'un%4(prep)=qui
+τιθη@verb!norm%1(verb)=placer
 τικτ@verb!norm%1(verb)=enfanter
 τινα@prep%1(prep)=quelque chose%2(prep)=quelqu'un
 τινας@prep%1(prep)=quoi%2(prep)=quelque chose%3(prep)=quelqu'un%4(prep)=qui
@@ -619,6 +623,7 @@
 φιλ@verb!norm%1(verb)=éprouver de l'amitié,triater en ami%2(verb)=donner un signe d'amitié%3(verb)=rechercher,poursuivre%4(verb)=aimer
 φιλ@noun!ος-ου%1(noun)=ami
 φιλλ@noun!ος-ου%1(noun)=phillos
+φιλοξενι@noun!α-ας%1(noun)=hospitalité
 φλο@noun!ξ-γος%1(noun)=flamme%2(noun)=éclair
 φλοι@noun!ος-ου%1(noun)=écorce
 φοβ@noun!ος-ου%1(noun)=crainte%2(noun)=peur
