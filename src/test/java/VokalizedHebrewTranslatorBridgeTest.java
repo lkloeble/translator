@@ -180,6 +180,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "ra65s298@fem%im",
                 "r63y@adj%im-ot",
                 "s29856mw309a61l@masc%invmasc",
+                "s29861m000@masc%mascot",
                 "s29864m6351i60m000@masc%invmasc",
                 "sw309s@masc%im-ot",
                 "xw331b@noun%im-ot"
@@ -303,8 +304,10 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "rah@verb!norm%1(noun)=apparaitre%2(verb)=voir",
                 "r63y@noun!im-ot%1(noun)=mauvais",
                 "s29856mw309a61l@noun!invmasc%1(noun)=samuel",
+                "s29861m000@noun!mascot%1(noun)=nom",
                 "s29864m6351i60m000@noun!invmasc%1(noun)=ciels",
                 "sw309s@noun!im-ot%1(noun)=cheval",
+                "smy@verb!norm%1(verb)=entendre",
                 "t'ht@prep%1(prep)=à la place de%2(prep)=sous",
                 "t63'h63t@prep%1(prep)=à la place de%2(prep)=sous",
                 "xw331b@noun!im-ot%1(noun)=bon",
@@ -319,7 +322,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "ba,,[paal2],(AIP%leadingrootletter%b*b30564@AIP%alternateaccentuation(5)%a*a64))",
                 "bdl,,[hiphil],(HIFPER%leadingrootletter%h*h60@HIFPER%secondletterroot%b*b56@HIFPER%alternateaccentuation(4:5:9)%d*d60i",
                 "bra,,[paal],(AIP%leadingrootletter%*b30564@AIP%secondletterroot%r*r64@AIP%secondletterrootexception(5:9)%r*r56@AIP%alternateaccentuation%b30564*b64",
-                "dbr,,[piel],(PIEPER%leadingrootletter%d*d60@PIEPER%secondletterroot%b*b63@PIEPER%alternateaccentuation%b63*b30562)",
+                "dbr,,[piel],(PIEPER%leadingrootletter%d*d60@PIEPER%secondletterroot%b*b63@PIEPER%alternateaccentuation(4)%b63*b30562@PIEPER%alternateaccentuation(5:9)%b63*b30556)",
                 "hiw@IRREGULAR%[AIP]=[,,h64i64h,,,h64iw309]%[AIF]=[,,ihi,,,,]%[PALFUT]=[,,ihi,,,,]%[AIMP]=[,,,hiw,]",
                 "hlk,,[paal],(AIP%leadingrootletter%h*h64@AIP%secondletterroot%l*l63@AIP%sofitrootletter%k3*k000@AIP%sofitaccentuedletter%k000*k00056)",
                 "idy,,[paal],(AIP%leadingrootletter%i*i64@AIP%secondletterroot%d*d63@AIP%alternateaccentuation(5:9)%d63*d56@AIP%alternateaccentuation(5)%y*y64)",
@@ -328,7 +331,8 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "lq'h,,[paal],(AIP%leadingrootletter%l*l64@AIP%secondletterroot%q*q63@AIP%alternateaccentuation(5:9)%q63*q56@AIP%alternateaccentuation(5)%'h*'h64)",
                 "ntn,,[paal],(AIP%leadingrootletter%n*n64@AIP%secondletterroot%t*t63@AIP%sofitrootletter%n3*n000@AIP%alternateaccentuation(5:9)%t63*t56@AIP%alternateaccentuation(5)%56n*56n64)",
                 "qra,,[paal],(AIP%leadingrootletter%q*q64@AIP%secondletterroot%r*r64@AIP%alternateaccentuation%q64*q6469@AIP%alternateaccentuation(5:9)%r64*r56@AIP%alternateaccentuation(5)%a*a64)",
-                "rah,,[paal],(AIP%leadingrootletter%r*r64@AIP%secondletterroot%a*a64)"
+                "rah,,[paal],(AIP%leadingrootletter%r*r64@AIP%secondletterroot%a*a64)",
+                "smy,,[paal],(AIP%leadingrootletter%s*s29864@AIP%secondletterroot%m*m63)"
         });
     }
 
@@ -837,7 +841,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failed_ones() {
         assertTrue(true);
-        checkInMaps("wein24E2", translatorBridge);
+        checkInMaps("wein24F2", translatorBridge);
     }
 
 }

@@ -35,7 +35,7 @@ public class CaseOperatorContainer {
         String initialValue = wordContainer.getInitialValue();
         Collection<Noun> nounCollection = nounRepository.getNoun(initialValue);
         if(nounCollection == null || nounCollection.isEmpty()) nounCollection = decorateInitialValueWithHebrewStartPrepositionsCombination(wordContainer.getPosition(), initialValue);
-        if(nounCollection == null || nounCollection.isEmpty()) nounCollection = decorateInitialValueWithHebrewStartPepositions(initialValue);
+        if(nounCollection == null || nounCollection.isEmpty()) nounCollection = decorateInitialValueWithHebrewStartPepositions(wordContainer.getPosition(), initialValue);
         if(nounCollection == null || nounCollection.isEmpty()) return false;
         Noun noun = new Noun((Noun)nounCollection.toArray()[0]);
         noun = affectCorrectCaseNumberGenre(noun, wordContainer);
@@ -69,17 +69,6 @@ public class CaseOperatorContainer {
         return noun;
     }
 
-    private Collection<Noun> decorateInitialValueWithHebrewStartPrepositionsCombination(int position, String initialValue) {
-        for(String preposition : combinationsOfTwoKinds) {
-            if(initialValue.startsWith(preposition)) {
-                matchingLeadingPrepositionMap.put(position,preposition);
-                String tempInitialValue = initialValue.substring(preposition.length());
-                Collection<Noun> noun = nounRepository.getNoun(tempInitialValue);
-                return noun;
-            }
-        }
-        return null;
-    }
 
     private List<String> computePrepositionCombinations() {
         List<String> prepositionsStartingWithWav = filterPrepositionsByAccentuation(prepositionRepository.getValuesStartingWith("w"));
@@ -121,7 +110,19 @@ public class CaseOperatorContainer {
         return joins;
     }
 
-    private Collection<Noun> decorateInitialValueWithHebrewStartPepositions(String initialValue) {
+    private Collection<Noun> decorateInitialValueWithHebrewStartPrepositionsCombination(int position, String initialValue) {
+        for(String preposition : combinationsOfTwoKinds) {
+            if(initialValue.startsWith(preposition)) {
+                matchingLeadingPrepositionMap.put(position,preposition);
+                String tempInitialValue = initialValue.substring(preposition.length());
+                Collection<Noun> noun = nounRepository.getNoun(tempInitialValue);
+                return noun;
+            }
+        }
+        return null;
+    }
+
+    private Collection<Noun> decorateInitialValueWithHebrewStartPepositions(int position, String initialValue) {
         Set<String> startPrepositions = new HashSet<>();
         startPrepositions.add("b");
         startPrepositions.add("m");
@@ -130,6 +131,7 @@ public class CaseOperatorContainer {
         startPrepositions.add("w");
         for(String preposition : startPrepositions) {
             if(initialValue.startsWith(preposition)) {
+                matchingLeadingPrepositionMap.put(position,preposition);
                 String tempInitialValue = initialValue.substring(1);
                 Collection<Noun> noun = nounRepository.getNoun(tempInitialValue);
                 return noun;
@@ -138,15 +140,6 @@ public class CaseOperatorContainer {
         return null;
     }
 
-    private Collection<Noun> addPrepositionToInitialValue(Collection<Noun> nouns, String prepositionValue) {
-        List<Noun> newNounList = new ArrayList<>();
-        for(Noun noun : nouns) {
-            Noun newNoun = new Noun(noun);
-            newNoun.updateInitialValue(prepositionValue + noun.getInitialValue());
-            newNounList.add(newNoun);
-        }
-        return newNounList;
-    }
 
     private void addResultCaseOperator(Noun noun, CaseOperator caseOperator) {
         ResultCaseOperator resultCaseOperator = new ResultCaseOperator(noun, caseOperator);
@@ -169,7 +162,7 @@ public class CaseOperatorContainer {
         String differentierOfSubstitution = resultCaseOperatorConcerned.getDifferentierOfSubstitution();
         Collection<Noun> nouns = nounRepository.getNoun(resultCaseOperatorConcerned.getNounValue());
         if(nouns == null || nouns.isEmpty()) nouns = decorateInitialValueWithHebrewStartPrepositionsCombination(position, resultCaseOperatorConcerned.getNounValue());
-        if(nouns == null || nouns.isEmpty()) nouns = decorateInitialValueWithHebrewStartPepositions(resultCaseOperatorConcerned.getNounValue());
+        if(nouns == null || nouns.isEmpty()) nouns = decorateInitialValueWithHebrewStartPepositions(position, resultCaseOperatorConcerned.getNounValue());
         if(nouns == null || nouns.isEmpty()) return foundAlready;
         Noun noun = new Noun((Noun) nouns.toArray()[0]);
         String declensionPattern = noun.getDeclension();
