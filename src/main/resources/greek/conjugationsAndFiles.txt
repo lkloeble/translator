@@ -6,4 +6,5 @@
 μι-ς%deikvumi.txt
 ομαι-η%gignomai.txt
 ευω-εις%mvinsteuw.txt
+ω-οις%meiw.txt
 unknown%unknown.txt

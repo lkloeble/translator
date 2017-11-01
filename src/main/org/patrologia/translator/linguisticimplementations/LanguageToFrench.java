@@ -140,7 +140,7 @@ public abstract class LanguageToFrench implements TranslatorRepository {
             Map<String, Integer> formPositionByConstructionName = construction.getFormPosition(constructionNames, toTranslate, (Verb)word);
             List<String> possibleVerbs = extractTranslation(formPositionByConstructionName, frenchVerbs.get(frenchRoot), verb.getPositionInTranslationTable(), verb);
             if(possibleVerbs.size() == 0 || possibleVerbs.get(0).equals("[XXX]")) {
-                System.out.println(word + formPositionByConstructionName.keySet().toString());
+                System.out.println(word + " " + frenchRoot + " "  + formPositionByConstructionName.keySet().toString());
             }
             return agregateVerbs(decorateVerbs(possibleVerbs,verb));
         } else if(word.isPreposition()) {

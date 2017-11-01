@@ -31,12 +31,13 @@ import java.util.List;
  * AORPASSUB => AORist PASsive SUBjonctive
  * MFI => Middle Future Indicatif
  * AORPASSPART => AORist PARTiciple PASSive
+ * FUTPARTACT => FUTure PARticiple INFinitive
  * ACAOOP => ACtive AOrist OPtative
  * AORMIDDIND => AORist MIDDle INDicative
  */
 public class GreekConjugation extends Conjugation {
 
-    protected static List<String> times = Arrays.asList(new String[]{"IPR","AII","ACAOIM","ACAOIN","PEACIN","PRPARPASS","PII","ACOPPR","PAAOIM","MIAOIN","PAINPRAC","PEPASPAR","AORPASOPT","AORPASIND","AORACTINF","PASANT","AORPASSPART","PARAORINFACT","AORPASDEP","PARAORINFPAS","AORPASSPART","ACAOOP","AORMIDDIND"});
+    protected static List<String> times = Arrays.asList(new String[]{"IPR","AII","ACAOIM","ACAOIN","PEACIN","PRPARPASS","PII","ACOPPR","PAAOIM","MIAOIN","PAINPRAC","PEPASPAR","AORPASOPT","AORPASIND","AORACTINF","PASANT","AORPASSPART","PARAORINFACT","AORPASDEP","PARAORINFPAS","AORPASSPART","ACAOOP","AORMIDDIND","FUTPARTACT"});
 
     private String conjugationFilePath;
     private ConjugationLoader conjugationLoader = new ConjugationLoader();

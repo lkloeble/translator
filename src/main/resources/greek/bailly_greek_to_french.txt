@@ -356,6 +356,7 @@
 μεγαλοπρεπ@adj!ης-ης-ες%1(noun)=splendide
 μεγαλως@prep%1(prep)=grandement
 μεθερμηνευ@verb!norm%1(verb)=traduire
+μει@verb!norm%1(verb)=decroitre
 μελπ@verb!norm%1(verb)=chanter
 μεν@verb!norm%1(verb)=être fixe,stable,rester de pied ferme,tenir bon%2(verb)=demeurer,habiter%3(verb)=rester
 μεν@noun!inv%1(noun)=d'une part
@@ -487,6 +488,7 @@
 πονηρ@adj!ος-α-ον%1(adj)=mauvais%(adj)=méchant%3(adj)=malin
 πορ@noun!ος-ου%1(noun)=passage
 ποταμ@noun!ος-ου%1(noun)=fleuve
+ποτε@prep%1(prep)=à un moment
 ποτηρι@noun!ον-ου%1(noun)=coupe
 πραγμ@noun!α-ατος%1(noun)=chose
 πραξιαδ@noun!ης-ου%1(noun)=praxiades

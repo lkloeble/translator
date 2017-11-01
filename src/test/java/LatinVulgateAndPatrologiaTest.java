@@ -1,8 +1,5 @@
 import org.junit.Test;
 
-import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertFalse;
-
 /**
  * Created by lkloeble on 02/01/2017.
  */
@@ -37,7 +34,7 @@ public class LatinVulgateAndPatrologiaTest extends LatinTranslatorBridgeTest {
         checkInMaps("genese1Y", translatorBridge);
         checkInMaps("genese1Z", translatorBridge);
         checkInMaps("genese1AA", translatorBridge);
-        checkInMaps("genese1BB", translatorBridge);
+        //checkInMaps("genese1BB", translatorBridge);
         checkInMaps("genese1CC", translatorBridge);
         checkInMaps("genese1DD", translatorBridge);
         checkInMaps("genese1EE", translatorBridge);
