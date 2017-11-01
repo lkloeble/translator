@@ -15,6 +15,7 @@ public class CaseOperatorContainer {
     private PrepositionRepository prepositionRepository;
     private List<ResultCaseOperator> resultCaseOperatorList = new ArrayList<>();
     private List<String> combinationsOfTwoKinds;
+    private Map<Integer, String> matchingLeadingPrepositionMap = new HashMap<>();
 
     public CaseOperatorContainer(NounRepository nounRepository, PrepositionRepository prepositionRepository) {
         this.nounRepository = nounRepository;
@@ -33,7 +34,7 @@ public class CaseOperatorContainer {
     public boolean isCompliantToOneOfCaseOperator(WordContainer wordContainer) {
         String initialValue = wordContainer.getInitialValue();
         Collection<Noun> nounCollection = nounRepository.getNoun(initialValue);
-        if(nounCollection == null || nounCollection.isEmpty()) nounCollection = decorateInitialValueWithHebrewStartPrepositionsCombination(initialValue);
+        if(nounCollection == null || nounCollection.isEmpty()) nounCollection = decorateInitialValueWithHebrewStartPrepositionsCombination(wordContainer.getPosition(), initialValue);
         if(nounCollection == null || nounCollection.isEmpty()) nounCollection = decorateInitialValueWithHebrewStartPepositions(initialValue);
         if(nounCollection == null || nounCollection.isEmpty()) return false;
         Noun noun = new Noun((Noun)nounCollection.toArray()[0]);
@@ -68,9 +69,10 @@ public class CaseOperatorContainer {
         return noun;
     }
 
-    private Collection<Noun> decorateInitialValueWithHebrewStartPrepositionsCombination(String initialValue) {
+    private Collection<Noun> decorateInitialValueWithHebrewStartPrepositionsCombination(int position, String initialValue) {
         for(String preposition : combinationsOfTwoKinds) {
             if(initialValue.startsWith(preposition)) {
+                matchingLeadingPrepositionMap.put(position,preposition);
                 String tempInitialValue = initialValue.substring(preposition.length());
                 Collection<Noun> noun = nounRepository.getNoun(tempInitialValue);
                 return noun;
@@ -159,14 +161,14 @@ public class CaseOperatorContainer {
         return resultCaseOperatorList;
     }
 
-    public Word substituteWord(String initialValue, String pattern, Word foundAlready) {
+    public Word substituteWord(String initialValue, String pattern, Word foundAlready, int position) {
         String valueAndPattern = initialValue + pattern;
         ResultCaseOperator resultCaseOperatorConcerned = selectResult(valueAndPattern);
         if(resultCaseOperatorConcerned == null) return foundAlready;
         String prefix = valueAndPattern.replace(resultCaseOperatorConcerned.getNounValue(),"");
         String differentierOfSubstitution = resultCaseOperatorConcerned.getDifferentierOfSubstitution();
         Collection<Noun> nouns = nounRepository.getNoun(resultCaseOperatorConcerned.getNounValue());
-        if(nouns == null || nouns.isEmpty()) nouns = decorateInitialValueWithHebrewStartPrepositionsCombination(resultCaseOperatorConcerned.getNounValue());
+        if(nouns == null || nouns.isEmpty()) nouns = decorateInitialValueWithHebrewStartPrepositionsCombination(position, resultCaseOperatorConcerned.getNounValue());
         if(nouns == null || nouns.isEmpty()) nouns = decorateInitialValueWithHebrewStartPepositions(resultCaseOperatorConcerned.getNounValue());
         if(nouns == null || nouns.isEmpty()) return foundAlready;
         Noun noun = new Noun((Noun) nouns.toArray()[0]);
@@ -178,7 +180,7 @@ public class CaseOperatorContainer {
             String target = trigramForCase + differentier;
             if(target.equals(differentierOfSubstitution)) {
                 String suffix = declensionByPattern.getAllEndings().get(cng);
-                prefix = computePrefixForStartingPreposition(prefix,initialValue,noun.getRoot(), declensionByPattern);
+                prefix = computePrefixForStartingPreposition(position, prefix,initialValue,noun.getRoot(), declensionByPattern);
                 String root = noun.getRoot();
                 if(declensionByPattern.isCustom()) {
                     root = suffix;
@@ -199,7 +201,7 @@ public class CaseOperatorContainer {
         return new Noun(Language.HEBREW, noun.getRoot(), noun.getRoot(), Collections.EMPTY_LIST, Gender.getGenderByCode("NEUT"),"NEUT",noun.getDeclension(), Collections.EMPTY_LIST);
     }
 
-    private String computePrefixForStartingPreposition(String prefix, String initialValue, String root, Declension declension) {
+    private String computePrefixForStartingPreposition(int position, String prefix, String initialValue, String root, Declension declension) {
         if(prefix.length() > 0) return prefix;
         if(initialValue.startsWith(root)) return prefix;
         if(declension.isCustom()) {
@@ -207,8 +209,19 @@ public class CaseOperatorContainer {
             if(initialValue.startsWith("w") && !root.startsWith("w")) return "w";
         }
         int cutPoint = initialValue.indexOf(root);
-        if(cutPoint < 1) return prefix;
+        if(cutPoint < 1 && prefix.length() > 0) return prefix;
+        if(cutPoint < 1 && prefix.length() == 0) {
+            cutPoint = computeCutPointForAccentuateComposedPrepositions(position, initialValue);
+        }
         return initialValue.substring(0,cutPoint);
+    }
+
+    private int computeCutPointForAccentuateComposedPrepositions(int position, String initialValue) {
+        String matchingLeadingPreposition = matchingLeadingPrepositionMap.get(position);
+        if(matchingLeadingPreposition == null) return 0;
+        String work = initialValue.replace(matchingLeadingPreposition,"");
+        String unaccentuedWork = prepositionRepository.unaccentued(work);
+        return work.indexOf(unaccentuedWork.charAt(0)) + matchingLeadingPreposition.length();
     }
 
     private ResultCaseOperator selectResult(String pattern) {

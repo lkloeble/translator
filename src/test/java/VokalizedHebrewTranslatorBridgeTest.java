@@ -837,7 +837,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failed_ones() {
         assertTrue(true);
-        checkInMaps("wein24E1", translatorBridge);
+        checkInMaps("wein24E2", translatorBridge);
     }
 
 }

@@ -204,7 +204,7 @@ public class HebrewPhraseChanger extends CustomLanguageRulePhraseChanger {
                 List<ResultCaseOperator> resultCaseOperatorList = caseOperatorContainer.getResultCaseOperatorList();
                 Word newWordWithoutEndingPattern = wordWithoutEndingPattern(wordContainerAtPosition, endingPattern);
                 if(isDirectional(newWordWithoutEndingPattern) || isUnknownInRepositories(newWordWithoutEndingPattern)) {
-                    newWordWithoutEndingPattern = caseOperatorContainer.substituteWord(wordContainerAtPosition.getInitialValue(),endingPattern, newWordWithoutEndingPattern);
+                    newWordWithoutEndingPattern = caseOperatorContainer.substituteWord(wordContainerAtPosition.getInitialValue(),endingPattern, newWordWithoutEndingPattern, indice);
                 }
                 newPhrase.addWordAtPosition(newPhraseIndice, preposition);
                 newPhrase.addWordAtPosition(newPhraseIndice+1, newWordWithoutEndingPattern);
@@ -283,7 +283,7 @@ public class HebrewPhraseChanger extends CustomLanguageRulePhraseChanger {
                 List<ResultCaseOperator> resultCaseOperatorList = caseOperatorContainer.getResultCaseOperatorList();
                 Word newWordWithoutEndingPattern = wordWithoutEndingPattern(wordContainerAtPosition, endingPattern);
                 if(isNotDeclined(newWordWithoutEndingPattern) || isUnknownInRepositories(newWordWithoutEndingPattern)) {
-                    newWordWithoutEndingPattern = caseOperatorContainer.substituteWord(wordContainerAtPosition.getInitialValue(),endingPattern, newWordWithoutEndingPattern);
+                    newWordWithoutEndingPattern = caseOperatorContainer.substituteWord(wordContainerAtPosition.getInitialValue(),endingPattern, newWordWithoutEndingPattern,indice);
                 }
                 newPhrase.addWordAtPosition(newPhraseIndice, newWordWithoutEndingPattern);
                 newPhrase.addWordAtPosition(newPhraseIndice+1, preposition);
