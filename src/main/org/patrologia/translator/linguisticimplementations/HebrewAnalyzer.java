@@ -21,7 +21,7 @@ public class HebrewAnalyzer implements Analizer {
     private PhraseAnalizer phraseAnalizer = new PhraseAnalizer();
 
     public HebrewAnalyzer(PrepositionRepository prepositionRepository, NounRepository nounRepository, VerbRepository verbRepository) {
-        CaseOperatorContainer caseOperatorContainer = new CaseOperatorContainer(nounRepository);
+        CaseOperatorContainer caseOperatorContainer = new CaseOperatorContainer(nounRepository,prepositionRepository);
         caseOperatorContainer.addCaseOperator(new AvoidCaseOperator(new HebrewDirectionalCase("direction")));
         wordAnalyzer = new WordAnalyzer(prepositionRepository, nounRepository, verbRepository, new HebrewPhraseChanger(nounRepository, verbRepository, prepositionRepository, new HebrewRuleFactory()), new DefaultModificationLog(), new CustomRule(), caseOperatorContainer, Language.HEBREW);
     }

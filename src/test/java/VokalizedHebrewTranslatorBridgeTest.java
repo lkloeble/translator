@@ -70,8 +70,10 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getImElements() {
         return Arrays.asList(new String[]{
                 "nomsg%sing%masc%",
+                "cst(nomsg)%sing%masc%&",
                 "decim-h%sing%masc%h",
-                "nomplr%plr%masc%60im000"
+                "nomplr%plr%masc%60im000",
+                "cst(nomplr)%plr%masc%i&"
         });
     }
 
@@ -146,6 +148,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "al65h60im000@masc%custom(nomsg=alhim|cst(nomsg)=alhi&|decim-inwplr=alhinw)",
                 "a62r62ts@fem%custom(nomplr=artswt|nomsg=a62r62ts)",
                 "a60s29864h@fem%custom(nomplr=nsim|cst(nomplr)=nsi&|nomsg=a60s29864h)",
+                "b62n000@masc%im",
                 "b30565q62r@masc%im",
                 "b60q62r@masc%im",
                 "g64dw331l@adj%im-ot",
@@ -161,6 +164,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "'h63k63m000@adj%im-ot",
                 "l63i56l64h@fem%invfem",
                 "l64i56l64h@fem%invfem",
+                "m60ts56r63i60m000@masc%invmasc",
                 "m62l62k00056@masc%im",
                 "ms29862h@masc%invmasc",
                 "n64b60ia@masc%im-ot",
@@ -210,6 +214,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "bdl@verb!norm%1(verb)=separer",
                 "bin000@prep%1(prep)=entre",
                 "b61in000@prep%1(prep)=entre",
+                "b62n000@noun!im%1(noun)=fils",
                 "b30565q62r@noun!im%1(noun)=matin",
                 "b60q62r@noun!im%1(noun)=matin",
                 "bra@verb!norm%1(noun)=creer",
@@ -267,6 +272,8 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "lq'h@verb!norm%1(verb)=prendre",
                 "m@prep%1(prep)=de",
                 "m60@prep%1(prep)=de",
+                "mad@prep%1(prep)=très",
+                "m56a65d@prep%1(prep)=très",
                 "mh@prep%1(prep)=quoi",
                 "m63h@prep%1(prep)=quoi",
                 "m64h@prep%1(prep)=quoi",
@@ -276,6 +283,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "mn@prep%1(prep)=de",
                 "m60n000@prep%1(prep)=de",
                 "m00060n000@prep%1(prep)=de",
+                "m60ts56r63i60m000@noun!invmasc%1(noun)=égypte",
                 "ms29862h@noun!invmasc%1(noun)=moïse",
                 "n64b60ia@noun!im-ot%1(noun)=prophète",
                 "ntn@verb!norm%1(verb)=donner",
@@ -299,7 +307,8 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "sw309s@noun!im-ot%1(noun)=cheval",
                 "t'ht@prep%1(prep)=à la place de%2(prep)=sous",
                 "t63'h63t@prep%1(prep)=à la place de%2(prep)=sous",
-                "xw331b@noun!im-ot%1(noun)=bon"
+                "xw331b@noun!im-ot%1(noun)=bon",
+                "xxdexx@prep%1(prep)=de"
         });
     }
 
@@ -411,6 +420,8 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "l65a@prep()",
                 "m@prep()",
                 "m60@prep()",
+                "mad@prep()",
+                "m56a65d@prep()",
                 "mh@prep()",
                 "m63h@prep()",
                 "m64h@prep()",
@@ -422,7 +433,8 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "yl@prep()",
                 "y63l@prep()",
                 "t'ht@prep()",
-                "t63'h63t@prep()"
+                "t63'h63t@prep()",
+                "xxdexx@prep()"
         });
     }
 
@@ -825,7 +837,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failed_ones() {
         assertTrue(true);
-        checkInMaps("wein22Z1", translatorBridge);
+        checkInMaps("wein24E1", translatorBridge);
     }
 
 }

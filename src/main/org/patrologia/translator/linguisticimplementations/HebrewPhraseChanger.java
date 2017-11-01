@@ -114,7 +114,7 @@ public class HebrewPhraseChanger extends CustomLanguageRulePhraseChanger {
 
     @Override
     public Phrase modifyPhrase(Phrase startPhrase, ModificationLog modificationLog, CustomRule customRule) {
-        CaseOperatorContainer caseOperatorContainer = new CaseOperatorContainer(nounRepository);
+        CaseOperatorContainer caseOperatorContainer = new CaseOperatorContainer(nounRepository,prepositionRepository);
         CaseOperator keepDeclinedDirectionalState  = new KeepCaseOperator(new HebrewConstructedStateCase("cst"));
         caseOperatorContainer.addCaseOperator(keepDeclinedDirectionalState);
         Phrase withoutOneWhichIsMinusForUnknowConstructedState = substituteEndPatternWithNewPrepositionAfterWord(startPhrase, "&", new Preposition(Language.HEBREW, "xxdexx", null), stopWordsOneSofit, NO_FOLLOWING_INTERRUPTION_VALUE, caseOperatorContainer);

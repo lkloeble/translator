@@ -24,7 +24,7 @@ public class GermanAnalyzer implements Analizer {
     private VerbRepository verbRepository;
 
     public GermanAnalyzer(PrepositionRepository prepositionRepository, NounRepository nounRepository, VerbRepository verbRepository) {
-        wordAnalyzer = new WordAnalyzer(prepositionRepository, nounRepository, verbRepository, new GermanPhraseChanger(nounRepository, new GermanRuleFactory(verbRepository),verbRepository), new DefaultModificationLog(), new CustomRule(),  new CaseOperatorContainer(nounRepository),Language.GERMAN);
+        wordAnalyzer = new WordAnalyzer(prepositionRepository, nounRepository, verbRepository, new GermanPhraseChanger(nounRepository, new GermanRuleFactory(verbRepository),verbRepository), new DefaultModificationLog(), new CustomRule(),  new CaseOperatorContainer(nounRepository,prepositionRepository),Language.GERMAN);
         germanNounSplitter = new GermanNounSplitter(nounRepository,prepositionRepository);
         this.verbRepository = verbRepository;
     }

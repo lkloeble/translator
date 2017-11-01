@@ -11,16 +11,16 @@ import java.util.List;
 public class Repository {
 
     private List<String> sofitLetters = Arrays.asList(new String[]{"k", "m", "n", "p"});
-    private String SOFIT_END = "000";
+    public String SOFIT_END = "000";
 
-    protected String unaccentuedWithSofit(String initialValue) {
+    public String unaccentuedWithSofit(String initialValue) {
         if(sofitLetters.contains(lastLetter(unaccentued(initialValue)))) {
             return unaccentued(initialValue) + SOFIT_END;
         }
         return unaccentued(initialValue);
     }
 
-    protected String unaccentued(String value) {
+    public String unaccentued(String value) {
         return StringUtils.unaccentuate(value);
     }
 

@@ -24,7 +24,7 @@ public class RomanianAnalyzer implements Analizer {
     private VerbRepository verbRepository;
 
     public RomanianAnalyzer(PrepositionRepository prepositionRepository, NounRepository nounRepository, VerbRepository verbRepository) {
-        wordAnalyzer = new WordAnalyzer(prepositionRepository, nounRepository,verbRepository, new RomanianPhraseChanger(nounRepository,verbRepository), new DefaultModificationLog(), new CustomRule(), new CaseOperatorContainer(nounRepository),Language.ROMANIAN);
+        wordAnalyzer = new WordAnalyzer(prepositionRepository, nounRepository,verbRepository, new RomanianPhraseChanger(nounRepository,verbRepository), new DefaultModificationLog(), new CustomRule(), new CaseOperatorContainer(nounRepository,prepositionRepository),Language.ROMANIAN);
         this.nounRepository = nounRepository;
         this.verbRepository = verbRepository;
     }

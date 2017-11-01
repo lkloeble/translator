@@ -21,7 +21,7 @@ public class LatinAnalyzer implements Analizer {
     private PrepositionRepository prepositionRepository = null;
 
     public LatinAnalyzer(PrepositionRepository prepositionRepository, NounRepository nounRepository, VerbRepository verbRepository) {
-        wordAnalyzer = new WordAnalyzer(prepositionRepository, nounRepository,verbRepository, new LatinPhraseChanger(nounRepository, verbRepository, prepositionRepository), new DefaultModificationLog(), new CustomRule(), new CaseOperatorContainer(nounRepository),Language.LATIN);
+        wordAnalyzer = new WordAnalyzer(prepositionRepository, nounRepository,verbRepository, new LatinPhraseChanger(nounRepository, verbRepository, prepositionRepository), new DefaultModificationLog(), new CustomRule(), new CaseOperatorContainer(nounRepository,prepositionRepository),Language.LATIN);
         this.prepositionRepository = prepositionRepository;
     }
 

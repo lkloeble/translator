@@ -12,10 +12,14 @@ public class CaseOperatorContainer {
 
     private List<CaseOperator> caseOperatorList = new ArrayList<>();
     private NounRepository nounRepository;
+    private PrepositionRepository prepositionRepository;
     private List<ResultCaseOperator> resultCaseOperatorList = new ArrayList<>();
+    private List<String> combinationsOfTwoKinds;
 
-    public CaseOperatorContainer(NounRepository nounRepository) {
+    public CaseOperatorContainer(NounRepository nounRepository, PrepositionRepository prepositionRepository) {
         this.nounRepository = nounRepository;
+        this.prepositionRepository = prepositionRepository;
+        this.combinationsOfTwoKinds = computePrepositionCombinations();
     }
 
     public void addCaseOperator(CaseOperator caseOperator) {
@@ -65,18 +69,54 @@ public class CaseOperatorContainer {
     }
 
     private Collection<Noun> decorateInitialValueWithHebrewStartPrepositionsCombination(String initialValue) {
-        Set<String> startPrepositions = new HashSet<>();
-        startPrepositions.add("wb");
-        startPrepositions.add("wk");
-        startPrepositions.add("wl");
-        for(String preposition : startPrepositions) {
+        for(String preposition : combinationsOfTwoKinds) {
             if(initialValue.startsWith(preposition)) {
-                String tempInitialValue = initialValue.substring(2);
+                String tempInitialValue = initialValue.substring(preposition.length());
                 Collection<Noun> noun = nounRepository.getNoun(tempInitialValue);
                 return noun;
             }
         }
         return null;
+    }
+
+    private List<String> computePrepositionCombinations() {
+        List<String> prepositionsStartingWithWav = filterPrepositionsByAccentuation(prepositionRepository.getValuesStartingWith("w"));
+        List<String> prepositionsStartingWithBeth = filterPrepositionsByAccentuation(prepositionRepository.getValuesStartingWith("b"));
+        List<String> prepositionsStartingWithKaf = filterPrepositionsByAccentuation(prepositionRepository.getValuesStartingWith("k"));
+        List<String> prepositionsStartingWithLamed = filterPrepositionsByAccentuation(prepositionRepository.getValuesStartingWith("l"));
+        List<String> combinationsWithWavToPerform = new ArrayList<>();
+        combinationsWithWavToPerform.addAll(prepositionsStartingWithBeth);
+        combinationsWithWavToPerform.addAll(prepositionsStartingWithKaf);
+        combinationsWithWavToPerform.addAll(prepositionsStartingWithLamed);
+        return performCardinalJoin(prepositionsStartingWithWav, combinationsWithWavToPerform);
+    }
+
+    private List<String> filterPrepositionsByAccentuation(List<String> prepositionsToFilter) {
+        Set<String> filteredPropositions = new HashSet<>();
+        for(String preprosition : prepositionsToFilter) {
+            if(isBasicUnaccentuedPreposition(preprosition) || isAccentuedWithoutSofit(preprosition)) {
+                filteredPropositions.add(preprosition);
+            }
+        }
+        return new ArrayList<>(filteredPropositions);
+    }
+
+    private boolean isBasicUnaccentuedPreposition(String preprosition) {
+        return preprosition.length() == 1;
+    }
+
+    private boolean isAccentuedWithoutSofit(String preprosition) {
+        return !prepositionRepository.unaccentued(preprosition).equals(preprosition) && !preprosition.contains(prepositionRepository.SOFIT_END);
+    }
+
+    private List<String> performCardinalJoin(List<String> prepositionsStartingWithWav, List<String> combinationsWithWavToPerform) {
+        List<String> joins = new ArrayList<>();
+        for(String withWav : prepositionsStartingWithWav) {
+            for(String toCombine : combinationsWithWavToPerform) {
+                joins.add(withWav + toCombine);
+            }
+        }
+        return joins;
     }
 
     private Collection<Noun> decorateInitialValueWithHebrewStartPepositions(String initialValue) {

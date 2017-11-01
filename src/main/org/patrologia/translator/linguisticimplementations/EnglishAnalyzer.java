@@ -26,7 +26,7 @@ public class EnglishAnalyzer implements Analizer {
     private List<String> verbWithInfinitive = new ArrayList<>();
 
     public EnglishAnalyzer(PrepositionRepository prepositionRepository, NounRepository nounRepository, VerbRepository verbRepository) {
-        wordAnalyzer = new WordAnalyzer(prepositionRepository, nounRepository, verbRepository, new EnglishPhraseChanger(nounRepository, new EnglishRuleFactory()), new EnglishModificationLog(), new CustomRule(), new CaseOperatorContainer(nounRepository), Language.ENGLISH);
+        wordAnalyzer = new WordAnalyzer(prepositionRepository, nounRepository, verbRepository, new EnglishPhraseChanger(nounRepository, new EnglishRuleFactory()), new EnglishModificationLog(), new CustomRule(), new CaseOperatorContainer(nounRepository,prepositionRepository), Language.ENGLISH);
         this.verbRepository = verbRepository;
         this.caseOperatorContainer = caseOperatorContainer;
         verbWithInfinitive.add("can");
