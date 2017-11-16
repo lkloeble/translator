@@ -30,6 +30,8 @@ public class TranslationRuleFactory {
                 return new SofitAccentuedLetter(time,ruleParameters);
             case "alternateaccentuation" :
                 return new AlternateAccentuation(time,ruleParameters,indices);
+            case "deleteletter" :
+                return new DeleteLetter(time,ruleParameters,indices);
         }
         return null;
     }

@@ -1,6 +1,7 @@
 package org.patrologia.translator.basicelements;
 
 import org.patrologia.translator.conjugation.ConjugationPart;
+import org.patrologia.translator.utils.StringUtils;
 
 import java.util.List;
 
@@ -21,6 +22,19 @@ public abstract class TranslationRule {
             if(c >= 'a') sb.append(c);
         }
         return sb.toString();
+    }
+
+    protected boolean isPositionAllowedForChange(ConjugationPart conjugationPart, List<Integer> indices) {
+        if(indices.size() == 0) return true;
+        return indices.contains(conjugationPart.getPositionInDefinition());
+    }
+
+    protected boolean isAllowedForAnyPosition(List<Integer> indices) {
+        return indices.size() == 0;
+    }
+
+    protected String unaccentued(String value) {
+        return StringUtils.unaccentuate(value);
     }
 
 }

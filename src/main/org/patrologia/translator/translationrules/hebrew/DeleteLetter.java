@@ -7,20 +7,16 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by lkloeble on 13/10/2017.
+ * Created by Laurent KLOEBLE on 16/11/2017.
  */
-public class AlternateAccentuation extends TranslationRule {
+public class DeleteLetter  extends TranslationRule {
 
-    private String letterToUpdate;
-    private String updatedValue;
+    private String letterToDelete;
     private List<Integer> indices;
 
-    public AlternateAccentuation(String conjugationName, String ruleParameters, List<Integer> indices) {
+    public DeleteLetter(String conjugationName, String letterToDelete, List<Integer> indices) {
         this.conjugationName = conjugationName;
-        this.ruleParameters = ruleParameters;
-        String[] parts = ruleParameters.split("\\*");
-        letterToUpdate = parts[0];
-        updatedValue = parts[1];
+        this.letterToDelete = letterToDelete;
         this.indices = indices;
     }
 
@@ -28,7 +24,7 @@ public class AlternateAccentuation extends TranslationRule {
     public List<ConjugationPart> transform(List<ConjugationPart> conjugationPartList) {
         List<ConjugationPart> modifiedList = new ArrayList<>();
         for(ConjugationPart conjugationPart : conjugationPartList) {
-            if(hasPatternToChange(conjugationPart) && isPositionAllowedForChange(conjugationPart, indices)) {
+            if(isPositionAllowedForChange(conjugationPart, indices)) {
                 String alternateValue = modifyValue(conjugationPart.getValue());
                 ConjugationPart alternateConjugationPart = new ConjugationPart(conjugationPart.getConjugationPosition(), alternateValue, unaccentued(alternateValue), conjugationPart.getPositionInDefinition());
                 modifiedList.add(alternateConjugationPart);
@@ -43,16 +39,11 @@ public class AlternateAccentuation extends TranslationRule {
     }
 
     private String modifyValue(String value) {
-        return value.replace(letterToUpdate,updatedValue);
-    }
-
-    private boolean hasPatternToChange(ConjugationPart conjugationPart) {
-        return conjugationPart.getValue().contains(letterToUpdate);
+        return value.replace(letterToDelete,"");
     }
 
     @Override
     public String toString() {
-        return "AlternateAccentuation{" + conjugationName +  " " + ruleParameters + " " + indices + "}";
+        return "DeleteLetter{" + conjugationName +  " " + letterToDelete + " " + indices + "}";
     }
-
 }
