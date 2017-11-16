@@ -14,15 +14,18 @@ alexandri@fem%fem
 alo@neut%inv
 alt@adj%adj
 ambigua@neut%inv
+amintir@fem%berea
 amintit@adj%adj
 an@masc%ul
 ana@fem%inv
+anecdot@fem%fem
 animal@masc%fem
 antonie@masc%inv
 ap@fem%fem
 apartament@masc%ul
 apetit@masc%ul
 ardeleneasc@adj%adj
+armat@fem%fem
 articol@masc%ul
 aspect@masc%ul
 aspirin@fem%fem
@@ -196,6 +199,7 @@ glum@fem%fem
 goal@adj%adj
 gol@adj%adj
 grabit@adj%adj
+grec@adj%adj
 greu@adj%inv
 harnic@adj%adj
 hots@masc%ul
@@ -256,6 +260,7 @@ lup@masc%ul
 magazin@neut%inv
 mal@masc%ul
 mam@fem%fem
+manuscris@neut%inv
 mar@fem%berea
 mare@neut%inv
 mari@neut%inv
@@ -284,6 +289,7 @@ mod@masc%ul
 modest@adj%adj
 monah@masc%ul
 morcov@masc%ul
+mort@adj%adj
 momeal@fem%fem
 moment@masc%ul
 mormint@masc%ul
@@ -344,6 +350,7 @@ pian@masc%ul
 pic@neut%inv
 picatur@fem%fem
 pip@fem%fem
+piperat@adj%adj
 placere@neut%inv
 plan@masc%ul
 plant@fem%fem
@@ -360,6 +367,7 @@ pozitsi@fem%fem
 preajm@fem%fem
 prelucratoare@neut%inv
 prieten@adj%adj
+prim@adj%adj
 probabil@adj%adj
 propri@adj%adj
 produs@masc%ul

@@ -1,2 +1,4 @@
 IPR=>,i,e,em,etsi,,
+AIP=>ui,usi,u,uram,uratsi,ura
 PAP=>ut
+CONJ=>x,x,a,x,x,a

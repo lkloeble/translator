@@ -338,7 +338,7 @@ staniloae1U=>Pe de alta parte, cosmosul însuși ar fi fără sens împreună cu
 staniloae1V=>In credința noastra, raționalitatea cosmosului are un sens numai daca e cugetat inainte de creare si in toata continuarea lui de o ființa creatoare cunoscatoare, fiind adus la existența pentru a fi cunoscut de o ființa pentru care e creat si, prin aceasta, pentru a realiza intre sine si acea ființa raționala creata un dialog prin mijlocirea lui.
 staniloae1W=>Acest fapt constituie conținutul revelației naturale.
 staniloae1X=>Acest lucru@1 insă îl afirmă si revelația crestină supranaturală prin invățătura ca poziției originare creatoare si conservatoare a lui Dumnezeu în fața lumii ii corespunde, pe un plan mai coborât sau de dependență, poziția noastra de ființa cunoscătoare si prelucrătoare a naturii, ca chip al lui Dumnezeu.
-staniloae1Y=>In aceasta poziție a omului, se arata ca lumea are o raționalitate pentru a fi cunoscuta de noi – ființe raționale.
+staniloae1Y=>In aceasta poziție a omului, se arată ca lumea are o raționalitate pentru a fi cunoscută de noi – ființe raționale.
 staniloae1Z=>De aceea ea trebuie sa aiba originea într-o ființa care a urmarit prin crearea lumii – si urmareste prin conservarea ei – cunoasterea lumii, si prin ea insasi si cunoasterea ei de catre om.
 ă
 ș
@@ -380,7 +380,7 @@ filocalia1A=>Sfintul Antonie a fost cel dintîi monah care s-a retras în pustie
 filocalia1B=>viața lui, care a umplut de uimire lumea din acea vreme, a fost descrisă de Sfîntul Atanasie, patriarhul Alexandriei.
 filocalia1C=>Născut într-un sat din Egiptul de Mijloc, după moartea părinților săi, țărani cu bună stare, Antonie s-a hotărît, pe la vîrsta de |18|-|20| ani, să vîndă tot ce@1 moștenise, să împartă săracilor și să-și închine viața Domnului.
 filocalia1D=>aceasta s-a întîmplat@1 pe la anul 270 după  Hristos.
-filocalia1E=>La  început nu s-a depărtat prea mult de locurile în care trăiau oameni.
+filocalia1E=>La  început@N nu s-a depărtat prea mult de locurile în care trăiau oameni.
 filocalia1F=>Cîtăva vreme i-a slujit drept@1 adăpost un mormînt gol.
 filocalia1G=>Pe urmă, crescîndu-i dorința după singurătate, s-a retras în munții nisipoși de pe malul drept al Nilului.
 filocalia1H=>Mai tîrziu a părăsit și acest loc, și pe monahii care se strînseseră în jurul lui și s-a dus în mijlocul pustiei din preajma Mării Roșii, de unde venea numai la anumite răstimpuri pentru a da sfaturi pelerinilor care alergau să i le ceară.
@@ -423,6 +423,25 @@ urzeala2D=>și totuși, era mult decât atât. Dincolo de mândria lui rănită,
 urzeala2E=>O putea vedea  : o tensiune nervoasă care se apropria periculos de mult de frică.
 urzeala2F=>reste à saisir page 2
 
+
+bocaseumplu7A=>lucrători ucigași, vie sălbaticită (11.09.49)
+bocaseumplu7B=>pilda lui Iisus rezumă toată strădiania lui Dumnezeu cu via Sa : lumea aceasta, și cu lucrătorii viei, oamenii, într-o pildă, rezumatul istoriei.
+bocaseumplu7C=>de aici rezultă că Dumnezeu are un rost cu lumea Sa, la care l-a întovărășit și pe om.
+bocaseumplu7D=>se tânguie Dumnezeu omului :
+bocaseumplu7E=>"... am sădit viță bună, de soi, și iată acum rodește struguri sălbatici... voi smulge-o si pe voi arunca-o !"
+bocaseumplu7F=>à saisir
+bocaseumplu7G=>à saisir
+
+patericulegyptantonie1A=>Sfântul avva Antonie, șezând odată în deșsert, a fost cuprins de acedie și de o mare întunecare de gânduri.
+patericulegyptantonie1B=>și zicea către Dumnezeu :
+patericulegyptantonie1C=>"Domane, vreau să mă mântuiesc, și nu mă lasă gândurile.
+patericulegyptantonie1D=>Ce voi face în necazul meu ? cum mă va mântui ?"
+patericulegyptantonie1E=>și sculându-se puțin, a ieșit afarăși a văzut pe cineva ca pe sine șezând și lucrând, apoi sculându-se de la lucru și rugându-se, apoi iarăși sculându-se la rugăciune.
+patericulegyptantonie1F=>acesta era un înger al Domnului, trimis spre îndreptarea și încredințarea lui Antonie.
+patericulegyptantonie1G=>și a auzit pe înger zicând-i :
+patericulegyptantonie1H=>"fă așa și te vei mântui".
+patericulegyptantonie1I=>iar el, auzind aceasta, s-a umplut de multă bucurie și îndrăzneală.
+patericulegyptantonie1J=>și, făcând așa, se mântuia.
 
 ă
 ș
