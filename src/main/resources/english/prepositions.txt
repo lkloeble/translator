@@ -66,6 +66,7 @@ he@prep()%[electPersonInFollowingVerb(2)]
 hence@prep()
 her@prep()
 here@prep()
+herself@prep()
 hey@prep()
 him@prep()
 himself@prep()

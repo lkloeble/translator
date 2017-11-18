@@ -445,6 +445,7 @@ signifier@NORM%[IPR]=[signifie,signifies,signifie,signifions,signifiez,signifien
 simuler@NORM%[INFINITIVE]=[simuler]%[IPR]=[simule,simules,simule,simulons,simulez,simulent]%[PAP]=[simulé]%[PAPR]=[simulant]
 skier@NORM%[IPR]=[skie,skies,skie,skions,skiez,skient]%[PAPR]=[skiant]%[INFINITIVE]=[skier]
 soigner@NORM%[IPR]=[soigne,soignes,soigne,soignons,soignez,soignent]%[PIP]=[suis soigné,es soigné,est soigné,sommes soignés,êtes soignés,sont soignés]%[INFINITIVE]=[soigner]%[PII]=[ai été soigné,as été soigné,a été soigné,avons été soignés,avez été soignés,ont été soignés]
+solutionner@NORM%[INFINITIVE]=[solutionner]%[IPR]=[solutionne,solutionnes,solutionne,solutionnons,solutionnez,solutionnent]
 sortir@NORM%[INFINITIVE]=[sortir]%[IPR]=[sors,sors,sort,sortons,sortez,sortent]%[AIP]=[sortis,sortis,sortit,sortîmes,sortîtes,sortirent]%[AIMP]=[,sors,,sortons,sortez,]%[ASI]=[sortisse,sortisses,sortît,sortissions,sortissiez,sortissent]
 souffler@NORM%[IPR]=[souffle,souffles,souffle,soufflonssoufflez,soufflent]%[AIP]=[soufflai,soufflas,souffla,soufflâmes,soufflâtes,soufflèrent]%[INFINITIVE]=[souffler]
 souffrir@NORM%[IPR]=[souffre,souffres,souffre,souffrons,souffrez,souffrent]%[INFINITIVE]=[souffrir]

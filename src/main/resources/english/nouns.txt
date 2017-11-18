@@ -10,6 +10,7 @@ adabrev@neut%invmasc
 adam@masc%invmasc
 adequate@adj%normmasc
 adorned@adj%invmasc
+advantage@masc%normmasc
 affection@fem%normfem
 afraid@fem%invfem
 afternoon@masc%normmasc
@@ -71,6 +72,7 @@ birmingham@neut%invmasc
 birthday@masc%normmasc
 bitter@adj%normmasc
 black@adj%normmasc
+blood@neut%normmasc
 blouse@fem%normfem
 blue@adj%invmasc
 boastfulness@neut%invmasc
@@ -150,6 +152,7 @@ colleague@neut%normmasc
 comfortable@adj%invmasc
 comment@masc%normmasc
 commentar@masc%endy
+commentator@masc%normmasc
 common@adj%normmasc
 comparable@adj%normmasc
 comparison@fem%normfem
@@ -436,6 +439,8 @@ key@neut%normmasc
 kid@masc%normmasc
 kind@masc%normmasc
 king@masc%normmasc
+kingdom@masc%normmasc
+kingdome@masc%invmasc
 kitchen@neut%normmasc
 knowledge@neut%normmasc
 lamb@masc%normmasc
@@ -725,6 +730,7 @@ side@neut%normmasc
 sight@fem%normfem
 sign@masc%normmasc
 significance@masc%normmasc
+silent@adj%normmasc
 simon@masc%invmasc
 sin@masc%normmasc
 sion@masc%invmasc
@@ -785,6 +791,7 @@ talented@neut%invmasc
 talmud@neut%normmasc
 talmudic@adj%normmasc
 talmudical@adj%normmasc
+talmudist@neut%normmasc
 tannaim@neut%invmasc
 tea@neut%normmasc
 teacher@neut%normmasc

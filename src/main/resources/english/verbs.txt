@@ -55,6 +55,7 @@ consider,[call]
 consult,[call]
 create,[live]
 creep,[live]
+cry,[live],(IPR*crys*cries*0)
 curse,[live]
 cut,[live]
 cycle,[live],(PAPR*cyclei*cycli*0)
@@ -216,6 +217,7 @@ try,[live]
 undergo,[live],(AIP*undergod*underwent*0@IPR2*undergos*undergoes*0@PAP*undergod*underwent*0@AII*undergod*underwent*0)
 understand,[live]
 unite,[live]
+unriddle,[live]
 upfollow,[live]
 uplay,[live],(AIP*uplayd*uplaid*0)
 uprise,[live],(AIP*uprised*uprose*0)
