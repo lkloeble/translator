@@ -168,7 +168,8 @@ public class TranslationInformationBean {
     }
 
     public boolean hasRoot(Word word) {
-        return root.substring(0, 2).equals(word.initialValue.substring(0, 2));
+        return root.substring(0, 2).equals(word.initialValue.substring(0, 2))
+                || root.equals(word.getRoot());
     }
 
     public boolean hasNearRoot(Word word) {

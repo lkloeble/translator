@@ -16,7 +16,7 @@ public class GermanConjugation extends Conjugation {
     private String conjugationFilePath;
     private ConjugationLoader conjugationLoader = new ConjugationLoader();
 
-    protected static List<String> times = Arrays.asList(new String[]{"IPR","PAP","AIMP","AIP","AII","AIF","ASP","PAPR"});
+    protected static List<String> times = Arrays.asList(new String[]{"IPR","PAP","AIMP","AIP","AII","AIF","ASP","PAPR","SPA"});
 
     public GermanConjugation(List<String> conjugationElements, VerbDefinition verbDefinition) {
         this.verbDefinition = verbDefinition;

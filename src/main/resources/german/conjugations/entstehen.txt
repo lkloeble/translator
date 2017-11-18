@@ -1,3 +1,4 @@
 IPR=>e,st,t,en,t,en
 AIP=>,est,,en,et,en
 PAP=>en
+SPA=>e,est,e,en,et,en

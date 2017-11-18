@@ -97,7 +97,7 @@ public class VerbRepository extends Repository {
         List<String> strings = new ArrayList<>(conjugationsMap.keySet());
         Collections.sort(strings);
         for(String s : strings) {
-            if(s.startsWith("congregavera")) System.out.println(s);
+            if(s.startsWith("behiel")) System.out.println(s);
         }
         */
         return conjugationsMap.containsKey(initialValue) || conjugationsMap.containsKey(unaccentued(initialValue));

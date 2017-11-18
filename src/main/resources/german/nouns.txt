@@ -89,6 +89,7 @@ besonder@adj%ausreichend
 best@adj%mein
 bestellung@fem%meinfem
 bestimmung@fem%meinfem
+bett@neut%schmerz
 bewahrt@adj%ausreichend
 beweis@masc%meer
 bezug@masc%jahrzehnt
@@ -298,6 +299,7 @@ gottes@masc%inv
 grad@neut%jahrzehnt
 gras@fem%inv
 grieche@masc%flasche
+griechentum@neut%arbeiter
 griechisch@adj%ausreichend
 gross@adj%ausreichend
 grubler@masc%burger
@@ -327,6 +329,7 @@ heutzutage@neut%inv
 hillel@neut%inv
 himmel@neut%arbeiter
 hinausgehend@adj%ausreichend
+hintersinn@fem%inv
 hoch@adj%inv
 hoh@adj%ausreichend
 hoher@adj%ausreichend
@@ -461,6 +464,7 @@ mehl@neut%jahrzehnt
 mehrfach@adj%ausreichend
 mein@adj%mein
 meister@masc%masc
+melancholie@neut%inv
 mensch@masc%meinmasc
 metaphysik@neut%inv
 metaphysisch@adj%ausreichend
@@ -617,6 +621,7 @@ schicklichkeit@fem%meinfem
 schimson@neut%inv
 schlaflos@adj%ausreichend
 schlaflosigkeit@neut%inv
+schlafmittel@neut%arbeiter
 schlank@adj%inv
 schlacht@fem%meinfem
 schlaf@masc%ort
@@ -649,6 +654,7 @@ sozial@adj%inv
 spalt@masc%licht
 spannung@fem%meinfem
 spat@adj%ausreichend
+spater@adj%ausreichend
 speise@fem%flasche
 spekulant@masc%meinmasc
 spekulation@fem%norm
@@ -684,6 +690,7 @@ teig@masc%jahrzehnt
 telefon@fem%meinfem
 teman@neut%inv
 tempel@neut%arbeiter
+tempo@neut%inv
 termin@neut%inv
 testament@neut%norm
 teuer@neut%inv

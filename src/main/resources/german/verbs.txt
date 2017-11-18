@@ -19,6 +19,7 @@ bedeut,en,[mochten]
 befass,en,[genesen]
 befind,en,[mochten],(AIP*befi*befa*0)
 beginn,en,[leben]
+behalt,en,[entstehen],(SPA*behal*behiel*0)
 behaupt,en,[mochten]
 beitrag,en,[lassen],(AIP*beitrag*beitrug*0)
 bekomm,en,[rufen],(AIP*bekomm*bekam*0)
@@ -57,6 +58,7 @@ erfull,en,[leben]
 erhalt,en,[leben]
 erhol,en,[leben]
 erinner,en,[mochten]
+erkenn,en,[lassen],(PAP*erke*erka*0)
 erlaub,en,[leben]
 ermang,en,[sammeln]
 errat,en,[werden]
@@ -80,7 +82,7 @@ full,en,[leben]
 garantier,en,[leben]
 geb,en,[leben],(IPR124*geb*gib*0)
 gebar,en,[leben],(IPR12*gebar*gebier*0@PAP*gebart*geboren*0)
-geh,en,[leben],(AIP*geh*ging*0)
+geh,en,[lassen],(AIP*geh*ging*0)
 genes,en,[genesen]
 gernhaben@IRREGULAR%[INFINITIVE]=[gernhaben]%[IPR]=[gernhabe,gernhast,gernhat,gernhaben,gernhabt,gernhaben]
 gescheh,en,[rufen],(AIP*gescheh*geschah*0)
@@ -138,7 +140,7 @@ rats,eln,[sammeln]
 red,en,[mochten]
 rauch,en,[leben]
 regier,en,[leben]
-regne,en,[leben]
+regn,en,[mochten]
 reich,en,[leben]
 reservier,en,[leben]
 ruf,en,[rufen],(AIP*ruf*rief*0)
@@ -205,6 +207,7 @@ vorbereit,en,[leben]
 vorhaben@IRREGULAR%[IPR]=[vorhabe,vorhast,vorhat,vorhaben,vorhabt,vorhaben]%[INFINITIVE]=[vorhaben]
 vorleg,en,[leben]
 vorstell,en,[leben]
+wachs,en,[genesen],(PAP*wa*gewa*0)
 wag,en,[leben]
 web,en,[leben]
 weggeh,en,[rufen],(AIP*weggeh*wegging*0)

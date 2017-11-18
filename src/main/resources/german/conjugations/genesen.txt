@@ -1,3 +1,4 @@
 IPR=>e,t,t,en,t,en
 AII=>,t,,en,t,en
 PAPR=>end
+PAP=>en
