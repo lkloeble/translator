@@ -137,8 +137,8 @@ pass,en,[leben]
 plan,en,[leben],(PAP*pla*gepla*0)
 pruf,en,[leben]
 rats,eln,[sammeln]
-red,en,[mochten]
 rauch,en,[leben]
+red,en,[mochten],(PAP*red*gered*0)
 regier,en,[leben]
 regn,en,[mochten]
 reich,en,[leben]

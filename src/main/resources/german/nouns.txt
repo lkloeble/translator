@@ -23,6 +23,7 @@ andre@adj%masc
 andrer@adj%masc
 anfang@masc%norm
 angabe@fem%flasche
+angesehn@neut%inv
 angst@fem%angst
 anrufung@fem%meinfem
 anschauung@fem%meinfem
@@ -54,6 +55,7 @@ aufwiedersehen@neut%inv
 auge@neut%flasche
 augenblick@neut%inv
 ausdruck@masc%jahrzehnt
+ausflucht@fem%angst
 ausgabe@fem%flasche
 ausgezeichnet@neut%norm
 auslegung@fem%meinfem
@@ -176,6 +178,7 @@ eingewandert@adj%ausreichend
 einleitung@fem%norm
 einzeln@adj%ausreichend
 eltern@neut%inv
+epikurisch@adj%ausreichend
 erde@fem%flasche
 erdgeschoss@masc%inv
 erfreulich@adj%ausreichend
@@ -196,10 +199,12 @@ ev@neut%inv
 evangelium@neut%inv
 explosiv@neut%norm
 examen@neut%norm
+falschheit@fem%meinfem
 familie@fem%flasche
 fax@neut%inv
 fehlerhaft@adj%ausreichend
 feierlicher@adj%ausreichend
+feig@fem%inv
 fein@adj%ausreichend
 feind@masc%ort
 feld@neut%meer
@@ -239,6 +244,7 @@ frucht@fem%tipp
 fruchtbar@adj%ausreichend
 funf@neut%inv
 funft@adj%ausreichend
+furcht@fem%angst
 furchtbar@adj%ausreichend
 furchten@neut%inv
 fussganger@masc%meinmasc
@@ -259,6 +265,8 @@ gegeben@adj%ausreichend
 gegenwart@fem%inv
 gegenwartig@adj%ausreichend
 geheim@adj%ausreichend
+geheimnis@neut%erkenntnis
+geheimnisvoller@adj%ausreichend
 geist@neut%norm
 geld@neut%inv
 gelehrt@adj%ausreichend
@@ -354,6 +362,8 @@ intellektuell@adj%ausreichend
 interesse@fem%flasche
 interessant@adj%norm
 international@adj%ausreichend
+ironie@fem%inv
+ironiker@neut%inv
 isr@neut%inv
 israel@neut%inv
 israelit@neut%meinmasc
@@ -425,6 +435,7 @@ kur@fem%flasche
 lage@fem%flasche
 land@neut%ort
 lateinisch@adj%ausreichend
+leben@neut%burger
 lebendig@adj%ausreichend
 lebenskraft@fem%angst
 leer@adj%inv
@@ -487,6 +498,7 @@ moment@masc%norm
 monat@masc%jahrzehnt
 montag@neut%inv
 moral@neut%inv
+moralisch@adj%ausreichend
 morgen@neut%inv
 mozart@masc%inv
 mt@neut%inv
@@ -523,6 +535,7 @@ neutral@adj%ausreichend
 nieder@adj%ausreichend
 niedergang@masc%arbeiter
 notig@adj%ausreichend
+notwehr@neut%inv
 notwendig@adj%ausreichend
 nr@neut%inv
 nummer@neut%inv
@@ -625,7 +638,9 @@ schlafmittel@neut%arbeiter
 schlank@adj%inv
 schlacht@fem%meinfem
 schlaf@masc%ort
+schlauheit@fem%meinfem
 schlecht@adj%ausreichend
+schlimmer@adj%ausreichend
 schluss@neut%norm
 schlussel@neut%inv
 schmerz@masc%schmerz
@@ -647,6 +662,7 @@ sittenlehre@fem%flasche
 situation@fem%norm
 smarkt@neut%inv
 sohn@masc%norm
+sokrates@neut%inv
 sokratismus@neut%inv
 solch@adj%ausreichend
 sozialist@neut%meinmasc
@@ -678,6 +694,7 @@ sud@neut%inv
 suden@neut%burger
 suppe@fem%flasche
 surf@neut%inv
+symptom@neut%norm
 tabelle@fem%flasche
 tag@masc%jahrzehnt
 talmud@masc%meinmasc
@@ -731,9 +748,10 @@ unbedingt@neut%inv
 unbekummert@neut%inv
 unbescheidenheit@neut%inv
 ungarisch@adj%ausreichend
+ungeheuerlich@adj%ausreichend
 ungeheur@adj%ausreichend
 unmoglich@neut%meinmasc
-ungeheuerlich@adj%ausreichend
+unmoralisch@adj%ausreichend
 unvollstandig@adj%ausreichend
 unser@adj%ausreichend
 unsre@neut%inv
@@ -779,6 +797,7 @@ vorgelegt@adj%ausreichend
 vorhanden@adj%ausreichend
 vorneigung@fem%inv
 vorrede@fem%flasche
+vorsicht@neut%inv
 vorsichtig@adj%ausreichend
 vorwort@neut%licht
 wagen@neut%inv
@@ -812,6 +831,7 @@ wirklichkeit@fem%meinfem
 wirtschaft@fem%inv
 wissender@masc%inv
 wissenschaft@fem%meinfem
+wissenschaftlichkeit@fem%inv
 woche@fem%flasche
 wohnung@masc%meinmasc
 wortlaute@fem%flasche

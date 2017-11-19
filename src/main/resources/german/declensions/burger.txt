@@ -1,5 +1,5 @@
 noma%sing%masc%
-nom%plr%masc
+nom%plr%masc%
 gen%sing%masc%s
 gen%plr%masc%
 dat%sing%masc%
