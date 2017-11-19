@@ -282,6 +282,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "k31560i@prep%1(prep)=car%2(prep)=lorsque%3(prep)=pour que%4(prep)=que",
                 "kl@prep%1(prep)=tout",
                 "k31564l@prep%1(prep)=tout",
+                "k64l@prep%1(prep)=tout",
                 "l@prep%1(prep)=à",
                 "l56@prep%1(prep)=à",
                 "l63i56l64h@noun!invfem%1(noun)=nuit",
@@ -438,6 +439,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "k315i@prep()",
                 "kl@prep()",
                 "k31564l@prep()",
+                "k64l@prep()",
                 "l@prep()",
                 "l56@prep()",
                 "la@prep()",
@@ -861,7 +863,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failed_ones() {
         assertTrue(true);
-        checkInMaps("wein18E1", translatorBridge);
+        checkInMaps("wein24O1", translatorBridge);
     }
 
 }
