@@ -156,6 +156,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "a58d64m64h@fem%custom(nomsg=admh|decim-nw=admtnw)",
                 "a64d64m000@masc%invmasc",
                 "a62'h64d@masc%empty",
+                "a63'h63t@masc%empty",
                 "a60is298@masc%custom(nomplr=ansim|cst(nomplr)=ansi&|dechsofit=aish|nomsg=a60is298)",
                 "aw331r@fem%invfem",
                 "al65h60im000@masc%custom(nomsg=alhim|cst(nomsg)=alhi&|decim-inwplr=alhinw)",
@@ -208,6 +209,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "a58d64m64h@noun!custom(nomsg=admh|decim-nw=admtnw)%1(noun)=terre",
                 "a64d64m000@noun!invmasc%1(noun)=homme",
                 "a62'h64d@noun!empty%1(noun)=un",
+                "a63'h63t@noun!empty%1(noun)=une",
                 "a60is298@noun!custom(nomplr=ansim|cst(nomplr)=ansi&|dechsofit=aish|nomsg=a60is298)%1(noun)=homme",
                 "akl@verb!norm%1(verb)=manger",
                 "al@prep%1(prep)=vers",
@@ -353,7 +355,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "ntn,,[paal],(AIP%leadingrootletter%n*n64@AIP%secondletterroot%t*t63@AIP%sofitrootletter%n3*n000@AIP%alternateaccentuation(5:9)%t63*t56@AIP%alternateaccentuation(5)%56n*56n64)",
                 "qra,,[paal],(AIP%leadingrootletter%q*q64@AIP%secondletterroot%r*r64@AIP%alternateaccentuation%q64*q6469@AIP%alternateaccentuation(5:9)%r64*r56@AIP%alternateaccentuation(5)%a*a64)",
                 "rah,,[paal],(AIP%leadingrootletter%r*r64@AIP%secondletterroot%a*a64@AIP%alternateaccentuation(9)%a64*a@AIP%deleteletter(9)%h",
-                "smy,,[paal],(AIP%leadingrootletter%s*s29864@AIP%secondletterroot%m*m63)"
+                "smy,,[paal],(AIP%leadingrootletter%s*s29864@AIP%secondletterroot%m*m63@AIP%alternateaccentuation(5:9)%m63*m56)"
         });
     }
 
@@ -863,7 +865,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failed_ones() {
         assertTrue(true);
-        checkInMaps("wein24O1", translatorBridge);
+        checkInMaps("wein24Q1", translatorBridge);
     }
 
 }
