@@ -33,7 +33,7 @@ public class NounRepository extends Repository {
         List<String> orderedStrings = new ArrayList<>(strings);
         Collections.sort(orderedStrings);
         for(String key : orderedStrings) {
-            if(key.startsWith("orge")) {
+            if(key.startsWith("no")) {
                 System.out.println(key);
             }
         }

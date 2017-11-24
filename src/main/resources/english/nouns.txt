@@ -232,6 +232,7 @@ doctor@neut%normmasc
 dominion@neut%normmasc
 door@fem%normfem
 double@adj%normmasc
+doubtful@adj%normmasc
 dreadful@adj%normmasc
 dress@fem%invfem
 dressing@neut%invmasc
@@ -412,6 +413,7 @@ idea@fem%normfem
 ii@neut%invmasc
 image@fem%normfem
 important@adj%normmasc
+instruction@neut%normmasc
 intended@adj%invmasc
 interest@masc%normmasc
 interesting@neut%invmasc
@@ -508,11 +510,13 @@ mediterranean@adj%normmasc
 member@masc%normmasc
 memor@fem%endy
 mentor@masc%normmasc
+mere@neut%invmasc
 michael@masc%invmasc
 middleages@neut%invmasc
 midst@neut%invmasc
 mike@neut%invmasc
 milk@neut%invmasc
+mind@neut%invmasc
 mishna@neut%invmasc
 mishnaic@adj%invmasc
 mist@neut%normmasc
@@ -547,9 +551,11 @@ new@adj%invmasc
 nice@adj%invmasc
 night@fem%normfem
 nissim@neut%invmasc
+nod@neut%normmasc
 norman@adj%normmasc
 north@masc%invmasc
 nostril@neut%normmasc
+nothing@masc%invmasc
 notice@neut%normmasc
 notion@neut%normmasc
 novel@adj%invmasc
@@ -846,8 +852,10 @@ uk@neut%invmasc
 unanswered@neut%normmasc
 unanswerable@neut%normmasc
 unbelieving@neut%invmasc
+uncertain@adj%normmasc
 underemphasis@neut%invmasc
 university@fem%invfem
+unknown@neut%invmasc
 unsatisfactory@neut%invmasc
 usually@neut%invmasc
 v@neut%invmasc
@@ -889,8 +897,9 @@ white@adj%normmasc
 whole@adj%invmasc
 wife@fem%invfem
 will@fem%invmasc
-winged@neut%invmasc
 wine@neut%normmasc
+winged@neut%invmasc
+wink@neut%normmasc
 wise@adj%normmasc
 word@neut%normmasc
 work@neut%normmasc
