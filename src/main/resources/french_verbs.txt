@@ -51,7 +51,7 @@ avoirledroit@NORM%[IPR]=[ai le droit,as le droit,a le droit,avons le droit,avez 
 avoirlair@NORM%[IPR]=[ai l'air,as l'air,a l'air,avons l'air,avez l'air,ont l'air]%[INFINITIVE]=[avoir l'air]
 avoirpitie@NORM%[INFINITIVE]=[avoir pitié]%[IPR]=[ai pitié,as pitié,a pitié,avons pitié,avez pitié,ont pitié]
 baser@NORM%[INFINIIVE]=[baser]%[IPR]=[base,bases,base,basons,basez,basent]
-benir@NORM%[IPR]=[bénis,bénis,bénit,bénissons,bénissez,bénissent]%[PIP]=[suis béni,es béni,est béni,sommes bénis,êtes béni,sont bénis]%[AII]=[bénissais,bénissais,bénissait,bénissions,bénissiez,bénissaient]%[AIP]=[bénis,bénis,bénit,bénîmes,bénîtes,bénirent]%[PII]=[ai été béni,as été béni,a été béni,avons été bénis,avez été bénis,ont été bénis]%[INFINITIVE]=[bénir]
+benir@NORM%[INFINITIVE]=[bénir]%[IPR]=[bénis,bénis,bénit,bénissons,bénissez,bénissent]%[PIP]=[suis béni,es béni,est béni,sommes bénis,êtes béni,sont bénis]%[AII]=[bénissais,bénissais,bénissait,bénissions,bénissiez,bénissaient]%[AIP]=[bénis,bénis,bénit,bénîmes,bénîtes,bénirent]%[PII]=[ai été béni,as été béni,a été béni,avons été bénis,avez été bénis,ont été bénis]%[ACAOIN]=[bénis,bénis,bénit,bénîmes,bénîtes,bénirent]
 blasphemer@NORM%[INFINITIVE]=[blasphémer]%[IPR]=[blasphème,blasphèmes,blasphème,blasphémons,blasphémez,blasphèment]%[PARAORINFPAS]=[blasphémer,blasphémer,blasphémer,blasphémer]
 bloquer@NORM%[INFINITIVE]=[bloquer]%[IPR]=[bloque,bloques,bloque,bloquons,bloquez,bloquent]%[PRPARPASS]=[être bloqué,qui est bloqué,qui est bloqué,qui est bloqué]%[FUTPARTACT]=[bloquer,bloqué,bloquée,bloqué]
 boire@NORM%[IPR]=[bois,bois,boit,buvons,buvez,boivent]%[INFINITIVE]=[boire]
