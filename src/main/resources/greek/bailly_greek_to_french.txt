@@ -78,6 +78,7 @@
 αρχ@noun!η-ης%1(noun)=principe,origine%2(noun)=point de depart%3(noun)=extremite finale,recapitulation,total%4(noun)=commandement,pouvoir,autorite%5(noun)=commencement
 ασαφ@noun!inv%1(noun)=asa
 ασθεν@verb!norm%1(verb)=etrefaible
+ασφαλ@adj!ης-ης-ες%1(adj)=sûr
 αστ@noun!ηρ-ερος%1(noun)=étoile
 αστρ@noun!ον-ου%1(noun)=astre
 αυται@prep%1(prep)=ces(e)
@@ -127,6 +128,7 @@
 γινωσκ@verb!norm%1(verb)=apprendre à connaître,se rendre compte%2(verb)=prendre une décision,décider%3(verb)=faire connaître,chanter,célébrer%4(verb)=avoir des relations intimes%5(verb)=savoir
 γιγνωσκ@verb!norm%1(verb)=connaitre
 γλωσσ@noun!α-ης%1(noun)=langue
+γνωσ@noun!ις-εως%1(noun)=recherche%2(noun)=connaissance
 γονιμ@noun!ος-ου%1(noun)=viable%2(noun)=productif
 γραμματιστ@noun!ης-ου%1(noun)=grammairien
 γραμμ@noun!α-ατος%1(noun)=lettre
@@ -346,6 +348,7 @@
 μαθημ@noun!α-ατος%1(noun)=sujet%2(noun)=leçon
 μαθητ@noun!ης-ου%1(noun)=disciple
 μακαρι@adj!ος-α-ον%1(adj)=bienheureux%2(adj)=heureux
+μακαριζ@verb!norm%1(verb)=rendre heureux%2(verb)=benir
 μανασσ@noun!ης-ου%1(noun)=manassé
 μανθαν@verb!norm%1(verb)=percevoir%2(verb)=avoir l'habitude de%3(verb)=rechercher%4(verb)=comprendre%5(verb)=apprendre
 μαρι@noun!α-ας%1(noun)=marie
@@ -567,6 +570,7 @@
 ταυτην@prep%1(prep)=celle-ci
 τε@prep%1(prep)=aussi
 τεκν@noun!ον-ου%1(noun)=enfant
+τελει@adj!ος-α-ον%1(adj)=parfait%2(adj)=accompli%3(adj)=terminé
 τελος@prep%1(prep)=enfin
 τελων@noun!ης-ου%1(noun)=péagier%2(noun)=collecteur de taxes%3(noun)=douanier
 τιμ@noun!η-ης%1(noun)=prix%2(noun)=honneur
