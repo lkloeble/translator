@@ -24,9 +24,9 @@ import static org.junit.Assert.assertTrue;
 public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
 
     private TranslatorBridge translatorBridge;
-    String frenchVerbsDataFile = "E:\\translator\\src\\main\\resources\\french_verbs.txt";
-    String hebrewPathFile = "E:\\translator\\src\\test\\resources\\hebrew_content.txt";
-    String hebrewResultFile = "E:\\translator\\src\\test\\resources\\hebrew_expected_results.txt";
+    String frenchVerbsDataFile = "C:\\translator\\src\\main\\resources\\french_verbs.txt";
+    String hebrewPathFile = "C:\\translator\\src\\test\\resources\\hebrew_content.txt";
+    String hebrewResultFile = "C:\\translator\\src\\test\\resources\\hebrew_expected_results.txt";
 
 
     @Before
@@ -175,8 +175,10 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "i56rw309s29864l63i60m000@masc%invmasc",
                 "i60s29956r64a61l@masc%invmasc",
                 "i63d@masc%im",
+                "i61y58q65b@masc%invmasc",
                 "'hs29862k00056@fem%im-fem",
                 "'h63k63m000@adj%im-ot",
+                "kw331k56b61@masc%im",
                 "l63i56l64h@fem%invfem",
                 "l64i56l64h@fem%invfem",
                 "m60ts56r63i60m000@masc%invmasc",
@@ -189,6 +191,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "y64p64r@fem%im-fem",
                 "y62r62b@masc%im",
                 "yts@masc%custom(nomsg=yts|cst(nomsg)=ytst&|nomplr=ytsim|cst(nomplr)=ytsi&)",
+                "y61s29964w309@masc%invmasc",
                 "p56r60i@masc%im",
                 "q64dw331s298@adj%im-ot",
                 "qw331l@masc%mascot",
@@ -268,6 +271,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "idy@verb!norm%1(verb)=connaitre",
                 "iw331m000@noun!custom(nomplr=imim000|cst(nomplr)=imi|cst(nomsg)=iwm&|nomsg=iwm000)%1(noun)=jour",
                 "ihwh@noun!invmasc%1(noun)=le seigneur%1(noun)=YHVH",
+                "i61y58q65b@noun!invmasc%1(noun)=jacob",
                 "i56rw309s29864l63i60m000@noun!invmasc%1(noun)=jérusalem",
                 "isb@verb!norm%1(noun)=demeurer",
                 "i60s29956r64a61l@noun!invmasc%1(noun)=israël",
@@ -279,6 +283,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "k31564@prep%1(prep)=comme",
                 "k3156369@prep%1(prep)=comme",
                 "k3156469@prep%1(prep)=comme",
+                "kw331k56b61@noun!im%1(noun)=étoile",
                 "ki@prep%1(prep)=car%2(prep)=lorsque%3(prep)=pour que%4(prep)=que",
                 "k315i@prep%1(prep)=car%2(prep)=lorsque%3(prep)=pour que%4(prep)=que",
                 "k31560i@prep%1(prep)=car%2(prep)=lorsque%3(prep)=pour que%4(prep)=que",
@@ -320,6 +325,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "y64p64r@noun!im-fem%1(noun)=jeune daim%2(noun)=gris,cendré%3(noun)=poussière",
                 "y64m000@noun!im%1(noun)=peuple",
                 "y62r62b@noun!im%1(noun)=soir",
+                "y61s29964w309@noun!invmasc%1(noun)=esav",
                 "yts@noun!custom(nomsg=yts|cst(nomsg)=ytst&|nomplr=ytsim|cst(nomplr)=ytsi&)%1(noun)=arbre",
                 "ra65s298@noun!im%1(noun)=tête",
                 "r61as60it@noun!invmasc%1(noun)=commencement",
@@ -865,7 +871,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failed_ones() {
         assertTrue(true);
-        checkInMaps("wein24Q1", translatorBridge);
+        checkInMaps("wein24S1", translatorBridge);
     }
 
 }
