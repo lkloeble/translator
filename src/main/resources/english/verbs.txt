@@ -68,6 +68,7 @@ determine,[live]
 dwell,[live]
 die,[live]
 discuss,[call]
+dispose,[live]
 distinguish,[teach]
 divide,[live]
 divorce,[live]
@@ -80,6 +81,7 @@ emulate,[live]
 end,[call]
 establish,[teach]
 exclude,[live]
+expect,[call]
 explain,[live]
 extend,[call]
 face,[live]
@@ -118,6 +120,7 @@ hover,[live]
 join,[call]
 keep,[call]
 kill,[call]
+knock,[call]
 know,[live],(AIP*knowd*knew*0@PAP*knowd*known*0)
 lay,[live],(AIP*layd*laid*0)
 learn,[live]
@@ -174,6 +177,7 @@ rise,[live],(AIP*rised*rose*0)
 rule,[live]
 say,[live],(AII*say*sai*0)
 sanctify,[live],(AIP*fyd*fied*1@PAP*sanctifyd*sanctified*0)
+scrape,[live]
 seat,[call]
 see,[see],(PAP*seed*seen*0@AIP*see*saw*0)
 seek,[call]

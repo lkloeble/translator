@@ -76,6 +76,7 @@
 αργυρι@noun!ον-ου%1(noun)=monnaie%2(noun)=argent
 αρτ@noun!ος-ου%1(noun)=pain
 αρχ@noun!η-ης%1(noun)=principe,origine%2(noun)=point de depart%3(noun)=extremite finale,recapitulation,total%4(noun)=commandement,pouvoir,autorite%5(noun)=commencement
+αρχ@verb!norm%1(verb)=commencer
 ασαφ@noun!inv%1(noun)=asa
 ασθεν@verb!norm%1(verb)=etrefaible
 ασφαλ@adj!ης-ης-ες%1(adj)=sûr
@@ -125,7 +126,7 @@
 γεωργ@noun!ος-ου%1(noun)=paysan%2(noun)=cultivateur
 γιγν@verb!norm%1(verb)=advenir%2(verb)=devenir
 γιν@verb!norm%1(verb)=advenir%2(verb)=devenir2
-γινωσκ@verb!norm%1(verb)=apprendre à connaître,se rendre compte%2(verb)=prendre une décision,décider%3(verb)=faire connaître,chanter,célébrer%4(verb)=avoir des relations intimes%5(verb)=savoir
+γινωσκ@verb!norm%1(verb)=apprendre à connaître,se rendre compte%2(verb)=prendre une décision,décider%3(verb)=faire connaître,chanter,célébrer%4(verb)=avoirdesrelationssexuelles%5(verb)=savoir
 γιγνωσκ@verb!norm%1(verb)=connaitre
 γλωσσ@noun!α-ης%1(noun)=langue
 γνωσ@noun!ις-εως%1(noun)=recherche%2(noun)=connaissance

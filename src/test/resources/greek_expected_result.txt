@@ -188,7 +188,6 @@ wenham12D=>le riche aime les pauvre(s) ?
 wenham12E=>les juste(s) sont fils(s) du dieu
 wenham12F=>les saint(s) voient la gloire(e) des ciel(s) et témoignent les(e) voix(s)(e) des ange(s)
 wenham12G=>le Christ a trois épreuve dans la désert
-matthew1A=>livre (du) origine (du) Jésus (du) Christ (du) fils david (du) fils abraham
 wenham13A=>le Jésus recevait petit(e)@petit(s)@ enfant(s), et le petit(e)@petit(s)@ enfant(s) entendaient du Jésus
 wenham13B=>les pêcheur(s) ne obéissais au prophète
 wenham13C=>paul enseignait le évangile et croyiez aux verbe(s)
@@ -289,7 +288,7 @@ matthew1U=>enfantera d'autre part fils et appeleras le nom(e) (du) le Jésus le 
 matthew1V=>ce d'autre part tout devint afin que accomplisse le qui a été dit par (du) seigneur au travers de du prophète disant
 matthew1W=>voici ! la vierge dans (au) ventre aura et enfantera fils et appeleront le nom(e) (du) le emmanuel le est traduit avec notre le dieu
 matthew1X=>levé d'autre part [ le ] joseph depuis du sommeil fit comme ordonna (au) le le ange (du) seigneur et reçu la femme(e) (du) le
-matthew1Y=>foo
+matthew1Y=>et ne avait des relations sexuelles la jusqu'à [ ne ] enfanta fils et appela le nom(e) (du) le Jésus
 matthew1Z=>foo
 
 
@@ -356,7 +355,7 @@ lxxgen1N=>et dit le dieu. soient luminaire(s) dans au firmament(e) du ciel vers 
 lxxgen1O=>et soient vers illumination dans au firmament(e) du ciel, de sorte que montrer sur la (du) terre(e). et fut de cette façon.
 lxxgen1P=>et fit le dieu les deux lumière(s) les grand(s), le lumière le grand vers commencement(s)(e) la (du) jour(e) et le lumière le plus petit vers commencement(s)(e) la (du) nuit(e), et les étoile(s)(e).
 lxxgen1Q=>et plaça le(s) le dieu dans au firmament(e) du ciel, de sorte que montrer sur la (du) terre(e)
-lxxgen1R=>foo
+lxxgen1R=>et commencer la (du) jour(e) et la (du) nuit(e) et séparer entre du lumière(e) et entre de obscurité(s). et vit le dieu, que beau.
 lxxgen1S=>foo
 lxxgen1T=>foo
 lxxgen1U=>foo

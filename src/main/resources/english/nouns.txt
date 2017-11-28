@@ -527,6 +527,7 @@ moon@neut%normmasc
 morning@neut%normmasc
 mother@fem%normfem
 motion@neut%normmasc
+mouth@neut%church
 movement@masc%normmasc
 mt@neut%invmasc
 museum@masc%normmasc
@@ -781,6 +782,7 @@ strength@fem%church
 string@fem%normfem
 stone@fem%normfem
 storehouse@neut%normmasc
+street@neut%normmasc
 stud@fem%endy
 style@eut%normmasc
 suburb@fem%normfem

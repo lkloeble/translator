@@ -1,4 +1,5 @@
 a@prep()%[electFeminineForFollowingNoun]
+able@prep()
 above@prep()
 about@prep()
 accurately@prep()
@@ -41,6 +42,7 @@ earlier@prep()
 early@prep()
 easily@prep()
 either@prep()
+enough@prep()
 er@prep()
 especially@prep()
 even@prep()
