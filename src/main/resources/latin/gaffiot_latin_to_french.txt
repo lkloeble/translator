@@ -262,6 +262,7 @@ deinde@prep%1(prep)=après%2(prep)=ensuite%3(prep)=à partir de là
 delecto@verb!norm%1(verb)=serejouir
 deleo@verb!norm%1(verb)=détruire%2(verb)=effacer
 deli@noun!a-ae%1(noun)=delia
+deligo@verb!norm%1(verb)=choisir
 delphi@noun!inv%1(noun)=delphes
 demonstrat@adj!us-a-um%1(adj)=prouvé
 demonstrati@noun!o-onis%1(noun)=indication%2(noun)=preuve
@@ -367,6 +368,7 @@ examino@verb!norm%1(verb)=examiner
 exaudio@verb!norm%1(verb)=entendre favorablement
 excels@adj!us-a-um%1(adj)=lieu très haut
 except@adj!us-a-um%1(adj)=excepté
+exerceo@verb!norm%1(verb)=exercer
 excus@adj!us-a-um%1(adj)=falsifié
 exspectat@adj!us-a-um%1(adj)=attendu
 extrem@adj!us-a-um%1(adj)=extrême
@@ -591,6 +593,7 @@ leandr@noun!x-ri%1(noun)=leander
 lect@noun!us-i%1(noun)=sofa%2(noun)=lit
 lecti@noun!o-onis%1(noun)=choix%2(noun)=leçon
 lectic@noun!a-ae%1(noun)=chaise à porteur
+legati@noun!o-onis%1(noun)=ambassadeur
 lego@verb!norm%1(verb)=lire
 lesbos@noun!inv%1(noun)=lesbos
 lemann@noun!us-i%1(noun)=léman
@@ -733,7 +736,9 @@ observo@verb!norm%1(verb)=observer
 obtineo@verb!norm%1(verb)=posseder
 occasi@noun!o-onis%1(noun)=opportunité%2(noun)=occasion
 occupati@noun!o-onis%1(noun)=devoir%2(noun)=occupation
+occupo@verb!norm%1(verb)=occuper
 ocean@noun!us-i%1(noun)=océan
+ocul@noun!us-i%1(noun)=oeil
 occas@noun!us-us%1(noun)=ouest
 octav@adj!us-a-um%1(adj)=huitieme
 octo@noun!inv%1(noun)=huit
@@ -815,6 +820,7 @@ ploro@verb!norm%1(verb)=pleurer
 plu@adj!us-res-ra%1(noun)=plus nombreux, en plus grand nombre%2(noun)=un assez grand nombre, un trop grand nombre%3(noun)=plusieurs%4(noun)=plus
 plu@adj!s-ris%1(adj)=plus
 plurim@adj!us-a-um%1(adj)=superieur%2(adj)=le plus grand nombre
+poet@noun!a-ae%1(noun)=poêtes
 pomif@adj!er-era-erum%1(adj)=porteur de fruit
 pono@verb!norm%1(verb)=établir%2(verb)=placer%3(verb)=ordonner
 porro@prep%1(prep)=à partir de cela
@@ -1037,6 +1043,7 @@ supposititi@adj!us-a-um%1(adj)=supposé
 supersum@verb!irrg%(1verb)=etre de reste, rester, subsister%2(verb)=survivre%3(verb)=etre en surabondance%4(verb)=suffire (poesie)%5(verb)=etre de trop, superflu%6(verb)=assister, secourir%7(verb)==etre au dessus, dominer%8(verb)=rester
 suppeto@verb!norm%1(verb)=etredisponible
 surgo@verb!norm%1(verb)=selever
+suscipio@verb!norm%1(verb)=envoyer%2(verb)=controler
 syllab@noun!a-ae%1(noun)=syllabe
 syr@noun!a-ae%1(noun)=syra
 syr@noun!us-i%1(noun)=syrus
@@ -1153,7 +1160,7 @@ viv@adj!us-a-um%1(noun)=vivant
 vivo@verb!norm%1(verb)=vivre
 viven@adj!s-s-s%1(adj)=vivant
 vo@noun!x-cis%1(noun)=voix
-vobis@prep%1(prep)=par vous
+vobis@prep%1(prep)=à vous%2(prep)=par vous
 vocabul@noun!um-i%1(noun)=expression%2(noun)=mot
 voco@verb!%1(verb)=convoquer%2(verb)=assigner3(verb)=appeler pour voter%4(verb)=provoquer en duel%5(verb)=inviter a diner%6(verb)=exhorter%7(verb)=nommer%8(verb)=amener%9(verb)=destiner a, appeler a%10(verb)=appeler
 volatil@adj!is-is-e%1(adj)=volant

@@ -1,0 +1,3 @@
+IPR=>eo,es,et,emus,etis,ent
+AIPP=>eram,eras,erat,eramus,eratis,erant
+AIFP=>uero,ueris,uerit,uerimus,ueritis,uerint

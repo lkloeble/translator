@@ -361,6 +361,7 @@ leandr@neut%x-ri
 lect@masc%us-i
 lecti@fem%o-onis
 lectic@fem%a-ae
+legati@fem%o-onis
 lemann@masc%us-i
 lesbos@neut%inv
 lemnos@neut%inv
@@ -460,6 +461,7 @@ occas@masc%us-us
 occasi@fem%o-onis
 occupati@fem%o-onis
 ocean@masc%us-i
+ocul@masc%us-i
 octav@adj%us-a-um
 octo@neut%inv
 odi@neut%um-i
@@ -517,6 +519,7 @@ pler@adj%us-a-um
 plu@adj%us-res-ra
 plu@adj%s-ris
 plurim@adj%us-a-um
+poet@fem%a-ae
 pomif@adj%er-era-erum
 popul@masc%us-i
 port@fem%a-ae
