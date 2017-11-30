@@ -329,7 +329,7 @@ planifier@NORM%[INFINITIVE]=[planifier]%[IPR]=[planifie,planifies,planifie,plani
 planter@NORM%[INFINITIVE]=[planter]%[IPR]=[plante,plantes,plante,plantons,plantez,plantent]%[AIP]=[plantai,plantais,planta,plantâmes,plantâtes,plantèrent]%[AIPP]=[ai planté,as planté,a planté,avons planté,avez planté,ont planté]
 pleurer@NORM%[IPR]=[pleure,pleures,pleure,pleurons,pleurez,pleurent]%[AII]=[pleurais,pleurais,pleurait,pleurions,pleuriez,pleuraient]%[INFINITIVE]=[pleurer]
 pleuvoir@NORM%[IPR]=[,,pleut,,,]%[INFINITIVE]=[pleuvoir]
-porter@NORM%[INFINITIVE]=[porter]%[IPR]=[porte,portes,porte,portons,portez,portent]%[PII]=[suis porté,es porté,est porté,sommes portés,êtes portés,sont portés]%[AIP]=[portais,portas,porta,portâmes,portâtes,portèrent]
+porter@NORM%[INFINITIVE]=[porter]%[IPR]=[porte,portes,porte,portons,portez,portent]%[PII]=[suis porté,es porté,est porté,sommes portés,êtes portés,sont portés]%[AIP]=[portais,portas,porta,portâmes,portâtes,portèrent]%[PIP]=[suis porté,es porté,est porté,sommes porté,êtes portés,sont portés]
 poser@NORM%[INFINITIVE]=[poser]%[IPR]=[pose,poses,pose,posons,posez,posent]%[AIF]=[poserai,poseras,posera,poserons,poserez,poseront]%[AIP]=[posai,posas,posa,posâmes,posâtes,posèrent]%[PII]=[posais,posais,posait,posions,posiez,posaient]%[PAP]=[posé]
 posseder@NORM%[INFINITIVE]=[posséder]%[IPR]=[posséde,possédes,posséde,possédons,possédez,possédent]%[AII]=[possédais,possédais,possédait,possédions,possédiez,possédaient]%[AIFP]=[aurai possédé,auras possédé,aura possédé,aurons possédés,aurez possédés,auront possédés]
 poursuivre@NORM%[INFINITIVE]=[poursuivre]%[IPR]=[poursuis,poursuis,poursuit,poursuivons,poursuivez,poursuivent]%[PII]=[étais poursuivi,étais poursuivi,était poursuivi,étions poursuivis,étiez poursuivis,étaient poursuivis]

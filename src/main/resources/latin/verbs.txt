@@ -109,7 +109,7 @@ fug,o,as,are,avi,atum,[o-as]
 ger,o,is,ere,,,[o-is]
 germin,o,as,are,,,[o-as],(ASI*germin*germinar*0)
 gubern,o,as,are,,,[o-as]
-hab,eo,es,ere,foo,bar,[eo-es2],(AIP*hab*habu*0)
+hab,eo,es,ere,foo,bar,[eo-es2],(ASP*hab*habe*0)
 habit,o,as,are,avi,atus,[o-as]
 imbu,o,is,ere,,,[o-is]
 imper,o,as,are,avi,atus,[o-as]
@@ -191,7 +191,7 @@ prohib,eo,es,ere,,,[eo-es]
 prostern,o,is,ere,,,[o-is],(AIFP*prosterns*prostrav*0)
 public,o,as,are,,,[o-as]
 puls,o,as,are,,,[o-as]
-qu,eo,is,ire,,,[eo-is]
+qu,eo,is,ire,,,[eo-is],(AIP*qu*zzz*0@AIMP*qu*zzz*0)
 recip,io,is,ere,,,[io-is],(AIP*recip*recep*0)
 regn,o,as,are,,,[o-as]
 reg,o,is,ere,,,[o-is]
