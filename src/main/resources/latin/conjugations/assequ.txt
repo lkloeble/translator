@@ -1,2 +1,3 @@
 IPR=>or,eris,itur,imur,imini,untur
+AII=>ebar,ebaris|ebare,ebatur,ebamur,ebamini,ebantur
 VENO=>ere,endi,endo,endum,xxx,xxx

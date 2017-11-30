@@ -133,6 +133,7 @@ canal@noun!is-is%1(noun)=orifice%2(noun)=canal
 cano@verb!norm%1(verb)=chanter2
 canto@verb!norm%1(verb)=chanter
 cantic@noun!um-i%1(noun)=cantique%2(noun)=chant
+cap@noun!ut-itis%1(noun)=tête
 capen@noun!a-ae%1(noun)=capena
 capharnaum@noun!inv%1(noun)=capharnaüm
 capio@verb!norm%1(verb)=recevoir%2(verb)=comprendre
@@ -338,6 +339,7 @@ effeminand@adj!us-a-um%1(adj)=enervé%2(adj)=emasculé%3(adj)=féminisé
 effero@verb!norm%1(verb)=apporter
 efficio@verb!norm%1(verb)=devenir
 effus@adj!us-a-um%1(adj)=répandu
+egredor@verb!norm%1(verb)=sortir
 ei@prep%1(prep)=à elle
 eis@prep%1(prep)=eux
 eius@prep%1(prep)=son
@@ -515,6 +517,7 @@ incipio@verb!norm%1(verb)=demarrer
 inclino@verb!norm%1(verb)=incliner
 incolo@verb!norm%1(verb)=cultiver%2(verb)=resider
 incredibil@adj!is-is-e%1(noun)=incroyable
+inde@prep%1(prep)=depuis ici
 indigeo@verb!norm%1(verb)=avoir besoin%2(verb)=desirer
 indign@adj!us-a-um%1(adj)=indigne
 induco@verb!norm%1(verb)=conduire dans,contre,vers%2(verb)=faire avancer%3(verb)=appliquer sur,recouvrir%4(verb)=etendre%5(verb)=prendre en compte,inscrire%6(verb)=se resoudre a,se mettre dans l'idee que%7(verb)=representer,mettre en scene%8(verb)=conduire
@@ -532,6 +535,7 @@ innocenti@noun!a-ae%1(noun)=innocence
 inquam@verb!irrg%1(verb)=dire
 inquie@adj!s-tis%1(noun)=non tranquille
 inrigan@adj!s-tis%1(adj)=irriguant
+inrigo@verb!norm%1(verb)=irriguer
 inscribo@verb!norm%1(verb)=inscrire
 inspiro@verb!norm%1(verb)=souffler
 institut@noun!um-i%1(noun)=habitude%2(noun)=institution%3(noun)=coutûme

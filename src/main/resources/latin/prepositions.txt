@@ -81,6 +81,7 @@ iam@prep()
 ibi@prep()
 igitur@prep()
 in@prep(acc)%[electAccusativeForFollowingNoun]%[electAblativeForFollowingNoun]
+inde@prep()
 inter@prep()
 interea@prep()
 isntit@prep()

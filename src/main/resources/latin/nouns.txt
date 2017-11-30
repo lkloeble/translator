@@ -87,6 +87,7 @@ campani@fem%a-ae
 can@masc%is-is
 canal@masc%is-is
 cantic@neut%um-i
+cap@neut%ut-itis
 capen@fem%a-ae
 capharnaum@neut%inv
 capitul@neut%um-i

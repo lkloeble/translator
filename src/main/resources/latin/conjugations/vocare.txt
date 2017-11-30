@@ -14,3 +14,4 @@ AIFP=>avero,averis,averit,averimus,averitis,averint
 AIMP=>a,xxx,ate
 ASI=>em,es,et|at,emus,etis,ent
 PSI=>er,eris,etur,emur,emini,entur
+VENO=>are,andi,ando,andum,atum,atu
