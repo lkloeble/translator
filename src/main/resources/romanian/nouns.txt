@@ -16,6 +16,7 @@ alt@adj%adj
 ambigua@neut%inv
 amintir@fem%berea
 amintit@adj%adj
+ammonas@masc%inv
 an@masc%ul
 ana@fem%inv
 anecdot@fem%fem
@@ -24,6 +25,7 @@ antonie@masc%inv
 ap@fem%fem
 apartament@masc%ul
 apetit@masc%ul
+arab@adj%adj
 ardeleneasc@adj%adj
 armat@fem%fem
 articol@masc%ul
@@ -78,6 +80,7 @@ centru@masc%inv
 chibritur@fem%tigara
 chil@masc%chil
 chimic@adj%adj
+chinovi@fem%fem
 chip@masc%ul
 ciine@masc%inv
 cincizeci@neut%inv
@@ -106,7 +109,7 @@ coleg@masc%ul
 conducere@fem%ereditate
 conservar@fem%berea
 corespunzator@neut%inv
-creare@neut%inv
+crear@neut%berea
 creatoare@adj%inv
 creator@masc%ul
 creatsi@fem%ratsiune
@@ -136,6 +139,7 @@ dimineatsa@neut%inv
 dintai@neut%inv
 dintii@neut%inv
 directi@fem%fem
+dispus@adj%adj
 doctor@masc%doctor
 doctrin@fem%fem
 domn@masc%ul
@@ -239,6 +243,7 @@ jug@masc%ul
 jumatate@fem%inv
 jurul@masc%inv
 kilogram@neut%cafea
+larg@adj%adj
 lasa@fem%inv
 latin@adj%adj
 legum@fem%fem
@@ -314,6 +319,7 @@ noi@neut%inv
 nord@neut%inv
 normal@adj%adj
 noroc@neut%inv
+nume@neut%iepure
 obiect@masc%ul
 obosit@adj%adj
 oamen@masc%ul
@@ -393,7 +399,8 @@ retset@fem%fem
 revedere@neut%inv
 revelatsi@fem%femi
 revist@fem%fem
-rod@masc%custom(plr=roade|plr=roadele|sing=rodul)
+roat@fem%fem[nomplr(a):roate,nomplr(b):rotsi,nomplr(c):roatele,nomplr(d):rotsile]
+rod@masc%ul[nomplr(a):roadele]
 rom@masc%ul
 roman@adj%adj
 romanca@adj%inv
@@ -456,6 +463,7 @@ tatal@masc%inv
 taxi@neut%inv
 teatr@masc%ul
 tendints@fem%fem
+text@neut%ul
 trei@neut%inv
 tren@masc%ul
 tsaran@masc%ul
@@ -466,6 +474,7 @@ tiparit@adj%adj
 tirziu@neut%inv
 traducer@fem%berea
 treab@fem%treaba
+treisprezece@neut%inv
 treizeci@neut%inv
 tsint@fem%fem
 tsuic@fem%fem
@@ -481,6 +490,7 @@ umor@masc%ul
 un@adj%adj
 unchi@masc%ul
 urm@fem%fem
+urmas@masc%ul
 urs@masc%ul
 us@fem%fem
 usor@adj%adj
@@ -491,6 +501,7 @@ vanatoare@fem%inv
 vecin@masc%ul
 veder@fem%berea
 ver@adj%adjverde
+vesel@adj%adj
 veterinar@masc%ul
 viats@fem%fem
 vin@masc%ul

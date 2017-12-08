@@ -2,7 +2,7 @@ adorm,,[dorm]
 aduc,,[face],(PAP*aducut*adus*0)
 afirm,,[incerca]
 alerg,,[merg]
-am@IRREGULAR%[IPR]=[am,ai,are,avem,avetsi,au]%[INFINITIVE]=[avea]
+am@IRREGULAR%[IPR]=[am,ai,are,avem,avetsi,au]%[CONJ]=[x,x,aiba,x,x,aiba]%[INFINITIVE]=[avea]
 amuz,,[bea]
 apreci,,[aprecia]
 aprind,,[merg],(IPR1*di*zi*1)
@@ -22,6 +22,7 @@ cre,d,[crede]
 cres,c,[cresc]
 cuget,,[incerca]
 cun,,[cunosc]
+cuprin,d,[crede]
 da,,[da]
 depart,,[fumez]
 deranj,,[fumez]
@@ -35,6 +36,7 @@ duc,,[merg],(PAP*ducs*dus*0)
 evit,,[cauta]
 fac,,[face]
 fierb,,[merg]
+form,,[fumez]
 fum,,[fumez]
 hotar,i,[hotarasc]
 ies,,[dorm]
@@ -93,6 +95,7 @@ studi,,[fumez]
 sufer,,[suferi],(IPR0*er*ar*1)
 suport,,[cauta]
 termin,,[cauta]
+traduc,,[merg],(PAP*traduc*tradu*0)
 trag,,[merg]
 trai,,[aciti]
 transmit,,[merg]
@@ -101,6 +104,7 @@ trec,,[merg],(PAP*trecs*trecut*0)
 umpl,,[scrie],(PAP*umpls*umplut*0)
 urc,,[cauta]
 urm,,[fumez]
+urmar,,[aciti]
 vad@IRREGULAR%[IPR]=[vad,vezi,vede,vedem,vedetsi,vad]%[AIPP]=[vazusem,vazusesi,vazuse,vazuseram,vazuseratsi,vazusera]%[INFINITIVE]=[vedea]
 vin@IRREGULAR%[IPR]=[vin,vii,vine,venim,venitsi,vin]%[AII]=[veneam,veneai,venea,veneam,veneatsi,veneau]%[PAPR]=[venind]%[PAP]=[venit]%[INFINITIVE]=[veni]
 van,,[vinde],(IPR1234*van*vin*0@PSP1234*van*vin*0)
