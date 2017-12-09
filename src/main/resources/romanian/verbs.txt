@@ -10,8 +10,10 @@ arat,,[incerca]
 astept,,[cauta],(AIMP*astepta*asteapta*1)
 be,,[bea]
 calator,i,[locuiesc]
+cant,,[cauta]
 caut,,[cauta]
 cer,,[face],(CONJ25*cer*cear*0)
+cint,,[cauta]
 cit,,[aciti]
 conduc,,[face]
 consider,,[cauta]

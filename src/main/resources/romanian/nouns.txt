@@ -104,6 +104,7 @@ continuare@fem%ereditate
 contsinut@masc%ul
 conversatsie@fem%ereditate
 copi@masc%copil
+copt@neut%inv
 cosmos@masc%ul
 cinci@neut%inv
 circulatsi@fem%fem
@@ -130,6 +131,7 @@ dat@adj%adjts
 deosebire@fem%ereditate
 dependents@fem%fem
 depinde@neut%inv
+descoperit@adj%adj
 descris@adj%adj
 deseara@neut%inv
 desert@neut%locul
@@ -326,6 +328,7 @@ noi@neut%inv
 nord@neut%inv
 normal@adj%adj
 noroc@neut%inv
+nou@adj%adj[nomplr(a):noi]
 nume@neut%iepure
 obiect@masc%ul
 obosit@adj%adj
@@ -338,6 +341,7 @@ om@masc%ul
 ora@fem%inv
 oras@masc%ul
 originare@neut%inv
+original@adj%adj
 origine@fem%ereditate
 ortodox@fem%fem
 pacat@neut%inv
@@ -363,6 +367,7 @@ pg@neut%inv
 pian@masc%ul
 pic@neut%inv
 picatur@fem%fem
+pierdut@adj%adjts
 pip@fem%fem
 piperat@adj%adj
 placere@neut%inv
@@ -457,6 +462,7 @@ somn@masc%ul
 sots@masc%ul
 sotsi@fem%fem
 spital@masc%ul
+splendid@adj%adj
 sportiv@adj%adj
 stabilit@adj%adj
 stapan@masc%ul

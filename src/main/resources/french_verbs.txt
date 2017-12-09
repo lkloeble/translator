@@ -118,6 +118,7 @@ debuter@NORM%[INFINITIVE]=[débuter]%[IPR]=[débute,débutes,débute,débutons,d
 decapiter@NORM%[INFINITIVE]=[décapiter]%[IPR]=[décapite,décapites,décapite,décapitons,décapitez,décapitent]%[AII]=[décapitais,décapitais,décapitait,décapitions,décapitiez,décapitaient]%[AIP]=[décapitai,décapitas,décapita,décapitâmes,décapitâtes,décapitèrent]%[PAP]=[décapité]%[PAPR]=[décapitant]
 dechirer@NORM%[INFINITIVE]=[déchirer]%[IPR]=[déchire,déchires,déchire,déchirons,déchirez,déchirent]%[PASANT]=[eus été déchiré,eus été déchiré,eut été déchiré,eûmes été déchirés,eûtes été déchirés,eurent été déchirés]
 decider@NORM%[INFINITIVE]=[décider]%[IPR]=[décide,décides,décide,décidons,décidez,décident]%[PAP]=[décidé]
+decouvrir@NORM%[INFINITIVE]=[découvrir]%[IPR]=[découvre,découvres,découvre,découvrons,découvrez,découvrent]%[PAP]=[découvert]
 decreter@NORM%[INFINITIVE]=[décréter]%[IPR]=[décrète,décrètes,décrète,décrètons,décrètez,décrètent]%[PAP]=[décrété]%[PAPR]=[décrétant]]
 decrire@NORM%[INFINITIVE]=[décrire]%[IPR]=[décris,décris,décrit,décrivons,décrivez,décrivent]%[PAP]=[décris]%[PAPR]=[décrivant]
 decroitre@NORM%[INFINITIVE]=[décroître]%[IPR]=[décrois,décrois,décroit,décroissons,décroissez,décroissent]%[FUTPARTACT]=[décroître,rapetissé,rapetissée,rapetissé]

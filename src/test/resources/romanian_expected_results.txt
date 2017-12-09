@@ -276,7 +276,7 @@ assimil19G=>tu ne supportes femme(s)(e) de la famille(e) ma; la maman(e), de exe
 assimil19H=>ne est parlait@à propos@ de celui-ci, mais ne apprécie du tout plaisanterie(s)(e) ils.
 assimil19I=>préfères souvenir(s)(e) son de la armée(e) ? anecdote(s)(e) son piquant(e) ?
 assimil19J=>es mal avec lui ! est un homme de la vie(e), gai et bien disposé !
-assimil19K=>il a une voix splendide et il chante bien
+assimil19K=>a une voix(e) splendide(e) et chante bien !
 assimil19L=>oui, il chante bien et fort ! il mange bien et boit bien, jusqu'à l'aube
 assimil19M=>chaque fois qu'il vient en visite, nous avons du scandale avec les voisins
 assimil19N=>il vide toutes les bouteilles et ensuite il casse les verres contre les murs
@@ -352,8 +352,10 @@ filocalia1K=>1 : la preuve(e) ah fait une [XXX]. [XXX] avec la travail(e) [XXX] 
 filocalia1L=>ces sept épitre(s)(e) suis imprimé(e) ( dans [XXX], [XXX] [XXX], [XXX] 40 ) dans deux (du) rédaction(e), les deux dans traduction(e) latin(e).
 filocalia1M=>premier(e) rédaction(e) ( [XXX] [XXX] ) est une traduction(e) de à 1516 de lui [XXX] [XXX] après un manuscrit grec, qui ne a été indiqué et ah resté inconnu.
 filocalia1N=>ah deux, qui comporte un texte plus large, traduit après un manuscrit arabe, une forme premier(s)(e) sept épitre(s)(e) de celles vingt donné(s)(e) toutes sous nom son antoine ( [XXX] [XXX] ), de qui mais sur celles treize de la suite(e) ( [XXX] [XXX] ) [XXX] lui ah prouvé que suis de son ammonas, le disciple et le successeur son antoine à la conduite(e) (du) monastère(e) de à [XXX].
-filocalia1O=>foo
+filocalia1O=>dans le temps plus nouveau ah commencement@commencé@  soit découvert et le texte copte, celui original, de un de ces épitre(s)(e).
 filocalia1P=>foo
+filocalia1Q=>foo
+filocalia1R=>foo
 
 
 urzeala1A=>il faudrait que  nous retournons, demanda gared sur quand broussaille(s) commencèrent  se obscurcir tout plus fort dans autour eux. herbe(s) sont mort(e).

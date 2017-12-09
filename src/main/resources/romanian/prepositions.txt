@@ -168,6 +168,7 @@ toate@prep()
 tot@prep()
 totusi@prep()
 unde@prep()
+unora@prep(gen)
 va@prep()%[varogFinder]
 varog@prep()
 vorba@prep()
