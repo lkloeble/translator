@@ -1,5 +1,6 @@
 acasa@neut%inv
 accentuat@adj%adj
+acedie@neut%inv
 acesta@neut%inv
 act@masc%ul
 actsiune@fem%ereditate
@@ -34,6 +35,7 @@ aspirin@fem%fem
 atanasie@masc%inv
 autobuz@masc%ul
 autoconservare@neut%inv
+avva@neut%inv
 bai@masc%baiat
 balta@neut%inv
 barbat@masc%ul
@@ -130,6 +132,7 @@ dependents@fem%fem
 depinde@neut%inv
 descris@adj%adj
 deseara@neut%inv
+desert@neut%locul
 desis@neut%locul
 despartsit@adj%adj
 dezvoltare@neut%inv
@@ -146,7 +149,7 @@ domn@masc%ul
 domnule@masc%inv
 dorint@fem%femts
 dormitor@masc%inv
-dovad@fem%fem
+dovad@fem%fem[nomplr(a):dovezi]
 dovedit@adj%adj
 doua@fem%inv
 douazeci@neut%inv
@@ -194,6 +197,7 @@ frigider@neut%inv
 fruct@fem%fem
 frumoasa@adj%adj
 frumos@masc%ul
+gand@masc%locul
 gar@fem%fem
 gared@neut%inv
 genetic@fem%fem
@@ -231,6 +235,7 @@ intseleasa@adj%inv
 intim@adj%adj
 intimplat@neut%inv
 intretsinut@adj%adj
+intunecare@neut%inv
 invatsatur@fem%fem
 ion@masc%inv
 ionescu@masc%inv
@@ -257,6 +262,7 @@ litr@masc%filtru
 loc@masc%locul
 locuints@fem%fem
 lucrar@fem%berea
+lucrator@masc%ul
 lucru@neut%inv
 lum@fem%berea
 lumin@fem%fem
@@ -289,12 +295,13 @@ mincare@neut%inv
 mineral@adj%adj
 minut@fem%fem
 miscar@fem%berea
+moale@adj%adj[nomplr(a):moi]
 moart@fem%berea
 mod@masc%ul
 modest@adj%adj
 monah@masc%ul
 morcov@masc%ul
-mort@adj%adj
+mort@adj%adjts
 momeal@fem%fem
 moment@masc%ul
 mormint@masc%ul
@@ -325,6 +332,7 @@ obosit@adj%adj
 oamen@masc%ul
 och@masc%copil
 ocupat@adj%adj
+odata@neut%inv
 odihn@fem%fem
 om@masc%ul
 ora@fem%inv
@@ -410,6 +418,8 @@ romania@fem%inv
 ros@adj%adj
 roscat@adj%adj
 rud@fem%fem
+salbatic@adj%adj
+salbaticit@adj%adj
 salut@masc%inv
 sampani@fem%fem
 saptamin@fem%fem
@@ -430,6 +440,7 @@ sens@neut%inv
 sentimental@adj%adj
 separatsie@fem%ereditate
 ser@neut%inv
+sezand@adj%adj
 sfant@adj%adj
 sfat@masc%locul
 sfert@neut%inv
@@ -482,6 +493,7 @@ tu@neut%inv
 tudor@masc%inv
 tutun@masc%ul
 ucenic@masc%ul
+ucigas@ùasc%ul
 uimir@fem%berea
 ultim@adj%adj
 uman@adj%adj
@@ -504,11 +516,13 @@ ver@adj%adjverde
 vesel@adj%adj
 veterinar@masc%ul
 viats@fem%fem
+vie@fem%fem[nomsing(a):vie,nomsing(b):via,nomplr(a):vii,nomplr(b):viile]
 vin@masc%ul
 vinatoare@fem%inv
 virst@fem%fem
 vitez@fem%fem
 vizavi@masc%inv
+voc@fem%berea
 voi@neut%inv
 vrem@fem%berea
 zahar@neut%inv

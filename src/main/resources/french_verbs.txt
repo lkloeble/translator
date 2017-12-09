@@ -77,7 +77,7 @@ commencer@NORM%[INFINITIVE]=[commencer]%[IPR]=[commence,commences,commence,comme
 commencer2@NORM%[INFINITIVE]=[commencer]%[IPR]=[commence,commences,commence,commençons,commencez,commencent]%[AIMP]=[commence,commence,x,commençons,commencez,x]%[PAP]=[commencé]%[PAPR]=[commençant]%[AIP]=[commençai,commenças,commença,commençâmes,commençâtes,commencèrent]
 comparer@NORM%[INFINITIVE]=[comparer]%[IPR]=[compare,compares,compare,comparons,comparez,comparent]%[PAP]=[comparé]
 completer@NORM%[INFINITIVE]=[compléter]%[IPR]=[complète,complètes,complète,complètons,complètez,complètent]%[PAP]=[complété]
-comporter@NORM%[INFINITIVE]=[comporter]%[IPR]=[comporte,comportes,comporte,comportons,comportez,comportent]
+comporter@NORM%[INFINITIVE]=[comporter]%[IPR]=[comporte,comportes,comporte,comportons,comportez,comportent]%[PAP]=[comporté]
 composer@NORM%[INFINITIVE]=[composer]%[IPR]=[compose,composes,compose,composons,composez,composent]%[AIP]=[composais,composas,composa,composâmes,composâtes,composèrent]
 comprendre@NORM%[INFINITIVE]=[comprendre]%[IPR]=[comprends,comprends,comprend,comprenons,comprenez,comprennent]%[PAP]=[compris]%[ASP]=[comprenne,comprennes,comprenne,comprenions,compreniez,comprennent]
 compter@NORM%[INFINITIVE]=[compter]%[IPR]=[compte,comptes,compte,comptons,comptez,comptent]%[PAP]=[compté]%[PAPR]=[comptant]

@@ -408,7 +408,7 @@ urzeala1A=>ar trebui să ne întoarcem, ceru Gared pe când desișurile începur
 urzeala1B=>moartea te înspăimântă ? întrebă ser |Waymar| |Royce| cu umbra unui zâmbet.
 urzeala1C=>gared nu mușcă din momeală. Era un om bătrân, trecut de cincizeci de ani, și văzuse destui stăpâni venind și plecând.
 urzeala1D=>ce-i mort e mort zise el. Nu avem nimic cu ce-i mort.
-urzeala1E=>sunt morți ? întrebă  Royce cu voce moale. Ce dovezi avem ?
+urzeala1E=>sunt morți ? întrebă  |Royce| cu voce moale. Ce dovezi avem ?
 urzeala1F=>Will i-a văzut, răspunse Gared. Dacă el spune că sunt morți, pentru mine asta-i suficient ca dovadă.
 urzeala1G=>Will știuse că-l vor atrage la sfadă, mai devreme sau mai târziu.  și-ar fi dorit să se întâmple asta cât mai târziu.
 urzeala1H=>Mama mi-a spus că morții nu cântă nimic, interveni el.
@@ -432,7 +432,7 @@ bocaseumplu7E=>"... am sădit viță bună, de soi, și iată acum rodește stru
 bocaseumplu7F=>à saisir
 bocaseumplu7G=>à saisir
 
-patericulegyptantonie1A=>Sfântul avva Antonie, șezând odată în deșsert, a fost cuprins de acedie și de o mare întunecare de gânduri.
+patericulegyptantonie1A=>Sfântul avva Antonie, șezând odată în deșert, a fost cuprins de acedie și de o mare întunecare de gânduri.
 patericulegyptantonie1B=>și zicea către Dumnezeu :
 patericulegyptantonie1C=>"Domane, vreau să mă mântuiesc, și nu mă lasă gândurile.
 patericulegyptantonie1D=>Ce voi face în necazul meu ? cum mă va mântui ?"
