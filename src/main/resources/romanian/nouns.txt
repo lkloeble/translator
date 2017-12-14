@@ -1,5 +1,6 @@
 acasa@neut%inv
 accentuat@adj%adj
+acedie@neut%inv
 acesta@neut%inv
 act@masc%ul
 actsiune@fem%ereditate
@@ -16,6 +17,7 @@ alt@adj%adj
 ambigua@neut%inv
 amintir@fem%berea
 amintit@adj%adj
+ammonas@masc%inv
 an@masc%ul
 ana@fem%inv
 anecdot@fem%fem
@@ -24,6 +26,7 @@ antonie@masc%inv
 ap@fem%fem
 apartament@masc%ul
 apetit@masc%ul
+arab@adj%adj
 ardeleneasc@adj%adj
 armat@fem%fem
 articol@masc%ul
@@ -32,6 +35,7 @@ aspirin@fem%fem
 atanasie@masc%inv
 autobuz@masc%ul
 autoconservare@neut%inv
+avva@neut%inv
 bai@masc%baiat
 balta@neut%inv
 barbat@masc%ul
@@ -78,6 +82,7 @@ centru@masc%inv
 chibritur@fem%tigara
 chil@masc%chil
 chimic@adj%adj
+chinovi@fem%fem
 chip@masc%ul
 ciine@masc%inv
 cincizeci@neut%inv
@@ -99,6 +104,7 @@ continuare@fem%ereditate
 contsinut@masc%ul
 conversatsie@fem%ereditate
 copi@masc%copil
+copt@neut%inv
 cosmos@masc%ul
 cinci@neut%inv
 circulatsi@fem%fem
@@ -106,7 +112,7 @@ coleg@masc%ul
 conducere@fem%ereditate
 conservar@fem%berea
 corespunzator@neut%inv
-creare@neut%inv
+crear@neut%berea
 creatoare@adj%inv
 creator@masc%ul
 creatsi@fem%ratsiune
@@ -125,8 +131,10 @@ dat@adj%adjts
 deosebire@fem%ereditate
 dependents@fem%fem
 depinde@neut%inv
+descoperit@adj%adj
 descris@adj%adj
 deseara@neut%inv
+desert@neut%locul
 desis@neut%locul
 despartsit@adj%adj
 dezvoltare@neut%inv
@@ -136,13 +144,14 @@ dimineatsa@neut%inv
 dintai@neut%inv
 dintii@neut%inv
 directi@fem%fem
+dispus@adj%adj
 doctor@masc%doctor
 doctrin@fem%fem
 domn@masc%ul
 domnule@masc%inv
 dorint@fem%femts
 dormitor@masc%inv
-dovad@fem%fem
+dovad@fem%fem[nomplr(a):dovezi]
 dovedit@adj%adj
 doua@fem%inv
 douazeci@neut%inv
@@ -190,6 +199,7 @@ frigider@neut%inv
 fruct@fem%fem
 frumoasa@adj%adj
 frumos@masc%ul
+gand@masc%locul
 gar@fem%fem
 gared@neut%inv
 genetic@fem%fem
@@ -227,6 +237,7 @@ intseleasa@adj%inv
 intim@adj%adj
 intimplat@neut%inv
 intretsinut@adj%adj
+intunecare@neut%inv
 invatsatur@fem%fem
 ion@masc%inv
 ionescu@masc%inv
@@ -239,6 +250,7 @@ jug@masc%ul
 jumatate@fem%inv
 jurul@masc%inv
 kilogram@neut%cafea
+larg@adj%adj
 lasa@fem%inv
 latin@adj%adj
 legum@fem%fem
@@ -252,6 +264,7 @@ litr@masc%filtru
 loc@masc%locul
 locuints@fem%fem
 lucrar@fem%berea
+lucrator@masc%ul
 lucru@neut%inv
 lum@fem%berea
 lumin@fem%fem
@@ -284,12 +297,13 @@ mincare@neut%inv
 mineral@adj%adj
 minut@fem%fem
 miscar@fem%berea
+moale@adj%adj[nomplr(a):moi]
 moart@fem%berea
 mod@masc%ul
 modest@adj%adj
 monah@masc%ul
 morcov@masc%ul
-mort@adj%adj
+mort@adj%adjts
 momeal@fem%fem
 moment@masc%ul
 mormint@masc%ul
@@ -314,16 +328,20 @@ noi@neut%inv
 nord@neut%inv
 normal@adj%adj
 noroc@neut%inv
+nou@adj%adj[nomplr(a):noi]
+nume@neut%iepure
 obiect@masc%ul
 obosit@adj%adj
 oamen@masc%ul
 och@masc%copil
 ocupat@adj%adj
+odata@neut%inv
 odihn@fem%fem
 om@masc%ul
 ora@fem%inv
 oras@masc%ul
 originare@neut%inv
+original@adj%adj
 origine@fem%ereditate
 ortodox@fem%fem
 pacat@neut%inv
@@ -349,6 +367,7 @@ pg@neut%inv
 pian@masc%ul
 pic@neut%inv
 picatur@fem%fem
+pierdut@adj%adjts
 pip@fem%fem
 piperat@adj%adj
 placere@neut%inv
@@ -393,7 +412,8 @@ retset@fem%fem
 revedere@neut%inv
 revelatsi@fem%femi
 revist@fem%fem
-rod@masc%custom(plr=roade|plr=roadele|sing=rodul)
+roat@fem%fem[nomplr(a):roate,nomplr(b):rotsi,nomplr(c):roatele,nomplr(d):rotsile]
+rod@masc%ul[nomplr(a):roadele]
 rom@masc%ul
 roman@adj%adj
 romanca@adj%inv
@@ -403,6 +423,8 @@ romania@fem%inv
 ros@adj%adj
 roscat@adj%adj
 rud@fem%fem
+salbatic@adj%adj
+salbaticit@adj%adj
 salut@masc%inv
 sampani@fem%fem
 saptamin@fem%fem
@@ -423,6 +445,7 @@ sens@neut%inv
 sentimental@adj%adj
 separatsie@fem%ereditate
 ser@neut%inv
+sezand@adj%adj
 sfant@adj%adj
 sfat@masc%locul
 sfert@neut%inv
@@ -439,6 +462,7 @@ somn@masc%ul
 sots@masc%ul
 sotsi@fem%fem
 spital@masc%ul
+splendid@adj%adj
 sportiv@adj%adj
 stabilit@adj%adj
 stapan@masc%ul
@@ -456,6 +480,7 @@ tatal@masc%inv
 taxi@neut%inv
 teatr@masc%ul
 tendints@fem%fem
+text@neut%ul
 trei@neut%inv
 tren@masc%ul
 tsaran@masc%ul
@@ -466,6 +491,7 @@ tiparit@adj%adj
 tirziu@neut%inv
 traducer@fem%berea
 treab@fem%treaba
+treisprezece@neut%inv
 treizeci@neut%inv
 tsint@fem%fem
 tsuic@fem%fem
@@ -473,6 +499,7 @@ tu@neut%inv
 tudor@masc%inv
 tutun@masc%ul
 ucenic@masc%ul
+ucigas@ùasc%ul
 uimir@fem%berea
 ultim@adj%adj
 uman@adj%adj
@@ -481,6 +508,7 @@ umor@masc%ul
 un@adj%adj
 unchi@masc%ul
 urm@fem%fem
+urmas@masc%ul
 urs@masc%ul
 us@fem%fem
 usor@adj%adj
@@ -491,13 +519,16 @@ vanatoare@fem%inv
 vecin@masc%ul
 veder@fem%berea
 ver@adj%adjverde
+vesel@adj%adj
 veterinar@masc%ul
 viats@fem%fem
+vie@fem%fem[nomsing(a):vie,nomsing(b):via,nomplr(a):vii,nomplr(b):viile]
 vin@masc%ul
 vinatoare@fem%inv
 virst@fem%fem
 vitez@fem%fem
 vizavi@masc%inv
+voc@fem%berea
 voi@neut%inv
 vrem@fem%berea
 zahar@neut%inv

@@ -339,7 +339,7 @@ staniloae1V=>In credința noastra, raționalitatea cosmosului are un sens numai 
 staniloae1W=>Acest fapt constituie conținutul revelației naturale.
 staniloae1X=>Acest lucru@1 insă îl afirmă si revelația crestină supranaturală prin invățătura ca poziției originare creatoare si conservatoare a lui Dumnezeu în fața lumii ii corespunde, pe un plan mai coborât sau de dependență, poziția noastra de ființa cunoscătoare si prelucrătoare a naturii, ca chip al lui Dumnezeu.
 staniloae1Y=>In aceasta poziție a omului, se arată ca lumea are o raționalitate pentru a fi cunoscută de noi – ființe raționale.
-staniloae1Z=>De aceea ea trebuie sa aiba originea într-o ființa care a urmarit prin crearea lumii – si urmareste prin conservarea ei – cunoasterea lumii, si prin ea insasi si cunoasterea ei de catre om.
+staniloae1Z=>De aceea ea trebuie sa aiba originea într-o ființa care a urmarit prin crearea lumii – si urmărește prin conservarea ei – cunoasterea lumii, si prin ea însăși si cunoasterea ei de către om.
 ă
 ș
 ț
@@ -390,7 +390,7 @@ filocalia1K=>1 : Dovada a făcut-o F. Klejna cu lucrarea Antonius und Ammonas. E
 filocalia1L=>aceste șapte epistole sînt tipărite (în Migne, Patrologia Graeca, toom 40) în două redacții, ambele în traducere latină.
 filocalia1M=>Prima redacție (977B-1000B) e o traducere de la 1516 a lui Symphorian Champerius după un manuscris grec, care n-a fost indicat și a rămas necunoscut.
 filocalia1N=>a doua, care cuprinde un text mai larg, tradus după un manuscris arab, o formează primele șapte epistole din cele douăzeci date toate sub numele lui Antonie (999C-1066B), din care însă pe cele treisprezece din urmă (1015D-1066B) Klejna le-a dovedit că sînt ale lui Ammonas, ucenicul și urmașul lui Antonie la conducerea chinoviei de la Pispir.
-filocalia1O=>În timpul mai nou a început să fie descoperit și  textul copt, cel original, al unora din aceste epistole.
+filocalia1O=>în timpul mai nou a început să fie descoperit și  textul copt, cel original, al unora din aceste epistole.
 filocalia1P=>O. Bardenhewer (Geschichte der altkirchlichen Literatur, Vol III, ed. a II-a Herder, Freiburg im Breisgau, p 81) scria la 1923, pînă nu se dovedise că aceste epistole sînt ale lui Antonie, că ele nu pot fi ale lui și din motivul că sînt prea de cuprins general și lipsite de putere și de sevă ca să fie de la marele ascet
 filocalia1Q=>cum stăm însă cu autenticitatea celor 170 de capete pe care Nicodim Aghioritul, care a trăit la sfîrșitul veacului al XVIII-lea, le-a așezat în fruntea Filocaliei ?
 filocalia1R=>Nici Bardenhewer, nici Viller-Rahner, din care iau aceste însemnări, nu le pomenesc între scrierile atribuite lui Antonie.
@@ -408,7 +408,7 @@ urzeala1A=>ar trebui să ne întoarcem, ceru Gared pe când desișurile începur
 urzeala1B=>moartea te înspăimântă ? întrebă ser |Waymar| |Royce| cu umbra unui zâmbet.
 urzeala1C=>gared nu mușcă din momeală. Era un om bătrân, trecut de cincizeci de ani, și văzuse destui stăpâni venind și plecând.
 urzeala1D=>ce-i mort e mort zise el. Nu avem nimic cu ce-i mort.
-urzeala1E=>sunt morți ? întrebă  Royce cu voce moale. Ce dovezi avem ?
+urzeala1E=>sunt morți ? întrebă  |Royce| cu voce moale. Ce dovezi avem ?
 urzeala1F=>Will i-a văzut, răspunse Gared. Dacă el spune că sunt morți, pentru mine asta-i suficient ca dovadă.
 urzeala1G=>Will știuse că-l vor atrage la sfadă, mai devreme sau mai târziu.  și-ar fi dorit să se întâmple asta cât mai târziu.
 urzeala1H=>Mama mi-a spus că morții nu cântă nimic, interveni el.
@@ -432,7 +432,7 @@ bocaseumplu7E=>"... am sădit viță bună, de soi, și iată acum rodește stru
 bocaseumplu7F=>à saisir
 bocaseumplu7G=>à saisir
 
-patericulegyptantonie1A=>Sfântul avva Antonie, șezând odată în deșsert, a fost cuprins de acedie și de o mare întunecare de gânduri.
+patericulegyptantonie1A=>Sfântul avva Antonie, șezând odată în deșert, a fost cuprins de acedie și de o mare întunecare de gânduri.
 patericulegyptantonie1B=>și zicea către Dumnezeu :
 patericulegyptantonie1C=>"Domane, vreau să mă mântuiesc, și nu mă lasă gândurile.
 patericulegyptantonie1D=>Ce voi face în necazul meu ? cum mă va mântui ?"

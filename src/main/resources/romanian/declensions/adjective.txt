@@ -8,4 +8,5 @@ gennounfemsg%sing%masc%ei
 gennounmascsgb%plr%masc%ilor
 nommascplri%plr%masc%i
 nomfemplre%plr%fem%e
+nomfemplreart%plr%fem%ele
 nomfemplrii%plr%fem%ii
