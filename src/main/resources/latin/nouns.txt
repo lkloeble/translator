@@ -1,3 +1,4 @@
+abominand@adj%us-a-um
 abrogat@adj%us-a-um
 abyss@masc%us-i
 adae@masc%inv
@@ -6,6 +7,7 @@ adduct@adj%us-a-um
 adimplet@adj%us-a-um
 adipat@neut%um-i
 adferen@masc%s-tis
+adorand@adj%us-a-um
 adult@adj%us-a-um
 aegypt@fem%us-i
 aegypti@adj%us-a-um
@@ -131,6 +133,7 @@ congregatio@neut%x-nis
 coniurati@fem%o-onis
 conjectur@adj%us-a-um
 consili@neut%um-i
+conspurcat@adj%us-a-um
 consuetud@fem%o-inis
 consul@masc%x-is
 contrit@adj%us-a-um
@@ -189,6 +192,7 @@ disputand@adj%us-a-um
 dissertati@fem%o-onis
 ditissim@adj%us-a-um
 divin@adj%us-a-um
+divinit@fem%as-atis
 divis@adj%us-a-um
 doctor@masc%x-is
 doctrin@fem%a-ae
@@ -323,6 +327,7 @@ initi@neut%um-i
 innocenti@fem%a-ae
 inquie@adj%s-tis
 inrigan@adj%s-tis
+instituend@adj%us-a-um
 institut@neut%um-i
 insul@fem%a-ae
 invict@adj%us-a-um
@@ -552,6 +557,7 @@ puer@masc%x-ri
 pulcher@neut%inv
 pulchr@adj%us-a-um
 pulcherrim@adj%us-a-um
+puri@adj%or-or-us
 pyrenae@fem%x-ri
 qu@adj%i-ae-od-cuius
 quart@adj%us-a-um
@@ -595,6 +601,7 @@ salutif@adj%er-era-erum
 salve@neut%inv
 samos@neut%inv
 sanct@adj%us-a-um
+sancti@adj%or-or-us
 sanctissim@adj%us-a-um
 sangui@masc%s-nis
 sanguine@adj%us-a-um

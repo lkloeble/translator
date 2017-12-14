@@ -140,6 +140,7 @@ cit@fem%endy
 civil@adj%invmasc
 civill@adj%invmasc
 classical@adj%normmasc
+clause@fem%normfem
 clean@adj%invmasc
 cloudy@neut%invmasc
 club@neut%normmasc
@@ -266,6 +267,7 @@ england@neut%invmasc
 english@adj%invmasc
 enigmatic@adj%normmasc
 enmit@fem%endy
+entrance@fem%normfem
 env@fem%endy
 equity@fem%invfem
 erastian@adj%normmasc
@@ -331,6 +333,7 @@ friend@masc%normmasc
 friendship@masc%normmasc
 fruit@masc%normmasc
 fruitful@adj%invmasc
+fugitive@adj%normmasc
 galilee@neut%invmasc
 gallon@neut%normmasc
 game@neut%normmasc
@@ -861,6 +864,7 @@ unknown@neut%invmasc
 unsatisfactory@neut%invmasc
 usually@neut%invmasc
 v@neut%invmasc
+vagabond@neut%normmasc
 valid@adj%normmasc
 verse@neut%normmasc
 version@neut%normmasc

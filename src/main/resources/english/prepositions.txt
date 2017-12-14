@@ -176,6 +176,7 @@ together@prep()
 too@prep()%[searchTooMany,searchTooMuch]
 toomany@prep()
 toward@prep()
+towards@prep()
 tragically@prep()
 truly@prep()
 under@prep()

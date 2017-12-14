@@ -249,6 +249,8 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "d64b64r@noun!im%1(noun)=chose,acte%2(noun)=parole",
                 "h@prep%1(prep)=le[les,la]",
                 "h59@prep%1(prep)=le[les,la]",
+                "h60n61h@prep%1(prep)=voici",
+                "hnh@prep%1(prep)=voici",
                 "h6269@prep%1(prep)=le[les,la]",
                 "h63@prep%1(prep)=le[les,la]",
                 "h6369@prep%1(prep)=le[les,la]",
@@ -279,6 +281,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "k@prep%1(prep)=comme",
                 "k56@prep%1(prep)=comme",
                 "k31559@prep%1(prep)=comme",
+                "k31560@prep%1(prep)=comme",
                 "k31563@prep%1(prep)=comme",
                 "k31564@prep%1(prep)=comme",
                 "k3156369@prep%1(prep)=comme",
@@ -423,6 +426,8 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "g63m000@prep()",
                 "h@prep()",
                 "h59@prep()",
+                "h60n61h@prep()",
+                "hnh@prep()",
                 "h6269@prep()",
                 "h63@prep()",
                 "h6369@prep()",
@@ -438,6 +443,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "k@prep()",
                 "k56@prep()",
                 "k31559@prep()",
+                "k31560@prep()",
                 "k31563@prep()",
                 "k31564@prep()",
                 "k3156369@prep()",
@@ -787,6 +793,54 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     }
 
     @Test
+    public void test_weingreen_chapter_27() {
+        checkInMaps("wein27A1", translatorBridge);
+        checkInMaps("wein27A2", translatorBridge);
+        checkInMaps("wein27B1", translatorBridge);
+        checkInMaps("wein27B2", translatorBridge);
+        checkInMaps("wein27C1", translatorBridge);
+        checkInMaps("wein27C2", translatorBridge);
+        checkInMaps("wein27D1", translatorBridge);
+        checkInMaps("wein27D2", translatorBridge);
+        checkInMaps("wein27E1", translatorBridge);
+        checkInMaps("wein27E2", translatorBridge);
+        checkInMaps("wein27F1", translatorBridge);
+        checkInMaps("wein27F2", translatorBridge);
+        checkInMaps("wein27G1", translatorBridge);
+        checkInMaps("wein27G2", translatorBridge);
+        checkInMaps("wein27H1", translatorBridge);
+        checkInMaps("wein27H2", translatorBridge);
+        checkInMaps("wein27I1", translatorBridge);
+        checkInMaps("wein27I2", translatorBridge);
+        checkInMaps("wein27J1", translatorBridge);
+        checkInMaps("wein27J2", translatorBridge);
+        checkInMaps("wein27K1", translatorBridge);
+        checkInMaps("wein27K2", translatorBridge);
+        checkInMaps("wein27L1", translatorBridge);
+        checkInMaps("wein27L2", translatorBridge);
+        checkInMaps("wein27M1", translatorBridge);
+        checkInMaps("wein27M2", translatorBridge);
+        checkInMaps("wein27N1", translatorBridge);
+        checkInMaps("wein27N2", translatorBridge);
+        checkInMaps("wein27O1", translatorBridge);
+        checkInMaps("wein27O2", translatorBridge);
+        checkInMaps("wein27P1", translatorBridge);
+        checkInMaps("wein27P2", translatorBridge);
+        checkInMaps("wein27Q1", translatorBridge);
+        checkInMaps("wein27Q2", translatorBridge);
+        checkInMaps("wein27R1", translatorBridge);
+        checkInMaps("wein27R2", translatorBridge);
+        checkInMaps("wein27S1", translatorBridge);
+        checkInMaps("wein27S2", translatorBridge);
+        checkInMaps("wein27T1", translatorBridge);
+        checkInMaps("wein27T2", translatorBridge);
+        checkInMaps("wein27U1", translatorBridge);
+        checkInMaps("wein27U2", translatorBridge);
+        checkInMaps("wein27V1", translatorBridge);
+        checkInMaps("wein27V2", translatorBridge);
+    }
+
+    @Test
     public void test_bereshit_chapter1() {
         checkInMaps("bereshit1A1", translatorBridge);
         checkInMaps("bereshit1A2", translatorBridge);
@@ -871,7 +925,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failed_ones() {
         assertTrue(true);
-        checkInMaps("wein24S1", translatorBridge);
+        checkInMaps("wein24U1", translatorBridge);
     }
 
 }

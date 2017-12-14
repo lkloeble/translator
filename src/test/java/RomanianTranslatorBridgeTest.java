@@ -33,17 +33,17 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
 
     @Before
     public void init() {
-        String prepositionFileDescription = "E:\\translator\\src\\main\\resources\\romanian\\prepositions.txt";
-        String nounFileDescription = "E:\\translator\\src\\main\\resources\\romanian\\nouns.txt";
-        String verbFileDescription = "E:\\translator\\src\\main\\resources\\romanian\\verbs.txt";
-        String romanianFrenchDataFile = "E:\\translator\\src\\main\\resources\\romanian\\dico_romanian_french.txt";
-        String frenchVerbsDataFile = "E:\\translator\\src\\main\\resources\\french_verbs.txt";
-        String declensionPath = "E:\\translator\\src\\main\\resources\\romanian\\declensions";
-        String declensionsAndFiles = "E:\\translator\\src\\main\\resources\\romanian\\declensionsAndFiles.txt";
-        String conjugationPath = "E:\\translator\\src\\main\\resources\\romanian\\conjugations";
-        String conjugationsAndFiles = "E:\\translator\\src\\main\\resources\\romanian\\conjugationsAndFiles.txt";
-        String romanianPathFile = "E:\\translator\\src\\test\\resources\\romanian_content.txt";
-        String romanianResultFile = "E:\\translator\\src\\test\\resources\\romanian_expected_results.txt";
+        String prepositionFileDescription = "C:\\translator\\src\\main\\resources\\romanian\\prepositions.txt";
+        String nounFileDescription = "C:\\translator\\src\\main\\resources\\romanian\\nouns.txt";
+        String verbFileDescription = "C:\\translator\\src\\main\\resources\\romanian\\verbs.txt";
+        String romanianFrenchDataFile = "C:\\translator\\src\\main\\resources\\romanian\\dico_romanian_french.txt";
+        String frenchVerbsDataFile = "C:\\translator\\src\\main\\resources\\french_verbs.txt";
+        String declensionPath = "C:\\translator\\src\\main\\resources\\romanian\\declensions";
+        String declensionsAndFiles = "C:\\translator\\src\\main\\resources\\romanian\\declensionsAndFiles.txt";
+        String conjugationPath = "C:\\translator\\src\\main\\resources\\romanian\\conjugations";
+        String conjugationsAndFiles = "C:\\translator\\src\\main\\resources\\romanian\\conjugationsAndFiles.txt";
+        String romanianPathFile = "C:\\translator\\src\\test\\resources\\romanian_content.txt";
+        String romanianResultFile = "C:\\translator\\src\\test\\resources\\romanian_expected_results.txt";
         RomanianDeclensionFactory romanianDeclensionFactory = new RomanianDeclensionFactory(getDeclensions(declensionsAndFiles), getDeclensionList(declensionsAndFiles, declensionPath));
         VerbRepository verbRepository = new VerbRepository(new RomanianConjugationFactory(getRomanianConjugations(conjugationsAndFiles), getRomanianConjugationDefinitions(conjugationsAndFiles, conjugationPath)), Language.ROMANIAN, getVerbs(verbFileDescription));
         RomanianRuleFactory ruleFactory = new RomanianRuleFactory(verbRepository);

@@ -1,5 +1,6 @@
 ﻿a@prep%1(prep + abl)=de (avec point de départ et idee de mouvement)%2(prep + abl)=de (avec eloignement, separation)%3(prep + abl)=du cote de,a partir de%4(prep + abl)=jugement d'apres,du fait que%5(prep + abl)=depuis,aussitot apres%6(prep + abl)=en raison de,sous l'action de%7(prep + abl)=en provenance de
 ab@prep%1(prep + abl)=de (avec point de départ et idee de mouvement)%2(prep + abl)=de (avec eloignement, separation)%3(prep + abl)=du cote de,a partir de%4(prep + abl)=jugement d'apres,du fait que%5(prep + abl)=depuis,aussitot apres%6(prep + abl)=en raison de,sous l'action de%7(prep + abl)=en provenance de
+abominand@adj!us-a-um%1(adj)=détesté
 abrogat@adj!us-a-um%1(adj)=abrogé
 absolvo@verb!norm%1(verb)=delier
 abyss@noun!us-i%1(noun)=abysse,enfer%2(noun)=abime
@@ -22,6 +23,7 @@ adipat@noun!um-i%1(noun)=pâtisserie
 adjugo@verb!norm%1(verb)=reunir
 adjuvo@verb!norm%1(verb)=aider
 adhuc@prep%1(prep)=jusqu'à maintenant
+adorand@adj!us-a-um%1(adj)=adoré
 adoro@verb!norm%1(verb)=admirer%2(verb)=adorer%3(verb)=accuser%4(verb)=negocier
 adult@adj!us-a-um%1(adj)=brûlé%2(adj)=sacrifié
 advenio@verb!norm%1(verb)=arriver
@@ -202,6 +204,7 @@ conpleo@verb!norm%1(verb)=accomplir%2(verb)=terminer
 consecro@verb!norm%1(verb)=sanctifier%2(verb)=consacrer
 conservo@verb!norm%1(verb)=preserver%2(noun)=garder
 consili@noun!um-i%1(noun)=conseil%2(noun)=plan
+conspurcat@adj!us-a-um%1(adj)=pollué
 constituo@verb!norm%1(verb)=etablir
 consuetud@noun!o-inis%1(noun)=usage
 consul@noun!x-is%1(noun)=consul
@@ -296,6 +299,7 @@ disputand@adj!us-a-um%1(adj)=débattu
 ditissim@adj!us-a-um%1(adj)=le plus riche
 divido@verb!norm%1(verb)=distinguer%2(verb)=diviser
 divin@adj!us-a-um%1(adj)=surnaturel%2(adj)=divin
+divinit@noun!as-atis%1(noun)=divinité
 divis@adj!us-a-um%1(adj)=séparé%2(adj)=divisé
 do@verb!norm%1(verb)=octroyer, conceder%2(verb)=faire une concession%3(verb)=placer, mettre%4(verb)=apporter, causer%5(verb)=accorder, concéder%6(verb)=exposer, dire%7(verb)=donner
 doceo@verb!norm%1(verb)=instruire
@@ -538,6 +542,7 @@ inrigan@adj!s-tis%1(adj)=irriguant
 inrigo@verb!norm%1(verb)=irriguer
 inscribo@verb!norm%1(verb)=inscrire
 inspiro@verb!norm%1(verb)=souffler
+instituend@adj!us-a-um%1(adj)=institué
 institut@noun!um-i%1(noun)=habitude%2(noun)=institution%3(noun)=coutûme
 insul@noun!a-ae%1(noun)=immeuble%2(noun)=île
 intelligo@verb!norm%1(verb)=comprendre
@@ -885,6 +890,7 @@ pulcher@noun!inv%1(noun)=beau
 pulcherrim@adj!us-a-um%1(adj)=très beau
 pulchr@adj!us-a-um%1(adj)=beau
 pulso@verb!norm%1(verb)=pousser
+puri@adj!or-or-us%1(adj)=plus propre
 pyrenae@noun!x-ri%1(noun)=pyrénées
 quam@prep%1(prep)=combien, a quel point (exclamatif)%2(prep)= autant que (avec tam : tam... quam... : autant... que...)%3(prep)=aussi... aussi... (construction quam... sic...)%4(prep)=comparaison avec un comparatif : <exp>magis quam</exp><trad>plus que</trad>%5(prep)=correlation avec un nom de nombre ou un nom multiplicatif%6(prep)=combien
 quamvis@prep%1(prep)=toutefois
@@ -967,6 +973,7 @@ sane@prep%1(prep)=vraiment
 samos@noun!inv%1(noun)=samos
 sano@verb!norm%1(verb)=soigner
 sanct@adj!us-a-um%1(adj)=saint
+sancti@adj!or-or-us%1(adj)=plus sacré
 sanctifico@verb!norm%1(verb)=purifier%2(verb)=consacrer%3(verb)=sanctifier
 sanctissim@adj!us-a-um%1(adj)=le plus saint
 sangui@noun!s-nis%1(noun)=sang

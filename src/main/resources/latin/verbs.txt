@@ -52,7 +52,7 @@ conjug,o,is,ere,,,[o-is]
 conpl,eo,es,ere,,,[eo-es],(AIP*conpl*conplev*0)
 consecr,o,as,are,,,[o-as]
 conserv,o,as,are,,,[o-as]
-constitu,o,is,ere,,,[o-is]
+constitu,o,is,ere,,,[o-is],(IAP*constituidi*constitui*0)
 consum,o,is,ere,,,[o-is],(IAP*consumidisse*consumpsisse*0)
 contend,o,is,ere,,,[o-is],(IAP*contendidisse*contendisse*0)
 contin,eo,es,ere,,,[eo-es]
