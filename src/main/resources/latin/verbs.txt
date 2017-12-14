@@ -232,7 +232,7 @@ tac,eo,es,ere,,,[eo-es]
 ten,eo,es,ere,,,[eo-es]
 tim,eo,es,ere,,,[eo-es]
 toll,o,is,ere,,,[o-is]
-tract,o,as,are,avi,atum,[o-as]
+tract,o,as,are,avi,atum,[o-as],(VENO*tract*xxx*0)
 trad,o,is,ere,,,[o-is],(AIP*trad*tradid*0)
 transmitt,o,is,ere,,,[o-is]
 vag,or,aris,ari,,,[or-aris]
