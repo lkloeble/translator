@@ -281,8 +281,8 @@ strackp1notBC=>so nach der rezipierten ansicht des schimson aus teman um 110 n. 
 strackp1notBD=>priester, leviten, israeliten dürfen einander ehelichen;
 strackp1notBE=>leviten, israeliten, profane, proselyten u. freigelassene dürfen einander ehelichen.
 strackp1notBF=>proselyten, freigelassene, bastarde, |nethinim|, |shetuqim| u. findlinge, sie alle dürfen einander ehelichen.
-strackp1notBG=>dies sind shetuqim : jeder, der seine mutter kennt u. seinen vater nicht kennt (dessen vater XX hebreu XXX = verschwiegen bleibt), u. findlinge :
-strackp1notBH=>jeder, der von der straße aufgelesen ist u. weder vater noch mutter kennt. Alle, die nicht in die gemeinde (israel) eintreten dürfen einander ehelichen.
+strackp1notBG=>dies sind |shetuqim| : jeder, der seine mutter kennt u. seinen vater nicht kennt (dessen vater XX hebreu XXX = verschwiegen bleibt), u. findlinge :
+strackp1notBH=>jeder, der von der straße aufgelesen ist u. weder@1 vater noch mutter kennt. Alle, die nicht in die gemeinde (israel) eintreten dürfen einander ehelichen.
 
 genesis1A=>Am Anfang@n schuf Gott Himmel und Erde.
 genesis1B=>Und die Erde war wüst und leer, und es war finster auf der Tiefe; und der Geist Gottes schwebte auf dem Wasser.

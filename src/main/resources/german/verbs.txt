@@ -8,6 +8,7 @@ anzuzweif,eln,[sammeln]
 auffind,en,[leben]
 aufgeh,en,[leben]
 aufhor,en,[leben]
+aufles,en,[leben],(PAP*auflest*aufgelesen*0)
 auslass,en,[genesen],(AII*auslass*ausliess*0)
 ausseh,en,[leben],(IPR14*ausseh*aussieh*0)
 aufzieh,en,[leben],(PAP*aufzieht*aufgezogen*0)
@@ -69,7 +70,7 @@ erwachs,en,[genesen]
 ess,en,[leben],(IPR1*ess*is*0)
 fahr,en,[leben],(AIP*fahr*fuhr*0)
 fang,en,[leben]
-fass,en,[lassen],(PAP*fas*gefas*0)
+fass,en,[leben],(PAP*fas*gefas*0)
 feststell,en,[leben]
 find,en,[leben]
 fixier,en,[leben]
@@ -82,7 +83,7 @@ full,en,[leben]
 garantier,en,[leben]
 geb,en,[leben],(IPR124*geb*gib*0)
 gebar,en,[leben],(IPR12*gebar*gebier*0@PAP*gebart*geboren*0)
-geh,en,[lassen],(AIP*geh*ging*0)
+geh,en,[lassen],(AIP*geh*ging*0@PAP*geh*gegang*0)
 genes,en,[genesen]
 gernhaben@IRREGULAR%[INFINITIVE]=[gernhaben]%[IPR]=[gernhabe,gernhast,gernhat,gernhaben,gernhabt,gernhaben]
 gescheh,en,[rufen],(AIP*gescheh*geschah*0)
@@ -168,6 +169,7 @@ sinn,en,[rufen],(AIP*sin*san*0)
 sitz,en,[lassen],(IPR1*sitzst*sitzt*0@AIP*sitz*sass*0)
 soll,en,[wollen]
 sorg,en,[leben]
+spiel,en,[leben]
 sprech,en,[rufen],(AIP*spre*spra*0@IPR12*spre*spri*0)
 stamm,en,[leben]
 stark,en,[starken]
@@ -196,7 +198,9 @@ vergess,en,[wollen]
 verlang,en,[leben]
 vermeid,en,[mochten]
 verrats,eln,[sammeln]
+verschreib,en,[rufen]
 versteh,en,[leben]
+verschweig,en,[lassen],(PAP*verschweig*verschwieg*0)
 versuch,en,[leben]
 verteidig,en,[leben]
 vertrag,en,[leben]
@@ -220,5 +224,5 @@ wunsch,en,[leben]
 zeig,en,[leben]
 zieh,en,[rufen],(PAP*ziehen*gezogen*0@AIP*zieh*zog*0)
 zumach,en,[leben]
-zurucklass,en,[lassen],(PAP*zurucklasst*zuruckgelassen*0)
+zurucklass,en,[lassen],(PAP*zurucklassen*zuruckgelassen*0)
 zusammenhal,en,[halten]
