@@ -931,6 +931,6 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("lightfoot_ch2B3", translatorBridge);
+        checkInMaps("nkjv_genesis_chapter4M", translatorBridge);
     }
 }

@@ -54,6 +54,7 @@ authorit@fem%endy
 automata@neut%invmasc
 babylonian@adj%normmasc
 babylon@neut%invmasc
+backs@neut%invmasc
 bacon@neut%invmasc
 baptism@neut%invmasc
 bar@neut%normmasc
@@ -117,7 +118,7 @@ cathy@fem%invfem
 cattle@neut%normmasc
 caution@fem%normfem
 center@neut%invmasc
-censure@neut%invmasc
+censure@neut%normmasc
 century@neut%invmasc
 cereal@neut%normmasc
 certain@adj%normmasc
@@ -211,6 +212,7 @@ deep@adj%invmasc
 defence@neut%normmasc
 deliberation@fem%normfem
 delicious@adj%invmasc
+delight@adj%normmasc
 designation@fem%normfem
 desirable@adj%normmasc
 desire@neut%normmasc
@@ -491,7 +493,7 @@ lunch@neut%invmasc
 magistrate@neut%normmasc
 majestic@neut%normmasc
 male@masc%normmasc
-man@masc%normmasc
+man@masc%custom(plr=men)
 manchester@neut%invmasc
 manner@masc%normmasc
 manuscript@neut%normmasc
@@ -641,6 +643,8 @@ prize@neut%normmasc
 problem@masc%normmasc
 process@masc%church
 productive@neut%normmasc
+proof@neut%invmasc
+proper@adj%normmasc
 propert@fem%endy
 prophec@fem%endy
 proscription@fem%normfem
@@ -858,11 +862,13 @@ unanswered@neut%normmasc
 unanswerable@neut%normmasc
 unbelieving@neut%invmasc
 uncertain@adj%normmasc
+uncharitable@adj%normmasc
 underemphasis@neut%invmasc
 university@fem%invfem
 unknown@neut%invmasc
 unsatisfactory@neut%invmasc
 usually@neut%invmasc
+usurped@neut%invmasc
 v@neut%invmasc
 vagabond@neut%normmasc
 valid@adj%normmasc
@@ -907,6 +913,8 @@ wine@neut%normmasc
 winged@neut%invmasc
 wink@neut%normmasc
 wise@adj%normmasc
+wisdom@fem%invfem
+wisedome@fem%invfem
 word@neut%normmasc
 work@neut%normmasc
 worke@neut%normmasc
