@@ -6,6 +6,7 @@ angehor,en,[leben]
 anruf,en,[leben]
 anzuzweif,eln,[sammeln]
 auffind,en,[leben]
+aufbau,en,[leben],(PAP*aufbaut*aufgebaut*0)
 aufgeh,en,[leben]
 aufhor,en,[leben]
 aufles,en,[leben],(PAP*auflest*aufgelesen*0)
@@ -59,7 +60,7 @@ erfull,en,[leben]
 erhalt,en,[leben]
 erhol,en,[leben]
 erinner,en,[mochten]
-erkenn,en,[lassen],(PAP*erke*erka*0)
+erkenn,en,[leben],(PAP*erke*erka*0)
 erlaub,en,[leben]
 ermang,en,[sammeln]
 errat,en,[werden]
@@ -72,6 +73,7 @@ fahr,en,[leben],(AIP*fahr*fuhr*0)
 fang,en,[leben]
 fass,en,[leben],(PAP*fas*gefas*0)
 feststell,en,[leben]
+feucht,en,[leben],(AII*feucht*feuchte*0)
 find,en,[leben]
 fixier,en,[leben]
 flieg,en,[leben]

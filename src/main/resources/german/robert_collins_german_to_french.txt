@@ -65,6 +65,7 @@ asiatisch@adj!ausreichend%1(adj)=asiatique
 asthetisch@adj!ausreichend%1(adj)=esthétique
 auch@prep%1(noun)=aussi
 auf@prep%1(prep)=de%2(prep)=sur%3(prep)=au dessus de
+aufbau@verb!norm%1(verb)=construire
 auffind@verb!norm%1(verb)=trouver2
 aufgabe@noun!flasche%1(noun)=devoir%2(noun)=challenge%3(noun)=exercice
 aufgeh@verb!norm%1(verb)=ouvrir
@@ -305,6 +306,7 @@ eltern@noun!inv%1(noun)=parents
 empfang@verb!norm%1(verb)=concevoir%2(verb)=accueillir%3(verb)=recevoir
 endlich@noun!inv%1(noun)=enfin
 england@noun!inv%1(noun)=angleterre
+entbehrung@noun!meinfem%1(noun)=privation
 entgegen@prep%1(prep)=contrairement
 entschuldigung@prep%1(prep)=excuse
 entsteh@verb!norm%1(verb)=naitre
@@ -322,6 +324,7 @@ erklarung@noun!meinfem%1(noun)=explication
 erkrankung@noun!meinfem%1(noun)=maladie
 erlauterung@noun!meinfem%1(noun)=explication
 erlaub@verb!norm%1(verb)=permettre
+erlebnis@noun!erkenntnis%1(noun)=expérience
 ermang@verb!norm%1(verb)=manquer
 ermudet@adj!ausreichend%1(adj)=fatigué
 ermudung@noun!meinfem%1(noun)=fatigue
@@ -363,11 +366,13 @@ feig@noun!inv%1(noun)=lâcheté
 fein@adj!ausreichend%1(adj)=fin
 feind@noun!ort%1(noun)=ennemi
 feld@noun!meer%1(noun)=champ
+femininischen@noun!inv%1(noun)=effémination
 fenster@noun!inv%1(noun)=fenêtre
 ferie@noun!flasche%1(noun)=vacance
 feste@noun!flasche%1(noun)=place forte%2(noun)=étendue
 feststell@verb!norm%1(verb)=declarer%2(verb)=determiner
 feststellung@noun!meinfem%1(noun)=détermination
+feucht@verb!norm%1(verb)=mouiller
 figaro@noun!inv%1(noun)=figaro
 finanzierung@noun!meinfem%1(noun)=financement
 find@verb!norm%1(verb)=trouver
@@ -464,6 +469,7 @@ geschichte@noun!flasche%1(noun)=histoire
 gesamt@adj!ausreichend%1(adj)=total%2(adj)=complet%3(adj)=entier
 gesammelt@adj!ausreichend%1(adj)=réuni%2(adj)=assemblé
 gesamtheit@noun!meinfem%1(noun)=totalité
+geschmacke@noun!licht%1(noun)=goût
 geschwacht@adj!ausreichend%1(adj)=affaibli
 gesetz@noun!meer%1(noun)=loi
 gesetzlich@adj!ausreichend%1(noun)=légal
@@ -506,6 +512,7 @@ hallo@noun!inv%1(noun)=allo
 hang@verb!norm%1(verb)=etreattache
 halt@verb!norm%1(verb)=arrêter%2(verb)=tenir
 hand@noun!rest%1(noun)=main
+hart@adj!ausreichend%1(adj)=difficile
 harte@noun!inv%1(noun)=difficulté
 hass@noun!ort%1(noun)=haine
 hauptstadt@noun!flasche%1(noun)=capitale
@@ -676,6 +683,7 @@ langsam@prep%1(prep)=lentement
 lass@verb!norm%1(verb)=quitter%2(verb)=laisser
 lateinisch@adj!ausreichend%1(adj)=latin
 lauf@verb!norm%1(verb)=marcher
+lauter@prep%1(prep)=plein de
 leb@verb!norm%1(verb)=vivre
 leben@noun!burger%1(noun)=vie
 lebendig@adj!ausreichend%1(adj)=animé%2(adj)=vivant
@@ -749,6 +757,7 @@ mit@prep%1(prep)=avec
 mitarbeiter@noun!norm%1(noun)=collaborateur
 mittagessen@noun!inv%1(noun)=déjeuner
 mitteil@verb!norm%1(verb)=informer
+mitteilbar@adj!ausreichend%1(adj)=communicable
 mittelalter@noun!meer%1(noun)=moyen-âge
 mittwoch@noun!inv%1(noun)=mercredi
 mk@noun!inv%1(noun)=mc
@@ -794,6 +803,7 @@ namens@noun!inv%1(noun)=au nom de
 namentlich@prep%1(prep)=nommément
 namensvetter@noun!masc%1(noun)=homonyme
 nathanael@noun!inv%1(noun)=nathanael
+nebel@noun!arbeiter%1(noun)=nuage
 neh@noun!inv%1(noun)=neh
 naturlich@prep%1(prep)=naturellement
 nehm@verb!norm%1(verb)=prendre
@@ -963,6 +973,7 @@ schriften@noun!inv%1(noun)=écritures
 schubert@noun!inv%1(noun)=schubert
 schuler@noun!arbeiter%1(noun)=élève%2(noun)=disciple
 schwarz@adj!ausreichend%1(adj)=noir
+schwelle@noun!flasche%1(noun)=seuil
 schweb@verb!norm%1(verb)=planer
 schwer@noun!ausreichend%1(noun)=difficile
 sechst@adj!ausreichend%1(adj)=sixième
@@ -1049,6 +1060,7 @@ tag@noun!jahrzehnt%1(noun)=jour
 talmud@noun!meinmasc%1(noun)=talmud
 tapferkeit@noun!meinfem%1(noun)=courage
 tapferst@adj!ausreichend%1(noun)=le plus courageux
+tat@noun!inv%1(noun)=effet
 tatigkeit@noun!meinfem%1(noun)=activité
 technik@noun!meinfem%1(noun)=technique
 tee@noun!inv%1(noun)=thé
@@ -1116,6 +1128,7 @@ und@prep%1(prep)=et
 ungarisch@adj!ausreichend%1(adj)=hongrois
 ungeheur@adj!ausreichend%1(adj)=énorme
 ungeheuerlich@adj!ausreichend%1(adj)=monstrueux
+ungleich@adj!ausreichend%1(adj)=inégal
 unmoglich@noun!meinmasc%1(noun)=impossible
 unmoralisch@adj!ausreichend%1(noun)=immoral
 uns@prep%1(prep)=nous
@@ -1198,6 +1211,7 @@ vorsichtig@adj!ausreichend%1(adj)=prudent
 vorstell@verb!norm%1(verb)=presenter2
 vorrede@noun!flasche%1(noun)=préface
 vorwort@noun!licht%1(noun)=préface
+vorzeitig@adj!ausreichend%1(adj)=précoce
 wachs@verb!norm%1(verb)=grandir
 wag@verb!norm%1(verb)=oser
 wagen@noun!inv%1(noun)=voiture
@@ -1205,6 +1219,7 @@ wagner@noun!inv%1(noun)=wagner
 wagnisse@noun!inv%1(noun)=initiatives
 wann@prep%1(prep)=quand
 wahrend@prep%1(prep)=pendant que
+wahr@adj!ausreichend%1(adj)=vrai
 wahrheit@noun!norm%1(noun)=vérité
 wahrscheinlich@adj!ausreichend%1(adj)=probable
 wahrscheinlicher@adj!ausreichend%1(adj)=le plus probable

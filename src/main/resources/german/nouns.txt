@@ -178,6 +178,7 @@ eingewandert@adj%ausreichend
 einleitung@fem%norm
 einzeln@adj%ausreichend
 eltern@neut%inv
+entbehrung@fem%meinfem
 epikurisch@adj%ausreichend
 erde@fem%flasche
 erdgeschoss@masc%inv
@@ -186,6 +187,7 @@ erkenntnis@fem%erkenntnis
 erklarung@fem%meinfem
 erkrankung@fem%meinfem
 erlauterung@fem%meinfem
+erlebnis@fem%erkenntnis
 ermudet@adj%ausreichend
 ermudung@fem%meinfem
 erste@neut%masc
@@ -209,6 +211,7 @@ feig@fem%inv
 fein@adj%ausreichend
 feind@masc%ort
 feld@neut%meer
+femininischen@neut%inv
 fenster@neut%inv
 ferie@fem%flasche
 feste@fem%flasche
@@ -286,6 +289,7 @@ geruhmt@adj%ausreichend
 gesamt@adj%ausreichend
 gesammelt@adj%ausreichend
 gesamtheit@fem%meinfem
+geschmacke@masc%licht
 geschwacht@adj%ausreichend
 geschichte@fem%flasche
 gesetz@neut%meer
@@ -320,6 +324,7 @@ gut@adj%mein
 halb@adj%inv
 hallo@neut%inv
 hand@fem%rest
+hart@adj%ausreichend
 harte@fem%inv
 hass@masc%ort
 hauptstadt@fem%flasche
@@ -488,6 +493,7 @@ mischna@neut%inv
 missratensein@masc%arbeiter
 misstrauisch@adj%ausreichend
 mitarbeiter@masc%norm
+mitteilbar@adj%ausreichend
 mittagessen@neut%inv
 mittelalter@neut%meer
 mittwoch@neut%inv
@@ -526,6 +532,7 @@ name@masc%flasche
 namens@neut%inv
 namensvetter@masc%masc
 nathanael@neut%inv
+nebel@neut%arbeiter
 neh@neut%inv
 nein@neut%inv
 neu@adj%mein
@@ -653,6 +660,7 @@ schriften@fem%inv
 schubert@neut%inv
 schuler@masc%arbeiter
 schwarz@adj%ausreichend
+schwelle@fem%flasche
 schwer@adj%ausreichend
 sechst@adj%ausreichend
 sekretarin@fem%inv
@@ -702,6 +710,7 @@ tag@masc%jahrzehnt
 talmud@masc%meinmasc
 tapferkeit@fem%meinfem
 tapferst@adj%ausreichend
+tat@neut%inv
 tatigkeit@fem%meinfem
 technik@fem%meinfem
 tee@neut%inv
@@ -752,6 +761,7 @@ unbescheidenheit@neut%inv
 ungarisch@adj%ausreichend
 ungeheuerlich@adj%ausreichend
 ungeheur@adj%ausreichend
+ungleich@adj%ausreichend
 unmoglich@neut%meinmasc
 unmoralisch@adj%ausreichend
 unvollstandig@adj%ausreichend
@@ -802,10 +812,12 @@ vorneigung@fem%inv
 vorrede@fem%flasche
 vorsicht@neut%inv
 vorsichtig@adj%ausreichend
+vorzeitig@adj%ausreichend
 vorwort@neut%licht
 wagen@neut%inv
 wagner@neut%inv
 wagnisse@neut%inv
+wahr@adj%ausreichend
 wahrheit@fem%norm
 wahrscheinlich@adj%ausreichend
 wahrscheinlicher@adj%ausreichend
