@@ -27,17 +27,17 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
 
     @Before
     public void init() {
-        String prepositionFileDescription = "E:\\translator\\src\\main\\resources\\english\\prepositions.txt";
-        String nounFileDescription = "E:\\translator\\src\\main\\resources\\english\\nouns.txt";
-        String verbFileDescription = "E:\\translator\\src\\main\\resources\\english\\verbs.txt";
-        String englishFrenchDataFile = "E:\\translator\\src\\main\\resources\\english\\harraps_shorter_to_french.txt";
-        String frenchVerbsDataFile = "E:\\translator\\src\\main\\resources\\french_verbs.txt";
-        String declensionPath = "E:\\translator\\src\\main\\resources\\english\\declensions";
-        String declensionsAndFiles = "E:\\translator\\src\\main\\resources\\english\\declensionsAndFiles.txt";
-        String conjugationPath = "E:\\translator\\src\\main\\resources\\english\\conjugations";
-        String conjugationsAndFiles = "E:\\translator\\src\\main\\resources\\english\\conjugationsAndFiles.txt";
-        String englishPathFile = "E:\\translator\\src\\test\\resources\\english_content.txt";
-        String englishResultFile = "E:\\translator\\src\\test\\resources\\english_expected_results.txt";
+        String prepositionFileDescription = "C:\\translator\\src\\main\\resources\\english\\prepositions.txt";
+        String nounFileDescription = "C:\\translator\\src\\main\\resources\\english\\nouns.txt";
+        String verbFileDescription = "C:\\translator\\src\\main\\resources\\english\\verbs.txt";
+        String englishFrenchDataFile = "C:\\translator\\src\\main\\resources\\english\\harraps_shorter_to_french.txt";
+        String frenchVerbsDataFile = "C:\\translator\\src\\main\\resources\\french_verbs.txt";
+        String declensionPath = "C:\\translator\\src\\main\\resources\\english\\declensions";
+        String declensionsAndFiles = "C:\\translator\\src\\main\\resources\\english\\declensionsAndFiles.txt";
+        String conjugationPath = "C:\\translator\\src\\main\\resources\\english\\conjugations";
+        String conjugationsAndFiles = "C:\\translator\\src\\main\\resources\\english\\conjugationsAndFiles.txt";
+        String englishPathFile = "C:\\translator\\src\\test\\resources\\english_content.txt";
+        String englishResultFile = "C:\\translator\\src\\test\\resources\\english_expected_results.txt";
         EnglishDeclensionFactory englishDeclensionFactory = new EnglishDeclensionFactory(getDeclensions(declensionsAndFiles), getDeclensionList(declensionsAndFiles, declensionPath));
         VerbRepository verbRepository = new VerbRepository(new EnglishConjugationFactory(getEnglishConjugations(conjugationsAndFiles), getEnglishConjugationDefinitions(conjugationsAndFiles, conjugationPath)), Language.ENGLISH, getVerbs(verbFileDescription));
         EnglishRuleFactory ruleFactory = new EnglishRuleFactory();
@@ -931,6 +931,6 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("nkjv_genesis_chapter4H", translatorBridge);
+        checkInMaps("nkjv_genesis_chapter4M", translatorBridge);
     }
 }

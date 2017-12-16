@@ -27,17 +27,17 @@ public class LatinTranslatorBridgeTest extends TranslatorBridgeTest {
 
     @Before
     public void init() {
-        String prepositionFileDescription = "E:\\translator\\src\\main\\resources\\latin\\prepositions.txt";
-        String nounFileDescription = "E:\\translator\\src\\main\\resources\\latin\\nouns.txt";
-        String verbFileDescription = "E:\\translator\\src\\main\\resources\\latin\\verbs.txt";
-        String latinFrenchDataFile = "E:\\translator\\src\\main\\resources\\latin\\gaffiot_latin_to_french.txt";
-        String frenchVerbsDataFile = "E:\\translator\\src\\main\\resources\\french_verbs.txt";
-        String declensionLatinFiles = "E:\\translator\\src\\main\\resources\\latin\\declensions";
-        String conjugationLatinFiles = "E:\\translator\\src\\main\\resources\\latin\\conjugations";
-        String declensionsAndFiles = "E:\\translator\\src\\main\\resources\\latin\\declensionsAndFiles.txt";
-        String conjugationsAndFiles = "E:\\translator\\src\\main\\resources\\latin\\conjugationsAndFiles.txt";
-        String latinPathFile = "E:\\translator\\src\\test\\resources\\latin_content.txt";
-        String latinResultFile = "E:\\translator\\src\\test\\resources\\latin_expected_result.txt";
+        String prepositionFileDescription = "C:\\translator\\src\\main\\resources\\latin\\prepositions.txt";
+        String nounFileDescription = "C:\\translator\\src\\main\\resources\\latin\\nouns.txt";
+        String verbFileDescription = "C:\\translator\\src\\main\\resources\\latin\\verbs.txt";
+        String latinFrenchDataFile = "C:\\translator\\src\\main\\resources\\latin\\gaffiot_latin_to_french.txt";
+        String frenchVerbsDataFile = "C:\\translator\\src\\main\\resources\\french_verbs.txt";
+        String declensionLatinFiles = "C:\\translator\\src\\main\\resources\\latin\\declensions";
+        String conjugationLatinFiles = "C:\\translator\\src\\main\\resources\\latin\\conjugations";
+        String declensionsAndFiles = "C:\\translator\\src\\main\\resources\\latin\\declensionsAndFiles.txt";
+        String conjugationsAndFiles = "C:\\translator\\src\\main\\resources\\latin\\conjugationsAndFiles.txt";
+        String latinPathFile = "C:\\translator\\src\\test\\resources\\latin_content.txt";
+        String latinResultFile = "C:\\translator\\src\\test\\resources\\latin_expected_result.txt";
         LatinDeclensionFactory latinDeclensionFactory = new LatinDeclensionFactory(getDeclensions(declensionsAndFiles), getDeclensionList(declensionsAndFiles, declensionLatinFiles));
         LatinRuleFactory ruleFactory = new LatinRuleFactory();
         PrepositionRepository prepositionRepository = new PrepositionRepository(Language.LATIN, new LatinCaseFactory(), ruleFactory, getFileContentForRepository(prepositionFileDescription));
@@ -126,7 +126,7 @@ public class LatinTranslatorBridgeTest extends TranslatorBridgeTest {
 
     @Test
     public void test_failing_one() {
-        checkInMaps("collins2D", translatorBridge);
+        checkInMaps("collins11AA", translatorBridge);
     }
 
 

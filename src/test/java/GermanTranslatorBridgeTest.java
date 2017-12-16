@@ -30,17 +30,17 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
 
     @Before
     public void init() {
-        String prepositionFileDescription = "E:\\translator\\src\\main\\resources\\german\\prepositions.txt";
-        String nounFileDescription = "E:\\translator\\src\\main\\resources\\german\\nouns.txt";
-        String verbFileDescription = "E:\\translator\\src\\main\\resources\\german\\verbs.txt";
-        String germanFrenchDataFile = "E:\\translator\\src\\main\\resources\\german\\robert_collins_german_to_french.txt";
-        String frenchVerbsDataFile = "E:\\translator\\src\\main\\resources\\french_verbs.txt";
-        String declensionPath = "E:\\translator\\src\\main\\resources\\german\\declensions";
-        String declensionsAndFiles = "E:\\translator\\src\\main\\resources\\german\\declensionsAndFiles.txt";
-        String conjugationPath = "E:\\translator\\src\\main\\resources\\german\\conjugations";
-        String conjugationsAndFiles = "E:\\translator\\src\\main\\resources\\german\\conjugationsAndFiles.txt";
-        String germanPathFile = "E:\\translator\\src\\test\\resources\\german_content.txt";
-        String germanResultFile = "E:\\translator\\src\\test\\resources\\german_expected_results.txt";
+        String prepositionFileDescription = "C:\\translator\\src\\main\\resources\\german\\prepositions.txt";
+        String nounFileDescription = "C:\\translator\\src\\main\\resources\\german\\nouns.txt";
+        String verbFileDescription = "C:\\translator\\src\\main\\resources\\german\\verbs.txt";
+        String germanFrenchDataFile = "C:\\translator\\src\\main\\resources\\german\\robert_collins_german_to_french.txt";
+        String frenchVerbsDataFile = "C:\\translator\\src\\main\\resources\\french_verbs.txt";
+        String declensionPath = "C:\\translator\\src\\main\\resources\\german\\declensions";
+        String declensionsAndFiles = "C:\\translator\\src\\main\\resources\\german\\declensionsAndFiles.txt";
+        String conjugationPath = "C:\\translator\\src\\main\\resources\\german\\conjugations";
+        String conjugationsAndFiles = "C:\\translator\\src\\main\\resources\\german\\conjugationsAndFiles.txt";
+        String germanPathFile = "C:\\translator\\src\\test\\resources\\german_content.txt";
+        String germanResultFile = "C:\\translator\\src\\test\\resources\\german_expected_results.txt";
         GermanDeclensionFactory germanDeclensionFactory = new GermanDeclensionFactory(getDeclensions(declensionsAndFiles), getDeclensionList(declensionsAndFiles, declensionPath));
         VerbRepository verbRepository = new VerbRepository(new GermanConjugationFactory(getGermanConjugations(conjugationsAndFiles), getGermanConjugationDefinitions(conjugationsAndFiles, conjugationPath)), Language.GERMAN, getVerbs(verbFileDescription));
         GermanRuleFactory ruleFactory = new GermanRuleFactory(verbRepository);

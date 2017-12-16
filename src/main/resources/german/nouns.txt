@@ -199,6 +199,7 @@ ev@neut%inv
 evangelium@neut%inv
 explosiv@neut%norm
 examen@neut%norm
+faktor@masc%autor
 falschheit@fem%meinfem
 familie@fem%flasche
 fax@neut%inv
@@ -613,6 +614,7 @@ rezipiert@masc%meinmasc
 richard@neut%inv
 rituell@adj%ausreichend
 rock@neut%inv
+rolle@fem%flasche
 rom@fem%inv
 romantik@fem%inv
 romantisch@adj%mein
@@ -760,6 +762,7 @@ unterscheidend@adj%ausreichend
 unterschied@neut%meinmasc
 untertan@neut%meinmasc
 urlaub@masc%norm
+ursache@fem%flasche
 ursprung@masc%meer
 v@neut%inv
 vater@masc%arbeiter

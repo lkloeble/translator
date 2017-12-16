@@ -32,17 +32,17 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
 
     @Before
     public void init() {
-        String prepositionFileDescription = "E:\\translator\\src\\main\\resources\\hebrew\\prepositions.txt";
-        String nounFileDescription = "E:\\translator\\src\\main\\resources\\hebrew\\nouns.txt";
-        String verbFileDescription = "E:\\translator\\src\\main\\resources\\hebrew\\verbs.txt";
-        String hebrewFrenchDataFile = "E:\\translator\\src\\main\\resources\\hebrew\\cohn_hebrew_to_french.txt";
-        String frenchVerbsDataFile = "E:\\translator\\src\\main\\resources\\french_verbs.txt";
-        String declensionPath = "E:\\translator\\src\\main\\resources\\hebrew\\declensions";
-        String declensionsAndFiles = "E:\\translator\\src\\main\\resources\\hebrew\\declensionsAndFiles.txt";
-        String conjugationPath = "E:\\translator\\src\\main\\resources\\hebrew\\conjugations";
-        String conjugationsAndFiles = "E:\\translator\\src\\main\\resources\\hebrew\\conjugationsAndFiles.txt";
-        String hebrewPathFile = "E:\\translator\\src\\test\\resources\\hebrew_content.txt";
-        String hebrewResultFile = "E:\\translator\\src\\test\\resources\\hebrew_expected_results.txt";
+        String prepositionFileDescription = "C:\\translator\\src\\main\\resources\\hebrew\\prepositions.txt";
+        String nounFileDescription = "C:\\translator\\src\\main\\resources\\hebrew\\nouns.txt";
+        String verbFileDescription = "C:\\translator\\src\\main\\resources\\hebrew\\verbs.txt";
+        String hebrewFrenchDataFile = "C:\\translator\\src\\main\\resources\\hebrew\\cohn_hebrew_to_french.txt";
+        String frenchVerbsDataFile = "C:\\translator\\src\\main\\resources\\french_verbs.txt";
+        String declensionPath = "C:\\translator\\src\\main\\resources\\hebrew\\declensions";
+        String declensionsAndFiles = "C:\\translator\\src\\main\\resources\\hebrew\\declensionsAndFiles.txt";
+        String conjugationPath = "C:\\translator\\src\\main\\resources\\hebrew\\conjugations";
+        String conjugationsAndFiles = "C:\\translator\\src\\main\\resources\\hebrew\\conjugationsAndFiles.txt";
+        String hebrewPathFile = "C:\\translator\\src\\test\\resources\\hebrew_content.txt";
+        String hebrewResultFile = "C:\\translator\\src\\test\\resources\\hebrew_expected_results.txt";
         HebrewDeclensionFactory hebrewDeclensionFactory = new HebrewDeclensionFactory(getDeclensions(declensionsAndFiles), getDeclensionList(declensionsAndFiles, declensionPath));
         VerbRepository verbRepository = new VerbRepository(new HebrewConjugationFactory(getHebrewConjugations(conjugationsAndFiles), getHebrewConjugationDefinitions(conjugationsAndFiles, conjugationPath)), Language.HEBREW, getVerbs(verbFileDescription));
         HebrewRuleFactory ruleFactory = new HebrewRuleFactory();
@@ -117,33 +117,6 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_weingreen_chapter_26() {
         assertEquals(2, 2);
-    }
-
-    @Test
-    public void test_weingreen_chapter_27() {
-        checkInMaps("wein27A", translatorBridge);
-        checkInMaps("wein27B", translatorBridge);
-        checkInMaps("wein27C1", translatorBridge);
-        checkInMaps("wein27C2", translatorBridge);
-        checkInMaps("wein27D", translatorBridge);
-        checkInMaps("wein27E", translatorBridge);
-        checkInMaps("wein27F", translatorBridge);
-        checkInMaps("wein27G", translatorBridge);
-        checkInMaps("wein27H", translatorBridge);
-        checkInMaps("wein27I", translatorBridge);
-        checkInMaps("wein27J", translatorBridge);
-        checkInMaps("wein27K", translatorBridge);
-        checkInMaps("wein27L", translatorBridge);
-        checkInMaps("wein27M", translatorBridge);
-        checkInMaps("wein27N", translatorBridge);
-        checkInMaps("wein27O", translatorBridge);
-        checkInMaps("wein27P", translatorBridge);
-        checkInMaps("wein27Q", translatorBridge);
-        checkInMaps("wein27R", translatorBridge);
-        checkInMaps("wein27S", translatorBridge);
-        checkInMaps("wein27T", translatorBridge);
-        checkInMaps("wein27U", translatorBridge);
-        checkInMaps("wein27V", translatorBridge);
     }
 
     @Test

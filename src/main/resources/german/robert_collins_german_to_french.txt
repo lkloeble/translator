@@ -71,6 +71,7 @@ aufgeh@verb!norm%1(verb)=ouvrir
 aufgewendet@adj!ausreichend%1(adj)=utilisé%2(adj)=épuisé%3(adj)=dépensé
 aufgrund@prep%1(prep)=sur la base de
 aufhor@verb!norm%1(verb)=arreter
+aufles@verb!norm%1(verb)=ramasser
 aufregend@adj!ausreichend%1(adj)=excitant
 aufwiederhoren@noun!inv%1(noun)=au revoir
 aufwiedersehen@noun!inv%1(noun)=au revoir
@@ -351,10 +352,11 @@ explosiv@noun!norm%1(noun)=explosif
 fahr@verb!norm%1(verb)=aller
 falls@prep%1(prep)=si
 fang@verb!norm%1(verb)=commencer
-fass@verb!norm%1(verb)=comprendre%2(verb)=saisir
-fax@noun!inv%1(noun)=fax
+faktor@noun!autor%1(noun)=facteur
 falschheit@noun!meinfem%1(noun)=hypocrisie
 familie@noun!flasche%1(noun)=famille
+fass@verb!norm%1(verb)=comprendre%2(verb)=saisir
+fax@noun!inv%1(noun)=fax
 fehlerhaft@adj!ausreichend%1(noun)=imparfait%2(adj)=défectueux
 feierlicher@adj!ausreichend%1(noun)=cérémonial%2(adj)=solennel
 feig@noun!inv%1(noun)=lâcheté
@@ -902,6 +904,7 @@ rezipiert@noun!meinmasc%1(noun)=examen
 richard@noun!inv%1(noun)=richard
 rituell@adj!ausreichend%1(adj)=rituel
 rock@noun!inv%1(noun)=rock
+rolle@noun!flasche%1(noun)=rôle
 rom@noun!inv%1(noun)=rome
 romantik@noun!inv%1(noun)=romantisme
 romantisch@noun!mein%1(adj)=romantique
@@ -1009,6 +1012,7 @@ spater@adj!ausreichend%1(adj)=plus tardif
 speise@noun!flasche%1(noun)=nourriture
 spekulant@noun!meinmasc%1(noun)=spéculateur
 spekulation@noun!norm%1(noun)=spéculation
+spiel@verb!norm%1(verb)=jouer
 sportlich@adj!inv%1(adj)=sportif
 sprache@noun!flasche%1(noun)=discours%2(noun)=langage
 sprech@verb!norm%1(verb)=dire
@@ -1127,6 +1131,7 @@ unterschied@noun!meinmasc%1(noun)=différence
 untertan@noun!meinmasc%1(noun)=sujet
 unvollstandig@noun!ausreichend%1(adj)=incomplet
 urlaub@noun!norm%1(noun)=vacance
+ursache@noun!flasche%1(noun)=raison
 ursprung@noun!meer%1(noun)=origine
 v@noun!inv%1(noun)=avant
 vater@noun!arbeiter%1(noun)=père
@@ -1149,6 +1154,8 @@ verrats@verb!norm%1(verb)=resoudre
 verruckt@noun!norm%1(noun)=fou
 versailles@noun!inv%1(noun)=versailles
 versand@noun!norm%1(noun)=vente par correspondance
+verschreib@verb!norm%1(verb)=prescrire
+verschweig@verb!norm%1(verb)=permettre
 verstandnis@noun!inv%1(noun)=sympathie%2(noun)=compréhension
 versteh@verb!norm%1(verb)=comprendre
 versuch@verb!norm%1(verb)=essayer
@@ -1208,6 +1215,7 @@ was@prep%1(prep)=quoi
 wasser@noun!masc%1(noun)=eau
 web@verb!norm%1(verb)=tisser
 webend@noun!meinfem%1(noun)=tissage
+weder@prep%1(prep)=ni%2(prep)=aucun
 weggeh@verb!norm%1(verb)=partir
 weib@noun!ort%1(noun)=épouse%2(noun)=femme
 wein@noun!inv%1(noun)=vin

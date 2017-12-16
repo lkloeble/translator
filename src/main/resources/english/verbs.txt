@@ -10,6 +10,7 @@ append,[call]
 apply,[live]
 appoint,[call]
 ask,[call]
+attain,[call]
 attempt,[call]
 avoid,[call]
 base,[live]
@@ -160,6 +161,7 @@ publish,[teach]
 put,[live]
 quote,[live]
 rain,[call]
+read,[live]
 receive,[live]
 reckon,[call]
 refer,[call]
@@ -187,6 +189,7 @@ set,[live]
 sew,[call]
 shall,[live],(IPR*shalls*shall*0@AII*shall*ddddddd*0)
 shallbe,[live],(IPR*shallsbe*shallbe*0)
+shew,[live]
 should,[live],(IPR*shoulds*should*0)
 shut,[live]
 simulate,[live],(PAPR*simulateing*simulating*0)

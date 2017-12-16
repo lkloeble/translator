@@ -32,17 +32,17 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
 
     @Before
     public void init() {
-        String prepositionFileDescription = "E:\\translator\\src\\main\\resources\\greek\\prepositions.txt";
-        String nounFileDescription = "E:\\translator\\src\\main\\resources\\greek\\nouns.txt";
-        String verbFileDescription = "E:\\translator\\src\\main\\resources\\greek\\verbs.txt";
-        String greekFrenchDataFile = "E:\\translator\\src\\main\\resources\\greek\\bailly_greek_to_french.txt";
-        String frenchVerbsDataFile = "E:\\translator\\src\\main\\resources\\french_verbs.txt";
-        String declensionPath = "E:\\translator\\src\\main\\resources\\greek\\declensions";
-        String declensionsAndFiles = "E:\\translator\\src\\main\\resources\\greek\\declensionsAndFiles.txt";
-        String conjugationPath = "E:\\translator\\src\\main\\resources\\greek\\conjugations";
-        String conjugationsAndFiles = "E:\\translator\\src\\main\\resources\\greek\\conjugationsAndFiles.txt";
-        String greekPathFile = "E:\\translator\\src\\test\\resources\\greek_content.txt";
-        String greekResultFile = "E:\\translator\\src\\test\\resources\\greek_expected_result.txt";
+        String prepositionFileDescription = "C:\\translator\\src\\main\\resources\\greek\\prepositions.txt";
+        String nounFileDescription = "C:\\translator\\src\\main\\resources\\greek\\nouns.txt";
+        String verbFileDescription = "C:\\translator\\src\\main\\resources\\greek\\verbs.txt";
+        String greekFrenchDataFile = "C:\\translator\\src\\main\\resources\\greek\\bailly_greek_to_french.txt";
+        String frenchVerbsDataFile = "C:\\translator\\src\\main\\resources\\french_verbs.txt";
+        String declensionPath = "C:\\translator\\src\\main\\resources\\greek\\declensions";
+        String declensionsAndFiles = "C:\\translator\\src\\main\\resources\\greek\\declensionsAndFiles.txt";
+        String conjugationPath = "C:\\translator\\src\\main\\resources\\greek\\conjugations";
+        String conjugationsAndFiles = "C:\\translator\\src\\main\\resources\\greek\\conjugationsAndFiles.txt";
+        String greekPathFile = "C:\\translator\\src\\test\\resources\\greek_content.txt";
+        String greekResultFile = "C:\\translator\\src\\test\\resources\\greek_expected_result.txt";
         GreekRuleFactory ruleFactory = new GreekRuleFactory();
         GreekDeclensionFactory greekDeclensionFactory = new GreekDeclensionFactory(getDeclensions(declensionsAndFiles), getDeclensionList(declensionsAndFiles, declensionPath));
         PrepositionRepository prepositionRepository = new PrepositionRepository(Language.GREEK, new GreekCaseFactory(), ruleFactory, getFileContentForRepository(prepositionFileDescription));
