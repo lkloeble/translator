@@ -601,6 +601,6 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failed_ones() {
         assertTrue(true);
-        checkInMaps("anaxE5", translatorBridge);
+        checkInMaps("clement1K", translatorBridge);
     }
 }
