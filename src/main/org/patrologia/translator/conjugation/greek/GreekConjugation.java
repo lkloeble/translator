@@ -34,10 +34,14 @@ import java.util.List;
  * FUTPARTACT => FUTure PARticiple INFinitive
  * ACAOOP => ACtive AOrist OPtative
  * AORMIDDIND => AORist MIDDle INDicative
+ * IMPMIDPASSIND => IMPerfect MIddlePASSive INDicative
+ * PRESACTPART => PREsent ACTive PARTiciple
+ * PRESPASPART => PREsent PASsiveive PARTiciple
+ * PRMIDPASSDEPPART => PResent MIDdle/PASSive DEPonent PARTiciple
  */
 public class GreekConjugation extends Conjugation {
 
-    protected static List<String> times = Arrays.asList(new String[]{"IPR","AII","ACAOIM","ACAOIN","PEACIN","PRPARPASS","PII","ACOPPR","PAAOIM","MIAOIN","PAINPRAC","PEPASPAR","AORPASOPT","AORPASIND","AORACTINF","PASANT","AORPASSPART","PARAORINFACT","AORPASDEP","PARAORINFPAS","AORPASSPART","ACAOOP","AORMIDDIND","FUTPARTACT"});
+    protected static List<String> times = Arrays.asList(new String[]{"IPR","AII","ACAOIM","ACAOIN","PEACIN","PRPARPASS","PII","ACOPPR","PAAOIM","MIAOIN","PAINPRAC","PEPASPAR","AORPASOPT","AORPASIND","AORACTINF","PASANT","AORPASSPART","PARAORINFACT","AORPASDEP","PARAORINFPAS","AORPASSPART","ACAOOP","AORMIDDIND","FUTPARTACT","IMPMIDPASSIND","PRESACTPART","PRMIDPASSDEPPART","PRESPASPART"});
 
     private String conjugationFilePath;
     private ConjugationLoader conjugationLoader = new ConjugationLoader();

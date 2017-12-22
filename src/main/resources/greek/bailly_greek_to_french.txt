@@ -49,15 +49,19 @@
 αναγιγνωσκ@verb!norm%1(verb)=lire2
 αναμεσον@prep%1(prep)=au milieu de%2(prep)=entre
 αναξιμανδρ@noun!ος-ου%1(noun)=anaximandre
+ανατολ@noun!η-ης%1(noun)=est
 ανεμ@noun!ος-ου%1(noun)=agitation de l'âme,passion tumultueuse%2(noun)=vent
 ανθρωπ@noun!ος-ου%1(noun)=être humain%2(noun)=homme
 αυθαδη@noun!inv%1(noun)=égoïste%2(noun)=têtu
 ανοσι@adj!ος-α-ον%1(adj)=blasphématoire%2(adj)=impie
 αντιθετ@noun!ον-ου%1(noun)=antithétique
+ανω@prep%1(prep)=en haut
+ανωτατω@prep%1(prep)=le plus en haut
 αξιαγαπητ@adj!ος-ος-ον%1(adj)=digne d'amour
 αορατ@adj!ος-ος-ον%1(adj)=invisible
 απα@adj!apas%1(noun)=tout
 απειρ@noun!ος-ου%1(noun)=infini
+απλαν@noun!η-ης%1(noun)=non volant
 απιστ@noun!ος-η-ον%1(noun)=infidèle%2(noun)=incroyant
 απαγ@verb!norm%1(verb)=emmener
 απο@prep%1(prep)=depuis
@@ -66,11 +70,13 @@
 αποκριν@verb!norm%1(verb)=separer%2(verb)=choisir%3(verb)=repondre
 αποκριθεντ@adj!ος-α-ον%1(adj)=séparé
 απολυ@verb!norm%1(verb)=être séparé,annulé%2(verb)=vendre%3(verb)=payer une dette%4(verb)=divorcer%5(verb)=acquitter%6(verb)=liberer
+απονεμ@verb!norm%1(verb)=montrer%2(verb)=payer%3(verb)=donner%4(verb)=assigner
 απονοι@noun!α-ας%1(noun)=folie
 απορι@noun!α-ας%1(noun)=aporie%2(noun)=embarras%3(noun)=destitution%4(noun)=question
 απορρησσ@verb!norm%1(verb)=dechirer
 αποστασ@noun!ις-εως%1(noun)=distance
 αποστολ@noun!ος-ου%1(noun)=apôtre
+απροσωπολημπτως@prep%1(prep)=de façon impartiale
 αρα@prep%1(prep)=c'est pourquoi
 αραμ@noun!inv%1(noun)=aram
 αργυρι@noun!ον-ου%1(noun)=monnaie%2(noun)=argent
@@ -99,6 +105,7 @@
 βεβαι@adj!ος-α-ον%1(adj)=solide
 βη@noun!inv%1(noun)=be
 βητα@noun!inv%1(noun)=beta
+βηθλεεμ@noun!inv%1(noun)=Bethleem
 βι@prep%1(prep)=bi
 βι@noun!ος-ου%1(noun)=vie
 βιβλι@noun!ον-ου%1(noun)=livre
@@ -217,6 +224,8 @@
 επιστροφ@noun!η-ης%1(noun)=retour
 επιφερ@verb!norm%1(verb)=poser
 επιφρασσ@verb!norm%1(verb)=bloquer
+επτακαιεικοσα@noun!inv%1(noun)=dix sept fois
+επτακαιεικοσαπλασιονα@noun!inv%1(noun)=dix sept fois plus grand
 εργ@noun!ον-ου%1(noun)=travail%2(noun)=oeuvre
 εργατ@noun!ης-ου%1(noun)=travailleur%2(noun)=ouvrier
 ερημ@adj!ος-η-ον%1(adj)=solitaire%2(adj)=désolé%3(adj)=désert
@@ -241,6 +250,7 @@
 ζοροβαβελ@noun!inv%1(noun)=zorobabel
 ζω@noun!η-ης%1(noun)=vie
 η@noun!inv%1(noun)=la
+ηγε@verb!norm%1(verb)=preceder%2(verb)=diriger%3(verb)=commander
 ηι@prep%1(prep)=lequel
 ηθ@noun!ος-ους%1(noun)=coutûme%2(noun)=charactère
 ηλι@noun!ος-ου%1(noun)=soleil
@@ -249,6 +259,7 @@
 ημιν@prep%1(prep)=à nous
 ημων@prep%1(prep)=notre
 ην@noun!inv%1(noun)=la
+ηρωδου@noun!inv%1(noun)=de hérode
 ηρως@noun!inv%1(noun)=héros
 ηστινος@prep%1(prep)=de celle-qui
 ητα@noun!inv%1(noun)=eta
@@ -273,6 +284,7 @@
 ιδου@prep%1(prep)=voici !
 ιερ@noun!ον-ου%1(noun)=temple
 ιεροσολυμα@noun!inv%1(noun)=jérusalem
+ιεροσολυμοις@noun!inv%1(noun)=jérusalem
 ιεροσολυμων@noun!inv%1(noun)=de jérusalem
 ιεχονι@noun!ας-ου%1(noun)=jéchonias
 ιματι@noun!ον-ου%1(noun)=manteau%2(noun)=vêtement
@@ -296,6 +308,7 @@
 ιωσαφατ@noun!inv%1(noun)=josaphat
 ιωτα@noun!inv%1(noun)=iota
 καθαρ@adj!ος-α-ον%1(adj)=pur
+καθηκ@verb!norm%1(verb)=atteindre%2(verb)=appartenir%3(verb)=etrenecessaire
 και@prep%1(prep)=et
 καιν@adj!ος-η-ον%1(adj)=nouveau
 καιρε@noun!inv%1(noun)=salut
@@ -312,9 +325,11 @@
 καθημεραν@prep%1(prep)=quotidiennement
 κατ@prep%1(prep)=selon
 κατα@prep%1(prep)=selon
-καταacc@prep%1(prep)=selon
 καταgen@prep%1(prep)=contre
+καταacc@prep%1(prep)=selon
 κατοικε@verb!norm%1(verb)=habiter
+κατω@prep%1(prep)=bas
+κατωτατω@prep%1(prep)=le plus bas
 κεφαλ@noun!η-ης%1(noun)=dirigeant%2(noun)=tête
 κηρυσσ@verb!norm%1(verb)=proclamer
 κινησ@noun!ις-εως%1(noun)=changement%2(noun)=danse%3(noun)=mouvement
@@ -346,6 +361,7 @@
 λογ@noun!ος-ου%1(noun)=parole,sentence,question%2(noun)=mot%3(noun)=recit%4(noun)=raison,intelligence%5(noun)=opinion%6(noun)=relation,proportion,analogie%7(noun)=justification,explication%8(noun)=verbe
 λοιπ@adj!ος-η-ον%1(adj)=restant
 λυ@verb!norm%1(verb)=delier,delivrer,lacher,laisser aller,mettre en liberte%2(verb)=dissoudre,rompre,briser,achever,terminer,resoudre,expliquer,se liberer de%3(verb)=delier
+μαγ@noun!ος-ου%1(noun)=mage
 μαθημ@noun!α-ατος%1(noun)=sujet%2(noun)=leçon
 μαθητ@noun!ης-ου%1(noun)=disciple
 μακαρι@adj!ος-α-ον%1(adj)=bienheureux%2(adj)=heureux
@@ -395,6 +411,7 @@
 νεκρ@adj!ος-α-ον%1(adj)=mort
 νεφελ@noun!η-ης%1(noun)=nuée%2(noun)=nuage
 νομ@noun!ος-ου%1(noun)=loi
+νομιμ@noun!ος-ου%1(noun)=légitime%2(noun)=légal
 νομιζ@verb!norm%1(verb)=reconnaitre%2(verb)=pratiquer%3(verb)=considerer
 νυ@noun!ξ-κτος%1(noun)=nuit
 νυν@prep%1(prep)=maintenant
@@ -441,6 +458,7 @@
 παλαι@adj!ος-α-ον%1(adj)=vieux
 παναρετ@noun!ον-ου%1(noun)=très vertueux
 παραλυτικ@noun!ος-ου%1(noun)=paralytique
+παντα@prep%1(prep)=tous
 παντας@prep%1(prep)=tous
 παντων@prep%1(prep)=tous
 παντοκρατ@noun!ωρ-ορος%1(noun)=tout-puissant
@@ -448,6 +466,7 @@
 παραdat@prep%1(prep)=avec
 παραgen@prep%1(prep)=d'à côté de
 παραβολ@noun!η-ης%1(noun)=comparaison%2(noun)=parabole
+παραγιγν@verb!norm%1(verb)=arriver
 παρακαλ@verb!norm%1(verb)=demander%2(verb)=encourager%3(verb)=envoyer
 παραλαμβαν@verb!norm%1(verb)=recevoir
 παραπλησι@noun!ος-ου%1(noun)=ressemblant
@@ -481,6 +500,7 @@
 πληκτρ@noun!ον-ου%1(noun)=plectre
 πληθυν@verb!norm%1(verb)=multiplier
 πληρ@verb!norm%1(verb)=accomplir
+πλασιονα@noun!inv%1(noun)=plus grand
 πλατ@noun!ος-ους%1(noun)=largeur
 πλοι@noun!ον-ου%1(noun)=bateau%2(noun)=barque
 πλουσι@adj!ος-α-ον%1(adj)=riche
@@ -491,6 +511,7 @@
 πολεμ@noun!ος-ου%1(noun)=guerre
 πονηρ@adj!ος-α-ον%1(adj)=mauvais%(adj)=méchant%3(adj)=malin
 πορ@noun!ος-ου%1(noun)=passage
+πορευ@verb!norm%1(verb)=suivrefort
 ποταμ@noun!ος-ου%1(noun)=fleuve
 ποτε@prep%1(prep)=à un moment
 ποτηρι@noun!ον-ου%1(noun)=coupe
@@ -572,6 +593,7 @@
 τε@prep%1(prep)=aussi
 τεκν@noun!ον-ου%1(noun)=enfant
 τελει@adj!ος-α-ον%1(adj)=parfait%2(adj)=accompli%3(adj)=terminé
+τεταρτ@adj!ος-η-ον%1(adj)=quatrième
 τελος@prep%1(prep)=enfin
 τελων@noun!ης-ου%1(noun)=péagier%2(noun)=collecteur de taxes%3(noun)=douanier
 τιμ@noun!η-ης%1(noun)=prix%2(noun)=honneur
@@ -622,6 +644,7 @@
 υποκατω@prep%1(prep)=au dessous
 υποκριτ@noun!ης-ου%1(noun)=hypocrite
 υπομον@noun!η-ης%1(noun)=constance%2(noun)=persévérance
+υποτασσ@verb!norm%1(verb)=soumettre
 υστατ@adj!ος-η-ον%1(noun)=dernier
 υφιστη@verb!norm%1(verb)=promettre%2(verb)=entreprendre%3(verb)=setenirdebout%4(verb)=rester%5(verb)=resister
 υψιλον@noun!inv%1(noun)=upsilon

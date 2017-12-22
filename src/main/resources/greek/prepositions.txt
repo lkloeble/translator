@@ -5,7 +5,10 @@
 αν@prep()
 ανα@prep()%[findAvaMesov]
 αναμεσον@prep()
+ανω@prep()
+ανωτατω@prep()
 απο@prep()
+απροσωπολημπτως@prep()
 αφ@prep()
 αρα@prep()
 αυται@prep()
@@ -44,6 +47,8 @@
 κατα@prep()
 καταacc@prep()
 καταgen@prep()
+κατω@prep()
+κατωτατω@prep()
 λαθρα@prep()
 μεγαλως@prep()
 μεθ@prep%[electGenitiveForFollowingNoun(μεταgen),electAccusativeForFollowingNoun(μεταacc)]
@@ -68,6 +73,7 @@
 ουτος@prep()
 ουτω@prep()
 ουτως@prep()
+παντα@prep(acc)
 παντας@prep(acc)
 παντων@prep(gen)
 παρ@prep%[electAccusativeForFollowingNoun(παραacc),electDativeForFollowingNoun(παραdat),electGenitiveForFollowingNoun(παραgen)]

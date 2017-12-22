@@ -464,8 +464,12 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("strackp1notBH", translatorBridge);
     }
 
-
     @Test
+    public void test_talmud_help_strack2() {
+        assertTrue(false);//TODO à remplir
+    }
+
+        @Test
     public void test_genesis_chapter1() {
         checkInMaps("genesis1A", translatorBridge);
         checkInMaps("genesis1B", translatorBridge);

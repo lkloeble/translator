@@ -508,6 +508,33 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
     }
 
     @Test
+    public void test_bridge_on_matthew_2() {
+        checkInMaps("matthew2A", translatorBridge);
+        checkInMaps("matthew2B", translatorBridge);
+        checkInMaps("matthew2C", translatorBridge);
+        checkInMaps("matthew2D", translatorBridge);
+        checkInMaps("matthew2E", translatorBridge);
+        checkInMaps("matthew2F", translatorBridge);
+        checkInMaps("matthew2G", translatorBridge);
+        checkInMaps("matthew2H", translatorBridge);
+        checkInMaps("matthew2I", translatorBridge);
+        checkInMaps("matthew2J", translatorBridge);
+        checkInMaps("matthew2K", translatorBridge);
+        checkInMaps("matthew2L", translatorBridge);
+        checkInMaps("matthew2M", translatorBridge);
+        checkInMaps("matthew2N", translatorBridge);
+        checkInMaps("matthew2O", translatorBridge);
+        checkInMaps("matthew2P", translatorBridge);
+        checkInMaps("matthew2Q", translatorBridge);
+        checkInMaps("matthew2R", translatorBridge);
+        checkInMaps("matthew2S", translatorBridge);
+        checkInMaps("matthew2T", translatorBridge);
+        checkInMaps("matthew2U", translatorBridge);
+        checkInMaps("matthew2V", translatorBridge);
+        checkInMaps("matthew2W", translatorBridge);
+    }
+
+    @Test
     public void test_anaximandre_fragments() {
         checkInMaps("anaxA", translatorBridge);
         checkInMaps("anaxB1", translatorBridge);
@@ -524,6 +551,7 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("anaxE4B", translatorBridge);
         checkInMaps("anaxE5", translatorBridge);
         checkInMaps("anaxE6", translatorBridge);
+        checkInMaps("anaxE7", translatorBridge);
         checkInMaps("anaxF", translatorBridge);
         checkInMaps("anaxG1", translatorBridge);
         checkInMaps("anaxG2", translatorBridge);
@@ -601,6 +629,6 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failed_ones() {
         assertTrue(true);
-        checkInMaps("clement1K", translatorBridge);
+        checkInMaps("matthew2A", translatorBridge);
     }
 }

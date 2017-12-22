@@ -24,9 +24,9 @@ import static org.junit.Assert.assertTrue;
 public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
 
     private TranslatorBridge translatorBridge;
-    String frenchVerbsDataFile = "E:\\translator\\src\\main\\resources\\french_verbs.txt";
-    String hebrewPathFile = "E:\\translator\\src\\test\\resources\\hebrew_content.txt";
-    String hebrewResultFile = "E:\\translator\\src\\test\\resources\\hebrew_expected_results.txt";
+    String frenchVerbsDataFile = "C:\\translator\\src\\main\\resources\\french_verbs.txt";
+    String hebrewPathFile = "C:\\translator\\src\\test\\resources\\hebrew_content.txt";
+    String hebrewResultFile = "C:\\translator\\src\\test\\resources\\hebrew_expected_results.txt";
 
 
     @Before

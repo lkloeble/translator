@@ -7,3 +7,5 @@ AORPASIND=>ην,ης,η,ημεν,ητε,ησαν
 AORPASDEP=>εντος
 AORPASSIMP=>-,-,-,-,-,ωσαν
 AIP=>-,-,εν,-,-,-
+PRMIDPASSDEPPART=>-,-,μενοις,-
+IMPMIDPASSIND=>-,-,-,-,εσθε,-

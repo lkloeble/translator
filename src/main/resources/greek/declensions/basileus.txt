@@ -1,7 +1,7 @@
 nom%sing%masc%υς
 noma%plr%masc%ης
 nomb%plr%masc%εις
-gen%sing%masc%εως
+gen%sing%masc%ως
 gen%plr%masc%εων
 acc%sing%masc%α
 acc%plr%masc%ας

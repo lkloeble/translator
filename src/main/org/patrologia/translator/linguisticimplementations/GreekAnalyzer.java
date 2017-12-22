@@ -45,7 +45,7 @@ public class GreekAnalyzer implements Analizer {
         if(sentence == null) return "";
         StringBuilder sb = new StringBuilder();
         char[] chars = sentence.toLowerCase().toCharArray();
-        int[] charsz = new int[]{7936,7938,7940,7941,7952,7953,7955,7956,7969,7970,7971,7973,7974,7975,7984,7988,7990,8000,8001,8003,8004,8005,8016,8017,8019,8020,8021,8023,8033,8036,8037,8039,8048,8049,8050,8051,8052,8053,8054,8055,8056,8057,8058,8059,8061,8103,8118,8127,8134,8135,8147,8150,8166,8179,8182,8183};
+        int[] charsz = new int[]{7936,7938,7940,7941,7952,7953,7955,7956,7969,7970,7971,7973,7974,7975,7984,7985,7988,7990,8000,8001,8003,8004,8005,8016,8017,8019,8020,8021,8023,8033,8036,8037,8039,8048,8049,8050,8051,8052,8053,8054,8055,8056,8057,8058,8059,8061,8103,8118,8127,8134,8135,8147,8150,8166,8179,8180,8182,8183};
         for (char c : chars) {
             int i = (int) c;
             if(i>6000 && notInTab(i,charsz)) {
@@ -127,6 +127,9 @@ public class GreekAnalyzer implements Analizer {
                     sb.append("η");
                     break;
                 case 7984://'ἴ' 7984
+                    sb.append("ι");
+                    break;
+                case 7985://'ἱ' 7985
                     sb.append("ι");
                     break;
                 case 7988://'ἴ' 7988
@@ -244,6 +247,9 @@ public class GreekAnalyzer implements Analizer {
                     sb.append("υ");
                     break;
                 case 8179://'ῳ' 8179
+                    sb.append("ω");
+                    break;
+                case 8180://'ῴ' 8180
                     sb.append("ω");
                     break;
                 case 8182://'ῶ' 8182
