@@ -25,11 +25,13 @@ animal@masc%fem
 antonie@masc%inv
 ap@fem%fem
 apartament@masc%ul
+apartsinand@neut%inv
 apetit@masc%ul
 arab@adj%adj
 ardeleneasc@adj%adj
 armat@fem%fem
 articol@masc%ul
+ascet@masc%ul
 aspect@masc%ul
 aspirin@fem%fem
 atanasie@masc%inv
@@ -202,6 +204,7 @@ frumos@masc%ul
 gand@masc%locul
 gar@fem%fem
 gared@neut%inv
+general@neut%inv
 genetic@fem%fem
 gen@masc%ul
 git@masc%ul
@@ -220,6 +223,7 @@ ide@fem%parinte
 ieftin@adj%adj
 iepure@neut%iepure
 iesir@fem%femi
+iisus@masc%inv
 important@adj%adj
 imposibil@neut%inv
 impresi@fem%fem
@@ -241,6 +245,7 @@ intunecare@neut%inv
 invatsatur@fem%fem
 ion@masc%inv
 ionescu@masc%inv
+istori@fem%fem
 istoric@adj%adj
 italia@fem%inv
 italian@adj%adj
@@ -276,6 +281,7 @@ mam@fem%fem
 manuscris@neut%inv
 mar@fem%berea
 mare@neut%inv
+marele@neut%inv
 mari@neut%inv
 marturi@fem%ratsiune
 marturisitor@masc%ul
@@ -308,6 +314,7 @@ momeal@fem%fem
 moment@masc%ul
 mormint@masc%ul
 mostenire@fem%fem
+motiv@masc%ul
 mult@adj%adjts
 multsumesc@neut%inv
 mun@fem%capacitate
@@ -368,6 +375,7 @@ pian@masc%ul
 pic@neut%inv
 picatur@fem%fem
 pierdut@adj%adjts
+pild@fem%fem
 pip@fem%fem
 piperat@adj%adj
 placere@neut%inv
@@ -412,6 +420,7 @@ retset@fem%fem
 revedere@neut%inv
 revelatsi@fem%femi
 revist@fem%fem
+rezumat@masc%ul
 roat@fem%fem[nomplr(a):roate,nomplr(b):rotsi,nomplr(c):roatele,nomplr(d):rotsile]
 rod@masc%ul[nomplr(a):roadele]
 rom@masc%ul
@@ -434,6 +443,7 @@ sat@masc%ul
 scrier@fem%berea
 sens@masc%ul
 sete@neut%inv
+sev@fem%fem
 scandalos@adj%adj
 scoal@fem%fem
 scop@masc%ul
@@ -469,7 +479,9 @@ stapan@masc%ul
 stare@fem%fem
 sticl@fem%fem
 stra@fem%adjverde
+stradiani@fem%fem
 subiect@masc%ul
+suficient@neut%inv
 sufragerie@fem%inv
 supranatural@adj%adj
 sut@fem%fem
@@ -507,6 +519,7 @@ umbr@fem%fem
 umor@masc%ul
 un@adj%adj
 unchi@masc%ul
+unic@adj%adj
 urm@fem%fem
 urmas@masc%ul
 urs@masc%ul
@@ -516,13 +529,14 @@ usuoar@adj%adj
 vadit@adj%adj
 vampir@masc%ul
 vanatoare@fem%inv
+vazut@adj%adj
 vecin@masc%ul
 veder@fem%berea
 ver@adj%adjverde
 vesel@adj%adj
 veterinar@masc%ul
 viats@fem%fem
-vie@fem%fem[nomsing(a):vie,nomsing(b):via,nomplr(a):vii,nomplr(b):viile]
+vie@fem%fem[nomsing(a):vie,nomsing(b):via,nomplr(a):vii,nomplr(b):viile,gensing(a):viei]
 vin@masc%ul
 vinatoare@fem%inv
 virst@fem%fem

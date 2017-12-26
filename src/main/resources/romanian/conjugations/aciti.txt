@@ -1,4 +1,5 @@
 IPR=>esc,esti,este,im,itsi,esc
 AII=>am,ai,a,am,atsi,au
+AIPP=>isem,isesi,ise,iseram,iseratsi,isera
 PAPR=>ind
 PAP=>it

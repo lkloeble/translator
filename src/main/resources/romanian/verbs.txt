@@ -4,6 +4,7 @@ afirm,,[incerca]
 alerg,,[merg]
 am@IRREGULAR%[IPR]=[am,ai,are,avem,avetsi,au]%[CONJ]=[x,x,aiba,x,x,aiba]%[INFINITIVE]=[avea]
 amuz,,[bea]
+apar,,[face]
 apreci,,[aprecia]
 aprind,,[merg],(IPR1*di*zi*1)
 arat,,[incerca]
@@ -34,6 +35,7 @@ dev,,[deveni]
 dor,,[dorm],(IPR25*dor*doar*0)
 dorm,,[dorm]
 dot,,[fumez]
+doved,,[aciti]
 duc,,[merg],(PAP*ducs*dus*0)
 evit,,[cauta]
 fac,,[face]
@@ -86,6 +88,7 @@ realiz,a,[fumez]
 restabil,i,[locuiesc]
 retrag,,[merg],(PAP*retrags*retras*0)
 revin,,[face]
+rezum,,[incerca]
 scri,,[scrie]
 sint@IRREGULAR%[IPR]=[sint,esti,este,sintem,sintetsi,sint|sunt]%[AII]=[eram,erai,era,eram,eratsi,erau]%[PAPR]=[fiind]%[ASP]=[fiu,fii,fie,fim,fitsi,fie]%[ACP]=[asfi,aifi,arfi,amfi,atsifi,arfi]%[PAP]=[fost]%[INFINITIVE]=[fi]
 sluj,,[locuiesc]
