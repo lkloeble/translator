@@ -36,3 +36,5 @@ apas%apas.txt
 ης-ης-ες%epieikes.txt
 ων-ων-ον%swprwn.txt
 ας-η-α%megas.txt
+υς-υος%ixtus.txt
+ο-ου%ugro.txt

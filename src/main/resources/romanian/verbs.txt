@@ -62,6 +62,7 @@ inva,,[invata],(IPR*atsi*etsi*1)
 locu,,[locuiesc]
 lucr,,[fumez]
 maninc@IRREGULAR%[IPR]=[maninc,maninci,maninca,mancam,mancati,mananca]%[INFINITIVE]=[maninca]
+mantui,,[aciti]
 ments,,[mentsin]
 merg,,[face]
 mor,,[dorm],(IPR2*mor*moar*0@IPR34*mor*mur*0@PAP*mor*mur*0)
@@ -115,4 +116,4 @@ vin@IRREGULAR%[IPR]=[vin,vii,vine,venim,venitsi,vin]%[AII]=[veneam,veneai,venea,
 van,,[vinde],(IPR1234*van*vin*0@PSP1234*van*vin*0)
 vorb,i,[aciti]
 vr,,[vrea]
-zic,,[merg],(AIP*zic*zis*0)
+zic,,[merg],(AIP*zic*zis*0@AII*zic*zice*0)

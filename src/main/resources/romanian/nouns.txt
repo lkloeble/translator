@@ -147,6 +147,7 @@ dintai@neut%inv
 dintii@neut%inv
 directi@fem%fem
 dispus@adj%adj
+doamne@neut%inv
 doctor@masc%doctor
 doctrin@fem%fem
 domn@masc%ul
@@ -550,3 +551,4 @@ zambet@neut%ul
 zece@neut%inv
 ziar@masc%ul
 zi@fem%cafea
+zori@masc%inv

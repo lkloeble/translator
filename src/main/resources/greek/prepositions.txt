@@ -112,6 +112,8 @@
 τον@prep%prep(acc)%[electAccusativeForFollowingNoun]
 του@prep%prep(gen)%[electGenitiveForFollowingNoun]
 τουδε@prep()
+τουτεστι@prep()
+τουτεστιν@prep()
 τουτο@prep()
 τουτου@prep()
 τουτω@prep(dat)

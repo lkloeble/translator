@@ -1,0 +1,8 @@
+nom%sing%neut%ο
+nom%plr%neut%α
+gen%sing%neut%ου
+gen%plr%neut%ων
+acc%sing%neut%ο
+acc%plr%neut%α
+voc%sing%neut%ο
+voc%plr%neut%α

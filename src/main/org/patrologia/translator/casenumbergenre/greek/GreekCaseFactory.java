@@ -17,40 +17,20 @@ public class GreekCaseFactory extends CaseFactory {
             return new NullCase();
         }
         if("nom".equals(pattern.toLowerCase())) {
-            return getNominative();
+            return new NominativeGreekCase(differentier);
         }
         else if("acc".equals(pattern.toLowerCase())) {
-            return getAccusative();
+            return new AccusativeGreekCase(differentier);
         }
         else if("gen".equals(pattern.toLowerCase())) {
-            return getGenitive();
+            return new GenitiveGreekCase(differentier);
         }
         else if("dat".equals(pattern.toLowerCase())) {
-            return getDative();
+            return new DativeGreekCase(differentier);
         }
         else if("voc".equals(pattern.toLowerCase())) {
-            return getVocative();
+            return new VocativeGreekCase(differentier);
         }
         return new NullCase();
-    }
-
-    public static NominativeGreekCase getNominative() {
-        return new NominativeGreekCase(EMPTY_DIFFERENTIER);
-    }
-
-    public static GenitiveGreekCase getGenitive() {
-        return new GenitiveGreekCase(EMPTY_DIFFERENTIER);
-    }
-
-    public static AccusativeGreekCase getAccusative() {
-        return new AccusativeGreekCase(EMPTY_DIFFERENTIER);
-    }
-
-    public static DativeGreekCase getDative() {
-        return new DativeGreekCase(EMPTY_DIFFERENTIER);
-    }
-
-    public static VocativeGreekCase getVocative() {
-        return VocativeGreekCase.getInstance();
     }
 }

@@ -283,6 +283,26 @@ strackp1notBE=>leviten, israeliten, profane, proselyten u. freigelassene dürfen
 strackp1notBF=>proselyten, freigelassene, bastarde, |nethinim|, |shetuqim| u. findlinge, sie alle dürfen einander ehelichen.
 strackp1notBG=>dies sind |shetuqim| : jeder, der seine mutter kennt u. seinen vater nicht kennt (dessen vater XX hebreu XXX = verschwiegen bleibt), u. findlinge :
 strackp1notBH=>jeder, der von der straße aufgelesen ist u. weder@1 vater noch mutter kennt. Alle, die nicht in die gemeinde (israel) eintreten dürfen einander ehelichen.
+strackp3A=>Die aufstellung u. fortführung genealogischer register wurde dadurch notwendig, daß zum dienst an heiligtum u. zu den damit verbundenen gerechtsamen, wie auch zu öffentlichen ehrenämtern,
+strackp3B=>nur männer sicherer u. makelloser abstammung zugelassen werden dürften (vgl. schon Esra 2:61-63 , Neh 7:63-65) (a).
+strackp3C=>Welche vorausstezung zB erfüllt sein mußten, wenn die abstammung eines priesters als legitim anerkannt werden sollte, kann man den bestimmungen entnehmen,
+strackp3D=>die für den priester bei eingehung einer ehe maßgebend waren (b).
+strackp3E=>Wo diese bestimmungen außer acht gelassen wurden, galt die nachkommenschaft als mit einem makel behaftet.
+strackp3F=>Die prüfung der legitimität der herkunft lag dem synedrium (c) nach fest bestimmten regeln (c) ob.
+strackp3G=>Selbst die im auslande wohnenden priester versäumten es nicht, vor ihrer verehelichung die zur prüfung ihres eigenen stammbaumes,
+strackp3H=>sowie desjenigen ihrer verlobten erforderlichen urkunden nach jerusalem einzusenden (d).
+strackp3notA=>Qid 4,4 : wenn ein priester eine frau priesterlichen gesclechts heiratet,
+strackp3notB=>so muß man rückwärts die vier mütter (mütterliche vorfahren der braut während der letzten vier generationen), deren zahl acht beträgt, prüfen;
+strackp3notC=>Nämlich lihre mutter u. die mutter ihre mutter, die mutter des vaters, ihrer mutter u. deren mutter; die mutter ihres vaters u. deren mutter, die mutter des vaters ihres vaters u. deren mutter.
+strackp3notD=>Wenn er die tochter eines leviten oder eines israeliten heiratet, so fügt man zu diesen (vier generationen) noch eine generation hinzu.
+strackp3notE=>Dagegen bedarf es keiner prüfung vom altar an aufwärts, von dukhan an aufwärts u. vom synedrium an aufwärts.
+strackp3notF=>Desgleichen dürfen alle, von denen feststeht, daß ihre vorfahren zu den öffentlichen beamten, oder zu den almosenpflegern gehört haben, ihre tochter,
+strackp3notG=>ohne daß es nötig ist, eine prüfung aufwärts anzustellen, an die priesterschaft verheiraten. [Denn wenn ein priester am altar u. ein levit auf dem dukhan,
+strackp3notH>einer östlich vom altar befinlichen estrade, als sänger mitgewirkt hat, oder wenn jemand mitgleid einer gerichts- oder einer sonstigen öffentlichen behörde war,
+strackp3notI=>so war dessen legitime herkunft ja schon geprüft;
+strackp3notJ=>mithin war eine ernaute prüfung der ahnen seiner tochter nicht nötig, falls diese an einen priester verheiratet werden sollte.]
+
+
 
 genesis1A=>Am Anfang@n schuf Gott Himmel und Erde.
 genesis1B=>Und die Erde war wüst und leer, und es war finster auf der Tiefe; und der Geist Gottes schwebte auf dem Wasser.

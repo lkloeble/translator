@@ -45,6 +45,7 @@ antiquit@fem%as-atis
 apocalyps@fem%is-is2
 apostol@masc%us-i
 apostolic@adj%us-a-um
+appellat@adj%us-a-um
 appi@fem%a-ae
 aqu@fem%a-ae
 aquitan@adj%us-a-um
@@ -235,6 +236,7 @@ fabul@fem%a-ae
 faci@fem%es-ei
 facien@neut%s-tis
 fact@adj%us-a-um
+fals@adj%us-a-um
 famili@fem%a-ae
 familiarita@fem%s-tis2
 famul@masc%us-i
@@ -304,6 +306,7 @@ hosti@fem%a-ae
 hosanna@neut%inv
 humanita@fem%s-tis2
 hum@fem%us-i
+human@adj%us-a-um
 hymn@masc%us-i
 idol@neut%um-i
 ignati@masc%us-i2
@@ -319,6 +322,7 @@ incredibil@adj%is-is-e
 indign@adj%us-a-um
 induct@adj%us-a-um
 indut@adj%us-a-um
+infand@adj%us-a-um
 inferi@adj%or-or-us
 infirm@adj%us-a-um
 ingeni@neut%um-i
@@ -462,6 +466,7 @@ null@adj%us-a-um
 numer@masc%us-i
 numm@masc%us-i
 o@neut%s-ris
+obscenit@fem%as-atis
 observat@adj%us-a-um
 occas@masc%us-us
 occasi@fem%o-onis
@@ -606,12 +611,18 @@ sanctissim@adj%us-a-um
 sangui@masc%s-nis
 sanguine@adj%us-a-um
 sardini@fem%a-ae
+scel@neut%us-eris
 scienti@fem%a-ae
 schol@fem%a-ae
 scribend@adj%us-a-um
 scriptor@masc%scriptor
+script@neut%um-i
+scriptur@adj%us-a-um
 secund@adj%us-a-um
 semen@fem%x-is
+sement@neut%is-is
+senat@masc%us-us
+sequen@adj%s-s-s
 sententi@fem%a-ae
 septentrio@masc%x-nis
 septim@adj%us-a-um
@@ -621,10 +632,6 @@ serv@masc%us-i
 severi@adj%or-or-us
 sex@neut%inv
 sext@adj%us-a-um
-script@neut%um-i
-scriptur@adj%us-a-um
-sement@neut%is-is
-sequen@adj%s-s-s
 sicili@fem%a-ae
 sign@masc%um-i
 silenti@neut%um-i

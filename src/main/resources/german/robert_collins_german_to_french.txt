@@ -23,8 +23,9 @@ also@prep%1(noun)=aussi
 alt@noun!ausreichend%1(adj)=vieux
 altest@adj!ausreichend%1(adj)=plus vieux
 amerikanisch@adj!ausreichend%1(adj)=américain
-am@prep%1(prep)=au
 an@prep%1(noun)=sur
+am@prep%1(prep)=au
+analytisch@adj!ausreichend%1(adj)=analytique
 anarchisch@adj!ausreichend%1(adj)=anarchique
 ander@verb!norm%1(verb)=modifier
 ander@noun!ausreichend%1(noun)=autre
@@ -74,6 +75,7 @@ aufgrund@prep%1(prep)=sur la base de
 aufhor@verb!norm%1(verb)=arreter
 aufles@verb!norm%1(verb)=ramasser
 aufregend@adj!ausreichend%1(adj)=excitant
+aufstellung@noun!meinfem%1(noun)=relevé%2(noun)=inventaire%3(noun)=liste
 aufwiederhoren@noun!inv%1(noun)=au revoir
 aufwiedersehen@noun!inv%1(noun)=au revoir
 aufzieh@verb!norm%1(verb)=remonter
@@ -87,6 +89,7 @@ ausgabe@noun!flasche%1(noun)=édition
 ausgezeichnet@noun!norm%1(adj)=superbe%2(adj)=excellent
 auslass@verb!norm%1(verb)=decharger%2(verb)=omettre
 auslegung@noun!meinfem%1(noun)=interprétation%2(noun)=exégèse
+ausnahme@noun!flasche%1(noun)=exception
 ausreichend@adj!ausreichend%1(adj)=satisfaisant%2(adj)=suffisant
 ausrottung@noun!meinmasc%1(noun)=extermination
 ausseh@verb!norm%1(verb)=avoirlair
@@ -197,6 +200,7 @@ christ@noun!christ%1(noun)=christ
 christel@noun!inv%1(noun)=christel
 christenheit@noun!inv%1(noun)=chrétienté
 da@prep%1(prep)=parce que%2(prep)=et
+dadurch@prep%1(prep)=ainsi%2(prep)=donc
 dafur@prep%1(prep)=au moins
 dagegen@prep%1(prep)=contre
 daher@prep%1(prep)=à partir de là%2(prep)=d'où
@@ -228,6 +232,7 @@ demselben@prep%1(prep)=du même
 demokrat@noun!meinmasc%1(noun)=démocrate
 demokratie@noun!flasche%1(noun)=démocratie
 den@prep%1(prep)=le
+denen@prep%1(prep)=où%2(prep)=qui%3(prep)=dont%4(prep)=auxquels%5(prep)=lesquels
 denk@verb!norm%1(verb)=penser
 denn@prep%1(prep)=car
 denunzier@verb!norm%1(verb)=denoncer
@@ -289,6 +294,7 @@ ein@adj!ausreichend%1(adj)=un
 ein@prep%1(prep)=un
 eingang@noun!meinfem%1(noun)=entrée
 ehelich@adj!ausreichend%1(adj)=marital
+ehrenamter@noun!burger%1(noun)=fonction honorifique
 eigen@adj!ausreichend%1(adj)=propre
 eigentlich@noun!ausreichend%1(noun)=actuel
 eingewandert@adj!ausreichend%1(adj)=immigré
@@ -352,6 +358,7 @@ ev@noun!inv%1(noun)=évangile
 evangelium@noun!inv%1(noun)=évangile
 examen@noun!norm%1(noun)=examen
 explosiv@noun!norm%1(noun)=explosif
+fahigkeit@noun!meinfem%1(noun)=aptitude
 fahr@verb!norm%1(verb)=aller
 falls@prep%1(prep)=si
 fang@verb!norm%1(verb)=commencer
@@ -395,6 +402,7 @@ folg@verb!norm%1(verb)=suivre
 folglich@prep%1(prep)=en conséquence
 ford@verb!norm%1(verb)=encourager%2(verb)=supporter%3(verb)=favoriser
 fort@prep%1(prep)=loin
+fortfuhrung@noun!meinfem%1(noun)=continuité
 frage@noun!flasche%1(noun)=question
 fragezeichen@noun!inv%1(noun)=point d'interrogation
 fragwurdig@adj!ausreichend%1(adj)=discutable
@@ -462,6 +470,7 @@ genugsamkeit@noun!inv%1(noun)=austérité
 gerade@prep%1(prep)=exactement%2(prep)=justement%3(prep)=maintenant
 geratenst@adj!ausreichend%1(adj)=plus accompli
 gerechtfertigt@adj!ausreichend%1(adj)=justifié
+gerechtsame@noun!flasche%1(noun)=droit
 geruhmt@adj!ausreichend%1(adj)=vanté
 gernhaben@verb!irrg%1(verb)=aimer
 gescheh@verb!norm%1(verb)=seproduire
@@ -512,6 +521,7 @@ hallo@noun!inv%1(noun)=allo
 hang@verb!norm%1(verb)=etreattache
 halt@verb!norm%1(verb)=arrêter%2(verb)=tenir
 hand@noun!rest%1(noun)=main
+hang@noun!reis%1(noun)=inclinaison
 hart@adj!ausreichend%1(adj)=difficile
 harte@noun!inv%1(noun)=difficulté
 hass@noun!ort%1(noun)=haine
@@ -806,6 +816,7 @@ nathanael@noun!inv%1(noun)=nathanael
 nebel@noun!arbeiter%1(noun)=nuage
 neh@noun!inv%1(noun)=neh
 naturlich@prep%1(prep)=naturellement
+neben@prep%1(prep)=en outre
 nehm@verb!norm%1(verb)=prendre
 nein@noun!inv%1(noun)=non
 nenn@verb!norm%1(verb)=nommer
@@ -832,6 +843,7 @@ obst@noun!inv%1(noun)=fruits
 oder@prep%1(prep)=ou
 offb@noun!inv%1(noun)=apo
 offenbarung@noun!inv%1(noun)=apocalypse
+offentlich@adj!ausreichend%1(adj)=public
 oft@prep%1(prep)=souvent
 ohne@prep%1(prep)=sans
 okolog@noun!meinmasc%1(noun)=écologiste
@@ -910,6 +922,7 @@ rentner@noun!arbeiter%1(noun)=retraité
 reservier@verb!norm%1(verb)=reserver
 rest@noun!rest%1(noun)=reste
 restaurant@noun!inv%1(noun)=restaurant
+retrospektiv@adj!ausreichend%1(adj)=rétrospectif
 rezipiert@noun!meinmasc%1(noun)=examen
 richard@noun!inv%1(noun)=richard
 rituell@adj!ausreichend%1(adj)=rituel
@@ -1153,6 +1166,7 @@ verabredung@noun!meinmasc%1(noun)=rendez-vous
 verbind@verb!norm%1(verb)=relier
 verbindung@noun!meinmasc%1(noun)=mélange%2(noun)=connexion
 verboten@adj!ausreichend%1(adj)=interdit
+verbunden@adj!ausreichend%1(adj)=relatif
 verfall@noun!arbeiter%1(noun)=décadence
 verfasser@noun!norm%1(noun)=auteur
 verfuhrendst@adj!ausreichend%1(adj)=plus séduisant

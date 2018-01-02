@@ -5,28 +5,32 @@ package org.patrologia.translator.casenumbergenre.greek;
  */
 public class VocativeGreekCase extends GreekCase {
 
-    private static VocativeGreekCase singleton;
-
-    private VocativeGreekCase() {}
-
-    public static VocativeGreekCase getInstance() {
-        if(singleton == null) {
-            singleton = new VocativeGreekCase();
+    public VocativeGreekCase(String differentier) {
+        this.differentier = differentier;
+        if(this.differentier == null || this.differentier.length() == 0) {
+            this.differentier = "foobar";
         }
-        return singleton;
     }
 
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
-        if (!(o instanceof VocativeGreekCase)) return false;
+        if (o == null || getClass() != o.getClass()) return false;
 
-        return  true;//vocatives are equal each others if singleton is corrupted
+        VocativeGreekCase that = (VocativeGreekCase) o;
+
+        return differentier.equals(that.differentier);
+
     }
 
     @Override
-    public String toString() {
-        return "VocativeGreekCase{}";
+    public int hashCode() {
+        return differentier.hashCode();
     }
 
+
+    @Override
+    public String toString() {
+        return "VocativeGreekCase{" + differentier+ "}";
+    }
 }

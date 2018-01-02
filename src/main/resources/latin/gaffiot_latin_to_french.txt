@@ -73,6 +73,7 @@ antiquit@noun!as-atis%1(noun)=temps d'autrefois,antiquite%2(noun)=anciennete%3(n
 aperio@verb!norm%1(verb)=découvrir%2(verb)=ouvrir
 apocalyps@noun!is-is2%1(noun)=apocalypse
 apostolic@adj!us-a-um%1(adj)=apostolique
+appellat@adj!us-a-um%1(adj)=appelé
 appi@noun!a-ae%1(noun)=appia
 appareo@verb!norm%1(verb)=apparaitre
 appello@verb!norm%1(verb)=appeler
@@ -84,6 +85,7 @@ aquitan@adj!us-a-um%1(adj)=aquitain
 aquitani@noun!a-ae%1(noun)=aquitaine
 arbitror@verb!norm%1(verb)=observer%2(verb)=juger
 ascendo@verb!norm%1(verb)=jaillir%2(verb)=grimper%3(verb)=monter
+assumo@verb!norm%1(verb)=accepter%2(verb)=adopter%3(verb)=recevoir
 arabi@noun!a-ae%1(noun)=arabie
 archangel@noun!us-i%1(noun)=archange
 ardor@noun!x-is%1(noun)=ardeur%2(noun)=flamme
@@ -392,6 +394,7 @@ facien@noun!s-tis%1(noun)=faisant
 facile@prep%1(prep)=facile
 facilius@prep%1(prep)=plus facile
 fact@adj!us-a-um%1(adj)=fait
+fals@adj!us-a-um%1(adj)=trompé
 famili@noun!a-ae%1(noun)=ensemble des esclaves de la maison, le personnel des esclaves%2(noun)=maison de famille%3(noun)=corps, secte, troupe, école%4(noun)=la famille de Dieu, l'Église%5(noun)=famille
 familiarita@noun!s-tis2%1(noun)=familiarité%2(noun)=amitié très proche%3(noun)=intimité
 famul@noun!us-i%1(noun)=esclave
@@ -489,6 +492,8 @@ hujusce@prep%1(prep)=de ce
 hujuscemodi@prep%1(prep)=de ce type
 humanita@noun!s-tis2%1(noun)=civilisation%2(noun)=courtoisie%3(noun)=humanité
 hum@noun!us-i%1(noun)=humus%2(noun)=terre
+human@adj!us-a-um%1(adj)=humain
+hunc@prep%1(prep)=ce
 hymn@noun!us-i%1(noun)=hymne
 i@prep%1(prep)=i
 id@prep%1(prep)=ce
@@ -527,6 +532,7 @@ indign@adj!us-a-um%1(adj)=indigne
 induco@verb!norm%1(verb)=conduire dans,contre,vers%2(verb)=faire avancer%3(verb)=appliquer sur,recouvrir%4(verb)=etendre%5(verb)=prendre en compte,inscrire%6(verb)=se resoudre a,se mettre dans l'idee que%7(verb)=representer,mettre en scene%8(verb)=conduire
 induct@adj!us-a-um%1(adj)=introduit%2(adj)=exhibé%3(adj)=conduit
 indut@adj!us-a-um%1(adj)=assumé
+infand@adj!us-a-um%1(adj)=innomable
 inferi@adj!or-or-us%1(adj)=inférieur
 infero@verb!norm%1(verb)=infliger%2(verb)=attaquer%3(verb)=porter
 infigo@verb!norm%1(verb)=fermer%2(verb)=implanter%3(verb)=reparer
@@ -633,6 +639,7 @@ lugend@adj!us-a-um%1(adj)=qui doit être plaint
 luminar@noun!e-is%1(noun)=luminaire
 m@prep%1(prep)=m
 maest@adj!us-a-um%1(adj)=triste
+magis@prep%1(prep)=mieux
 magist@noun!er-ri%1(noun)=maître%2(noun)=rabbin%3(noun)=professeur
 magn@adj!us-a-um%1(adj)=grand
 magnific@adj!us-a-um%1(adj)=magnifique
@@ -740,6 +747,7 @@ numquam@prep%1(prep)=jamais
 o@prep%1(prep)=ô
 o@noun!s-ris%1(noun)=parole
 ob@prep%1(prep)=contre%2(prep)=à cause de%3(prep)=vers
+obscenit@noun!as-atis%1(noun)=défavorable
 observat@adj!us-a-um%1(adj)=observé
 observo@verb!norm%1(verb)=observer
 obtineo@verb!norm%1(verb)=posseder
@@ -923,6 +931,7 @@ quot@prep%1(quot)=combien
 recipio@verb!norm%1(verb)=recevoir
 recitati@noun!o-onis%1(noun)=lecture
 rect@adj!us-a-um%1(adj)=droit
+redimo@verb!norm%1(verb)=racheter
 regin@noun!a-ae%1(noun)=reine
 regio@noun!x-nis%1(noun)=sol%2(noun)=région%3(noun)=frontière%4(noun)=direction
 regn@noun!um-i%1(noun)=autorite royale, royaute, monarchie, trone%2(noun)=souverainete, autorite toute puissante%3(noun)=aspirer a la royaute (pejoratif chez les romqins de l'epoque republicaine)%4(noun)=royaume
@@ -981,6 +990,7 @@ sanguine@adj!us-a-um%1(noun)=sanglant
 sardini@noun!a-ae%1(noun)=sardaigne
 satio@verb!norm%1(verb)=satisfaire
 satis@prep%1(prep)=suffisament
+scel@noun!us-eris%1(noun)=crime
 schol@noun!a-ae%1(noun)=secte%2(noun)=ensemble de disciples%3(noun)=école%4(noun)=leçon
 scienti@noun!a-ae%1(noun)=savoir
 scio@verb!nom%1(verb)=savoir
@@ -998,6 +1008,7 @@ semen@noun!x-is%1(noun)=descendance%2(noun)=semence
 sement@noun!is-is%1(noun)=semence
 semet@prep%1(prep)=lui-même
 semper@prep%1(adv)=une fois pour toutes%2(adv)=tout le temps,sans cesse%3(adv)=toujours
+senat@noun!us-us%1(noun)=sénat
 sententi@noun!a-ae%1(noun)=phrase%2(noun)=décision%3(noun)=opinion
 separo@verb!norm%1(verb)=separer
 septem@prep%1(num)=sept

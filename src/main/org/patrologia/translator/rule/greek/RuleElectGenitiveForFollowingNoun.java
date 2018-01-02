@@ -22,7 +22,7 @@ public class RuleElectGenitiveForFollowingNoun extends GreekRule {
     @Override
     public void apply(Word word, Phrase phrase, int position) {
         Word nextWord = phrase.getWordContainerAtPosition(position + 1).getUniqueWord();
-        GenitiveGreekCase genitive = GreekCaseFactory.getGenitive();
+        GenitiveGreekCase genitive = new GenitiveGreekCase("");
         if(checkByGender(new Gender(Gender.MASCULINE), nextWord, genitive)) updatePreposition(word);
         if(checkByGender(new Gender(Gender.FEMININE), nextWord, genitive)) updatePreposition(word);
         if(checkByGender(new Gender(Gender.NEUTRAL), nextWord, genitive)) updatePreposition(word);

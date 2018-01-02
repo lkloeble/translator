@@ -9,3 +9,4 @@ AORPASSIMP=>-,-,-,-,-,ωσαν
 AIP=>-,-,εν,-,-,-
 PRMIDPASSDEPPART=>-,-,μενοις,-
 IMPMIDPASSIND=>-,-,-,-,εσθε,-
+PERACTPAR=>νεναι,νως,νυια,νος

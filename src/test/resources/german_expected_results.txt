@@ -242,6 +242,14 @@ strackp1notBF=>prosélyte(s), affranchi(s), batard(s), nethinim, shetuqim et. en
 strackp1notBG=>la sont shetuqim : (des) chaque(s)@(du) chaque(e)@chaque@, le son mère connait et. son père pas connait ( dont le père [XXX] [XXX] [XXX] [XXX] permis reste ), et. enfant errant(s) :
 strackp1notBH=>(des) chaque(s)@(du) chaque(e)@chaque@, le de le rue(e) ramassé est et. ni père encore mère connait. tout(e)@tout(s)@, la pas dans la communauté(e) ( israël ) entrent/entrer être autorisé à un autre (du) marital@marital@marital(s)(e)@.
 
+strackp3A=>la liste(e) et. continuité(e) (des) généalogique(s)@(du) généalogique(e)@généalogique@ registre devint donc nécessaire, que pour sers sur sanctuaire et. vers le de façon que (du) relatif@relatif@relatif(s)(e)@ droit(s)(e), comme aussi vers (du) public@public@public(s)(e)@ fonction honorifique(s),
+strackp3B=>foo
+strackp3C=>foo
+strackp3D=>foo
+strackp3E=>foo
+strackp3F=>foo
+strackp3G=>foo
+
 genesis1A=>au commencement créa dieu (des) ciel(s) et terre(e).
 genesis1B=>et la terre(e) était informe et vide, et cela était obscurité au dessus de le profonde(e)@profonde(s)@profondeur@; et le esprit de dieu plana/planait au dessus de du eau.
 genesis1C=>et dieu dit : il deviens lumière ! et il était lumière.
@@ -350,7 +358,8 @@ nietzscheBookGTversuchChap2B'=>Mais le livre où j’épanchai alors la défianc
 nietzscheBookGTversuchChap2B=>mais le livre, dans du mon@pense@ (des) jeune(s)@(du) jeune(e)@jeune@ courage et défiance se à ce moment ommettait – quoi pour un impossible cela livre devait de (des) un(s)@(du) un(e)@un@ alors jeune (du) adverse exercice(e) grandi/grandir/grandissent !
 nietzscheBookGTversuchChap2C'=>— construit seulement à l’aide de sensations personnelles précoces et hâtives, effleurant l’extrême limite de ce qui peut s’exprimer, appuyé par ses fondations sur le terrain de l’art, — car le problème de la science ne peut être résolu sur le terrain de la science ;
 nietzscheBookGTversuchChap2C=>construit de plein de (du) précoce@précoce@précoce(s)(e)@ sur (du) vert soi-même expérience(s)(e) après, quel(e)@quel(s)@ tout(e)@tout(s)@ difficile sur le seuil(e) du (du) communicable@communicable@communicable(s)(e)@ situation(s)(e), décris au dessus de le terrain le art – car le problème le science(e) peut pas au dessus de du terrain le science(e) identifié devenir
-nietzscheBookGTversuchChap2D=>— un livre s’adressant peut-être à des artistes possédant par surcroît des aptitudes spéciales pour l’analyse et la comparaison (c’est-à-dire à une espèce exceptionnelle d’artistes, qu’il faut chercher et qu’on ne voudrait même pas chercher…),
+nietzscheBookGTversuchChap2D'=>— un livre s’adressant peut-être à des artistes possédant par surcroît des aptitudes spéciales pour l’analyse et la comparaison (c’est-à-dire à une espèce exceptionnelle d’artistes, qu’il faut chercher et qu’on ne voudrait même pas chercher…),
+nietzscheBookGTversuchChap2D=>–, un livre peut-être pour artiste avec du en outre inclinaison(s) (des) analytique(s)@(du) analytique(e)@analytique@ et (des) rétrospectif(s)@(du) rétrospectif(e)@rétrospectif@ aptitude(s)(e) ( ceci nommais/nomme pour un(e)@un(s)@ exception(e) style de artiste(s), à lesquels on cherchent/chercher dois et pas un fois cherchent/chercher veux... ),
 nietzscheBookGTversuchChap2E=>bourré d’innovations psychologiques et de mystérieux secrets d’artiste, avec, au fond du tableau, une métaphysique d’artiste ; une oeuvre de jeunesse, pleine d’ardeur et de mélancolie juvéniles, indépendante, obstinément intransigeante, même si elle semble céder à une autorité ou à une déférence particulière, en un mot une oeuvre de début, voire dans le sens fâcheux de l’expression ; entachée, en dépit des allures séniles du problème, de tous les défauts de la jeunesse, avant tout, de ses longueurs excessives, de ses élans tumultueux et de ses violences.
 nietzscheBookGTversuchChap2F=>D’autre part, en considération du succès qu’il obtint (particulièrement auprès du grand artiste auquel il s’adressait comme une manière de colloque, Richard Wagner), un vrai livre, je veux dire un livre qui, en tous cas, a donné satisfaction aux « meilleurs de son temps ».
 nietzscheBookGTversuchChap2G=>Cette seule raison lui mériterait quelque déférence et certains égards ;

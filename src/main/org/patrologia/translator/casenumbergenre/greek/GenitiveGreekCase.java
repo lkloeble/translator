@@ -7,7 +7,7 @@ public class GenitiveGreekCase extends GreekCase {
 
     public GenitiveGreekCase(String differentier) {
         this.differentier = differentier;
-        if(this.differentier == null) {
+        if(this.differentier == null || this.differentier.length() == 0) {
             this.differentier = "foobar";
         }
     }

@@ -222,6 +222,7 @@
 επιεικ@adj!ης-ης-ες%1(adj)=raisonnable
 επιστολ@noun!η-ης%1(noun)=lettre
 επιστροφ@noun!η-ης%1(noun)=retour
+επιτρεπ@verb!norm%1(verb)=permettre%2(verb)=instruire
 επιφερ@verb!norm%1(verb)=poser
 επιφρασσ@verb!norm%1(verb)=bloquer
 επτακαιεικοσα@noun!inv%1(noun)=dix sept fois
@@ -302,6 +303,7 @@
 ισραηλ@noun!inv%1(noun)=Israël
 ιουδαι@noun!ος-ου%1(noun)=juif
 ιουδαι@noun!α-ας%1(noun)=judée
+ιχθ@noun!υς-υος%1(noun)=poisson
 ιωαθαμ@noun!inv%1(noun)=joatham
 ιωανν@noun!ης-ου%1(noun)=jean
 ιωραμ@noun!inv%1(noun)=joram
@@ -389,6 +391,7 @@
 μετανοι@noun!α-ας%1(noun)=conversion%2(noun)=repentance
 μετεωρ@noun!ος-ου%1(noun)=en l'air
 μετοικεσι@noun!α-ας%1(noun)=déportation
+μετρι@adj!ος-α-ον%1(adj)=moyen%2(adj)=mesuré
 μια@noun!inv%1(noun)=un
 μιαν@noun!inv%1(noun)=un
 μιαρ@noun!ος-α-ον%1(masc)=taché%2(noun)=souillé%3(noun)=pollué
@@ -407,9 +410,11 @@
 μυστηρι@noun!ον-ου%1(noun)=sacrement%2(noun)=mystère
 να@noun!ος-ου%1(noun)=temple
 ναασσων@noun!inv%1(noun)=naason
+νε@adj!ος-α-ον%1(adj)=nouveau
 νεανι@noun!ας-ου%1(noun)=jeune homme
 νεκρ@adj!ος-α-ον%1(adj)=mort
 νεφελ@noun!η-ης%1(noun)=nuée%2(noun)=nuage
+νοε@verb!norm%1(verb)=observer
 νομ@noun!ος-ου%1(noun)=loi
 νομιμ@noun!ος-ου%1(noun)=légitime%2(noun)=légal
 νομιζ@verb!norm%1(verb)=reconnaitre%2(verb)=pratiquer%3(verb)=considerer
@@ -614,9 +619,11 @@
 τουνομα@noun!inv%1(noun)=nommé
 τοπ@noun!ος-ου%1(noun)=place%2(noun)=lieu
 τοσουτ@adj!ος-η-ον%1(adj)=si grand
-τους@prep%1(prep)=les
 του@prep%1(prep)=de
 τουδε@prep%1(prep)=de lui
+τους@prep%1(prep)=les
+τουτεστι@prep%1(prep)=c'est à dire
+τουτεστιν@prep%1(prep)=c'est à dire
 τουτο@prep%1(prep)=ce
 τουτου@prep%1(prep)=ce
 τουτω@prep%1(prep)=à ce
@@ -626,6 +633,7 @@
 τω@prep%1(prep)=au
 των@prep%1(prep)=aux
 οφθαλμ@noun!ος-ου%1(noun)=oeil
+υγρ@noun!ο-ου%1(noun)=fluide
 υδωρ@noun!x-ος%1(noun)=humidité%2(noun)=pluie%3(noun)=eau
 υδ@noun!α-ατος%1(noun)=humidité%2(noun)=pluie%3(noun)=eau
 υι@noun!ος-ου%1(noun)=fils

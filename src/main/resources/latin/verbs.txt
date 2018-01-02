@@ -25,6 +25,7 @@ appon,o,is,ere,,,[o-is]
 arbitr,or,aris,ari,,,[or-aris]
 ascend,o,is,ere,,,[o-is]
 assequ,or,eris,ere,,,[or-eris]
+assum,o,is,ere,,,[o-is],(IAP*assum*assumps*0)
 atting,o,is,ere,,,[o-is]
 aud,io,is,ire,veni,ventum,[io-is],(AIP*audi*audiv*0)
 benedic,o,is,ere,foobar,foobar,[o-is],(AIP*benedic*benedix*0)
@@ -53,8 +54,8 @@ conpl,eo,es,ere,,,[eo-es],(AIP*conpl*conplev*0)
 consecr,o,as,are,,,[o-as]
 conserv,o,as,are,,,[o-as]
 constitu,o,is,ere,,,[o-is],(IAP*constituidi*constitui*0)
-consum,o,is,ere,,,[o-is],(IAP*consumidisse*consumpsisse*0)
-contend,o,is,ere,,,[o-is],(IAP*contendidisse*contendisse*0)
+consum,o,is,ere,,,[o-is],(IAP*consum*consumps*0)
+contend,o,is,ere,,,[o-is]
 contin,eo,es,ere,,,[eo-es]
 conven,io,is,ire,veni,ventum,[io-is]
 convinc,o,is,ere,,,[o-is]
@@ -84,7 +85,7 @@ domin,or,aris,ari,,,[or-aris]
 don,o,as,are,edi,atum,[o-as]
 dorm,io,is,ire,,,[io-is]
 duc,o,is,ere,foobar,foobar,[o-is],(AIP*duc*dux*0)
-ed,o,is,ere,foobar,foobar,[o-is]
+ed,o,is,ere,foobar,foobar,[o-is],(IAP*ed*edid*0)
 edoc,eo,es,ere,,,[eo-es]
 effer,o,s,re,tuli,latum,[o-s],(AIP*effer*extul*0)
 effic,io,is,ere,,,[io-is],[AIP=effec]
@@ -195,6 +196,7 @@ public,o,as,are,,,[o-as]
 puls,o,as,are,,,[o-as]
 qu,eo,is,ire,,,[eo-is],(AIP*qu*zzz*0@AIMP*qu*zzz*0)
 recip,io,is,ere,,,[io-is],(AIP*recip*recep*0)
+redim,o,is,ere,,,[o-is]
 regn,o,as,are,,,[o-as]
 reg,o,is,ere,,,[o-is]
 relinqu,o,is,ere,,,[o-is],(AIP*relin*reli*0)

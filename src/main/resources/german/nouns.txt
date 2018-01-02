@@ -16,6 +16,7 @@ alpen@fem%inv
 alt@adj%ausreichend
 altest@adj%ausreichend
 amerikanisch@adj%ausreichend
+analytisch@adj%ausreichend
 anarchisch@adj%ausreichend
 angeblich@adj%ausreichend
 ander@adj%ausreichend
@@ -50,6 +51,7 @@ asthetisch@adj%ausreichend
 aufgabe@fem%flasche
 aufgewendet@adj%ausreichend
 aufregend@adj%ausreichend
+aufstellung@fem%meinfem
 aufwiederhoren@neut%inv
 aufwiedersehen@neut%inv
 auge@neut%flasche
@@ -59,6 +61,7 @@ ausflucht@fem%angst
 ausgabe@fem%flasche
 ausgezeichnet@neut%norm
 auslegung@fem%meinfem
+ausnahme@fem%flasche
 ausreichend@adj%ausreichend
 ausrottung@neut%meinmasc
 ausserung@neut%meinmasc
@@ -161,6 +164,7 @@ durst@neut%inv
 dumm@neut%inv
 egoistisch@adj%inv
 ehelich@adj%ausreichend
+ehrenamter@neut%burger
 eigen@adj%ausreichend
 eigentlich@adj%ausreichend
 ein@adj%ausreichend
@@ -201,6 +205,7 @@ ev@neut%inv
 evangelium@neut%inv
 explosiv@neut%norm
 examen@neut%norm
+fahigkeit@fem%meinfem
 faktor@masc%autor
 falschheit@fem%meinfem
 familie@fem%flasche
@@ -231,6 +236,7 @@ florenz@fem%inv
 flote@fem%norm
 flug@neut%meinmasc
 flugzeug@neut%meinmasc
+fortfuhrung@fem%meinfem
 frage@fem%flasche
 fragezeichen@neut%inv
 fragwurdig@adj%ausreichend
@@ -285,6 +291,7 @@ genues@adj%ausreichend
 genugsamkeit@neut%inv
 geratenst@adj%ausreichend
 gerechtfertigt@adj%ausreichend
+gerechtsame@fem%flasche
 geruhmt@adj%ausreichend
 gesamt@adj%ausreichend
 gesammelt@adj%ausreichend
@@ -324,6 +331,7 @@ gut@adj%mein
 halb@adj%inv
 hallo@neut%inv
 hand@fem%rest
+hang@masc%reis
 hart@adj%ausreichend
 harte@fem%inv
 hass@masc%ort
@@ -551,6 +559,7 @@ objektiv@neut%norm
 obst@neut%inv
 offb@neut%inv
 offenbarung@fem%inv
+offentlich@adj%ausreichend
 okolog@neut%meinmasc
 oper@neut%flasche
 original@neut%original
@@ -617,6 +626,7 @@ rente@fem%flasche
 rentner@masc%arbeiter
 rest@masc%rest
 restaurant@neut%inv
+retrospektiv@adj%ausreichend
 rezipiert@masc%meinmasc
 richard@neut%inv
 rituell@adj%ausreichend
@@ -780,6 +790,7 @@ vaterschaft@fem%meinfem
 verabredung@masc%meinmasc
 verbindung@masc%meinmasc
 verboten@adj%ausreichend
+verbunden@adj%ausreichend
 verfall@masc%arbeiter
 verfasser@masc%norm
 verfuhrendst@adj%ausreichend

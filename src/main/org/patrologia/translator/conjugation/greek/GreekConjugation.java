@@ -20,6 +20,7 @@ import java.util.List;
  * PAINPRMIPA => PArticiple INfinitive PResent MIddlePAssive
  * PAINPRMI => PArticiple INfinitive PResent PAssive
  * PEPASPAR => PErfect PASsive PARticiple
+ * PERACTPAR => PERfect ACTive PARticiple
  * AORPASOPT =>AORist PASsive OPTative
  * AORPASIND =>AORist PASsive INDicative
  * AORACTINF => AORist ACTive INFinitive
@@ -41,7 +42,7 @@ import java.util.List;
  */
 public class GreekConjugation extends Conjugation {
 
-    protected static List<String> times = Arrays.asList(new String[]{"IPR","AII","ACAOIM","ACAOIN","PEACIN","PRPARPASS","PII","ACOPPR","PAAOIM","MIAOIN","PAINPRAC","PEPASPAR","AORPASOPT","AORPASIND","AORACTINF","PASANT","AORPASSPART","PARAORINFACT","AORPASDEP","PARAORINFPAS","AORPASSPART","ACAOOP","AORMIDDIND","FUTPARTACT","IMPMIDPASSIND","PRESACTPART","PRMIDPASSDEPPART","PRESPASPART"});
+    protected static List<String> times = Arrays.asList(new String[]{"IPR","AII","ACAOIM","ACAOIN","PEACIN","PRPARPASS","PII","ACOPPR","PAAOIM","MIAOIN","PAINPRAC","PEPASPAR","AORPASOPT","AORPASIND","AORACTINF","PASANT","AORPASSPART","PARAORINFACT","AORPASDEP","PARAORINFPAS","AORPASSPART","ACAOOP","AORMIDDIND","FUTPARTACT","IMPMIDPASSIND","PRESACTPART","PRMIDPASSDEPPART","PRESPASPART","PERACTPAR"});
 
     private String conjugationFilePath;
     private ConjugationLoader conjugationLoader = new ConjugationLoader();

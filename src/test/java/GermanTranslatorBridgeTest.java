@@ -466,7 +466,24 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
 
     @Test
     public void test_talmud_help_strack2() {
-        assertTrue(false);//TODO à remplir
+        checkInMaps("strackp3A", translatorBridge);
+        checkInMaps("strackp3B", translatorBridge);
+        checkInMaps("strackp3C", translatorBridge);
+        checkInMaps("strackp3D", translatorBridge);
+        checkInMaps("strackp3E", translatorBridge);
+        checkInMaps("strackp3F", translatorBridge);
+        checkInMaps("strackp3G", translatorBridge);
+        checkInMaps("strackp3H", translatorBridge);
+        checkInMaps("strackp3notA", translatorBridge);
+        checkInMaps("strackp3notB", translatorBridge);
+        checkInMaps("strackp3notC", translatorBridge);
+        checkInMaps("strackp3notD", translatorBridge);
+        checkInMaps("strackp3notE", translatorBridge);
+        checkInMaps("strackp3notF", translatorBridge);
+        checkInMaps("strackp3notG", translatorBridge);
+        checkInMaps("strackp3notH", translatorBridge);
+        checkInMaps("strackp3notI", translatorBridge);
+        checkInMaps("strackp3notJ", translatorBridge);
     }
 
         @Test

@@ -22,7 +22,7 @@ public class RuleElectDativeForFollowingNoun extends GreekRule {
     @Override
     public void apply(Word word, Phrase phrase, int position) {
         Word nextWord = phrase.getWordContainerAtPosition(position + 1).getUniqueWord();
-        DativeGreekCase dative = GreekCaseFactory.getDative();
+        DativeGreekCase dative = new DativeGreekCase("");
         if(checkByGender(new Gender(Gender.MASCULINE), nextWord, dative))  updatePreposition(word);
         if(checkByGender(new Gender(Gender.FEMININE), nextWord, dative)) updatePreposition(word);
         if(checkByGender(new Gender(Gender.NEUTRAL), nextWord, dative)) updatePreposition(word);

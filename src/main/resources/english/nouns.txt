@@ -102,6 +102,7 @@ businesse@masc%invmasc
 busy@neut%invmasc
 byanychance@neut%invmasc
 bytheway@neut%invmasc
+caesarea@neut%invmasc
 cain@masc%invmasc
 calor@fem%endy
 cambridge@neut%invmasc
@@ -840,6 +841,7 @@ tm@neut%invmasc
 today@neut%invmasc
 toil@neut%invmasc
 torment@neut%normmasc
+tower@neut%normmasc
 town@fem%normfem
 tractate@neut%normmasc
 trade@masc%normmasc
@@ -884,6 +886,7 @@ vol@neut%invmasc
 volume@neut%normmasc
 waiter@masc%normmasc
 wales@neut%invmasc
+wall@neut%normmasc
 war@neut%normmasc
 washing@neut%invmasc
 washingup@neut%invmasc

@@ -393,7 +393,7 @@ filocalia1M=>Prima redacție (977B-1000B) e o traducere de la 1516 a lui Symphor
 filocalia1N=>a doua, care cuprinde un text mai larg, tradus după un manuscris arab, o formează primele șapte epistole din cele douăzeci date toate sub numele lui Antonie (999C-1066B), din care însă pe cele treisprezece din urmă (1015D-1066B) Klejna le-a dovedit că sînt ale lui Ammonas, ucenicul și urmașul lui Antonie la conducerea chinoviei de la Pispir.
 filocalia1O=>în timpul mai nou a început să fie descoperit și  textul copt, cel original, al unora din aceste epistole.
 filocalia1P=>O. Bardenhewer (Geschichte der altkirchlichen Literatur, Vol III, ed. a II-a Herder, Freiburg im Breisgau, p 81) scria la 1923, pînă nu se dovedise că aceste epistole sînt ale lui Antonie, că ele nu pot fi ale lui și din motivul că sînt prea de cuprins general și lipsite de putere și de sevă ca să fie de la marele ascet
-filocalia1Q=>cum stăm însă cu autenticitatea celor 170 de capete pe care Nicodim Aghioritul, care a trăit la sfîrșitul veacului al XVIII-lea, le-a așezat în fruntea Filocaliei ?
+filocalia1Q=>cum stăm însă cu autenticitatea celor 170 de capete pe care |Nicodim| |Aghioritul|, care a trăit la sfîrșitul veacului al XVIII-lea, le-a așezat în fruntea Filocaliei ?
 filocalia1R=>Nici Bardenhewer, nici Viller-Rahner, din care iau aceste însemnări, nu le pomenesc între scrierile atribuite lui Antonie.
 filocalia1S=>Ele nu se cuprind nici în Patrologia lui Migne.
 filocalia1T=>Nu știm, de asemenea, după ce manuscris le-a luat Nicodim Aghioritul.
@@ -435,7 +435,7 @@ bocaseumplu7G=>à saisir
 
 patericulegyptantonie1A=>Sfântul avva Antonie, șezând odată în deșert, a fost cuprins de acedie și de o mare întunecare de gânduri.
 patericulegyptantonie1B=>și zicea către Dumnezeu :
-patericulegyptantonie1C=>"Domane, vreau să mă mântuiesc, și nu mă lasă gândurile.
+patericulegyptantonie1C=>"Doamne, vreau să mă mântuiesc, și nu mă lasă gândurile.
 patericulegyptantonie1D=>Ce voi face în necazul meu ? cum mă va mântui ?"
 patericulegyptantonie1E=>și sculându-se puțin, a ieșit afarăși a văzut pe cineva ca pe sine șezând și lucrând, apoi sculându-se de la lucru și rugându-se, apoi iarăși sculându-se la rugăciune.
 patericulegyptantonie1F=>acesta era un înger al Domnului, trimis spre îndreptarea și încredințarea lui Antonie.

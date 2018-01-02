@@ -14,4 +14,4 @@ PSI=>erer,ereris,eretur,eremur,eremini,erentur
 IAPP=>i,us esse,um iri
 PAPR=>ens
 AIMP=>xxx,e,xxx,xxx,ite,xxx
-IAP=>idisse
+IAP=>isse

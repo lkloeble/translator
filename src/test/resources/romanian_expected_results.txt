@@ -277,7 +277,7 @@ assimil19H=>ne est parlait@à propos@ de celui-ci, mais ne apprécie du tout pla
 assimil19I=>préfères souvenir(s)(e) son de la armée(e) ? anecdote(s)(e) son piquant(e) ?
 assimil19J=>es mal avec lui ! est un homme de la vie(e), gai et bien disposé !
 assimil19K=>a une voix(e) splendide(e) et chante bien !
-assimil19L=>oui, il chante bien et fort ! il mange bien et boit bien, jusqu'à l'aube
+assimil19L=>donne@oui@, chante bien et fort ! mange/manger bien et boit bien, jusqu'à dans aube !
 assimil19M=>chaque fois qu'il vient en visite, nous avons du scandale avec les voisins
 assimil19N=>il vide toutes les bouteilles et ensuite il casse les verres contre les murs
 assimil19O=>tant mieux, nous ne devons plus laver
@@ -310,7 +310,7 @@ assimil20T=>foo
 
 
 
-staniloae1A=>la révélation(e) naturel(e) que la base(e) de (du) croyance(e) naturel(e) et de (du) un sens de (du) existence(e)
+staniloae1A=>la révélation(e) naturel(e) que la base(e) de croyance(e) naturel(e) et de (du) un sens de existence(e)
 staniloae1B=>la église(e) la orthodoxe(e) ne fait une séparation(e) entre la révélation(e) naturel(e) et celle surnaturelle(e).
 staniloae1C=>la révélation(e) naturel(e) est connu(e) et comprise plein dans la lumière(e) (du) révélation(e) surnaturelle(e);
 staniloae1D=>ou la révélation(e) naturel(e) est donné(e) et maintenu(e) de dieu dans suite(e) par action(e) de lui au-dessus de la nature(e).
@@ -333,7 +333,7 @@ staniloae1T=>nous considèrons que la rationalité(e) (du) cosmos est une témoi
 staniloae1U=>sur de autre(e) partie(e), le cosmos lui-même serait sans sens ensemble avec la rationalité(e) son si ne serait donné(e) la raison(e) humain(e) qui  le connaisse sur la base(e) (du) rationalité(e) de.
 staniloae1V=>dans la croyance(e) notre, la rationalité(e) (du) cosmos a un sens seulement si est pensé avant de création(e) et dans toute la suite(e) son de une essence(e) créatrice expérimenté(e), étant apporté à la existence(e) pour ah être connu de une essence(e) pour qui est créé et, par ceci, pour réaliser entre lui-même et cette la essence(e) rationnel(e) créé(e) un dialogue par la intercession(e) son.
 staniloae1W=>ce fait constitue le contenu (du) révélation(e) naturel(e).
-staniloae1X=>ce chose mais le affirme et la révélation(e) chrétien(e) surnaturelle(e) par la enseignement(e) que (du) position(e) originaire créatrice et conservatrice de lui dieu dans la visage(e) (du) monde(e) leur correspond, sur un plan plus descendu ou de la dépendance(e), la position(e) notre de la essence(e) expérimenté(e) et manufacturier de (du) nature(e), que visage de son dieu.
+staniloae1X=>ce chose mais le affirme et la révélation(e) chrétien(e) surnaturelle(e) par la enseignement(e) que position(e) originaire créatrice et conservatrice de lui dieu dans la visage(e) (du) monde(e) leur correspond, sur un plan plus descendu ou de la dépendance(e), la position(e) notre de la essence(e) expérimenté(e) et manufacturier de (du) nature(e), que visage de son dieu.
 staniloae1Y=>dans ceci position(s)(e) de (du) homme, se montre que la monde(e) a une rationalité(e) pour ah être connu(e) de nous – essence(s)(e) rationnel(e).
 staniloae1Z=>de cela elle il faut que  aie la origine(e) dans une la essence(e) qui ah poursuivi par la création(e) (du) monde(e) – et poursuit par la préservation(e) ils – la compréhension(e) (du) monde(e), et par elle elle-même et la compréhension(e) ils de vers homme.
 staniloae1AA=>nous apparaissons que unique(e) la essence(e) qui, relevant (du) monde(e) visible(e) et imprimé(e) de rationalité(e), est conscient(e) de ceci rationalité(e) ah ils et, une fois avec ceci, de lui-même elle-même.
@@ -388,8 +388,8 @@ bocaseumplu7F=>foo
 bocaseumplu7G=>foo
 
 patericulegyptantonie1A=>saint avva antoine, assis une fois dans désert, a été comporté de acédie et de une grand@mer(e)@ obscurité de pensée(s).
-patericulegyptantonie1B=>foo
-patericulegyptantonie1C=>foo
+patericulegyptantonie1B=>et disait vers dieu :
+patericulegyptantonie1C=>seigneur, veux  me sauve, et ne me laisse pensée(s).
 patericulegyptantonie1D=>foo
 patericulegyptantonie1E=>foo
 patericulegyptantonie1F=>foo
