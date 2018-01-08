@@ -473,6 +473,7 @@ logisch@adj%ausreichend
 losend@adj%ausreichend
 lukas@masc%inv
 magazin@masc%norm
+makellos@adj%ausreichend
 mal@neut%meer
 maler@masc%burger
 maltechnik@fem%meinfem

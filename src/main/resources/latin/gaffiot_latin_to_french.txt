@@ -214,6 +214,7 @@ consumo@verb!norm%1(verb)=consommer
 contendo@verb!norm%1(verb)=provoquer
 continenter@prep%1(prep)=continuellement
 contineo@verb!norm%1(verb)=entourer
+contingo@verb!norm%1(verb)=polluer%2(verb)=affecter%3(verb)=atteindre%4(verb)=toucher
 contrit@adj!us-a-um%1(adj)=contrit
 controversi@noun!a-ae%1(noun)=contradiction%2(noun)=procès%3(noun)=dispute
 convent@adj!us-a-um%1(adj)=réuni
@@ -365,6 +366,7 @@ esc@noun!a-ae%1(noun)=nourriture
 et@prep%1(prep)=et
 etenim@prep%1(prep)=parce  que
 etiam@prep%1(prep)=bien plus%2(prep)=même
+etsi@prep%1(prep)=bien que%2(prep)=néanmoins
 euboe@noun!a-ae%1(noun)=eubée
 eum@prep%1(prep)=le
 europ@noun!a-ae%1(noun)=europe
@@ -542,6 +544,7 @@ inimic@noun!us-i%1(noun)=ennemi
 initi@noun!um-i%1(noun)=commencement
 inlumino@verb!norm%1(verb)=illuminer
 innocenti@noun!a-ae%1(noun)=innocence
+innumer@adj!us-a-um%1(adj)=innombrable
 inquam@verb!irrg%1(verb)=dire
 inquie@adj!s-tis%1(noun)=non tranquille
 inrigan@adj!s-tis%1(adj)=irriguant
@@ -632,6 +635,7 @@ lu@noun!x-cis%1(noun)=lumiere
 luceo@verb!norm%1(verb)=apparaitre%2(verb)=devenir visible%3(verb)=briller
 luci@noun!us-i%1(noun)=lucius
 lucubrati@noun!o-onis%1(noun)=travail nocturne
+luculentissim@adj!us-a-um%1(adj)=le plus brillant
 lud@noun!us-i%1(noun)=école%2(noun)=jeu
 ludo@verb!norm%1(verb)=jouer
 lugdunens@adj!is-is-e%1(adj)=lyonnais
@@ -686,6 +690,7 @@ minime@prep%1(prep)=très peu
 minist@noun!er-ri%1(noun)=serviteur, domestique%2(noun)=ministre, instrument, agent%3(noun)=intermediaire%4(noun)=pretre de dieu (christianisme)%5(noun)=ministre
 ministeri@noun!um-i%1(noun)=ministère
 mir@adj!us-a-um%1(adj)=merveilleux
+miracul@noun!um-i%1(noun)=miracle
 misceo@verb!norm%1(verb)=melanger
 misericordi@noun!a-ae%1(noun)=miséricorde
 miss@adj!us-a-um%1(adj)=envoyé
@@ -696,6 +701,8 @@ mon@noun!s-tis2%1(noun)=montagne
 moneo@verb!norm%1(verb)=avertir%2(verb)=conseiller%3(verb)=enseigner
 monit@adj!us-a-um%1(adj)=averti
 monument@noun!um-i%1(noun)=tombe%2(noun)=monument%3(noun)=rappel
+mor@noun!s-tis%1(noun)=mort
+morien@adj!s-s-s%1(adj)=mourant
 mortu@adj!us-a-um%1(noun)=mort
 motabil@adj!is-is-e%1(adj)=mobile
 moveo@verb!norm%1(verb)=bouger
@@ -711,7 +718,7 @@ mysteri@noun!um-i%1(noun)=mystère
 nam@prep%1(prep)=car
 narro@verb!norm%1(verb)=raconter
 nas@noun!us-i%1(noun)=nez
-nascen@noun!s-tis%1(noun)=né%2(noun)=naissant
+nascen@noun!s-s-s%1(noun)=né%2(noun)=naissant
 nat@adj!us-a-um%1(adj)=né
 nat@noun!us-us%1(noun)=fils%2(noun)=naissance%3(noun)=années%4(noun)=âge
 natur@noun!a-ae%1(noun)=nature
@@ -808,8 +815,10 @@ pene@noun!inv%1(noun)=[pene trad non trouvée]
 penit@adj!us-a-um%1(noun)=intérieur
 per@prep%1(prep)=au moyen de%2(prep)=par
 perduco@verb!norm%1(verb)=détruire%2(verb)=perdre
+perduell@noun!is-is%1(noun)=ennemi
 perenniter@prep%1(prep)=toujours%2(prep)=de façon permanente
 perfacile@prep%1(prep)=très spontanément%2(prep)=très facilement
+perquam@prep%1(prep)=autant que possible%2(prep)=sans équivalent
 persecuti@noun!o-onis%1(noun)=persécution
 perhibeo@verb!norm%1(verb)=assigner,attribuer%2(verb)=présenter,produire%3(verb)=offrir
 peristyl@noun!um-i%1(noun)=cour intérieure
@@ -953,6 +962,7 @@ respons@noun!um-i%1(noun)=réponse
 respondeo@verb!norm%1(verb)=repondre
 resto@verb!norm%1(verb)=demeurer%2(verb)=rester
 resulto@verb!norm%1(verb)=retentir
+resurgen@adj!s-s-s%1(adj)=ressuscité
 resurgo@verb!norm%1(verb)=ressusciter
 rideo@verb!norm%1(verb)=rire
 rhen@noun!us-i%1(noun)=rhin
@@ -1104,6 +1114,7 @@ totius@adj!inv%1(adj)=de tout
 tractand@adj!us-a-um%1(noun)=transporté
 tractat@noun!us-us%1(noun)=sermon%2(noun)=traité
 tracto@verb!%1(verb)=trainer avec violence, maltraiter%2(verb)=toucher, palper%3(verb)=manier, prendre soin, gerer, administrer%4(verb)=se comporter, se conduire avec quelqu'un%5(verb)=traiter une question, exposer un sujet%6(verb)=traiter
+tradit@adj!us-a-um%1(noun)=dispensé
 traditio@noun!x-nis%1(noun)=instruction%2(noun)=abandon
 trado@verb!norm%1(verb)=abandonner
 trans@prep%1(prep)=au travers de

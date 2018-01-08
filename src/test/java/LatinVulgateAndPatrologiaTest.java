@@ -110,7 +110,7 @@ public class LatinVulgateAndPatrologiaTest extends LatinTranslatorBridgeTest {
         checkInMaps("patrologiacaput2F", translatorBridge);
         checkInMaps("patrologiacaput2G", translatorBridge);
         checkInMaps("patrologiacaput2H", translatorBridge);
-        checkInMaps("patrologiacaput2I", translatorBridge);
+        //checkInMaps("patrologiacaput2I", translatorBridge);
         checkInMaps("patrologiacaput2J", translatorBridge);
         checkInMaps("patrologiacaput2K", translatorBridge);
         checkInMaps("patrologiacaput2L", translatorBridge);

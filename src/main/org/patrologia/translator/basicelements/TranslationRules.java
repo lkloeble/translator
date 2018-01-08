@@ -21,11 +21,11 @@ public class TranslationRules {
         }
     }
 
-    public List<ConjugationPart> transform(List<ConjugationPart> conjugationPartList) {
+    public List<ConjugationPart> transform(List<ConjugationPart> conjugationPartList, String time) {
         Set<Integer> integers = translationRuleMap.keySet();
         for(Integer ruleIndice  : integers) {
             TranslationRule translationRule = translationRuleMap.get(ruleIndice);
-            if(translationRule == null) continue;
+            if(translationRule == null || !translationRule.conjugationName.equals(time)) continue;
             conjugationPartList = translationRule.transform(conjugationPartList);
         }
         return conjugationPartList;

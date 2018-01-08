@@ -35,8 +35,10 @@ ascet@masc%ul
 aspect@masc%ul
 aspirin@fem%fem
 atanasie@masc%inv
+autenticita@fem%capacitate
 autobuz@masc%ul
 autoconservare@neut%inv
+autoformare@neut%inv
 avva@neut%inv
 bai@masc%baiat
 balta@neut%inv
@@ -69,7 +71,7 @@ cal@masc%inv
 cald@adj%adj
 camer@fem%fem
 canar@masc%ul
-cap@masc%ul
+cap@masc%capul
 capabil@adj%adj
 capacita@fem%capacitate
 caracter@neut%chil
@@ -179,12 +181,14 @@ exact@adj%adj
 existents@fem%fem
 exempl@masc%ul
 extraordinar@adj%adj
+factor@masc%ul
 famili@fem%fem
 fapt@masc%ul
 farmacie@neut%inv
 fat@fem%fem
 fet@fem%fem
 fats@fem%fem
+favoar@fem%berea
 fel@neut%inv
 femei@fem%femei
 fi@masc%fiul
@@ -192,6 +196,7 @@ fiecare@neut%inv
 fierbint@adj%parinte
 fiic@fem%fem
 fiint@fem%femts
+filocali@fem%fem
 filtr@masc%filtru
 fizic@adj%adj
 foc@masc%ul
@@ -202,6 +207,7 @@ frigider@neut%inv
 fruct@fem%fem
 frumoasa@adj%adj
 frumos@masc%ul
+frun@fem%capacitate
 gand@masc%locul
 gar@fem%fem
 gared@neut%inv
@@ -324,6 +330,7 @@ natur@fem%tigara
 nascut@adj%adj
 natural@adj%adj
 neavind@neut%inv
+necaz@masc%ul
 necunoscut@adj%adj
 negr@adj%adj
 nehotarit@adj%adjts
@@ -393,6 +400,7 @@ post@fem%fem
 potrivit@neut%inv
 pozitsi@fem%fem
 preajm@fem%fem
+prelucrar@fem%berea
 prelucratoare@neut%inv
 prieten@adj%adj
 prim@adj%adj
@@ -432,6 +440,7 @@ romaneste@masc%inv
 romania@fem%inv
 ros@adj%adj
 roscat@adj%adj
+rost@neut%ul
 rud@fem%fem
 salbatic@adj%adj
 salbaticit@adj%adj
@@ -528,9 +537,11 @@ us@fem%fem
 usor@adj%adj
 usuoar@adj%adj
 vadit@adj%adj
+valorificare@neut%inv
 vampir@masc%ul
 vanatoare@fem%inv
 vazut@adj%adj
+veac@neut%ul
 vecin@masc%ul
 veder@fem%berea
 ver@adj%adjverde

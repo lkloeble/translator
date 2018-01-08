@@ -28,6 +28,7 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
     @Before
     public void init() {
         String prepositionFileDescription = "C:\\translator\\src\\main\\resources\\english\\prepositions.txt";
+        //String prepositionFileDescription = findPathInProject("src/main/resources/english/prepositions.txt");
         String nounFileDescription = "C:\\translator\\src\\main\\resources\\english\\nouns.txt";
         String verbFileDescription = "C:\\translator\\src\\main\\resources\\english\\verbs.txt";
         String englishFrenchDataFile = "C:\\translator\\src\\main\\resources\\english\\harraps_shorter_to_french.txt";
@@ -926,11 +927,13 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("lightfoot_ch2J", translatorBridge);
         checkInMaps("lightfoot_ch2K", translatorBridge);
         checkInMaps("lightfoot_ch2L", translatorBridge);
+        checkInMaps("lightfoot_ch2M", translatorBridge);
+        checkInMaps("lightfoot_ch2N", translatorBridge);
     }
 
     @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("nkjv_genesis_chapter4M", translatorBridge);
+        checkInMaps("toto", translatorBridge);
     }
 }

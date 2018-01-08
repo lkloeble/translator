@@ -57,10 +57,6 @@ public abstract class VerbDefinition {
         return translationInformationReplacement != null ? translationInformationReplacement : new NullTranslationInformationReplacement();
     }
 
-    public TranslationRules getTranslationRules() {
-        return translationRules;
-    }
-
     protected String removeParenthesis(String definitionDescription) {
         return definitionDescription.replace("(", "").replace(")", "");
     }
@@ -70,4 +66,7 @@ public abstract class VerbDefinition {
     }
 
 
+    public TranslationRules getTranslationRules() {
+        return translationRules;
+    }
 }

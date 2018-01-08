@@ -59,7 +59,7 @@ public class VerbRepository extends Repository {
         List<ConjugationPart> conjugationPartList = rootedConjugation.getConjugationPartList(value);
         if (verbDefinition != null && verbDefinition.hasCustomRules()) {
             TranslationRules translationRules = verbDefinition.getTranslationRules();
-            if(translationRules !=  null) conjugationPartList = translationRules.transform(conjugationPartList);
+            if(translationRules !=  null) conjugationPartList = translationRules.transform(conjugationPartList, time);
         }
         rootedConjugationMap.put(root + "@" + time, new RootedConjugation(time, conjugationPartList));
         conjugationPartList.stream().forEach(singleConjugationPart -> conjugationsMap.put(singleConjugationPart.getValue(), root));
@@ -97,7 +97,7 @@ public class VerbRepository extends Repository {
         List<String> strings = new ArrayList<>(conjugationsMap.keySet());
         Collections.sort(strings);
         for(String s : strings) {
-            if(s.startsWith("habu")) System.out.println(s);
+            if(s.startsWith("auto")) System.out.println(s);
         }
         */
         return conjugationsMap.containsKey(initialValue) || conjugationsMap.containsKey(unaccentued(initialValue));

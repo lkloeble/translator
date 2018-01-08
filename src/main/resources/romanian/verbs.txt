@@ -8,7 +8,9 @@ apar,,[face]
 apreci,,[aprecia]
 aprind,,[merg],(IPR1*di*zi*1)
 arat,,[incerca]
+as,,[aprecia]
 astept,,[cauta],(AIMP*astepta*asteapta*1)
+autoform,are,[aciti]
 be,,[bea]
 calator,i,[locuiesc]
 cant,,[cauta]
@@ -58,11 +60,12 @@ intreb,,[cauta],(IPR25*intreba*intreaba*0@AIMP*intreba*intreaba*0)
 intseleg,,[merg],(PAP*intselegs*intseles*0)
 intunec,,[cauta]
 iub,,[aciti]
+intovaras,,[locuiesc]
 inva,,[invata],(IPR*atsi*etsi*1)
 locu,,[locuiesc]
 lucr,,[fumez]
 maninc@IRREGULAR%[IPR]=[maninc,maninci,maninca,mancam,mancati,mananca]%[INFINITIVE]=[maninca]
-mantui,,[aciti]
+mantui,,[mantui]
 ments,,[mentsin]
 merg,,[face]
 mor,,[dorm],(IPR2*mor*moar*0@IPR34*mor*mur*0@PAP*mor*mur*0)
@@ -89,6 +92,7 @@ realiz,a,[fumez]
 restabil,i,[locuiesc]
 retrag,,[merg],(PAP*retrags*retras*0)
 revin,,[face]
+rezult,,[incerca]
 rezum,,[incerca]
 scri,,[scrie]
 sint@IRREGULAR%[IPR]=[sint,esti,este,sintem,sintetsi,sint|sunt]%[AII]=[eram,erai,era,eram,eratsi,erau]%[PAPR]=[fiind]%[ASP]=[fiu,fii,fie,fim,fitsi,fie]%[ACP]=[asfi,aifi,arfi,amfi,atsifi,arfi]%[PAP]=[fost]%[INFINITIVE]=[fi]
@@ -103,7 +107,7 @@ suport,,[cauta]
 termin,,[cauta]
 traduc,,[merg],(PAP*traduc*tradu*0)
 trag,,[merg]
-trai,,[aciti]
+trai,,[aciti],(PAP*trai*tra*0)
 transmit,,[merg]
 trebui,,[trebui],(ACP*trebui*artrebui*0)
 trec,,[merg],(PAP*trecs*trecut*0)

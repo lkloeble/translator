@@ -35,6 +35,7 @@ application@neut%normmasc
 appointment@neut%normmasc
 approach@fem%church
 april@neut%invmasc
+apt@adj%invmasc
 arabic@neut%normmasc
 aramaic@neut%normmasc
 archbishop@neut%invmasc
@@ -111,6 +112,8 @@ cannot@neut%invmasc
 canon@neut%normmasc
 car@neut%normmasc
 cardiff@neut%invmasc
+care@neut%invmasc
+carmel@neut%invmasc
 case@neut%normmasc
 castle@masc%normmasc
 cathedral@fem%normfem
@@ -322,6 +325,7 @@ fluently@neut%invmasc
 fol@neut%invmasc
 folio@neut%invmasc
 food@fem%normfem
+foot@neut%invmasc
 footnote@neut%normmasc
 foreign@adj%invmasc
 form@fem%normfem
@@ -344,6 +348,7 @@ garden@neut%normmasc
 gate@neut%normmasc
 gathering@masc%normmasc
 gemara@fem%normmasc
+gemarist@neut%normmasc
 genealog@neut%endy
 generation@fem%normmasc
 genesis@neut%invmasc
@@ -374,6 +379,8 @@ hagigah@neut%invmasc
 hall@neut%normmasc
 hampstead@neut%invmasc
 hand@neut%normmasc
+handling@neut%invmasc
+happily@neut%invmasc
 happy@adj%invmasc
 hard@adj%invmasc
 hardly@neut%invmasc
@@ -416,6 +423,7 @@ husband@masc%invmasc
 hypocrisy@fem%invfem
 ibid@neut%invmasc
 idea@fem%normfem
+ignorance@fem%normfem
 ii@neut%invmasc
 image@fem%normfem
 important@adj%normmasc
@@ -424,6 +432,7 @@ intended@adj%invmasc
 interest@masc%normmasc
 interesting@neut%invmasc
 interpretation@fem%normfem
+isle@fem%normfem
 israel@neut%invmasc
 israelite@neut%normmasc
 james@masc%invmasc
@@ -478,7 +487,9 @@ lightfoot@neut%invmasc
 likeness@fem%invfem
 limb@neut%normmasc
 limit@neut%normmasc
+line@neut%normmasc
 lip@neut%normmasc
+little@adj%normmasc
 living@neut%invmasc
 liz@fem%invfem
 loave@neut%normmasc
@@ -488,6 +499,7 @@ longer@adj%invmasc
 lord@neut%normmasc
 lost@adj%invmasc
 lot@neut%normmasc
+lowest@neut%invmasc
 lucky@adj%invmasc
 luke@masc%invmasc
 lunch@neut%invmasc
@@ -498,6 +510,7 @@ man@masc%custom(plr=men)
 manchester@neut%invmasc
 manner@masc%normmasc
 manuscript@neut%normmasc
+map@neut%normmasc
 march@neut%invmasc
 mark@neut%invmasc
 mary@fem%invfem
@@ -533,6 +546,9 @@ moon@neut%normmasc
 morning@neut%normmasc
 mother@fem%normfem
 motion@neut%normmasc
+mount@neut%invmasc
+mountain@neut%normmasc
+mountainous@adj%invmasc
 mouth@neut%church
 movement@masc%normmasc
 mt@neut%invmasc
@@ -566,6 +582,7 @@ nothing@masc%invmasc
 notice@neut%normmasc
 notion@neut%normmasc
 novel@adj%invmasc
+num@neut%invmasc
 occasional@adj%normmasc
 odd@masc%normmasc
 officer@neut%normmasc
@@ -604,6 +621,7 @@ performe@neut%invmasc
 persecution@fem%normfem
 person@neut%normmasc
 personal@adj%invmasc
+phoenician@neut%normmasc
 pint@fem%normfem
 physical@adj%normmasc
 phone@neut%invmasc
@@ -662,6 +680,7 @@ railway@neut%normmasc
 rainy@neut%invmasc
 rational@neut%normmasc
 rationall@neut%normmasc
+reader@masc%normmasc
 reading@fem%normfem
 real@adj%invmasc
 realit@fem%endy
@@ -709,6 +728,7 @@ same@neut%normmasc
 sarah@fem%invfem
 saturday@neut%normmasc
 saviour@neut%normmasc
+scheme@neut%normmasc
 scholar@neut%normmasc
 scholarly@neut%invmasc
 school@fem%normfem
@@ -736,8 +756,9 @@ shade@fem%normfem
 shadow@fem%normfem
 sheaf@neut%church
 shekhina@neut%invmasc
+shore@neut%normmasc
 show@neut%invmasc
-shower@neut%invmasc
+shower@neut%normmasc
 sick@adj%invmasc
 sickness@neut%church
 sicknesse@neut%normmasc
@@ -745,6 +766,7 @@ side@neut%normmasc
 sight@fem%normfem
 sign@masc%normmasc
 significance@masc%normmasc
+silence@neut%normmasc
 silent@adj%normmasc
 simon@masc%invmasc
 sin@masc%normmasc
@@ -802,6 +824,7 @@ super@neut%invmasc
 sure@neut%invmasc
 sweat@neut%invmasc
 sword@fem%normfem
+syrian@neut%normmasc
 table@neut%normmasc
 talented@neut%invmasc
 talmud@neut%normmasc
@@ -809,6 +832,7 @@ talmudic@adj%normmasc
 talmudical@adj%normmasc
 talmudist@neut%normmasc
 tannaim@neut%invmasc
+targum@neut%invmasc
 tea@neut%normmasc
 teacher@neut%normmasc
 teaching@neut%normmasc
@@ -918,6 +942,7 @@ wink@neut%normmasc
 wise@adj%normmasc
 wisdom@fem%invfem
 wisedome@fem%invfem
+witness@neut%church
 word@neut%normmasc
 work@neut%normmasc
 worke@neut%normmasc

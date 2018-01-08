@@ -28,3 +28,4 @@ descopar%descopar.txt
 musca%musca.txt
 aprecia%aprecia.txt
 ramane%ramane.txt
+mantui%mantui.txt

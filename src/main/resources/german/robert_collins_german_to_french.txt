@@ -727,6 +727,7 @@ loskomm@verb!norm%1(verb)=liberer
 lukas@noun!inv%1(noun)=luc
 mach@verb!norm%1(noun)=faire
 magazin@noun!norm%1(noun)=magasin
+makellos@adj!ausreichend%1(adj)=parfait
 mal@prep%1(prep)=voilà
 mal@noun!meer%1(noun)=occasion%2(noun)=fois
 maler@noun!burger%1(noun)=peintre
@@ -1320,6 +1321,7 @@ zuerst@prep%1(prep)=d'abord
 zuganglich@noun!meinmasc%1(adj)=acceptable
 zugleich@prep%1(prep)=au même moment
 zugrunde@noun!flasche%1(noun)=base
+zulass@verb!norm%1(verb)=permettre
 zum@prep%1(prep)=pour
 zumach@verb!norm%1(noun)=fermer
 zumal@prep%1(prep)=spécialement (depuis)

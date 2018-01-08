@@ -25,3 +25,4 @@ capacitate%capacitate.txt
 femts%femts.txt
 treaba%treaba.txt
 doctor%doctor.txt
+capul%capul.txt

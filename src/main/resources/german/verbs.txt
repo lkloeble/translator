@@ -225,6 +225,7 @@ wohn,en,[leben]
 wunsch,en,[leben]
 zeig,en,[leben]
 zieh,en,[rufen],(PAP*ziehen*gezogen*0@AIP*zieh*zog*0)
+zulass,en,[lassen],(PAP*zulassen*zugelassen*0)
 zumach,en,[leben]
 zurucklass,en,[lassen],(PAP*zurucklassen*zuruckgelassen*0)
 zusammenhal,en,[halten]

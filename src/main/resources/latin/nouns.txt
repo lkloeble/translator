@@ -329,6 +329,7 @@ ingeni@neut%um-i
 inimic@masc%us-i
 initi@neut%um-i
 innocenti@fem%a-ae
+innumer@adj%us-a-um
 inquie@adj%s-tis
 inrigan@adj%s-tis
 instituend@adj%us-a-um
@@ -392,6 +393,7 @@ longitud@fem%o-inis
 lu@fem%x-cis
 luci@masc%us-i
 lucubrati@neut%o-onis
+luculentissim@adj%us-a-um
 lud@masc%us-i
 lugdunens@adj%is-is-e
 lugend@adj%us-a-um
@@ -428,6 +430,7 @@ min@adj%or-or-us
 minist@neut%er-ri
 ministeri@neut%um-i
 mir@adj%us-a-um
+miracul@masc%um-i
 misericordi@fem%a-ae
 miss@adj%us-a-um
 miss@fem%a-ae
@@ -435,6 +438,8 @@ mod@masc%us-i
 mon@masc%s-tis2
 monit@adj%us-a-um
 monument@neut%um-i
+mor@fem%s-tis
+morien@adj%s-s-s
 mortu@adj%us-a-um
 motabil@adj%is-is-e
 moys@masc%es-is
@@ -445,7 +450,7 @@ multitud@fem%o-inis
 mur@masc%us-i
 mysteri@neut%um-i
 nas@masc%us-i
-nascen@masc%s-tis
+nascen@masc%s-s-s
 nat@adj%us-a-um
 nat@masc%us-us
 natur@fem%a-ae
@@ -512,6 +517,7 @@ peccat@neut%um-i
 pecuni@fem%a-ae
 pene@neut%inv
 penit@adj%us-a-um
+perduell@fem%is-is
 peristyl@masc%um-i
 perfect@adj%us-a-um
 permot@adj%us-a-um
@@ -585,6 +591,7 @@ res@fem%a-ae[nomsing:res,gensing:rei,datsing:rei,accsing:rem,ablsing:re,nomplr:r
 resarcitum@masc%inv
 resciss@adj%us-a-um
 respons@neut%um-i
+resurgen@adj%s-s-s
 rhen@masc%us-i
 rhod@masc%us-i
 rhodan@masc%us-i
@@ -679,6 +686,7 @@ tot@adj%us-a-um
 totius@adj%inv
 tractand@adj%us-a-um
 tractat@masc%us-us
+tradit@adj%us-a-um
 traditio@fem%x-nis
 tres@neut%inv
 tria@neut%inv

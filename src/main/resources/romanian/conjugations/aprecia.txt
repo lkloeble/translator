@@ -1,1 +1,2 @@
 IPR=>ez,ezi,aza,em,atsi,aza
+PAP=>ezat

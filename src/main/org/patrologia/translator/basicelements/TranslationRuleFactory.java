@@ -32,6 +32,8 @@ public class TranslationRuleFactory {
                 return new AlternateAccentuation(time,ruleParameters,indices);
             case "deleteletter" :
                 return new DeleteLetter(time,ruleParameters,indices);
+            case "substitute" :
+                return new Substitute(time,ruleParameters);
         }
         return null;
     }

@@ -259,8 +259,9 @@ public abstract class LanguageToFrench implements TranslatorRepository {
         List<String> resultsFound = new ArrayList<>();
         for(String constructionName : formPositionByConstructionName.keySet()) {
             String constructionNameAlone = extractExactVerbTime(constructionName);
+            String constructionNameForPatternMatching = "[" + constructionNameAlone + "]";
             if(verb.isConjugationForbidden(constructionNameAlone)) continue;
-            if(!frenchVerbDescription.contains(constructionNameAlone)) continue;
+            if(!frenchVerbDescription.contains(constructionNameForPatternMatching)) continue;
             String rightForm = allForms.stream().filter(form -> new FrenchVerbPattern(form).hasExactKey (handleConstructionSynonyms(constructionNameAlone))).findFirst().get();
             //String rightForm = allForms.stream().filter(form -> form.contains(handleConstructionSynonyms(constructionNameAlone))).findFirst().get();
             List<String> translations = Arrays.asList(rightForm.split("=")[1].replace("]", "").replace("[", "").split(","));

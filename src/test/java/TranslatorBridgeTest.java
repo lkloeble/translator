@@ -1,6 +1,7 @@
 import org.patrologia.translator.TranslatorBridge;
 import org.patrologia.translator.utils.DictionaryLoader;
 
+import java.net.URL;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -47,5 +48,12 @@ public class TranslatorBridgeTest {
 
     protected void checkInMaps(String id, TranslatorBridge translatorBridge) {
         assertEquals(mapValuesForResult.get(id), translatorBridge.translate(mapValuesForTest.get(id)));
+    }
+
+    protected String findPathInProject(String endOfPath) {
+        ClassLoader classLoader = getClass().getClassLoader();
+        URL resource = classLoader.getResource("./pathhelp.txt");
+        return resource.getPath();
+
     }
 }

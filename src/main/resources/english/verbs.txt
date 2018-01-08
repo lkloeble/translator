@@ -45,7 +45,7 @@ claim,[call]
 climb,[live]
 close,[live]
 cloth,[teach]
-come,[see],(AIP*come*came*0)
+come,[see],(AIP*come*came*0@PAPR*come*com*0)
 command,[call]
 compare,[live]
 complete,[live]
@@ -53,6 +53,8 @@ compose,[live]
 comprise,[live],(PAPR*compriseing*comprising*0)
 conceive,[live]
 concern,[live],(PAP*concernd*concerned*0)
+confirm,[live]
+confound,[call]
 consider,[call]
 consult,[call]
 create,[live]
@@ -66,18 +68,21 @@ deceive,[live]
 decree,[live]
 define,[live]
 demand,[call]
+denote,[live]
 describe,[live]
 determine,[live]
-dwell,[live]
 die,[live]
+differ,[call]
 discuss,[call]
 dispose,[live]
 distinguish,[teach]
-divide,[live]
+divide,[live],(PAPR*divide*divid*0)
 divorce,[live]
 do,[live],(AIP*dod*did*0@IPR2*dos*does*0@AII*do*did*0@PAP*dod*done*0)
+draw,[live],(PAP*drawd*drawn*0)
 drink,[call]
 drive,[live],(AIP*drived*drove*0)
+dwell,[live]
 eat,[see],(AIP*eat*ate*0@PAP*eatd*eaten*0)
 edit,[call]
 emulate,[live]
@@ -117,6 +122,7 @@ hide,[live],(AIP*hided*hid*0@PAP*hided*hidden*0)
 imitate,[live],(PAPR*imitatei*imitati*0)
 improve,[live]
 include,[live]
+inhabit,[call]
 intercalate,[live]
 interpret,[live]
 hover,[live]
@@ -137,6 +143,7 @@ make,[live],(AIP*maked*made*0@PAPR*make*mak*0)
 maintain,[call]
 may,[live],(IPR*mays*may*0@AIP*mayd*might*0)
 mean,[live]
+meet,[live]
 mention,[call]
 mix,[call]
 move,[live]
@@ -157,6 +164,7 @@ play,[live]
 possess,[teach]
 preach,[teach]
 prefer,[live],(PAP*preferd*preferred*0)
+profess,[teach]
 pronounce,[live]
 protect,[live]
 publish,[teach]
@@ -236,6 +244,7 @@ walk,[live]
 water,[call]
 want,[live]
 wear,[live]
+weigh,[live]
 will,[live],(IPR*wills*will*0)
 would,[live],(IPR*woulds*would*0)
 win,[call]

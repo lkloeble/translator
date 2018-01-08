@@ -57,6 +57,7 @@ constitu,o,is,ere,,,[o-is],(IAP*constituidi*constitui*0)
 consum,o,is,ere,,,[o-is],(IAP*consum*consumps*0)
 contend,o,is,ere,,,[o-is]
 contin,eo,es,ere,,,[eo-es]
+conting,o,is,ere,,,[o-is],(AIPP*conting*contig*0)
 conven,io,is,ire,veni,ventum,[io-is]
 convinc,o,is,ere,,,[o-is]
 corrig,o,is,ere,,,[o-is]
@@ -85,7 +86,7 @@ domin,or,aris,ari,,,[or-aris]
 don,o,as,are,edi,atum,[o-as]
 dorm,io,is,ire,,,[io-is]
 duc,o,is,ere,foobar,foobar,[o-is],(AIP*duc*dux*0)
-ed,o,is,ere,foobar,foobar,[o-is],(IAP*ed*edid*0)
+ed,o,is,ere,foobar,foobar,[o-is],(IAP*ed*edid*0@AIPP*ed*edid*0)
 edoc,eo,es,ere,,,[eo-es]
 effer,o,s,re,tuli,latum,[o-s],(AIP*effer*extul*0)
 effic,io,is,ere,,,[io-is],[AIP=effec]
