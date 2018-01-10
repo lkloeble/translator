@@ -81,7 +81,7 @@ divorce,[live]
 do,[live],(AIP*dod*did*0@IPR2*dos*does*0@AII*do*did*0@PAP*dod*done*0)
 draw,[live],(PAP*drawd*drawn*0)
 drink,[call]
-drive,[live],(AIP*drived*drove*0)
+drive,[live],(AIP*drived*drove*0@PAP*drived*driven*0)
 dwell,[live]
 eat,[see],(AIP*eat*ate*0@PAP*eatd*eaten*0)
 edit,[call]
@@ -113,6 +113,7 @@ guess,[teach]
 have@IRREGULAR%[IPR]=[have,have,has|hath,have,have,have]%[AII]=[had,had,had,had,had,had]%[AIMP]=[have,have,have]%[INFINITIVE]=[to have]
 handle,[live]
 hang,[live],(AIP*hangd*hung*0)
+happen,[call]
 hate,[live]
 heap,[live]
 hear,[live]

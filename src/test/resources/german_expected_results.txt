@@ -244,9 +244,10 @@ strackp1notBH=>(des) chaque(s)@(du) chaque(e)@chaque@, le de le rue(e) ramassé 
 
 strackp3A=>la liste(e) et. continuité(e) (des) généalogique(s)@(du) généalogique(e)@généalogique@ registre devint donc nécessaire, que pour sers sur sanctuaire et. vers le de façon que (du) relatif@relatif@relatif(s)(e)@ droit(s)(e), comme aussi vers (du) public@public@public(s)(e)@ fonction honorifique(s),
 strackp3B=>seulement homme(s) (des) certain(s)@(du) certain(e)@certain@ et. (des) parfait(s)@(du) parfait(e)@parfait@ lignée(e) permis devenir furent autorisés à ( cf. beau@déjà@ esdras [XXX] 63, neh [XXX] 65 ) ( a ).
-strackp3C=>foo
-strackp3D=>foo
-strackp3E=>foo
+strackp3C=>quel(e)@quel(s)@ condition(e) par exemple remplissez/remplit son@être@ devaient, quand la lignée(e) un (du) prêtre que légitime reconnu devenir devait, peut on le but(s)(e) déduire/déduisent,
+strackp3D=>la pour le prêtre par accord (des) un(s)@(du) un(e)@un@ couple(e) déterminant marchandise(s)(e)@étions@ ( b ).
+strackp3E=>où ce but(s)(e) sauf huit laissé devinrent, validait la descendance(e) que avec un défaut entâche.
+strackp3Eastuce=>"sauf huit laissé" signifie "ignoré"
 strackp3F=>foo
 strackp3G=>foo
 
@@ -347,7 +348,7 @@ nietzscheBookGTversuchChap1P=>le épicurien(e)@épicurien(s)@ volonté(e) contre
 nietzscheBookGTversuchChap1Q'=>— oui, envisagée comme symptôme de vie, que signifie, au fond, toute science ?
 nietzscheBookGTversuchChap1Q=>– oui, quoi signifie absolument, que symptôme du (du) vie considéré, tout(e)@tout(s)@ science(e)
 nietzscheBookGTversuchChap1R'=>Quel est le but, pis encore, l’origine — de toute science ? Quoi ? L’esprit scientifique n’est-il peut-être qu’une crainte et une diversion en face du pessimisme ? un ingénieux expédient contre — la vérité ?
-nietzscheBookGTversuchChap1R=>et pourquoi, plus grave encore, comment – tout(e)@tout(s)@ science(e) ? comme ? est scientificité peut-être seulement un(e)@un(s)@ crainte(e) et excuse(e) devant du pessimisme ? un(e)@un(s)@ fin(e)@fin(s)@ défense contre – la vérité
+nietzscheBookGTversuchChap1R=>et pourquoi, (des) mauvais(s)@(du) mauvais(e)@mauvais@ encore, comment – tout(e)@tout(s)@ science(e) ? comme ? est scientificité peut-être seulement un(e)@un(s)@ crainte(e) et excuse(e) devant du pessimisme ? un(e)@un(s)@ fin(e)@fin(s)@ défense contre – la vérité
 nietzscheBookGTversuchChap1S'=>et, pour parler moralement, quelque chose comme de la peur et de l’hypocrisie ? et immoralement : de la ruse ? Ô Socrate, Socrate, était-ce là peut-être ton secret ?
 nietzscheBookGTversuchChap1S=>et, moral dit, quelque chose comme lâcheté et hypocrisie(e) ? immoral dit, un(e)@un(s)@ ruse(e) ? [XXX] socrate, socrate, était ceci peut-être ton secret(e) ?
 nietzscheBookGTversuchChap1T'=>Ô mystérieux ironiste, était-ce là ton — ironie ?

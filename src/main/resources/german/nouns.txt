@@ -7,6 +7,7 @@ abkurzung@fem%meinfem
 abstammung@fem%meinfem
 abteilung@neut%norm
 ach@neut%inv
+acht@neut%inv
 adresse@fem%flasche
 ah@neut%inv
 all@adj%ausreichend
@@ -155,6 +156,7 @@ dokument@masc%meer
 donner@masc%burger
 donnerstag@neut%inv
 dorn@masc%autor
+drang@masc%jahrzehnt
 drei@neut%inv
 dritt@adj%ausreichend
 druck@masc%meinmasc
@@ -163,6 +165,7 @@ durchsicht@fem%meinfem
 durst@neut%inv
 dumm@neut%inv
 egoistisch@adj%inv
+ehe@fem%flasche
 ehelich@adj%ausreichend
 ehrenamter@neut%burger
 eigen@adj%ausreichend
@@ -176,6 +179,7 @@ england@neut%inv
 endlich@neut%inv
 eifer@neut%inv
 eigne@adj%inv
+eingehung@masc%meinmasc
 einig@adj%ausreichend
 eingang@fem%meinfem
 eingewandert@adj%ausreichend
@@ -195,6 +199,7 @@ erlebnis@fem%erkenntnis
 ermudet@adj%ausreichend
 ermudung@fem%meinfem
 erste@neut%masc
+erstling@neut%inv
 esra@neut%inv
 esras@neut%inv
 euros@neut%inv!agenitive
@@ -210,6 +215,7 @@ faktor@masc%autor
 falschheit@fem%meinfem
 familie@fem%flasche
 fax@neut%inv
+fehler@masc%arbeiter
 fehlerhaft@adj%ausreichend
 feierlicher@adj%ausreichend
 feig@fem%inv
@@ -318,6 +324,7 @@ gott@masc%inv
 gottes@masc%inv
 grad@neut%jahrzehnt
 gras@fem%inv
+greisenhaft@adj%ausreichend
 grieche@masc%flasche
 griechentum@neut%arbeiter
 griechisch@adj%ausreichend
@@ -446,8 +453,10 @@ kuchen@neut%inv
 kunst@masc%kunst
 kunstler@masc%arbeiter
 kur@fem%flasche
+kurz@adj%ausreichend
 lage@fem%flasche
 land@neut%ort
+lang@adj%ausreichend
 lateinisch@adj%ausreichend
 leben@neut%burger
 lebendig@adj%ausreichend
@@ -473,6 +482,7 @@ logisch@adj%ausreichend
 losend@adj%ausreichend
 lukas@masc%inv
 magazin@masc%norm
+makel@masc%zeichen
 makellos@adj%ausreichend
 mal@neut%meer
 maler@masc%burger
@@ -482,6 +492,7 @@ mann@masc%ort
 marke@fem%flasche
 markus@masc%inv
 martin@neut%inv
+massgebend@adj%ausreichend
 material@neut%meinmasc
 matthaus@masc%inv
 mauer@masc%arbeiter
@@ -532,6 +543,7 @@ nachdrucklich@adj%ausreichend
 nachfolgend@adj%ausreichend
 nachgeschlagen@adj%ausreichend
 nachkomme@masc%flasche
+nachkommenschaft@fem%meinfem
 nachricht@fem%inv
 nachst@adj%norm
 nacht@fem%meinfem
@@ -660,6 +672,7 @@ schlacht@fem%meinfem
 schlaf@masc%ort
 schlauheit@fem%meinfem
 schlecht@adj%ausreichend
+schlimm@adj%ausreichend
 schlimmer@adj%ausreichend
 schluss@neut%norm
 schlussel@neut%inv
@@ -711,6 +724,7 @@ strafe@fem%flasche
 stress@neut%inv
 strasse@fem%flasche
 stuck@neut%inv
+sturm@masc%jahrzehnt
 sud@neut%inv
 suden@neut%burger
 suppe@fem%flasche
@@ -816,6 +830,7 @@ viertel@neut%inv
 vogel@masc%arbeiter
 volke@masc%norm
 vollendet@adj%ausreichend
+vorausstezung@fem%meinfem
 vorbild@neut%meer
 vorgeblich@adj%ausreichend
 vorgelegt@adj%ausreichend
@@ -861,6 +876,7 @@ wissenschaft@fem%meinfem
 wissenschaftlichkeit@fem%inv
 woche@fem%flasche
 wohnung@masc%meinmasc
+wort@neut%holz
 wortlaute@fem%flasche
 wortlich@adj%ausreichend
 wunderbar@adj%mein

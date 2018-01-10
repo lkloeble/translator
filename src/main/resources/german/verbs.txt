@@ -1,6 +1,7 @@
 abdruck,en,[leben],(PAP*abdru*abgedru*0)
 abhang,en,[leben]
 ander,n,[leben]
+anerkenn,en,[leben],(PAP*anerke*anerka*0)
 anfang,en,[leben]
 angehor,en,[leben]
 anruf,en,[leben]
@@ -21,6 +22,7 @@ bedeut,en,[mochten]
 befass,en,[genesen]
 befind,en,[mochten],(AIP*befi*befa*0)
 beginn,en,[leben]
+behaft,en,[mochten]
 behalt,en,[entstehen],(SPA*behal*behiel*0)
 behaupt,en,[mochten]
 beitrag,en,[lassen],(AIP*beitrag*beitrug*0)
@@ -33,6 +35,7 @@ besam,en,[leben]
 bestatig,en,[leben]
 bestell,en,[leben]
 betracht,en,[mochten]
+beug,en,[leben]
 bewund,ern,[fordern]
 bezahl,en,[leben]
 biet,en,[leben]
@@ -55,6 +58,7 @@ ehr,en,[leben]
 einlad,en,[leben]
 eintret,en,[leben],(IPR12*tret*trit*0)
 empfang,en,[leben]
+entnehm,en,[leben]
 entsteh,en,[entstehen],(AIP*entsteh*entstand*0)
 erfull,en,[leben]
 erhalt,en,[leben]
@@ -86,6 +90,7 @@ garantier,en,[leben]
 geb,en,[leben],(IPR124*geb*gib*0)
 gebar,en,[leben],(IPR12*gebar*gebier*0@PAP*gebart*geboren*0)
 geh,en,[lassen],(AIP*geh*ging*0@PAP*geh*gegang*0)
+gelt,en,[stehen],(AIP*gel*gal*0)
 genes,en,[genesen]
 gernhaben@IRREGULAR%[INFINITIVE]=[gernhaben]%[IPR]=[gernhabe,gernhast,gernhat,gernhaben,gernhabt,gernhaben]
 gescheh,en,[rufen],(AIP*gescheh*geschah*0)
@@ -115,7 +120,7 @@ kriech,en,[leben]
 kritisier,en,[leben]
 kumme,rn,[leben]
 lad,en,[leben]
-lass,en,[lassen],(AIP*lass*liess*0)
+lass,en,[lassen],(AIP*lass*liess*0@PAP*la*gela*0)
 lauf,en,[rufen],(AIP*lauf*lief*0)
 leb,en,[leben]
 lern,en,[leben]

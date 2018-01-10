@@ -20,6 +20,7 @@ amongst@prep()
 an@prep()
 another@prep()
 any@prep()%[electPluralForFollowingPluralNoun]
+anyone@prep()
 apparently@prep()
 around@prep()
 as@prep()
