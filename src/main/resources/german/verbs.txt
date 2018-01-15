@@ -126,7 +126,7 @@ leb,en,[leben]
 lern,en,[leben]
 les,en,[leben],(IPR124*les*lies*0)
 lieb,en,[leben]
-lieg,en,[leben]
+lieg,en,[rufen],(AIP*lieg*lag*0)
 los,en,[leben]
 loskomm,en,[leben],(AIP*loskomm*loskam*0@PAP*loskommt*losgekommen*0)
 mach,en,[leben],(AIP*mach*macht*0@PAP*mach*gemach*0)
@@ -147,6 +147,7 @@ pruf,en,[leben]
 rats,eln,[sammeln]
 rauch,en,[leben]
 red,en,[mochten],(PAP*red*gered*0)
+reg,eln,[sammeln]
 regier,en,[leben]
 regn,en,[mochten]
 reich,en,[leben]
@@ -222,6 +223,7 @@ wachs,en,[genesen],(PAP*wa*gewa*0)
 wag,en,[leben]
 web,en,[leben]
 weggeh,en,[rufen],(AIP*weggeh*wegging*0)
+wend,en,[wenden]
 werd,en,[werden],(AIP*werd*wurd*0@PAP*werden*geworden*0)
 werf,en,[leben],(IPR12*wer*wir*0)
 widm,en,[mochten],(PAP*wid*gewid*0)

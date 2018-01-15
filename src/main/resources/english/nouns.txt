@@ -423,6 +423,7 @@ husband@masc%invmasc
 hypocrisy@fem%invfem
 ibid@neut%invmasc
 idea@fem%normfem
+idumea@neut%invmasc
 ignorance@fem%normfem
 ii@neut%invmasc
 image@fem%normfem
@@ -534,6 +535,7 @@ michael@masc%invmasc
 middleages@neut%invmasc
 midst@neut%invmasc
 mike@neut%invmasc
+mile@neut%normmasc
 milk@neut%invmasc
 mind@neut%invmasc
 mishna@neut%invmasc
@@ -605,6 +607,7 @@ page@fem%normfem
 pain@masc%normmasc
 palestinian@adj%normmasc
 paragraph@masc%normmasc
+parallel@neut%normmasc
 parliament@masc%normmasc
 part@fem%normfem
 particular@adj%normmasc
@@ -795,6 +798,7 @@ soul@fem%normfem
 soveraigne@neut%invmasc
 soveraignt@fem%endy
 sp@neut%invmasc
+space@neut%normmasc
 spirit@neut%normmasc
 sport@neut%normmasc
 spring@neut%normmasc

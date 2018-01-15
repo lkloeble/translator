@@ -933,8 +933,41 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
 
     @Test
     public void test_lightfoot_chapter_3() {
-        assertTrue(false);
-        //checkInMaps("lightfoot_ch2A", translatorBridge);
+        checkInMaps("lightfoot_ch3A", translatorBridge);
+        checkInMaps("lightfoot_ch3B", translatorBridge);
+        checkInMaps("lightfoot_ch3C", translatorBridge);
+        checkInMaps("lightfoot_ch3D", translatorBridge);
+        checkInMaps("lightfoot_ch3E", translatorBridge);
+        checkInMaps("lightfoot_ch3F", translatorBridge);
+        checkInMaps("lightfoot_ch3G", translatorBridge);
+        checkInMaps("lightfoot_ch3H", translatorBridge);
+        checkInMaps("lightfoot_ch3I", translatorBridge);
+        checkInMaps("lightfoot_ch3J", translatorBridge);
+        checkInMaps("lightfoot_ch3K", translatorBridge);
+        checkInMaps("lightfoot_ch3L", translatorBridge);
+        checkInMaps("lightfoot_ch3M", translatorBridge);
+        checkInMaps("lightfoot_ch3N", translatorBridge);
+        checkInMaps("lightfoot_ch3O", translatorBridge);
+        checkInMaps("lightfoot_ch3P", translatorBridge);
+        checkInMaps("lightfoot_ch3Q", translatorBridge);
+        checkInMaps("lightfoot_ch3R", translatorBridge);
+        checkInMaps("lightfoot_ch3S", translatorBridge);
+        checkInMaps("lightfoot_ch3T", translatorBridge);
+        checkInMaps("lightfoot_ch3U", translatorBridge);
+        checkInMaps("lightfoot_ch3V", translatorBridge);
+        checkInMaps("lightfoot_ch3W", translatorBridge);
+        checkInMaps("lightfoot_ch3X", translatorBridge);
+        checkInMaps("lightfoot_ch3Y", translatorBridge);
+        checkInMaps("lightfoot_ch3Z", translatorBridge);
+        checkInMaps("lightfoot_ch3AA", translatorBridge);
+        checkInMaps("lightfoot_ch3BB", translatorBridge);
+        checkInMaps("lightfoot_ch3CC", translatorBridge);
+        checkInMaps("lightfoot_ch3DD", translatorBridge);
+        checkInMaps("lightfoot_ch3EE", translatorBridge);
+        checkInMaps("lightfoot_ch3FF", translatorBridge);
+        checkInMaps("lightfoot_ch3GG", translatorBridge);
+        checkInMaps("lightfoot_ch3HH", translatorBridge);
+        checkInMaps("lightfoot_ch3II", translatorBridge);
     }
 
         @Test

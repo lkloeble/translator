@@ -33,7 +33,7 @@ public class TranslationRuleFactory {
             case "deleteletter" :
                 return new DeleteLetter(time,ruleParameters,indices);
             case "substitute" :
-                return new Substitute(time,ruleParameters);
+                return new Substitute(time,ruleParameters,indices);
         }
         return null;
     }

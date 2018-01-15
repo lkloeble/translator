@@ -10,23 +10,29 @@ public class Substitute extends TranslationRule {
 
     private String patternToReplace;
     private String replacementPattern;
+    private List<Integer> indices;
 
-    public Substitute(String conjugationName, String ruleParameters) {
+    public Substitute(String conjugationName, String ruleParameters, List<Integer> indices) {
         this.conjugationName = conjugationName;
         this.ruleParameters = ruleParameters;
         String[] patterns = ruleParameters.split("\\*");
         this.patternToReplace = patterns[0];
         this.replacementPattern = patterns[1];
+        this.indices = indices;
     }
 
     @Override
     public List<ConjugationPart> transform(List<ConjugationPart> conjugationPartList) {
         List<ConjugationPart> modifiedList = new ArrayList<>();
         for (ConjugationPart conjugationPart : conjugationPartList) {
-            String alternateValue = modifyValue(conjugationPart.getValue());
-            String alternateUnaccentuedValue = modifyValue(conjugationPart.getUnaccentuedValue());
-            ConjugationPart alternateConjugationPart = new ConjugationPart(conjugationPart.getConjugationPosition(), alternateValue, alternateUnaccentuedValue, conjugationPart.getPositionInDefinition());
-            modifiedList.add(alternateConjugationPart);
+            if(isPositionAllowedForChange(conjugationPart, indices)) {
+                String alternateValue = modifyValue(conjugationPart.getValue());
+                String alternateUnaccentuedValue = modifyValue(conjugationPart.getUnaccentuedValue());
+                ConjugationPart alternateConjugationPart = new ConjugationPart(conjugationPart.getConjugationPosition(), alternateValue, alternateUnaccentuedValue, conjugationPart.getPositionInDefinition());
+                modifiedList.add(alternateConjugationPart);
+            } else {
+                modifiedList.add(conjugationPart);
+            }
         }
         return modifiedList;
     }
@@ -38,7 +44,7 @@ public class Substitute extends TranslationRule {
 
     @Override
     public String toString() {
-        return "Substitute{" + conjugationName +  " " + ruleParameters + "}";
+        return "Substitute{" + conjugationName +  " " + ruleParameters + " " + indices + "}";
     }
 
 }

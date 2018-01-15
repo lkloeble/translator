@@ -89,6 +89,7 @@ ausdruck@noun!jahrzehnt%1(noun)=expression
 ausflucht@noun!angst%1(noun)=excuse
 ausgabe@noun!flasche%1(noun)=édition
 ausgezeichnet@noun!norm%1(adj)=superbe%2(adj)=excellent
+ausland@noun!jahrzehnt%1(noun)=pays étranger
 auslass@verb!norm%1(verb)=decharger%2(verb)=omettre
 auslegung@noun!meinfem%1(noun)=interprétation%2(noun)=exégèse
 ausnahme@noun!flasche%1(noun)=exception
@@ -155,12 +156,14 @@ besonders@prep%1(prep)=particulièrement
 bestatig@verb!norm%1(verb)=confirmer
 bestell@verb!norm%1(verb)=commander
 bestellung@noun!meinfem%1(noun)=commande
+bestimmt@adj!ausreichend%1(adj)=certain
 bestimmung@noun!meinfem%1(noun)=but
 betracht@verb!norm%1(verb)=considerer
 bett@noun!schmerz%1(noun)=lit
 beug@verb!norm%1(verb)=inflechir
 bewahrt@adj!ausreichend%1(adj)=fiable
 beweis@noun!meer%1(noun)=preuve
+bewiesen@adj!ausreichend%1(adj)=prouvé
 bewund@verb!norm%1(verb)=admirer
 bezahl@verb!norm%1(verb)=payer
 bezug@noun!jahrzehnt%1(noun)=référence
@@ -328,6 +331,7 @@ epikurisch@adj!ausreichend%1(adj)=épicurien
 er@prep%1(prep)=il
 erde@noun!flasche%1(noun)=terre
 erdgeschoss@noun!inv%1(noun)=rez de chaussée
+erfolg@noun!jahrzehnt%1(noun)=succès
 erfreulich@adj!ausreichend%1(noun)=plaisant
 erfull@verb!norm%1(verb)=remplir
 erhalt@verb!norm%1(verb)=recevoir
@@ -386,6 +390,7 @@ feld@noun!meer%1(noun)=champ
 femininischen@noun!inv%1(noun)=effémination
 fenster@noun!inv%1(noun)=fenêtre
 ferie@noun!flasche%1(noun)=vacance
+fest@adj!ausreichend%1(noun)=solide
 feste@noun!flasche%1(noun)=place forte%2(noun)=étendue
 feststell@verb!norm%1(verb)=declarer%2(verb)=determiner
 feststellung@noun!meinfem%1(noun)=détermination
@@ -423,6 +428,7 @@ frau@noun!flasche%1(noun)=femme
 fraulein@noun!inv%1(noun)=demoiselle
 freigelassen@noun!bastard%1(noun)=affranchi
 freitag@noun!inv%1(noun)=vendredi
+fremde@noun!inv%1(noun)=étranger
 freu@verb!norm%1(verb)=serejouir
 freundin@noun!inv%1(noun)=fiancée
 freund@noun!meer%1(noun)=ami
@@ -458,9 +464,9 @@ gefiedert@adj!ausreichend%1(adj)=couvert de plumes
 geflugel@noun!arbeiter%1(noun)=volaille
 gegeben@adj!ausreichend%1(adj)=factuel%2(noun)=préexistant%3(noun)=donné
 gegen@prep%1(prep)=contre
-gegenwart@noun!inv%1(noun)=présence%2(noun)=temps présent
 gegenwartig@adj!ausreichend%1(adj)=existant%2(adj)=présent%3(adj)=contemporain%4(adj)=courant
 geheim@adj!ausreichend%1(adj)=secret
+gegenwart@noun!inv%1(noun)=présence%2(noun)=temps présent
 geheimnis@noun!erkenntnis%1(noun)=secret
 geheimnisvoller@noun!ausreichend%1(adj)=mystérieux
 geh@verb!norm%1(verb)=aller
@@ -473,10 +479,11 @@ gemalde@noun!meer%1(noun)=peinture
 gemaldegalerie@noun!flasche%1(noun)=galerie de tableaux
 gemeinde@noun!flasche%1(noun)=paroisse%2(noun)=ville%3(noun)=communauté
 genau@noun!ausreichend%1(adj)=avec précision
-genealogie@noun!inv%1(noun)=généalogie
 genealogisch@adj!ausreichend%1(adj)=généalogique
+genealogie@noun!inv%1(noun)=généalogie
 genes@verb!norm%1(verb)=recuperer
 genues@adj!ausreichend%1(adj)=génois
+genug@prep%1(prep)=suffisant
 genugsamkeit@noun!inv%1(noun)=austérité
 gerade@prep%1(prep)=exactement%2(prep)=justement%3(prep)=maintenant
 geratenst@adj!ausreichend%1(adj)=plus accompli
@@ -545,6 +552,7 @@ heer@noun!meer%1(noun)=armée
 heilig@verb!norm%1(verb)=justifier%2(verb)=sanctifier
 heiligtum@noun!heiligtum%1(noun)=sanctuaire
 heim@noun!meer%1(noun)=asile%2(noun)=hôtel%3(noun)=maison
+heimlichkeit@noun!meinmasc%1(noun)=secret
 heiss@verb!norm%1(verb)=appeler%2(verb)=signifier%3(verb)=nommer
 heiterkeit@noun!norm%1(noun)=joie
 helf@verb!norm%1(verb)=aider
@@ -553,6 +561,7 @@ heran@prep%1(prep)=proche de
 heranzuzieh@verb!norm%1(verb)=expliquer
 herkunft@noun!norm%1(noun)=origine%2(noun)=ascendance
 herr@noun!meinmasc%1(noun)=seigneur%2(noun)=monsieur
+herrlichkeit@noun!meinfem%1(noun)=gloire
 herrsch@verb!norm%1(verb)=gouverner
 herstellung@noun!meinfem%1(noun)=production
 hervor@prep%1(prep)=en avant
@@ -565,6 +574,7 @@ himmel@noun!arbeiter%1(noun)=ciel
 hinauf@prep%1(prep)=vers le haut
 hinausgehend@adj!ausreichend%1(noun)=au delà de
 hindurch@prep%1(prep)=au travers de
+hinsicht@noun!meinfem%1(noun)=point de vue
 hinstell@verb!norm%1(verb)=poser%2(verb)=decrire
 hinter@prep%1(prep)=derrière
 hintersinn@noun!inv%1(noun)=arrière-pensée
@@ -714,6 +724,7 @@ lebendig@adj!ausreichend%1(adj)=animé%2(adj)=vivant
 lebenskraft@noun!angst%1(noun)=vitalité
 leer@adj!inv%1(adj)=vide
 legitim@adj!ausreichend%1(adj)=légitime
+legitimitat@noun!inv%1(noun)=légitimité
 lehr@noun!inv%1(noun)=apprentissage
 leiblichen@noun!mein%1(adj)=corporel%2(adj)=biologique%3(adj)=charnel
 leicht@adj!ausreichend%1(adj)=léger%2(adj)=simple
@@ -749,6 +760,7 @@ maler@noun!burger%1(noun)=peintre
 maltechnik@noun!meinfem%1(noun)=technique picturale
 man@prep%1(prep)=on
 manch@adj!ausreichend%1(adj)=nombreux
+mangel@noun!arbeiter%1(noun)=manque
 mann@noun!ort%1(noun)=époux%2(noun)=homme
 marke@noun!flasche%1(noun)=marque
 markus@noun!inv%1(noun)=marc
@@ -840,6 +852,7 @@ nein@noun!inv%1(noun)=non
 nenn@verb!norm%1(verb)=nommer
 neu@noun!mein%1(noun)=nouveau
 neuer@noun!ausreichend%1(noun)=davantage nouveau
+neuerung@noun!meinfem%1(noun)=innovation
 neugierig@adj!inv%1(adj)=curieux
 neutestamentlich@noun!mein%1(adj)=néotestamentaire
 neutral@adj!ausreichend%1(adj)=neutre
@@ -847,6 +860,7 @@ nicht@prep%1(prep)=pas
 nichts@prep%1(prep)=rien
 nieder@adj!ausreichend%1(adj)=faible
 niedergang@noun!arbeiter%1(noun)=déclin
+nihilismus@noun!inv%1(noun)=nihilisme
 noch@prep%1(prep)=encore
 nochmals@prep%1(prep)=une fois encore
 notig@adj!ausreichend%1(adj)=nécessaire
@@ -856,6 +870,7 @@ nr@noun!inv%1(noun)=nbr
 nummer@noun!inv%1(noun)=numéro
 nun@prep%1(prep)=maintenant
 nur@prep%1(prep)=mais%2(prep)=quoi qu'il en soit%3(prep)=de toute les façons%4(prep)=seulement
+ob@prep%1(prep)=sur
 objektiv@noun!norm%1(noun)=objectivité
 obst@noun!inv%1(noun)=fruits
 oder@prep%1(prep)=ou
@@ -925,6 +940,7 @@ recht@noun!inv%1(noun)=légal%2(noun)=correct%3(noun)=véritable%4(noun)=droit
 rechts@noun!inv%1(noun)=à droite
 rechten@noun!inv%1(noun)=légal%2(noun)=correct%3(noun)=véritable%4(noun)=droit
 red@verb!norm%1(verb)=dire
+reg@verb!norm%1(verb)=reguler
 regier@verb!norm%1(verb)=gouverner
 register@noun!inv%1(noun)=registre
 regn@verb!norm%1(verb)=pleuvoir
@@ -1022,6 +1038,7 @@ seinen@prep%1(prep)=son
 seiner@prep%1(prep)=son
 seit@prep%1(prep)=pour%2(prep)=depuis
 selbst@prep%1(prep)=soi-même
+selbstandig@adj!ausreichend%1(adj)=indépendant
 sensibilitat@noun!inv%1(noun)=sensibilité
 siebenten@noun!inv%1(noun)=septième
 sicher@adj!ausreichend%1(adj)=certain
@@ -1063,6 +1080,7 @@ stadt@noun!meinfem%1(noun)=ville
 stadtrat@noun!inv%1(noun)=conseil municipal
 stadtverwaltung@noun!inv%1(noun)=administration municipale
 stamm@verb!norm%1(verb)=descendre
+stammbaum@noun!jahrzehnt%1(noun)=arbre généalogique
 stark@verb!norm%1(verb)=renforcer
 starke@noun!flasche%1(noun)=force
 starkst@adj!ausreichend%1(noun)=le plus fort
@@ -1088,6 +1106,7 @@ studier@verb!norm%1(verb)=etudier
 suden@noun!burger%1(noun)=sud
 suppe@noun!flasche%1(noun)=soupe
 symptom@noun!norm%1(noun)=symptôme
+synedrium@noun!inv%1(noun)=sanhédrin
 tabelle@noun!flasche%1(noun)=tablette
 tag@noun!jahrzehnt%1(noun)=jour
 talmud@noun!meinmasc%1(noun)=talmud
@@ -1131,6 +1150,7 @@ trenn@verb!norm%1(verb)=separer
 treu@adj!ausreichend%1(adj)=fidèle%2(adj)=loyal
 trocken@noun!ausreichend%1(adj)=sec
 trotz@noun!meer%1(noun)=défi
+trotzig@adj!ausreichend%1(adj)=rebelle
 tu@verb!norm%1(verb)=faire2
 ub@prep%1(prep)=sur
 uber@prep%1(prep)=sur
@@ -1154,6 +1174,7 @@ umfang@noun!meinmasc%1(noun)=étendue
 umfangreich@adj!ausreichend%1(adj)=considérable
 umfangreichst@adj!ausreichend%2(adj)=le plus considérable
 umwelt@noun!inv%1(noun)=environnement
+unabhangig@adj!ausreichend%2(adj)=indépendant
 unbedingt@noun!inv%1(noun)=absolument
 unbekummert@noun!inv%1(noun)=non concerné
 unbescheidenheit@noun!inv%1(noun)=immodestie
@@ -1187,6 +1208,7 @@ verbind@verb!norm%1(verb)=relier
 verbindung@noun!meinmasc%1(noun)=mélange%2(noun)=connexion
 verboten@adj!ausreichend%1(adj)=interdit
 verbunden@adj!ausreichend%1(adj)=relatif
+verehelichung@noun!meinfem%1(noun)=fiançaille
 verfall@noun!arbeiter%1(noun)=décadence
 verfasser@noun!norm%1(noun)=auteur
 verfuhrendst@adj!ausreichend%1(adj)=plus séduisant
@@ -1201,6 +1223,7 @@ verrats@verb!norm%1(verb)=resoudre
 verruckt@noun!norm%1(noun)=fou
 versailles@noun!inv%1(noun)=versailles
 versand@noun!norm%1(noun)=vente par correspondance
+versaumt@adj!meinmasc%1(adj)=manqué
 verschreib@verb!norm%1(verb)=prescrire
 verschweig@verb!norm%1(verb)=permettre
 verstandnis@noun!inv%1(noun)=sympathie%2(noun)=compréhension
@@ -1213,6 +1236,7 @@ vertrag@verb!norm%1(verb)=supporter
 vertrau@verb!norm%1(verb)=faireconfiance
 verurteil@verb!norm%1(verb)=condamner
 verwahr@verb!norm%1(verb)=garder
+verzuckert@adj!inv%1(adj)=sucré
 vgl@noun!inv%1(noun)=cf
 videokassette@noun!flasche%1(noun)=cassette vidéo
 vieh@noun!original%1(noun)=bétail
@@ -1229,6 +1253,7 @@ viertel@noun!inv%1(noun)=quartier
 vogel@noun!arbeiter%1(noun)=oiseau
 volke@noun!norm%1(noun)=peuple
 vollendet@adj!ausreichend%1(adj)=accompli%2(adj)=parfait
+voller@prep%1(prep)=plein de
 vom@prep%1(prep)=depuis
 von@prep%1(prep)=de
 vor@prep%1(prep)=devant
@@ -1275,6 +1300,7 @@ wen@prep%1(prep)=qui
 welch@adj!ausreichend%1(adj)=quel
 welt@noun!meinfem%1(noun)=monde
 wenAAAAAAg@prep%1(prep)=assez
+wend@verb!norm%1(verb)=consacrer
 wenn@prep%1(prep)=si%2(prep)=quand
 wenig@noun!meinmasc%1(noun)=peu
 wer@prep%1(prep)=qui
@@ -1357,4 +1383,5 @@ zwar@prep%1(prep)=précisément
 zweck@noun!jahrzehnt%1(noun)=point%2(noun)=cause%3(noun)=objectif
 zwei@noun!inv%1(noun)=deux
 zweit@adj!ausreichend%1(adj)=deuxième
+zwiegesprach@noun!inv%1(noun)=dialogue
 zwischen@prep%1(prep)=entre
