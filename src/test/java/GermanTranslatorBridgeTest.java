@@ -493,18 +493,18 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("genesis1C", translatorBridge);
         checkInMaps("genesis1D", translatorBridge);
         checkInMaps("genesis1E", translatorBridge);
-        //checkInMaps("genesis1F", translatorBridge);
-        //checkInMaps("genesis1G", translatorBridge);
-        //checkInMaps("genesis1H", translatorBridge);
+        checkInMaps("genesis1F", translatorBridge);
+        checkInMaps("genesis1G", translatorBridge);
+        checkInMaps("genesis1H", translatorBridge);
         checkInMaps("genesis1I", translatorBridge);
         checkInMaps("genesis1J", translatorBridge);
         checkInMaps("genesis1K", translatorBridge);
         checkInMaps("genesis1L", translatorBridge);
         checkInMaps("genesis1M", translatorBridge);
-        //checkInMaps("genesis1N", translatorBridge);
-        //checkInMaps("genesis1O", translatorBridge);
+        checkInMaps("genesis1N", translatorBridge);
+        checkInMaps("genesis1O", translatorBridge);
         checkInMaps("genesis1P", translatorBridge);
-        //checkInMaps("genesis1Q", translatorBridge);
+        checkInMaps("genesis1Q", translatorBridge);
         checkInMaps("genesis1R", translatorBridge);
         checkInMaps("genesis1S", translatorBridge);
         checkInMaps("genesis1T", translatorBridge);
@@ -705,6 +705,6 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("strackp3B", translatorBridge);
+        checkInMaps("genesis1H", translatorBridge);
     }
 }

@@ -63,7 +63,8 @@ public class VerbRepository extends Repository {
         }
         rootedConjugationMap.put(root + "@" + time, new RootedConjugation(time, conjugationPartList));
         conjugationPartList.stream().forEach(singleConjugationPart -> conjugationsMap.put(singleConjugationPart.getValue(), root));
-        conjugationPartList.stream().forEach(singleConjugationPart -> conjugationsMap.put(unaccentued(singleConjugationPart.getValue()), root));
+        conjugationPartList.stream().forEach(singleConjugationPart -> conjugationsMap.put(singleConjugationPart.getUnaccentuedValue(), root));
+        //conjugationPartList.stream().forEach(singleConjugationPart -> conjugationsMap.put(unaccentued(singleConjugationPart.getValue()), root));
     }
 
     private void extractIrregularForm(IrregularVerbDefinition verbDefinition, String form) {

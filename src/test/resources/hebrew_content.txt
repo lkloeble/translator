@@ -524,7 +524,7 @@ rachimichnap58L=>foo
 rachimichnap58M=>foo
 rachimichnap58N=>foo
 
-toto=>ללבן@1
+toto=>לא קרינו את
 א
 ב
 ג
