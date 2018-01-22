@@ -59,6 +59,7 @@ backs@neut%invmasc
 bacon@neut%invmasc
 baptism@neut%invmasc
 bar@neut%normmasc
+barren@neut%invmasc
 bdellium@neut%invmasc
 beast@neut%normmasc
 bed@neut%normmasc
@@ -202,6 +203,7 @@ cup@fem%normfem
 curiosit@fem%endy
 curry@neut%invmasc
 cush@neut%invmasc
+dan@neut%invmasc
 danger@neut%normmasc
 darkness@fem%invfem
 darling@fem%invfem
@@ -289,10 +291,12 @@ exaggeration@fem%normfem
 example@masc%normmasc
 excellent@neut%normmasc
 except@neut%invmasc
+exclusion@neut%normmasc
 exercise@neut%normmasc
 exercitation@neut%normmasc
 execution@neut%normmasc
 exclusive@adj%normmasc
+expression@neut%normmasc
 extensive@adj%normmasc
 external@adj%normmasc
 eye@masc%normmasc
@@ -327,6 +331,7 @@ folio@neut%invmasc
 food@fem%normfem
 foot@neut%invmasc
 footnote@neut%normmasc
+footstep@neut%normmasc
 foreign@adj%invmasc
 form@fem%normfem
 forty@neut%invmasc
@@ -426,6 +431,7 @@ idea@fem%normfem
 idumea@neut%invmasc
 ignorance@fem%normfem
 ii@neut%invmasc
+ill@adj%normmasc
 image@fem%normfem
 important@adj%normmasc
 instruction@neut%normmasc
@@ -871,6 +877,7 @@ toil@neut%invmasc
 torment@neut%normmasc
 tower@neut%normmasc
 town@fem%normfem
+tract@masc%normmasc
 tractate@neut%normmasc
 trade@masc%normmasc
 tradition@fem%normfem

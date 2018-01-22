@@ -24,6 +24,7 @@ befind,en,[mochten],(AIP*befi*befa*0)
 beginn,en,[leben]
 behaft,en,[mochten]
 behalt,en,[entstehen],(SPA*behal*behiel*0)
+behand,eln,[sammeln]
 behaupt,en,[mochten]
 beitrag,en,[lassen],(AIP*beitrag*beitrug*0)
 bekomm,en,[rufen],(AIP*bekomm*bekam*0)
@@ -100,6 +101,7 @@ haben@IRREGULAR%[IPR]=[habe,hast,hat,haben,habt,haben]%[AIP]=[hatte,hattest,hatt
 halt,en,[wollen]
 hang,en,[leben]
 heilig,en,[leben]
+heirat,en,[mochten]
 helf,en,[leben],(IPR*helft*hilft*0)
 heiss,en,[genesen]
 heranzuzieh,en,[leben]

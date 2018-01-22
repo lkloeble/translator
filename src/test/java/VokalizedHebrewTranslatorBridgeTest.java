@@ -158,7 +158,8 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
         return Arrays.asList(
                 new String[]{
                         "noma%sing%fem%h",
-                        "nomb%sing%fem%t"
+                        "nomb%sing%fem%t",
+                        "noma%plr%fem%wt"
                 });
     }
 
@@ -270,7 +271,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "s29864m63i60m000@masc%invmasc",
                 "s29864m64i60m000@masc%invmasc",
                 "smy@masc%invmasc",
-                "syh@fem%invfem",
+                "sy@fem%endingh",
                 "sw309s@masc%im-ot",
                 "swp@masc%im",
                 "tklt@adj%invmasc",
@@ -473,7 +474,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "sw309s@noun!im-ot%1(noun)=cheval",
                 "smy@verb!norm%1(verb)=entendre",
                 "smr@verb!norm%1(verb)=garder",
-                "syh@noun!invfem%1(noun)=heure",
+                "sy@noun!endingh%1(noun)=heure",
                 "swp@noun!im%1(noun)=fin",
                 "t'ht@prep%1(prep)=à la place de%2(prep)=sous",
                 "t63'h63t@prep%1(prep)=à la place de%2(prep)=sous",
@@ -1100,7 +1101,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failed_ones() {
         assertTrue(true);
-        checkInMaps("mishnah1G", translatorBridge);
+        checkInMaps("mishnah1I", translatorBridge);
     }
 
 }

@@ -277,7 +277,7 @@ loc@masc%locul
 locuints@fem%fem
 lucrar@fem%berea
 lucrator@masc%ul
-lucru@neut%inv
+lucr@masc%locul
 lum@fem%berea
 lumin@fem%fem
 lun@fem%fem

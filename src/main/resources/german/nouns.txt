@@ -97,6 +97,7 @@ best@adj%mein
 bestellung@fem%meinfem
 bestimmt@adj%ausreichend
 bestimmung@fem%meinfem
+betragt@adj%meinmasc
 bett@neut%schmerz
 bewahrt@adj%ausreichend
 beweis@masc%meer
@@ -114,6 +115,7 @@ boden@masc%arbeiter
 bodensee@neut%inv
 bose@neut%bose
 brasilianisch@adj%ausreichend
+braut@fem%angst
 bretter@neut%inv
 brief@masc%norm
 brigitte@fem%inv
@@ -178,6 +180,7 @@ eingeweiht@adj%ausreichend
 einl@neut%inv
 eins@masc%inv
 eintrittskarte@neut%flasche
+einzusenden@neut%inv
 england@neut%inv
 endlich@neut%inv
 eifer@neut%inv
@@ -194,6 +197,7 @@ epikurisch@adj%ausreichend
 erde@fem%flasche
 erdgeschoss@masc%inv
 erfolg@masc%jahrzehnt
+erforderlich@adj%ausreichend
 erfreulich@adj%ausreichend
 erkenntnis@fem%erkenntnis
 erklarung@fem%meinfem
@@ -299,6 +303,7 @@ gemeinde@fem%flasche
 genau@adj%ausreichend
 genealogie@fem%inv
 genealogisch@adj%ausreichend
+generation@fem%meinfem
 genues@adj%ausreichend
 genugsamkeit@neut%inv
 geratenst@adj%ausreichend
@@ -308,6 +313,7 @@ geruhmt@adj%ausreichend
 gesamt@adj%ausreichend
 gesammelt@adj%ausreichend
 gesamtheit@fem%meinfem
+gesclecht@neut%licht
 geschmacke@masc%licht
 geschwacht@adj%ausreichend
 geschichte@fem%flasche
@@ -410,6 +416,7 @@ jed@adj%ausreichend
 jeglich@adj%ausreichend
 jehuda@neut%inv
 jen@adj%ausreichend
+jerusalem@neut%inv
 jesu@masc%jesus
 jetzt@neut%inv
 jetztzeit@neut%inv
@@ -480,6 +487,7 @@ leiden@neut%inv[ablsg:leidens]
 leider@neut%inv
 leipzig@neut%inv
 leser@neut%inv
+letzt@adj%ausreichend
 letztgultig@adj%ausreichend
 leute@fem%flasche
 levit@neut%meinmasc
@@ -548,6 +556,7 @@ museum@neut%zeichen
 musik@fem%inv
 mut@masc%inv
 mutter@fem%inv
+mutterlich@adj%ausreichend
 mythus@neut%inv
 n@neut%inv
 nachdrucklich@adj%ausreichend
@@ -616,6 +625,7 @@ portrat@neut%meinmasc
 post@neut%inv
 praktisch@adj%norm
 priester@masc%zeichen
+priesterlich@adj%ausreichend
 problem@masc%norm
 problematisch@adj%ausreichend
 produkt@masc%ort
@@ -663,6 +673,7 @@ romantik@fem%inv
 romantisch@adj%mein
 rose@fem%flasche
 rot@adj%ausreichend
+rucksicht@fem%meinfem
 ruhelager@neut%inv
 s@neut%inv
 sabine@fem%inv
@@ -697,6 +708,7 @@ schriften@fem%inv
 schubert@neut%inv
 schuler@masc%arbeiter
 schwarz@adj%ausreichend
+schweigsamkeit@neut%inv
 schwelle@fem%flasche
 schwer@adj%ausreichend
 sechst@adj%ausreichend
@@ -814,6 +826,7 @@ unterlag@neut%meinmasc
 unterscheidend@adj%ausreichend
 unterschied@neut%meinmasc
 untertan@neut%meinmasc
+urkunde@fem%flasche
 urlaub@masc%norm
 ursache@fem%flasche
 ursprung@masc%meer
@@ -831,6 +844,7 @@ verfuhrendst@adj%ausreichend
 vergrubelt@neut%inv
 verhaltnis@neut%erkenntnis
 verkauf@neut%norm
+verlobt@adj%meinmasc
 vermischung@neut%norm
 verruckt@adj%norm
 versailles@neut%inv
@@ -853,6 +867,7 @@ volke@masc%norm
 vollendet@adj%ausreichend
 vorausstezung@fem%meinfem
 vorbild@neut%meer
+vorfahre@masc%flasche
 vorgeblich@adj%ausreichend
 vorgelegt@adj%ausreichend
 vorhanden@adj%ausreichend

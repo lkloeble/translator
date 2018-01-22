@@ -22,6 +22,7 @@
 δια@prep()
 διο@prep()
 δη@prep()
+εαυτων@prep()
 εις@prep()
 εκ@prep()
 εμπροσθεν@prep()%[electGenitiveForFollowingNoun]
@@ -42,6 +43,7 @@
 ινα@prep()
 και@prep()
 καθ@prep()%[findFollowindEmerav]
+καθηκοντως@prep()
 καθημεραν@prep()%[electGenitiveForFollowingNoun(καταgen),electAccusativeForFollowingNoun(καταacc)]
 κατ@prep()%[electGenitiveForFollowingNoun(καταgen),electAccusativeForFollowingNoun(καταacc)]
 κατα@prep()
@@ -129,6 +131,9 @@
 υποacc@prep()
 υποκατω@prep()
 υποgen@prep()
+υφ@prep%[electGenitiveForFollowingNoun(υφgen),electAccusativeForFollowingNoun(υφacc)]
+υφacc@prep()
+υφgen@prep()
 χαιρε@prep()
 χωρις@prep()%[electGenitiveForFollowingNoun(χωριςgen)]
 χωριςgen@prep()

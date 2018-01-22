@@ -394,6 +394,7 @@ inexplicabil@adj!adj%1(adj)=inexplicable
 inmormint@verb!norm%1(verb)=inhumer
 insa@prep%1(prep)=cependant%2(prep)=mais
 insasi@prep%1(prep)=elle-même
+insine@prep%1(prep)=mêmes
 insisi@prep%1(prep)=eux-mêmes
 insusi@prep%1(prep)=lui-même
 insist@verb!norm%1(verb)=insister
@@ -455,9 +456,9 @@ locu@verb!norm%1(verb)=habiter
 locuints@noun!fem%1(noun)=logement
 lor@prep%1(prep)=eux
 lucr@verb!norm%1(verb)=travailler
+lucr@noun!locul%1(noun)=chose%2(noun)=travail
 lucrar@noun!berea%1(noun)=travail
 lucrator@noun!ul%1(noun)=travailleur
-lucru@noun!inv%1(noun)=chose%2(noun)=travail
 lui@prep%1(prep)=son
 luigenitive@prep%1(prep)=de
 lum@noun!berea%1(noun)=monde
