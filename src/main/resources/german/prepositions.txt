@@ -103,6 +103,7 @@ hier@prep()
 hinauf@prep()
 hindurch@prep()
 hinter@prep()
+hinzu@prep()
 ich@prep()%[electPersonInFollowingVerb(0)]%!article!
 ihm@prep()
 ihn@prep()

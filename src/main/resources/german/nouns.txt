@@ -784,6 +784,7 @@ tiefe@fem%norm
 tier@masc%meer
 tisch@masc%meer
 tipp@masc%tipp!agenitive
+tochter@fem%invfem[genplr:tochtern]
 tomate@fem%flasche
 tora@neut%inv
 tosephta@neut%inv

@@ -23,6 +23,7 @@ alternative@fem%normfem
 amoraim@neut%invmasc
 ancestr@fem%endy
 ancient@neut%normmasc
+anciently@neut%invmasc
 and@neut%invmasc
 animal@neut%normmasc
 angry@adj%invmasc
@@ -53,6 +54,7 @@ available@adj%normmasc
 author@masc%normmasc
 authorit@fem%endy
 automata@neut%invmasc
+avites@neut%invmasc
 babylonian@adj%normmasc
 babylon@neut%invmasc
 backs@neut%invmasc
@@ -223,6 +225,7 @@ designation@fem%normfem
 desirable@adj%normmasc
 desire@neut%normmasc
 desperate@adj%normmasc
+deut@neut%invmasc
 dialect@neut%normmasc
 diet@neut%normmasc
 difference@fem%normfem
@@ -352,6 +355,7 @@ game@neut%normmasc
 garden@neut%normmasc
 gate@neut%normmasc
 gathering@masc%normmasc
+gaza@neut%invmasc
 gemara@fem%normmasc
 gemarist@neut%normmasc
 genealog@neut%endy
@@ -734,6 +738,7 @@ sally@neut%invmasc!agenitive
 salt@masc%normmasc
 samaria@fem%invfem
 same@neut%normmasc
+sandy@adj%invmasc
 sarah@fem%invfem
 saturday@neut%normmasc
 saviour@neut%normmasc
@@ -818,6 +823,7 @@ statute@fem%normfem
 steak@neut%invmasc
 steve@neut%invmasc
 steve@neut%invmasc
+strabo@neut%invmasc
 strength@fem%church
 string@fem%normfem
 stone@fem%normfem
