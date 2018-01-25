@@ -5,6 +5,7 @@ acesta@neut%inv
 act@masc%ul
 actsiune@fem%ereditate
 actsiun@masc%ul
+adancir@fem%berea
 adapost@masc%locul
 adevarat@adj%adj
 aici@neut%inv
@@ -35,6 +36,7 @@ ascet@masc%ul
 aspect@masc%ul
 aspirin@fem%fem
 atanasie@masc%inv
+atribuit@adj%adj
 autenticita@fem%capacitate
 autobuz@masc%ul
 autoconservare@neut%inv
@@ -101,7 +103,7 @@ confortabil@adj%adj
 coniac@masc%ul
 conservatoare@neut%inv
 considerat@adj%adjts
-constient@adj%adj
+constient@adj%adjts
 constiints@fem%fem
 consultatsi@fem%fem
 continuare@fem%ereditate
@@ -200,6 +202,7 @@ filocali@fem%fem
 filtr@masc%filtru
 fizic@adj%adj
 foc@masc%ul
+formar@fem%berea
 frat@masc%frate
 fricos@adj%adj
 frig@adj%adj
@@ -238,6 +241,7 @@ imprimat@adj%adj
 insomnie@fem%fem
 inca@neut%inv
 inceput@masc%ul
+inconstient@adj%adjts
 incorporare@fem%fem
 increder@fem%berea
 inexplicabil@adj%adj
@@ -250,6 +254,7 @@ intimplat@neut%inv
 intretsinut@adj%adj
 intunecare@neut%inv
 invatsatur@fem%fem
+invers@neut%inv
 ion@masc%inv
 ionescu@masc%inv
 istori@fem%fem
@@ -331,6 +336,8 @@ nascut@adj%adj
 natural@adj%adj
 neavind@neut%inv
 necaz@masc%ul
+necesar@adj%adj
+necesitat@fem%berea
 necunoscut@adj%adj
 negr@adj%adj
 nehotarit@adj%adjts
@@ -369,6 +376,7 @@ parasit@adj%adj
 parc@neut%inv
 parint@neut%parinte
 par@fem%capacitate
+pasiv@adj%inv
 patriarh@masc%ul
 patru@neut%inv
 patruzeci@neut%inv
@@ -459,6 +467,7 @@ scoal@fem%fem
 scop@masc%ul
 scrisoar@fem%berea[nomplr(a):scrisori,nomplr(b):scrisorile]
 scump@adj%adj
+seam@fem%fem
 sear@fem%fem
 secret@masc%ul
 sens@neut%inv
@@ -491,8 +500,10 @@ sticl@fem%fem
 stra@fem%adjverde
 stradiani@fem%fem
 subiect@masc%ul
+subordonat@adj%adj
 suficient@neut%inv
 sufragerie@fem%inv
+superioritat@fem%berea
 supranatural@adj%adj
 sut@fem%fem
 talentat@adj%adjts
@@ -536,6 +547,7 @@ urs@masc%ul
 us@fem%fem
 usor@adj%adj
 usuoar@adj%adj
+va@neut%inv
 vadit@adj%adj
 valorificare@neut%inv
 vampir@masc%ul

@@ -174,10 +174,6 @@ public class Word {
         }
     }
 
-    public boolean isDemonstrative() {
-        return wordType.equals(WordType.DEMONSTRATIVE);
-    }
-
     public Number getNumberElected() {
         if(hasNoRecursiveElected()) {
             return ((Noun)this).getElectedCaseNumber().getNumber();

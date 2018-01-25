@@ -6,6 +6,6 @@ package org.patrologia.translator.basicelements;
 public class Demonstrative extends Word {
 
     public Demonstrative(Language language, String initialValue, String root) {
-        super(WordType.DEMONSTRATIVE, initialValue, root, language);
+        super(WordType.UNKNOWN, initialValue, root, language);
     }
 }

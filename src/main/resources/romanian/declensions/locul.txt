@@ -1,5 +1,6 @@
 noma%sing%masc%
 nomb%sing%masc%ul
+nomc%sing%masc%u
 gen%sing%masc%ului
 noma%plr%masc%uri
 nomb%plr%masc%urile

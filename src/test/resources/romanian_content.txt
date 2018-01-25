@@ -337,7 +337,7 @@ staniloae1T=>Noi consideram ca raționalitatea cosmosului e o marturie a faptulu
 staniloae1U=>Pe de alta parte, cosmosul însuși ar fi fără sens împreună cu raționalitatea lui dacă n-ar fi dată rațiunea umană care să-l cunoască pe baza raționalității lui.
 staniloae1V=>In credința noastra, raționalitatea cosmosului are un sens numai daca e cugetat inainte de creare si in toata continuarea lui de o ființa creatoare cunoscatoare, fiind adus la existența pentru a fi cunoscut de o ființa pentru care e creat si, prin aceasta, pentru a realiza intre sine si acea ființa raționala creata un dialog prin mijlocirea lui.
 staniloae1W=>Acest fapt constituie conținutul revelației naturale.
-staniloae1X=>Acest lucru@1 insă îl afirmă si revelația crestină supranaturală prin invățătura ca poziției originare creatoare si conservatoare a lui Dumnezeu în fața lumii ii corespunde, pe un plan mai coborât sau de dependență, poziția noastra de ființa cunoscătoare si prelucrătoare a naturii, ca chip al lui Dumnezeu.
+staniloae1X=>Acest lucru@N1 insă îl afirmă si revelația crestină supranaturală prin invățătura ca poziției originare creatoare si conservatoare a lui Dumnezeu în fața lumii ii corespunde, pe un plan mai coborât sau de dependență, poziția noastra de ființa cunoscătoare si prelucrătoare a naturii, ca chip al lui Dumnezeu.
 staniloae1Y=>In aceasta poziție a omului, se arată ca lumea are o raționalitate pentru a fi cunoscută de noi – ființe raționale.
 staniloae1Z=>De aceea ea trebuie sa aiba originea într-o ființa care a urmarit prin crearea lumii – si urmărește prin conservarea ei – cunoasterea lumii, si prin ea însăși si cunoasterea ei de către om.
 staniloae1AA=>Noi aparem ca unica ființa care, aparținand lumii vazute si imprimate de raționalitate, e constienta de aceasta raționalitate a ei si, odata cu aceasta, de sine insasi.
@@ -346,10 +346,10 @@ toto=>Fiind singura ființa din lume constienta de sine, omul este totodata cons
 staniloae1CC=>Noi nu putem fi constienți de noi inșine fara a fi constienți de lume si de lucrurile@1N din ea.
 staniloae1DD=>Cu cat cunoastem mai bine lumea, sau suntem mai constienți de noi insine.
 staniloae1EE=>Dar lumea, contribuind în modul acesta pasiv la formarea noastra si la adancirea constiinței de sine a noastra, nu devine prin aceasta si ea insasi constienta de sine.
-staniloae1FF=>Aceasta inseamna ca nu noi suntem pentru lume, ci lumea pentru noi, desi lumea ii este necesara omului.
+staniloae1FF=>Aceasta inseamna ca nu noi suntem pentru lume, ci lumea pentru noi, desi lumea ii este necesară omului.
 staniloae1GG=>Omul e scopul lumii, nu invers.
 staniloae1HH=>Chiar faptul ca noi ne dam seama ca lumea ne este necesara e un fapt care arata poziția de superioritate a omului fața de lume.
-staniloae1II=>Caci lumea nu e in stare sa simta necesitatea noastra pentru ea, lumea, existand ca obiect inconstient, exista pentru.
+staniloae1II=>Caci lumea nu e in stare sa simta necesitatea noastra pentru ea, lumea, existand ca obiect inconștient, exista pentru.
 staniloae1JJ=>Ea e subordonata lui, fara insa sa o fi facut el.
 
 ă

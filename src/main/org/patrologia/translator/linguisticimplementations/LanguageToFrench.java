@@ -151,9 +151,6 @@ public abstract class LanguageToFrench implements TranslatorRepository {
                 translationRoot = customTranslationMap.get(word.getRoot() + "P");
             }
             return translationRoot;
-        } else if(word.isDemonstrative()) {
-            String translationRoot = customTranslationMap.get(formRepository.getValueByForm(new Form(word.getRoot(), word.getRoot(), WordType.DEMONSTRATIVE, word.getRoot(),word.getPreferedTranslation())) + "D");
-            return translationRoot;
         }
         return "";
     }
@@ -174,12 +171,16 @@ public abstract class LanguageToFrench implements TranslatorRepository {
         String fullWordDefinition = null;
         String root = word.getRoot() + "@";
         for(String definition : dictionaryDefinitions) {
-            if(definition.startsWith(root)) {
+            if(definition.startsWith(root) && wordHasCorrectExpectedType(definition, word.getWordType())) {
                 fullWordDefinition = definition;
                 break;
             }
         }
         return getAlternateDictionaryTranslation(fullWordDefinition, word.getPreferedTranslation(), word);
+    }
+
+    protected boolean wordHasCorrectExpectedType(String definition, WordType wordType) {
+        return definition.contains(wordType.getDefinitionString().toLowerCase());
     }
 
     private String getAlternateDictionaryTranslation(String fullWordDefinition, int preferedTranslation, Word word) {
