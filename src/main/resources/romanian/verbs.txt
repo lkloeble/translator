@@ -65,10 +65,11 @@ intunec,,[cauta]
 iub,,[aciti]
 intovaras,,[locuiesc]
 inva,,[invata],(IPR*atsi*etsi*1)
+lua@IRREGULAR%[IPR]=[iau,iei,ia,luam,luatsi,iau]%[PAP]=[luat]%[PAPR]=[luand]%[INFINITIVE]=[lua]
 locu,,[locuiesc]
 lucr,,[fumez]
 maninc@IRREGULAR%[IPR]=[maninc,maninci,maninca,mancam,mancati,mananca]%[INFINITIVE]=[maninca]
-mantui,,[mantui]
+mantui,,[mantui],(AIF*man*vaman*0)
 ments,,[mentsin]
 merg,,[face]
 mor,,[dorm],(IPR2*mor*moar*0@IPR34*mor*mur*0@PAP*mor*mur*0)

@@ -69,14 +69,18 @@ public class WordAnalyzer {
                     result.addWordsAtPosition(indice, wordsToAdd);
                 }
                 if (unknownYet.isVerb() || unknownYet.isTypeUnknow() && verbRepository.hasVerb(initialValue)) {
-                    Verb verb = verbRepository.getVerb(initialValue);
-                    verb.setInitialValue(initialValue);
-                    verb.setPreferedTranslation(unknownYet.getPreferedTranslation());
-                    if(unknownYet.isVerb()) {
-                        verb.setForbiddenConjugations(unknownYet.getForbiddenConjugations());
-                        verb.setGender(unknownYet.getGender());
+                    Collection<Verb> verbs = verbRepository.getVerbs(initialValue);
+                    Collection<Word> wordsToAdd = new ArrayList<>();
+                    for(Verb verb : verbs) {
+                        verb.setInitialValue(initialValue);
+                        verb.setPreferedTranslation(unknownYet.getPreferedTranslation());
+                        if (unknownYet.isVerb()) {
+                            verb.setForbiddenConjugations(unknownYet.getForbiddenConjugations());
+                            verb.setGender(unknownYet.getGender());
+                        }
+                        wordsToAdd.add((Word) verb);
                     }
-                    result.addWordAtPosition(indice, verb);
+                    result.addWordsAtPosition(indice, wordsToAdd);
                 }
                 /*
                 if(unknownYet.isTypeUnknow() && demonstrativeRepository.hasDemonstrative(initialValue)) {

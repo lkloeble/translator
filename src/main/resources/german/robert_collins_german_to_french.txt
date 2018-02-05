@@ -22,6 +22,7 @@ alpen@noun!inv%1(noun)=alpes
 als@prep%1(pre)=en tant que%2(prep)=que
 also@prep%1(noun)=aussi
 alt@noun!ausreichend%1(adj)=vieux
+altar@noun!phanomen%1(noun)=autel
 altest@adj!ausreichend%1(adj)=plus vieux
 amerikanisch@adj!ausreichend%1(adj)=américain
 an@prep%1(noun)=sur
@@ -78,6 +79,7 @@ aufhor@verb!norm%1(verb)=arreter
 aufles@verb!norm%1(verb)=ramasser
 aufregend@adj!ausreichend%1(adj)=excitant
 aufstellung@noun!meinfem%1(noun)=relevé%2(noun)=inventaire%3(noun)=liste
+aufwarts@prep%1(prep)=vers le haut
 aufwiederhoren@noun!inv%1(noun)=au revoir
 aufwiedersehen@noun!inv%1(noun)=au revoir
 aufzieh@verb!norm%1(verb)=remonter
@@ -121,6 +123,7 @@ baum@noun!jahrzehnt%1(noun)=arbre
 beabsichtig@verb!norm%1(verb)=planifier
 bearbeit@verb!norm%1(verb)=editer
 bedau@verb!norm%1(verb)=regretter
+bedarf@verb!norm%1(verb)=avoirbesoin
 bedeut@verb!norm%1(verb)=signifier
 befass@verb!norm%1(verb)=envisager
 befind@verb!norm%1(verb)=setrouver
@@ -291,6 +294,7 @@ druck@noun!meinmasc%1(noun)=impression
 druck@verb!norm%1(verb)=mettre
 druckerei@noun!meinfem%1(noun)=impression
 du@prep%1(noun)=tu
+dukhan@noun!inv%1(noun)=dukhanen (birkat kohanim)
 dumm@noun!inv%1(noun)=stupide
 durch@prep%1(prep)=via%2(prep)=par
 durchsicht@noun!meinfem%1(noun)=examen
@@ -472,12 +476,13 @@ gefiedert@adj!ausreichend%1(adj)=couvert de plumes
 geflugel@noun!arbeiter%1(noun)=volaille
 gegeben@adj!ausreichend%1(adj)=factuel%2(noun)=préexistant%3(noun)=donné
 gegen@prep%1(prep)=contre
-gegenwartig@adj!ausreichend%1(adj)=existant%2(adj)=présent%3(adj)=contemporain%4(adj)=courant
-geheim@adj!ausreichend%1(adj)=secret
 gegenwart@noun!inv%1(noun)=présence%2(noun)=temps présent
+gegenwartig@adj!ausreichend%1(adj)=existant%2(adj)=présent%3(adj)=contemporain%4(adj)=courant
+geh@verb!norm%1(verb)=aller
+geheim@adj!ausreichend%1(adj)=secret
 geheimnis@noun!erkenntnis%1(noun)=secret
 geheimnisvoller@noun!ausreichend%1(adj)=mystérieux
-geh@verb!norm%1(verb)=aller
+gehor@verb!norm%1(noun)=appartenir
 geist@noun!norm%1(noun)=esprit
 geld@noun!inv%1(noun)=argent
 gelehrt@noun!ausreichend%1(adj)=enseigné

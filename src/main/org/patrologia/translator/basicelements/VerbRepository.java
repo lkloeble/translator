@@ -10,8 +10,8 @@ import java.util.*;
  */
 public class VerbRepository extends Repository {
 
-    private Map<String, String> conjugationsMap = new HashMap<>();
-    private Map<String, Verb> verbMap = new HashMap<>();
+    private ConjugationMap conjugationsMap = new ConjugationMap();
+    private VerbMap verbMap = new VerbMap(conjugationsMap);
     private Map<String, RootedConjugation> rootedConjugationMap = new HashMap<>();
     private TranslationBeanMap translationBeansMap = new TranslationBeanMap();
 
@@ -101,16 +101,20 @@ public class VerbRepository extends Repository {
             if(s.startsWith("auto")) System.out.println(s);
         }
         */
-        return conjugationsMap.containsKey(initialValue) || conjugationsMap.containsKey(unaccentued(initialValue));
+        return conjugationsMap.containsKey(initialValue);
     }
 
     public Verb getVerb(String initialValue) {
-        String key = conjugationsMap.get(initialValue);
-        if (key == null) key = conjugationsMap.get(unaccentued(initialValue));
+        String key = conjugationsMap.getFirstKey(initialValue);
+        if (key == null) key = conjugationsMap.getFirstKey(unaccentued(initialValue));
         if (key == null) key = initialValue;
-        Verb toClone = verbMap.get(key);
+        Verb toClone = verbMap.getVerb(key);
         if (toClone == null) return new NullVerb(language, null, null);
         return new Verb(toClone);
+    }
+
+    public Collection<Verb> getVerbs(String initialValue) {
+        return verbMap.getAllVerbs(initialValue);
     }
 
     public TranslationInformationBean getAllFormsForTheVerbRoot(String root) {

@@ -129,6 +129,7 @@ censure@neut%normmasc
 century@neut%invmasc
 cereal@neut%normmasc
 certain@adj%normmasc
+champaign@neut%normmasc
 change@masc%normmasc
 chapter@neut%normmasc
 character@neut%normmasc
@@ -323,6 +324,7 @@ firmament@masc%normmasc
 first@adj%invmasc
 firstborn@neut%invmasc
 fish@neut%invmasc
+five@neut%invmasc
 flaming@neut%invmasc
 flat@neut%invmasc
 flavour@fem%invfem
@@ -344,6 +346,7 @@ fred@neut%invmasc
 free@neut%invmasc
 freely@neut%invmasc
 french@neut%church
+frequent@adj%normmasc
 friend@masc%normmasc
 friendship@masc%normmasc
 fruit@masc%normmasc
@@ -384,6 +387,7 @@ guide@masc%normmasc
 gun@masc%normmasc
 guy@neut%invmasc
 gym@neut%invmasc
+habitation@neut%normmasc
 hagigah@neut%invmasc
 hall@neut%normmasc
 hampstead@neut%invmasc
@@ -456,8 +460,10 @@ jn@neut%invmasc
 job@masc%normmasc
 john@neut%invmasc
 jordan@neut%invmasc
+josephus@neut%invmasc
 joynt@neut%normmasc
 jones@neut%invmasc
+jos@neut%invmasc
 joseph@masc%invmasc
 judea@neut%invmasc
 judicature@neut%invmasc
@@ -471,6 +477,7 @@ kingdom@masc%normmasc
 kingdome@masc%invmasc
 kitchen@neut%normmasc
 knowledge@neut%normmasc
+lake@neut%normmasc
 lamb@masc%normmasc
 land@neut%normmasc
 language@neut%normmasc
@@ -490,6 +497,7 @@ legal@adj%invmasc
 lenny@neut%invmasc!agenitive
 lesser@adj%invmasc
 letter@neut%normmasc
+level@neut%normmasc
 leviathan@neut%normmasc
 life@fem%invfem
 lifetime@fem%invfem
@@ -514,6 +522,7 @@ lowest@neut%invmasc
 lucky@adj%invmasc
 luke@masc%invmasc
 lunch@neut%invmasc
+maccabees@neut%invmasc
 magistrate@neut%normmasc
 majestic@neut%normmasc
 male@masc%normmasc
@@ -542,6 +551,7 @@ memor@fem%endy
 mentor@masc%normmasc
 mere@neut%invmasc
 michael@masc%invmasc
+middle@neut%invmasc
 middleages@neut%invmasc
 midst@neut%invmasc
 mike@neut%invmasc
@@ -595,6 +605,8 @@ notice@neut%normmasc
 notion@neut%normmasc
 novel@adj%invmasc
 num@neut%invmasc
+number@neut%normmasc
+numbered@neut%invmasc
 occasional@adj%normmasc
 odd@masc%normmasc
 officer@neut%normmasc
@@ -615,6 +627,7 @@ p@neut%invmasc
 pact@neut%normmasc
 page@fem%normfem
 pain@masc%normmasc
+palestine@neut%invmasc
 palestinian@adj%normmasc
 paragraph@masc%normmasc
 parallel@neut%normmasc
@@ -634,14 +647,16 @@ performe@neut%invmasc
 persecution@fem%normfem
 person@neut%normmasc
 personal@adj%invmasc
+philistine@neut%normmasc
 phoenician@neut%normmasc
-pint@fem%normfem
 physical@adj%normmasc
 phone@neut%invmasc
 phrase@fem%normfem
 piano@neut%invmasc
+pint@fem%normfem
 pishon@neut%invmasc
 place@fem%normfem
+plain@adj%invmasc
 plant@fem%normfem
 pleasant@neut%invmasc
 please@neut%invmasc
@@ -792,6 +807,7 @@ sixty@neut%invmasc
 skin@neut%normmasc
 sleep@masc%invmasc
 small@adj%invmasc
+sodom@neut%invmasc
 software@neut%normmasc
 solomon@neut%invmasc
 someone@neut%invmasc
@@ -806,6 +822,7 @@ sort@neut%normmasc
 sound@neut%normmasc
 south@neut%invmasc
 soul@fem%normfem
+southern@neut%invmasc
 soveraigne@neut%invmasc
 soveraignt@fem%endy
 sp@neut%invmasc

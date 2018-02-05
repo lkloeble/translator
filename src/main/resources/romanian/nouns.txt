@@ -245,6 +245,7 @@ inconstient@adj%adjts
 incorporare@fem%fem
 increder@fem%berea
 inexplicabil@adj%adj
+insemnar@fem%ratsiune
 insurat@adj%adjts
 inteligent@adj%adjts
 interes@masc%ul

@@ -39,6 +39,16 @@ public class WordContainer {
         wordSet.addAll(words);
     }
 
+    public void deleteAllWordTypeExceptThisOne(WordType wordType) {
+        Set<Word> newWordSet = new HashSet<>();
+        for(Word word : getWordSet()) {
+            if(word.hasType(wordType)) {
+                newWordSet.add(word);
+            }
+        }
+        this.wordSet = newWordSet;
+    }
+
     public boolean containsUniqueWord() {
         return wordSet.size() == 1;
     }

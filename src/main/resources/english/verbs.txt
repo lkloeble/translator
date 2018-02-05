@@ -82,7 +82,7 @@ do,[live],(AIP*dod*did*0@IPR2*dos*does*0@AII*do*did*0@PAP*dod*done*0)
 draw,[live],(PAP*drawd*drawn*0)
 drink,[call]
 drive,[live],(AIP*drived*drove*0@PAP*drived*driven*0)
-dwell,[live]
+dwell,[live],(AII*dwelld*dwelt*0)
 eat,[see],(AIP*eat*ate*0@PAP*eatd*eaten*0)
 edit,[call]
 emulate,[live]
@@ -135,7 +135,7 @@ know,[live],(AIP*knowd*knew*0@PAP*knowd*known*0)
 lay,[live],(AIP*layd*laid*0)
 learn,[live]
 leave,[live]
-lie,[live]
+lie,[live],(PAPR*lie*ly*0)
 like,[live]
 live,[live]
 locate,[live]
@@ -166,6 +166,7 @@ possess,[teach]
 preach,[teach]
 prefer,[live],(PAP*preferd*preferred*0)
 profess,[teach]
+promise,[live],(PAPR*promise*promis*0)
 pronounce,[live]
 protect,[live]
 publish,[teach]
@@ -186,7 +187,7 @@ respect,[call]
 rest,[call]
 retain,[live]
 return,[call]
-rise,[live],(AIP*rised*rose*0)
+rise,[live],(AIP*rised*rose*0@PAPR*rise*ris*0)
 rule,[live]
 say,[live],(AII*say*sai*0)
 sanctify,[live],(AIP*fyd*fied*1@PAP*sanctifyd*sanctified*0)
@@ -239,7 +240,7 @@ unite,[live]
 unriddle,[live]
 upfollow,[live]
 uplay,[live],(AIP*uplayd*uplaid*0)
-uprise,[live],(AIP*uprised*uprose*0)
+uprise,[live],(AIP*uprised*uprose*0@PAPR*uprise*upris*0)
 use,[live]
 walk,[live]
 water,[call]

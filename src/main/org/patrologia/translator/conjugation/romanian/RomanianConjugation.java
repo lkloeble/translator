@@ -19,7 +19,7 @@ public class RomanianConjugation extends Conjugation {
     private String conjugationFilePath;
     private ConjugationLoader conjugationLoader = new ConjugationLoader();
 
-    protected static List<String> times = Arrays.asList(new String[]{"IPR","AIMP","CONJ","MMCP"});
+    protected static List<String> times = Arrays.asList(new String[]{"IPR","AIMP","CONJ","MMCP","AIF"});
 
     public RomanianConjugation(List<String> conjugationElements, VerbDefinition verbDefinition) {
         this.verbDefinition = verbDefinition;

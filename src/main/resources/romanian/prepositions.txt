@@ -176,7 +176,7 @@ totodata@prep()
 totusi@prep()
 unde@prep()
 unora@prep(gen)
-va@prep()%[varogFinder]
+va@prep()%[varogFinder,recomposeVaVerb]
 varog@prep()
 vorba@prep()
 xxminusixx@prep()

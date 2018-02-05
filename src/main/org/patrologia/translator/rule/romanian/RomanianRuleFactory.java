@@ -62,6 +62,8 @@ public class RomanianRuleFactory extends RuleFactory {
             return new RuleComposeCuAtitMaiBine();
         }  else if("recomposeArVerb".equals(ruleName)) {
             return new RuleComposeArVerb();
+        } else if("recomposeVaVerb".equals(ruleName)) {
+            return new RuleComposeVaVerb();
         }
         return null;
     }

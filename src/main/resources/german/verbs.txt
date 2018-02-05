@@ -17,6 +17,7 @@ aufzieh,en,[leben],(PAP*aufzieht*aufgezogen*0)
 bau,en,[leben]
 beabsichtig,en,[leben]
 bearbeit,en,[mochten]
+bedarf,en,[wollen]
 bedau,ern,[bedauern]
 bedeut,en,[mochten]
 befass,en,[genesen]
@@ -92,6 +93,7 @@ garantier,en,[leben]
 geb,en,[leben],(IPR124*geb*gib*0)
 gebar,en,[leben],(IPR12*gebar*gebier*0@PAP*gebart*geboren*0)
 geh,en,[lassen],(AIP*geh*ging*0@PAP*geh*gegang*0)
+gehor,en,[leben]
 gelt,en,[stehen],(AIP*gel*gal*0)
 genes,en,[genesen]
 gernhaben@IRREGULAR%[INFINITIVE]=[gernhaben]%[IPR]=[gernhabe,gernhast,gernhat,gernhaben,gernhabt,gernhaben]
@@ -108,7 +110,7 @@ heiss,en,[genesen]
 heranzuzieh,en,[leben]
 herrsch,en,[leben]
 hinstell,en,[leben],(PAP*hins*hinges*0)
-hor,en,[leben]
+hor,en,[leben],(PAP*hor*gehor*0)
 informier,en,[leben]
 interessier,en,[leben]
 kampf,en,[leben]

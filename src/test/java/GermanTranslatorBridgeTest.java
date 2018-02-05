@@ -14,10 +14,7 @@ import org.patrologia.translator.rule.german.GermanRuleFactory;
 import org.patrologia.translator.utils.Analizer;
 
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 import static junit.framework.Assert.assertTrue;
 
@@ -67,11 +64,10 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "sum@IRREGULAR%[IPR]=[sum,es,est,sumus,estis,sunt]%[AII]=[eram,eras,erat,eramus,eratis,erant]%[AIF]=[ero,eris,erit,erimus,eritis,erunt]%[INFINITIVE]=[esse]%[ASP]=[sim,sis,sit,simus,sitis,sint]%[ASI]=[essem,esses,esset,essemus,essetis,essent]%[AIP]=[fui,fuisti,fuit,fuimus,fuistis,fuerunt]%[AIPP]=[fueram,fueras,fuerat,fueramus,fueratis,fuerant]%[IAP]=[fuisse]%[AIFP]=[fuero,fueris,fuerit,fuerimus,fueritis,fuerint]",
-                "sum,o,is,ere,,,[o-is]"
+                "gehor,en,[leben]",
+                "hor,en,[leben],(PAP*hor*gehor*0)"
         });
         */
-
         return getFileContentForRepository(verbFileDescription);
     }
 
@@ -705,6 +701,6 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("genesis1H", translatorBridge);
+        checkInMaps("stracksourceJ", translatorBridge);
     }
 }

@@ -185,7 +185,7 @@ poti,or,ris,ri,,,[or-ris]
 praeced,o,is,ere,,,[o-is]
 praepar,o,as,are,,,[o-as]
 praest,o,as,are,,,[o-as],(ASI*praest*praestar*0)
-praesum@IRREGULAR%[IPR]=[praesum,praees,praeest,praesumus,praeestis,praesunt]%[AII]=[praeeram,praeeras,praeerat,praeeramus,praeeratis,praeerant]%[AIF]=[praeero,praeeris,praeerit,praeerimus,praeeritis,praeerunt]%[INFINITIVE]=[esse]%[ASP]=[praesim,praesis,praesit,praesimus,praesitis,praesint]%[ASI]=[praeessem,praeesses,praeesset,praeessemus,praeessetis,praeessent]%[AIP]=[praefui,praefuisti,praefuit,praefuimus,praefuistis,praefuerunt]
+praesum@IRREGULAR%[IPR]=[praesum,praees,praeest,praesumus,praeestis,praesunt]%[AII]=[praeeram,praeeras,praeerat,praeeramus,praeeratis,praeerant]%[AIF]=[praeero,praeeris,praeerit,praeerimus,praeeritis,praeerunt]%[INFINITIVE]=[praesse]%[ASP]=[praesim,praesis,praesit,praesimus,praesitis,praesint]%[ASI]=[praeessem,praeesses,praeesset,praeessemus,praeessetis,praeessent]%[AIP]=[praefui,praefuisti,praefuit,praefuimus,praefuistis,praefuerunt]
 prob,o,as,are,,,[o-as]
 prod,eo,is,ire,ii,itum,[eo-is]
 produc,o,is,ere,,,[o-is],(AIPP*produc*produx*0@AIFP*producs*produx*0@AIP*produc*produx*0)

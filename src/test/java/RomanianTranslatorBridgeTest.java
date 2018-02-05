@@ -16,10 +16,7 @@ import org.patrologia.translator.linguisticimplementations.Translator;
 import org.patrologia.translator.rule.romanian.RomanianRuleFactory;
 import org.patrologia.translator.utils.Analizer;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 import static junit.framework.Assert.assertTrue;
 import static junit.framework.TestCase.assertEquals;
@@ -88,8 +85,8 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "sum@IRREGULAR%[IPR]=[sum,es,est,sumus,estis,sunt]%[AII]=[eram,eras,erat,eramus,eratis,erant]%[AIF]=[ero,eris,erit,erimus,eritis,erunt]%[INFINITIVE]=[esse]%[ASP]=[sim,sis,sit,simus,sitis,sint]%[ASI]=[essem,esses,esset,essemus,essetis,essent]%[AIP]=[fui,fuisti,fuit,fuimus,fuistis,fuerunt]%[AIPP]=[fueram,fueras,fuerat,fueramus,fueratis,fuerant]%[IAP]=[fuisse]%[AIFP]=[fuero,fueris,fuerit,fuerimus,fueritis,fuerint]",
-                "sum,o,is,ere,,,[o-is]"
+                "am@IRREGULAR%[IPR]=[am,ai,are,avem,avetsi,au]%[CONJ]=[x,x,aiba,x,x,aiba]%[INFINITIVE]=[avea]",
+                "fum,,[fumez]"
         });
         */
 
@@ -536,6 +533,11 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     }
 
     @Test
+    public void test_staniloae_chap1_point3() {
+        assertTrue(false);
+    }
+
+    @Test
     public void test_trone_de_fer_chapter1() {
         checkInMaps("urzeala1A", translatorBridge);
         checkInMaps("urzeala1B", translatorBridge);
@@ -614,7 +616,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("filocalia1R", translatorBridge);
+        checkInMaps("assimil12B", translatorBridge);
     }
     
 }

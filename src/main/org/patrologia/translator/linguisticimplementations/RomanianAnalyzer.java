@@ -38,6 +38,7 @@ public class RomanianAnalyzer implements Analizer {
         phrase = affectPluralForSintVerbAndPluralWords(phrase);
         phrase = wordAnalyzer.affectAllPossibleInformationsWithAnotherRule(phrase, new CustomRule(true));
         Analysis analysis = phraseAnalizer.affectAllPossibleInformationsBetweenWords(Language.ROMANIAN, phrase);
+
         return phraseAnalizer.affectAllPossibleInformationsBetweenWords(Language.ROMANIAN, analysis.getPhrase());
     }
 

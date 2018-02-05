@@ -9,6 +9,7 @@ andrerseits@prep()
 auch@prep()
 auf@prep()%[verbLeadingPreposition,recomposeAufGrund]
 aufgrund@prep()
+aufwarts@prep()
 augenblicklich@prep()
 aus@prep()%[verbLeadingPreposition]
 ausser@prep()
