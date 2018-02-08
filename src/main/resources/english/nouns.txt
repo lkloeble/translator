@@ -437,6 +437,7 @@ hypocrisy@fem%invfem
 ibid@neut%invmasc
 idea@fem%normfem
 idumea@neut%invmasc
+idumean@neut%normmasc
 ignorance@fem%normfem
 ii@neut%invmasc
 ill@adj%normmasc
@@ -465,6 +466,7 @@ joynt@neut%normmasc
 jones@neut%invmasc
 jos@neut%invmasc
 joseph@masc%invmasc
+judas@masc%invmasc
 judea@neut%invmasc
 judicature@neut%invmasc
 karen@neut%invmasc!agenitive
@@ -657,6 +659,7 @@ pint@fem%normfem
 pishon@neut%invmasc
 place@fem%normfem
 plain@adj%invmasc
+plain@fem%normmasc
 plant@fem%normfem
 pleasant@neut%invmasc
 please@neut%invmasc

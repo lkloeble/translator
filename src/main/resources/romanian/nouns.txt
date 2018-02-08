@@ -238,6 +238,8 @@ important@adj%adj
 imposibil@neut%inv
 impresi@fem%fem
 imprimat@adj%adj
+incredintsar@fem%berea
+indreptar@fem%berea
 insomnie@fem%fem
 inca@neut%inv
 inceput@masc%ul
@@ -245,6 +247,7 @@ inconstient@adj%adjts
 incorporare@fem%fem
 increder@fem%berea
 inexplicabil@adj%adj
+inger@masc%ul
 insemnar@fem%ratsiune
 insurat@adj%adjts
 inteligent@adj%adjts
@@ -451,6 +454,7 @@ ros@adj%adj
 roscat@adj%adj
 rost@neut%ul
 rud@fem%fem
+rugaciun@fem%caine
 salbatic@adj%adj
 salbaticit@adj%adj
 salut@masc%inv

@@ -1,2 +1,3 @@
 IPR=>,i,e,im,itsi,e
 PAP=>it
+PAPR=>ind

@@ -148,7 +148,7 @@ assimil11J=>ei da@P, și nu e loc pentru soția ta.
 assimil11K=>exact, mai ales că nevastă-mea iubește animalele și plantele
 assimil11L=>și are un canar și o mușcată ?
 assimil11M=>nu, un cîine-lup și un palmier
-assimil11N=>sîntem vecini, locuim în cartier, chiar lîngă voi
+assimil11N=>sîntem vecini, locuim în cartier, chiar lîngă voi@N
 assimil11O=>am un apartament mare și  confortabil
 assimil11P=>locuința e prea mică pentru cinci persoane
 assimil11Q=>bunicii sînt in sufragerie, părinții în dormitor
@@ -358,25 +358,17 @@ staniloae1JJ=>Ea e subordonata lui, fara insa sa o fi facut el.
 
 
 P12
-Rațiunile lucrurilor isi descopera lumina lor in rațiunea si prin acțiunea raționala si constienta a omului.
-Rațiunea noastra de asemenea isi descopera tot mai bogat puterea si adancimea ei prin descoperirea
-rațiunilor lucrurilor. Dar in aceasta influența reciproca, rațiunea umana este cea care are rolul de subiect
-care lucreaza in mod constient, nu rațiunile lucrurilor. Rațiunile lucrurilor se descopera constiinței
-umane, avand sa fie asimilate de aceasta, concentrate in ea ; se descopera avand ca centru virtual
-constient al lor rațiunea umana, si ajutand-o sa devina centrul in curs de a fi descoperite ca raze
-actuale ale ei, prin care rațiunea umana isi extinde tot mai departe vederea.
-Faptul ca lumea se lumineaza in om si pentru om si prin om, arata ca lumea e pentru om, nu omul
-pentru lume. Dar faptul ca omul insusi, luminand lumea, se lumineaza pe sine pentru sine prin lume,
-arata ca si lumea e necesara pentru om. Lumea e facuta pentru a fi umanizata, nu omul pentru a fi
-asimilat lumii, naturii. Lumea intreaga e facuta pentru a deveni un om mare, sau conținutul omului
-devenit in fiecare persoana atotcuprinzator, nu omul pentru a fi parte a naturii si neinsemnand in ea mai
-mult decat orice alta parte a naturii si neinsemnand n ea mai mult decat orice alta parte a ei, sau
-contopindu-se in ea. Caci printr-o eventuala contopire a omului in natura s-ar pierde cel mai important
-factor al realitatii, fara ca natura sa castige ceva nou, pe cand prin asimilarea lumii in om, natura insasi
-castiga, fiind ridicata pe un plan cu totul nou, fara sa se pierda propriu-zis. Pierderea noastra in natura
-nu reprezinta nici un progres nici pentru natura, pe cand umanizarea continua sau eterna a naturii
-reprezinta un progres etern, facand abstractie de faptul ca prin aceasta nu se pierde nimic si mai ales
-nu se pierde ceea ce e mai valoros in realitate.
+staniloae4A=>Rațiunile lucrurilor isi descopera lumina lor in rațiunea si prin acțiunea raționala si constienta a omului.
+staniloae4B=>Rațiunea noastra de asemenea isi descopera tot mai bogat puterea si adancimea ei prin descoperirea rațiunilor lucrurilor.
+staniloae4C=>Dar in aceasta influența reciproca, rațiunea umana este cea care are rolul de subiect care lucreaza in mod constient, nu rațiunile lucrurilor.
+staniloae4D=>Rațiunile lucrurilor se descopera constiinței umane, avand sa fie asimilate de aceasta, concentrate in ea ;
+staniloae4E=>se descopera avand ca centru virtual constient al lor rațiunea umana, si ajutand-o sa devina centrul in curs de a fi descoperite ca raze actuale ale ei, prin care rațiunea umana isi extinde tot mai departe vederea.
+staniloae4F=>Faptul ca lumea se lumineaza in om si pentru om si prin om, arata ca lumea e pentru om, nu omul pentru lume.
+staniloae4G=>Dar faptul ca omul insusi, luminand lumea, se lumineaza pe sine pentru sine prin lume, arata ca si lumea e necesara pentru om.
+staniloae4H=>Lumea e facuta pentru a fi umanizata, nu omul pentru a fi asimilat lumii, naturii.
+staniloae4I=>Lumea intreaga e facuta pentru a deveni un om mare, sau conținutul omului devenit in fiecare persoana atotcuprinzator, nu omul pentru a fi parte a naturii si neinsemnand in ea mai mult decat orice alta parte a naturii si neinsemnand n ea mai mult decat orice alta parte a ei, sau contopindu-se in ea.
+staniloae4J=>Caci printr-o eventuala contopire a omului in natura s-ar pierde cel mai important factor al realitatii, fara ca natura sa castige ceva nou, pe cand prin asimilarea lumii in om, natura insasi castiga, fiind ridicata pe un plan cu totul nou, fara sa se pierda propriu-zis.
+staniloae4K=>Pierderea noastra in natura nu reprezinta nici un progres nici pentru natura, pe cand umanizarea continua sau eterna a naturii reprezinta un progres etern, facand abstractie de faptul ca prin aceasta nu se pierde nimic si mai ales nu se pierde ceea ce e mai valoros in realitate.
 
 filocalia1A=>Sfintul Antonie a fost cel dintîi monah care s-a retras în pustie, fiind urmat de mai mulți ucenici.
 filocalia1B=>viața lui, care a umplut de uimire lumea din acea vreme, a fost descrisă de Sfîntul Atanasie, patriarhul Alexandriei.
@@ -438,7 +430,7 @@ patericulegyptantonie1A=>Sfântul avva Antonie, șezând odată în deșert, a f
 patericulegyptantonie1B=>și zicea către Dumnezeu :
 patericulegyptantonie1C=>"Doamne, vreau să mă mântuiesc, și nu mă lasă gândurile.
 patericulegyptantonie1D=>Ce voi face în necazul meu ? cum mă va mântui ?"
-patericulegyptantonie1E=>și sculându-se puțin, a ieșit afarăși a văzut pe cineva ca pe sine șezând și lucrând, apoi sculându-se de la lucru și rugându-se, apoi iarăși sculându-se la rugăciune.
+patericulegyptantonie1E=>și sculându-se puțin, a ieșit afară și a văzut pe cineva ca pe sine șezând și lucrând, apoi sculându-se de la lucru și rugându-se, apoi iarăși sculându-se la rugăciune.
 patericulegyptantonie1F=>acesta era un înger al Domnului, trimis spre îndreptarea și încredințarea lui Antonie.
 patericulegyptantonie1G=>și a auzit pe înger zicând-i :
 patericulegyptantonie1H=>"fă așa și te vei mântui".

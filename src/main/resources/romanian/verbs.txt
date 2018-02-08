@@ -11,6 +11,7 @@ arat,,[incerca]
 as,,[aprecia]
 astept,,[cauta],(AIMP*astepta*asteapta*1)
 autoform,are,[aciti]
+auz,,[dorm],(IPR025*auz*aud*0)
 be,,[bea]
 calator,i,[locuiesc]
 cant,,[cauta]
@@ -42,7 +43,7 @@ doved,,[aciti]
 duc,,[merg],(PAP*ducs*dus*0)
 evit,,[cauta]
 exist,,[incerca]
-fac,,[face]
+fac,,[face],(AIMP*fac*fa*0)
 fierb,,[merg]
 form,,[fumez]
 fum,,[fumez]
@@ -99,7 +100,9 @@ retrag,,[merg],(PAP*retrags*retras*0)
 revin,,[face]
 rezult,,[incerca]
 rezum,,[incerca]
+rug@IRREGULAR%[PAPR]=[rugandu]
 scri,,[scrie]
+scul@IRREGULAR%[PAPR]=[sculandu]
 simt,,[impart]
 sint@IRREGULAR%[IPR]=[sint,esti,este,sintem|suntem,sintetsi,sint|sunt]%[AII]=[eram,erai,era,eram,eratsi,erau]%[PAPR]=[fiind]%[ASP]=[fiu,fii,fie,fim,fitsi,fie]%[ACP]=[asfi,aifi,arfi,amfi,atsifi,arfi]%[PAP]=[fost]%[INFINITIVE]=[fi]
 sluj,,[locuiesc]
@@ -118,13 +121,14 @@ trai,,[aciti],(PAP*trai*tra*0)
 transmit,,[merg]
 trebui,,[trebui],(ACP*trebui*artrebui*0)
 trec,,[merg],(PAP*trecs*trecut*0)
+trim,,[trimite]
 umpl,,[scrie],(PAP*umpls*umplut*0)
 urc,,[cauta]
 urm,,[fumez]
 urmar,,[aciti]
-vad@IRREGULAR%[IPR]=[vad,vezi,vede,vedem,vedetsi,vad]%[AIPP]=[vazusem,vazusesi,vazuse,vazuseram,vazuseratsi,vazusera]%[INFINITIVE]=[vedea]
+vad@IRREGULAR%[IPR]=[vad,vezi,vede,vedem,vedetsi,vad]%[AIPP]=[vazusem,vazusesi,vazuse,vazuseram,vazuseratsi,vazusera]%[INFINITIVE]=[vedea]%[PAP]=[vazut]
 vin@IRREGULAR%[IPR]=[vin,vii,vine,venim,venitsi,vin]%[AII]=[veneam,veneai,venea,veneam,veneatsi,veneau]%[PAPR]=[venind]%[PAP]=[venit]%[INFINITIVE]=[veni]
 van,,[vinde],(IPR1234*van*vin*0@PSP1234*van*vin*0)
 vorb,i,[aciti]
-vr,,[vrea]
+vr,,[vrea],(AIF*vr*v*0)
 zic,,[merg],(AIP*zic*zis*0@AII*zic*zice*0)

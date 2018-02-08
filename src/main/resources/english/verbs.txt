@@ -94,6 +94,7 @@ explain,[live]
 extend,[call]
 face,[live]
 fall,[live],(AIP*falld*fell*0@PAP*falld*fallen*0)
+fight,[live]
 fill,[live]
 find,[live],(PAP*findd*found*0)
 finish,[call]
