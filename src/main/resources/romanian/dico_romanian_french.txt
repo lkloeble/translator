@@ -109,6 +109,7 @@ brichet@noun!fem%1(noun)=briquet
 brunet@noun!adj%1(adj)=brun
 bucatarie@noun!inv%1(noun)=cuisine
 bucuresti@noun!inv%1(noun)=bucarest
+bucurie@noun!inv%1(noun)=bonheur
 bulevard@noun!fem%1(noun)=boulevard
 bun@adj!adj%1(noun)=bon
 bunic@noun!ul%1(noun)=grand-parent
@@ -400,6 +401,7 @@ inchin@verb!norm%1(verb)=adorer
 inconstient@adj!adjts%1(adj)=inanimé%2(adj)=inconscient
 incorporare@noun!fem%1(noun)=incorporation
 increder@noun!berea%1(noun)=confiance%2(noun)=foi
+indrazneal@noun!fem%1(noun)=courage
 indic@verb!norm%1(verb)=indiquer
 incredintsar@noun!berea%1(noun)=fortification de la foi
 indreptar@noun!berea%1(noun)=rédemption

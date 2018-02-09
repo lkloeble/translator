@@ -16,8 +16,9 @@ ah@noun!inv%1(noun)=ah
 all@adj!ausreichend%1(adj)=chaque%2(adj)=tout
 allein@adj!inv%1(adj)=seul
 allergisch@noun!norm%1(noun)=allergique
-allerlei@prep%1(prep)=toute sorte de
 alles@prep%1(prep)=tout
+allerlei@prep%1(prep)=toute sorte de
+almosen@noun!zeichen%1(noun)=charité
 alpen@noun!inv%1(noun)=alpes
 als@prep%1(pre)=en tant que%2(prep)=que
 also@prep%1(noun)=aussi
@@ -49,6 +50,7 @@ anschein@noun!arbeiter%1(noun)=apparence
 ansicht@noun!meinfem%1(noun)=opinion
 antwort@noun!meinfem%1(noun)=réponse
 anzuglich@adj!ausreichend%1(adj)=suggestive
+anzustell@verb!norm%1(verb)=embaucher%2(verb)=réfléchir%3(verb)=effectuer
 anzuzweif@verb!norm%1(vern)=douter
 apfel@noun!inv%1(noun)=pomme
 apg@noun!inv%1(noun)=act
@@ -121,6 +123,7 @@ bau@verb!norm%1(verb)=construire
 bauamt@noun!inv%1(noun)=urbanisme
 baum@noun!jahrzehnt%1(noun)=arbre
 beabsichtig@verb!norm%1(verb)=planifier
+beamt@noun!artist%1(noun)=fonctionnaire
 bearbeit@verb!norm%1(verb)=editer
 bedau@verb!norm%1(verb)=regretter
 bedarf@verb!norm%1(verb)=avoirbesoin
@@ -254,6 +257,7 @@ der@noun!inv%1(noun)=le
 deren@prep%1(prep)=dont
 derjenigen@prep%1(prep)=ceux-qui
 des@prep%1(prep)=du
+desgleichen@prep%1(prep)=de même
 deshalb@prep%1(prep)=à cause de cela
 desjenigen@prep%1(prep)=ceux
 dessen@prep%1(prep)=dont le
@@ -403,6 +407,7 @@ fenster@noun!inv%1(noun)=fenêtre
 ferie@noun!flasche%1(noun)=vacance
 fest@adj!ausreichend%1(noun)=solide
 feste@noun!flasche%1(noun)=place forte%2(noun)=étendue
+feststeh@verb!norm%1(verb)=etreclair
 feststell@verb!norm%1(verb)=declarer%2(verb)=determiner
 feststellung@noun!meinfem%1(noun)=détermination
 feucht@verb!norm%1(verb)=mouiller
@@ -919,6 +924,7 @@ personlich@adj!ausreichend%1(adj)=personnel
 pessimismus@noun!inv%1(noun)=pessimisme
 peter@noun!inv%1(noun)=peter
 petrus@noun!inv%1(noun)=pierre
+pfleger@noun!arbeiter%1(noun)=infirmier
 phanomen@noun!phanomen%1(noun)=phénomène
 pinchas@noun!inv%1(noun)=pinhas
 pizza@noun!meinmasc%1(noun)=pizza
@@ -932,6 +938,7 @@ post@noun!inv%1(noun)=poste
 praktisch@noun!norm%1(noun)=pratique
 priester@noun!zeichen%1(noun)=prêtre
 priesterlich@adj!ausreichend%1(adj)=sacerdotal
+priesterschaft@noun!inv%1(noun)=clergé%2(noun)=prêtrise
 problem@noun!norm%1(noun)=problème
 problematisch@adj!ausreichend%1(adj)=problématique
 produkt@noun!ort%1(noun)=produit
@@ -1242,6 +1249,7 @@ verfuhrendst@adj!ausreichend%1(adj)=plus séduisant
 vergess@verb!norm%1(verb)=oublier
 vergrubelt@noun!inv%1(noun)=couvé
 verhaltnis@noun!erkenntnis%1(noun)=relation adultère%2(noun)=relation
+verheirat@verb!norm%1(verb)=marier
 verkauf@noun!norm%1(noun)=vente
 verlang@verb!norm%1(verb)=demander
 verlobt@adj!meinmasc%1(adj)=fiancé

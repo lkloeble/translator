@@ -13,6 +13,7 @@ ah@neut%inv
 all@adj%ausreichend
 allein@adj%inv
 allergisch@adj%norm
+almosen@neut%zeichen
 alpen@fem%inv
 alt@adj%ausreichend
 altar@masc%phanomen
@@ -84,6 +85,7 @@ baren@neut%inv
 bastard@neut%bastard
 baum@neut%jahrzehnt
 bauamt@neut%inv
+beamt@masc%artist
 beigefugt@adj%ausreichend
 bekummert@neut%inv
 beleg@masc%jahrzehnt
@@ -616,6 +618,7 @@ peinlich@adj%ausreichend
 pessimismus@neut%inv
 peter@neut%inv
 petrus@masc%inv
+pfleger@masc%arbeiter
 phanomen@neut%phanomen
 pinchas@neut%inv
 pizza@neut%meinmasc
@@ -627,6 +630,7 @@ portrat@neut%meinmasc
 post@neut%inv
 praktisch@adj%norm
 priester@masc%zeichen
+priesterschaft@neut%inv
 priesterlich@adj%ausreichend
 problem@masc%norm
 problematisch@adj%ausreichend

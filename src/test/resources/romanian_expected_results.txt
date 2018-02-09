@@ -347,6 +347,18 @@ staniloae1HH=>juste le fait que nous nous donnons la compréhension(e) que la mo
 staniloae1II=>parce que la monde(e) ne est dans état(e)  sente la nécessité(e) notre pour elle, la monde(e), existant que objet inconscient, existe pour.
 staniloae1JJ=>elle est subordonné(e) son, sans mais  une être fait lui.
 
+staniloae4A=>raison(s)(e) travail(s) se découvre la lumière(e) eux dans la raison(e) et par la action(e) rationnel(e) et conscient(e) de (du) homme.
+staniloae4B=>foobar
+staniloae4C=>foobar
+staniloae4D=>foobar
+staniloae4E=>foobar
+staniloae4F=>foobar
+staniloae4G=>foobar
+staniloae4H=>foobar
+staniloae4I=>foobar
+staniloae4J=>foobar
+staniloae4K=>foobar
+
 filocalia1A=>le saint antoine a été celui premier moine qui s'est retiré dans désert(e), étant suivi de plus beaucoup(s) disciple(s).
 filocalia1B=>la vie(e) son, qui ah rempli de stupéfaction(e) la monde(e) de cette temps(e), a été décrit(e) de le saint atanase, le patriarche (du) alexandrie(e).
 filocalia1C=>né dans un village de le égypte de milieu, après la mort(e) (des) parent(s) ses, paysan(s) avec bon(e) état(e), antoine s'est décidé, sur à la âge(e) de 18 20 année(s),  vende tout quel hérite,  partage (des) pauvre(s) et  et adore la vie(e) (du) seigneur.
@@ -410,5 +422,5 @@ patericulegyptantonie1E=>et levant se peu, ah sorti dehors et ah visible@vu@ sur
 patericulegyptantonie1F=>cela était un ange de (du) seigneur, envoyé en direction de la rédemption(e) et la fortification de la foi(e) son antoine.
 patericulegyptantonie1G=>et ah entendu sur ange disant en lui :
 patericulegyptantonie1H=>fais comme ceci et te voudras sauve.
-patericulegyptantonie1I=>foo
-patericulegyptantonie1J=>foo
+patericulegyptantonie1I=>tandis que lui, entendant ceci, s'est rempli de beaucoup(e) bonheur et la courage(e).
+patericulegyptantonie1J=>et, faisant comme ceci, se sauvait.

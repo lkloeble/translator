@@ -93,6 +93,7 @@ bread@neut%normmasc
 breakfast@neut%invmasc
 breast@fem%normfem
 breath@neut%invmasc
+brethren@neut%invmasc
 bridge@masc%normmasc
 britain@neut%invmasc
 british@neut%invmasc
@@ -780,6 +781,7 @@ sense@neut%normmasc
 serie@neut%normfem
 serpent@neut%normmasc
 seth@neut%invmasc
+sevenfold@neut%invmasc
 seventh@neut%invmasc
 severe@adj%normmasc
 sheep@neut%normmasc
@@ -935,6 +937,7 @@ usurped@neut%invmasc
 v@neut%invmasc
 vagabond@neut%normmasc
 valid@adj%normmasc
+vengeance@neut%normmasc
 verse@neut%normmasc
 version@neut%normmasc
 view@fem%normfem

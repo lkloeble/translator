@@ -1,4 +1,5 @@
 noma%sing%fem%e
 nomb%sing%fem%ea
-nom%plr%fem%i
+noma%plr%fem%i
+nomb%plr%fem%ile
 geb%sing%fem%ei

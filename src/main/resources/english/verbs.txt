@@ -135,7 +135,7 @@ knock,[call]
 know,[live],(AIP*knowd*knew*0@PAP*knowd*known*0)
 lay,[live],(AIP*layd*laid*0)
 learn,[live]
-leave,[live]
+leave,[live],(AIP*leaved*left*0)
 lie,[live],(PAPR*lie*ly*0)
 like,[live]
 live,[live]
@@ -236,7 +236,7 @@ treat,[call]
 trouble,[live]
 try,[live]
 undergo,[live],(AIP*undergod*underwent*0@IPR2*undergos*undergoes*0@PAP*undergod*underwent*0@AII*undergod*underwent*0)
-understand,[live]
+understand,[live],(PAP*understand*understoo*0)
 unite,[live]
 unriddle,[live]
 upfollow,[live]

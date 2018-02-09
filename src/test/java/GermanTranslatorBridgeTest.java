@@ -701,6 +701,6 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("stracksourceJ", translatorBridge);
+        checkInMaps("strackp3notH", translatorBridge);
     }
 }

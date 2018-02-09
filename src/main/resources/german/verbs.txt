@@ -5,6 +5,7 @@ anerkenn,en,[leben],(PAP*anerke*anerka*0)
 anfang,en,[leben]
 angehor,en,[leben]
 anruf,en,[leben]
+anzustell,en,[leben]
 anzuzweif,eln,[sammeln]
 auffind,en,[leben]
 aufbau,en,[leben],(PAP*aufbaut*aufgebaut*0)
@@ -78,6 +79,7 @@ ess,en,[leben],(IPR1*ess*is*0)
 fahr,en,[leben],(AIP*fahr*fuhr*0)
 fang,en,[leben]
 fass,en,[leben],(PAP*fas*gefas*0)
+feststeh,en,[stehen]
 feststell,en,[leben]
 feucht,en,[leben],(AII*feucht*feuchte*0)
 find,en,[leben]
@@ -208,6 +210,7 @@ unterzeichn,en,[mochten]
 unterzieh,en,[rufen],(AIP*unterzieh*unterzog*0@PAP*unterzieh*unterzog*0)
 verbind,en,[mochten],(AIP*verbind*verband*0)
 vergess,en,[wollen]
+verheirat,en,[segnen]
 verlang,en,[leben]
 vermeid,en,[mochten]
 verrats,eln,[sammeln]

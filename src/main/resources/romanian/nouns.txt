@@ -62,6 +62,7 @@ brichet@fem%fem
 brunet@adj%adj
 bucatarie@neut%inv
 bucuresti@neut%inv
+bucurie@neut%inv
 bulevard@fem%fem
 bun@adj%adj
 bunic@masc%ul
@@ -246,6 +247,7 @@ inceput@masc%ul
 inconstient@adj%adjts
 incorporare@fem%fem
 increder@fem%berea
+indrazneal@fem%fem
 inexplicabil@adj%adj
 inger@masc%ul
 insemnar@fem%ratsiune

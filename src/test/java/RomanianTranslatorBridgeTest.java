@@ -624,6 +624,11 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     }
 
     @Test
+    public void test_patericul2() {
+        assertTrue(false);
+    }
+
+    @Test
     public void test_failedones() {
         assertTrue(true);
         checkInMaps("patericulegyptantonie1H", translatorBridge);

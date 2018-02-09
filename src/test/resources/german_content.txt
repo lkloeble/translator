@@ -298,7 +298,7 @@ strackp3notD=>Wenn er die tochter eines leviten oder eines israeliten heiratet, 
 strackp3notE=>Dagegen bedarf es keiner prüfung vom altar an aufwärts, von dukhan an aufwärts u. vom synedrium an aufwärts.
 strackp3notF=>Desgleichen dürfen alle, von denen feststeht, daß ihre vorfahren zu den öffentlichen beamten, oder zu den almosenpflegern gehört haben, ihre tochter,
 strackp3notG=>ohne daß es nötig ist, eine prüfung aufwärts anzustellen, an die priesterschaft verheiraten. [Denn wenn ein priester am altar u. ein levit auf dem dukhan,
-strackp3notH>einer östlich vom altar befinlichen estrade, als sänger mitgewirkt hat, oder wenn jemand mitgleid einer gerichts- oder einer sonstigen öffentlichen behörde war,
+strackp3notH=>einer östlich vom altar befinlichen estrade, als sänger mitgewirkt hat, oder wenn jemand mitgleid einer gerichts - oder einer sonstigen öffentlichen behörde war,
 strackp3notI=>so war dessen legitime herkunft ja schon geprüft;
 strackp3notJ=>mithin war eine ernaute prüfung der ahnen seiner tochter nicht nötig, falls diese an einen priester verheiratet werden sollte.]
 
