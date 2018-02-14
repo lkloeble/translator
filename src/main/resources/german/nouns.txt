@@ -16,6 +16,7 @@ allergisch@adj%norm
 almosen@neut%zeichen
 alpen@fem%inv
 alt@adj%ausreichend
+alter@adj%ausreichend
 altar@masc%phanomen
 altest@adj%ausreichend
 amerikanisch@adj%ausreichend
@@ -86,6 +87,8 @@ bastard@neut%bastard
 baum@neut%jahrzehnt
 bauamt@neut%inv
 beamt@masc%artist
+befinlichen@neut%inv
+behorde@fem%flasche
 beigefugt@adj%ausreichend
 bekummert@neut%inv
 beleg@masc%jahrzehnt
@@ -214,6 +217,7 @@ erste@neut%masc
 erstling@neut%inv
 esra@neut%inv
 esras@neut%inv
+estrade@fem%flasche
 euros@neut%inv!agenitive
 euro@neut%inv!agenitive
 europa@neut%inv
@@ -237,6 +241,7 @@ feld@neut%meer
 femininischen@neut%inv
 fenster@neut%inv
 ferie@fem%flasche
+fern@adj%ausreichend
 fest@adj%ausreichend
 feste@fem%flasche
 feststellung@fem%meinfem
@@ -266,6 +271,7 @@ frau@fem%flasche
 fraulein@fem%inv
 freigelassen@neut%bastard
 freitag@neut%inv
+fremd@adj%ausreichend
 fremde@fem%inv
 freundin@fem%inv
 freund@masc%meer
@@ -291,6 +297,8 @@ gefahrlich@adj%ausreichend
 gefieder@neut%burger
 gefiedert@adj%ausreichend
 geflugel@neut%arbeiter
+gefuhl@neut%phanomen
+gefuhlsam@neut%inv
 gegeben@adj%ausreichend
 gegenwart@fem%inv
 gegenwartig@adj%ausreichend
@@ -313,6 +321,7 @@ genugsamkeit@neut%inv
 geratenst@adj%ausreichend
 gerechtfertigt@adj%ausreichend
 gerechtsame@fem%flasche
+gericht@neut%autor
 geruhmt@adj%ausreichend
 gesamt@adj%ausreichend
 gesammelt@adj%ausreichend
@@ -330,6 +339,7 @@ getier@neut%inv
 getrank@neut%rest
 gevogel@neut%inv
 gewesen@neut%inv
+geworden@adj%ausreichend
 gewurm@neut%inv
 gibeonit@adj%ausreichend
 gleich@adj%ausreichend
@@ -366,6 +376,7 @@ heiligtum@neut%heiligtum
 heim@neut%meer
 heimlichkeit@neut%meinmasc
 heiterkeit@fem%norm
+helles@neut%inv
 herkunft@fem%norm
 herr@neut%meinmasc
 herrlichkeit@fem%meinfem
@@ -389,6 +400,7 @@ holz@neut%holz
 horn@neut%ort
 hotel@neut%inv
 hund@fem%norm
+hundert@neut%inv
 hunger@neut%inv
 ideal@adj%inv
 idee@fem%invfem[nomplr:ideen]
@@ -442,6 +454,7 @@ juli@neut%inv
 jung@adj%norm
 juni@neut%inv
 kaffee@neut%inv
+kalter@neut%inv
 kase@masc%norm
 kassette@fem%flasche
 katalog@masc%norm
@@ -470,6 +483,7 @@ kritik@masc%meinmasc
 kritisch@adj%norm
 kuche@fem%flasche
 kuchen@neut%inv
+kult@masc%reis
 kunst@masc%kunst
 kunstler@masc%arbeiter
 kur@fem%flasche
@@ -477,6 +491,7 @@ kurz@adj%ausreichend
 lage@fem%flasche
 land@neut%ort
 lang@adj%ausreichend
+larm@masc%schmerz
 lateinisch@adj%ausreichend
 leben@neut%burger
 lebendig@adj%ausreichend
@@ -536,6 +551,7 @@ mischna@neut%inv
 missratensein@masc%arbeiter
 misstrauisch@adj%ausreichend
 mitarbeiter@masc%norm
+mitgleid@neut%inv
 mitteilbar@adj%ausreichend
 mittagessen@neut%inv
 mittelalter@neut%meer
@@ -601,9 +617,11 @@ offenbarung@fem%inv
 offentlich@adj%ausreichend
 okolog@neut%meinmasc
 oper@neut%flasche
+optik@neut%meinmasc
 original@neut%original
 ort@masc%ort
 ostern@neut%inv
+ostlich@adj%ausreichend
 paare@neut%inv
 palastina@neut%inv
 park@neut%inv
@@ -683,10 +701,12 @@ rucksicht@fem%meinfem
 ruhelager@neut%inv
 s@neut%inv
 sabine@fem%inv
+sanh@neut%inv
 salat@fem%jahrzehnt
 sale@fem%inv
 same@fem%flasche
 sammlung@fem%meinfem
+sanger@masc%arbeiter
 satz@masc%ort
 sauberkeit@neut%inv
 schauerlich@adj%ausreichend
@@ -718,6 +738,7 @@ schweigsamkeit@neut%inv
 schwelle@fem%flasche
 schwer@adj%ausreichend
 sechst@adj%ausreichend
+sechzehn@neut%inv
 sekretarin@fem%inv
 selbstandig@adj%ausreichend
 sensibilitat@fem%inv
@@ -731,6 +752,7 @@ sohn@masc%norm
 sokrates@neut%inv
 sokratismus@neut%inv
 solch@adj%ausreichend
+sonstig@adj%ausreichend
 sozialist@neut%meinmasc
 sozial@adj%inv
 spalt@masc%licht
@@ -817,6 +839,7 @@ umfangreich@adj%ausreichend
 umfangreichst@adj%ausreichend
 umwelt@fem%inv
 unabhangig@adj%ausreichend
+unangenehm@adj%ausreichend
 unbedingt@neut%inv
 unbekummert@neut%inv
 unbescheidenheit@neut%inv
@@ -860,6 +883,8 @@ versaumt@adj%meinmasc
 verstandnis@fem%inv
 versuch@neut%meinmasc
 versucherisch@adj%ausreichend
+verwohnter@adj%ausreichend
+verwegen@adj%ausreichend
 verzuckert@adj%inv
 vgl@neut%inv
 videokassette@fem%flasche
@@ -903,6 +928,7 @@ welch@adj%ausreichend
 welt@fem%meinfem
 wenig@neut%meinmasc
 werk@neut%meer
+wertschatzung@fem%meinfem
 wert@masc%jahrzehnt
 wetter@neut%inv
 wichtig@neut%inv

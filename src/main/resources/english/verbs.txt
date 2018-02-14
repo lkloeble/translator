@@ -31,6 +31,7 @@ breath,[call]
 bring,[see],(AIP*bring*brought*0)
 bringforth,[see],(AIP*bring*brought*0)
 bruise,[live]
+build,[call],(AIP*builded*built*0)
 burn,[call]
 buy,[live]
 call,[call]
@@ -111,7 +112,7 @@ govern,[live]
 grow,[live],(PAP*growd*grown*0)
 guard,[call]
 guess,[teach]
-have@IRREGULAR%[IPR]=[have,have,has|hath,have,have,have]%[AII]=[had,had,had,had,had,had]%[AIMP]=[have,have,have]%[INFINITIVE]=[to have]
+have@IRREGULAR%[IPR]=[have,have,has|hath,have,have,have]%[AII]=[had,had,had,had,had,had]%[AIMP]=[have,have,have]%[PAPR]=[having]%[INFINITIVE]=[to have]
 handle,[live]
 hang,[live],(AIP*hangd*hung*0)
 happen,[call]
@@ -144,7 +145,7 @@ love,[live]
 make,[live],(AIP*maked*made*0@PAPR*make*mak*0)
 maintain,[call]
 may,[live],(IPR*mays*may*0@AIP*mayd*might*0)
-mean,[live]
+mean,[live],(PAP*meand*meant*0)
 meet,[live]
 mention,[call]
 mix,[call]
@@ -222,7 +223,7 @@ suppose,[live]
 survive,[live]
 swallow,[call]
 swim,[swim]
-take,[live],(AIP*taked*took*0@PAP*taked*taken*0@AII*take*took*0))
+take,[live],(AIP*taked*took*0@PAP*taked*taken*0@AII*take*took*0@PAPR*take*tak*0)
 talk,[live],(AII*talkd*talked*0)
 teach,[teach]
 tell,[live],(AIP*tell*tol*0)

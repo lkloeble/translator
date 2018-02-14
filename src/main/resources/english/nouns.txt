@@ -61,6 +61,7 @@ backs@neut%invmasc
 bacon@neut%invmasc
 baptism@neut%invmasc
 bar@neut%normmasc
+barbarous@adj%invmasc
 barren@neut%invmasc
 bdellium@neut%invmasc
 beast@neut%normmasc
@@ -280,6 +281,7 @@ england@neut%invmasc
 english@adj%invmasc
 enigmatic@adj%normmasc
 enmit@fem%endy
+enoch@neut%invmasc
 entrance@fem%normfem
 env@fem%endy
 equity@fem%invfem
@@ -444,6 +446,7 @@ ii@neut%invmasc
 ill@adj%normmasc
 image@fem%normfem
 important@adj%normmasc
+inferior@adj%normmasc
 instruction@neut%normmasc
 intended@adj%invmasc
 interest@masc%normmasc
@@ -703,6 +706,7 @@ protection@neut%normmasc
 protestant@neut%normmasc
 providence@neut%invmasc
 punishment@neut%normmasc
+purpose@neut%normmasc
 queen@fem%normfem
 question@neut%normmasc
 quotation@fem%normfem

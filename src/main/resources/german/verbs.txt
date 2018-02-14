@@ -74,6 +74,7 @@ errat,en,[werden]
 erreg,en,[leben]
 erreich,en,[leben]
 erprob,en,[leben]
+erschein,en,[leben]
 erwachs,en,[genesen]
 ess,en,[leben],(IPR1*ess*is*0)
 fahr,en,[leben],(AIP*fahr*fuhr*0)
@@ -114,6 +115,7 @@ herrsch,en,[leben]
 hinstell,en,[leben],(PAP*hins*hinges*0)
 hor,en,[leben],(PAP*hor*gehor*0)
 informier,en,[leben]
+innewerd,en,[werden]
 interessier,en,[leben]
 kampf,en,[leben]
 kauf,en,[leben]
@@ -141,6 +143,7 @@ mehr,en,[leben]
 mein,en,[leben]
 miet,en,[leben]
 mitteil,en,[leben],(PAP*mitteil*mitgeteil*0)
+mitwirk,en,[leben],(PAP*mitw*mitgew*0)
 mocht,en,[mochten]
 mog,en,[wollen],(IPR012*mo*ma*0)
 muss,en,[leben]
@@ -150,7 +153,7 @@ nehm,en,[leben],(IPR12*nehm*nimm*0@AIP*nehm*nahm*0)
 nenn,en,[leben],(AII*nenn*nann*0)
 pass,en,[leben]
 plan,en,[leben],(PAP*pla*gepla*0)
-pruf,en,[leben]
+pruf,en,[leben],(PAP*pru*gepru*0)
 rats,eln,[sammeln]
 rauch,en,[leben]
 red,en,[mochten],(PAP*red*gered*0)
@@ -192,6 +195,7 @@ steh,en,[stehen],(AIP*steh*stand*0)
 steig,en,[leben],(PAP*steigt*gestiegen*0)
 stell,en,[leben]
 sterb,en,[rufen],(AIP*sterb*starb*0)
+stor,en,[leben]
 studier,en,[leben]
 such,en,[leben],(AIP*such*sucht*0)
 surf,en,[leben]
@@ -228,7 +232,7 @@ vorhaben@IRREGULAR%[IPR]=[vorhabe,vorhast,vorhat,vorhaben,vorhabt,vorhaben]%[INF
 vorleg,en,[leben]
 vorstell,en,[leben]
 wachs,en,[genesen],(PAP*wa*gewa*0)
-wag,en,[leben]
+wag,en,[leben],(PAP*wa*gewa*0)
 web,en,[leben]
 weggeh,en,[rufen],(AIP*weggeh*wegging*0)
 wend,en,[wenden]
