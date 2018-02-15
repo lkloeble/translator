@@ -23,5 +23,5 @@ AIF=>-x,-x,ει,-x,-x,-x
 AORPASSPART=>-x,-x,ηναι,εις,εισα,εν
 PRPARPASS=>-x,-x,-x,ομενων
 FUTPARTACT=>ειν|ιν,-x,-x,-x
-PRESACTPART=>ουσαν,-x,οντες,-x
+PRESACTPART=>ουσαν,ουσας,οντες,-x
 PRESPASPART=>-x,-x,ομενοι,-x

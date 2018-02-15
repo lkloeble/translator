@@ -78,6 +78,7 @@
 παντα@prep(acc)
 παντας@prep(acc)
 παντων@prep(gen)
+πανυ@prep()
 παρ@prep%[electAccusativeForFollowingNoun(παραacc),electDativeForFollowingNoun(παραdat),electGenitiveForFollowingNoun(παραgen)]
 παρα@prep%[electAccusativeForFollowingNoun(παραacc),electDativeForFollowingNoun(παραdat),electGenitiveForFollowingNoun(παραgen)]
 παραacc@prep()
@@ -93,6 +94,7 @@
 προς@prep()
 πρωι@prep()
 σαφως@prep()
+σεμνως@prep()
 σου@prep(gen)
 συν@prep(acc)
 τας@prep%prep(acc)%[electAccusativeForFollowingNoun]

@@ -42,6 +42,7 @@ beug,en,[leben]
 bewund,ern,[fordern]
 bezahl,en,[leben]
 biet,en,[leben]
+blas,en,[genesen],(AII*bla*blie*0)
 bleib,en,[rufen],(AIP*blei*blie*0)
 brauch,en,[leben]
 brech,en,[leben],(IPR*brecht*bricht*0@IPR*brechst*brichst*0)

@@ -102,6 +102,7 @@ largely@prep()
 lastly@prep()
 later@prep()
 least@prep()
+less@prep()
 lest@prep()
 let@prep()
 let's@prep()%[electImperativeForFollowingVerb]

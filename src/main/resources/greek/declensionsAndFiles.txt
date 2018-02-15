@@ -38,3 +38,4 @@ apas%apas.txt
 ας-η-α%megas.txt
 υς-υος%ixtus.txt
 ο-ου%ugro.txt
+ων-ονος%kavwv.txt

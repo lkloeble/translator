@@ -329,6 +329,7 @@
 κακ@adj!ος-η-ον%1(adj)=mauvais
 καλ@verb!norm%1(verb)=nommer,invoquer%2(verb)=appeler
 καλ@adj!ος-η-ον%1(adj)=bon%2(adj)=beau
+καν@noun!ων-ονος%1(noun)=règle
 καρδι@noun!α-ας%1(noun)=coeur
 καρπ@noun!ος-ου%1(noun)=fruit
 καρπιμ@adj!ος-ος-ον%1(adj)=fruitier%2(adj)=porteur de fruit
@@ -439,6 +440,7 @@
 οικ@noun!ος-ου%1(noun)=maison
 οικι@noun!α-ας%1(noun)=maison
 οικοδομ@verb!norm%1(verb)=construire
+οικουργ@verb!norm%1(verb)=garderlamaison
 οιν@noun!ος-ου%1(noun)=vin
 ολ@noun!ος-η-ον%1(noun)=actuel%2(noun)=général%3(noun)=complet%4(noun)=entier%5(noun)=tout
 ολιγ@noun!ος-η-ον%1(noun)=peu
@@ -474,6 +476,7 @@
 παντας@prep%1(prep)=tous
 παντων@prep%1(prep)=tous
 παντοκρατ@noun!ωρ-ορος%1(noun)=tout-puissant
+πανυ@prep%1(prep)=entièrement
 παραacc@prep%1(prep)=à côté de
 παραdat@prep%1(prep)=avec
 παραgen@prep%1(prep)=d'à côté de
@@ -563,6 +566,7 @@
 σολομων@noun!salomon%1(noun)=salomon
 σαταν@noun!ας-ου%1(noun)=satan
 σαφως@prep%1(prep)=de façon sûre
+σεμνως@prep%1(prep)=respectueusement
 σελην@noun!η-ης%1(noun)=mois%2(noun)=lune
 σεμν@noun!ος-η-ον%1(noun)=saint
 σημει@noun!ον-ου%1(noun)=signe
@@ -595,6 +599,7 @@
 συστημα@noun!inv%1(noun)=système
 σχημ@noun!α-ατος%1(noun)=nature%2(noun)=forme%3(noun)=apparence
 σωζ@verb!norm%1(verb)=préserver,mettre à l'abri%2(verb)=laisser vivre,épargner%3(verb)=conserver%4(verb)=sauver
+σωφρον@verb!norm%1(verb)=etresaindesprit
 σωτηρι@noun!α-ας%1(noun)=salut
 σωφρον@adj!ων-ων-ον%1(adj)=modéré
 τα@noun!inv%1(noun)=le
@@ -663,6 +668,7 @@
 υποκατω@prep%1(prep)=au dessous
 υποκριτ@noun!ης-ου%1(noun)=hypocrite
 υπομον@noun!η-ης%1(noun)=constance%2(noun)=persévérance
+υποταγ@noun!η-ης%1(noun)=obéissance%2(noun)=soumission
 υποτασσ@verb!norm%1(verb)=soumettre
 υστατ@adj!ος-η-ον%1(noun)=dernier
 υφgen@prep%1(prep)=par

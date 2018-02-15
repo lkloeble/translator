@@ -369,6 +369,7 @@ generation@fem%normmasc
 genesis@neut%invmasc
 gentile@neut%normmasc
 geography@neut%invmasc
+gerasa@neut%invmasc
 german@adj%normmasc
 gihon@neut%invmasc
 girdle@neut%normmasc
@@ -936,6 +937,7 @@ underemphasis@neut%invmasc
 university@fem%invfem
 unknown@neut%invmasc
 unsatisfactory@neut%invmasc
+upper@neut%invmasc
 usually@neut%invmasc
 usurped@neut%invmasc
 v@neut%invmasc

@@ -624,11 +624,12 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("clement1M", translatorBridge);
         checkInMaps("clement1N", translatorBridge);
         checkInMaps("clement1O", translatorBridge);
+        assertTrue(false);//suite de clément à saisir
     }
 
     @Test
     public void test_failed_ones() {
         assertTrue(true);
-        checkInMaps("anaxF", translatorBridge);
+        checkInMaps("clement1O", translatorBridge);
     }
 }

@@ -469,6 +469,7 @@ klasse@fem%flasche
 klaus@neut%inv
 klein@adj%ausreichend
 klima@neut%inv
+kloss@neut%inv
 kommunikation@fem%meinfem
 kongress@neut%inv
 konstanz@neut%inv
@@ -592,6 +593,7 @@ naher@adj%ausreichend
 name@masc%flasche
 namens@neut%inv
 namensvetter@masc%masc
+nase@fem%flasche
 nathanael@neut%inv
 nebel@neut%arbeiter
 neh@neut%inv
@@ -612,6 +614,7 @@ nr@neut%inv
 nummer@neut%inv
 objektiv@neut%norm
 obst@neut%inv
+odem@neut%inv
 offb@neut%inv
 offenbarung@fem%inv
 offentlich@adj%ausreichend
@@ -739,6 +742,7 @@ schwelle@fem%flasche
 schwer@adj%ausreichend
 sechst@adj%ausreichend
 sechzehn@neut%inv
+seele@fem%flasche
 sekretarin@fem%inv
 selbstandig@adj%ausreichend
 sensibilitat@fem%inv
