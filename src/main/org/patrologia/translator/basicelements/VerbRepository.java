@@ -167,7 +167,7 @@ public class VerbRepository extends Repository {
 
     public Collection<? extends String> getValuesEndingWith(String endingPattern) {
         List<String> verbValues = new ArrayList<>();
-        for (String verbValue : conjugationsMap.keySet()) {
+        for (String verbValue : conjugationsMap.allConjugations()) {
             if (verbValue.endsWith(endingPattern)) {
                 verbValues.add(verbValue);
             }

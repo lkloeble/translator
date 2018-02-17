@@ -248,7 +248,7 @@ vere,or,ris,re,,,[or-ris]
 verg,o,is,ere,,,[o-is],(AIP*verg*xxxxx*0)
 vesc,or,eris,ere,,,[or-eris]
 vid,eo,es,ere,foo,bar,[eo-es],(PIF*vid*videb*0@PIF*ebar*ebor*4@PIF*betur*bitur*4@PIF*bemur*bimur*4@PIF*bentur*buntur*4@PSP*vid*visus*0)
-vinc,o,is,ere,,,[o-is]
+vinc,o,is,ere,,,[o-is],(AIP*vinc*vic*0)
 viv,o,is,ere,,,[o-is]
 voc,o,as,are,avi,atus,[o-as]
 volo@IRREGULAR%[IPR]=[volo,vis,v?,v?,v?,volunt]%[INFINITIVE]=[volire]

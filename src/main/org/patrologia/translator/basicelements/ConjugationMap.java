@@ -34,6 +34,10 @@ public class ConjugationMap {
         return allKeys;
     }
 
+    public Set<String> allConjugations() {
+        return internalMap.keySet();
+    }
+
     public String getFirstKey(String initialValue) {
         if(!hasKey(initialValue)) {
             return null;
