@@ -35,6 +35,7 @@
 αλλ@prep%1(prep)=mais
 αλλα@prep%1(prep)=mais
 αλλ@adj!ος-η-ο%1(adj)=autre
+αλληλους@prep%1(prep)=autres
 αλληλων@prep%1(prep)=autres
 αλλοτρι@adj!ος-α-ον%1(adj)=étranger%2(adj)=appartenant à un autre
 αλφα@noun!inv%1(noun)=alpha
@@ -60,6 +61,7 @@
 αντιθετ@noun!ον-ου%1(noun)=antithétique
 ανω@prep%1(prep)=en haut
 ανωτατω@prep%1(prep)=le plus en haut
+αξι@adj!ος-α-ον%1(adj)=digne
 αξιαγαπητ@adj!ος-ος-ον%1(adj)=digne d'amour
 αορατ@adj!ος-ος-ον%1(adj)=invisible
 απα@adj!apas%1(noun)=tout
@@ -213,6 +215,7 @@
 εντολ@noun!η-ης%1(noun)=précepte%2(noun)=commandement
 ενωπιον@prep%1(prep)=face à face
 εξ@prep%1(prep)=hors de
+εξαγ@verb!norm%1(verb)=faireemerger%2(verb)=bannir%3(verb)=enlever%4(verb)=emmener
 εξουσι@noun!α-ας%1(noun)=autorité
 επαγγελι@noun!α-ας%1(noun)=promesse
 επαλληλ@noun!ος-ου%1(noun)=se suit rapidement
@@ -228,6 +231,7 @@
 επιεικ@adj!ης-ης-ες%1(adj)=raisonnable
 επιστολ@noun!η-ης%1(noun)=lettre
 επιστροφ@noun!η-ης%1(noun)=retour
+ερπετ@noun!ον-ου%1(noun)=reptile%2(noun)=animal rampant
 επιτρεπ@verb!norm%1(verb)=permettre%2(verb)=instruire
 επιφερ@verb!norm%1(verb)=poser
 επιφρασσ@verb!norm%1(verb)=bloquer
@@ -236,6 +240,7 @@
 εργ@noun!ον-ου%1(noun)=travail%2(noun)=oeuvre
 εργατ@noun!ης-ου%1(noun)=travailleur%2(noun)=ouvrier
 ερημ@adj!ος-η-ον%1(adj)=solitaire%2(adj)=désolé%3(adj)=désert
+ερχ@verb!norm%1(verb)=venir
 ερωτ@verb!norm%1(verb)=interroger%2(verb)=demander
 εσθι@verb!norm%1(verb)=dévorer,consumer%2(verb)=manger
 εσπερ@noun!α-ας%1(noun)=ouest%2(noun)=soir
@@ -252,6 +257,7 @@
 εχθρ@noun!ος-ου%1(noun)=ennemi
 εψιλον@noun!inv%1(noun)=epsilon
 εως@prep%1(prep)=jusqu'à
+ζ@verb!norm%1(verb)=vivre
 ζευς@noun!inv%1(noun)=zeus
 ζητ@verb!norm%1(verb)=chercher
 ζοροβαβελ@noun!inv%1(noun)=zorobabel
@@ -294,6 +300,7 @@
 ιεροσολυμοις@noun!inv%1(noun)=jérusalem
 ιεροσολυμων@noun!inv%1(noun)=de jérusalem
 ιεχονι@noun!ας-ου%1(noun)=jéchonias
+ικαν@adj!ος-η-ον%1(adj)=suffisant
 ιματι@noun!ον-ου%1(noun)=manteau%2(noun)=vêtement
 ινα@prep%1(prep)=en accord avec%2(prep)=à cause de%3(prep)=afin que
 ιουδ@noun!ας-ου%1(noun)=judas
@@ -510,6 +517,8 @@
 περιπτωσ@noun!ις-εως%1(noun)=calamité
 περισσευ@verb!norm%1(verb)=abonder
 περιφυ@verb!norm%1(verb)=verbe des présocratique trouvé nulle part en trad%2(verb)=developper
+πετ@verb!norm%1(verb)=voler
+πετειν@noun!ον-ου%1(noun)=oiseau
 πετρ@noun!ος-ου%1(noun)=pierre
 πιστ@noun!ις-εως%1(noun)=foi%2(noun)=confiance
 πιστευ@verb!norm%1(verb)=avoir foi%2(verb)=croire
@@ -531,6 +540,7 @@
 ποταμ@noun!ος-ου%1(noun)=fleuve
 ποτε@prep%1(prep)=à un moment
 ποτηρι@noun!ον-ου%1(noun)=coupe
+που@prep%1(prep)=où
 πραγμ@noun!α-ατος%1(noun)=chose
 πραξιαδ@noun!ης-ου%1(noun)=praxiades
 πρεσβυτερ@noun!ος-ου%1(noun)=ancien

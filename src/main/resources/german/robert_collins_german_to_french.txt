@@ -13,6 +13,7 @@ ach@noun!inv%1(noun)=ah
 acht@noun!inv%1(noun)=huit
 adresse@noun!flasche%1(noun)=adresse
 ah@noun!inv%1(noun)=ah
+ahn@noun!schmerz%1(noun)=ancêtre
 all@adj!ausreichend%1(adj)=chaque%2(adj)=tout
 allein@adj!inv%1(adj)=seul
 allergisch@noun!norm%1(noun)=allergique
@@ -357,6 +358,7 @@ erhalt@verb!norm%1(verb)=recevoir
 erhol@verb!norm%1(verb)=récupérer%2(verb)=reposer
 erinner@verb!norm%1(verb)=souvenir
 erkenn@verb!norm%1(verb)=identifier
+erkenntnis@noun!erkenntnis%1(noun)=réalisation
 erklarung@noun!meinfem%1(noun)=explication
 erkrankung@noun!meinfem%1(noun)=maladie
 erlauterung@noun!meinfem%1(noun)=explication
@@ -365,7 +367,7 @@ erlebnis@noun!erkenntnis%1(noun)=expérience
 ermang@verb!norm%1(verb)=manquer
 ermudet@adj!ausreichend%1(adj)=fatigué
 ermudung@noun!meinfem%1(noun)=fatigue
-erkenntnis@noun!erkenntnis%1(noun)=réalisation
+erneut@adj!ausreichend%1(adj)=renouvelé
 erste@noun!masc%1(noun)=premier
 errat@verb!norm%1(verb)=deviner
 erreg@verb!norm%1(verb)=exciter%2(verb)=susciter
@@ -840,6 +842,7 @@ misstrauisch@adj!ausreichend%1(adj)=méfiant
 mit@prep%1(prep)=avec
 mitarbeiter@noun!norm%1(noun)=collaborateur
 mitgleid@noun!inv%1(noun)=membre
+mithin@prep%1(prep)=en conséquence%2(prep)=dès lors%3(prep)=donc
 mittagessen@noun!inv%1(noun)=déjeuner
 mitteil@verb!norm%1(verb)=informer
 mitteilbar@adj!ausreichend%1(adj)=communicable

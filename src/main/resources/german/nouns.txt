@@ -10,6 +10,7 @@ ach@neut%inv
 acht@neut%inv
 adresse@fem%flasche
 ah@neut%inv
+ahn@masc%schmerz
 all@adj%ausreichend
 allein@adj%inv
 allergisch@adj%norm
@@ -213,6 +214,7 @@ erlauterung@fem%meinfem
 erlebnis@fem%erkenntnis
 ermudet@adj%ausreichend
 ermudung@fem%meinfem
+erneut@adj%ausreichend
 erste@neut%masc
 erstling@neut%inv
 esra@neut%inv

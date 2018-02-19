@@ -373,58 +373,6 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("strack29", translatorBridge);
     }
 
-    @Test
-    public void test_strack_sources() {
-        checkInMaps("stracksourceA", translatorBridge);
-        checkInMaps("stracksourceB", translatorBridge);
-        checkInMaps("stracksourceC", translatorBridge);
-        checkInMaps("stracksourceD", translatorBridge);
-        checkInMaps("stracksourceE", translatorBridge);
-        checkInMaps("stracksourceF", translatorBridge);
-        checkInMaps("stracksourceG", translatorBridge);
-        checkInMaps("stracksourceH", translatorBridge);
-        checkInMaps("stracksourceI", translatorBridge);
-        checkInMaps("stracksourceJ", translatorBridge);
-        checkInMaps("stracksourceK", translatorBridge);
-        checkInMaps("stracksourceL", translatorBridge);
-        checkInMaps("stracksourceM", translatorBridge);
-        checkInMaps("stracksourceN", translatorBridge);
-        checkInMaps("stracksourceO", translatorBridge);
-        checkInMaps("stracksourceP", translatorBridge);
-        checkInMaps("stracksourceQ", translatorBridge);
-        checkInMaps("stracksourceR", translatorBridge);
-        checkInMaps("stracksourceS", translatorBridge);
-        checkInMaps("stracksourceT", translatorBridge);
-        checkInMaps("stracksourceU", translatorBridge);
-        checkInMaps("stracksourceV", translatorBridge);
-        checkInMaps("stracksourceW", translatorBridge);
-        checkInMaps("stracksourceX", translatorBridge);
-        checkInMaps("stracksourceY", translatorBridge);
-        checkInMaps("stracksourceZ", translatorBridge);
-        checkInMaps("stracksourceAA", translatorBridge);
-        checkInMaps("stracksourceBB", translatorBridge);
-        checkInMaps("stracksourceCC", translatorBridge);
-        checkInMaps("stracksourceDD", translatorBridge);
-        checkInMaps("stracksourceEE", translatorBridge);
-        checkInMaps("stracksourceFF", translatorBridge);
-        checkInMaps("stracksourceGG", translatorBridge);
-        checkInMaps("stracksourceHH", translatorBridge);
-        checkInMaps("stracksourceII", translatorBridge);
-        checkInMaps("stracksourceJJ", translatorBridge);
-        checkInMaps("stracksourceKK", translatorBridge);
-        checkInMaps("stracksourceLL", translatorBridge);
-        checkInMaps("stracksourceMM", translatorBridge);
-        checkInMaps("stracksourceNN", translatorBridge);
-        checkInMaps("stracksourceOO", translatorBridge);
-        checkInMaps("stracksourcePP", translatorBridge);
-        checkInMaps("stracksourceQQ", translatorBridge);
-        checkInMaps("stracksourceRR", translatorBridge);
-        checkInMaps("stracksourceSS", translatorBridge);
-        checkInMaps("stracksourceTT", translatorBridge);
-        checkInMaps("stracksourceUU", translatorBridge);
-        checkInMaps("stracksourceVV", translatorBridge);
-        checkInMaps("stracksourceWW", translatorBridge);
-    }
 
     @Test
     public void test_strack_matthieuc1v1() {
@@ -703,6 +651,6 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("strackp3notH", translatorBridge);
+        checkInMaps("strackp3notJ", translatorBridge);
     }
 }

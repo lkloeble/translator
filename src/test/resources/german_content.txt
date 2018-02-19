@@ -221,29 +221,6 @@ stracksourceW=>Makhsch(irin)     Terum(oth)
 stracksourceX=>pT : palästin. Talmud : krakau 1609. BT : Babylon Talmud : Amsterdam 1644.
 stracksourceY=>so nur in fällen des zweifels. Tos(ephta) : M.S. zuckermandel, pasewalk 1880,
 stracksourceZ=>unmittelbar vor dem namen eines traktats : T, zb : TMeG.
-stracksourceAA=>Die Mischna ist nach kapitel und paragraph zitiert, zB : schab 3,4 der bT nach
-stracksourceBB=>blatt und seite, zb : schab 30b; der pT nach kapitel, blatt, spalte und zeile.
-stracksourceCC=>die Kapitelzahlen des pT und der tos in fetter schrift.
-stracksourceDD=>B. midrashim (s. einl. S 202 ff)
-stracksourceEE=>R : rabba, GnR, ExR, LvR, NuR, DtR : venedig 1545
-stracksourceFF=>midrash zu den Meggiloth : (HL : hoheslied, KL : klaglieder) : Lemberg 1861
-stracksourceGG=>Mekh(iltha) : Wien 1865 (weiß)
-stracksourceHH=>S(iphra) Lv : Bukarest 1860 (Malbim)
-stracksourceII=>S(iphre) Nu, Dt : Wilna 1864 (Firedmann)
-stracksourceJJ=>Midr Sm : krakau 1893 (Buber)
-stracksourceKK=>Midr ps : wilna 1891 (Buber)
-stracksourceLL=>Midr spr : wilna 1893 (Buber)
-stracksourceMM=>tanch(uma) : Wien 1863
-stracksourceNN=>TanchB : Wilna 1885 (Buber)
-stracksourceOO=>Pesiq(tha) : Lyck 1868 (Buber)
-stracksourcePP=>Pesiq(tha) R(abbathi) : wien 1880 (friedmann)
-stracksourceQQ=>Pirqe R(abbi) E(liezer) : Prag  1784
-stracksourceRR=>Seder Elij(jaha) Rabba und Zuta : wien 1902 (friedmann)
-stracksourceSS=>aggadath Bereschit : warschau 1876
-stracksourceTT=>Aboth de R(abbi) N(athan)
-stracksourceUU=>Jalqut Schimsoni : wilna 1898
-stracksourceVV=>Leqach tob : wilna 1884 (Buber)
-stracksourceWW=>CONTINUER A SAISIR
 
 talmudstrackA=>Qid 71A : in der tagen rabbis (einl. 133) suchte man Babel zum teig dem lande Isr. Gegenüber zu Machen.
 talmudstrackB=>Da sagte er zu ihnen : " dornen werft ihr meine augen (R. stammte nämlich von dem aus Bab. Eingewanderten Hillel dem alten ein. 118) R. Chanina b. Chama (R.s schüler) möge sich mit euch befassen.
@@ -300,7 +277,7 @@ strackp3notF=>Desgleichen dürfen alle, von denen feststeht, daß ihre vorfahren
 strackp3notG=>ohne daß es nötig ist, eine prüfung aufwärts anzustellen, an die priesterschaft verheiraten. [Denn wenn ein priester am altar u. ein levit auf dem dukhan,
 strackp3notH=>einer östlich vom altar befinlichen estrade, als sänger mitgewirkt hat, oder wenn jemand mitgleid einer gerichts - oder einer sonstigen öffentlichen behörde war,
 strackp3notI=>so war dessen legitime herkunft ja schon geprüft;
-strackp3notJ=>mithin war eine ernaute prüfung der ahnen seiner tochter nicht nötig, falls diese an einen priester verheiratet werden sollte.]
+strackp3notJ=>mithin war eine erneute prüfung der ahnen seiner tochter nicht nötig, falls diese an einen priester verheiratet werden sollte.]
 
 
 

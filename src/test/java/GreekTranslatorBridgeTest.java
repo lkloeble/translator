@@ -608,7 +608,7 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
     }
 
     @Test
-    public void test_clement() {
+    public void test_clement1() {
         checkInMaps("clement1A", translatorBridge);
         checkInMaps("clement1B", translatorBridge);
         checkInMaps("clement1C", translatorBridge);
@@ -624,12 +624,24 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("clement1M", translatorBridge);
         checkInMaps("clement1N", translatorBridge);
         checkInMaps("clement1O", translatorBridge);
-        assertTrue(false);//suite de clément à saisir
+    }
+
+    @Test
+    public void test_clement2() {
+        checkInMaps("clement2A", translatorBridge);
+        checkInMaps("clement2B", translatorBridge);
+        checkInMaps("clement2C", translatorBridge);
+        checkInMaps("clement2D", translatorBridge);
+        checkInMaps("clement2E", translatorBridge);
+        checkInMaps("clement2F", translatorBridge);
+        checkInMaps("clement2G", translatorBridge);
+        checkInMaps("clement2H", translatorBridge);
+
     }
 
     @Test
     public void test_failed_ones() {
         assertTrue(true);
-        checkInMaps("clement1O", translatorBridge);
+        checkInMaps("matthew2B", translatorBridge);
     }
 }

@@ -141,6 +141,7 @@ meist@prep()
 mich@prep()
 mir@prep()
 mit@prep()
+mithin@prep()
 nach@prep()%[verbLeadingPreposition]
 namlich@prep()
 namentlich@prep()

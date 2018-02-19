@@ -8,5 +8,7 @@ AORPASDEP=>εντος
 AORPASSIMP=>-,-,-,-,-,ωσαν
 AIP=>-,-,εν,-,-,-
 PRMIDPASSDEPPART=>-,-,μενοις,-
+PRMIDPASSPART=>-,-,μενα
 IMPMIDPASSIND=>-,-,-,-,εσθε,-
 PERACTPAR=>νεναι,νως,νυια,νος
+ACAOIN=>ον,ες,εν,ομεν,ετε,ον
