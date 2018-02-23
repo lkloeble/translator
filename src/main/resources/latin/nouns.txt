@@ -1,6 +1,7 @@
 abominand@adj%us-a-um
 abrogat@adj%us-a-um
 abyss@masc%us-i
+accept@adj%us-a-um
 adae@masc%inv
 adam@masc%inv
 adduct@adj%us-a-um
@@ -15,6 +16,7 @@ aemili@fem%a-ae
 aestimand@adj%us-a-um
 aeta@fem%s-tis
 aetern@adj%us-a-um
+afficiend@adj%us-a-um
 afric@fem%a-ae
 ag@masc%er-ri
 agn@masc%us-i
@@ -42,6 +44,7 @@ ann@masc%us-i
 antiochen@adj%us-a-um
 antiqu@adj%us-a-um
 antiquit@fem%as-atis
+apert@adj%us-a-um
 apocalyps@fem%is-is2
 apostol@masc%us-i
 apostolic@adj%us-a-um
@@ -82,6 +85,7 @@ bienni@neut%um-i
 bon@adj%us-a-um
 britanni@fem%a-ae
 brundisi@masc%um-i
+cael@neut%us-i
 cael@neut%um-i
 caeremoni@fem%a-ae
 caeter@adj%us-a-um
@@ -204,6 +208,7 @@ doloros@adj%us-a-um
 domin@masc%us-a-um
 dom@masc%us-i
 don@neut%um-i
+donand@adj%us-a-um
 dubi@adj%us-a-um
 dua@adj%inv
 duae@adj%inv
@@ -240,6 +245,7 @@ fals@adj%us-a-um
 famili@fem%a-ae
 familiarita@fem%s-tis2
 famul@masc%us-i
+felicit@fem%as-atis
 femin@fem%a-ae
 fenestr@fem%a-ae
 fess@adj%us-a-um
@@ -261,6 +267,7 @@ fons@masc%x-tis
 for@neut%um-i
 fortissim@adj%us-a-um
 fortitud@fem%o-inis
+frat@masc%er-ris
 fruct@masc%us-i
 frument@neut%um-i
 galilae@fem%a-ae
@@ -415,6 +422,7 @@ mari@fem%a-ae
 martyr@masc%x-ys
 mascul@adj%us-a-um
 mat@fem%er-eris
+matrimoni@neut%um-i
 matron@fem%a-ae
 maxim@adj%us-a-um
 med@masc%us-i
@@ -531,6 +539,7 @@ pir@neut%um-i
 pisc@masc%is-is
 pistor@masc%x-is
 placenti@fem%a-ae
+pleb@fem%s-is
 plen@adj%us-a-um
 pler@adj%us-a-um
 plu@adj%us-res-ra
@@ -550,6 +559,7 @@ praenuntiat@adj%us-a-um
 preti@neut%um-i
 pretios@adj%us-a-um
 prim@adj%us-a-um
+principat@masc%us-us
 principi@neut%um-i
 prob@adj%us-a-um
 proeli@neut%um-i
@@ -628,6 +638,7 @@ scriptur@adj%us-a-um
 secund@adj%us-a-um
 semen@fem%x-is
 sement@neut%is-is
+sempitern@adj%us-a-um
 senat@masc%us-us
 sequen@adj%s-s-s
 sententi@fem%a-ae
@@ -658,11 +669,13 @@ spuri@adj%us-a-um
 stell@fem%a-ae
 stil@masc%us-i
 studi@neut%um-i
-su@adj%us-a-um
 suav@adj%is-is-e
 superfici@fem%es-ei
 supern@adj%us-a-um
+su@adj%us-a-um
+supplici@neut%um-i
 supposititi@adj%us-a-um
+suscitand@adj%us-a-um
 syllab@fem%a-ae
 syr@fem%a-ae
 syr@masc%us-i
@@ -734,6 +747,7 @@ viven@adj%s-s-s
 vocabul@neut%um-i
 volatil@adj%is-is-e
 voluc@adj%er-ris-re
+volum@neut%en-inis
 volupt@fem%as-atis
 vot@adj%us-a-um
 vo@fem%x-cis

@@ -1,4 +1,5 @@
 abel@masc%invmasc
+absent@adj%invmasc
 abundance@fem%normfem
 according@neut%invmasc
 account@neut%normmasc
@@ -41,12 +42,14 @@ arabic@neut%normmasc
 aramaic@neut%normmasc
 archbishop@neut%invmasc
 area@fem%normfem
+arm@neut%normmasc
 art@neut%invmasc
 artificer@neut%normmasc
 artificial@adj%normmasc
 artificiall@adj%normmasc
 artist@neut%invmasc
 ashamed@neut%invmasc
+asmonean@neut%normmasc
 assembl@fem%endy
 assyria@fem%invfem
 attested@neut%invmasc
@@ -57,6 +60,7 @@ automata@neut%invmasc
 avites@neut%invmasc
 babylonian@adj%normmasc
 babylon@neut%invmasc
+babylone@neut%invmasc
 backs@neut%invmasc
 bacon@neut%invmasc
 baptism@neut%invmasc
@@ -84,6 +88,7 @@ blue@adj%invmasc
 boastfulness@neut%invmasc
 bob@neut%invmasc
 bod@neut%endy
+bondage@neut%invmasc
 bone@neut%normmasc
 book@neut%normmasc
 border@neut%normmasc
@@ -261,9 +266,11 @@ ear@fem%normfem
 earnest@adj%invmasc
 earth@fem%invfem
 east@neut%invmasc
+easy@neut%invmasc
 eastward@neut%invmasc
 eden@neut%invmasc
 edition@fem%normfem
+edomite@neut%normmasc
 effort@neut%normmasc
 egg@masc%normmasc
 egypt@neut%invmasc
@@ -275,6 +282,7 @@ eleventh@adj%invmasc
 elizabeth@fem%invfem
 elucidating@neut%invmasc
 end@fem%normfem
+enem@neut%endy
 energetic@adj%invmasc
 engine@neut%normmasc
 england@neut%invmasc
@@ -471,6 +479,7 @@ joynt@neut%normmasc
 jones@neut%invmasc
 jos@neut%invmasc
 joseph@masc%invmasc
+judaism@masc%invmasc
 judas@masc%invmasc
 judea@neut%invmasc
 judicature@neut%invmasc
@@ -501,6 +510,7 @@ learning@neut%normmasc
 leave@fem%normfem
 leave@fem%normfem
 legal@adj%invmasc
+length@neut%church
 lenny@neut%invmasc!agenitive
 lesser@adj%invmasc
 letter@neut%normmasc
@@ -592,6 +602,7 @@ nation@neut%normmasc
 natural@adj%normmasc
 naturall@adj%normmasc
 nature@fem%normfem
+nearest@neut%invmasc
 need@neut%normmasc
 needful@neut%invmasc
 needfull@neut%invmasc
@@ -678,6 +689,7 @@ portion@fem%normfem
 possession@fem%normfem
 possible@adj%normmasc
 power@neut%normmasc
+powerful@adj%invmasc
 practice@neut%normmasc
 prayer@fem%normfem
 precedent@neut%normmasc
@@ -788,6 +800,7 @@ serpent@neut%normmasc
 seth@neut%invmasc
 sevenfold@neut%invmasc
 seventh@neut%invmasc
+seventy@neut%invmasc
 severe@adj%normmasc
 sheep@neut%normmasc
 shopping@neut%invmasc

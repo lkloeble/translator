@@ -21,6 +21,7 @@ become,[become],(AIP*beco*beca*0)
 begin,[live]
 behead,[call]
 behold,[call]
+believe,[live]
 belong,[call]
 bless,[call]
 boast,[call]
@@ -57,6 +58,7 @@ concern,[live],(PAP*concernd*concerned*0)
 confirm,[live]
 confound,[call]
 consider,[call]
+constrain,[call]
 consult,[call]
 create,[live]
 creep,[live]
@@ -86,8 +88,10 @@ drive,[live],(AIP*drived*drove*0@PAP*drived*driven*0)
 dwell,[live],(AII*dwelld*dwelt*0)
 eat,[see],(AIP*eat*ate*0@PAP*eatd*eaten*0)
 edit,[call]
+embrace,[live]
 emulate,[live]
 end,[call]
+endure,[live],(PAPR*endurei*enduri*0)
 establish,[teach]
 exclude,[live]
 expect,[call]
@@ -128,6 +132,7 @@ include,[live]
 inhabit,[call]
 intercalate,[live]
 interpret,[live]
+invade,[live]
 hover,[live]
 join,[call]
 keep,[call]
@@ -158,6 +163,7 @@ observe,[live],(PAPR*observe*observ*0)
 offer,[live]
 open,[call]
 operate,[live],(PAPR*operateing*operating*0)
+outroot,[call]
 overrun,[live],(AIP*overrund*overran*0)
 own,[live]
 part,[call]
@@ -191,6 +197,7 @@ rest,[call]
 retain,[live]
 return,[call]
 rise,[live],(AIP*rised*rose*0@PAPR*rise*ris*0)
+root,[call]
 rule,[live]
 say,[live],(AII*say*sai*0)
 sanctify,[live],(AIP*fyd*fied*1@PAP*sanctifyd*sanctified*0)

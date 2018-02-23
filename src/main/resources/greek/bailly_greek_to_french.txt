@@ -66,10 +66,12 @@
 αορατ@adj!ος-ος-ον%1(adj)=invisible
 απα@adj!apas%1(noun)=tout
 απειρ@noun!ος-ου%1(noun)=infini
+απλ@adj!ους-η-ουν%1(adj)=simple
 απλαν@noun!η-ης%1(noun)=non volant
 απιστ@noun!ος-η-ον%1(noun)=infidèle%2(noun)=incroyant
 απαγ@verb!norm%1(verb)=emmener
 απο@prep%1(prep)=depuis
+απλως@prep%1(prep)=seulement
 αποθνησκ@verb!norm%1(verb)=mourir
 αποκλει@verb!norm%1(verb)=verouiller%2(verb)=eteindre%3(verb)=exclure%4(verb)=enfermer
 αποκριν@verb!norm%1(verb)=separer%2(verb)=choisir%3(verb)=repondre
@@ -209,6 +211,7 @@
 εμμανουηλ@noun!inv%1(noun)=emmanuel
 εμπροσθεν@prep%1(prep)=devant
 εν@prep%1(prep)=dans
+ενδεχεται@noun!inv%1(noun)=il est possible
 ενδυ@verb!norm%1(verb)=entrer%2(verb)=habiller
 ενιαυτ@noun!ος-ου%1(noun)=année
 ενθυμε@verb!norm%1(verb)=desirer%2(verb)=reflechir
@@ -414,6 +417,7 @@
 μιλησι@noun!ος-ου%1(noun)=milésien
 μη@prep%1(prep)=non
 μηδενος@prep%1(prep)=rien
+μην@prep%1(prep)=absolument
 μητ@noun!ηρ-ερος%1(noun)=terre nourricière%2(noun)=femme âgée%3(noun)=mère
 μητε@prep%1(prep)=ni
 μισ@verb!norm%1(verb)=hair
@@ -464,11 +468,13 @@
 οτι@prep%1(prep)=que
 ου@prep%1(prep)=qui%2(prep)=ne
 ουδε@prep%1(prep)=non plus%2(prep)=ni
+ουθ@prep%1(prep)=et pas
 ουκ@prep%1(prep)=ne
 ουν@prep%1(noun)=alors%2(noun)=donc
 ουραν@noun!ος-ου%1(noun)=ciel
 ουρι@noun!ας-ου%1(noun)=urie
 ους@prep%1(noun)=qui
+ουτε@prep%1(prep)=et pas
 ουτοι@prep%1(prep)=ces
 ουτος@prep%1(prep)=ce
 ουτω@prep%1(prep)=ainsi
@@ -590,6 +596,7 @@
 σταυρ@noun!ος-ου%1(noun)=croix
 στερεωμ@noun!α-ατος%1(noun)=fondation%2(noun)=firmament
 στοιχει@noun!ος-ου%1(noun)=élément%2(noun)=cause%3(noun)=principe
+στοιχει@noun!ον-ου%1(noun)=élément
 σπερμ@noun!α-ατος%1(noun)=semence
 στασ@noun!ις-εως%1(noun)=lieu%2(noun)=construction%3(noun)=position
 στρογγυλ@adj!ος-η-ον%1(adj)=rond%2(adj)=sphérique
@@ -608,6 +615,7 @@
 συνερχ@verb!norm%1(verb)=voyager%2(verb)=sassembler%3(verb)=avoirdesrelationssexuelles
 συστημα@noun!inv%1(noun)=système
 σχημ@noun!α-ατος%1(noun)=nature%2(noun)=forme%3(noun)=apparence
+σωμ@noun!α-ατος%1(noun)=corps
 σωζ@verb!norm%1(verb)=préserver,mettre à l'abri%2(verb)=laisser vivre,épargner%3(verb)=conserver%4(verb)=sauver
 σωφρον@verb!norm%1(verb)=etresaindesprit
 σωτηρι@noun!α-ας%1(noun)=salut
@@ -636,6 +644,7 @@
 τικτ@verb!norm%1(verb)=enfanter
 τινα@prep%1(prep)=quelque chose%2(prep)=quelqu'un
 τινας@prep%1(prep)=quoi%2(prep)=quelque chose%3(prep)=quelqu'un%4(prep)=qui
+τινες@prep%1(prep)=quoi%2(prep)=quelque chose%3(prep)=quelqu'un%4(prep)=qui
 τις@prep%1(prep)=quelque chose%2(prep)=quelqu'un
 το@noun!inv%1(noun)=le
 τοιγαρουν@prep%1(prep)=voilà pourquoi
