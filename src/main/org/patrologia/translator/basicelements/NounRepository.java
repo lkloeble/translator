@@ -10,7 +10,7 @@ import java.util.*;
 /**
  * Created by Laurent KLOEBLE on 23/08/2015.
  */
-public class NounRepository extends Repository {
+public class NounRepository extends Accentuer {
 
     private DeclensionFactory declensionFactory;
     private NounMap nounsMap = new NounMap();

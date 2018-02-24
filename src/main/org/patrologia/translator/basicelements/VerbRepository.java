@@ -8,10 +8,10 @@ import java.util.*;
 /**
  * Created by Laurent KLOEBLE on 07/09/2015.
  */
-public class VerbRepository extends Repository {
+public class VerbRepository extends Accentuer {
 
-    private ConjugationMap conjugationsMap = new ConjugationMap();
-    private VerbMap verbMap = new VerbMap(conjugationsMap);
+    private ConjugationMap conjugationsMap;
+    private VerbMap verbMap;
     private Map<String, RootedConjugation> rootedConjugationMap = new HashMap<>();
     private TranslationBeanMap translationBeansMap = new TranslationBeanMap();
 
@@ -19,11 +19,15 @@ public class VerbRepository extends Repository {
     private Language language;
     private VerbDefinitionFactory verbDefinitionFactory = new VerbDefinitionFactory();
     private ConjugationComparator conjugationComparator;
+    private Accentuer accentuer;
 
-    public VerbRepository(ConjugationFactory conjugationFactory, Language language, List<String> definitionList) {
+    public VerbRepository(ConjugationFactory conjugationFactory, Language language, Accentuer accentuer, List<String> definitionList) {
         this.conjugationFactory = conjugationFactory;
         this.language = language;
         conjugationComparator = conjugationFactory.getComparator();
+        this.accentuer = accentuer;
+        this.conjugationsMap =  new ConjugationMap(accentuer);
+        this.verbMap = new VerbMap(conjugationsMap);
         definitionList.stream().forEach(definition -> addVerb(definition));
     }
 

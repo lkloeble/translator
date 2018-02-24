@@ -39,7 +39,7 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
         String germanPathFile = "C:\\translator\\src\\test\\resources\\german_content.txt";
         String germanResultFile = "C:\\translator\\src\\test\\resources\\german_expected_results.txt";
         GermanDeclensionFactory germanDeclensionFactory = new GermanDeclensionFactory(getDeclensions(declensionsAndFiles), getDeclensionList(declensionsAndFiles, declensionPath));
-        VerbRepository verbRepository = new VerbRepository(new GermanConjugationFactory(getGermanConjugations(conjugationsAndFiles), getGermanConjugationDefinitions(conjugationsAndFiles, conjugationPath)), Language.GERMAN, getVerbs(verbFileDescription));
+        VerbRepository verbRepository = new VerbRepository(new GermanConjugationFactory(getGermanConjugations(conjugationsAndFiles), getGermanConjugationDefinitions(conjugationsAndFiles, conjugationPath)), Language.GERMAN, new DummyAccentuer(),getVerbs(verbFileDescription));
         GermanRuleFactory ruleFactory = new GermanRuleFactory(verbRepository);
         PrepositionRepository prepositionRepository = new PrepositionRepository(Language.GERMAN, new GermanCaseFactory(), ruleFactory, getFileContentForRepository(prepositionFileDescription));
         NounRepository nounRepository = new NounRepository(Language.GERMAN, germanDeclensionFactory, getFileContentForRepository(nounFileDescription));

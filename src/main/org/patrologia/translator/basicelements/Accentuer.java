@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * Created by lkloeble on 03/10/2017.
  */
-public class Repository {
+public class Accentuer {
 
     private List<String> sofitLetters = Arrays.asList(new String[]{"k", "m", "n", "p"});
     public String SOFIT_END = "000";

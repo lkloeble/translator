@@ -1,5 +1,6 @@
 noma%sing%fem%e
 nomb%sing%fem%ea
+gen%sing%fem%ei
 noma%plr%fem%i
 nomb%plr%fem%ile
-geb%sing%fem%ei
+gen%plr%fem%ilor

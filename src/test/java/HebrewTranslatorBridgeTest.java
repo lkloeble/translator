@@ -1,10 +1,7 @@
 import org.junit.Before;
 import org.junit.Test;
 import org.patrologia.translator.TranslatorBridge;
-import org.patrologia.translator.basicelements.Language;
-import org.patrologia.translator.basicelements.NounRepository;
-import org.patrologia.translator.basicelements.PrepositionRepository;
-import org.patrologia.translator.basicelements.VerbRepository;
+import org.patrologia.translator.basicelements.*;
 import org.patrologia.translator.casenumbergenre.hebrew.HebrewCaseFactory;
 import org.patrologia.translator.conjugation.hebrew.HebrewConjugationFactory;
 import org.patrologia.translator.declension.Declension;
@@ -44,7 +41,7 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
         String hebrewPathFile = "C:\\translator\\src\\test\\resources\\hebrew_content.txt";
         String hebrewResultFile = "C:\\translator\\src\\test\\resources\\hebrew_expected_results.txt";
         HebrewDeclensionFactory hebrewDeclensionFactory = new HebrewDeclensionFactory(getDeclensions(declensionsAndFiles), getDeclensionList(declensionsAndFiles, declensionPath));
-        VerbRepository verbRepository = new VerbRepository(new HebrewConjugationFactory(getHebrewConjugations(conjugationsAndFiles), getHebrewConjugationDefinitions(conjugationsAndFiles, conjugationPath)), Language.HEBREW, getVerbs(verbFileDescription));
+        VerbRepository verbRepository = new VerbRepository(new HebrewConjugationFactory(getHebrewConjugations(conjugationsAndFiles), getHebrewConjugationDefinitions(conjugationsAndFiles, conjugationPath)), Language.HEBREW, new DummyAccentuer(),getVerbs(verbFileDescription));
         HebrewRuleFactory ruleFactory = new HebrewRuleFactory();
         PrepositionRepository prepositionRepository = new PrepositionRepository(Language.HEBREW, new HebrewCaseFactory(), ruleFactory, getFileContentForRepository(prepositionFileDescription));
         NounRepository nounRepository = new NounRepository(Language.HEBREW, hebrewDeclensionFactory, getFileContentForRepository(nounFileDescription));

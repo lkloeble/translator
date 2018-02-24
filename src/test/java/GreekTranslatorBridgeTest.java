@@ -1,10 +1,7 @@
 import org.junit.Before;
 import org.junit.Test;
 import org.patrologia.translator.TranslatorBridge;
-import org.patrologia.translator.basicelements.Language;
-import org.patrologia.translator.basicelements.NounRepository;
-import org.patrologia.translator.basicelements.PrepositionRepository;
-import org.patrologia.translator.basicelements.VerbRepository;
+import org.patrologia.translator.basicelements.*;
 import org.patrologia.translator.casenumbergenre.greek.GreekCaseFactory;
 import org.patrologia.translator.conjugation.greek.GreekConjugationFactory;
 import org.patrologia.translator.declension.Declension;
@@ -47,7 +44,7 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
         GreekDeclensionFactory greekDeclensionFactory = new GreekDeclensionFactory(getDeclensions(declensionsAndFiles), getDeclensionList(declensionsAndFiles, declensionPath));
         PrepositionRepository prepositionRepository = new PrepositionRepository(Language.GREEK, new GreekCaseFactory(), ruleFactory, getFileContentForRepository(prepositionFileDescription));
         NounRepository nounRepository = new NounRepository(Language.GREEK, greekDeclensionFactory, getFileContentForRepository(nounFileDescription));
-        VerbRepository verbRepository = new VerbRepository(new GreekConjugationFactory(getGreekConjugations(conjugationsAndFiles), getGreekConjugationDefinitions(conjugationsAndFiles, conjugationPath)), Language.GREEK, getFileContentForRepository(verbFileDescription));
+        VerbRepository verbRepository = new VerbRepository(new GreekConjugationFactory(getGreekConjugations(conjugationsAndFiles), getGreekConjugationDefinitions(conjugationsAndFiles, conjugationPath)), Language.GREEK, new DummyAccentuer(),getFileContentForRepository(verbFileDescription));
         Analizer greekAnalyzer = new GreekAnalyzer(prepositionRepository, nounRepository, verbRepository);
         Translator frenchTranslator = new FrenchTranslator(getFileContentForRepository(greekFrenchDataFile), getFileContentForRepository(frenchVerbsDataFile), verbRepository, nounRepository, declensionPath, declensionsAndFiles, greekDeclensionFactory);
         translatorBridge = new TranslatorBridge(greekAnalyzer, frenchTranslator);

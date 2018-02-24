@@ -1,10 +1,7 @@
 import org.junit.Before;
 import org.junit.Test;
 import org.patrologia.translator.TranslatorBridge;
-import org.patrologia.translator.basicelements.Language;
-import org.patrologia.translator.basicelements.NounRepository;
-import org.patrologia.translator.basicelements.PrepositionRepository;
-import org.patrologia.translator.basicelements.VerbRepository;
+import org.patrologia.translator.basicelements.*;
 import org.patrologia.translator.casenumbergenre.latin.LatinCaseFactory;
 import org.patrologia.translator.conjugation.latin.LatinConjugationFactory;
 import org.patrologia.translator.declension.Declension;
@@ -42,7 +39,7 @@ public class LatinTranslatorBridgeTest extends TranslatorBridgeTest {
         LatinRuleFactory ruleFactory = new LatinRuleFactory();
         PrepositionRepository prepositionRepository = new PrepositionRepository(Language.LATIN, new LatinCaseFactory(), ruleFactory, getFileContentForRepository(prepositionFileDescription));
         NounRepository nounRepository = new NounRepository(Language.LATIN, latinDeclensionFactory, getFileContentForRepository(nounFileDescription));
-        VerbRepository verbRepository = new VerbRepository(new LatinConjugationFactory(getLatinConjugations(conjugationsAndFiles), getLatinConjugationDefinitions(conjugationsAndFiles, conjugationLatinFiles)), Language.LATIN, getVerbs(verbFileDescription));
+        VerbRepository verbRepository = new VerbRepository(new LatinConjugationFactory(getLatinConjugations(conjugationsAndFiles), getLatinConjugationDefinitions(conjugationsAndFiles, conjugationLatinFiles)), Language.LATIN, new DummyAccentuer(),getVerbs(verbFileDescription));
         Analizer latinAnalyzer = new LatinAnalyzer(prepositionRepository, nounRepository, verbRepository);
         Translator frenchTranslator = new FrenchTranslator(getFileContentForRepository(latinFrenchDataFile), getFileContentForRepository(frenchVerbsDataFile), verbRepository, nounRepository, declensionLatinFiles, declensionsAndFiles, latinDeclensionFactory);
         translatorBridge = new TranslatorBridge(latinAnalyzer, frenchTranslator);

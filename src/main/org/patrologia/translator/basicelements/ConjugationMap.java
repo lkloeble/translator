@@ -5,7 +5,11 @@ import java.util.*;
 public class ConjugationMap {
 
     private HashMap<String, Set<String>> internalMap = new HashMap<>();
-    private Repository repository = new Repository();
+    private Accentuer accentuer;
+
+    public ConjugationMap(Accentuer accentuer) {
+        this.accentuer = accentuer;
+    }
 
     public void put(String key, String value) {
         Set<String> values = null;
@@ -19,11 +23,11 @@ public class ConjugationMap {
     }
 
     public boolean containsKey(String initialValue) {
-        return internalMap.containsKey(initialValue) || internalMap.containsKey(repository.unaccentued(initialValue));
+        return internalMap.containsKey(initialValue) || internalMap.containsKey(accentuer.unaccentued(initialValue));
     }
 
     public Set<String> get(String key) {
-        return internalMap.get(key) != null ? internalMap.get(key) : internalMap.get(repository.unaccentued(key));
+        return internalMap.get(key) != null ? internalMap.get(key) : internalMap.get(accentuer.unaccentued(key));
     }
 
     public List<String> keySet() {

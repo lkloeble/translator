@@ -30,3 +30,4 @@ aprecia%aprecia.txt
 ramane%ramane.txt
 mantui%mantui.txt
 trimite%trimite.txt
+intampla%intampla.txt

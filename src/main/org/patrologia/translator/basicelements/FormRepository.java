@@ -7,7 +7,7 @@ import java.util.*;
 /**
  * Created by lkloeble on 30/12/2015.
  */
-public class FormRepository extends Repository {
+public class FormRepository extends Accentuer {
 
     private Map<Form, Form> formCorrespondances = new HashMap<Form, Form>();
     private Set<String>  allPossibleWordsValue = new HashSet<>();

@@ -10,6 +10,7 @@ aprind,,[merg],(IPR1*di*zi*1)
 arat,,[incerca]
 as,,[aprecia]
 astept,,[cauta],(AIMP*astepta*asteapta*1)
+atrag,,[merg]
 autoform,are,[aciti]
 auz,,[dorm],(IPR025*auz*aud*0)
 be,,[bea]
@@ -36,7 +37,8 @@ deranj,,[fumez]
 descop,,[descopar]
 desfasoar,,[incerca]
 dev,,[deveni],(IPR12*dev*devi*0)
-dor,,[dorm],(IPR25*dor*doar*0)
+doar,,[dorm]
+dor,,[aciti]
 dorm,,[dorm]
 dot,,[fumez]
 doved,,[aciti]
@@ -59,6 +61,7 @@ inmormint,,[fumez]
 insemn,,[incerca],(IPR25*insem*inseam*0)
 insist,,[incerca]
 inspaimant,,[cauta]
+intampl,,[intampla]
 intorc,,[face],(IPR234*intor*intoar*0)
 intreb,,[cauta],(IPR25*intreba*intreaba*0@AIMP*intreba*intreaba*0)
 intseleg,,[merg],(PAP*intselegs*intseles*0)
@@ -108,7 +111,7 @@ sint@IRREGULAR%[IPR]=[sint,esti,este,sintem|suntem,sintetsi,sint|sunt]%[AII]=[er
 sluj,,[locuiesc]
 spun,,[face],(IPR1*uni*ui*1)
 sta,,[stiu]
-sti,,[stiu]
+sti,,[stiu],(AIPP*sti*stius*0)
 string,,[merg],(MMCP*string*strins*0)
 studi,,[fumez]
 sufer,,[suferi],(IPR0*er*ar*1)

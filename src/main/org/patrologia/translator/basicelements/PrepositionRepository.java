@@ -10,7 +10,7 @@ import java.util.*;
 /**
  * Created by Laurent KLOEBLE on 23/08/2015.
  */
-public class PrepositionRepository extends Repository {
+public class PrepositionRepository extends Accentuer {
 
     private Map<String, Preposition> prepositionMap = new HashMap<String, Preposition>();
     private CaseFactory caseFactory;

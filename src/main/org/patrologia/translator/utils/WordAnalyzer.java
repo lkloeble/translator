@@ -20,6 +20,7 @@ public class WordAnalyzer {
     private Language language;
     private CustomRule customRule;
     private CaseOperatorContainer caseOperatorContainer;
+    private Accentuer accentuer = new Accentuer();
 
     public WordAnalyzer(PrepositionRepository prepositionRepository, NounRepository nounRepository, VerbRepository verbRepository, CustomLanguageRulePhraseChanger customLanguageRulePhraseChanger, ModificationLog modificationLog, CustomRule customRule, CaseOperatorContainer caseOperatorContainer, Language language) {
         this.prepositionRepository = prepositionRepository;
@@ -72,7 +73,7 @@ public class WordAnalyzer {
                     Collection<Verb> verbs = verbRepository.getVerbs(initialValue);
                     Collection<Word> wordsToAdd = new ArrayList<>();
                     for(Verb verb : verbs) {
-                        verb.setInitialValue(initialValue);
+                        verb.setInitialValue(accentuer.unaccentued(initialValue));
                         verb.setPreferedTranslation(unknownYet.getPreferedTranslation());
                         if (unknownYet.isVerb()) {
                             verb.setForbiddenConjugations(unknownYet.getForbiddenConjugations());

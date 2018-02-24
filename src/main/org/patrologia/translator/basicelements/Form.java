@@ -10,7 +10,7 @@ public class Form {
     private WordType type;
     private String declension;
     private int preferedTranslation;
-    private Repository repository = new Repository();
+    private Accentuer accentuer = new Accentuer();
 
     public Form(String value, String originValue, WordType type, String declension, int preferedTranslation) {
         this.value = value;
@@ -88,6 +88,6 @@ public class Form {
     }
 
     private String unaccentued(String value) {
-        return repository.unaccentuedWithSofit(value);
+        return accentuer.unaccentuedWithSofit(value);
     }
 }

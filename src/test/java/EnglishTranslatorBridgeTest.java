@@ -40,7 +40,7 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
         String englishPathFile = "C:\\translator\\src\\test\\resources\\english_content.txt";
         String englishResultFile = "C:\\translator\\src\\test\\resources\\english_expected_results.txt";
         EnglishDeclensionFactory englishDeclensionFactory = new EnglishDeclensionFactory(getDeclensions(declensionsAndFiles), getDeclensionList(declensionsAndFiles, declensionPath));
-        VerbRepository verbRepository = new VerbRepository(new EnglishConjugationFactory(getEnglishConjugations(conjugationsAndFiles), getEnglishConjugationDefinitions(conjugationsAndFiles, conjugationPath)), Language.ENGLISH, getVerbs(verbFileDescription));
+        VerbRepository verbRepository = new VerbRepository(new EnglishConjugationFactory(getEnglishConjugations(conjugationsAndFiles), getEnglishConjugationDefinitions(conjugationsAndFiles, conjugationPath)), Language.ENGLISH, new DummyAccentuer() ,getVerbs(verbFileDescription));
         EnglishRuleFactory ruleFactory = new EnglishRuleFactory();
         PrepositionRepository prepositionRepository = new PrepositionRepository(Language.ENGLISH, new EnglishCaseFactory(), ruleFactory, getFileContentForRepository(prepositionFileDescription));
         NounRepository nounRepository = new NounRepository(Language.ENGLISH, englishDeclensionFactory, getFileContentForRepository(nounFileDescription));

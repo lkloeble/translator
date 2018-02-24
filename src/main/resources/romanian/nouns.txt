@@ -5,6 +5,7 @@ acesta@neut%inv
 act@masc%ul
 actsiune@fem%ereditate
 actsiun@masc%ul
+adancim@fem%berea
 adancir@fem%berea
 adapost@masc%locul
 adevarat@adj%adj
@@ -138,12 +139,14 @@ dat@adj%adjts
 deosebire@fem%ereditate
 dependents@fem%fem
 depinde@neut%inv
+descoperir@fem%berea
 descoperit@adj%adj
 descris@adj%adj
 deseara@neut%inv
 desert@neut%locul
 desis@neut%locul
 despartsit@adj%adj
+devreme@neut%inv
 dezvoltare@neut%inv
 dialog@masc%ul
 dificil@fem%fem
@@ -466,9 +469,7 @@ sapte@neut%inv
 sarac@adj%adj
 sat@masc%ul
 scrier@fem%berea
-sens@masc%ul
-sete@neut%inv
-sev@fem%fem
+scandal@masc%ul
 scandalos@adj%adj
 scoal@fem%fem
 scop@masc%ul
@@ -477,11 +478,15 @@ scump@adj%adj
 seam@fem%fem
 sear@fem%fem
 secret@masc%ul
+sens@masc%ul
 sens@neut%inv
 sentimental@adj%adj
 separatsie@fem%ereditate
 ser@neut%inv
+sete@neut%inv
+sev@fem%fem
 sezand@adj%adj
+sfad@fem%fem
 sfant@adj%adj
 sfat@masc%locul
 sfert@neut%inv
@@ -515,6 +520,7 @@ supranatural@adj%adj
 sut@fem%fem
 talentat@adj%adjts
 tare@neut%inv
+tarziu@neut%inv
 tata@masc%inv
 tatal@masc%inv
 taxi@neut%inv
@@ -573,6 +579,7 @@ vinatoare@fem%inv
 virst@fem%fem
 vitez@fem%fem
 vizavi@masc%inv
+vizit@fem%fem
 voc@fem%berea
 voi@neut%inv
 vrem@fem%berea

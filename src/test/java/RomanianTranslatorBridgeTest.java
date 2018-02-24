@@ -1,10 +1,7 @@
 import org.junit.Before;
 import org.junit.Test;
 import org.patrologia.translator.TranslatorBridge;
-import org.patrologia.translator.basicelements.Language;
-import org.patrologia.translator.basicelements.NounRepository;
-import org.patrologia.translator.basicelements.PrepositionRepository;
-import org.patrologia.translator.basicelements.VerbRepository;
+import org.patrologia.translator.basicelements.*;
 import org.patrologia.translator.casenumbergenre.romanian.RomanianCaseFactory;
 import org.patrologia.translator.conjugation.romanian.RomanianConjugationFactory;
 import org.patrologia.translator.declension.Declension;
@@ -42,7 +39,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         String romanianPathFile = "C:\\translator\\src\\test\\resources\\romanian_content.txt";
         String romanianResultFile = "C:\\translator\\src\\test\\resources\\romanian_expected_results.txt";
         RomanianDeclensionFactory romanianDeclensionFactory = new RomanianDeclensionFactory(getDeclensions(declensionsAndFiles), getDeclensionList(declensionsAndFiles, declensionPath));
-        VerbRepository verbRepository = new VerbRepository(new RomanianConjugationFactory(getRomanianConjugations(conjugationsAndFiles), getRomanianConjugationDefinitions(conjugationsAndFiles, conjugationPath)), Language.ROMANIAN, getVerbs(verbFileDescription));
+        VerbRepository verbRepository = new VerbRepository(new RomanianConjugationFactory(getRomanianConjugations(conjugationsAndFiles), getRomanianConjugationDefinitions(conjugationsAndFiles, conjugationPath)), Language.ROMANIAN, new DummyAccentuer(), getVerbs(verbFileDescription));
         RomanianRuleFactory ruleFactory = new RomanianRuleFactory(verbRepository);
         PrepositionRepository prepositionRepository = new PrepositionRepository(Language.ROMANIAN, new RomanianCaseFactory(), ruleFactory, getFileContentForRepository(prepositionFileDescription));
         NounRepository nounRepository = new NounRepository(Language.ROMANIAN, romanianDeclensionFactory, getFileContentForRepository(nounFileDescription));
@@ -631,7 +628,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("patericulegyptantonie1H", translatorBridge);
+        checkInMaps("assimil12K", translatorBridge);
     }
     
 }
