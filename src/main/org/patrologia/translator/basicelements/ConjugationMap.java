@@ -31,11 +31,12 @@ public class ConjugationMap {
     }
 
     public List<String> keySet() {
-        List<String> allKeys = new ArrayList<>();
+        Set<String> allKeys = new HashSet<>();
         for(String keySet : internalMap.keySet()) {
             allKeys.addAll(internalMap.get(keySet));
+            allKeys.add(keySet);
         }
-        return allKeys;
+        return new ArrayList<>(allKeys);
     }
 
     public Set<String> allConjugations() {
@@ -51,5 +52,13 @@ public class ConjugationMap {
 
     private boolean hasKey(String initialValue) {
         return internalMap.get(initialValue) != null;
+    }
+
+    @Override
+    public String toString() {
+        return "ConjugationMap{" +
+                "internalMap=" + internalMap.size() +
+                " values, accentuer=" + accentuer +
+                '}';
     }
 }

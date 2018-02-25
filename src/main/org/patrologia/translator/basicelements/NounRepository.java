@@ -158,7 +158,8 @@ public class NounRepository extends Accentuer {
 
     public List<String> getNounsValueStartingWith(String beginningPattern) {
         Set<String> nounValues = new HashSet<>();
-        for(Noun noun : nounsMap.values()) {
+        Collection<Noun> allNouns = nounsMap.values();
+        for(Noun noun : allNouns) {
             if(noun.getInitialValue().startsWith(beginningPattern)) {
                 nounValues.add(noun.getInitialValue());
                 nounValues.add(unaccentued(noun.getInitialValue()));

@@ -34,6 +34,8 @@ public class LatinPhraseChanger extends CustomLanguageRulePhraseChanger {
     private List<String> stopWordsQue = new ArrayList<String>();
     private List<String> stopWordsNe = new ArrayList<String>();
 
+    private Accentuer accentuer = new DummyAccentuer();
+
     public LatinPhraseChanger(NounRepository nounRepository, VerbRepository verbRepository, PrepositionRepository prepositionRepository) {
         this.nounRepository = nounRepository;
         this.verbRepository = verbRepository;
@@ -78,11 +80,11 @@ public class LatinPhraseChanger extends CustomLanguageRulePhraseChanger {
     }
 
     private Phrase substituteEndingNeWithCustomPrep(Phrase phrase) {
-        return substituteEndPatternWithNewPreposition(phrase, "ne", new Preposition(language, "isntit", null), stopWordsNe);
+        return substituteEndPatternWithNewPreposition(phrase, "ne", new Preposition(language, "isntit", null), stopWordsNe, accentuer);
     }
 
     private Phrase substituteQueWithEt(Phrase phrase) {
-        return substituteEndPatternWithNewPreposition(phrase, "que", new Preposition(language, "et", null), stopWordsQue);
+        return substituteEndPatternWithNewPreposition(phrase, "que", new Preposition(language, "et", null), stopWordsQue, accentuer);
     }
 
     private Phrase splitAdPrepositionAndSumConjugation(Phrase phrase) {

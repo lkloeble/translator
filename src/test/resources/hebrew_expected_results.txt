@@ -445,9 +445,9 @@ bereshit1EE=>foo
 mishnah1A'=>A partir de quand récite-t-on le Shemâ1 le soir ? A partir de l'heure où les Kohanim2 rentrent consommer leur Terouma3 (offrandes), jusqu'à la fin de la première veille
 mishnah1A=>de quand appellent COD entendit@shema@ dans prière du soir : de heure(e) que les prêtre(s) entrent manger dans térouma(e) à eux, jusqu'à fin la veille(e) la première(e),
 mishnah1B'=>, paroles de Rabbi Eliêzer. Et les H'akhamim4 disent, jusqu'à la mi-nuit. Rabban Gamliel dit, jusqu'à ce que se soit levée l'aube.
-mishnah1B=>paroles de rabbi éliezer. et sage(s) disent, jusqu'à milieu de la nuit. rabban gamaliel dit, jusqu'à que se levera page le aube
+mishnah1B=>parole(s) (des)@paroles de@ rabbi éliezer. et sage(s) disent, jusqu'à milieu de la nuit. rabban gamaliel dit, jusqu'à que se levera page le aube
 mishnah1C'=>Il arriva que ses fils revinrent d'un banquet, et ils lui dirent, nous n'avons pas récité le Shemâ. Il leur dit, si l'aube n'est pas levée,
-mishnah1C=>oeuvre(e) que vinrent fils de lui de maison le banquet, et dirai pour lui, ne appelâmes COD entendit@shema@. dit à eux, si ne se lève page le aube
+mishnah1C=>oeuvre(e) que vinrent fils(s) (des) de lui de maison le banquet, et dirai pour lui, ne appelâmes COD entendit@shema@. dit à eux, si ne se lève page le aube
 mishnah1D'=>vous avez le droit de le réciter.
 mishnah1D=>de permis eux appeler
 mishnah1E'=>Et pas seulement dans ce cas, chaque fois que les H'akhamim disent jusqu'à la mi-nuit, le précepte est jusqu'à ce que l'aube soit levée. la combustion des graisses et des membres
@@ -458,7 +458,8 @@ mishnah1G'=>S'il en est ainsi, pourquoi les H'akhamim ont-ils dit "jusqu'à la m
 mishnah1G=>si ainsi, pourquoi dirent sage(s) jusqu'à milieu de la nuit mais pour éloigner COD le homme de la transgression(e)
 mishnah1H'=>A partir de quand doit-on réciter le Shemâ le matin ? Lorsque l'on distingue entre le bleu et le blanc; Rabbi Eliêzer dit, entre le bleu et le vert.
 mishnah1H=>de quand appellent COD entendit@shema@ dans aube(s) : lorsque l'on sait reconnaître entre bleu à laban; rabbi éliezer dit, entre bleu à poireau.
-mishnah1I=>Jusqu'au point du jour; Rabbi Yehoshuâ dit, jusqu'à la troisième heure, selon l'habitude des fils de roi de se lever à la troisième heure.
+mishnah1I'=>Jusqu'au point du jour; Rabbi Yehoshuâ dit, jusqu'à la troisième heure, selon l'habitude des fils de roi de se lever à la troisième heure.
+mishnah1I=>jusqu'à le floraison la soleil(e); rabbi yehoshouah dit, jusqu'à troisième heure(s)(e), que ainsi chemin fils(s) (des) roi(s) à page dans troisième heure(s)(e).
 mishnah1J=>Celui qui récite de cette façon ne subit pas de dommage, [mais il est] tout comme l'homme qui lit la Torah.
 mishnah1K=>Les disciples de Shammaï disent, le soir que tout homme s'allonge et récite [le Shemâ], et le matin qu'il se lève [pour réciter le Shemâ], comme il est dit "à ton coucher et à ton lever" (Devarim 6:7
 mishnah1L=>Devarim 11:19). Les disciples de Hillel disent, tout homme récite selon son habitude, comme il est dit "et quand tu partiras en chemin" (ibid).
@@ -491,4 +492,5 @@ rachitext1O=>foo
 
 
 
-toto=>à type de lui
+toto=>et à fils(s) de israël
+totoacc=>et à fils(s) de israël

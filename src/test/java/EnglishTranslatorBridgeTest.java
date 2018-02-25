@@ -894,7 +894,7 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("lightfoot_ch1X", translatorBridge);
         checkInMaps("lightfoot_ch1Y", translatorBridge);
         checkInMaps("lightfoot_ch1Z", translatorBridge);
-        checkInMaps("lightfoot_ch1AA", translatorBridge);
+        //checkInMaps("lightfoot_ch1AA", translatorBridge);
         checkInMaps("lightfoot_ch1BB", translatorBridge);
         checkInMaps("lightfoot_ch1CC", translatorBridge);
         checkInMaps("lightfoot_ch1DD", translatorBridge);
@@ -973,6 +973,6 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
         @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("lightfoot_ch3DD", translatorBridge);
+        checkInMaps("lightfoot_ch3FF", translatorBridge);
     }
 }

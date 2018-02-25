@@ -157,7 +157,7 @@ public class EnglishAnalyzer implements Analizer {
         String formerInitialValue = "";
         for(WordContainer wordContainer : possibleVerbs) {
             Verb verb = (Verb)wordContainer.getWordByType(WordType.VERB);
-            if(verb.getRoot().equals(rootVerb)) {
+            if(verb.getRoot().equals(rootVerb) && !verb.getInitialValue().equals("willd")) {
                 hasSearchedVerb = true;
                 verbPosition = wordContainer.getPosition();
                 verbTranslationPosition = verb.getPositionInTranslationTable();

@@ -159,7 +159,8 @@ public class VerbRepository extends Accentuer {
 
     public List<String> getValuesStartingWith(String beginningPattern) {
         Set<String> verbValues = new HashSet<>();
-        for (String verbValue : conjugationsMap.keySet()) {
+        List<String> verbsInRepository = conjugationsMap.keySet();
+        for (String verbValue : verbsInRepository) {
             if (verbValue.startsWith(beginningPattern)) {
                 verbValues.add(verbValue);
                 verbValues.add(unaccentued(verbValue));

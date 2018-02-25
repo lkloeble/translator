@@ -171,7 +171,7 @@ public class CaseOperatorContainer {
             String trigramForCase = cng.getCase().getTrigramForCase();
             String differentier = cng.getCase().getDifferentier();
             String target = trigramForCase + differentier;
-            if(target.equals(differentierOfSubstitution)) {
+            if(target.equals(differentierOfSubstitution) || specialCaseOfMultipleDifferentiers(target,differentierOfSubstitution)) {
                 String suffix = declensionByPattern.getAllEndings().get(cng);
                 prefix = computePrefixForStartingPreposition(position, prefix,initialValue,noun.getRoot(), declensionByPattern);
                 String root = noun.getRoot();
@@ -192,6 +192,23 @@ public class CaseOperatorContainer {
             }
         }
         return new Noun(Language.HEBREW, noun.getRoot(), noun.getRoot(), Collections.EMPTY_LIST, Gender.getGenderByCode("NEUT"),"NEUT",noun.getDeclension(), Collections.EMPTY_LIST);
+    }
+
+    private boolean specialCaseOfMultipleDifferentiers(String target, String differentier) {
+        if(!differentier.startsWith(target)) return false;
+        String multipleDifferentierNumber = differentier.replace(target,"");
+        return isNumberBelowFive(multipleDifferentierNumber);
+    }
+
+    private boolean isNumberBelowFive(String multipleDifferentierNumber) {
+        if(multipleDifferentierNumber.length() != 1) return false;
+        int value = 0;
+        try {
+            value = Integer.parseInt(multipleDifferentierNumber);
+            return value > 0 && value < 5;
+        } catch (NumberFormatException nfe) {
+            return false;
+        }
     }
 
     private String computePrefixForStartingPreposition(int position, String prefix, String initialValue, String root, Declension declension) {

@@ -26,7 +26,7 @@ public class HebrewPhraseChanger extends CustomLanguageRulePhraseChanger {
     private VerbRepository verbRepository;
     private PrepositionRepository prepositionRepository;
     private RuleFactory ruleFactory;
-    private HebrewCaseFactory hebrewCaseFactory = new HebrewCaseFactory();
+    private Accentuer accentuer = new Accentuer();
 
     private static final String NO_FOLLOWING_INTERRUPTION_VALUE = "XXXXXXX";
 
@@ -193,7 +193,7 @@ public class HebrewPhraseChanger extends CustomLanguageRulePhraseChanger {
         for(Integer indice : integers) {
             if(valueFollowingWordInterruption.equals(phrase.getYetUnknownWordAtPosition(indice+1).getInitialValue())) continue;
             WordContainer wordContainerAtPosition = phrase.getWordContainerAtPosition(indice);
-            numberOfEndingPattern += endsWithPattern(wordContainerAtPosition, endingPattern, stopNouns) && caseOperatorContainer.isCompliantToOneOfCaseOperator(wordContainerAtPosition) ? 1 : 0;
+            numberOfEndingPattern += endsWithPattern(wordContainerAtPosition, endingPattern, stopNouns,accentuer) && caseOperatorContainer.isCompliantToOneOfCaseOperator(wordContainerAtPosition) ? 1 : 0;
         }
         if(numberOfEndingPattern == 0) {
             return phrase;
@@ -202,7 +202,7 @@ public class HebrewPhraseChanger extends CustomLanguageRulePhraseChanger {
         int newPhraseIndice = 1;
         for(Integer indice : integers) {
             WordContainer wordContainerAtPosition = phrase.getWordContainerAtPosition(indice);
-            if(endsWithPattern(wordContainerAtPosition, endingPattern, stopNouns)) {
+            if(endsWithPattern(wordContainerAtPosition, endingPattern, stopNouns,accentuer)) {
                 List<ResultCaseOperator> resultCaseOperatorList = caseOperatorContainer.getResultCaseOperatorList();
                 Word newWordWithoutEndingPattern = wordWithoutEndingPattern(wordContainerAtPosition, endingPattern);
                 if(isDirectional(newWordWithoutEndingPattern) || isUnknownInRepositories(newWordWithoutEndingPattern)) {
@@ -272,7 +272,7 @@ public class HebrewPhraseChanger extends CustomLanguageRulePhraseChanger {
         for(Integer indice : integers) {
             if(valueFollowingWordInterruption.equals(phrase.getYetUnknownWordAtPosition(indice+1).getInitialValue())) continue;
             WordContainer wordContainerAtPosition = phrase.getWordContainerAtPosition(indice);
-            numberOfEndingPattern += endsWithPattern(wordContainerAtPosition, endingPattern, stopWords) && caseOperatorContainer.isCompliantToOneOfCaseOperator(wordContainerAtPosition) ? 1 : 0;
+            numberOfEndingPattern += endsWithPattern(wordContainerAtPosition, endingPattern, stopWords,accentuer) && caseOperatorContainer.isCompliantToOneOfCaseOperator(wordContainerAtPosition) ? 1 : 0;
         }
         if(numberOfEndingPattern == 0) {
             return phrase;
@@ -281,7 +281,7 @@ public class HebrewPhraseChanger extends CustomLanguageRulePhraseChanger {
         int newPhraseIndice = 1;
         for(Integer indice : integers) {
             WordContainer wordContainerAtPosition = phrase.getWordContainerAtPosition(indice);
-             if(endsWithPattern(wordContainerAtPosition, endingPattern, stopWords)) {
+             if(endsWithPattern(wordContainerAtPosition, endingPattern, stopWords,accentuer)) {
                 List<ResultCaseOperator> resultCaseOperatorList = caseOperatorContainer.getResultCaseOperatorList();
                 Word newWordWithoutEndingPattern = wordWithoutEndingPattern(wordContainerAtPosition, endingPattern);
                 if(isNotDeclined(newWordWithoutEndingPattern) || isUnknownInRepositories(newWordWithoutEndingPattern)) {
@@ -333,7 +333,7 @@ public class HebrewPhraseChanger extends CustomLanguageRulePhraseChanger {
         int numberOfStartingLetter = 0;
         for(Integer indice : integers) {
             Word uniqueWord = phrase.getWordContainerAtPosition(indice).getUniqueWord();
-            numberOfStartingLetter += startsWithLetter(uniqueWord, letter, Collections.singleton(stopWords)) ? 1 : 0;
+            numberOfStartingLetter += startsWithLetter(uniqueWord, letter, Collections.singleton(stopWords), accentuer) ? 1 : 0;
         }
         if(numberOfStartingLetter == 0) {
             return phrase;
@@ -341,7 +341,7 @@ public class HebrewPhraseChanger extends CustomLanguageRulePhraseChanger {
         Phrase newPhrase = new Phrase(phrase.size() + numberOfStartingLetter, Language.HEBREW);
         int newPhraseIndice = 1;
         for(Integer indice : integers) {
-            if(startsWithLetter(phrase.getWordContainerAtPosition(indice).getUniqueWord(), letter, Collections.singleton(stopWords))) {
+            if(startsWithLetter(phrase.getWordContainerAtPosition(indice).getUniqueWord(), letter, Collections.singleton(stopWords), accentuer)) {
                 Preposition leadingLetter = new Preposition(Language.HEBREW,letter,new NullCase());//gugu
                 if(ruleName != null) {
                     leadingLetter.addRule(ruleFactory.getRuleByName(ruleName,leadingLetter.getInitialValue()));

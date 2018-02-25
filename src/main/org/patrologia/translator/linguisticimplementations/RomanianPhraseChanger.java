@@ -15,6 +15,7 @@ public class RomanianPhraseChanger extends CustomLanguageRulePhraseChanger {
     private NounRepository nounRepository;
     private VerbRepository verbRepository;
     private List<String> stopWords = new ArrayList<String>();
+    private Accentuer accentuer = new DummyAccentuer();
 
 
     public RomanianPhraseChanger(NounRepository nounRepository, VerbRepository verbRepository) {
@@ -225,7 +226,7 @@ public class RomanianPhraseChanger extends CustomLanguageRulePhraseChanger {
         int numberOfEndingPattern = 0;
         for(Integer indice : integers) {
             WordContainer wordContainerAtPosition = phrase.getWordContainerAtPosition(indice);
-            if(endsWithPattern(wordContainerAtPosition, endPattern, stopWords) && nounRepository.hasNoun(wordContainerAtPosition.getInitialValue())) {
+            if(endsWithPattern(wordContainerAtPosition, endPattern, stopWords, accentuer) && nounRepository.hasNoun(wordContainerAtPosition.getInitialValue())) {
                 Collection<Noun> nounCollection = nounRepository.getNoun(wordContainerAtPosition.getInitialValue());
                 Noun firstNoun = (Noun)nounCollection.toArray()[0];
                 WordContainer previousWordContainer = phrase.getWordContainerAtPosition(indice-1);
@@ -247,7 +248,7 @@ public class RomanianPhraseChanger extends CustomLanguageRulePhraseChanger {
         int newPhraseIndice = 1;
         for(Integer indice : integers) {
             WordContainer wordContainerAtIndice = phrase.getWordContainerAtPosition(indice);
-            if(endsWithPattern(wordContainerAtIndice, endPattern, stopWords) && nounRepository.hasNoun(wordContainerAtIndice.getInitialValue())) {
+            if(endsWithPattern(wordContainerAtIndice, endPattern, stopWords, accentuer) && nounRepository.hasNoun(wordContainerAtIndice.getInitialValue())) {
                 Word word = wordContainerAtIndice.getUniqueWord();
                 Noun noun = (Noun)nounRepository.getNoun(word.getInitialValue()).toArray()[0];
                 String previousInitialValue = phrase.getWordContainerAtPosition(indice - 1).getInitialValue();
@@ -276,14 +277,14 @@ public class RomanianPhraseChanger extends CustomLanguageRulePhraseChanger {
         phrase = separateEndPatternAndWord(phrase, "_mi");
         phrase = separateEndPatternAndWord(phrase, "_mea");
         phrase = separateEndPatternAndWord(phrase, "_l");
-        return substituteBeginPatternWithNewWord(phrase, "n_", new Word(WordType.PREPOSITION, "nu", Language.ROMANIAN));
+        return substituteBeginPatternWithNewWord(phrase, "n_", new Word(WordType.PREPOSITION, "nu", Language.ROMANIAN), accentuer);
     }
 
     private Phrase separateEndPatternAndWord(Phrase phrase, String endingPattern) {
         Set<Integer> integers = phrase.keySet();
         int numberOfEndingPattern = 0;
         for(Integer indice : integers) {
-            numberOfEndingPattern += endsWithPattern(phrase.getWordContainerAtPosition(indice), endingPattern, Collections.EMPTY_LIST) ? 1 : 0;
+            numberOfEndingPattern += endsWithPattern(phrase.getWordContainerAtPosition(indice), endingPattern, Collections.EMPTY_LIST, accentuer) ? 1 : 0;
         }
         if(numberOfEndingPattern == 0) {
             return phrase;
@@ -291,7 +292,7 @@ public class RomanianPhraseChanger extends CustomLanguageRulePhraseChanger {
         Phrase newPhrase = new Phrase(phrase.size() + numberOfEndingPattern, Language.ROMANIAN);
         int newPhraseIndice = 1;
         for(Integer indice : integers) {
-            if(endsWithPattern(phrase.getWordContainerAtPosition(indice), endingPattern, Collections.EMPTY_LIST)) {
+            if(endsWithPattern(phrase.getWordContainerAtPosition(indice), endingPattern, Collections.EMPTY_LIST, accentuer)) {
                 WordContainer wordContainerAtPosition = phrase.getWordContainerAtPosition(indice);
                 Word word = wordContainerAtPosition.getUniqueWord();
                 String newContenu  = word.getInitialValue().replaceAll(endingPattern,"");

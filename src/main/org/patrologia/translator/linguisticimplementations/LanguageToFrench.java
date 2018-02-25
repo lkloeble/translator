@@ -300,6 +300,8 @@ public abstract class LanguageToFrench implements TranslatorRepository {
         }
         if(caseNumber.isGenitive()) {
             translationRoot = "(" + genitiveArticle + ") " + translationRoot;
+        } else if(caseNumber.isConstructedState()) {
+            translationRoot += " (" + genitiveArticle + ")";
         } else if(caseNumber.isDative() && languageDecorator.dativeHandlerIsTrue(noun)) {
             translationRoot = "(" + dativeArticle + ") " + translationRoot;
         } else if (caseNumber.isAblative() && languageDecorator.ablativeHandlerIsTrue(noun)) {

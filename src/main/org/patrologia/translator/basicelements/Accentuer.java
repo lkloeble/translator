@@ -29,4 +29,8 @@ public class Accentuer {
         return "";
     }
 
+    @Override
+    public String toString() {
+        return "Accentuer{HebrewStyle}";
+    }
 }
