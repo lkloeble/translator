@@ -37,7 +37,7 @@ deranj,,[fumez]
 descop,,[descopar]
 desfasoar,,[incerca]
 dev,,[deveni],(IPR12*dev*devi*0)
-doar,,[dorm]
+doar,,[dorm],(IPR0*doar*dor*0)
 dor,,[aciti]
 dorm,,[dorm]
 dot,,[fumez]

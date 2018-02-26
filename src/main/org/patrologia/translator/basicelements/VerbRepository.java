@@ -8,7 +8,7 @@ import java.util.*;
 /**
  * Created by Laurent KLOEBLE on 07/09/2015.
  */
-public class VerbRepository extends Accentuer {
+public class VerbRepository {
 
     private ConjugationMap conjugationsMap;
     private VerbMap verbMap;
@@ -79,7 +79,7 @@ public class VerbRepository extends Accentuer {
         RootedConjugation rootedConjugation = new RootedConjugation(time, value);
         List<ConjugationPart> conjugationPartList = rootedConjugation.getConjugationPartList(value);
         conjugationPartList.stream().forEach(conjugation -> conjugationsMap.put(conjugation.getValue(), verbDefinition.getRoot()));
-        conjugationPartList.stream().forEach(conjugation -> conjugationsMap.put(unaccentued(conjugation.getValue()), verbDefinition.getRoot()));
+        conjugationPartList.stream().forEach(conjugation -> conjugationsMap.put(accentuer.unaccentued(conjugation.getValue()), verbDefinition.getRoot()));
         rootedConjugationMap.put(verbDefinition.getRoot() + "@" + verbDefinition.getName(), new RootedConjugation(verbDefinition.getName(), verbDefinition.getConjugations()));
         translationBeansMap.addConjugationForGlobalKey(verbDefinition.getRoot(), verbDefinition.getName());
     }
@@ -110,7 +110,7 @@ public class VerbRepository extends Accentuer {
 
     public Verb getVerb(String initialValue) {
         String key = conjugationsMap.getFirstKey(initialValue);
-        if (key == null) key = conjugationsMap.getFirstKey(unaccentued(initialValue));
+        if (key == null) key = conjugationsMap.getFirstKey(accentuer.unaccentued(initialValue));
         if (key == null) key = initialValue;
         Verb toClone = verbMap.getVerb(key);
         if (toClone == null) return new NullVerb(language, null, null);
@@ -163,8 +163,8 @@ public class VerbRepository extends Accentuer {
         for (String verbValue : verbsInRepository) {
             if (verbValue.startsWith(beginningPattern)) {
                 verbValues.add(verbValue);
-                verbValues.add(unaccentued(verbValue));
-                verbValues.add(unaccentuedWithSofit(verbValue));
+                verbValues.add(accentuer.unaccentued(verbValue));
+                verbValues.add(accentuer.unaccentuedWithSofit(verbValue));
             }
         }
         return new ArrayList<>(verbValues);

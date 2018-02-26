@@ -34,7 +34,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
         HebrewRuleFactory ruleFactory = new HebrewRuleFactory();
         PrepositionRepository prepositionRepository = new PrepositionRepository(Language.HEBREW, new HebrewCaseFactory(), ruleFactory, getPrepositions());
         HebrewDeclensionFactory hebrewDeclensionFactory = new HebrewDeclensionFactory(getDeclensions(), getDeclensionList());
-        NounRepository nounRepository = new NounRepository(Language.HEBREW, hebrewDeclensionFactory, getNouns());
+        NounRepository nounRepository = new NounRepository(Language.HEBREW, hebrewDeclensionFactory, new Accentuer(),getNouns());
         VerbRepository verbRepository = new VerbRepository(new HebrewConjugationFactory(getConjugations(), getHebrewConjugationsDefinitions()), Language.HEBREW, new Accentuer(),getVerbs());
         Analizer hebrewAnalyzer = new HebrewAnalyzer(prepositionRepository, nounRepository, verbRepository);
         Translator frenchTranslator = new FrenchTranslator(getHebDico(), getFrenchVerbs(), verbRepository, nounRepository, null, null, hebrewDeclensionFactory);
