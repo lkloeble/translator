@@ -460,7 +460,8 @@ mishnah1H'=>A partir de quand doit-on réciter le Shemâ le matin ? Lorsque l'on
 mishnah1H=>de quand appellent COD entendit@shema@ dans aube(s) : lorsque l'on sait reconnaître entre bleu à laban; rabbi éliezer dit, entre bleu à poireau.
 mishnah1I'=>Jusqu'au point du jour; Rabbi Yehoshuâ dit, jusqu'à la troisième heure, selon l'habitude des fils de roi de se lever à la troisième heure.
 mishnah1I=>jusqu'à le floraison la soleil(e); rabbi yehoshouah dit, jusqu'à troisième heure(s)(e), que ainsi chemin fils(s) (des) roi(s) à page dans troisième heure(s)(e).
-mishnah1J=>Celui qui récite de cette façon ne subit pas de dommage, [mais il est] tout comme l'homme qui lit la Torah.
+mishnah1J'=>Celui qui récite de cette façon ne subit pas de dommage, [mais il est] tout comme l'homme qui lit la Torah.
+mishnah1J=>le lecteur de là et désormais, ne causa de perdre, comme homme que lui lecteur dans torah(e)
 mishnah1K=>Les disciples de Shammaï disent, le soir que tout homme s'allonge et récite [le Shemâ], et le matin qu'il se lève [pour réciter le Shemâ], comme il est dit "à ton coucher et à ton lever" (Devarim 6:7
 mishnah1L=>Devarim 11:19). Les disciples de Hillel disent, tout homme récite selon son habitude, comme il est dit "et quand tu partiras en chemin" (ibid).
 mishnah1M=>S'il en est ainsi, pourquoi est-il dit "à ton coucher et à ton lever"? - Ceci [signifie] à l'heure où d'habitude les fils de l'homme se couchent, et à l'heure où d'habitude les fils de l'homme se lèvent.
@@ -492,5 +493,5 @@ rachitext1O=>foo
 
 
 
-toto=>et à fils(s) de israël
-totoacc=>et à fils(s) de israël
+toto=>causa de perdre
+totoacc=>causa de perdre

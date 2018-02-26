@@ -524,8 +524,8 @@ rachimichnap58L=>foo
 rachimichnap58M=>foo
 rachimichnap58N=>foo
 
-toto=>ולבני-ישראל
-totoacc=>וְלִבְנֵי-יִשְׂרָאֵל
+toto=>הפסיד
+totoacc=>הִפְסִיד
 א
 ב
 ג
