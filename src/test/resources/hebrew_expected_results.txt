@@ -290,8 +290,10 @@ wein27D1=>garda YHVH COD jacob de tout mauvais
 wein27D2=>garda YHVH COD jacob de tout mauvais
 wein27E1=>vit dieu COD la lumière(e) qui créa et voici bon très
 wein27E2=>vit dieu COD la lumière(e) qui créa et voici bon très
-wein27F=>coupa samuel COD tête de le roi à oeil(s) de tout israël
-wein27G=>dirent les peuple(s) qui vinrent sur de israël YHVH lui dieu de les montagne(s)
+wein27F1=>coupa samuel COD de tête de le roi à oeil(s) de tout de israël
+wein27F2=>coupa samuel COD de tête de le roi à oeil(s) de tout de israël
+wein27G1=>dirent les peuple(s) qui vinrent sur de israël, YHVH lui dieu de les montagne(s)
+wein27G2=>dirent les peuple(s) qui vinrent sur de israël, YHVH lui dieu de les montagne(s)
 wein27H=>et nom de femme de abraham sarah
 wein27I=>dit sarah vers abraham homme à elle voici femme(e) ancien(e) je et ne donna à moi dieu fils
 wein27J=>appela moïse dans voix grand YHVH avec nous@peuple(s)@ et encore donna dans main à nous COD la ville(e) et COD le peuple qui en elle
@@ -493,5 +495,5 @@ rachitext1O=>foo
 
 
 
-toto=>causa de perdre
+toto=>et dans lever de-toi
 totoacc=>causa de perdre

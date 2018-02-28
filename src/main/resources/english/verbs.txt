@@ -57,6 +57,7 @@ comprise,[live],(PAPR*compriseing*comprising*0)
 conceive,[live]
 concern,[live],(PAP*concernd*concerned*0)
 confirm,[live]
+conform,[call]
 confound,[call]
 consider,[call]
 constrain,[call]
@@ -155,6 +156,7 @@ may,[live],(IPR*mays*may*0@AIP*mayd*might*0)
 mean,[live],(PAP*meand*meant*0)
 meet,[live]
 mention,[call]
+mingle,[live]
 mix,[call]
 move,[live]
 multiply,[live]

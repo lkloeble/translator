@@ -150,6 +150,7 @@ christ@masc%invmasc
 christian@masc%normmasc
 church@fem%church
 cinema@neut%normmasc
+circumcision@neut%invmasc
 circumscribed@adj%invmasc
 citation@neut%normmasc
 cit@fem%endy
@@ -201,6 +202,7 @@ counselor@masc%normmasc
 count@masc%endy
 countenance@fem%normfem
 countr@neut%endy
+course@neut%normmasc
 covenant@neut%normmasc
 covering@neut%normmasc
 cow@neut%normmasc

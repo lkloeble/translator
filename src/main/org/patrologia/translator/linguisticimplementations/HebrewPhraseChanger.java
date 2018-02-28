@@ -156,7 +156,7 @@ public class HebrewPhraseChanger extends CustomLanguageRulePhraseChanger {
         caseOperatorContainer.addCaseOperator(operatorCombination);
         Phrase withoutNounWavForEndingNounWithNewPrepOur = substituteEndPatternWithNewPrepositionAfterWord(withoutHe, "nw", new Preposition(Language.HEBREW,"xxnwxx", null), stopWordsNounWavSofit, NO_FOLLOWING_INTERRUPTION_VALUE, caseOperatorContainer);
 
-        Phrase withoutKeSofitPreposition = substituteEndPatternWithNewPrepositionAfterWord(withoutNounWavForEndingNounWithNewPrepOur, "k", new Preposition(Language.HEBREW,"ksofit", null), stopWordsKSofit, NO_FOLLOWING_INTERRUPTION_VALUE,caseOperatorContainer);
+        Phrase withoutKeSofitPreposition = substituteEndPatternWithNewPrepositionAfterWord(withoutNounWavForEndingNounWithNewPrepOur, "k000", new Preposition(Language.HEBREW,"ksofit", null), stopWordsKSofit, NO_FOLLOWING_INTERRUPTION_VALUE,caseOperatorContainer);
 
         operatorCombination.clearAll();
         operatorCombination.addOperator(new AvoidCaseOperator(new NominativeHebrewCase("nom")));
