@@ -112,6 +112,8 @@ bewiesen@adj%ausreichend
 bezug@masc%jahrzehnt
 bier@neut%inv
 bild@neut%licht
+bilderwirrig@neut%inv
+bilderwutig@neut%inv
 billerbeck@neut%inv
 bindend@adj%ausreichend
 birne@fem%flasche
@@ -521,6 +523,8 @@ lk@neut%inv
 logisch@adj%ausreichend
 losend@adj%ausreichend
 lukas@masc%inv
+lust@fem%angst
+lustbarkeit@fem%meinfem
 magazin@masc%norm
 makel@masc%zeichen
 makellos@adj%ausreichend
@@ -721,6 +725,7 @@ schicklichkeit@fem%meinfem
 schimson@neut%inv
 schlaflos@adj%ausreichend
 schlaflosigkeit@neut%inv
+schlafstorung@fem%meinfem
 schlafmittel@neut%arbeiter
 schlank@adj%inv
 schlacht@fem%meinfem
@@ -742,6 +747,7 @@ schwarz@adj%ausreichend
 schweigsamkeit@neut%inv
 schwelle@fem%flasche
 schwer@adj%ausreichend
+schwerfallig@adj%ausreichend
 sechst@adj%ausreichend
 sechzehn@neut%inv
 seele@fem%flasche
@@ -902,6 +908,7 @@ viert@adj%ausreichend
 viertel@neut%inv
 vogel@masc%arbeiter
 volke@masc%norm
+vollburtig@adj%ausreichend
 vollendet@adj%ausreichend
 vorausstezung@fem%meinfem
 vorbild@neut%meer

@@ -96,9 +96,9 @@ public class HebrewPhraseChanger extends CustomLanguageRulePhraseChanger {
         stopNounsWithEndingHe.addAll(verbRepository.getValuesEndingWith("h"));
         stopNounsWithEndingHe.addAll(prepositionRepository.getValuesEndingWith("h"));
 
-        stopNounsWithEndingMem.addAll(nounRepository.getNounsRootValueForEndingWith("m"));
-        stopNounsWithEndingMem.addAll(nounRepository.getNounsValueForEndingWith("im"));
-        stopNounsWithEndingMem.addAll(prepositionRepository.getValuesEndingWith("m"));
+        stopNounsWithEndingMem.addAll(nounRepository.getNounsRootValueForEndingWith("m000"));
+        stopNounsWithEndingMem.addAll(nounRepository.getNounsValueForEndingWith("im000"));
+        stopNounsWithEndingMem.addAll(prepositionRepository.getValuesEndingWith("m000"));
 
         stopNounsWithEndingTavNoun.addAll(nounRepository.getNounsRootValueForEndingWith("tn"));
         stopNounsWithEndingTavNoun.addAll(prepositionRepository.getValuesEndingWith("tn"));
@@ -154,9 +154,10 @@ public class HebrewPhraseChanger extends CustomLanguageRulePhraseChanger {
         operatorCombination.addOperator(new AvoidCaseOperator(new NominativeHebrewCase("nom")));
         operatorCombination.addOperator(new KeepCaseOperator(new HebrewDeclinedNominativeCase("dec")));
         caseOperatorContainer.addCaseOperator(operatorCombination);
-        Phrase withoutNounWavForEndingNounWithNewPrepOur = substituteEndPatternWithNewPrepositionAfterWord(withoutHe, "nw", new Preposition(Language.HEBREW,"xxnwxx", null), stopWordsNounWavSofit, NO_FOLLOWING_INTERRUPTION_VALUE, caseOperatorContainer);
+        Phrase withoutNounWavForEndingNounWithNw309PrepOur = substituteEndPatternWithNewPrepositionAfterWord(withoutHe, "nw309", new Preposition(Language.HEBREW,"xxnwxx", null), stopWordsNounWavSofit, NO_FOLLOWING_INTERRUPTION_VALUE, caseOperatorContainer);
+        Phrase withoutNounWavForEndingNounWithNwPrepOur = substituteEndPatternWithNewPrepositionAfterWord(withoutNounWavForEndingNounWithNw309PrepOur, "nw", new Preposition(Language.HEBREW,"xxnwxx", null), stopWordsNounWavSofit, NO_FOLLOWING_INTERRUPTION_VALUE, caseOperatorContainer);
 
-        Phrase withoutKeSofitPreposition = substituteEndPatternWithNewPrepositionAfterWord(withoutNounWavForEndingNounWithNewPrepOur, "k000", new Preposition(Language.HEBREW,"ksofit", null), stopWordsKSofit, NO_FOLLOWING_INTERRUPTION_VALUE,caseOperatorContainer);
+        Phrase withoutKeSofitPreposition = substituteEndPatternWithNewPrepositionAfterWord(withoutNounWavForEndingNounWithNwPrepOur, "k000", new Preposition(Language.HEBREW,"ksofit", null), stopWordsKSofit, NO_FOLLOWING_INTERRUPTION_VALUE,caseOperatorContainer);
 
         operatorCombination.clearAll();
         operatorCombination.addOperator(new AvoidCaseOperator(new NominativeHebrewCase("nom")));
@@ -167,8 +168,9 @@ public class HebrewPhraseChanger extends CustomLanguageRulePhraseChanger {
         Phrase withoutEndingWav331 = substituteEndPatternWithNewPrepositionAfterWord(withoutEndingHeAndWav, "w331", new Preposition(Language.HEBREW,"wavend",null), stopWordsWavSofit, NO_FOLLOWING_INTERRUPTION_VALUE, caseOperatorContainer);
         Phrase withoutEndingWav = substituteEndPatternWithNewPrepositionAfterWord(withoutEndingWav331, "w", new Preposition(Language.HEBREW,"wavend",null), stopWordsWavSofit, NO_FOLLOWING_INTERRUPTION_VALUE, caseOperatorContainer);
 
-        Phrase withoutEndingMem = substituteEndPatternWithNewPrepositionAfterWord(withoutEndingWav, "m", new Preposition(Language.HEBREW,"xxmxx",null), stopNounsWithEndingMem, NO_FOLLOWING_INTERRUPTION_VALUE, caseOperatorContainer);
-        Phrase withoutEndingYod = substituteEndPatternWithNewPrepositionAfterWord(withoutEndingMem, "i", new Preposition(Language.HEBREW,"xxixx",null), stopNounsWithEndingYod, NO_FOLLOWING_INTERRUPTION_VALUE, caseOperatorContainer);
+        Phrase withoutEndingMem = substituteEndPatternWithNewPrepositionAfterWord(withoutEndingWav, "m000", new Preposition(Language.HEBREW,"xxmxx",null), stopNounsWithEndingMem, NO_FOLLOWING_INTERRUPTION_VALUE, caseOperatorContainer);
+        Phrase withoutEndingYod60 = substituteEndPatternWithNewPrepositionAfterWord(withoutEndingMem, "i60", new Preposition(Language.HEBREW,"xxixx",null), stopNounsWithEndingYod, NO_FOLLOWING_INTERRUPTION_VALUE, caseOperatorContainer);
+        Phrase withoutEndingYod = substituteEndPatternWithNewPrepositionAfterWord(withoutEndingYod60, "i", new Preposition(Language.HEBREW,"xxixx",null), stopNounsWithEndingYod, NO_FOLLOWING_INTERRUPTION_VALUE, caseOperatorContainer);
         Phrase withoutEndingTavNoun = substituteEndPatternWithNewPrepositionAfterWord(withoutEndingYod, "tn000", new Preposition(Language.HEBREW,"xxtnxx",null), stopNounsWithEndingTavNoun, NO_FOLLOWING_INTERRUPTION_VALUE, caseOperatorContainer);
 
         operatorCombination.clearAll();
@@ -320,12 +322,41 @@ public class HebrewPhraseChanger extends CustomLanguageRulePhraseChanger {
 
     private Word nounWithoutBeginningPattern(WordContainer wordContainer, String leadingPattern) {
         Word modifiedWord = wordContainer.getUniqueWord();
-        String newValue  = wordContainer.getInitialValue().substring(leadingPattern.length());
+        String newValue  = eraseLeadingAccentuedPattern(wordContainer.getInitialValue(), leadingPattern);
         modifiedWord.updateInitialValue(newValue);
         if(nounRepository.hasNoun(modifiedWord.getInitialValue())) {
             return new Noun(Language.HEBREW,modifiedWord.getInitialValue(), newValue, Collections.EMPTY_LIST, null, null, null, null);
+        } else if(prepositionRepository.hasPreposition(modifiedWord.getInitialValue())) {
+            return new Preposition(Language.HEBREW,modifiedWord.getInitialValue(),null);
         }
         return modifiedWord;
+    }
+
+    private String eraseLeadingAccentuedPattern(String initialValue, String leadingPattern) {
+        String possibleSubstring = initialValue.substring(leadingPattern.length());
+        if(isLeadingAccentued(possibleSubstring)) {
+            possibleSubstring =eraseLeadingAccentuation(possibleSubstring);
+        }
+        return possibleSubstring;
+    }
+
+    private String eraseLeadingAccentuation(String possibleSubstring) {
+        int firstLetterPosition =getFirstLetterPosition(possibleSubstring);
+        return possibleSubstring.substring(firstLetterPosition);
+    }
+
+    private int getFirstLetterPosition(String possibleSubstring) {
+        int firstLetterPosition = 0;
+        char c = possibleSubstring.charAt(firstLetterPosition);
+        while(c <= '9' && c != '\'') {
+            c = possibleSubstring.charAt(++firstLetterPosition);
+        }
+        return firstLetterPosition;
+    }
+
+    private boolean isLeadingAccentued(String possibleSubstring) {
+        char leadingChar = possibleSubstring.charAt(0);
+        return leadingChar >= '0' && leadingChar <= '9';
     }
 
     private Phrase extractLetterFromBeginningOfNoun(Phrase phrase, String letter, List<String> stopWords, RuleFactory ruleFactory, String ruleName) {

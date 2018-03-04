@@ -12,9 +12,10 @@ aufbau,en,[leben],(PAP*aufbaut*aufgebaut*0)
 aufgeh,en,[leben]
 aufhor,en,[leben]
 aufles,en,[leben],(PAP*auflest*aufgelesen*0)
+aufzieh,en,[leben],(PAP*aufzieht*aufgezogen*0)
 auslass,en,[genesen],(AII*auslass*ausliess*0)
 ausseh,en,[leben],(IPR14*ausseh*aussieh*0)
-aufzieh,en,[leben],(PAP*aufzieht*aufgezogen*0)
+auszudruck,en,[leben]
 bau,en,[leben]
 beabsichtig,en,[leben]
 bearbeit,en,[mochten]
@@ -153,6 +154,7 @@ nachsinn,en,[rufen],(AIP*nachsin*nachsan*0)
 nehm,en,[leben],(IPR12*nehm*nimm*0@AIP*nehm*nahm*0)
 nenn,en,[leben],(AII*nenn*nann*0)
 pass,en,[leben]
+pflanz,en,[pflanzen]
 plan,en,[leben],(PAP*pla*gepla*0)
 pruf,en,[leben],(PAP*pru*gepru*0)
 rats,eln,[sammeln]

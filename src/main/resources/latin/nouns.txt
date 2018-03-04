@@ -64,6 +64,7 @@ asi@fem%a-ae
 atlantic@adj%us-a-um
 atrament@neut%um-i
 atri@neut%um-i
+auctor@masc%x-is
 auctorita@fem%s-tis2
 audit@adj%us-a-um
 aul@fem%a-ae

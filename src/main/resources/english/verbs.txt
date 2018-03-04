@@ -18,6 +18,7 @@ base,[live]
 be@IRREGULAR%[INFINITIVE]=[to be]%[IPR]=[am,are,is,are,are,are]%[AII]=[was,was,was,were,were,were]%[PAPR]=[being]%[AIF]=[bewill,bewill,bewill,bewill,bewill,bewill]%[ACP]=[bewould,bewould,bewould,bewould,bewould,bewould]%[ASP]=[ambe,arebe,be,ambe,arebe,bebe]%[AIMP]=[letbe,letbe,letbe,letbe,letbe,letbe]%[PAP]=[been]
 bear,[live],(AIP*beard*bore*0)
 become,[become],(AIP*beco*beca*0)
+beget,[live],(AIP*begetd*begot*0)
 begin,[live]
 behead,[call]
 behold,[call]
@@ -51,6 +52,7 @@ cloth,[teach]
 come,[see],(AIP*come*came*0@PAPR*come*com*0)
 command,[call]
 compare,[live]
+compass,[call]
 complete,[live]
 compose,[live]
 comprise,[live],(PAPR*compriseing*comprising*0)
@@ -92,6 +94,7 @@ eat,[see],(AIP*eat*ate*0@PAP*eatd*eaten*0)
 edit,[call]
 embrace,[live]
 emulate,[live]
+encourage,[live]
 end,[call]
 endure,[live],(PAPR*endurei*enduri*0)
 establish,[teach]
@@ -167,6 +170,7 @@ observe,[live],(PAPR*observe*observ*0)
 offer,[live]
 open,[call]
 operate,[live],(PAPR*operateing*operating*0)
+opine,[live]
 outroot,[call]
 overrun,[live],(AIP*overrund*overran*0)
 own,[live]

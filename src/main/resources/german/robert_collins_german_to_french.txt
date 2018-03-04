@@ -102,6 +102,7 @@ ausnahme@noun!flasche%1(noun)=exception
 ausreichend@adj!ausreichend%1(adj)=satisfaisant%2(adj)=suffisant
 ausrottung@noun!meinmasc%1(noun)=extermination
 ausseh@verb!norm%1(verb)=avoirlair
+auszudruck@verb!norm%1(verb)=exprimer
 ausser@prep%1(prep)=sauf
 ausserdem@prep%1(prep)=en outre
 ausserung@noun!meinmasc%1(noun)=énoncé
@@ -183,6 +184,8 @@ bezw@prep%1(prep)=plus précisément
 bier@noun!inv%1(noun)=bière
 biet@verb!norm%1(verb)=offrir
 bild@noun!licht%1(noun)=image%2(noun)=toile
+bilderwirrig@noun!inv%1(noun)=image incohérent
+bilderwutig@noun!inv%1(noun)=image forcé
 billerbeck@noun!inv%1(noun)=billerbeck
 bindend@adj!ausreichend%1(adj)=obligatoire
 birne@noun!flasche%1(noun)=poire
@@ -474,6 +477,7 @@ ganz@prep%1(prep)=complètement
 ganz@noun!ausreichend%1(adj)=entier
 ganzlich@prep%1(prep)=totalement
 garantier@verb!norm%1(verb)=garantir
+gar@prep%1(prep)=même%2(prep)=tout
 garnicht@prep%1(prep)=pas du tout
 garten@noun!inv%1(noun)=jardin
 gast@noun!meer%1(noun)=invité
@@ -610,6 +614,7 @@ himmel@noun!arbeiter%1(noun)=ciel
 hinauf@prep%1(prep)=vers le haut
 hinausgehend@adj!ausreichend%1(noun)=au delà de
 hindurch@prep%1(prep)=au travers de
+hinein@prep%1(prep)=à l'intérieur
 hinsicht@noun!meinfem%1(noun)=point de vue
 hinstell@verb!norm%1(verb)=poser%2(verb)=decrire
 hinter@prep%1(prep)=derrière
@@ -797,6 +802,8 @@ losend@adj!ausreichend%1(adj)=dissolvant
 los@verb!norm%1(verb)=resoudre
 loskomm@verb!norm%1(verb)=liberer
 lukas@noun!inv%1(noun)=luc
+lust@noun!angst%1(noun)=caprice%2(noun)=plaisir%3(noun)=désir
+lustbarkeit@noun!meinfem%1(noun)=réjouissance
 mach@verb!norm%1(noun)=faire
 magazin@noun!norm%1(noun)=magasin
 makel@noun!zeichen%1(noun)=défaut
@@ -959,6 +966,7 @@ phanomen@noun!phanomen%1(noun)=phénomène
 pinchas@noun!inv%1(noun)=pinhas
 pizza@noun!meinmasc%1(noun)=pizza
 pflanze@noun!flasche%1(noun)=plante
+pflanz@verb!norm%1(verb)=planter
 plan@verb!norm%1(verb)=prevoir
 plan@noun!ausreichend%1(noun)=projet
 politik@noun!inv%1(noun)=politique
@@ -1054,6 +1062,7 @@ schimson@noun!inv%1(noun)=schimson
 schlacht@verb!norm%1(verb)=sacrifier
 schlaflos@adj!ausreichend%1(adj)=sans sommeil
 schlaflosigkeit@noun!inv%1(noun)=insomnie
+schlafstorung@noun!meinfem%1(noun)=trouble du sommeil
 schlafmittel@noun!arbeiter%1(noun)=somnifère
 schlank@adj!inv%1(noun)=mince
 schluss@noun!norm%1(noun)=conclusion
@@ -1087,6 +1096,7 @@ schweigsamkeit@noun!inv%1(noun)=réticence
 schwelle@noun!flasche%1(noun)=seuil
 schweb@verb!norm%1(verb)=planer
 schwer@noun!ausreichend%1(noun)=difficile
+schwerfallig@noun!ausreichend%1(noun)=lourd
 sechst@adj!ausreichend%1(adj)=sixième
 sechzehn@noun!inv%1(noun)=seize
 seele@noun!flasche%1(noun)=esprit%2(noun)=âme
@@ -1327,6 +1337,7 @@ viert@adj!ausreichend%1(adj)=quatrième
 viertel@noun!inv%1(noun)=quartier
 vogel@noun!arbeiter%1(noun)=oiseau
 volke@noun!norm%1(noun)=peuple
+vollburtig@adj!ausreichend%1(adj)=jumeau
 vollendet@adj!ausreichend%1(adj)=accompli%2(adj)=parfait
 voller@prep%1(prep)=plein de
 vom@prep%1(prep)=depuis

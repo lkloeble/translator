@@ -106,6 +106,7 @@ at@prep%1(conj)=au contraire%2(conj)=quant a%3(conj)=et pourtant,et qui plus est
 atrament@noun!um-i%1(noun)=encre
 atri@noun!um-i%1(noun)=entrée romaine
 attingo@verb!norm%1(verb)=concerner%2(verb)=affecter%3(verb)=approcher%4(verb)=toucher
+auctor@noun!x-is%1(noun)=auteur
 auctorita@noun!s-tis2%1(noun)=pouvoir%2(noun)=autorité
 audio@verb!norm%1(verb)=entendre
 audit@adj!us-a-um%1(noun)=entendu

@@ -74,7 +74,9 @@ beef@masc%invmasc
 beer@fem%normfem
 begining@masc%normmasc
 beginning@masc%normmasc
+behaviour@neut%normmasc
 bell@neut%endy
+betters@neut%invmasc
 bible@neut%normmasc
 big@adj%normmasc
 bird@neut%normmasc
@@ -187,6 +189,7 @@ conjecture@neut%normmasc
 conscious@adj%invmasc
 consequence@fem%normfem
 conservative@adj%normmasc
+considereth@neut%invmasc
 consonant@masc%normmasc
 contemporar@adj%endy
 contradiction@fem%normfem
@@ -228,6 +231,7 @@ death@fem%church
 deceit@fem%invfem
 deep@adj%invmasc
 defence@neut%normmasc
+degree@neut%normmasc
 deliberation@fem%normfem
 delicious@adj%invmasc
 delight@adj%normmasc
@@ -326,6 +330,8 @@ fat@adj%normmasc
 father@masc%normmasc
 favoring@neut%invmasc
 favourite@adj%normmasc
+fear@neut%normmasc
+feare@neut%normmasc
 female@fem%normfem
 fiction@fem%normfem
 field@neut%normmasc
@@ -438,6 +444,7 @@ holiday@neut%invmasc
 holiness@neut%church
 holy@adj%invmasc
 home@fem%normfem
+hope@neut%normmasc
 host@neut%normmasc
 hot@neut%invmasc
 hotel@neut%invmasc
@@ -534,9 +541,11 @@ loave@neut%normmasc
 london@neut%invmasc
 long@adj%invmasc
 longer@adj%invmasc
+looketh@neut%invmasc
 lord@neut%normmasc
 lost@adj%invmasc
 lot@neut%normmasc
+low@adj%invmasc
 lowest@neut%invmasc
 lucky@adj%invmasc
 luke@masc%invmasc
@@ -656,6 +665,7 @@ part@fem%normfem
 particular@adj%normmasc
 party@neut%invmasc
 passage@neut%normmasc
+passion@neut%normmasc
 passover@neut%normmasc
 path@masc%normmasc
 patch@neut%church
@@ -780,6 +790,7 @@ sandy@adj%invmasc
 sarah@fem%invfem
 saturday@neut%normmasc
 saviour@neut%normmasc
+sawcie@neut%invmasc
 scheme@neut%normmasc
 scholar@neut%normmasc
 scholarly@neut%invmasc
@@ -800,6 +811,7 @@ sense@neut%normmasc
 serie@neut%normfem
 serpent@neut%normmasc
 seth@neut%invmasc
+seven@neut%invmasc
 sevenfold@neut%invmasc
 seventh@neut%invmasc
 seventy@neut%invmasc
@@ -822,6 +834,7 @@ sign@masc%normmasc
 significance@masc%normmasc
 silence@neut%normmasc
 silent@adj%normmasc
+similitude@fem%normmasc
 simon@masc%invmasc
 sin@masc%normmasc
 sion@masc%invmasc
@@ -911,6 +924,7 @@ thirty@neut%invmasc
 thirsty@adj%invmasc
 thistle@neut%normmasc
 thorn@fem%normfem
+thought@neut%normmasc
 thousand@neut%normmasc
 thumb@neut%normmasc
 three@neut%invmasc
