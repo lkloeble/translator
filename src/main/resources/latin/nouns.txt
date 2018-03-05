@@ -133,6 +133,7 @@ coct@adj%us-a-um
 collect@fem%a-ae
 column@fem%a-ae
 complet@adj%us-a-um
+conat@adj%us-a-um
 conficiend@adj%us-a-um
 congregat@adj%us-a-um
 congregatio@neut%x-nis
@@ -482,6 +483,7 @@ numm@masc%us-i
 o@neut%s-ris
 obscenit@fem%as-atis
 observat@adj%us-a-um
+obtentur@adj%us-a-um
 occas@masc%us-us
 occasi@fem%o-onis
 occupati@fem%o-onis

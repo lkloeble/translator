@@ -199,10 +199,11 @@ commeo@verb!norm%1(verb)=voyager%2(verb)=fréquenter%3(verb)=visiter
 comparo@verb!norm%1(verb)=comparer%2(verb)=assembler
 compleo@verb!norm%1(verb)=accomplir
 complet@adj!us-a-um%1(adj)=rassasié%2(adj)=complété%3(adj)=terminé
+conat@adj!us-a-um%1(adj)=essayé
 concilio@verb!norm%1(verb)=acquerir%2(verb)=recommander%3(verb)=rassembler
 confirmo@verb!norm%1(verb)=confirmer
-conglorifico@verb!norm%1(verb)=glorifier
 concipio@verb!norm%1(noun)=recevoir
+conglorifico@verb!norm%1(verb)=glorifier
 conficiend@adj!us-a-um%1(adj)=qui doit être préparé
 congregat@adj!us-a-um%1(adj)=assemblé
 congregatio@noun!x-nis%1(noun)=association%2(noun)=société%3(noun)=réunion
@@ -772,6 +773,7 @@ ob@prep%1(prep)=contre%2(prep)=à cause de%3(prep)=vers
 obscenit@noun!as-atis%1(noun)=défavorable
 observat@adj!us-a-um%1(adj)=observé
 observo@verb!norm%1(verb)=observer
+obtentur@adj!us-a-um%1(adj)=sur le point de posséder
 obtineo@verb!norm%1(verb)=posseder
 occasi@noun!o-onis%1(noun)=opportunité%2(noun)=occasion
 occupati@noun!o-onis%1(noun)=devoir%2(noun)=occupation
@@ -833,6 +835,7 @@ perduco@verb!norm%1(verb)=détruire%2(verb)=perdre
 perduell@noun!is-is%1(noun)=ennemi
 perenniter@prep%1(prep)=toujours%2(prep)=de façon permanente
 perfacile@prep%1(prep)=très spontanément%2(prep)=très facilement
+perficio@verb!norm%1(verb)=parfaire
 perquam@prep%1(prep)=autant que possible%2(prep)=sans équivalent
 persecuti@noun!o-onis%1(noun)=persécution
 perhibeo@verb!norm%1(verb)=assigner,attribuer%2(verb)=présenter,produire%3(verb)=offrir

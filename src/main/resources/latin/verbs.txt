@@ -174,6 +174,7 @@ par,eo,es,ere,,,[eo-es]
 pat,eo,es,ere,,,[eo-es]
 patr,o,as,are,,,[o-as],(ASI*patr*patrar*0)
 perduc,o,is,ere,,,[o-is]
+perfic,io,is,ere,,,[io-is]
 perhib,eo,es,ere,ui,itum,[eo-es]
 permitt,o,is,ere,misi,missum,[o-is],(AIFP*permitts*permis*0@AIP*permitt*permis*0)
 persuad,eo,es,ere,,,[eo-es],(AIP*persuad*persuas*0)
