@@ -74,6 +74,7 @@ av@fem%is-is
 ave@neut%inv
 bacul@neut%um-i
 barnabe@masc%inv
+bdelli@neut%um-i
 beat@adj%us-a-um
 belg@fem%a-ae
 bell@neut%um-i
@@ -135,6 +136,7 @@ column@fem%a-ae
 complet@adj%us-a-um
 conat@adj%us-a-um
 conficiend@adj%us-a-um
+confirmat@adj%us-a-um
 congregat@adj%us-a-um
 congregatio@neut%x-nis
 coniurati@fem%o-onis
@@ -272,6 +274,7 @@ fortitud@fem%o-inis
 frat@masc%er-ris
 fruct@masc%us-i
 frument@neut%um-i
+fus@masc%us-i
 galilae@fem%a-ae
 gall@masc%us-i
 galilae@adj%us-a-um
@@ -373,6 +376,7 @@ lac@masc%us-us
 laetiti@fem%a-ae
 laet@adj%us-a-um
 latin@adj%us-a-um
+lapid@neut%x-is2[nomsing:lapis]
 latissim@adj%us-a-um
 latitud@fem%o-inis
 laudat@adj%us-a-um
@@ -494,6 +498,7 @@ octo@neut%inv
 odi@neut%um-i
 ole@fem%a-ae
 omn@adj%is-is-e
+onychin@adj%us-a-um
 op@neut%us-eris
 oper@fem%a-ae
 opini@fem%o-onis

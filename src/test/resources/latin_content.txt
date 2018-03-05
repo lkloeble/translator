@@ -773,7 +773,7 @@ patrologiacaput2I=>Hunc, ut homines redimeret, humanam assumpsisse carnem, ipsum
 patrologiacaput2J=>porro autem etsi Christus ab impiis perduellibusque judaeis morti fuerit traditus, scriptores tamen nostri luculentissime ostendebant illius divinitatem innumeris, quae ipse ediderat, quaeque ipso nascente@1, moriente, atque at mortuis resurgente contigerant, miraculis fuisse perquam invictissime demonstratam.
 patrologiacaput2K=>his addebant nos post ipsum a mortuis aliquando esse suscitandos, ac secundum vitae nostrae opera aut suppliciis aeternis afficiendos, aut sempiterna donandos felicitate.
 patrologiacaput2L=>quam quidem doctrinam miraculis, a se quoque editis confirmatam, fuso sanguine plerumque consignabant.
-patrologiacaput2M=>foo
+patrologiacaput2M=>continuer à saisir....
 
 toto=>attingit etiam
 

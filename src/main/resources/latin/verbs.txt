@@ -56,6 +56,7 @@ conjug,o,is,ere,,,[o-is]
 conpl,eo,es,ere,,,[eo-es],(AIP*conpl*conplev*0)
 consecr,o,as,are,,,[o-as]
 conserv,o,as,are,,,[o-as]
+consign,o,as,are,,,[o-as]
 constitu,o,is,ere,,,[o-is],(IAP*constituidi*constitui*0)
 consum,o,is,ere,,,[o-is],(IAP*consum*consumps*0)
 contend,o,is,ere,,,[o-is]
@@ -115,7 +116,7 @@ fug,o,as,are,avi,atum,[o-as]
 ger,o,is,ere,,,[o-is]
 germin,o,as,are,,,[o-as],(ASI*germin*germinar*0)
 gubern,o,as,are,,,[o-as]
-hab,eo,es,ere,foo,bar,[eo-es2],(ASP*hab*habe*0)
+hab,eo,es,ere,foo,bar,[eo-es2],(ASP*hab*habe*0@AIP*hab*habu*0)
 habit,o,as,are,avi,atus,[o-as]
 imbu,o,is,ere,,,[o-is]
 imper,o,as,are,avi,atus,[o-as]
@@ -252,7 +253,7 @@ verber,o,as,are,,,[o-as]
 vere,or,ris,re,,,[or-ris]
 verg,o,is,ere,,,[o-is],(AIP*verg*xxxxx*0)
 vesc,or,eris,ere,,,[or-eris]
-vid,eo,es,ere,foo,bar,[eo-es],(PIF*vid*videb*0@PIF*ebar*ebor*4@PIF*betur*bitur*4@PIF*bemur*bimur*4@PIF*bentur*buntur*4@PSP*vid*visus*0)
+vid,eo,es,ere,foo,bar,[eo-es2],(PSP*vid*visus*0@AIFP*vidue*vide*0)
 vinc,o,is,ere,,,[o-is],(AIP*vinc*vic*0)
 viv,o,is,ere,,,[o-is]
 voc,o,as,are,avi,atus,[o-as]

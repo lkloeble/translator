@@ -1,6 +1,11 @@
 IPR=>eo,es,et,emus,etis,ent
+AII=>ebam,ebas,ebat,ebamus,ebatis,ebant
 ASP=>am,as,at,amus,atis,ant
 AIF=>ebo,ebis,ebit,ebimus,ebitis,ebunt
-AIP=>ui,uisti,uit,uimus,uistis,uerunt|uere
+AIP=>i,isti,it,imus,istis,erunt|ere
 AIPP=>eram,eras,erat,eramus,eratis,erant
 AIFP=>uero,ueris,uerit,uerimus,ueritis,uerint
+PII=>ebar,ebaris,ebatur,ebamur,ebamini,ebantur
+AIMP=>xxx,e,xxx,xxx,ete,xxx
+PIP=>eor,eris,etur,emur,emini,entur
+PIF=>ebor,eberis,ebitur,ebimur,ebimini,ebuntur

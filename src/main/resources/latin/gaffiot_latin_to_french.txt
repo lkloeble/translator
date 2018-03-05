@@ -119,6 +119,7 @@ av@noun!is-is%1(noun)=volaille%2(noun)=oiseau
 ave@noun!inv%1(noun)=bonjour
 bacul@noun!um-i%1(noun)=support%2(noun)=sceptre%3(noun)=bâton
 barnabe@noun!inv%1(noun)=barnabé
+bdelli@noun!um-i%1(noun)=bdellium
 beat@adj!us-a-um%1(adj)=bienheureux, heureux%2(adj)=comble de tous les biens, riche, opulent%3(adj)=bienheureux, beni, saint (christianisme)%5(adj)=heureux
 belg@noun!a-ae%1(noun)=belge
 bell@noun!um-i%1(noun)=guerre
@@ -205,6 +206,7 @@ confirmo@verb!norm%1(verb)=confirmer
 concipio@verb!norm%1(noun)=recevoir
 conglorifico@verb!norm%1(verb)=glorifier
 conficiend@adj!us-a-um%1(adj)=qui doit être préparé
+confirmat@adj!us-a-um%1(adj)=confirmé
 congregat@adj!us-a-um%1(adj)=assemblé
 congregatio@noun!x-nis%1(noun)=association%2(noun)=société%3(noun)=réunion
 congrego@verb!norm%1(noun)=assembler2
@@ -215,6 +217,7 @@ conor@verb!norm%1(verb)=essayer
 conpleo@verb!norm%1(verb)=accomplir%2(verb)=terminer
 consecro@verb!norm%1(verb)=sanctifier%2(verb)=consacrer
 conservo@verb!norm%1(verb)=preserver%2(noun)=garder
+consigno@verb!norm%1(verb)=signer
 consili@noun!um-i%1(noun)=conseil%2(noun)=plan
 conspurcat@adj!us-a-um%1(adj)=pollué
 constituo@verb!norm%1(verb)=etablir
@@ -447,6 +450,7 @@ fruct@noun!us-i%1(noun)=résultat%2(noun)=profit%3(noun)=satisfaction%4(noun)=fr
 frument@noun!um-i%1(noun)=grain
 fugo@verb!norm%1(verb)=fairefuir
 fundo@verb!norm%1(verb)=repandre
+fus@noun!us-i%1(noun)=broche
 galilae@noun!a-ae%1(noun)=galilée
 galilae@adj!us-a-um%1(noun)=galiléen
 gall@noun!us-i%1(noun)=gaule
@@ -614,6 +618,7 @@ laboro@verb!norm%1(verb)=produire%2(verb)=souffrir%3(verb)=travailler
 lac@noun!us-us%1(noun)=lac
 laet@adj!us-a-um%1(adj)=joyeux
 laetiti@noun!a-ae%1(noun)=bonheur%2(noun)=joie
+lapid@noun!x-is2%1(noun)=pierre
 late@prep%1(prep)=largement
 latin@adj!us-a-um%1(noun)=latin
 latissim@adj!us-a-um%1(noun)=le plus large
@@ -786,6 +791,7 @@ octo@noun!inv%1(noun)=huit
 odi@noun!um-i%1(noun)=haine
 ole@noun!a-ae%1(noun)=olive
 omn@adj!is-is-e%1(adj)=tous
+onychin@adj!us-a-um%1(noun)=onyx
 oper@noun!a-ae%1(noun)=travail, activite%2(noun)=service, journee de travail%3(noun)=soin, attention, peine%4(noun)=oeuvre
 opero@verb!norm%1(verb)=travailler
 op@noun!us-eris%1(noun)=besoin%2(noun)=accomplissement%3(noun)=travail
