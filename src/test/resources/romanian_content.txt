@@ -389,7 +389,7 @@ filocalia1P=>O. Bardenhewer (Geschichte der altkirchlichen Literatur, Vol III, e
 filocalia1Q=>cum stăm însă cu autenticitatea celor 170 de capete pe care |Nicodim| |Aghioritul|, care a trăit la sfîrșitul veacului al XVIII-lea, le-a așezat în fruntea Filocaliei ?
 filocalia1R=>Nici |Bardenhewer|, nici |Viller-Rahner|, din care iau aceste însemnări, nu le pomenesc între scrierile atribuite lui Antonie.
 filocalia1S=>Ele nu se cuprind nici în |Patrologia| lui |Migne|.
-filocalia1T=>Nu știm, de asemenea, după ce manuscris le-a luat Nicodim Aghioritul.
+filocalia1T=>Nu știm, de asemenea, după ce manuscris le-a luat |Nicodim| |Aghioritul|.
 filocalia1U=>Ne dă această dreptul să afirmăm cu siguranță că nu sînt ale Sfîntului Antonie ?
 filocalia1V=>Nu, acest drept nu-l avem.
 filocalia1W=>Chiar dacă azi ele nu s-ar mai găsi în nici un manuscris ascuns pe cine știe unde, Nicodim Aghioritul le-a luat sigur din vreun manuscris care s-a putut pierde.
@@ -436,6 +436,16 @@ patericulegyptantonie1G=>și a auzit pe înger zicând-i :
 patericulegyptantonie1H=>"fă așa și te vei mântui".
 patericulegyptantonie1I=>iar el, auzind aceasta, s-a umplut de multă bucurie și îndrăzneală.
 patericulegyptantonie1J=>și, făcând așa, se mântuia.
+patericulegyptantonia2A=>Cronie, preotul Nitriei, ne-a istorisit nouă că fericitul Antonie povestea :
+patericulegyptantonia2B=>"un an întreg m-am rugat să mi descopere locul drepților și al pacatașilor.
+patericulegyptantonia2C=>Și am văzut un uriaș care ajungea până la nori.
+patericulegyptantonia2D=>Era negru și avea mâinile întinse până la cer, și sub el se afla un lac având măsura mării.
+patericulegyptantonia2E=>Și am văzut suflete zburând ca niște păsări.
+patericulegyptantonia2F=>Cele ce zburau deasupra mâinilor și capului uriașului se mântuiau.
+patericulegyptantonia2G=>Dimpotrivă, cele ce erau prinse de mâinile lui cădeau în lac.
+patericulegyptantonia2H=>Și a ajuns la mine un glas care a zis :
+patericulegyptantonia2I=>"aceste suflete, pe care le vzei zburând mai sus de acela, sunt sufletele drepților care se mântuiesc în rai.
+patericulegyptantonia2J=>Iar celelalte sunt atrase în iad, urmând voilor trupului și ținerii de minte a răului.
 
 ă
 ș

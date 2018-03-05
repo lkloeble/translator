@@ -8,6 +8,7 @@ apar,,[face]
 apreci,,[aprecia]
 aprind,,[merg],(IPR1*di*zi*1)
 arat,,[incerca]
+arunc,,[incerca]
 as,,[aprecia]
 astept,,[cauta],(AIMP*astepta*asteapta*1)
 atrag,,[merg]
@@ -49,6 +50,7 @@ fac,,[face],(AIMP*fac*fa*0)
 fierb,,[merg]
 form,,[fumez]
 fum,,[fumez]
+gol,i,[aciti]
 hotar,i,[hotarasc]
 ies,,[dorm]
 impart,,[impart]
@@ -62,6 +64,7 @@ insemn,,[incerca],(IPR25*insem*inseam*0)
 insist,,[incerca]
 inspaimant,,[cauta]
 intampl,,[intampla]
+interv,,[mentsin]
 intorc,,[face],(IPR234*intor*intoar*0)
 intreb,,[cauta],(IPR25*intreba*intreaba*0@AIMP*intreba*intreaba*0)
 intseleg,,[merg],(PAP*intselegs*intseles*0)
@@ -75,7 +78,7 @@ lucr,,[fumez]
 maninc@IRREGULAR%[IPR]=[maninc,maninci,maninca,mancam,mancati,mananca]%[INFINITIVE]=[maninca]
 mantui,,[mantui],(AIF*man*vaman*0)
 ments,,[mentsin]
-merg,,[face]
+merg,,[merg],(AIP*merg*mers*0)
 mor,,[dorm],(IPR2*mor*moar*0@IPR34*mor*mur*0@PAP*mor*mur*0)
 mosten,,[locuiesc]
 munc,,[aciti]
@@ -103,15 +106,20 @@ retrag,,[merg],(PAP*retrags*retras*0)
 revin,,[face]
 rezult,,[incerca]
 rezum,,[incerca]
+rod,,[locuiesc]
 rug@IRREGULAR%[PAPR]=[rugandu]
+sad,,[locuiesc]
 scri,,[scrie]
 scul@IRREGULAR%[PAPR]=[sculandu]
 simt,,[impart]
 sint@IRREGULAR%[IPR]=[sint,esti,este,sintem|suntem,sintetsi,sint|sunt]%[AII]=[eram,erai,era,eram,eratsi,erau]%[PAPR]=[fiind]%[ASP]=[fiu,fii,fie,fim,fitsi,fie]%[ACP]=[asfi,aifi,arfi,amfi,atsifi,arfi]%[PAP]=[fost]%[INFINITIVE]=[fi]
 sluj,,[locuiesc]
-spun,,[face],(IPR1*uni*ui*1)
+smulg,,[merg]
+sparg,,[merg]
+spun,,[face],(IPR1*uni*ui*1@PAP*spunut*spus*0)
 sta,,[stiu]
 sti,,[stiu],(AIPP*sti*stius*0)
+strig,,[incerca]
 string,,[merg],(MMCP*string*strins*0)
 studi,,[fumez]
 sufer,,[suferi],(IPR0*er*ar*1)

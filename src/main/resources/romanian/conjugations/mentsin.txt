@@ -1,2 +1,3 @@
 IPR=>in,ii,ine,inem,inetsi,in
 PAP=>inut
+AIP=>enii,enisi,eni,eniram,eniratsi,enira

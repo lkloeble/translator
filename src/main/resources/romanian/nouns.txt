@@ -252,6 +252,7 @@ incorporare@fem%fem
 increder@fem%berea
 indrazneal@fem%fem
 inexplicabil@adj%adj
+influent@fem%femts
 inger@masc%ul
 insemnar@fem%ratsiune
 insurat@adj%adjts
@@ -378,6 +379,7 @@ ortodox@fem%fem
 pacat@neut%inv
 pachet@fem%fem
 pacient@masc%ul
+pahar@masc%ul
 palid@adj%adj
 palmier@masc%ul
 papus@fem%tigara
@@ -391,6 +393,7 @@ patru@neut%inv
 patruzeci@neut%inv
 pelerin@masc%ul
 pentrucaXX@neut%inv
+pere@masc%capacitate
 perfect@neut%inv
 periculos@neut%inv
 persoan@fem%fem
@@ -438,6 +441,7 @@ ratsiun@fem%ratsiune
 rau@adj%inv
 realita@fem%capacitate
 rece@adj%adj
+reciproc@adj%adj
 redactsi@fem%tigara
 relief@masc%ul
 reportaj@fem%fem
@@ -449,6 +453,7 @@ revist@fem%fem
 rezumat@masc%ul
 roat@fem%fem[nomplr(a):roate,nomplr(b):rotsi,nomplr(c):roatele,nomplr(d):rotsile]
 rod@masc%ul[nomplr(a):roadele]
+rol@masc%ul
 rom@masc%ul
 roman@adj%adj
 romanca@adj%inv
@@ -494,11 +499,13 @@ sfint@masc%ul
 sfirsit@masc%ul
 si@neut%inv
 sigur@adj%adj
+sigurant@fem%femts
 sincer@adj%adj
 singur@adj%adj
 singuratate@fem%ereditate
 simpatic@adj%adj
 simplu@adj%adj
+soi@neut%inv
 somn@masc%ul
 sots@masc%ul
 sotsi@fem%fem
@@ -511,6 +518,7 @@ stare@fem%fem
 sticl@fem%fem
 stra@fem%adjverde
 stradiani@fem%fem
+strugur@masc%ul
 subiect@masc%ul
 subordonat@adj%adj
 suficient@neut%inv
@@ -577,6 +585,7 @@ vie@fem%fem[nomsing(a):vie,nomsing(b):via,nomplr(a):vii,nomplr(b):viile,gensing(
 vin@masc%ul
 vinatoare@fem%inv
 virst@fem%fem
+vit@fem%femts
 vitez@fem%fem
 vizavi@masc%inv
 vizit@fem%fem
