@@ -1,4 +1,5 @@
-﻿αβια@noun!inv%1(noun)=abia
+﻿α@prep%1(prep)=qui
+αβια@noun!inv%1(noun)=abia
 αβιουδ@noun!inv%1(noun)=abioud
 αβρααμ@noun!inv%1(noun)=abraham
 αβυσσ@noun!ος-ου%1(noun)=abysse
@@ -355,6 +356,7 @@
 κατωτατω@prep%1(prep)=le plus bas
 κεφαλ@noun!η-ης%1(noun)=dirigeant%2(noun)=tête
 κηρυσσ@verb!norm%1(verb)=proclamer
+κητ@noun!ος-ους2%1(noun)=monstre marin
 κινησ@noun!ις-εως%1(noun)=changement%2(noun)=danse%3(noun)=mouvement
 κινουμεν@adj!ος-α-ον%1(adj)=mouvant%2(adj)=animé
 κιονι@noun!inv%1(noun)=colonne
@@ -510,6 +512,7 @@
 παρουσι@noun!α-ας%1(noun)=parousie%2(noun)=présence%3(noun)=venue
 πασα@noun!inv%1(noun)=toute
 πασαι@noun!inv%1(noun)=toutes
+πασαν@noun!inv%1(noun)=toute
 πασιν@prep%1(prep)=tous
 πατ@noun!ηρ-ρος%1(noun)=père
 παυλ@noun!ος-ου%1(noun)=paul

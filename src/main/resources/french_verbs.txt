@@ -182,7 +182,7 @@ effectuer@NORM%[INFINITIVE]=[effectuer]%[IPR]=[effectue,effectues,effectue,effec
 elever@NORM%[IPR]=[élève,élèves,élève,élevons,élevez,élèvent]%[INFINITIVE]=[élever]%[PII]=[ai été élévé,as été élévé,a été élevé,avons étés élevés,avez été élevés,ont été élevés]%[ARAIPR]=[élève,élèves,élève,élevons,élevez,élèvent]%
 eloigner@NORM%[INFINITIVE]=[éloigner]%[IPR]=[éloigne,éloignes,éloigne,éloignons,éloignez,éloignent]
 embrasser@NORM%[INFINITIVE]=[embrasser]%[IPR]=[embrasse,embrasses,embrasse,embrassons,embrassez,embrassent]
-emmener@NORM%[INFINITIVE]=[emmener]%[IPR]=[emmène,emmènes,emmène,emmenons,emmenez,emmènent]%[AII]=[emmenais,emmenais,emmenait,emmenions,emmeniez,emmenaient]%[ACAOIM]=[emmène,emmène,emmenons,emmenez]
+emmener@NORM%[INFINITIVE]=[emmener]%[IPR]=[emmène,emmènes,emmène,emmenons,emmenez,emmènent]%[AII]=[emmenais,emmenais,emmenait,emmenions,emmeniez,emmenaient]%[ACAOIM]=[emmène,emmène,emmenons,emmenez]%[ACAOINBIS]=[fus emmené,fus emmené,fut emmené,fûmes emmenés,fûtes emmenés,furent emmenés]
 encercler@NORM%[INFINITIVE]=[encercler]%[IPR]=[encercle,encercles,encercle,encerclons,encerclez,encerclent]%[AORPASSPART]=[-,-,encerclé,-,-,-]
 encourager@NORM%[INFINITIVE]=[encourager]%[IPR]=[encourage,encourages,encourage,encourageons,encouragez,encouragent]
 endurer@NORM%[INFINITIVE]=[endurer]%[IPR]=[endure,endures,endure,endurons,endurez,endurent]%[PAPR]=[endurant]

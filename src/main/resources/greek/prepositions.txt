@@ -1,3 +1,4 @@
+α@prep()
 αι@prep()
 αλλ@prep()
 αλληλους@prep(acc)
