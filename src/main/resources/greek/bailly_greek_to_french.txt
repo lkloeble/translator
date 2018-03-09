@@ -134,6 +134,7 @@
 γαρ@prep%1(prep)=en effet%2(prep)=car
 γαστ@noun!ηρ-ρος%1(noun)=estomac%2(noun)=ventre
 γεν@noun!ος-ους%1(noun)=espèce%2(noun)=gens%3(noun)=nation%4(noun)=famille%5(noun)=race
+γεν@noun!ος-ους2%1(noun)=espèce%2(noun)=gens%3(noun)=nation%4(noun)=famille%5(noun)=race
 γενε@noun!α-ας%1(noun)=génération
 γενεσ@noun!ις-εως%1(noun)=création%2(noun)=source%3(noun)=origine
 γενν@verb!norm%1(verb)=donner naissance à%2(verb)=engendrer
@@ -275,6 +276,7 @@
 ημιν@prep%1(prep)=à nous
 ημων@prep%1(prep)=notre
 ην@noun!inv%1(noun)=la
+ηρωδης@noun!inv%1(noun)=hérode
 ηρωδου@noun!inv%1(noun)=de hérode
 ηρως@noun!inv%1(noun)=héros
 ηστινος@prep%1(prep)=de celle-qui
@@ -300,6 +302,7 @@
 ιδου@prep%1(prep)=voici !
 ιερ@noun!ον-ου%1(noun)=temple
 ιεροσολυμα@noun!inv%1(noun)=jérusalem
+ιεροσολυμη@noun!inv%1(noun)=jérusalem
 ιεροσολυμοις@noun!inv%1(noun)=jérusalem
 ιεροσολυμων@noun!inv%1(noun)=de jérusalem
 ιεχονι@noun!ας-ου%1(noun)=jéchonias
@@ -480,11 +483,13 @@
 ουτω@prep%1(prep)=ainsi
 ουτως@prep%1(prep)=de cette façon
 οχλ@noun!ος-ου%1(noun)=foule
+ουχ@prep%1(prep)=ne
 παι@noun!ς-δος%1(noun)=enfant
 παιδι@noun!ον-ου%1(noun)=enfant
 παλαι@adj!ος-α-ον%1(adj)=vieux
 παναρετ@noun!ον-ου%1(noun)=très vertueux
 παραλυτικ@noun!ος-ου%1(noun)=paralytique
+παν@noun!inv%1(noun)=tout
 παντα@prep%1(prep)=tous
 παντας@prep%1(prep)=tous
 παντων@prep%1(prep)=tous
@@ -503,6 +508,7 @@
 παρθεν@noun!ος-ου%1(noun)=jeune fille, demoiselle%2(noun)=vierge
 παροικ@verb!norm%1(verb)=resider
 παρουσι@noun!α-ας%1(noun)=parousie%2(noun)=présence%3(noun)=venue
+πασα@noun!inv%1(noun)=toute
 πασαι@noun!inv%1(noun)=toutes
 πασιν@prep%1(prep)=tous
 πατ@noun!ηρ-ρος%1(noun)=père
@@ -527,6 +533,7 @@
 πετειν@noun!ον-ου%1(noun)=oiseau
 πετρ@noun!ος-ου%1(noun)=pierre
 πιστ@noun!ις-εως%1(noun)=foi%2(noun)=confiance
+πιστ@noun!η-ης%1(noun)=foi%2(noun)=confiance
 πιστευ@verb!norm%1(verb)=avoir foi%2(verb)=croire
 πληκτρ@noun!ον-ου%1(noun)=plectre
 πληθυν@verb!norm%1(verb)=multiplier
@@ -564,6 +571,7 @@
 προσφερ@verb!norm%1(verb)=apporter%2(verb)=offrir
 πρωι@prep%1(prep)=tôt le matin
 πρωτ@adj!ος-η-ον%1(adj)=premier
+πτερωτ@adj!ος-η-ον%1(adj)=ailé
 πτωχ@adj!ος-η-ον%1(adj)=pauvre
 πυρ@noun!x-ος%1(noun)=feu
 ραψωδ@noun!ος-ου%1(noun)=rapsode
@@ -618,10 +626,12 @@
 σωμ@noun!α-ατος%1(noun)=corps
 σωζ@verb!norm%1(verb)=préserver,mettre à l'abri%2(verb)=laisser vivre,épargner%3(verb)=conserver%4(verb)=sauver
 σωφρον@verb!norm%1(verb)=etresaindesprit
+ταρασσ@verb!norm%1(verb)=agiter%2(verb)=deranger
 σωτηρι@noun!α-ας%1(noun)=salut
 σωφρον@adj!ων-ων-ον%1(adj)=modéré
 τα@noun!inv%1(noun)=le
 ταδε@noun!inv%1(noun)=ceci
+ταλλ@adj!ος-η-ο%1(adj)=autre
 ταις@prep%1(prep)=les(e)
 ταξ@noun!ις-εως%1(noun)=ordre%2(noun)=devoir%3(noun)=arrangement%4(noun)=disposition%5(noun)=groupe%6(noun)=brigade%7(noun)=ligne de soldats%8(noun)=ordre de bataille%9(noun)=arrangement
 τας@prep%1(prep)=les
@@ -700,6 +710,7 @@
 φαυσ@noun!ις-εως%1(noun)=illumination
 φερ@verb!norm%1(verb)=transporter%2(verb)=porter
 φημι@verb!irrg%1(verb)=dire
+φθειρ@verb!norm%1(verb)=detruire
 φιλ@verb!norm%1(verb)=éprouver de l'amitié,triater en ami%2(verb)=donner un signe d'amitié%3(verb)=rechercher,poursuivre%4(verb)=aimer
 φιλ@noun!ος-ου%1(noun)=ami
 φιλλ@noun!ος-ου%1(noun)=phillos

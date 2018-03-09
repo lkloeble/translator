@@ -80,6 +80,7 @@
 ουτος@prep()
 ουτω@prep()
 ουτως@prep()
+ουχ@prep()
 παντα@prep(acc)
 παντας@prep(acc)
 παντων@prep(gen)

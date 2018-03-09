@@ -553,6 +553,7 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("anaxG1", translatorBridge);
         checkInMaps("anaxG2", translatorBridge);
         checkInMaps("anaxG3", translatorBridge);
+        checkInMaps("anaxG4", translatorBridge);
         checkInMaps("anaxH", translatorBridge);
         checkInMaps("anaxI1", translatorBridge);
         checkInMaps("anaxI2", translatorBridge);
@@ -639,6 +640,6 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failed_ones() {
         assertTrue(true);
-        checkInMaps("matthew2B", translatorBridge);
+        checkInMaps("lxxgen1U", translatorBridge);
     }
 }
