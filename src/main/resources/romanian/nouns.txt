@@ -34,6 +34,8 @@ ardeleneasc@adj%adj
 armat@fem%fem
 articol@masc%ul
 ascet@masc%ul
+asimilat@adj%adj
+ascuns@adj%adj
 aspect@masc%ul
 aspirin@fem%fem
 atanasie@masc%inv
@@ -99,6 +101,7 @@ coborat@adj%adj
 cofetarie@neut%inv
 col@neut%inv
 complicat@adj%adj
+concentrat@adj%adj
 concomitent@adj%adj
 concret@neut%inv
 confortabil@adj%adj
@@ -134,6 +137,7 @@ cunoscatoar@adj%adj
 cunoscut@adj%adj
 curajos@adj%adj
 curind@neut%inv
+dadac@fem%fem
 dan@neut%inv
 dat@adj%adjts
 deosebire@fem%ereditate
@@ -197,6 +201,7 @@ fats@fem%fem
 favoar@fem%berea
 fel@neut%inv
 femei@fem%femei
+fericit@adj%adj
 fi@masc%fiul
 fiecare@neut%inv
 fierbint@adj%parinte
@@ -233,6 +238,7 @@ hots@masc%ul
 hristos@masc%inv
 iarba@fem%inv
 ierb@fem%locul
+ieremia@masc%inv
 ide@fem%parinte
 ieftin@adj%adj
 iepure@neut%iepure
@@ -263,6 +269,7 @@ intim@adj%adj
 intimplat@neut%inv
 intretsinut@adj%adj
 intunecare@neut%inv
+invatsat@adj%adjts
 invatsatur@fem%fem
 invers@neut%inv
 ion@masc%inv
@@ -353,8 +360,10 @@ negr@adj%adj
 nehotarit@adj%adjts
 nevast@fem%fem
 nici@neut%inv
+niciodata@neut%inv
 nil@masc%ul
 nisipos@adj%adj
+nitri@fem%fem
 noapte@fem%fem
 noi@neut%inv
 nord@neut%inv
@@ -422,9 +431,11 @@ pozitsi@fem%fem
 preajm@fem%fem
 prelucrar@fem%berea
 prelucratoare@neut%inv
+preot@masc%ul
 prieten@adj%adj
 prim@adj%adj
 probabil@adj%adj
+prooroc@masc%ul
 propri@adj%adj
 produs@masc%ul
 punct@masc%ul
@@ -463,6 +474,7 @@ romania@fem%inv
 ros@adj%adj
 roscat@adj%adj
 rost@neut%ul
+royce@neut%inv
 rud@fem%fem
 rugaciun@fem%caine
 salbatic@adj%adj
@@ -505,6 +517,7 @@ singur@adj%adj
 singuratate@fem%ereditate
 simpatic@adj%adj
 simplu@adj%adj
+sofer@masc%ul
 soi@neut%inv
 somn@masc%ul
 sots@masc%ul
@@ -562,6 +575,7 @@ umor@masc%ul
 un@adj%adj
 unchi@masc%ul
 unic@adj%adj
+urgi@fem%fem
 urm@fem%fem
 urmas@masc%ul
 urs@masc%ul
@@ -592,6 +606,7 @@ vizit@fem%fem
 voc@fem%berea
 voi@neut%inv
 vrem@fem%berea
+will@neut%inv
 zahar@neut%inv
 zambet@neut%ul
 zece@neut%inv

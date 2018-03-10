@@ -105,7 +105,7 @@ public class RomanianPhraseChanger extends CustomLanguageRulePhraseChanger {
             RootedConjugation rootedConjugation = allFormsForTheVerbRoot.getNameForms().get(verb.getRoot() + "@INFINITIVE");
             List<ConjugationPart> partLists = rootedConjugation.getPartLists();
             if(partLists.get(0).getValue().equals("a " + initialValue)) {
-               wordContainer.updateInitialValue("a " + initialValue);
+               wordContainer.updateInitialValue("a " + initialValue, WordType.VERB);
                 phrase.addWordContainerAtPosition(newIndice, wordContainer, phrase);
             }
         }
@@ -137,7 +137,7 @@ public class RomanianPhraseChanger extends CustomLanguageRulePhraseChanger {
             TranslationInformationBean allFormsForTheVerbRoot = verbRepository.getAllFormsForTheVerbRoot(verb.getRoot());
             RootedConjugation rootedConjugation = allFormsForTheVerbRoot.getNameForms().get(verb.getRoot() + "@INFINITIVE");
             List<ConjugationPart> partLists = rootedConjugation.getPartLists();
-            String initialValue = wordContainer.getInitialValue();
+            String initialValue = accentuer.unaccentued(wordContainer.getInitialValue());
             if(partLists.get(0).getValue().equals("a " + initialValue)) {
                 wordContainer.updateInitialValue("a " + initialValue);
                 wordContainer.updateRoot(initialValue);

@@ -64,6 +64,8 @@ public class RomanianRuleFactory extends RuleFactory {
             return new RuleComposeArVerb();
         } else if("recomposeVaVerb".equals(ruleName)) {
             return new RuleComposeVaVerb();
+        } else if("electGenitiveForFollowingNoun".equals(ruleName)) {
+            return new RuleElectGenitiveForFollowingNoun();
         }
         return null;
     }

@@ -102,6 +102,11 @@ public class WordContainer {
         getUniqueWord().setInitialValue(newValue);
     }
 
+    public void updateInitialValue(String newValue, WordType wordType) {
+        Word wordByType = getWordByType(wordType);
+        if(wordByType != null) wordByType.setInitialValue(newValue);
+    }
+
     public void modifyContentByPatternReplacement(String origin, String replacement) {
         for(Word word : getWordSet()) {
             word.modifyContentByPatternReplacement(origin, replacement);

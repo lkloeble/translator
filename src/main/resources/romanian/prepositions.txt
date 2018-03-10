@@ -183,4 +183,8 @@ unora@prep(gen)
 va@prep()%[varogFinder,recomposeVaVerb]
 varog@prep()
 vorba@prep()
+vreo@prep()%[electGenitiveForFollowingNoun]
+vreun@prep()%[electGenitiveForFollowingNoun]
+vreunei@prep()%[electGenitiveForFollowingNoun]
+vreunui@prep()%[electGenitiveForFollowingNoun]
 xxminusixx@prep()

@@ -105,7 +105,7 @@ public class VerbRepository {
             if(s.startsWith("auto")) System.out.println(s);
         }
         */
-        return conjugationsMap.containsKey(initialValue);
+        return conjugationsMap.containsKey(accentuer.unaccentued(initialValue));
     }
 
     public Verb getVerb(String initialValue) {
