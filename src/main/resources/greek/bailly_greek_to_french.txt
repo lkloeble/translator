@@ -269,6 +269,7 @@
 ζω@noun!η-ης%1(noun)=vie
 η@noun!inv%1(noun)=la
 ηγε@verb!norm%1(verb)=preceder%2(verb)=diriger%3(verb)=commander
+ηδ@adj!υς-εια-υ%1(adj)=doux%2(adj)=plaisant
 ηι@prep%1(prep)=lequel
 ηθ@noun!ος-ους%1(noun)=coutûme%2(noun)=charactère
 ηλι@noun!ος-ου%1(noun)=soleil

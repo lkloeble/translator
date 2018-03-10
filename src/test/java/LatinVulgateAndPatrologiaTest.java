@@ -115,5 +115,18 @@ public class LatinVulgateAndPatrologiaTest extends LatinTranslatorBridgeTest {
         checkInMaps("patrologiacaput2K", translatorBridge);
         checkInMaps("patrologiacaput2L", translatorBridge);
         checkInMaps("patrologiacaput2M", translatorBridge);
+        checkInMaps("patrologiacaput2N", translatorBridge);
+        checkInMaps("patrologiacaput2O", translatorBridge);
+        checkInMaps("patrologiacaput2P", translatorBridge);
+        checkInMaps("patrologiacaput2Q", translatorBridge);
+        checkInMaps("patrologiacaput2R", translatorBridge);
+        checkInMaps("patrologiacaput2S", translatorBridge);
+        checkInMaps("patrologiacaput2T", translatorBridge);
+        checkInMaps("patrologiacaput2U", translatorBridge);
+        checkInMaps("patrologiacaput2V", translatorBridge);
+        checkInMaps("patrologiacaput2W", translatorBridge);
+        checkInMaps("patrologiacaput2X", translatorBridge);
+        checkInMaps("patrologiacaput2Y", translatorBridge);
+        checkInMaps("patrologiacaput2Z", translatorBridge);
     }
 }

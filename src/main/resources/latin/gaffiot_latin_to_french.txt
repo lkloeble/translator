@@ -14,6 +14,7 @@ ad@prep%1(prep)=vers
 adae@noun!inv%1(noun)=adam
 adam@noun!inv%1(noun)=adam
 addo@verb!norm%1(verb)=ajouter
+adduco@verb!norm%1(verb)=conduire
 adduct@adj!us-a-um%1(adj)=contracté
 adferen@adj!s-tis%1(adj)=produisant
 adfero@verb!norm%1(verb)=apporter2
@@ -35,6 +36,7 @@ aemili@noun!a-ae%1(noun)=aemilia
 aestimand@adj!us-a-um%1(adj)=qui va être estimé
 aeta@noun!s-tis%1(noun)=époque
 aetern@adj!us-a-um%1(adj)=éternel
+aethiopi@noun!a-ae%1(noun)=éthiopie
 afficiend@adj!us-a-um%1(adj)=qui doit être affecté
 afficio@verb!norm%1(verb)=affecter
 afric@noun!a-ae%1(noun)=afrique
@@ -56,6 +58,7 @@ ambulo@verb!norm%1(verb)=aller et venir,marcher,se promener%2(verb)=marcher, se 
 amen@noun!inv%1(noun)=amen
 amicz@adj!us-a-um%1(adj)=amical
 amic@noun!us-i%1(noun)=ami
+amic@noun!a-ae%1(noun)=amie
 amiciti@noun!a-ae%1(noun)=alliance%2(noun)=amitié
 amo@verb!norm%1(verb)=aimer
 amoen@noun!us-a-um%1(noun)=délicieux
@@ -201,6 +204,7 @@ comparo@verb!norm%1(verb)=comparer%2(verb)=assembler
 compleo@verb!norm%1(verb)=accomplir
 complet@adj!us-a-um%1(adj)=rassasié%2(adj)=complété%3(adj)=terminé
 conat@adj!us-a-um%1(adj)=essayé
+conciliatur@adj!us-a-um%1(adj)=sur le point de s'unir
 concilio@verb!norm%1(verb)=acquerir%2(verb)=recommander%3(verb)=rassembler
 confirmo@verb!norm%1(verb)=confirmer
 concipio@verb!norm%1(noun)=recevoir
@@ -376,6 +380,7 @@ epistol@noun!a-ae%1(noun)=courrier,missive,depeche%2(noun)=lettre
 equ@noun!us-i%1(noun)=cheval
 ergo@prep%1(prep)=parce que%2(prep)=donc
 erigo@verb!norl%1(verb)=stimuler%2(verb)=construire,ériger%3(verb)=elever
+erudio@verb!norl%1(verb)=cultiver%2(verb)=eduquer%3(verb)=instruire
 esc@noun!a-ae%1(noun)=nourriture
 et@prep%1(prep)=et
 etenim@prep%1(prep)=parce  que
@@ -394,6 +399,8 @@ excels@adj!us-a-um%1(adj)=lieu très haut
 except@adj!us-a-um%1(adj)=excepté
 exerceo@verb!norm%1(verb)=exercer
 excus@adj!us-a-um%1(adj)=falsifié
+exercit@adj!us-a-um%1(adj)=exercé%2(adj)=occupé
+exercit@noun!us-us%1(noun)=entrainé
 exspectat@adj!us-a-um%1(adj)=attendu
 extrem@adj!us-a-um%1(adj)=extrême
 exempl@noun!um-i%1(noun)=exemple
@@ -463,6 +470,7 @@ generati@noun!o-onis%1(noun)=génération
 genit@adj!us-a-um%1(adj)=engendré
 genu@noun!a-ae%1(noun)=gêne
 genuin@adj!us-a-um%1(adj)=naturel,inne%2(adj)=authentique
+geon@noun!inv%1(noun)=géon
 german@noun!us-i%1(noun)=germain
 german@adj!us-a-um%1(noun)=germain
 germani@noun!a-ae%1(noun)=germanie
@@ -660,6 +668,7 @@ ludo@verb!norm%1(verb)=jouer
 lugdunens@adj!is-is-e%1(adj)=lyonnais
 lugend@adj!us-a-um%1(adj)=qui doit être plaint
 luminar@noun!e-is%1(noun)=luminaire
+lydi@noun!a-ae%1(noun)=lydia
 m@prep%1(prep)=m
 maest@adj!us-a-um%1(adj)=triste
 magis@prep%1(prep)=mieux
@@ -955,6 +964,7 @@ quibusdam@prep%1(prep)=quelque uns
 quid@prep%1(prep interrogative)=quelle chose, quoi, et si, que%2(prep)=pourquoi%3(prep)=quoi
 quidam@prep%1(prep)=quelqu'un/quelques uns
 quidem@prep%1(prep)=du moins%2(prep)=certes
+quin@prep%1(prep)=même%2(prep)=sans%3(prep)=pourquoi pas
 quinque@noun!inv%1(noun)=cinq
 qint@noun!us-i%1(noun)=quintus
 quint@noun!us-a-um%1(noun)=cinquième
@@ -963,6 +973,7 @@ quis@prep%1(prep)=qui
 quoniam@prep%1(prep)=puisque%2(prep)=depuis que
 quoque@prep%1(adv)=aussi
 quot@prep%1(quot)=combien
+recen@noun!s-tis%1(noun)=récent
 recipio@verb!norm%1(verb)=recevoir
 recitati@noun!o-onis%1(noun)=lecture
 rect@adj!us-a-um%1(adj)=droit
@@ -1154,6 +1165,7 @@ triclini@noun!um-i%1(noun)=salle-à-manger
 tu@prep%1(prep)=toi
 tua@prep%1(prep)=ta
 tuam@prep%1(prep)=ta
+tub@noun!a-ae%1(noun)=trompe
 tuend@adj!us-a-um%1(noun)=défenseur
 tum@prep%1(prep)=alors
 tunc@prep%1(prep)=en ce temps%2(prep)=alors

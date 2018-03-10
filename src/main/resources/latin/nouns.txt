@@ -14,6 +14,7 @@ aegypt@fem%us-i
 aegypti@adj%us-a-um
 aemili@fem%a-ae
 aestimand@adj%us-a-um
+aethiopi@fem%a-ae
 aeta@fem%s-tis
 aetern@adj%us-a-um
 afficiend@adj%us-a-um
@@ -30,6 +31,7 @@ altissim@adj%us-a-um
 amen@neut%inv
 amicz@adj%us-a-um
 amic@masc%us-i
+amic@fem%a-ae
 amiciti@fem%a-ae
 amoen@adj%us-a-um
 amplexand@adj%us-a-um
@@ -135,6 +137,7 @@ collect@fem%a-ae
 column@fem%a-ae
 complet@adj%us-a-um
 conat@adj%us-a-um
+conciliatur@adj%us-a-um
 conficiend@adj%us-a-um
 confirmat@adj%us-a-um
 congregat@adj%us-a-um
@@ -238,6 +241,8 @@ exempl@neut%um-i
 excels@adj%us-a-um
 except@adj%us-a-um
 excus@adj%us-a-um
+exercit@adj%us-a-um
+exercit@masc%us-us
 exspectat@adj%us-a-um
 extrem@adj%us-a-um
 fabi@fem%a-ae
@@ -286,6 +291,7 @@ generati@fem%o-onis
 genit@adj%us-a-um
 genu@fem%a-ae
 genuin@adj%us-a-um
+geon@neut%inv
 germani@fem%a-ae
 german@masc%us-i
 german@adj%us-a-um
@@ -411,6 +417,7 @@ lud@masc%us-i
 lugdunens@adj%is-is-e
 lugend@adj%us-a-um
 luminar@fem%e-is
+lydi@fem%a-ae
 maest@adj%us-a-um
 magist@neut%er-ri
 magn@adj%us-a-um
@@ -595,6 +602,7 @@ quinque@neut%inv
 qint@masc%us-i
 querimoni@fem%a-ae
 quint@masc%us-a-um
+recen@neut%s-tis
 recitati@fem%o-onis
 rect@adj%us-a-um
 regin@fem%a-ae
@@ -712,6 +720,7 @@ traditio@fem%x-nis
 tres@neut%inv
 tria@neut%inv
 triclini@neut%um-i
+tub@fem%a-ae
 tuend@adj%us-a-um
 turb@fem%a-ae
 tuscul@masc%um-i

@@ -472,7 +472,21 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
 
     @Test
     public void test_bridge_on_wenham_lesson18() {
-        assertTrue(false);
+        checkInMaps("wenham18A", translatorBridge);
+        checkInMaps("wenham18B", translatorBridge);
+        checkInMaps("wenham18C", translatorBridge);
+        checkInMaps("wenham18D", translatorBridge);
+        checkInMaps("wenham18E", translatorBridge);
+        checkInMaps("wenham18F", translatorBridge);
+        checkInMaps("wenham18G", translatorBridge);
+        checkInMaps("wenham18H", translatorBridge);
+        checkInMaps("wenham18I", translatorBridge);
+        checkInMaps("wenham18J", translatorBridge);
+        checkInMaps("wenham18K", translatorBridge);
+        checkInMaps("wenham18L", translatorBridge);
+        checkInMaps("wenham18M", translatorBridge);
+        checkInMaps("wenham18N", translatorBridge);
+        checkInMaps("wenham18O", translatorBridge);
     }
 
     @Test
@@ -626,7 +640,8 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
 
     @Test
     public void test_clement2() {
-        checkInMaps("clement2A", translatorBridge);
+        checkInMaps("clement2A1", translatorBridge);
+        checkInMaps("clement2A2", translatorBridge);
         checkInMaps("clement2B", translatorBridge);
         checkInMaps("clement2C", translatorBridge);
         checkInMaps("clement2D", translatorBridge);

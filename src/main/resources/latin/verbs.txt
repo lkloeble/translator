@@ -12,6 +12,7 @@ adfer,o,s,re,tuli,latum,[o-s]
 adjug,o,as,are,,,[o-as]
 adjuv,o,as,are,,,[o-as]
 ador,o,as,are,,,[o-as]
+adduc,o,is,ere,,,[o-is],(AIPP*adduc*addux*0)
 adven,io,is,ere,,,[io-is]
 affic,io,is,ere,,,[io-is]
 ag,o,is,ere,egi,actum,[o-is],(AIP*ag*eg*0)
@@ -97,6 +98,7 @@ effic,io,is,ere,,,[io-is],[AIP=effec]
 egred,or,eris,i,,,[or-eris],(AII*egred*egredi*0)
 eo@IRREGULAR%[IPR]=[eo,is,it,imus,itis,eunt]%[AIP]=[ibam,ibas,ibat,ibamus,ibatis,ibant]
 erig,o,is,ere,,,[o-is]
+erud,io,is,ire,,,[io-is]
 evoc,o,as,are,avi,atus,[o-as]
 ex,eo,is,ire,,,[eo-is]
 examin,o,as,are,,,[o-as]
