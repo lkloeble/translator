@@ -206,7 +206,8 @@ public class Word {
 
     public void modifyContentByPatternReplacement(String origin, String replacement) {
         initialValue = initialValue.replace(origin,replacement);
-        root = root.contains("[") ? root.replace(origin,replacement) : root.replace(root,replacement);
+        root = root.replace(origin,replacement);
+        //root = root.contains("[") ? root.replace(origin,replacement) : root.replace(root,replacement);
     }
 
     public void modifyContentByPatternReplacementAndPosition(String replacement, int position) {

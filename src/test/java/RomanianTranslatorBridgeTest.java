@@ -663,7 +663,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("assimil18L", translatorBridge);
+        checkInMaps("staniloae1J", translatorBridge);
     }
     
 }

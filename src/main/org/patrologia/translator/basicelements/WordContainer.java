@@ -102,9 +102,16 @@ public class WordContainer {
         getUniqueWord().setInitialValue(newValue);
     }
 
-    public void updateInitialValue(String newValue, WordType wordType) {
+    public void updateInitialValueOrCreate(String newValue, WordType wordType) {
         Word wordByType = getWordByType(wordType);
-        if(wordByType != null) wordByType.setInitialValue(newValue);
+        if(wordByType.isTypeUnknow()) {
+            if(wordType.VERB.equals(wordType)) {
+                wordByType = new Verb(newValue,newValue,wordByType.language);
+            }
+        }
+        wordByType.setInitialValue(newValue);
+        putOtherPossibleWord(wordByType);
+        deleteWordByWordType(WordType.UNKNOWN);
     }
 
     public void modifyContentByPatternReplacement(String origin, String replacement) {

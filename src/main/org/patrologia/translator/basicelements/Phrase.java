@@ -65,7 +65,8 @@ public class Phrase {
     }
 
     public void addWordContainerAtPosition(Integer indice, WordContainer wordContainer, Phrase phraseToAdd) {
-        wordContainersWithPosition.put(indice, getCloneContainer(wordContainer, phraseToAdd, indice));
+        WordContainer cloneContainer = getCloneContainer(wordContainer, phraseToAdd, indice);
+        wordContainersWithPosition.put(indice, cloneContainer);
     }
 
     private WordContainer getCloneContainer(WordContainer wordContainer, Phrase phraseToAdd, Integer indice) {

@@ -105,7 +105,7 @@ public class RomanianPhraseChanger extends CustomLanguageRulePhraseChanger {
             RootedConjugation rootedConjugation = allFormsForTheVerbRoot.getNameForms().get(verb.getRoot() + "@INFINITIVE");
             List<ConjugationPart> partLists = rootedConjugation.getPartLists();
             if(partLists.get(0).getValue().equals("a " + initialValue)) {
-               wordContainer.updateInitialValue("a " + initialValue, WordType.VERB);
+               wordContainer.updateInitialValueOrCreate("a " + initialValue, WordType.VERB);
                 phrase.addWordContainerAtPosition(newIndice, wordContainer, phrase);
             }
         }
