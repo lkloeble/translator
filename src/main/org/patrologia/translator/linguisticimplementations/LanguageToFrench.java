@@ -4,6 +4,8 @@ import org.patrologia.translator.TranslatorRepository;
 import org.patrologia.translator.basicelements.*;
 import org.patrologia.translator.casenumbergenre.CaseNumberGenre;
 import org.patrologia.translator.casenumbergenre.Gender;
+import org.patrologia.translator.conjugation.ConjugationPosition;
+import org.patrologia.translator.conjugation.RootedConjugation;
 import org.patrologia.translator.declension.Declension;
 import org.patrologia.translator.declension.DeclensionFactory;
 
@@ -137,10 +139,15 @@ public abstract class LanguageToFrench implements TranslatorRepository {
                 return "XXX";
             }
             Set<String> constructionNames = construction.getConstructionName(toTranslate, getLanguageSelector(), verb);
+            constructionNames = filterPastParticipleForVerbalNoun(constructionNames);
             Map<String, Integer> formPositionByConstructionName = construction.getFormPosition(constructionNames, toTranslate, (Verb)word);
             List<String> possibleVerbs = extractTranslation(formPositionByConstructionName, frenchVerbs.get(frenchRoot), verb.getPositionInTranslationTable(), verb);
             if(possibleVerbs.size() == 0 || possibleVerbs.get(0).equals("[XXX]")) {
                 System.out.println(word + " " + frenchRoot + " "  + formPositionByConstructionName.keySet().toString());
+            }
+            if(isVerbalNounCase(constructionNames,formPositionByConstructionName)) {
+                String constructionName = constructionNames.iterator().next();
+                return numberCaseDecorate(possibleVerbs.get(0),createVerbalNoun(verb,construction.getRootedConjugationByConstructionName(constructionName)));
             }
             return agregateVerbs(decorateVerbs(possibleVerbs,verb));
         } else if(word.isPreposition()) {
@@ -153,6 +160,24 @@ public abstract class LanguageToFrench implements TranslatorRepository {
             return translationRoot;
         }
         return "";
+    }
+
+    private Set<String> filterPastParticipleForVerbalNoun(Set<String> constructionNames) {
+        if(constructionNames.size() < 2) return constructionNames;
+        if(constructionNames.contains("PAP")) constructionNames.remove("PAP");
+        return constructionNames;
+    }
+
+    private Word createVerbalNoun(Verb verb, RootedConjugation rootedConjugation) {
+        Noun noun = new Noun(verb.getLanguage(), verb.getInitialValue(), verb.getInitialValue(), Collections.EMPTY_LIST, null, null, null, null);
+        noun.setElectedCaseNumber(rootedConjugation.getElectedCaseNumber(verb.getInitialValue()));
+        return noun;
+    }
+
+    private boolean isVerbalNounCase(Set<String> constructionNames, Map<String, Integer> formPositionByConstructionName) {
+        if(constructionNames.size() != 1) return false;
+        String uniqueConstructionName = constructionNames.iterator().next();
+        return formPositionByConstructionName.get(uniqueConstructionName).intValue() == ConjugationPosition.RELATED_TO_NOUN.getIndice();
     }
 
     private List<String> decorateVerbs(List<String> possibleVerbs, Verb verb) {
@@ -269,8 +294,10 @@ public abstract class LanguageToFrench implements TranslatorRepository {
             Integer formPosition = formPositionByConstructionName.get(constructionName);
             if(suggestedPositionInTranslation != 100 && suggestedPositionInTranslation > translations.size()) continue;
             if(formPosition == -1) continue;
-            if(translations.size() > formPosition) {
+            if(translations.size() > formPosition && formPosition > 0) {
               resultsFound.add(translations.get(formPosition));
+            } else {
+                resultsFound.add(translations.get(0));
             }
         }
         if(resultsFound.size() == 0 && suggestedPositionInTranslation != 100) resultsFound = extractTranslation(formPositionByConstructionName, frenchVerbDescription, 100, verb);

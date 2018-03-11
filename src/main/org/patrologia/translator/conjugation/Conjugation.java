@@ -1,6 +1,9 @@
 package org.patrologia.translator.conjugation;
 
+import org.patrologia.translator.basicelements.NounRepository;
 import org.patrologia.translator.basicelements.TranslationInformationReplacement;
+import org.patrologia.translator.declension.Declension;
+import org.patrologia.translator.declension.DeclensionFactory;
 
 import java.util.*;
 
@@ -38,6 +41,10 @@ public abstract class Conjugation {
 
     protected Map<String, List<String>> allEndings = new HashMap<String, List<String>>();
     protected VerbDefinition verbDefinition;
+    protected NounRepository nounRepository;
+    protected boolean isRelatedToParticipeAndIsANoun;
+    protected String declensionPattern;
+    protected Declension declension;
 
     public static final String ACTIVE_IMPERATIVE_PRESENT = "AIMP";
     public static final String ACTIVE_INDICATIVE_PRESENT = "IPR";
@@ -81,6 +88,7 @@ public abstract class Conjugation {
     public String getTerminationsWithRootAllValues(String baseConjugationRoot, String time) {
         if(isWithPrefixSpecialSyntax(time)) return getTerminationComputedWithPrefixes(baseConjugationRoot, time);
         List<String> strings = allEndings.get(time);
+        if(isRelatedToNounsAsParticiple(strings)) strings = getParticipleDeclensonFromNounRepository(strings);
         StringBuilder sb = new StringBuilder();
         char splitter = '-';
         for(String ending : strings) {
@@ -88,6 +96,26 @@ public abstract class Conjugation {
         }
         if(sb.length() == 0) return "";
         return sb.deleteCharAt(0).toString();
+    }
+
+    private List<String> getParticipleDeclensonFromNounRepository(List<String> strings) {
+        String declensionPattern = strings.get(0).replace("[","").replace("]","");
+        DeclensionFactory declensionFactory = nounRepository.getDeclensionFactory();
+        Declension declensionByPattern = declensionFactory.getDeclensionByPattern(declensionPattern);
+        List<String> endingsFromDeclension = new ArrayList<>(declensionByPattern.getAllEndings().values());
+        if(endingsFromDeclension.size() > 0) {
+            isRelatedToParticipeAndIsANoun = true;
+            this.declensionPattern = declensionPattern;
+            endingsFromDeclension.clear();
+            endingsFromDeclension.add("");
+        }
+        return endingsFromDeclension;
+    }
+
+    private boolean isRelatedToNounsAsParticiple(List<String> strings) {
+        if(strings.size() != 1) return false;
+        String declensionPattern = strings.get(0);
+        return declensionPattern.startsWith("[") && declensionPattern.endsWith("]");
     }
 
     private String getTerminationComputedWithPrefixes(String baseConjugationRoot, String time) {
@@ -174,5 +202,17 @@ public abstract class Conjugation {
                 "verbDefinition=" + verbDefinition.getRoot() +
                 ", allEndings=" + allEndings.keySet() +
                 '}';
+    }
+
+    public boolean isRelatedToParticipeAndIsANoun() {
+        return isRelatedToParticipeAndIsANoun;
+    }
+
+    public String getDeclensionPattern() {
+        return declensionPattern;
+    }
+
+    public Declension getDeclension() {
+        return nounRepository.getDeclensionFactory().getDeclensionByPattern(declensionPattern);
     }
 }

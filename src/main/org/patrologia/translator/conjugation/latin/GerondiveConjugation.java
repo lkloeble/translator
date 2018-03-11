@@ -12,7 +12,7 @@ public class GerondiveConjugation extends LatinConjugation {
     public static final String GERONDIVE_SYNONYM_LATIN_NAME = "INFINITIVE";
 
     public GerondiveConjugation(List<String> conjugationElements) {
-        super(conjugationElements, null);
+        super(conjugationElements, null,null);
     }
 
 

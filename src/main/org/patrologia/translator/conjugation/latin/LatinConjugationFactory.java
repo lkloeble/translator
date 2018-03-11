@@ -1,5 +1,6 @@
 package org.patrologia.translator.conjugation.latin;
 
+import org.patrologia.translator.basicelements.NounRepository;
 import org.patrologia.translator.conjugation.ConjugationFactory;
 import org.patrologia.translator.conjugation.VerbDefinition;
 
@@ -12,11 +13,14 @@ import java.util.Map;
  */
 public class LatinConjugationFactory extends ConjugationFactory {
 
-    private Map<String, List<String>> conjugationsDefinitionsList;
 
-    public LatinConjugationFactory(List<String> conjugationDefinitions, Map<String, List<String>> conjugationsDefinitionsList) {
+    private Map<String, List<String>> conjugationsDefinitionsList;
+    private NounRepository nounRepository;
+
+    public LatinConjugationFactory(List<String> conjugationDefinitions, Map<String, List<String>> conjugationsDefinitionsList, NounRepository nounRepository) {
         conjugations = new HashMap<>();
         this.conjugationsDefinitionsList = conjugationsDefinitionsList;
+        this.nounRepository = nounRepository;
         populateConjugationMap(conjugationDefinitions);
     }
 
@@ -35,6 +39,6 @@ public class LatinConjugationFactory extends ConjugationFactory {
         String conjugationFile = conjugations.get(verbDefinition.getConjugationPattern().toLowerCase());
         return conjugationFile != null ? new LatinConjugation(conjugationsFilesPath + "\\" + conjugationFile, verbDefinition) : new NullLatinConjugation();
         */
-        return new LatinConjugation(conjugationsDefinitionsList.get(conjugationPattern), verbDefinition);
+        return new LatinConjugation(conjugationsDefinitionsList.get(conjugationPattern), verbDefinition, nounRepository);
     }
 }

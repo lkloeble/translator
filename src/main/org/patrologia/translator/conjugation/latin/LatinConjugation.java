@@ -1,5 +1,6 @@
 package org.patrologia.translator.conjugation.latin;
 
+import org.patrologia.translator.basicelements.NounRepository;
 import org.patrologia.translator.conjugation.Conjugation;
 import org.patrologia.translator.conjugation.ConjugationLoader;
 import org.patrologia.translator.conjugation.VerbDefinition;
@@ -18,8 +19,9 @@ public class LatinConjugation extends Conjugation {
     private String conjugationFilePath;
     private ConjugationLoader conjugationLoader = new ConjugationLoader();
 
-    public LatinConjugation(List<String> conjugationsElements, VerbDefinition verbDefinition) {
+    public LatinConjugation(List<String> conjugationsElements, VerbDefinition verbDefinition, NounRepository nounRepository) {
         this.verbDefinition = verbDefinition;
+        this.nounRepository = nounRepository;
         initializeMap(conjugationsElements);
     }
 

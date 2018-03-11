@@ -274,4 +274,8 @@ public class Word {
     public boolean isEmpty() {
         return getInitialValue().isEmpty();
     }
+
+    public Language getLanguage() {
+        return language;
+    }
 }

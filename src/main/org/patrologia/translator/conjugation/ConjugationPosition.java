@@ -6,7 +6,8 @@ package org.patrologia.translator.conjugation;
 public enum ConjugationPosition {
 
     SINGULAR_FIRST_PERSON(0), SINGULAR_SECOND_PERSON(1), SINGULAR_THIRD_PERSON(2),
-    PLURAL_FIRST_PERSON(3), PLURAL_SECOND_PERSON(4), PLURAL_THIRD_PERSON(5);
+    PLURAL_FIRST_PERSON(3), PLURAL_SECOND_PERSON(4), PLURAL_THIRD_PERSON(5),
+    RELATED_TO_NOUN(-10);
 
     private int position;
 
@@ -28,6 +29,8 @@ public enum ConjugationPosition {
                 return PLURAL_SECOND_PERSON;
             case 5:
                 return PLURAL_THIRD_PERSON;
+            case -10:
+                return RELATED_TO_NOUN;
             default:
                 return SINGULAR_FIRST_PERSON;
         }

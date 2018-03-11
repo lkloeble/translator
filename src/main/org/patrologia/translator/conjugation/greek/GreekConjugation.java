@@ -1,5 +1,6 @@
 package org.patrologia.translator.conjugation.greek;
 
+import org.patrologia.translator.basicelements.NounRepository;
 import org.patrologia.translator.conjugation.Conjugation;
 import org.patrologia.translator.conjugation.ConjugationLoader;
 import org.patrologia.translator.conjugation.VerbDefinition;
@@ -18,7 +19,7 @@ import java.util.List;
  * PAAOIM => Passive AOrist IMpérative
  * MIAOIN => MIddle AOrist INdicative
  * PAINPRAC => PArticiple INfinitive PResent ACtive
- * PAINPRMIPA => PArticiple INfinitive PResent MIddlePAssive
+ * PPP => Present Passive Participle
  * PAINPRMI => PArticiple INfinitive PResent PAssive
  * PEPASPAR => PErfect PASsive PARticiple
  * PERACTPAR => PERfect ACTive PARticiple
@@ -51,8 +52,9 @@ public class GreekConjugation extends Conjugation {
     private String conjugationFilePath;
     private ConjugationLoader conjugationLoader = new ConjugationLoader();
 
-    public GreekConjugation(List<String> conjugationElements, VerbDefinition verbDefinition) {
+    public GreekConjugation(List<String> conjugationElements, VerbDefinition verbDefinition, NounRepository nounRepository) {
         this.verbDefinition = verbDefinition;
+        this.nounRepository = nounRepository;
         initializeMap(conjugationElements);
     }
 

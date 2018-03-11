@@ -35,4 +35,12 @@ public abstract class Declension {
         if(isCustom()) return "";
         return "h";//à coder le jour où ce ne sera pas un h pour les noms féminins en déclined state hebrew
     }
+
+    public CaseNumberGenre getCaseNumberGenreByEndingValue(String initialValue) {
+        for(CaseNumberGenre caseNumberGenre : allEndings.keySet()) {
+            String value = allEndings.get(caseNumberGenre);
+            if(initialValue.endsWith(value)) return caseNumberGenre;
+        }
+        return null;
+    }
 }

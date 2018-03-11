@@ -1,5 +1,6 @@
 package org.patrologia.translator.conjugation.hebrew;
 
+import org.patrologia.translator.basicelements.NounRepository;
 import org.patrologia.translator.conjugation.Conjugation;
 import org.patrologia.translator.conjugation.ConjugationLoader;
 import org.patrologia.translator.conjugation.VerbDefinition;
@@ -23,8 +24,9 @@ public class HebrewConjugation extends Conjugation {
 
     protected static List<String> times = Arrays.asList(new String[]{"AIP","AIF","PSP","ARAIPR","PALINF","PALFUT","HIFPER","HIFIPR","AIMP"});
 
-    public HebrewConjugation(List<String> conjugationElements, VerbDefinition verbDefinition) {
+    public HebrewConjugation(List<String> conjugationElements, VerbDefinition verbDefinition, NounRepository nounRepository) {
         this.verbDefinition = verbDefinition;
+        this.nounRepository = nounRepository;
         initializeMap(conjugationElements);
     }
 

@@ -1,5 +1,6 @@
 package org.patrologia.translator.conjugation;
 
+import org.patrologia.translator.casenumbergenre.CaseNumberGenre;
 import org.patrologia.translator.utils.StringUtils;
 
 /**
@@ -14,12 +15,21 @@ public class ConjugationPart {
     private String value;
     private String unaccentuedValue;
     private Integer positionInDefinition;
+    private boolean isNounRelated;
+    private CaseNumberGenre caseNumberGenre;
 
     public ConjugationPart(ConjugationPosition conjugationPosition, String value, String unaccentuedValue, Integer positionInDefinition) {
         this.conjugationPosition = conjugationPosition;
         this.value = cleanValue(value);
         this.unaccentuedValue = StringUtils.unaccentuate(unaccentuedValue);
         this.positionInDefinition = positionInDefinition;
+    }
+
+    public ConjugationPart(CaseNumberGenre caseNumberGenre, String value, String unaccentuedValue) {
+        this.conjugationPosition = ConjugationPosition.RELATED_TO_NOUN;
+        this.caseNumberGenre = caseNumberGenre;
+        this.value = value;
+        this.unaccentuedValue = StringUtils.unaccentuate(unaccentuedValue);
     }
 
     private String cleanValue(String value) {
@@ -36,6 +46,7 @@ public class ConjugationPart {
 
     public void updateValue(String target, String replacement) {
         value = value.replace(target,replacement);
+        unaccentuedValue = unaccentuedValue.replace(target,replacement);
     }
 
     public boolean isPlural() {

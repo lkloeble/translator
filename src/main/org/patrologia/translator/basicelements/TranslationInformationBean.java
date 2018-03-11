@@ -208,4 +208,8 @@ public class TranslationInformationBean {
         RootedConjugation rootedConjugation = nameForms.get(root + "@" + constructionName);
         return rootedConjugation.positionFound(initialValue);
     }
+
+    public RootedConjugation getRootedConjugationByConstructionName(String name) {
+        return nameForms.get(root + "@" + name);
+    }
 }

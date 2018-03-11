@@ -173,9 +173,10 @@
 διακον@noun!ος-ου%1(noun)=diacre%2(noun)=serviteur
 διακονε@verb!norm%1(verb)=servir
 διδασκ@verb!norm%1(verb)=enseigner
-διδαχ@noun!η-ης%1(noun)=instruction%2(noun)=enseignement
 διαχωριζ@verb!norm%1(verb)=separer
+διδαχ@noun!η-ης%1(noun)=instruction%2(noun)=enseignement
 διδασκαλ@noun!ος-ου%1(noun)=maître
+διδω@verb!norm%1(verb)=offrir
 δικαι@adj!ος-α-ον%1(adj)=équitable%2(adj)=juste
 δικαιοσυν@noun!η-ης%1(noun)=justice
 διο@prep%1(prep)=par quoi

@@ -1,5 +1,6 @@
 package org.patrologia.translator.conjugation.english;
 
+import org.patrologia.translator.basicelements.NounRepository;
 import org.patrologia.translator.conjugation.Conjugation;
 import org.patrologia.translator.conjugation.ConjugationComparator;
 import org.patrologia.translator.conjugation.ConjugationFactory;
@@ -15,10 +16,12 @@ import java.util.Map;
 public class EnglishConjugationFactory extends ConjugationFactory {
 
     private Map<String, List<String>> conjugationsDefinitionsList;
+    private NounRepository nounRepository;
 
-    public EnglishConjugationFactory(List<String> conjugationDefinitions, Map<String, List<String>> conjugationsDefinitionsList) {
+    public EnglishConjugationFactory(List<String> conjugationDefinitions, Map<String, List<String>> conjugationsDefinitionsList, NounRepository nounRepository) {
         conjugations = new HashMap<>();
         this.conjugationsDefinitionsList = conjugationsDefinitionsList;
+        this.nounRepository = nounRepository;
         populateConjugationMap(conjugationDefinitions);
     }
 
@@ -28,7 +31,7 @@ public class EnglishConjugationFactory extends ConjugationFactory {
         if(conjugationPattern == null) {
             return new NullEnglishConjugation();
         }
-        return new EnglishConjugation(conjugationsDefinitionsList.get(conjugationPattern), verbDefinition);
+        return new EnglishConjugation(conjugationsDefinitionsList.get(conjugationPattern), verbDefinition, nounRepository);
     }
 
     @Override

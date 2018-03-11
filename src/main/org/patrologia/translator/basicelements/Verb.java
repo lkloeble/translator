@@ -1,5 +1,7 @@
 package org.patrologia.translator.basicelements;
 
+import org.patrologia.translator.casenumbergenre.CaseNumberGenre;
+
 import java.util.HashSet;
 import java.util.Set;
 
@@ -125,4 +127,5 @@ public class Verb extends Word {
     public VerbRepository getVerbRepository() {
         return verbRepository;
     }
+
 }

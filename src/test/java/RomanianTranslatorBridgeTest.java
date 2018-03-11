@@ -39,10 +39,10 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         String romanianPathFile = "C:\\translator\\src\\test\\resources\\romanian_content.txt";
         String romanianResultFile = "C:\\translator\\src\\test\\resources\\romanian_expected_results.txt";
         RomanianDeclensionFactory romanianDeclensionFactory = new RomanianDeclensionFactory(getDeclensions(declensionsAndFiles), getDeclensionList(declensionsAndFiles, declensionPath));
-        VerbRepository verbRepository = new VerbRepository(new RomanianConjugationFactory(getRomanianConjugations(conjugationsAndFiles), getRomanianConjugationDefinitions(conjugationsAndFiles, conjugationPath)), Language.ROMANIAN, new DummyAccentuer(), getVerbs(verbFileDescription));
+        NounRepository nounRepository = new NounRepository(Language.ROMANIAN, romanianDeclensionFactory, new DummyAccentuer(),getFileContentForRepository(nounFileDescription));
+        VerbRepository verbRepository = new VerbRepository(new RomanianConjugationFactory(getRomanianConjugations(conjugationsAndFiles), getRomanianConjugationDefinitions(conjugationsAndFiles, conjugationPath), nounRepository), Language.ROMANIAN, new DummyAccentuer(), getVerbs(verbFileDescription));
         RomanianRuleFactory ruleFactory = new RomanianRuleFactory(verbRepository);
         PrepositionRepository prepositionRepository = new PrepositionRepository(Language.ROMANIAN, new RomanianCaseFactory(), ruleFactory, getFileContentForRepository(prepositionFileDescription));
-        NounRepository nounRepository = new NounRepository(Language.ROMANIAN, romanianDeclensionFactory, new DummyAccentuer(),getFileContentForRepository(nounFileDescription));
         Analizer romanianAnalyzer = new RomanianAnalyzer(prepositionRepository, nounRepository, verbRepository);
         Translator frenchTranslator = new FrenchTranslator(getFileContentForRepository(romanianFrenchDataFile), getFileContentForRepository(frenchVerbsDataFile), verbRepository, nounRepository, declensionPath, declensionsAndFiles, romanianDeclensionFactory);
         translatorBridge = new TranslatorBridge(romanianAnalyzer, frenchTranslator);

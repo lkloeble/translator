@@ -54,7 +54,7 @@ public class VerbRepository {
     private void addAllConjugationAndRoot(String time, String baseConjugationRoot, String root, Conjugation conjugation) {
         String value = conjugation.getTerminationsWithRootAllValues(baseConjugationRoot, time);
         translationBeansMap.addConjugationForGlobalKey(root, time);
-        RootedConjugation rootedConjugation = new RootedConjugation(time, value);
+        RootedConjugation rootedConjugation = new RootedConjugation(time, value,conjugation.isRelatedToParticipeAndIsANoun(), conjugation.getDeclensionPattern(),conjugation.getDeclension());
         VerbDefinition verbDefinition = conjugation.getVerbDefinition();
         if (verbDefinition != null && verbDefinition.hasCustomReplacements()) {
             TranslationReplacements translationReplacements = new TranslationReplacements(Collections.singletonList(verbDefinition.getTranslationInformationReplacement()));
@@ -65,7 +65,11 @@ public class VerbRepository {
             TranslationRules translationRules = verbDefinition.getTranslationRules();
             if(translationRules !=  null) conjugationPartList = translationRules.transform(conjugationPartList, time);
         }
-        rootedConjugationMap.put(root + "@" + time, new RootedConjugation(time, conjugationPartList));
+        if(rootedConjugation.isParticipleRelatedToNounDeclension()) {
+            rootedConjugationMap.put(root + "@" + time, rootedConjugation);
+        } else {
+            rootedConjugationMap.put(root + "@" + time, new RootedConjugation(time, conjugationPartList));
+        }
         conjugationPartList.stream().forEach(singleConjugationPart -> conjugationsMap.put(singleConjugationPart.getValue(), root));
         conjugationPartList.stream().forEach(singleConjugationPart -> conjugationsMap.put(singleConjugationPart.getUnaccentuedValue(), root));
         //conjugationPartList.stream().forEach(singleConjugationPart -> conjugationsMap.put(unaccentued(singleConjugationPart.getValue()), root));

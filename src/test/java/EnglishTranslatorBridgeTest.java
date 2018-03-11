@@ -40,10 +40,10 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
         String englishPathFile = "C:\\translator\\src\\test\\resources\\english_content.txt";
         String englishResultFile = "C:\\translator\\src\\test\\resources\\english_expected_results.txt";
         EnglishDeclensionFactory englishDeclensionFactory = new EnglishDeclensionFactory(getDeclensions(declensionsAndFiles), getDeclensionList(declensionsAndFiles, declensionPath));
-        VerbRepository verbRepository = new VerbRepository(new EnglishConjugationFactory(getEnglishConjugations(conjugationsAndFiles), getEnglishConjugationDefinitions(conjugationsAndFiles, conjugationPath)), Language.ENGLISH, new DummyAccentuer() ,getVerbs(verbFileDescription));
+        NounRepository nounRepository = new NounRepository(Language.ENGLISH, englishDeclensionFactory, new DummyAccentuer(),getFileContentForRepository(nounFileDescription));
+        VerbRepository verbRepository = new VerbRepository(new EnglishConjugationFactory(getEnglishConjugations(conjugationsAndFiles), getEnglishConjugationDefinitions(conjugationsAndFiles, conjugationPath),nounRepository), Language.ENGLISH, new DummyAccentuer() ,getVerbs(verbFileDescription));
         EnglishRuleFactory ruleFactory = new EnglishRuleFactory();
         PrepositionRepository prepositionRepository = new PrepositionRepository(Language.ENGLISH, new EnglishCaseFactory(), ruleFactory, getFileContentForRepository(prepositionFileDescription));
-        NounRepository nounRepository = new NounRepository(Language.ENGLISH, englishDeclensionFactory, new DummyAccentuer(),getFileContentForRepository(nounFileDescription));
         Analizer englishAnalyzer = new EnglishAnalyzer(prepositionRepository, nounRepository, verbRepository);
         Translator frenchTranslator = new FrenchTranslator(getFileContentForRepository(englishFrenchDataFile), getFileContentForRepository(frenchVerbsDataFile), verbRepository, nounRepository, declensionPath, declensionsAndFiles, englishDeclensionFactory);
         translatorBridge = new TranslatorBridge(englishAnalyzer, frenchTranslator);
@@ -1023,6 +1023,6 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
         @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("lightfoot_ch3FF", translatorBridge);
+        checkInMaps("toto", translatorBridge);
     }
 }
