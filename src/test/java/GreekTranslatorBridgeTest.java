@@ -52,8 +52,7 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getFrenchVerbs(String frenchVerbsDataFile) {
         /*
         return Arrays.asList(new String[]{
-                "offrir@NORM%[INFINITIVE]=[offrir]%[IPR]=[offre,offres,offre,offrons,offrez,offrent]%[AIF]=[offirai,offriras,offrira,offrirons,offrirez,offriront]%[AII]=[offrais,offrais,offrait,offrions,offriez,offraient]%[PAP]=[offert]%[PAPR]=[offrant]",
-                "prendre@NORM%[INFINITIVE]=[prendre]%[IPR]=[prends,prends,prend,prenons,prenez,prennent]%[AIP]=[pris,pris,prit,primes,prites,prirent]%[AIMP]=[-,prends,-,prenons,prenez,-]%[AII]=[prenais,prenais,prenait,prenions,preniez,prenaient]%[PAP]=[pris]%[ACP]=[prendrais,prendrais,prendrait,prendrions,prendriez,prendraient]%[PAPR]=[prenant]"
+                "poser@NORM%[INFINITIVE]=[poser]%[IPR]=[pose,poses,pose,posons,posez,posent]%[AIF]=[poserai,poseras,posera,poserons,poserez,poseront]%[AIP]=[posai,posas,posa,posâmes,posâtes,posèrent]%[PII]=[posais,posais,posait,posions,posiez,posaient]%[PAP]=[posé]"
         });
         */
         return getFileContentForRepository(frenchVerbsDataFile);
@@ -62,9 +61,9 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getGreekDico(String greekFrenchDataFile) {
         /*
         return Arrays.asList(new String[]{
-                "διδω@verb!norm%1(verb)=offrir",
-                "η@noun!inv%1(noun)=la",
-                "λαμβαν@verb!norm%1(verb)=prendre,recevoir%2(verb)=découvrir,saisir,amener,emmener%3(verb)=prendre"
+                "επανω@prep%1(prep)=au dessus",
+                "επιφερ@verb!norm%1(verb)=poser",
+                "θε@noun!ος-ου%1(noun)=dieu"
         });
         */
         return getFileContentForRepository(greekFrenchDataFile);
@@ -73,7 +72,7 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getPrepositions(String prepositionFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "αι@prep()"
+                "επανω@prep()"
         });
         */
         return getFileContentForRepository(prepositionFileDescription);
@@ -82,11 +81,10 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getNouns(String nounFileDescription) {
         /*
             return Arrays.asList(new String[]{
-                    "αβια@masc%inv",
-                    "η@fem%inv"
+                    "θε@masc%ος-ου"
             });
             */
-            return getFileContentForRepository(nounFileDescription);
+        return getFileContentForRepository(nounFileDescription);
         }
 
     private List<Declension> getDeclensionList(String file, String directory) {
@@ -103,8 +101,7 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "διδω,ειν,[μι-ς],(PAP*διδω*διδ*0*[ους-ουσα-ον])",
-                "λαμβαν,ειν,[ω-εις],(AII*λαμ*ελαμ*0)"
+                "επιφερ,ειν,[ω-εις],(PII*επιφ*επεφ*0)"
         });
         */
         return getFileContentForRepository(verbFileDescription);
@@ -691,6 +688,6 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failed_ones() {
         assertTrue(true);
-        //checkInMaps("clement1F", translatorBridge);
+        checkInMaps("toto", translatorBridge);
     }
 }

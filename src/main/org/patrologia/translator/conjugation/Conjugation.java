@@ -39,7 +39,7 @@ import java.util.*;
  */
 public abstract class Conjugation {
 
-    protected Map<String, List<String>> allEndings = new HashMap<String, List<String>>();
+    protected ConjugationEndingList allEndings = new ConjugationEndingList();
     protected VerbDefinition verbDefinition;
     protected NounRepository nounRepository;
     protected boolean isRelatedToParticipeAndIsANoun;
@@ -54,9 +54,7 @@ public abstract class Conjugation {
     public abstract List<String> getCongujationByTimePattern(String timePattern);
 
     public List<String> getAllEndings() {
-        List<String> allEndingsAgregate = new ArrayList<>();
-        allEndings.values().stream().forEach(list -> allEndingsAgregate.addAll(list));
-        return allEndingsAgregate;
+        return allEndings.getEndingsAgregate();
     }
 
     public String rootCorrectionByTimePattern(String root, String timePattern) {
@@ -80,8 +78,7 @@ public abstract class Conjugation {
     }
 
     public List<String> getTimes() {
-        return new ArrayList(allEndings.keySet());//this returns only the times available in the conjugation file
-        //return times; this returns all the times available in the language
+        return allEndings.getPresentTimeInConjugation();
     }
 
 
@@ -200,7 +197,7 @@ public abstract class Conjugation {
     public String toString() {
         return "Conjugation{" +
                 "verbDefinition=" + verbDefinition.getRoot() +
-                ", allEndings=" + allEndings.keySet() +
+                ", allEndings=" + allEndings.getPresentTimeInConjugation() +
                 '}';
     }
 
