@@ -153,7 +153,7 @@ limit,[call]
 live,[live]
 locate,[live]
 love,[live]
-make,[live],(AIP*maked*made*0@PAPR*make*mak*0)
+make,[live],(AIP*maked*made*0@PAPR*make*mak*0@PAP*maked*made*0)
 maintain,[call]
 may,[live],(IPR*mays*may*0@AIP*mayd*might*0)
 mean,[live],(PAP*meand*meant*0)
@@ -208,7 +208,7 @@ return,[call]
 rise,[live],(AIP*rised*rose*0@PAPR*rise*ris*0)
 root,[call]
 rule,[live]
-say,[live],(AII*say*sai*0)
+say,[live],(AII*say*sai*0@PAP*say*sai*0)
 sanctify,[live],(AIP*fyd*fied*1@PAP*sanctifyd*sanctified*0)
 scrape,[live]
 seat,[call]

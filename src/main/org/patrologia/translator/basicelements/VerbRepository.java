@@ -255,4 +255,9 @@ public class VerbRepository {
         }
         return verb;
     }
+
+    public boolean isConjugation(Verb verb, String conjugationName) {
+        RootedConjugation rootedConjugation = rootedConjugationMap.get(verb.getRoot() + "@PAP");
+        return rootedConjugation != null && rootedConjugation.contains(verb.getInitialValue());
+    }
 }

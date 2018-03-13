@@ -707,5 +707,5 @@ lightfoot_ch4SS=>And of the river of Amanah, of which the Aruch speaks, mention 
 lightfoot_ch4TT=>"they that dwell upon the river Amanah, shall offer thee a gift" etc.
 
 
-toto=>cursed
+toto=>Lightfoot's commentary
 

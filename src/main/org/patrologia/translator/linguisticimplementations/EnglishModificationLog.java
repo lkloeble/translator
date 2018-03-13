@@ -47,6 +47,7 @@ public class EnglishModificationLog extends ModificationLog {
                         Noun mayBeInversedNoun = (Noun)mayBeInversed;
                         List<CaseNumberGenre> mayBeInversedPossibleCaseNumbers = mayBeInversedNoun.getPossibleCaseNumbers();
                         mayBeInversed.modifyContentByPatternReplacement(lastValue, firstValue);
+                        mayBeInversed.setRoot(firstValue);
                         mayBeInversedNoun.setGender(currentGender);
                         currentNoun.setGender(mayBeInversedGender);
                         mayBeInversedNoun.setPossibleCaseNumbers(currentNounPossibleCaseNumbers);

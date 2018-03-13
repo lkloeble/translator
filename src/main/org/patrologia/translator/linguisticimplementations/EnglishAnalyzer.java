@@ -51,7 +51,29 @@ public class EnglishAnalyzer implements Analizer {
         Phrase replaceWouldVerbalConstruction = replaceWouldVerbalConstruction(replaceDoVerbalConstruction);
         Phrase replaceWillVerbalConstruction = replaceWillVerbalConstruction(replaceWouldVerbalConstruction);
         Phrase replaceLikeVerbalPresentParticipleConstruction = replaceLikeVerbalConstruction(replaceWillVerbalConstruction);
-        return phraseAnalizer.affectAllPossibleInformationsBetweenWords(Language.ENGLISH, replaceLikeVerbalPresentParticipleConstruction);
+        Phrase affectPAPConjugationForPrecedingHaveAndBeVerbs = findPAPConjugationFOrm(replaceLikeVerbalPresentParticipleConstruction);
+        return phraseAnalizer.affectAllPossibleInformationsBetweenWords(Language.ENGLISH, affectPAPConjugationForPrecedingHaveAndBeVerbs);
+    }
+
+    private Phrase findPAPConjugationFOrm(Phrase phrase) {
+        Set<Integer> indices = phrase.keySet();
+        for(int indice : indices) {
+            WordContainer currentContainer = phrase.getWordContainerAtPosition(indice);
+            WordContainer followingContainer = phrase.getWordContainerAtPosition(indice + 1);
+            String currentWord = currentContainer.getInitialValue();
+            String followingWord = followingContainer.getInitialValue();
+            if(!verbRepository.hasVerb(currentWord)&& verbRepository.hasVerb(followingWord)) continue;
+            Verb currentVerb = verbRepository.getVerb(currentWord);
+            if(!currentVerb.getRoot().equals("have") && !currentVerb.getRoot().equals("be")) continue;
+            Verb followingVerb = verbRepository.getVerb(followingWord);
+            followingVerb.setInitialValue(followingWord);
+            if(verbRepository.isConjugation(followingVerb,"PAP")) {
+                followingVerb.setConjugation("PAP");
+                WordContainer newWordContainer = new WordContainer(followingVerb,indice+1,Language.ENGLISH);
+                phrase.addWordContainerAtPosition(indice+1, newWordContainer, phrase);
+            }
+        }
+        return phrase;
     }
 
     private String handleSpecialChars(String sentence) {
