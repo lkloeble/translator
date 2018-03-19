@@ -5,6 +5,7 @@ anerkenn,en,[leben],(PAP*anerke*anerka*0)
 anfang,en,[leben]
 angehor,en,[leben]
 anruf,en,[leben]
+anzuseh,en,[leben]
 anzustell,en,[leben]
 anzuzweif,eln,[sammeln]
 auffind,en,[leben]
@@ -12,6 +13,7 @@ aufbau,en,[leben],(PAP*aufbaut*aufgebaut*0)
 aufgeh,en,[leben]
 aufhor,en,[leben]
 aufles,en,[leben],(PAP*aufles*aufgelesen*0)
+aufwachs,en,[genesen]
 aufzieh,en,[leben],(PAP*aufzieh*aufgezogen*0)
 auslass,en,[genesen],(AII*auslass*ausliess*0)
 ausseh,en,[leben],(IPR14*ausseh*aussieh*0)
@@ -78,6 +80,7 @@ erreich,en,[leben]
 erprob,en,[leben]
 erschein,en,[leben]
 erwachs,en,[genesen]
+erzeug,en,[leben]
 ess,en,[leben],(IPR1*ess*is*0)
 fahr,en,[leben],(AIP*fahr*fuhr*0)
 fang,en,[leben]
@@ -203,6 +206,7 @@ stor,en,[leben]
 studier,en,[leben]
 such,en,[leben],(AIP*such*sucht*0)
 surf,en,[leben]
+tauf,en,[leben],(PAP*tauf*getauft*0)
 text,en,[mochten]
 tipp,en,[leben]
 trag,en,[lassen],(AIP*trag*trug*0)
@@ -247,6 +251,7 @@ woll,en,[wollen],(IPR012*woll*will*0@AII*will*woll*0)
 wohn,en,[leben]
 wunsch,en,[leben]
 zeig,en,[leben]
+zerstor,en,[leben]
 zieh,en,[rufen],(PAP*ziehen*gezogen*0@AIP*zieh*zog*0)
 zulass,en,[lassen],(PAP*zulassen*zugelassen*0)
 zumach,en,[leben]

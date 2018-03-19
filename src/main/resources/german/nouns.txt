@@ -78,6 +78,7 @@ b@neut%inv
 bab@neut%inv
 babel@neut%inv
 babylonien@neut%jahrzehnt
+bad@neut%licht
 bahn@fem%meinfem
 bahnhof@fem%meinfem
 banane@fem%flasche
@@ -162,6 +163,7 @@ die@fem%inv
 diener@masc%arbeiter
 dienlich@adj%ausreichend
 dienstag@neut%inv
+ding@fem%original
 dionysisch@adj%ausreichend
 direktor@masc%inv
 diskussion@fem%meinfem
@@ -193,6 +195,7 @@ eintrittskarte@neut%flasche
 einzusenden@neut%inv
 england@neut%inv
 endlich@neut%inv
+entschlossenheit@neut%inv
 eifer@neut%inv
 eigne@adj%inv
 eingehung@masc%meinmasc
@@ -206,6 +209,7 @@ entbehrung@fem%meinfem
 epikurisch@adj%ausreichend
 erde@fem%flasche
 erdgeschoss@masc%inv
+erfahrung@fem%meinfem
 erfolg@masc%jahrzehnt
 erforderlich@adj%ausreichend
 erfreulich@adj%ausreichend
@@ -264,6 +268,7 @@ florenz@fem%inv
 flote@fem%norm
 flug@neut%meinmasc
 flugzeug@neut%meinmasc
+formel@neut%masc
 fortfuhrung@fem%meinfem
 frage@fem%flasche
 fragezeichen@neut%inv
@@ -316,6 +321,7 @@ geltend@adj%ausreichend
 gemalde@fem%meer
 gemaldegalerie@fem%flasche
 gemeinde@fem%flasche
+gemeinsam@adj%ausreichend
 genau@adj%ausreichend
 genealogie@fem%inv
 genealogisch@adj%ausreichend
@@ -379,6 +385,7 @@ heer@neut%meer
 heiligtum@neut%heiligtum
 heim@neut%meer
 heimlichkeit@neut%meinmasc
+heiss@adj%ausreichend
 heiterkeit@fem%norm
 helles@neut%inv
 herkunft@fem%norm
@@ -446,6 +453,7 @@ johannes@masc%inv
 jorg@neut%inv
 jos@neut%inv
 jose@neut%inv
+josephus@neut%inv
 josua@neut%inv
 journalist@masc%norm
 jud@masc%meinmasc
@@ -525,6 +533,7 @@ losend@adj%ausreichend
 lukas@masc%inv
 lust@fem%angst
 lustbarkeit@fem%meinfem
+lustig@adj%ausreichend
 magazin@masc%norm
 makel@masc%zeichen
 makellos@adj%ausreichend
@@ -659,6 +668,7 @@ praktisch@adj%norm
 priester@masc%zeichen
 priesterschaft@neut%inv
 priesterlich@adj%ausreichend
+priestertum@neut%inv
 problem@masc%norm
 problematisch@adj%ausreichend
 produkt@masc%ort
@@ -738,6 +748,7 @@ schluss@neut%norm
 schlussel@neut%inv
 schmerz@masc%schmerz
 schon@adj%inv
+schonheit@fem%meinfem
 schonst@adj%ausreichend
 schopfern@masc%arbeiter
 schriften@fem%inv
@@ -753,6 +764,7 @@ sechzehn@neut%inv
 seele@fem%flasche
 sekretarin@fem%inv
 selbstandig@adj%ausreichend
+seltne@adj%inv
 sensibilitat@fem%inv
 sicher@adj%ausreichend
 siebenten@neut%inv
@@ -808,6 +820,7 @@ tatigkeit@fem%meinfem
 technik@fem%meinfem
 tee@neut%inv
 teig@masc%jahrzehnt
+teilhat@neut%inv
 telefon@fem%meinfem
 teman@neut%inv
 tempel@neut%arbeiter
