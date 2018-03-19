@@ -474,6 +474,7 @@ interpretation@fem%normfem
 isle@fem%normfem
 israel@neut%invmasc
 israelite@neut%normmasc
+jabal@masc%invmasc
 james@masc%invmasc
 jealous@neut%invmasc
 jerusalem@neut%invmasc
@@ -537,6 +538,7 @@ limit@neut%normmasc
 line@neut%normmasc
 lip@neut%normmasc
 little@adj%normmasc
+livestock@neut%invmasc
 living@neut%invmasc
 liz@fem%invfem
 loave@neut%normmasc
@@ -913,6 +915,7 @@ teaching@neut%normmasc
 temple@neut%normmasc
 ten@neut%invmasc
 tendenc@fem%endy
+tent@fem%normfem
 terrible@neut%invmasc
 testament@neut%normmasc
 testimon@neut%endy
@@ -931,6 +934,7 @@ thought@neut%normmasc
 thousand@neut%normmasc
 thumb@neut%normmasc
 three@neut%invmasc
+tiberias@neut%invmasc
 ticket@neut%normmasc
 tiller@neut%normmasc
 time@neut%normmasc

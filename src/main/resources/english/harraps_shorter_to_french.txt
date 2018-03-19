@@ -714,6 +714,7 @@ isthere@prep%1(prep)=y a t il
 it@prep%1(prep)=cela
 its@prep%1(prep)=son
 itself@prep%1(prep)=lui-même
+jabal@noun!invmasc%1(noun)=jabal
 james@noun!invmasc%1(noun)=jacques
 jealous@noun!invmasc%1(noun)=jaloux
 jerusalem@noun!invmasc%1(noun)=jerusalem
@@ -800,6 +801,7 @@ line@noun!normmasc%1(noun)=ligne
 lip@noun!normmasc%1(noun)=bord%2(noun)=levre
 little@adj!normmasc%1(adj)=petit
 live@verb!norm%1(verb)=vivre
+livestock@noun!invmasc%1(noun)=bovins%2(noun)=troupeau%3(noun)=bétail
 living@noun!invmasc%1(noun)=vivant
 liz@noun!invmasc%1(noun)=liz
 loave@noun!normmasc%1(noun)=pain
@@ -939,7 +941,7 @@ number@noun!normmasc%1(noun)=nombre
 numbered@noun!invmasc%1(noun)=compté
 obviously@prep%1(prep)=évidemment
 observe@verb!norm%1(verb)=observer
-occasion@noun!normmasc%1(adj)=occasionn
+occasion@noun!normmasc%1(adj)=occasion
 occasional@adj!normmasc%1(adj)=occasionnel
 odd@noun!normmasc%1(noun)=impair%2(noun)=étrange
 oh@prep%1(prep)=oh
@@ -1328,6 +1330,7 @@ temple@noun!normmasc%1(noun)=temple
 ten@noun!invmasc%1(noun)=dix
 tend@verb!norm%1(verb)=soigner%2(verb)=entretenir%3(verb)=surveiller
 tendenc@noun!endy%1(noun)=tendance
+tent@noun!normfem%1(noun)=tente
 terrible@noun!invmasc%1(noun)=terrible
 testament@noun!normmasc%1(noun)=testament
 testimon@noun!endy%1(noun)=témoignage
@@ -1344,6 +1347,7 @@ then@prep%1(prep)=alors
 thence@prep%1(prep)=puis%2(prep)=dès lors
 theologically@noun!invmasc%1(noun)=théologiquement
 there@prep%1(prep)=là
+thereby@prep%1(prep)=par conséquent
 therefore@prep%1(prep)=pour cette raison%2(prep)=par conséquent%3(prep)=donc
 thereis@prep%1(prep)=il y a
 thereof@prep%1(prep)=de ce dernier
@@ -1367,6 +1371,7 @@ three@noun!invmasc%1(noun)=trois
 thumb@noun!normmasc%1(noun)=pouce
 thus@prep%1(prep)=puis
 thy@prep%1(prep)=votre
+tiberias@noun!invmasc%1(noun)=tibériade
 ticket@noun!normmasc%1(noun)=ticket
 till@prep%1(prep)=jusqu'à ce que
 till@verb!norm%1(verb)=labourer

@@ -178,6 +178,7 @@ themselves@prep()
 then@prep()
 thence@prep()
 there@prep()%[searchIsAndReplaceByThereis,searchIsBeforeReplaceByThereIs]
+thereby@prep()
 therefore@prep()
 thereis@prep()
 thereof@prep()
