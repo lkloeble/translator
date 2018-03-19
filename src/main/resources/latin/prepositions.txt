@@ -18,6 +18,7 @@ circa@prep()%[electAccusativeForFollowingNoun]
 circum@prep()%[electAccusativeForFollowingNoun]
 cito@prep()
 continenter@prep()
+contra@prep()
 coram@adv%prep(abl)%[electAblativeForFollowingNoun]
 cui@prep()%[electDativeForFollowingNoun]
 cuius@prep()
@@ -172,6 +173,7 @@ sed@prep()
 semet@prep()
 semper@prep()
 septem@prep()
+sese@prep(acc)
 seu@prep()
 si@prep()
 sibi@prep()

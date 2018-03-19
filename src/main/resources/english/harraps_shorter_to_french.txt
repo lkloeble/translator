@@ -17,6 +17,7 @@ activit@noun!endy%1(noun)=activité
 actually@noun!invmasc%1(noun)=actuellement
 acquire@verb!norm%1(verb)=acquerir
 adabrev@noun!invmasc%1(noun)=après JC
+adah@noun!invfem%1(noun)=adah
 adam@noun!invmasc%1(noun)=adam
 adequate@adj!normmasc%1(adj)=adéquate
 adorned@adj!invmasc%1(adj)=orné
@@ -750,6 +751,7 @@ know@verb!norm%1(verb)=savoir
 knowledge@noun!normmasc%1(noun)=connaissance%2(noun)=science%3(noun)=savoir
 lake@noun!normmasc%1(noun)=lac
 lamb@noun!normmasc%11(noun)=agneau
+lamech@noun!invmasc%1(noun)=lamech
 land@noun!normmasc%1(noun)=pays%2(noun)=terre
 language@noun!normmasc%1(noun)=langue
 largely@prep%1(prep)=largement
@@ -937,6 +939,7 @@ number@noun!normmasc%1(noun)=nombre
 numbered@noun!invmasc%1(noun)=compté
 obviously@prep%1(prep)=évidemment
 observe@verb!norm%1(verb)=observer
+occasion@noun!normmasc%1(adj)=occasionn
 occasional@adj!normmasc%1(adj)=occasionnel
 odd@noun!normmasc%1(noun)=impair%2(noun)=étrange
 oh@prep%1(prep)=oh
@@ -1507,7 +1510,7 @@ whom@prep%1(prep)=que
 whose@prep%1(prep)=duquel
 whosoever@prep%1(prep)=quiconque
 why@prep%1(prep)=pourquoi
-wife@noun!invmasc%1(noun)=femme%2(noun)=épouse
+wife@noun!normfem%1(noun)=femme%2(noun)=épouse
 will@noun!invmasc%1(noun)=volonté
 will@verb!norm%1(verb)=vouloir
 winged@noun!invmasc%1(noun)=ailé
@@ -1544,3 +1547,4 @@ yield@verb!norm%1(verb)=produire
 you@prep%1(prep)=tu
 young@noun!normmasc%1(noun)=jeune
 your@noun!invmasc%1(noun)=ton
+zillah@noun!invfem%1(noun)=zillah

@@ -11,6 +11,17 @@ public class EnglishCaseFactory extends CaseFactory {
 
     @Override
     public Case getCaseByStringPattern(String pattern, String differentier) {
-        return new NullCase();
+        if(pattern == null) {
+            return null;
+        }
+        if("nom".equals(pattern.toLowerCase())) {
+            return getNominative();
+        }
+        return null;
+
+    }
+
+    public static NominativeEnglishCase getNominative() {
+        return NominativeEnglishCase.getInstance();
     }
 }

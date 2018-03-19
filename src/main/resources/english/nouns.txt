@@ -8,6 +8,7 @@ active@adj%normmasc
 activit@fem%endy
 actually@neut%invmasc
 adabrev@neut%invmasc
+adah@fem%invfem
 adam@masc%invmasc
 adequate@adj%normmasc
 adorned@adj%invmasc
@@ -504,6 +505,7 @@ kitchen@neut%normmasc
 knowledge@neut%normmasc
 lake@neut%normmasc
 lamb@masc%normmasc
+lamech@masc%invmasc
 land@neut%normmasc
 language@neut%normmasc
 last@adj%invmasc
@@ -636,6 +638,7 @@ novel@adj%invmasc
 num@neut%invmasc
 number@neut%normmasc
 numbered@neut%invmasc
+occasion@neut%normmasc
 occasional@adj%normmasc
 odd@masc%normmasc
 officer@neut%normmasc
@@ -1009,7 +1012,7 @@ wheel@fem%normfem
 wheel@fem%church
 white@adj%normmasc
 whole@adj%invmasc
-wife@fem%invfem
+wife@fem%normfem[nomplr:wives]
 will@fem%invmasc
 wine@neut%normmasc
 winged@neut%invmasc
@@ -1032,3 +1035,4 @@ year@neut%normmasc
 yes@neut%invmasc
 young@masc%normmasc
 your@neut%invmasc
+zillah@fem%invfem

@@ -131,6 +131,7 @@ indig,eo,es,ere,,,[eo-es],(AIP*indig*indigu*0)
 incip,io,is,ere,,,[io-is],(AIP*incip*incep*0)
 induc,o,is,ere,duxi,ductum,[o-is],(AIP*induc*indux*0)
 infer,o,s,re,tuli,latum,[o-s]
+inform,o,as,are,,,[o-as]
 infig,o,is,ere,,,[o-is]
 inlumin,o,as,are,,,[o-as]
 inquam@IRREGULAR%[IPR]=[inquam,inquis,inquit,inquimus,inquitis,inquiunt]
@@ -212,6 +213,7 @@ relinqu,o,is,ere,,,[o-is],(AIP*relin*reli*0)
 repl,eo,es,ere,,,[eo-es]
 repudi,o,as,are,,,[o-as]
 requiesc,o,is,ere,,,[o-is],(AIP*requiesc*requiev*0)
+respect,o,as,are,,,[o-as]
 respond,eo,es,ere,,,[eo-es]
 rest,o,as,are,,,[o-as]
 result,o,as,are,,,[o-as]
@@ -231,6 +233,7 @@ serv,o,as,are,,,[o-as]
 solv,o,is,ere,,,[o-is]
 son,o,as,are,,,[o-as]
 spect,o,as,are,,,[o-as]
+sper,o,as,are,,,[o-as]
 stud,eo,es,ere,,,[eo-es]
 subic,io,is,ere,,,[io-is]
 sum@IRREGULAR%[IPR]=[sum,es,est,sumus,estis,sunt]%[AII]=[eram,eras,erat,eramus,eratis,erant]%[AIF]=[ero,eris,erit,erimus,eritis,erunt]%[INFINITIVE]=[esse]%[ASP]=[sim,sis,sit,simus,sitis,sint]%[ASI]=[essem,esses,esset,essemus,essetis,essent]%[AIP]=[fui,fuisti,fuit,fuimus,fuistis,fuerunt]%[AIPP]=[fueram,fueras,fuerat,fueramus,fueratis,fuerant]%[IAP]=[fuisse]%[AIFP]=[fuero,fueris,fuerit,fuerimus,fueritis,fuerint]
@@ -246,6 +249,7 @@ toll,o,is,ere,,,[o-is]
 tract,o,as,are,avi,atum,[o-as],(VENO*tract*xxx*0)
 trad,o,is,ere,,,[o-is],(AIP*trad*tradid*0)
 transmitt,o,is,ere,,,[o-is]
+vad,o,is,ere,,,[o-is]
 vag,or,aris,ari,,,[or-aris]
 val,eo,es,ere,ui,itum,[eo-es]
 veh,o,is,ere,,,[o-is]

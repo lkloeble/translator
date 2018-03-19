@@ -1,3 +1,4 @@
+abject@adj%us-a-um
 abominand@adj%us-a-um
 abrogat@adj%us-a-um
 abyss@masc%us-i
@@ -63,6 +64,7 @@ arid@adj%us-a-um
 arimin@neut%um-i
 arm@fem%a-ae
 asi@fem%a-ae
+assyri@masc%us-i
 atlantic@adj%us-a-um
 atrament@neut%um-i
 atri@neut%um-i
@@ -75,6 +77,7 @@ aureli@fem%a-ae
 av@fem%is-is
 ave@neut%inv
 bacul@neut%um-i
+baptist@masc%a-ae
 barnabe@masc%inv
 bdelli@neut%um-i
 beat@adj%us-a-um
@@ -188,6 +191,7 @@ deli@fem%a-ae
 delphi@neut%inv
 demonstrat@adj%us-a-um
 demonstrati@fem%o-onis
+desert@adj%us-a-um
 desideri@neut%um-i
 despect@adj%us-a-um
 detriment@neut%um-i
@@ -229,12 +233,14 @@ ecclesi@fem%a-ae
 effeminand@adj%us-a-um
 effus@adj%us-a-um
 elect@adj%us-a-um
+enuntiat@adj%us-a-um
 episcop@masc%us-i
 epistol@fem%a-ae
 equ@masc%us-i
 esc@fem%a-ae
 ev@fem%a-ae
 euboe@fem%a-ae
+eufrates@neut%inv
 europ@fem%a-ae
 evangeli@neut%um-i
 exempl@neut%um-i
@@ -266,6 +272,7 @@ fin@fem%is-is
 finitim@adj%us-a-um
 firmament@neut%um-i
 firm@adj%us-a-um
+firmissim@adj%us-a-um
 flamini@fem%a-ae
 flamm@fem%a-ae
 flum@neut%en-inis
@@ -336,6 +343,7 @@ impluvi@neut%um-i
 improb@adj%us-a-um
 inan@adj%is-is-e
 incens@neut%um-i
+indici@neut%um-i
 incredibil@adj%is-is-e
 indign@adj%us-a-um
 induct@adj%us-a-um
@@ -365,6 +373,8 @@ iuli@masc%us-i
 iuli@fem%a-ae
 iument@neut%um-i
 iura@neut%inv
+iurand@neut%um-i
+iu@neut%s-ris
 jactur@adj%us-a-um
 janu@fem%a-ae
 jentacul@neut%um-i
@@ -497,6 +507,7 @@ observat@adj%us-a-um
 obtentur@adj%us-a-um
 occas@masc%us-us
 occasi@fem%o-onis
+occupat@adj%us-a-um
 occupati@fem%o-onis
 ocean@masc%us-i
 ocul@masc%us-i
@@ -513,6 +524,7 @@ oppid@masc%um-i
 optim@adj%us-a-um
 opuscul@masc%um-i
 oracul@neut%um-i
+oratio@fem%x-nis
 orgetorix@neut%inv[gensing:orgetorigis]
 orien@adj%s-s-s
 ornat@masc%us-us
@@ -565,6 +577,7 @@ pomif@adj%er-era-erum
 popul@masc%us-i
 port@fem%a-ae
 potenti@fem%a-ae
+potentissim@adj%us-a-um
 potissim@adj%us-a-um
 praecept@neut%um-i
 praeconcept@adj%us-a-um
@@ -602,6 +615,7 @@ quinque@neut%inv
 qint@masc%us-i
 querimoni@fem%a-ae
 quint@masc%us-a-um
+ratio@fem%x-nis
 recen@neut%s-tis
 recitati@fem%o-onis
 rect@adj%us-a-um
@@ -663,6 +677,7 @@ septim@adj%us-a-um
 sequan@masc%us-i
 sequan@fem%a-ae
 serv@masc%us-i
+serviend@adj%us-a-um
 severi@adj%or-or-us
 sex@neut%inv
 sext@adj%us-a-um
@@ -710,6 +725,7 @@ tessel@fem%a-ae
 testament@neut%um-i
 testimoni@neut%um-i
 tiberis@neut%inv
+tigri@neut%s-dis
 tit@masc%us-i
 tot@adj%us-a-um
 totius@adj%inv

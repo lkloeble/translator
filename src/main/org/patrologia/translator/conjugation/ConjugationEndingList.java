@@ -30,8 +30,17 @@ public class ConjugationEndingList {
         return null;
     }
 
-    public void put(String conjugationName, List<String> endings) {
-        ConjugationEnding conjugationEnding = new ConjugationEnding(conjugationName, endings);
+    public void put(String conjugationName, boolean relatedToNoun, List<String> endings) {
+        ConjugationEnding conjugationEnding = new ConjugationEnding(conjugationName, relatedToNoun, endings);
         conjugationEndings.add(conjugationEnding);
+    }
+
+    public boolean isRelatedToNoun(String conjugationName) {
+        for(ConjugationEnding conjugationEnding : conjugationEndings) {
+            if(conjugationEnding.getEndingName().equals(conjugationName)) {
+                return conjugationEnding.isRelatedToNoun();
+            }
+        }
+        return false;
     }
 }

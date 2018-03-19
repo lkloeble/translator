@@ -64,8 +64,7 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "gehor,en,[leben]",
-                "hor,en,[leben],(PAP*hor*gehor*0)"
+                "plan,en,[leben],(PAP*plan*geplant*0)"
         });
         */
         return getFileContentForRepository(verbFileDescription);
@@ -398,7 +397,7 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
 
     @Test
     public void test_talmud_help_strack()  {
-        checkInMaps("strackp1notBA", translatorBridge);
+        //checkInMaps("strackp1notBA", translatorBridge);
         checkInMaps("strackp1notBB", translatorBridge);
         checkInMaps("strackp1notBC", translatorBridge);
         checkInMaps("strackp1notBD", translatorBridge);
@@ -694,6 +693,6 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("lecon3B", translatorBridge);
+        checkInMaps("toto", translatorBridge);
     }
 }

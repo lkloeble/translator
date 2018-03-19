@@ -10,8 +10,12 @@ public class ConjugationLoader {
     public ConjugationEndingList loadConjugation(List<String> conjugationElements) {
         ConjugationEndingList conjugations = new ConjugationEndingList();
         if(conjugationElements == null) conjugationElements = Collections.EMPTY_LIST;
-        conjugationElements.stream().forEach(line -> conjugations.put(getConjugationName(line), correctSpaces(getConjugation(line))));
+        conjugationElements.stream().forEach(line -> conjugations.put(getConjugationName(line), isRelatedToNoun(line),correctSpaces(getConjugation(line))));
         return conjugations;
+    }
+
+    private boolean isRelatedToNoun(String line) {
+        return line.contains("[") && line.contains("]");
     }
 
     private List<String> correctSpaces(List<String> conjugation) {

@@ -6,9 +6,11 @@ public class ConjugationEnding {
 
     private String endingName;
     private List<String> endings;
+    private boolean relatedToNoun;
 
-    public ConjugationEnding(String endingName, List<String> endings) {
+    public ConjugationEnding(String endingName, boolean relatedToNoun, List<String> endings) {
         this.endingName = endingName;
+        this.relatedToNoun = relatedToNoun;
         this.endings = endings;
     }
 
@@ -18,5 +20,9 @@ public class ConjugationEnding {
 
     public List<String> getEndings() {
         return endings;
+    }
+
+    public boolean isRelatedToNoun() {
+        return relatedToNoun;
     }
 }

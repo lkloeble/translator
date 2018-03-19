@@ -279,7 +279,7 @@ strackp3notH=>einer östlich vom altar befinlichen estrade, als sänger mitgewir
 strackp3notI=>so war dessen legitime herkunft ja schon geprüft;
 strackp3notJ=>mithin war eine erneute prüfung der ahnen seiner tochter nicht nötig, falls diese an einen priester verheiratet werden sollte.]
 strackp3notB1=>Ein priester sollte nur die tochter eines priesters oder eines leviten oder eines vollbürtigen israeliten heiraten;
-strackp3notB2=>also nicht die Tochter eines profanierten priesters (chalal) eine proselytin usw; s Qid 4:1 (oben s 1). ||
+strackp3notB2=>also nicht die Tochter eines profanierten priesters (|chalal|) eine proselytin usw; s |Qid| |4:1| (oben s 1). ||
 strackp3notB3=>Josephus c. Apion 1:7 : wer teilhat am priestertum, soll mit einem weibe, die seinem volke angehört, kinder erzeugen,
 strackp3notB4=>und nicht auf Reichtum und andere ehren blicken, sondern die familie prüfen, von den ahnen die geschlechtsfolge herleitend u. viele zeugen beibringend. |
 strackp3notB5=>Antiq. 3.12.12 Die heiligkeit der priester machte Mose doppelt groß;
@@ -506,5 +506,7 @@ nietzscheBookGTversuchCha7R=>Zarathustra der Tänzer, Zarathustra der Leichte, d
 nietzscheBookGTversuchCha7S=>Zarathustra der Wahrsager, Zarathustra der Wahrlacher, kein Ungeduldiger, kein Unbedingter, einer, der Sprünge und Seitensprünge liebt: ich selber setzte mir diese Krone auf!
 nietzscheBookGTversuchCha7T=>Diese Krone des Lachenden, diese Rosenkranz-Krone: euch, meinen Brüdern, werfe ich diese Krone zu! Das Lachen sprach ich heilig: ihr höheren Menschen, lernt mir – lachen!"
 nietzscheBookGTversuchCha7U=>Also sprach Zarathustra, vierter Teil Sils-Maria
+
+toto=>geplant
 
 ß

@@ -54,7 +54,7 @@ public class VerbRepository {
     private void addAllConjugationAndRoot(String time, String baseConjugationRoot, String root, Conjugation conjugation) {
         String value = conjugation.getTerminationsWithRootAllValues(baseConjugationRoot, time);
         translationBeansMap.addConjugationForGlobalKey(root, time);
-        RootedConjugation rootedConjugation = new RootedConjugation(time, value,conjugation.isRelatedToParticipeAndIsANoun(), conjugation.getDeclensionPattern(),conjugation.getDeclension());
+        RootedConjugation rootedConjugation = new RootedConjugation(time, value,conjugation.isRelatedToParticipeAndIsANoun(time), conjugation.getDeclensionPattern(),conjugation.getDeclension());
         VerbDefinition verbDefinition = conjugation.getVerbDefinition();
         if (verbDefinition != null && verbDefinition.hasCustomReplacements()) {
             TranslationReplacements translationReplacements = new TranslationReplacements(Collections.singletonList(verbDefinition.getTranslationInformationReplacement()));

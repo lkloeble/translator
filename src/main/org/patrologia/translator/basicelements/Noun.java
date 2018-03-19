@@ -253,6 +253,7 @@ public class Noun extends Word {
     }
 
     public boolean isNotPrecededByAPrepositionWithRule() {
+        if(phrase == null) return false;
         WordContainer precedingWordContainer = phrase.getWordContainerAtPosition(positionInPhrase - 1);
         boolean preposition = precedingWordContainer.getWordByType(WordType.PREPOSITION).isPreposition();
         if (!preposition) return true;

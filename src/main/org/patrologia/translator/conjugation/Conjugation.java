@@ -201,8 +201,8 @@ public abstract class Conjugation {
                 '}';
     }
 
-    public boolean isRelatedToParticipeAndIsANoun() {
-        return isRelatedToParticipeAndIsANoun;
+    public boolean isRelatedToParticipeAndIsANoun(String conjugationName) {
+        return allEndings.isRelatedToNoun(conjugationName);
     }
 
     public String getDeclensionPattern() {
