@@ -1,6 +1,9 @@
 package org.patrologia.translator.linguisticimplementations;
 
 import org.patrologia.translator.basicelements.*;
+import org.patrologia.translator.basicelements.noun.NounRepository;
+import org.patrologia.translator.basicelements.preposition.PrepositionRepository;
+import org.patrologia.translator.basicelements.verb.VerbRepository;
 
 import java.util.Set;
 

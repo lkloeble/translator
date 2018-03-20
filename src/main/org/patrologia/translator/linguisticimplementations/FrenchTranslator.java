@@ -4,6 +4,8 @@ import org.patrologia.translator.NullTranslatorRepository;
 import org.patrologia.translator.TranslatorRepository;
 import org.patrologia.translator.TranslatorRepositoryFactory;
 import org.patrologia.translator.basicelements.*;
+import org.patrologia.translator.basicelements.noun.NounRepository;
+import org.patrologia.translator.basicelements.verb.VerbRepository;
 import org.patrologia.translator.declension.DeclensionFactory;
 
 import java.util.List;
@@ -18,7 +20,7 @@ public class FrenchTranslator implements Translator {
     private List<String> dictionaryReferenceDefinitions;
     private List<String> verbReferenceData;
     private VerbRepository verbRepository;
-    private NounRepository  nounRepository;
+    private NounRepository nounRepository;
     private String declensionData;
     private String declensionsAndFiles;
     private DeclensionFactory declensionFactory;

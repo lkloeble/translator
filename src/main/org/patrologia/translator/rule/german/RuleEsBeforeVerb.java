@@ -1,7 +1,7 @@
 package org.patrologia.translator.rule.german;
 
 import org.patrologia.translator.basicelements.Phrase;
-import org.patrologia.translator.basicelements.Preposition;
+import org.patrologia.translator.basicelements.preposition.Preposition;
 import org.patrologia.translator.basicelements.Word;
 import org.patrologia.translator.rule.Rule;
 

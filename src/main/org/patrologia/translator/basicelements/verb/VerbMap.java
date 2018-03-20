@@ -1,4 +1,4 @@
-package org.patrologia.translator.basicelements;
+package org.patrologia.translator.basicelements.verb;
 
 import java.util.*;
 

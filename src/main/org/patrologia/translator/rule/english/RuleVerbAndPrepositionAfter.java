@@ -1,7 +1,7 @@
 package org.patrologia.translator.rule.english;
 
 import org.patrologia.translator.basicelements.Phrase;
-import org.patrologia.translator.basicelements.Verb;
+import org.patrologia.translator.basicelements.verb.Verb;
 import org.patrologia.translator.basicelements.Word;
 import org.patrologia.translator.rule.Rule;
 

@@ -1,4 +1,6 @@
-package org.patrologia.translator.basicelements;
+package org.patrologia.translator.basicelements.verb;
+
+import org.patrologia.translator.basicelements.Accentuer;
 
 import java.util.*;
 

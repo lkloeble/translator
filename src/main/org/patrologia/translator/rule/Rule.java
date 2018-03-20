@@ -1,6 +1,8 @@
 package org.patrologia.translator.rule;
 
 import org.patrologia.translator.basicelements.*;
+import org.patrologia.translator.basicelements.noun.Noun;
+import org.patrologia.translator.basicelements.preposition.Preposition;
 import org.patrologia.translator.casenumbergenre.*;
 import org.patrologia.translator.casenumbergenre.Number;
 

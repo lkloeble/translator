@@ -1,6 +1,6 @@
-package org.patrologia.translator;
+package org.patrologia.translator.basicelements.modificationlog;
 
-import org.patrologia.translator.basicelements.ModificationLog;
+import org.patrologia.translator.basicelements.modificationlog.ModificationLog;
 import org.patrologia.translator.basicelements.Phrase;
 
 /**

@@ -1,5 +1,8 @@
-package org.patrologia.translator.basicelements;
+package org.patrologia.translator.basicelements.noun;
 
+import org.patrologia.translator.basicelements.*;
+import org.patrologia.translator.basicelements.preposition.Preposition;
+import org.patrologia.translator.basicelements.verb.Verb;
 import org.patrologia.translator.casenumbergenre.Case;
 import org.patrologia.translator.casenumbergenre.CaseNumberGenre;
 import org.patrologia.translator.casenumbergenre.Gender;

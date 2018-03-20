@@ -1,4 +1,6 @@
-package org.patrologia.translator.basicelements;
+package org.patrologia.translator.basicelements.modificationlog;
+
+import org.patrologia.translator.basicelements.Phrase;
 
 import java.util.ArrayList;
 import java.util.List;

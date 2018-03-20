@@ -1,5 +1,6 @@
-package org.patrologia.translator.basicelements;
+package org.patrologia.translator.basicelements.verb;
 
+import org.patrologia.translator.basicelements.*;
 import org.patrologia.translator.conjugation.*;
 import org.patrologia.translator.linguisticimplementations.DefaultLanguageSelector;
 

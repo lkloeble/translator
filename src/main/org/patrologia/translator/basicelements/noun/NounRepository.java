@@ -1,5 +1,9 @@
-package org.patrologia.translator.basicelements;
+package org.patrologia.translator.basicelements.noun;
 
+import org.patrologia.translator.basicelements.Accentuer;
+import org.patrologia.translator.basicelements.Language;
+import org.patrologia.translator.basicelements.noun.Noun;
+import org.patrologia.translator.basicelements.noun.NounMap;
 import org.patrologia.translator.casenumbergenre.*;
 import org.patrologia.translator.casenumbergenre.Number;
 import org.patrologia.translator.declension.Declension;

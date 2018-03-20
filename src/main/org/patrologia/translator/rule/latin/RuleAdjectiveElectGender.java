@@ -1,6 +1,7 @@
 package org.patrologia.translator.rule.latin;
 
 import org.patrologia.translator.basicelements.*;
+import org.patrologia.translator.basicelements.noun.Noun;
 import org.patrologia.translator.casenumbergenre.Gender;
 import org.patrologia.translator.rule.Rule;
 

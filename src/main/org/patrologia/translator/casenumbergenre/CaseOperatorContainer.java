@@ -1,6 +1,9 @@
 package org.patrologia.translator.casenumbergenre;
 
 import org.patrologia.translator.basicelements.*;
+import org.patrologia.translator.basicelements.noun.Noun;
+import org.patrologia.translator.basicelements.noun.NounRepository;
+import org.patrologia.translator.basicelements.preposition.PrepositionRepository;
 import org.patrologia.translator.declension.Declension;
 
 import java.util.*;

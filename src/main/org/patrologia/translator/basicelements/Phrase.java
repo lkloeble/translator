@@ -1,5 +1,8 @@
 package org.patrologia.translator.basicelements;
 
+import org.patrologia.translator.basicelements.noun.Noun;
+import org.patrologia.translator.basicelements.preposition.Preposition;
+import org.patrologia.translator.basicelements.verb.Verb;
 import org.patrologia.translator.casenumbergenre.Number;
 
 import java.util.*;

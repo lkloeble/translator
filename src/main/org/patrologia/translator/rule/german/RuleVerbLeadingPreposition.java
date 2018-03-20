@@ -1,6 +1,8 @@
 package org.patrologia.translator.rule.german;
 
 import org.patrologia.translator.basicelements.*;
+import org.patrologia.translator.basicelements.verb.Verb;
+import org.patrologia.translator.basicelements.verb.VerbRepository;
 import org.patrologia.translator.rule.Rule;
 
 /**

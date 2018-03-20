@@ -1,6 +1,6 @@
 package org.patrologia.translator.linguisticimplementations;
 
-import org.patrologia.translator.basicelements.Noun;
+import org.patrologia.translator.basicelements.noun.Noun;
 import org.patrologia.translator.basicelements.Word;
 
 import java.util.Comparator;

@@ -1,6 +1,6 @@
 package org.patrologia.translator.conjugation.english;
 
-import org.patrologia.translator.basicelements.NounRepository;
+import org.patrologia.translator.basicelements.noun.NounRepository;
 import org.patrologia.translator.conjugation.Conjugation;
 import org.patrologia.translator.conjugation.ConjugationComparator;
 import org.patrologia.translator.conjugation.ConjugationFactory;

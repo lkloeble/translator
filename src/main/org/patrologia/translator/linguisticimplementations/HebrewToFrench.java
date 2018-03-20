@@ -2,6 +2,10 @@ package org.patrologia.translator.linguisticimplementations;
 
 import org.patrologia.translator.basicelements.*;
 import org.patrologia.translator.basicelements.modifier.FinalModifier;
+import org.patrologia.translator.basicelements.noun.Noun;
+import org.patrologia.translator.basicelements.noun.NounRepository;
+import org.patrologia.translator.basicelements.preposition.Preposition;
+import org.patrologia.translator.basicelements.verb.VerbRepository;
 import org.patrologia.translator.casenumbergenre.*;
 import org.patrologia.translator.casenumbergenre.Number;
 import org.patrologia.translator.declension.DeclensionFactory;

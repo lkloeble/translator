@@ -1,6 +1,12 @@
 package org.patrologia.translator.linguisticimplementations;
 
 import org.patrologia.translator.basicelements.*;
+import org.patrologia.translator.basicelements.modificationlog.EnglishModificationLog;
+import org.patrologia.translator.basicelements.modificationlog.Event;
+import org.patrologia.translator.basicelements.modificationlog.ModificationLog;
+import org.patrologia.translator.basicelements.noun.NounRepository;
+import org.patrologia.translator.basicelements.preposition.Preposition;
+import org.patrologia.translator.basicelements.verb.Verb;
 import org.patrologia.translator.rule.english.EnglishRuleFactory;
 import org.patrologia.translator.utils.ExpressionHolder;
 

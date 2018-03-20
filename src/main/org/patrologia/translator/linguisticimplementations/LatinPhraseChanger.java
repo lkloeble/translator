@@ -1,6 +1,11 @@
 package org.patrologia.translator.linguisticimplementations;
 
 import org.patrologia.translator.basicelements.*;
+import org.patrologia.translator.basicelements.modificationlog.ModificationLog;
+import org.patrologia.translator.basicelements.noun.NounRepository;
+import org.patrologia.translator.basicelements.preposition.Preposition;
+import org.patrologia.translator.basicelements.preposition.PrepositionRepository;
+import org.patrologia.translator.basicelements.verb.VerbRepository;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -30,7 +35,7 @@ public class LatinPhraseChanger extends CustomLanguageRulePhraseChanger {
     private static final String QUINQUE = "quinque";
     private NounRepository nounRepository;
     private VerbRepository verbRepository;
-    private  PrepositionRepository prepositionRepository;
+    private PrepositionRepository prepositionRepository;
     private List<String> stopWordsQue = new ArrayList<String>();
     private List<String> stopWordsNe = new ArrayList<String>();
 

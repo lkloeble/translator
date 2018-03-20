@@ -1,5 +1,8 @@
-package org.patrologia.translator.basicelements;
+package org.patrologia.translator.basicelements.preposition;
 
+import org.patrologia.translator.basicelements.Accentuer;
+import org.patrologia.translator.basicelements.Language;
+import org.patrologia.translator.basicelements.preposition.Preposition;
 import org.patrologia.translator.casenumbergenre.Case;
 import org.patrologia.translator.casenumbergenre.CaseFactory;
 import org.patrologia.translator.rule.Rule;

@@ -1,5 +1,12 @@
 package org.patrologia.translator.utils;
 
+import org.patrologia.translator.basicelements.modificationlog.ModificationLog;
+import org.patrologia.translator.basicelements.noun.Noun;
+import org.patrologia.translator.basicelements.noun.NounRepository;
+import org.patrologia.translator.basicelements.preposition.Preposition;
+import org.patrologia.translator.basicelements.preposition.PrepositionRepository;
+import org.patrologia.translator.basicelements.verb.Verb;
+import org.patrologia.translator.basicelements.verb.VerbRepository;
 import org.patrologia.translator.casenumbergenre.*;
 import org.patrologia.translator.linguisticimplementations.CustomLanguageRulePhraseChanger;
 import org.patrologia.translator.basicelements.*;

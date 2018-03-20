@@ -1,9 +1,12 @@
 package org.patrologia.translator.linguisticimplementations;
 
 import org.patrologia.translator.basicelements.*;
+import org.patrologia.translator.basicelements.modificationlog.ModificationLog;
+import org.patrologia.translator.basicelements.noun.Noun;
+import org.patrologia.translator.basicelements.preposition.Preposition;
+import org.patrologia.translator.basicelements.verb.VerbRepository;
 import org.patrologia.translator.rule.RuleFactory;
 import org.patrologia.translator.utils.ExpressionHolder;
-import org.patrologia.translator.utils.StringUtils;
 
 import java.util.Collections;
 import java.util.List;

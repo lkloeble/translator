@@ -1,7 +1,7 @@
 package org.patrologia.translator.linguisticimplementations;
 
-import org.patrologia.translator.basicelements.ModificationLog;
-import org.patrologia.translator.basicelements.NounRepository;
+import org.patrologia.translator.basicelements.modificationlog.ModificationLog;
+import org.patrologia.translator.basicelements.noun.NounRepository;
 import org.patrologia.translator.basicelements.Phrase;
 
 /**

@@ -1,6 +1,6 @@
 package org.patrologia.translator.conjugation.german;
 
-import org.patrologia.translator.basicelements.NounRepository;
+import org.patrologia.translator.basicelements.noun.NounRepository;
 import org.patrologia.translator.conjugation.Conjugation;
 import org.patrologia.translator.conjugation.ConjugationFactory;
 import org.patrologia.translator.conjugation.VerbDefinition;

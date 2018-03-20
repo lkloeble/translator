@@ -1,6 +1,6 @@
-package org.patrologia.translator.basicelements;
+package org.patrologia.translator.basicelements.verb;
 
-import org.patrologia.translator.casenumbergenre.CaseNumberGenre;
+import org.patrologia.translator.basicelements.*;
 
 import java.util.HashSet;
 import java.util.Set;

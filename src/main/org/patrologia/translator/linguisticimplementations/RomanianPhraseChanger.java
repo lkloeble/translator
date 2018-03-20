@@ -1,6 +1,12 @@
 package org.patrologia.translator.linguisticimplementations;
 
 import org.patrologia.translator.basicelements.*;
+import org.patrologia.translator.basicelements.modificationlog.ModificationLog;
+import org.patrologia.translator.basicelements.noun.Noun;
+import org.patrologia.translator.basicelements.noun.NounRepository;
+import org.patrologia.translator.basicelements.preposition.Preposition;
+import org.patrologia.translator.basicelements.verb.Verb;
+import org.patrologia.translator.basicelements.verb.VerbRepository;
 import org.patrologia.translator.casenumbergenre.Gender;
 import org.patrologia.translator.conjugation.ConjugationPart;
 import org.patrologia.translator.conjugation.RootedConjugation;

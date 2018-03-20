@@ -1,6 +1,6 @@
 package org.patrologia.translator.rule.greek;
 
-import org.patrologia.translator.basicelements.Noun;
+import org.patrologia.translator.basicelements.noun.Noun;
 import org.patrologia.translator.basicelements.Phrase;
 import org.patrologia.translator.basicelements.Word;
 
