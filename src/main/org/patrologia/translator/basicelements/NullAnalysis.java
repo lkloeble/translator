@@ -1,12 +1,14 @@
 package org.patrologia.translator.basicelements;
 
+import java.util.Collections;
+
 /**
  * Created by Laurent KLOEBLE on 04/09/2015.
  */
 public class NullAnalysis extends Analysis {
 
-    public NullAnalysis(Language language, Word... otherWords) {
-        super(language, otherWords);
+    public NullAnalysis(Language language) {
+        super(language, new NullPhrase(language));
     }
 
     @Override

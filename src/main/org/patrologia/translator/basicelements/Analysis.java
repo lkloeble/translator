@@ -8,15 +8,6 @@ public class Analysis {
     private Phrase phrase;
     private Language language;
 
-    public Analysis(Language language, Word... otherWords) {
-        this.language = language;
-        phrase = new Phrase(0,language);
-        int indice = 1;
-        for(Word w : otherWords) {
-            phrase.addWordAtPosition(indice++, w);
-        }
-    }
-
     public Analysis(Language language, Phrase phrase) {
         this.language = language;
         this.phrase = phrase;
@@ -24,6 +15,26 @@ public class Analysis {
 
     public Language getLanguage() {
         return language;
+    }
+
+    public int nbWords() {
+        return phrase.size();
+    }
+
+    public WordContainer getWordContainerByPosition(int position) {
+        return phrase.getWordContainerAtPosition(position);
+    }
+
+    @Override
+    public String toString() {
+        return "Analysis{" +
+                "nbPositions=" + phrase.size() +
+                ", language=" + language +
+                '}';
+    }
+
+    public Phrase getPhrase() {
+        return phrase;
     }
 
     @Override
@@ -43,23 +54,4 @@ public class Analysis {
         return result;
     }
 
-    public int nbWords() {
-        return phrase.size();
-    }
-
-    public WordContainer getWordContainerByPosition(int position) {
-        return phrase.getWordContainerAtPosition(position) != null ? phrase.getWordContainerAtPosition(position) : new WordContainer(new NullWord(language),-1,language);
-    }
-
-    @Override
-    public String toString() {
-        return "Analysis{" +
-                "nbPositions=" + phrase.size() +
-                ", language=" + language +
-                '}';
-    }
-
-    public Phrase getPhrase() {
-        return phrase;
-    }
 }
