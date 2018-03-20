@@ -2,6 +2,7 @@ package org.patrologia.translator.linguisticimplementations;
 
 import org.patrologia.translator.TranslatorRepository;
 import org.patrologia.translator.basicelements.*;
+import org.patrologia.translator.basicelements.modifier.FinalModifier;
 import org.patrologia.translator.casenumbergenre.CaseNumberGenre;
 import org.patrologia.translator.casenumbergenre.Gender;
 import org.patrologia.translator.conjugation.ConjugationPosition;

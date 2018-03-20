@@ -1,6 +1,8 @@
 package org.patrologia.translator;
 
 import org.patrologia.translator.basicelements.*;
+import org.patrologia.translator.basicelements.modifier.DefaultFinalModifier;
+import org.patrologia.translator.basicelements.modifier.GreekFinalModifier;
 import org.patrologia.translator.declension.DeclensionFactory;
 import org.patrologia.translator.linguisticimplementations.*;
 

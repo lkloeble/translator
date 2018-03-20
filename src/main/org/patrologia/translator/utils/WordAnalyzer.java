@@ -83,13 +83,6 @@ public class WordAnalyzer {
                     }
                     result.addWordsAtPosition(indice, wordsToAdd);
                 }
-                /*
-                if(unknownYet.isTypeUnknow() && demonstrativeRepository.hasDemonstrative(initialValue)) {
-                    Demonstrative demonstrative = demonstrativeRepository.getDemonstrative(initialValue);
-                    demonstrative.setPreferedTranslation(unknownYet.getPreferedTranslation());
-                    result.addWordAtPosition(indice, demonstrative);
-                }
-                */
                 if(unknownYet.isTypeUnknow() && shouldNotBeTranslated(initialValue)) {
                     result.addWordAtPosition(indice, new NoTranslationWord(language,initialValue));
                 }
