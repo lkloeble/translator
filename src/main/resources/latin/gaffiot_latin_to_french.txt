@@ -199,6 +199,7 @@ clemen@noun!s-tis%1(noun)=clément
 cler@noun!us-i%1(noun)=clergé
 coct@adj!us-a-um%1(noun)=roti%2(noun)=cuisiné
 coemo@verb!norm%1(verb)=acheter
+cogo@verb!norm%1(verb)=reunir
 collaudo@verb!norm%1(verb)=prier ensemble%2(verb)=prier excessivement%3(verb)=prier collectif
 collect@noun!a-ae%1(noun)=collecte
 column@noun!a-ae%1(noun)=colonne
@@ -745,6 +746,7 @@ monument@noun!um-i%1(noun)=tombe%2(noun)=monument%3(noun)=rappel
 mor@noun!s-tis%1(noun)=mort
 morien@adj!s-s-s%1(adj)=mourant
 mortu@adj!us-a-um%1(noun)=mort
+mo@noun!s-ris%1(noun)=manière
 motabil@adj!is-is-e%1(adj)=mobile
 moveo@verb!norm%1(verb)=bouger
 mox@prep%1(prep)=bientôt
@@ -843,6 +845,7 @@ palm@noun!a-ae%1(noun)=paume
 par@noun!s-tis2%1(noun)direction%2(noun)=pièce%3(noun)=part
 paradis@noun!us-i%1(noun)=jardin%2(noun)=paradis
 pareo@verb!norm%1(verb)=obeir
+pario@verb!norm%1(verb)=donnernaissance
 paro@verb!norm%1(verb)=preparer
 parv@adj!us-a-um%1(adj)=insignifiant%2(adj)=petit
 parvul@adj!us-a-um%1(adj)=insignifiant%2(adj)=petit
@@ -1258,6 +1261,7 @@ viven@adj!s-s-s%1(adj)=vivant
 vo@noun!x-cis%1(noun)=voix
 vobis@prep%1(prep)=à vous%2(prep)=par vous
 vocabul@noun!um-i%1(noun)=expression%2(noun)=mot
+vocat@adj!us-a-um%1(noun)=appelé
 voco@verb!%1(verb)=convoquer%2(verb)=assigner3(verb)=appeler pour voter%4(verb)=provoquer en duel%5(verb)=inviter a diner%6(verb)=exhorter%7(verb)=nommer%8(verb)=amener%9(verb)=destiner a, appeler a%10(verb)=appeler
 volatil@adj!is-is-e%1(adj)=volant
 volo@verb!irrg%1(verb)=souhaiter%2(verb)=vouloir

@@ -38,7 +38,7 @@ public class LatinTranslatorBridgeTest extends TranslatorBridgeTest {
         LatinDeclensionFactory latinDeclensionFactory = new LatinDeclensionFactory(getDeclensions(declensionsAndFiles), getDeclensionList(declensionsAndFiles, declensionLatinFiles));
         LatinRuleFactory ruleFactory = new LatinRuleFactory();
         PrepositionRepository prepositionRepository = new PrepositionRepository(Language.LATIN, new LatinCaseFactory(), ruleFactory, getFileContentForRepository(prepositionFileDescription));
-        NounRepository nounRepository = new NounRepository(Language.LATIN, latinDeclensionFactory, new DummyAccentuer(),getFileContentForRepository(nounFileDescription));
+        NounRepository nounRepository = new NounRepository(Language.LATIN, latinDeclensionFactory, new DummyAccentuer(),getNouns(nounFileDescription));
         VerbRepository verbRepository = new VerbRepository(new LatinConjugationFactory(getLatinConjugations(conjugationsAndFiles), getLatinConjugationDefinitions(conjugationsAndFiles, conjugationLatinFiles),nounRepository), Language.LATIN, new DummyAccentuer(),getVerbs(verbFileDescription));
         Analizer latinAnalyzer = new LatinAnalyzer(prepositionRepository, nounRepository, verbRepository);
         Translator frenchTranslator = new FrenchTranslator(getFileContentForRepository(latinFrenchDataFile), getFileContentForRepository(frenchVerbsDataFile), verbRepository, nounRepository, declensionLatinFiles, declensionsAndFiles, latinDeclensionFactory);
@@ -98,32 +98,18 @@ public class LatinTranslatorBridgeTest extends TranslatorBridgeTest {
         return latinConjugationDefinitionsMap;
     }
 
-    private List<String> getOIslDefinition() {
+    private List<String> getNouns(String nounFileDescription) {
+        /*
         return Arrays.asList(new String[]{
-                "IPR=>o,is,it,imus,itis,unt",
-                "SPA=>serim,seris,serit,serimus,seritis,serint",
-                "AIF=>am,es,et,emus,etis,ent",
-                "AIP=>i,isti,it,imus,istis,erunt",
-                "PIP=>or,eris,itur,imur,imini,untur",
-                "ASP=>am,as,at,amus,atis,ant",
-                "PII=>ebar,ebaris,ebatur,ebamur,ebamini,ebantur",
-                "AII=>ebam,ebas,ebat,ebamus,ebatis,ebant",
-                "PIF=>ar,eris,etur,emur,emini,entur",
-                "AIFP=>sero,seris,serit,serimus,seritis,serint",
-                "ASI=>erem,eres,eret,eremus,eretis,erent",
-                "AIPP=>eram,eras,erat,eramus,eratis,erant",
-                "PSI=>erer,ereris,eretur,eremur,eremini,erentur",
-                "IAPP=>i,us esse,um iri",
-                "PAPR=>ens",
-                "AIMP=>xxx,e,xxx,xxx,ite,xxx",
-                "IAP=>idisse"
+                "orgetorix@neut%inv[gensing:orgetorigis,accsing:orgetoricem]"
         });
-
+        */
+        return getFileContentForRepository(nounFileDescription);
     }
 
     @Test
     public void test_failing_one() {
-        checkInMaps("genesis2L", translatorBridge);
+        checkInMaps("caesar1D1B", translatorBridge);
     }
 
 

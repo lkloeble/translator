@@ -12,3 +12,4 @@ PRMIDPASSPART=>-,-,μενα
 IMPMIDPASSIND=>-,-,-,-,εσθε,-
 PERACTPAR=>νεναι,νως,νυια,νος
 ACAOIN=>ον,ες,εν,ομεν,ετε,ον
+PRESPASPART=>-x,-x,ομενοι,-x

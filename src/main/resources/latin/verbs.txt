@@ -43,6 +43,7 @@ cess,o,as,are,,,[o-as]
 circu,eo,is,ire,,,[eo-is]
 circumspic,io,is,ere,,,[io-is],(AIP*circumspic*circumspex*0)
 coem,o,is,ere,,,[o-is]
+cog,o,is,ere,,,[o-is],(AIP*cog*coeg*0)
 collaud,o,as,are,avi,atum,[o-as]
 comme,o,as,are,avi,atum,[o-as]
 compar,o,as,are,avi,atum,[o-as]
@@ -175,6 +176,7 @@ orn,o,as,are,,,[o-as]
 ostend,o,is,ere,tendi,tentum,[o-is]
 par,o,as,are,,,[o-as]
 par,eo,es,ere,,,[eo-es]
+par,io,is,ere,,,[io-is],(AIP*par*peper*0)
 pat,eo,es,ere,,,[eo-es]
 patr,o,as,are,,,[o-as],(ASI*patr*patrar*0)
 perduc,o,is,ere,,,[o-is]

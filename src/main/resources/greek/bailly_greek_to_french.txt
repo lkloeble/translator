@@ -31,6 +31,7 @@
 αιτ@verb!norm%1(verb)=demander
 ακατασκευαστ@adj!ος-ος-ον%1(adj)=non fini
 ακολουθε@verb!norm%1(verb)=suivre
+αλαζονευ@verb!norm%1(verb)=etrearrogant
 ακου@verb!norm%1(verb)=ecouter%2(verb)=entendre
 αληθει@noun!α-ας%1(noun)=vérité
 αλλ@prep%1(prep)=mais
@@ -97,6 +98,7 @@
 αστ@noun!ηρ-ερος%1(noun)=étoile
 αστρ@noun!ον-ου%1(noun)=astre
 ατμιδ@noun!ος-ου%1(noun)=vapeur%2(noun)=humidité
+αυξαν@verb!norm%1(verb)=croitre
 αυται@prep%1(prep)=ces(e)
 αυτ@adj!αυτος%1(adj)=le
 αχας@noun!inv%1(noun)=achaz
@@ -393,6 +395,7 @@
 μαθητ@noun!ης-ου%1(noun)=disciple
 μακαρι@adj!ος-α-ον%1(adj)=bienheureux%2(adj)=heureux
 μακαριζ@verb!norm%1(verb)=rendre heureux%2(verb)=benir
+μαλλον@prep%1(prep)=plus
 μανασσ@noun!ης-ου%1(noun)=manassé
 μανθαν@verb!norm%1(verb)=percevoir%2(verb)=avoir l'habitude de%3(verb)=rechercher%4(verb)=comprendre%5(verb)=apprendre
 μαρι@noun!α-ας%1(noun)=marie
@@ -423,6 +426,7 @@
 μικρ@adj!ος-α-ον%1(adj)=petit
 μιλησι@noun!ος-ου%1(noun)=milésien
 μη@prep%1(prep)=non
+μηδεν@prep%1(prep)=pas un
 μηδενος@prep%1(prep)=rien
 μην@prep%1(prep)=absolument
 μητ@noun!ηρ-ερος%1(noun)=terre nourricière%2(noun)=femme âgée%3(noun)=mère
@@ -496,6 +500,7 @@
 παν@noun!inv%1(noun)=tout
 παντα@prep%1(prep)=tous
 παντας@prep%1(prep)=tous
+παντες@prep%1(prep)=tous
 παντων@prep%1(prep)=tous
 παντοκρατ@noun!ωρ-ορος%1(noun)=tout-puissant
 πανυ@prep%1(prep)=entièrement
@@ -543,6 +548,7 @@
 πληκτρ@noun!ον-ου%1(noun)=plectre
 πληθυν@verb!norm%1(verb)=multiplier
 πληρ@verb!norm%1(verb)=accomplir
+πληρο@verb!norm%1(verb)=remplir
 πλασιονα@noun!inv%1(noun)=plus grand
 πλατ@noun!ος-ους%1(noun)=largeur
 πλοι@noun!ον-ου%1(noun)=bateau%2(noun)=barque
@@ -631,6 +637,7 @@
 σωμ@noun!α-ατος%1(noun)=corps
 σωζ@verb!norm%1(verb)=préserver,mettre à l'abri%2(verb)=laisser vivre,épargner%3(verb)=conserver%4(verb)=sauver
 σωφρον@verb!norm%1(verb)=etresaindesprit
+ταπεινοφρον@verb!norm%1(verb)=etremodeste
 ταρασσ@verb!norm%1(verb)=agiter%2(verb)=deranger
 σωτηρι@noun!α-ας%1(noun)=salut
 σωφρον@adj!ων-ων-ον%1(adj)=modéré
