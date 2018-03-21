@@ -92,6 +92,7 @@
 αρτ@noun!ος-ου%1(noun)=pain
 αρχ@noun!η-ης%1(noun)=principe,origine%2(noun)=point de depart%3(noun)=extremite finale,recapitulation,total%4(noun)=commandement,pouvoir,autorite%5(noun)=commencement
 αρχ@verb!norm%1(verb)=commencer
+αρχιερε@noun!υς-ως%1(noun)=grand prêtre
 ασαφ@noun!inv%1(noun)=asa
 ασθεν@verb!norm%1(verb)=etrefaible
 ασφαλ@adj!ης-ης-ες%1(adj)=sûr
@@ -141,6 +142,7 @@
 γενε@noun!α-ας%1(noun)=génération
 γενεσ@noun!ις-εως%1(noun)=création%2(noun)=source%3(noun)=origine
 γενν@verb!norm%1(verb)=donner naissance à%2(verb)=engendrer
+γεννα@verb!norm%1(verb)=donner naissance à%2(verb)=engendrer2
 γενομεν@noun!ος-η-ον%1(noun)=ayant-été%2(noun)=ex%3(noun)=déroulé%4(noun)=ancien
 γεωργ@noun!ος-ου%1(noun)=paysan%2(noun)=cultivateur
 γιγν@verb!norm%1(verb)=advenir%2(verb)=devenir
@@ -150,8 +152,9 @@
 γλωσσ@noun!α-ης%1(noun)=langue
 γνωσ@noun!ις-εως%1(noun)=recherche%2(noun)=connaissance
 γονιμ@noun!ος-ου%1(noun)=viable%2(noun)=productif
-γραμματιστ@noun!ης-ου%1(noun)=grammairien
 γραμμ@noun!α-ατος%1(noun)=lettre
+γραμματε@noun!υς-ως%1(noun)=scribe
+γραμματιστ@noun!ης-ου%1(noun)=grammairien
 γραφ@noun!η-ης%1(noun)=écriture
 γραφ@verb!norm%1(verb)=égratigner,écorcher%2(verb)=graver%3(verb)=rédiger,composer%4(verb)=ecrire
 γυν@noun!η-αικος%1(noun)=femelle (biologie)%2(noun)=femme
@@ -175,6 +178,7 @@
 διακον@noun!ος-ου%1(noun)=diacre%2(noun)=serviteur
 διακονε@verb!norm%1(verb)=servir
 διδασκ@verb!norm%1(verb)=enseigner
+διαθηκ@noun!η-ης%1(noun)=testament%2(noun)=alliance
 διαχωριζ@verb!norm%1(verb)=separer
 διδαχ@noun!η-ης%1(noun)=instruction%2(noun)=enseignement
 διδασκαλ@noun!ος-ου%1(noun)=maître
@@ -375,6 +379,7 @@
 κριν@verb!norm%1(verb)=séparer,distinguer,choisir%2(verb)=décider,trancher,résoudre,expliquer,interpréter%3(verb)=juger
 κριτ@noun!ης-ου%1(noun)=juge
 κροκοδειλ@noun!ος-ου%1(noun)=crocodile
+κρον@noun!ος-ου%1(noun)=temps
 κυλινδροειδ@noun!ης-ου%1(noun)=cylindre
 κυκλ@noun!ος-ου%1(noun)=roue%2(noun)=cercle%3(noun)=anneau
 κυρι@noun!ος-ου%1(noun)=Dieu%2(noun)=seigneur
@@ -580,6 +585,7 @@
 προς@prep%1(prep)=près de%2(noun)=vers
 προσκυν@verb!norm%1(verb)=adorer
 προσφερ@verb!norm%1(verb)=apporter%2(verb)=offrir
+πυνθαν@verb!norm%1(verb)=apprendre%2(verb)=demander
 πρωι@prep%1(prep)=tôt le matin
 πρωτ@adj!ος-η-ον%1(adj)=premier
 πτερωτ@adj!ος-η-ον%1(adj)=ailé

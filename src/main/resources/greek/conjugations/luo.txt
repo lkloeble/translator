@@ -26,5 +26,6 @@ PRPARPASS=>-x,-x,-x,ομενων
 FUTPARTACT=>ειν|ιν,-x,-x,-x
 PRESPASPART=>-x,-x,ομενοι,-x
 MIDPASSSUBJPRE=>ωμαι,η,ηται,ωμεθα,ησθε,ωνται|εσθωσαν
-AORACTPART=>ας,-x,-x,-x
+AORACTPART=>ας|ων,-x,-x,-x
 PAP=>[ων-ουσα-ον]
+PIP=>ωμαι,α,αται,ωμεθα,ασθε,ωνται
