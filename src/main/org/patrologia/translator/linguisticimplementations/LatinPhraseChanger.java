@@ -38,6 +38,7 @@ public class LatinPhraseChanger extends CustomLanguageRulePhraseChanger {
     private PrepositionRepository prepositionRepository;
     private List<String> stopWordsQue = new ArrayList<String>();
     private List<String> stopWordsNe = new ArrayList<String>();
+    private List<String> stopWordsVe = new ArrayList<String>();
 
     private Accentuer accentuer = new DummyAccentuer();
 
@@ -46,34 +47,15 @@ public class LatinPhraseChanger extends CustomLanguageRulePhraseChanger {
         this.verbRepository = verbRepository;
         this.prepositionRepository = prepositionRepository;
         this.language = Language.LATIN;
-        /*
-        stopWordsQue.add(QUOQUE);
-        stopWordsQue.add(ITAQUE);
-        stopWordsQue.add(UNUMQUODQUE);
-        stopWordsQue.add(QUINQUE);
-        stopWordsQue.add(UNDIQUE);
-        stopWordsQue.add(DENIQUE);
-        */
         stopWordsQue.addAll(nounRepository.getNounsValueForEndingWith("que"));
         stopWordsQue.addAll(prepositionRepository.getValuesEndingWith("que"));
         stopWordsQue.addAll(verbRepository.getValuesEndingWith("que"));
-        /*
-        stopWordsNe.add(BENE);
-        stopWordsNe.add(BONE);
-        stopWordsNe.add(MANE);
-        stopWordsNe.add(SANE);
-        stopWordsNe.add(PENE);
-        stopWordsNe.add(SINE);
-        stopWordsNe.add(CARNE);
-        stopWordsNe.add(OMNE);
-        stopWordsNe.add(PONE);
-        stopWordsNe.add(PLENE);
-        stopWordsNe.add(DOMINE);
-        stopWordsNe.add(SUME);
-        */
         stopWordsNe.addAll(nounRepository.getNounsValueForEndingWith("ne"));
         stopWordsNe.addAll(prepositionRepository.getValuesEndingWith("ne"));
         stopWordsNe.addAll(verbRepository.getValuesEndingWith("ne"));
+        stopWordsVe.addAll(nounRepository.getNounsValueForEndingWith("ve"));
+        stopWordsVe.addAll(prepositionRepository.getValuesEndingWith("ve"));
+        stopWordsVe.addAll(verbRepository.getValuesEndingWith("ve"));
     }
 
     @Override
@@ -90,7 +72,7 @@ public class LatinPhraseChanger extends CustomLanguageRulePhraseChanger {
     }
 
     private Phrase substituteVeWithSeu(Phrase phrase) {
-        return substituteEndPatternWithNewPreposition(phrase, "ve", new Preposition(language, "seu", null), stopWordsQue, accentuer);
+        return substituteEndPatternWithNewPreposition(phrase, "ve", new Preposition(language, "seu", null), stopWordsVe, accentuer);
     }
 
     private Phrase substituteQueWithEt(Phrase phrase) {
