@@ -81,11 +81,16 @@ public class LatinPhraseChanger extends CustomLanguageRulePhraseChanger {
         Phrase phrase = substituteEndingNeWithCustomPrep(startPhrase);
         phrase = splitAdPrepositionAndSumConjugation(phrase);
         phrase = splitAbPrepositionAndSumConjugation(phrase);
+        phrase = substituteVeWithSeu(phrase);
         return substituteQueWithEt(phrase);
     }
 
     private Phrase substituteEndingNeWithCustomPrep(Phrase phrase) {
         return substituteEndPatternWithNewPreposition(phrase, "ne", new Preposition(language, "isntit", null), stopWordsNe, accentuer);
+    }
+
+    private Phrase substituteVeWithSeu(Phrase phrase) {
+        return substituteEndPatternWithNewPreposition(phrase, "ve", new Preposition(language, "seu", null), stopWordsQue, accentuer);
     }
 
     private Phrase substituteQueWithEt(Phrase phrase) {
