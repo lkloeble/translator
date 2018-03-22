@@ -31,6 +31,7 @@ behaft,en,[mochten]
 behalt,en,[entstehen],(SPA*behal*behiel*0)
 behand,eln,[sammeln]
 behaupt,en,[mochten]
+beibring,en,[leben]
 beitrag,en,[lassen],(AIP*beitrag*beitrug*0)
 bekomm,en,[rufen],(AIP*bekomm*bekam*0)
 belohn,en,[leben]
@@ -116,6 +117,7 @@ heirat,en,[mochten]
 helf,en,[leben],(IPR*helft*hilft*0)
 heiss,en,[genesen]
 heranzuzieh,en,[leben]
+herleit,en,[mochten]
 herrsch,en,[leben]
 hinstell,en,[leben],(PAP*hinstell*hingestellt*0)
 hor,en,[leben],(PAP*hor*gehort*0)
@@ -251,6 +253,7 @@ woll,en,[wollen],(IPR012*woll*will*0@AII*will*woll*0)
 wohn,en,[leben]
 wunsch,en,[leben]
 zeig,en,[leben]
+zeug,en,[leben]
 zerstor,en,[leben]
 zieh,en,[rufen],(PAP*ziehen*gezogen*0@AIP*zieh*zog*0)
 zulass,en,[lassen],(PAP*zulassen*zugelassen*0)

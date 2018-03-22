@@ -3,3 +3,4 @@ AII=>-,-,te,-,-,-
 AIP=>,est,,en,et,en
 AIPP=>ete,etest,ete,eten,etet,eten
 PAP=>et
+PAPR=>end

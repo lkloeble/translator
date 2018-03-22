@@ -145,6 +145,7 @@ behaupt@verb!norm%1(verb)=affirmer
 behorde@noun!flasche%1(noun)=autorité
 bei@prep%1(prep)=par
 beide@prep%1(prep)=tous deux
+beibring@verb!norm%1(verb)=enseigner
 beiden@prep%1(prep)=les deux
 beigefugt@adj!ausreichend%1(adj)=attaché
 beispielsweise@prep%1(prep)=par exemple
@@ -449,6 +450,7 @@ flug@noun!meinmasc%1(noun)=vol
 flote@noun!norm%1(noun)=flute
 flugzeug@noun!meinmasc%1(noun)=avion
 folg@verb!norm%1(verb)=suivre
+folge@noun!flasche%1(noun)=suite
 folglich@prep%1(prep)=en conséquence
 ford@verb!norm%1(verb)=encourager%2(verb)=supporter%3(verb)=favoriser
 formel@noun!masc%1(noun)=formule
@@ -541,7 +543,7 @@ geschichte@noun!flasche%1(noun)=histoire
 gesamt@adj!ausreichend%1(adj)=total%2(adj)=complet%3(adj)=entier
 gesammelt@adj!ausreichend%1(adj)=réuni%2(adj)=assemblé
 gesamtheit@noun!meinfem%1(noun)=totalité
-gesclecht@noun!licht%1(noun)=sexe
+geschlecht@noun!licht%1(noun)=sexe
 geschmacke@noun!licht%1(noun)=goût
 geschwacht@adj!ausreichend%1(adj)=affaibli
 gesetz@noun!meer%1(noun)=loi
@@ -610,6 +612,7 @@ her@prep%1(prep)=loin
 heran@prep%1(prep)=proche de
 heranzuzieh@verb!norm%1(verb)=expliquer
 herkunft@noun!norm%1(noun)=origine%2(noun)=ascendance
+herleit@verb!norm%1(verb)=deduire
 herr@noun!meinmasc%1(noun)=seigneur%2(noun)=monsieur
 herrlichkeit@noun!meinfem%1(noun)=gloire
 herrsch@verb!norm%1(verb)=gouverner
@@ -1029,6 +1032,7 @@ register@noun!inv%1(noun)=registre
 regn@verb!norm%1(verb)=pleuvoir
 reich@adj!ausreichend%1(adj)=riche
 reich@verb!norm%1(verb)=atteindre
+reichtum@noun!heiligtum%1(noun)=richesse
 reinheit@noun!meinfem%1(noun)=pureté
 reis@noun!reis%1(noun)=riz
 reise@noun!flasche%1(noun)=voyage
@@ -1468,6 +1472,7 @@ zeit@noun!meinmasc%1(noun)=temps
 zeitschrift@noun!meinfem%1(noun)=magazine%2(noun)=périodique
 zerspalten@noun!angst%1(noun)=scission
 zerstor@verb!norm%1(verb)=detruire
+zeug@verb!norm%1(verb)=engendrer
 zeugnis@noun!erkenntnis%1(noun)=témoignage
 zieh@verb!norm%1(verb)=prendre
 zigarette@noun!flasche%1(noun)=cigarette

@@ -268,6 +268,7 @@ florenz@fem%inv
 flote@fem%norm
 flug@neut%meinmasc
 flugzeug@neut%meinmasc
+folge@fem%flasche
 formel@neut%masc
 fortfuhrung@fem%meinfem
 frage@fem%flasche
@@ -336,7 +337,7 @@ geruhmt@adj%ausreichend
 gesamt@adj%ausreichend
 gesammelt@adj%ausreichend
 gesamtheit@fem%meinfem
-gesclecht@neut%licht
+geschlecht@neut%licht
 geschmacke@masc%licht
 geschwacht@adj%ausreichend
 geschichte@fem%flasche
@@ -696,6 +697,7 @@ rechts@neut%inv
 rechten@neut%inv
 register@neut%inv
 reich@adj%ausreichend
+reichtum@masc%heiligtum
 reinheit@fem%meinfem
 reis@masc%reis
 reise@fem%flasche
