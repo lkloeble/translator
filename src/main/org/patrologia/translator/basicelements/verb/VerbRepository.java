@@ -73,7 +73,6 @@ public class VerbRepository {
         }
         conjugationPartList.stream().forEach(singleConjugationPart -> conjugationsMap.put(singleConjugationPart.getValue(), root));
         conjugationPartList.stream().forEach(singleConjugationPart -> conjugationsMap.put(singleConjugationPart.getUnaccentuedValue(), root));
-        //conjugationPartList.stream().forEach(singleConjugationPart -> conjugationsMap.put(unaccentued(singleConjugationPart.getValue()), root));
     }
 
     private void extractIrregularForm(IrregularVerbDefinition verbDefinition, String form) {
@@ -140,6 +139,7 @@ public class VerbRepository {
         return conjugationFactory.getConjugationSynonym(new DefaultVerbDefinition(constructionName));
     }
 
+    /*
     public List<String> getAllFormsForRoot(List<String> stopWords, Conjugation conjugation) {
         List<String> allWordsForRoot = new ArrayList<>();
         Collection<Verb> values = verbMap.values();
@@ -161,6 +161,7 @@ public class VerbRepository {
         }
         return allWordsForRoot;
     }
+    */
 
     public List<String> getValuesStartingWith(String beginningPattern) {
         Set<String> verbValues = new HashSet<>();
@@ -193,14 +194,11 @@ public class VerbRepository {
         return numberOfInitialValuesKnown;
     }
 
-    public String getEquivalentForOtherRoot(String otherVerbRoot, String otherInitialValue, String formerInitialValue, String formerRoot, int positionTranslation, DefaultLanguageSelector languageSelector) {
+    public String getEquivalentForOtherRoot(String otherVerbRoot, String formerInitialValue, String formerRoot, int positionTranslation, DefaultLanguageSelector languageSelector) {
         TranslationInformationBean allFormsForTheFormerVerbRoot = getAllFormsForTheVerbRoot(formerRoot);
         List<String> constructionNameForInitialValueList = allFormsForTheFormerVerbRoot.getConstructionNameForInitialValue(formerInitialValue, languageSelector);
         Collections.sort(constructionNameForInitialValueList,conjugationComparator);
-        Map<String, RootedConjugation> nameForms = allFormsForTheFormerVerbRoot.getNameForms();
         for (String constructionNameForInitialValue : constructionNameForInitialValueList) {
-            RootedConjugation rootedConjugation = nameForms.get(formerRoot + "@" + constructionNameForInitialValue);
-            //int positionFound = rootedConjugation.positionFound(formerInitialValue);
             int positionFound = positionTranslation;
             TranslationInformationBean allFormsForTheTargetVerb = getAllFormsForTheVerbRoot(otherVerbRoot);
             RootedConjugation targetRootedConjugation = allFormsForTheTargetVerb.getNameForms().get(otherVerbRoot + "@" + constructionNameForInitialValue);
@@ -209,7 +207,7 @@ public class VerbRepository {
                 return result.replace("-", "");
             }
         }
-        return "NEED_TO_REFACTOR_THIS_SHIT";
+        return "UNKNOWN_EQUIVALENT";
     }
 
     public boolean isPossibleInfinitive(Verb verb) {

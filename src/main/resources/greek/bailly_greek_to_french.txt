@@ -37,6 +37,7 @@
 αλλ@prep%1(prep)=mais
 αλλα@prep%1(prep)=mais
 αλλ@adj!ος-η-ο%1(adj)=autre
+αλληλα@prep%1(prep)=autres
 αλληλους@prep%1(prep)=autres
 αλληλων@prep%1(prep)=autres
 αλλοτρι@adj!ος-α-ον%1(adj)=étranger%2(adj)=appartenant à un autre
@@ -220,6 +221,7 @@
 εμμανουηλ@noun!inv%1(noun)=emmanuel
 εμπροσθεν@prep%1(prep)=devant
 εν@prep%1(prep)=dans
+εναντιωσ@noun!ις-εως%1(noun)=opposition
 ενδεχεται@noun!inv%1(noun)=il est possible
 ενδυ@verb!norm%1(verb)=entrer%2(verb)=habiller
 ενιαυτ@noun!ος-ου%1(noun)=année
@@ -469,6 +471,7 @@
 οικοδομ@verb!norm%1(verb)=construire
 οικουργ@verb!norm%1(verb)=garderlamaison
 οιν@noun!ος-ου%1(noun)=vin
+οιον@prep%1(prep)=seul
 ολ@noun!ος-η-ον%1(noun)=actuel%2(noun)=général%3(noun)=complet%4(noun)=entier%5(noun)=tout
 ολιγ@noun!ος-η-ον%1(noun)=peu
 ομηρ@noun!ος-ου%1(noun)=homère
@@ -696,6 +699,7 @@
 των@prep%1(prep)=aux
 οφθαλμ@noun!ος-ου%1(noun)=oeil
 υγρ@noun!ο-ου%1(noun)=fluide
+υγρ@adj!ος-η-ον%1(adj)=humide
 υδωρ@noun!x-ος%1(noun)=humidité%2(noun)=pluie%3(noun)=eau
 υδ@noun!α-ατος%1(noun)=humidité%2(noun)=pluie%3(noun)=eau
 υετ@noun!ος-ου%1(noun)=pluie

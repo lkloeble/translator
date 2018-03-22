@@ -56,20 +56,13 @@ public class PrepositionRepository extends Accentuer {
         boolean affectEveryRelatedWord = forms.length <= 1 ? true : false;
         Preposition preposition = null;
         for (String form : forms) {
-            if (form.contains("(") && form.contains(")")) {
-                String caseString = form.substring(form.indexOf("(") + 1, form.indexOf(")"));
-                Case _case = caseFactory.getCaseByStringPattern(caseString,null);
-                preposition = new Preposition(language, root, _case, affectEveryRelatedWord);
+            if (formDescribesAPreposition(form)) {
+                preposition = extractPreposition(form, root, affectEveryRelatedWord);
             }
-            if (form.contains("[") && form.contains("]")) {
-                String ruleNames = form.substring(form.indexOf("[") + 1, form.indexOf("]"));
-                String[] ruleNamesSplitted = ruleNames.split(",");
-                for (String ruleName : ruleNamesSplitted) {
-                    Rule rule = ruleFactory.getRuleByName(ruleName,root);
-                    preposition.addRule(rule);
-                }
+            if (formDescribesRulesOnPreposition(form)) {
+                preposition =addRules(form, root, preposition);
             }
-            if(form.contains("!")) {
+            if(formIsRelatedToArticle(form)) {
                 preposition.defineAsArticle();
             }
             descriptions.add(form);
@@ -79,6 +72,35 @@ public class PrepositionRepository extends Accentuer {
             preposition.addDescription(description);
         }
         prepositionMap.put(root, preposition);
+    }
+
+    private boolean formIsRelatedToArticle(String form) {
+        return form.contains("!");
+    }
+
+    private boolean formDescribesRulesOnPreposition(String form) {
+        return form.contains("[") && form.contains("]");
+    }
+
+    private boolean formDescribesAPreposition(String form) {
+        return form.contains("(") && form.contains(")");
+    }
+
+
+    private Preposition extractPreposition(String form, String root, boolean affectEveryRelatedWord) {
+        String caseString = form.substring(form.indexOf("(") + 1, form.indexOf(")"));
+        Case _case = caseFactory.getCaseByStringPattern(caseString,null);
+        return new Preposition(language, root, _case, affectEveryRelatedWord);
+    }
+
+    private Preposition addRules(String form, String root, Preposition preposition) {
+        String ruleNames = form.substring(form.indexOf("[") + 1, form.indexOf("]"));
+        String[] ruleNamesSplitted = ruleNames.split(",");
+        for (String ruleName : ruleNamesSplitted) {
+            Rule rule = ruleFactory.getRuleByName(ruleName,root);
+            preposition.addRule(rule);
+        }
+        return preposition;
     }
 
     public List<String> getValuesStartingWith(String pattern) {

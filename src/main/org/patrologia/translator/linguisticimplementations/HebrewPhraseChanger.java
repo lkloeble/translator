@@ -90,13 +90,13 @@ public class HebrewPhraseChanger extends CustomLanguageRulePhraseChanger {
         stopWordsWavSofit.add("thw");
         stopWordsWavSofit.add("bhw");
         stopWordsWavSofit.addAll(verbRepository.getValuesEndingWith("w"));
-        stopWordsWavSofit.addAll(verbRepository.getAllFormsForRoot(stopWordsWavSofit,null));
+        //stopWordsWavSofit.addAll(verbRepository.getAllFormsForRoot(stopWordsWavSofit,null));
         stopWordsWavSofit.addAll(prepositionRepository.getValuesEndingWith("w"));
         stopWordsNounWavSofit.addAll(nounRepository.getNounsRootValueForEndingWith("nw"));
         stopWordsNounWavSofit.add("minw");
         stopWordsNounWavSofit.addAll(prepositionRepository.getValuesEndingWith("nw"));
         stopWordsNounWavSofit.addAll(verbRepository.getValuesEndingWith("nw"));
-        stopWords = verbRepository.getAllFormsForRoot(stopWords,null);
+        //stopWords = verbRepository.getAllFormsForRoot(stopWords,null);
 
         stopNounsWithEndingHe.add("h");
         stopNounsWithEndingHe.addAll(nounRepository.getNounsValueForEndingWith("h"));

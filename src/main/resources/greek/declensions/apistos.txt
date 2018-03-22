@@ -1,4 +1,5 @@
-nom%sing%masc%ος
+noma%sing%masc%ος
+nomb%sing%masc%xxchange
 nom%sing%fem%η
 nom%sing%neut%ον
 gen%sing%masc%ου

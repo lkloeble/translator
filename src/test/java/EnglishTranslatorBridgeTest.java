@@ -31,7 +31,6 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
     @Before
     public void init() {
         String prepositionFileDescription = "C:\\translator\\src\\main\\resources\\english\\prepositions.txt";
-        //String prepositionFileDescription = findPathInProject("src/main/resources/english/prepositions.txt");
         String nounFileDescription = "C:\\translator\\src\\main\\resources\\english\\nouns.txt";
         String verbFileDescription = "C:\\translator\\src\\main\\resources\\english\\verbs.txt";
         String englishFrenchDataFile = "C:\\translator\\src\\main\\resources\\english\\harraps_shorter_to_french.txt";

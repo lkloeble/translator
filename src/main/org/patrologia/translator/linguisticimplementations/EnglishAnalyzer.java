@@ -209,7 +209,7 @@ public class EnglishAnalyzer implements Analizer {
         WordContainer otherVerbWordContainer = phrase.getWordContainerAtPosition(otherVerbPositionToCorrect);
         Verb otherVerb = (Verb)otherVerbWordContainer.getWordByType(WordType.VERB);
         otherVerb.setPositionInTranslationTable(verbTranslationPosition);
-        String newInitialValue = verbRepository.getEquivalentForOtherRoot(otherVerb.getRoot(), otherVerb.getInitialValue(), formerInitialValue, rootVerb, verbTranslationPosition ,new DefaultLanguageSelector());
+        String newInitialValue = verbRepository.getEquivalentForOtherRoot(otherVerb.getRoot(), formerInitialValue, rootVerb, verbTranslationPosition ,new DefaultLanguageSelector());
         if(endConjugationModifier.length() == 0) {
             //phrase.modifyWordContenAndRootAtPosition(newInitialValue + endConjugationModifier, verbPosition);
             phrase.modifyOnlyRootAtPosition(otherVerb.getRoot(), verbPosition);
@@ -246,7 +246,7 @@ public class EnglishAnalyzer implements Analizer {
                 int correctPosition = possibleTranlationPositions.size() == 1 ? possibleTranlationPositions.get(0) :  Language.ENGLISH.getDefaultPositionInTranslationTableVerb();
                 followingVerb.setConjugation(constructionName);
                 followingVerb.setPositionInTranslationTable(correctPosition);
-                followingVerb.updateInitialValue(verbRepository.getEquivalentForOtherRoot(followingVerb.getRoot(), followingVerb.getInitialValue(), currentVerb.getInitialValue(), "be", correctPosition,new DefaultLanguageSelector()));
+                followingVerb.updateInitialValue(verbRepository.getEquivalentForOtherRoot(followingVerb.getRoot(), currentVerb.getInitialValue(), "be", correctPosition,new DefaultLanguageSelector()));
                 currentWord.updateInitialValue(Word.WORD_TO_REMOVE);
             }
         }

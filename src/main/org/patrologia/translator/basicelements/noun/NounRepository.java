@@ -81,28 +81,12 @@ public class NounRepository {
         for(CaseNumberGenre caseNumber : caseNumberGenres) {
             Gender gender = caseNumber.getGender();
             String construction = declension.isCustom() ? allEndings.get(caseNumber) : root + allEndings.get(caseNumber);
-            //String construction = root + allEndings.get(caseNumber);
             if(exceptionsForms.containsKey(caseNumber)) {
                 construction = exceptionsForms.get(caseNumber);
             }
             String unaccentuedConstruction = accentuer.unaccentuedWithSofit(construction);
             if(!nounsMap.containsKey(construction, declensionPattern, gender)) {
-                Noun noun = new Noun(language, construction, root, Collections.singletonList(caseNumber), gender, declensionPattern, declensionPattern, specificRules);
-                if(genderOrigin.equals(new Gender(Gender.ADJECTIVE))) {
-                    noun.setAdjective();
-                    rootSet.add(noun.getInitialValue());
-                }
-                if(declension.isWithoutArticle()) {
-                    noun.setNoArticle();
-                }
-                nounsMap.put(construction, noun, declensionPattern, gender);
-                if(!unaccentuedConstruction.equals(construction)) {
-                    nounsMap.put(unaccentuedConstruction, noun, declensionPattern, gender);
-                }
-                formCaseNumberCorrespondanceMap.put(construction,new ArrayList<CaseNumberGenre>(Collections.singletonList(caseNumber)));
-                if(!construction.equals(accentuer.unaccentued(construction))) {
-                    formCaseNumberCorrespondanceMap.put(accentuer.unaccentued(construction),new ArrayList<CaseNumberGenre>(Collections.singletonList(caseNumber)));
-                }
+                addNounToMaps(genderOrigin, construction, root, caseNumber, gender, declensionPattern, specificRules, declension, unaccentuedConstruction);
             } else {
                 Noun noun = nounsMap.get(construction, declensionPattern, gender);
                 noun.addPossibleCaseNumber(caseNumber);
@@ -110,6 +94,25 @@ public class NounRepository {
                 caseNumbers.add(caseNumber);
                 formCaseNumberCorrespondanceMap.put(construction, caseNumbers);
             }
+        }
+    }
+
+    private void addNounToMaps(Gender genderOrigin, String construction, String root, CaseNumberGenre caseNumber, Gender gender, String declensionPattern, List<String> specificRules, Declension declension, String unaccentuedConstruction) {
+        Noun noun = new Noun(language, construction, root, Collections.singletonList(caseNumber), gender, declensionPattern, declensionPattern, specificRules);
+        if(genderOrigin.equals(new Gender(Gender.ADJECTIVE))) {
+            noun.setAdjective();
+            rootSet.add(noun.getInitialValue());
+        }
+        if(declension.isWithoutArticle()) {
+            noun.setNoArticle();
+        }
+        nounsMap.put(construction, noun, declensionPattern, gender);
+        if(!unaccentuedConstruction.equals(construction)) {
+            nounsMap.put(unaccentuedConstruction, noun, declensionPattern, gender);
+        }
+        formCaseNumberCorrespondanceMap.put(construction,new ArrayList<CaseNumberGenre>(Collections.singletonList(caseNumber)));
+        if(!construction.equals(accentuer.unaccentued(construction))) {
+            formCaseNumberCorrespondanceMap.put(accentuer.unaccentued(construction),new ArrayList<CaseNumberGenre>(Collections.singletonList(caseNumber)));
         }
     }
 
