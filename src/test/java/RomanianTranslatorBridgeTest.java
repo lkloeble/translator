@@ -47,7 +47,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         RomanianRuleFactory ruleFactory = new RomanianRuleFactory(verbRepository);
         PrepositionRepository prepositionRepository = new PrepositionRepository(Language.ROMANIAN, new RomanianCaseFactory(), ruleFactory, getFileContentForRepository(prepositionFileDescription));
         Analizer romanianAnalyzer = new RomanianAnalyzer(prepositionRepository, nounRepository, verbRepository);
-        Translator frenchTranslator = new FrenchTranslator(getFileContentForRepository(romanianFrenchDataFile), getFileContentForRepository(frenchVerbsDataFile), verbRepository, nounRepository, declensionPath, declensionsAndFiles, romanianDeclensionFactory);
+        Translator frenchTranslator = new FrenchTranslator(getFileContentForRepository(romanianFrenchDataFile), getFrenchVerbs(frenchVerbsDataFile), verbRepository, nounRepository, declensionPath, declensionsAndFiles, romanianDeclensionFactory);
         translatorBridge = new TranslatorBridge(romanianAnalyzer, frenchTranslator);
         mapValuesForTest = loadMapFromFiles(romanianPathFile);
         mapValuesForResult = loadMapFromFiles(romanianResultFile);
@@ -85,12 +85,19 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "am@IRREGULAR%[IPR]=[am,ai,are,avem,avetsi,au]%[CONJ]=[x,x,aiba,x,x,aiba]%[INFINITIVE]=[avea]",
-                "fum,,[fumez]"
+                "devin,,[fumez]"
         });
         */
-
         return getFileContentForRepository(verbFileDescription);
+    }
+
+    private List<String> getFrenchVerbs(String frenchVerbFileDescription) {
+        /*
+        return Arrays.asList(new String[]{
+                "devenir@NORM%[INFINITIVE]=[devenir]%[IPR]=[deviens,deviens,devient,devenons,devenez,deviennent]%[PII]=[étais devenu,étais devenu,était devenu,étions devenus,étiez devenus,étaient devenus]%[PIP]=[suis devenu,es devenu,est devenu,sommes devenus,êtes devenus,sont devenus]%[AIP]=[devins,devins,devint,devînmes,devîntes,devinrent]%[PIF]=[serai devenu,seras devenu,sera devenu,serons devenus,serez devenus,seront devenus]%[PRPARPASS]=[être devenu,qui est devenu,qui est devenu,qui est devenu]%[PAAOIM]=[-,que sois,que soit,-,que soyez,que soient]%[MIAOIN]=[fus,fus,fut,fûmes,fûtes,furent]%[AORPASSIMP]=[sois,sois,soit,soyons,soyez,soient]%[PAP]=[devenu]%[PERACTPAR]=[devenu,-,-,-]"
+        });
+        */
+        return getFileContentForRepository(frenchVerbFileDescription);
     }
 
     private List<Declension> getDeclensionList(String file, String directory) {
@@ -666,7 +673,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("staniloae1J", translatorBridge);
+        checkInMaps("staniloae4E", translatorBridge);
     }
     
 }

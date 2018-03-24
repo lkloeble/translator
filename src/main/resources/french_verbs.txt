@@ -15,7 +15,7 @@ advenir@NORM%[INFINITIVE]=[advenir]%[PSP]=[sois advenu,soies advenu,soit advenu,
 affecter@NORM%[IPR]=[affecte,affectes,affecte,affectons,affectez,affectent]%[PII]=[suis affecté,es affecté,est affecté,sommes affectés,êtes affectés,sont affectés]%[INFINITIVE]=[affecter]
 affirmer@NORM%[INFINITIVE]=[affirmer]%[IPR]=[affirme,affirmes,affirme,affirmons,affirmez,affirment]
 agiter@NORM%[INFINITIVE]=[agiter]%[IPR]=[agite,agites,agite,agitons,agitez,agitent]%[AORPASIND]=[fus agité,fus agité,fut agité,fûmes agités,fûtes agités,furent agités]
-aider@NORM%[IPR]=[aide,aides,aide,aidons,aidez,aident]%[AIF]=[aiderai,aideras,aidera,aiderons,aiderez,aideront]%[PIP]=[suis aidé,es aidé,est aidé,sommes aidés,êtes aidés,sont aidés]%[INFINITIVE]=[aider]
+aider@NORM%[INFINITIVE]=[aider]%[IPR]=[aide,aides,aide,aidons,aidez,aident]%[AIF]=[aiderai,aideras,aidera,aiderons,aiderez,aideront]%[PIP]=[suis aidé,es aidé,est aidé,sommes aidés,êtes aidés,sont aidés]%[PAPR]=[aidant]
 aimer@NORM%[INFINITIVE]=[aimer]%[IPR]=[aime,aimes,aime,aimons,aimez,aiment]%[AII]=[aimais,aimais,aimait,aimions,aimiez,aimiont]%[PIP]=[suis aimé,es aimé,est aimé,sommes aimés,êtes aimés,sont aimés]%[PAP]=[aimé]
 ajouter@NORM%[INFINITIVE]=[ajouter]%[IPR]=[ajoute,ajoutes,ajoute,ajoutons,ajoutez,ajoutent]%[PAP]=[ajouté]%[PAPR]=[ajoutant]%[AII]=[ajoutais,ajoutais,ajoutait,ajoutions,ajoutiez,ajoutaient]
 allerbien@NORM%[IPR]=[vais bien,vas bien,va bien,allons bien,allez bien,vont bien]%[AIP]=[allai bien,allas bien,alla bien,allions bien,alliez bien,allèrent bien]%[AII]=[allais bien,allais bien,allait bien,allions bien,alliez bien,alliont bien]%[INFINITIVE]=[aller bien]

@@ -169,8 +169,8 @@ public class TranslationInformationBean {
     }
 
     public boolean hasRoot(Word word) {
-        return root.substring(0, 2).equals(word.initialValue.substring(0, 2))
-                || root.equals(word.getRoot());
+        return root.equals(word.getRoot());// || root.substring(0, 2).equals(word.initialValue.substring(0, 2))
+
     }
 
     public boolean hasNearRoot(Word word) {
@@ -212,5 +212,9 @@ public class TranslationInformationBean {
 
     public RootedConjugation getRootedConjugationByConstructionName(String name) {
         return nameForms.get(root + "@" + name);
+    }
+
+    public boolean hasNoForms() {
+        return nameForms.size() == 0;
     }
 }

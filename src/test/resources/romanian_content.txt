@@ -342,7 +342,6 @@ staniloae1Y=>In aceasta poziție a omului, se arată ca lumea are o raționalita
 staniloae1Z=>De aceea ea trebuie sa aiba originea într-o ființa care a urmarit prin crearea lumii – si urmărește prin conservarea ei – cunoasterea lumii, si prin ea însăși si cunoasterea ei de către om.
 staniloae1AA=>Noi aparem ca unica ființa care, aparținand lumii vazute si imprimate de raționalitate, e constienta de aceasta raționalitate a ei si, odata cu aceasta, de sine insasi.
 staniloae1BB=>Fiind singura ființa din lume constienta de sine, omul este totodata constiința lumii si factorul de valorificare a raționalitații lumii si de prelucrare  constienta a ei în favoarea noastra, iar prin aceasta, de autoformare constienta a noastra.
-toto=>Fiind singura ființa din lume constienta de sine, omul este totodata constiința lumii
 staniloae1CC=>Noi nu putem fi constienți de noi inșine fara a fi constienți de lume si de lucrurile@1N din ea.
 staniloae1DD=>Cu cât cunoastem mai bine lumea, sau suntem mai constienți de ea, cu atat suntem mai constienți de noi insine.
 staniloae1EE=>Dar lumea, contribuind în modul acesta pasiv la formarea noastra si la adancirea constiinței de sine a noastra, nu devine prin aceasta si ea insasi constienta de sine.
@@ -351,6 +350,8 @@ staniloae1GG=>Omul e scopul lumii, nu invers.
 staniloae1HH=>Chiar faptul ca noi ne dam seama ca lumea ne este necesara e un fapt care arata poziția de superioritate a omului fața de lume.
 staniloae1II=>Caci lumea nu e in stare sa simta necesitatea noastra pentru ea, lumea, existand ca obiect inconștient, exista pentru.
 staniloae1JJ=>Ea e subordonata lui, fara insa sa o fi facut el.
+
+toto=>devina centrul
 
 ă
 ș

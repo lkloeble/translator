@@ -1,3 +1,4 @@
 IPR=>ez,ezi,eaza,am,atsi,eaza
 PAP=>at
 PAPR=>and
+AIP=>ai,asi,a,aram,atsi,ara

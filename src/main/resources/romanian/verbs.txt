@@ -1,6 +1,7 @@
 adorm,,[dorm]
 aduc,,[face],(PAP*aducut*adus*0)
 afirm,,[incerca]
+ajut,,[cauta]
 alerg,,[merg]
 am@IRREGULAR%[INFINITIVE]=[avea]%[IPR]=[am,ai,are,avem,avetsi,au]%[CONJ]=[x,x,aiba,x,x,aiba]%[PAPR]=[avand]
 amuz,,[bea]
@@ -23,6 +24,7 @@ cint,,[cauta]
 cit,,[aciti]
 conduc,,[face]
 consider,,[cauta]
+constat,,[cauta]
 constitui,,[constitui]
 contribui,,[constitui]
 corespun,,[vinde]
@@ -38,6 +40,7 @@ deranj,,[fumez]
 descop,,[descopar]
 desfasoar,,[incerca]
 dev,,[deveni],(IPR12*dev*devi*0)
+devin,,[fumez]
 doar,,[dorm],(IPR0*doar*dor*0)
 dor,,[aciti]
 dorm,,[dorm]
@@ -46,6 +49,7 @@ doved,,[aciti]
 duc,,[merg],(PAP*ducs*dus*0)
 evit,,[cauta]
 exist,,[incerca]
+extind,,[merg]
 fac,,[face],(AIMP*fac*fa*0)
 fierb,,[merg]
 form,,[fumez]

@@ -5,6 +5,7 @@ acesta@neut%inv
 act@masc%ul
 actsiune@fem%ereditate
 actsiun@masc%ul
+actual@adj%adj
 adancim@fem%berea
 adancir@fem%berea
 adapost@masc%locul
@@ -31,6 +32,7 @@ apartsinand@neut%inv
 apetit@masc%ul
 arab@adj%adj
 ardeleneasc@adj%adj
+argument@masc%ul
 armat@fem%fem
 articol@masc%ul
 ascet@masc%ul
@@ -88,7 +90,7 @@ casatorit@adj%adj
 caz@masc%ul
 ceai@masc%ul
 ceas@masc%ul
-centru@masc%inv
+centr@masc%fiul
 chibritur@fem%tigara
 chil@masc%chil
 chimic@adj%adj
@@ -135,12 +137,15 @@ cunoaster@fem%berea
 cunoscator@adj%adj
 cunoscatoar@adj%adj
 cunoscut@adj%adj
+cuprins@masc%ul
 curajos@adj%adj
 curind@neut%inv
+curs@masc%ul
 dadac@fem%fem
 dan@neut%inv
 dat@adj%adjts
 deosebire@fem%ereditate
+deosebit@adj%adj
 dependents@fem%fem
 depinde@neut%inv
 descoperir@fem%berea
@@ -194,6 +199,7 @@ extraordinar@adj%adj
 factor@masc%ul
 famili@fem%fem
 fapt@masc%ul
+farfuri@fem%fem
 farmacie@neut%inv
 fat@fem%fem
 fet@fem%fem
@@ -315,6 +321,7 @@ mari@neut%inv
 marturi@fem%ratsiune
 marturisitor@masc%ul
 mas@fem%fem
+masin@fem%fem
 matus@fem%fem
 maxim@masc%inv
 medic@masc%ul
@@ -450,6 +457,7 @@ ratsional@adj%adj
 ratsionalita@fem%capacitate
 ratsiun@fem%ratsiune
 rau@adj%inv
+raz@fem%fem
 realita@fem%capacitate
 rece@adj%adj
 reciproc@adj%adj
@@ -539,6 +547,8 @@ sufragerie@fem%inv
 superioritat@fem%berea
 supranatural@adj%adj
 sut@fem%fem
+tacimuri@neut%inv
+tacimurile@neut%inv
 talentat@adj%adjts
 tare@neut%inv
 tarziu@neut%inv
@@ -599,6 +609,7 @@ vie@fem%fem[nomsing(a):vie,nomsing(b):via,nomplr(a):vii,nomplr(b):viile,gensing(
 vin@masc%ul
 vinatoare@fem%inv
 virst@fem%fem
+virtual@adj%adj
 vit@fem%femts
 vitez@fem%fem
 vizavi@masc%inv

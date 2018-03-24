@@ -232,6 +232,7 @@ public abstract class LanguageToFrench implements TranslatorRepository {
         }
         if(translationInformationBeans.size() == 1) return translationInformationBeans.get(0);
         for(TranslationInformationBean translationInformationBean : translationInformationBeans)  {
+            if(translationInformationBean.hasNoForms()) continue;
             if(translationInformationBean.hasRoot(word)) {
                 return translationInformationBean;
             }
