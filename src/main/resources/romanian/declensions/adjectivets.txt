@@ -3,3 +3,5 @@ nom%sing%fem%a
 noma%plr%masc%si
 nomb%plr%masc%sii
 nom%plr%fem%e
+gen%plr%masc%silor
+gen%plr%fem%elor

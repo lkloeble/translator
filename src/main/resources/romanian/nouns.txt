@@ -178,10 +178,11 @@ douazeci@neut%inv
 drace@neut%inv
 drag@adj%adj
 dreapta@neut%inv
-drept@adj%adj
+drept@adj%adjts
 dreptate@neut%inv
 dumneavoastra@neut%inv
 dumnezeu@neut%inv
+dumnezeul@neut%inv
 dumnezeule@neut%inv
 economic@adj%adj
 eficace@adj%adj
@@ -233,6 +234,7 @@ general@neut%inv
 genetic@fem%fem
 gen@masc%ul
 git@masc%ul
+glas@masc%ul
 glum@fem%fem
 goal@adj%adj
 gol@adj%adj
@@ -270,11 +272,14 @@ insemnar@fem%ratsiune
 insurat@adj%adjts
 inteligent@adj%adjts
 interes@masc%ul
+intreaga@fem%inv
+intreg@adj%adj
 intseleasa@adj%inv
 intim@adj%adj
 intimplat@neut%inv
 intretsinut@adj%adj
 intunecare@neut%inv
+intunecat@adj%adj
 invatsat@adj%adjts
 invatsatur@fem%fem
 invers@neut%inv
@@ -310,6 +315,7 @@ lum@fem%berea
 lumin@fem%fem
 lun@fem%fem
 lup@masc%ul
+m@neut%inv
 magazin@neut%inv
 mal@masc%ul
 mam@fem%fem
@@ -335,6 +341,7 @@ mihai@neut%inv
 mijloc@masc%ul
 mijlocir@fem%berea
 milioan@fem%fem
+militsien@masc%ul
 mincare@neut%inv
 mineral@adj%adj
 minut@fem%fem
@@ -386,6 +393,7 @@ ocupat@adj%adj
 odata@neut%inv
 odihn@fem%fem
 om@masc%ul
+oper@fem%fem
 ora@fem%inv
 oras@masc%ul
 originare@neut%inv
@@ -393,8 +401,10 @@ original@adj%adj
 origine@fem%ereditate
 ortodox@fem%fem
 pacat@neut%inv
+pacato@adj%pacatos
 pachet@fem%fem
 pacient@masc%ul
+padur@fem%berea
 pahar@masc%ul
 palid@adj%adj
 palmier@masc%ul
@@ -448,7 +458,8 @@ produs@masc%ul
 punct@masc%ul
 pur@adj%adj
 pusti@fem%ratsiune
-putere@fem%ereditate
+puter@fem%berea
+puternic@adj%adj
 radu@neut%inv
 ragusit@adj%adj
 ras@fem%fem

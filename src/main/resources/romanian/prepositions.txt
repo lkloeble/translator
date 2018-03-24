@@ -179,6 +179,7 @@ toate@prep()
 tot@prep()
 totodata@prep()
 totusi@prep()
+tsi@prep()
 unde@prep()
 unora@prep(gen)
 va@prep()%[varogFinder,recomposeVaVerb]

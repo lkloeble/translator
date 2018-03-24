@@ -7,6 +7,7 @@ package org.patrologia.translator.casenumbergenre.romanian;
 public class GenitiveRomanianCase  extends RomanianCase {
 
     public GenitiveRomanianCase(String differentier) {
+        if(differentier == null) differentier = "";
         this.differentier = differentier;
     }
 
