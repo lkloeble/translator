@@ -1,6 +1,9 @@
 package org.patrologia.translator.linguisticimplementations;
 
 import org.patrologia.translator.basicelements.*;
+import org.patrologia.translator.basicelements.noun.NounRepository;
+import org.patrologia.translator.basicelements.preposition.PrepositionRepository;
+import org.patrologia.translator.basicelements.verb.VerbRepository;
 
 import java.util.Set;
 
@@ -13,11 +16,13 @@ public class GermanNounSplitter {
 
     private NounRepository nounRepository;
     private PrepositionRepository prepositionRepository;
+    private VerbRepository verbRepository;
     private GermanSplits germanSplits = new GermanSplits();
 
-    public GermanNounSplitter(NounRepository nounRepository, PrepositionRepository prepositionRepository) {
+    public GermanNounSplitter(NounRepository nounRepository, PrepositionRepository prepositionRepository, VerbRepository verbRepository) {
         this.prepositionRepository = prepositionRepository;
         this.nounRepository = nounRepository;
+        this.verbRepository = verbRepository;
     }
 
     public Phrase germanFindComposedWords(Phrase phrase) {
@@ -73,13 +78,17 @@ public class GermanNounSplitter {
     private boolean isWordInRepositories(String word) {
         if (nounRepository.hasNoun(word)) return true;
         if (prepositionRepository.hasPreposition(word)) return true;
+        if(verbRepository.hasVerb(word)) return true;
         return false;
     }
 
     private Word getWordFromEitherRepository(String word) {
         if (nounRepository.hasNoun(word)) {
             return (Word) nounRepository.getNoun(word).toArray()[0];
+        } else  if(prepositionRepository.hasPreposition(word)) {
+            return prepositionRepository.getPreposition(word);
+        } else {
+            return verbRepository.getVerb(word);
         }
-        return prepositionRepository.getPreposition(word);
     }
 }

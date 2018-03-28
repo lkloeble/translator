@@ -1,0 +1,4 @@
+IPR=>esc,esti,este,im,itsi,esc
+ASP=>,,e,m,tsi,e
+AII=>am,ai,a,am,atsi,au
+AIF=> , , , , ,

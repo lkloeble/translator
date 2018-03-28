@@ -1,5 +1,6 @@
 package org.patrologia.translator.conjugation.german;
 
+import org.patrologia.translator.basicelements.noun.NounRepository;
 import org.patrologia.translator.conjugation.Conjugation;
 import org.patrologia.translator.conjugation.ConjugationFactory;
 import org.patrologia.translator.conjugation.VerbDefinition;
@@ -14,10 +15,12 @@ import java.util.Map;
 public class GermanConjugationFactory extends ConjugationFactory {
 
     private Map<String, List<String>> conjugationsDefinitionsList;
+    private NounRepository nounRepository;
 
-    public GermanConjugationFactory(List<String> conjugationDefinitions, Map<String, List<String>> conjugationsDefinitionsList) {
+    public GermanConjugationFactory(List<String> conjugationDefinitions, Map<String, List<String>> conjugationsDefinitionsList, NounRepository nounRepository) {
         conjugations = new HashMap<>();
         this.conjugationsDefinitionsList = conjugationsDefinitionsList;
+        this.nounRepository = nounRepository;
         populateConjugationMap(conjugationDefinitions);
     }
 
@@ -27,7 +30,8 @@ public class GermanConjugationFactory extends ConjugationFactory {
         if(conjugationPattern == null) {
             return new NullGermanConjugation();
         }
-        return new GermanConjugation(conjugationsDefinitionsList.get(conjugationPattern), verbDefinition);    }
+        return new GermanConjugation(conjugationsDefinitionsList.get(conjugationPattern), verbDefinition, nounRepository);
+    }
 
     @Override
     public String getConjugationSynonym(VerbDefinition verbDefinition) {

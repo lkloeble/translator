@@ -3,3 +3,4 @@ PAP=>s
 AIP=>ei,esi,e,eram,eratsi,era
 AII=>am,ai,a,am,atsi,au
 MMCP=>esem,esesi,ese,eseram,eseratsi,esera
+PAPR=>and

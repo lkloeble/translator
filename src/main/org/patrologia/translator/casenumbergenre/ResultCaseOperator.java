@@ -1,6 +1,6 @@
 package org.patrologia.translator.casenumbergenre;
 
-import org.patrologia.translator.basicelements.Noun;
+import org.patrologia.translator.basicelements.noun.Noun;
 import org.patrologia.translator.casenumbergenre.hebrew.HebrewCase;
 
 import java.util.List;

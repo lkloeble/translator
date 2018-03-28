@@ -1,5 +1,6 @@
-package org.patrologia.translator.basicelements;
+package org.patrologia.translator.basicelements.verb;
 
+import org.patrologia.translator.basicelements.*;
 import org.patrologia.translator.conjugation.*;
 import org.patrologia.translator.linguisticimplementations.DefaultLanguageSelector;
 
@@ -8,10 +9,10 @@ import java.util.*;
 /**
  * Created by Laurent KLOEBLE on 07/09/2015.
  */
-public class VerbRepository extends Repository {
+public class VerbRepository {
 
-    private Map<String, String> conjugationsMap = new HashMap<>();
-    private Map<String, Verb> verbMap = new HashMap<>();
+    private ConjugationMap conjugationsMap;
+    private VerbMap verbMap;
     private Map<String, RootedConjugation> rootedConjugationMap = new HashMap<>();
     private TranslationBeanMap translationBeansMap = new TranslationBeanMap();
 
@@ -19,11 +20,15 @@ public class VerbRepository extends Repository {
     private Language language;
     private VerbDefinitionFactory verbDefinitionFactory = new VerbDefinitionFactory();
     private ConjugationComparator conjugationComparator;
+    private Accentuer accentuer;
 
-    public VerbRepository(ConjugationFactory conjugationFactory, Language language, List<String> definitionList) {
+    public VerbRepository(ConjugationFactory conjugationFactory, Language language, Accentuer accentuer, List<String> definitionList) {
         this.conjugationFactory = conjugationFactory;
         this.language = language;
         conjugationComparator = conjugationFactory.getComparator();
+        this.accentuer = accentuer;
+        this.conjugationsMap =  new ConjugationMap(accentuer);
+        this.verbMap = new VerbMap(conjugationsMap);
         definitionList.stream().forEach(definition -> addVerb(definition));
     }
 
@@ -50,7 +55,7 @@ public class VerbRepository extends Repository {
     private void addAllConjugationAndRoot(String time, String baseConjugationRoot, String root, Conjugation conjugation) {
         String value = conjugation.getTerminationsWithRootAllValues(baseConjugationRoot, time);
         translationBeansMap.addConjugationForGlobalKey(root, time);
-        RootedConjugation rootedConjugation = new RootedConjugation(time, value);
+        RootedConjugation rootedConjugation = new RootedConjugation(time, value,conjugation.isRelatedToParticipeAndIsANoun(time), conjugation.getDeclensionPattern(),conjugation.getDeclension());
         VerbDefinition verbDefinition = conjugation.getVerbDefinition();
         if (verbDefinition != null && verbDefinition.hasCustomReplacements()) {
             TranslationReplacements translationReplacements = new TranslationReplacements(Collections.singletonList(verbDefinition.getTranslationInformationReplacement()));
@@ -59,11 +64,15 @@ public class VerbRepository extends Repository {
         List<ConjugationPart> conjugationPartList = rootedConjugation.getConjugationPartList(value);
         if (verbDefinition != null && verbDefinition.hasCustomRules()) {
             TranslationRules translationRules = verbDefinition.getTranslationRules();
-            if(translationRules !=  null) conjugationPartList = translationRules.transform(conjugationPartList);
+            if(translationRules !=  null) conjugationPartList = translationRules.transform(conjugationPartList, time);
         }
-        rootedConjugationMap.put(root + "@" + time, new RootedConjugation(time, conjugationPartList));
+        if(rootedConjugation.isParticipleRelatedToNounDeclension()) {
+            rootedConjugationMap.put(root + "@" + time, rootedConjugation);
+        } else {
+            rootedConjugationMap.put(root + "@" + time, new RootedConjugation(time, conjugationPartList));
+        }
         conjugationPartList.stream().forEach(singleConjugationPart -> conjugationsMap.put(singleConjugationPart.getValue(), root));
-        conjugationPartList.stream().forEach(singleConjugationPart -> conjugationsMap.put(unaccentued(singleConjugationPart.getValue()), root));
+        conjugationPartList.stream().forEach(singleConjugationPart -> conjugationsMap.put(singleConjugationPart.getUnaccentuedValue(), root));
     }
 
     private void extractIrregularForm(IrregularVerbDefinition verbDefinition, String form) {
@@ -74,7 +83,7 @@ public class VerbRepository extends Repository {
         RootedConjugation rootedConjugation = new RootedConjugation(time, value);
         List<ConjugationPart> conjugationPartList = rootedConjugation.getConjugationPartList(value);
         conjugationPartList.stream().forEach(conjugation -> conjugationsMap.put(conjugation.getValue(), verbDefinition.getRoot()));
-        conjugationPartList.stream().forEach(conjugation -> conjugationsMap.put(unaccentued(conjugation.getValue()), verbDefinition.getRoot()));
+        conjugationPartList.stream().forEach(conjugation -> conjugationsMap.put(accentuer.unaccentued(conjugation.getValue()), verbDefinition.getRoot()));
         rootedConjugationMap.put(verbDefinition.getRoot() + "@" + verbDefinition.getName(), new RootedConjugation(verbDefinition.getName(), verbDefinition.getConjugations()));
         translationBeansMap.addConjugationForGlobalKey(verbDefinition.getRoot(), verbDefinition.getName());
     }
@@ -97,19 +106,23 @@ public class VerbRepository extends Repository {
         List<String> strings = new ArrayList<>(conjugationsMap.keySet());
         Collections.sort(strings);
         for(String s : strings) {
-            if(s.startsWith("habu")) System.out.println(s);
+            if(s.startsWith("auto")) System.out.println(s);
         }
         */
-        return conjugationsMap.containsKey(initialValue) || conjugationsMap.containsKey(unaccentued(initialValue));
+        return conjugationsMap.containsKey(accentuer.unaccentued(initialValue));
     }
 
     public Verb getVerb(String initialValue) {
-        String key = conjugationsMap.get(initialValue);
-        if (key == null) key = conjugationsMap.get(unaccentued(initialValue));
+        String key = conjugationsMap.getFirstKey(initialValue);
+        if (key == null) key = conjugationsMap.getFirstKey(accentuer.unaccentued(initialValue));
         if (key == null) key = initialValue;
-        Verb toClone = verbMap.get(key);
+        Verb toClone = verbMap.getVerb(key);
         if (toClone == null) return new NullVerb(language, null, null);
         return new Verb(toClone);
+    }
+
+    public Collection<Verb> getVerbs(String initialValue) {
+        return verbMap.getAllVerbs(initialValue);
     }
 
     public TranslationInformationBean getAllFormsForTheVerbRoot(String root) {
@@ -126,6 +139,7 @@ public class VerbRepository extends Repository {
         return conjugationFactory.getConjugationSynonym(new DefaultVerbDefinition(constructionName));
     }
 
+    /*
     public List<String> getAllFormsForRoot(List<String> stopWords, Conjugation conjugation) {
         List<String> allWordsForRoot = new ArrayList<>();
         Collection<Verb> values = verbMap.values();
@@ -147,14 +161,16 @@ public class VerbRepository extends Repository {
         }
         return allWordsForRoot;
     }
+    */
 
     public List<String> getValuesStartingWith(String beginningPattern) {
         Set<String> verbValues = new HashSet<>();
-        for (String verbValue : conjugationsMap.keySet()) {
+        List<String> verbsInRepository = conjugationsMap.keySet();
+        for (String verbValue : verbsInRepository) {
             if (verbValue.startsWith(beginningPattern)) {
                 verbValues.add(verbValue);
-                verbValues.add(unaccentued(verbValue));
-                verbValues.add(unaccentuedWithSofit(verbValue));
+                verbValues.add(accentuer.unaccentued(verbValue));
+                verbValues.add(accentuer.unaccentuedWithSofit(verbValue));
             }
         }
         return new ArrayList<>(verbValues);
@@ -162,7 +178,7 @@ public class VerbRepository extends Repository {
 
     public Collection<? extends String> getValuesEndingWith(String endingPattern) {
         List<String> verbValues = new ArrayList<>();
-        for (String verbValue : conjugationsMap.keySet()) {
+        for (String verbValue : conjugationsMap.allConjugations()) {
             if (verbValue.endsWith(endingPattern)) {
                 verbValues.add(verbValue);
             }
@@ -178,14 +194,11 @@ public class VerbRepository extends Repository {
         return numberOfInitialValuesKnown;
     }
 
-    public String getEquivalentForOtherRoot(String otherVerbRoot, String otherInitialValue, String formerInitialValue, String formerRoot, int positionTranslation, DefaultLanguageSelector languageSelector) {
+    public String getEquivalentForOtherRoot(String otherVerbRoot, String formerInitialValue, String formerRoot, int positionTranslation, DefaultLanguageSelector languageSelector) {
         TranslationInformationBean allFormsForTheFormerVerbRoot = getAllFormsForTheVerbRoot(formerRoot);
         List<String> constructionNameForInitialValueList = allFormsForTheFormerVerbRoot.getConstructionNameForInitialValue(formerInitialValue, languageSelector);
         Collections.sort(constructionNameForInitialValueList,conjugationComparator);
-        Map<String, RootedConjugation> nameForms = allFormsForTheFormerVerbRoot.getNameForms();
         for (String constructionNameForInitialValue : constructionNameForInitialValueList) {
-            RootedConjugation rootedConjugation = nameForms.get(formerRoot + "@" + constructionNameForInitialValue);
-            //int positionFound = rootedConjugation.positionFound(formerInitialValue);
             int positionFound = positionTranslation;
             TranslationInformationBean allFormsForTheTargetVerb = getAllFormsForTheVerbRoot(otherVerbRoot);
             RootedConjugation targetRootedConjugation = allFormsForTheTargetVerb.getNameForms().get(otherVerbRoot + "@" + constructionNameForInitialValue);
@@ -194,7 +207,7 @@ public class VerbRepository extends Repository {
                 return result.replace("-", "");
             }
         }
-        return "NEED_TO_REFACTOR_THIS_SHIT";
+        return "UNKNOWN_EQUIVALENT";
     }
 
     public boolean isPossibleInfinitive(Verb verb) {
@@ -240,5 +253,10 @@ public class VerbRepository extends Repository {
             verb.setPreferedTranslation(preferedTranslation);
         }
         return verb;
+    }
+
+    public boolean isConjugation(Verb verb, String conjugationName) {
+        RootedConjugation rootedConjugation = rootedConjugationMap.get(verb.getRoot() + "@PAP");
+        return rootedConjugation != null && rootedConjugation.contains(verb.getInitialValue());
     }
 }

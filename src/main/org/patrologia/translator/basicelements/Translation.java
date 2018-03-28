@@ -1,5 +1,8 @@
 package org.patrologia.translator.basicelements;
 
+import org.patrologia.translator.basicelements.modifier.DefaultFinalModifier;
+import org.patrologia.translator.basicelements.modifier.FinalModifier;
+
 import java.util.*;
 
 /**

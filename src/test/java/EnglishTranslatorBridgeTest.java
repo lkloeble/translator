@@ -2,6 +2,9 @@ import org.junit.Before;
 import org.junit.Test;
 import org.patrologia.translator.TranslatorBridge;
 import org.patrologia.translator.basicelements.*;
+import org.patrologia.translator.basicelements.noun.NounRepository;
+import org.patrologia.translator.basicelements.preposition.PrepositionRepository;
+import org.patrologia.translator.basicelements.verb.VerbRepository;
 import org.patrologia.translator.casenumbergenre.english.EnglishCaseFactory;
 import org.patrologia.translator.conjugation.english.EnglishConjugationFactory;
 import org.patrologia.translator.declension.Declension;
@@ -39,10 +42,10 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
         String englishPathFile = "E:\\translator\\src\\test\\resources\\english_content.txt";
         String englishResultFile = "E:\\translator\\src\\test\\resources\\english_expected_results.txt";
         EnglishDeclensionFactory englishDeclensionFactory = new EnglishDeclensionFactory(getDeclensions(declensionsAndFiles), getDeclensionList(declensionsAndFiles, declensionPath));
-        VerbRepository verbRepository = new VerbRepository(new EnglishConjugationFactory(getEnglishConjugations(conjugationsAndFiles), getEnglishConjugationDefinitions(conjugationsAndFiles, conjugationPath)), Language.ENGLISH, getVerbs(verbFileDescription));
+        NounRepository nounRepository = new NounRepository(Language.ENGLISH, englishDeclensionFactory, new DummyAccentuer(),getFileContentForRepository(nounFileDescription));
+        VerbRepository verbRepository = new VerbRepository(new EnglishConjugationFactory(getEnglishConjugations(conjugationsAndFiles), getEnglishConjugationDefinitions(conjugationsAndFiles, conjugationPath),nounRepository), Language.ENGLISH, new DummyAccentuer() ,getVerbs(verbFileDescription));
         EnglishRuleFactory ruleFactory = new EnglishRuleFactory();
         PrepositionRepository prepositionRepository = new PrepositionRepository(Language.ENGLISH, new EnglishCaseFactory(), ruleFactory, getFileContentForRepository(prepositionFileDescription));
-        NounRepository nounRepository = new NounRepository(Language.ENGLISH, englishDeclensionFactory, getFileContentForRepository(nounFileDescription));
         Analizer englishAnalyzer = new EnglishAnalyzer(prepositionRepository, nounRepository, verbRepository);
         Translator frenchTranslator = new FrenchTranslator(getFileContentForRepository(englishFrenchDataFile), getFileContentForRepository(frenchVerbsDataFile), verbRepository, nounRepository, declensionPath, declensionsAndFiles, englishDeclensionFactory);
         translatorBridge = new TranslatorBridge(englishAnalyzer, frenchTranslator);
@@ -856,7 +859,8 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("leviathan_prefaceS", translatorBridge);
         checkInMaps("leviathan_prefaceT", translatorBridge);
         checkInMaps("leviathan_prefaceU", translatorBridge);
-        checkInMaps("leviathan_prefaceV", translatorBridge);
+        checkInMaps("leviathan_prefaceV1", translatorBridge);
+        checkInMaps("leviathan_prefaceV2", translatorBridge);
         checkInMaps("leviathan_prefaceW", translatorBridge);
         checkInMaps("leviathan_prefaceX", translatorBridge);
         checkInMaps("leviathan_prefaceY", translatorBridge);
@@ -893,7 +897,7 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("lightfoot_ch1X", translatorBridge);
         checkInMaps("lightfoot_ch1Y", translatorBridge);
         checkInMaps("lightfoot_ch1Z", translatorBridge);
-        checkInMaps("lightfoot_ch1AA", translatorBridge);
+        //checkInMaps("lightfoot_ch1AA", translatorBridge);
         checkInMaps("lightfoot_ch1BB", translatorBridge);
         checkInMaps("lightfoot_ch1CC", translatorBridge);
         checkInMaps("lightfoot_ch1DD", translatorBridge);
@@ -926,11 +930,102 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("lightfoot_ch2J", translatorBridge);
         checkInMaps("lightfoot_ch2K", translatorBridge);
         checkInMaps("lightfoot_ch2L", translatorBridge);
+        checkInMaps("lightfoot_ch2M", translatorBridge);
+        checkInMaps("lightfoot_ch2N", translatorBridge);
     }
 
     @Test
+    public void test_lightfoot_chapter_3() {
+        checkInMaps("lightfoot_ch3A", translatorBridge);
+        checkInMaps("lightfoot_ch3B", translatorBridge);
+        checkInMaps("lightfoot_ch3C", translatorBridge);
+        checkInMaps("lightfoot_ch3D", translatorBridge);
+        checkInMaps("lightfoot_ch3E", translatorBridge);
+        checkInMaps("lightfoot_ch3F", translatorBridge);
+        checkInMaps("lightfoot_ch3G", translatorBridge);
+        checkInMaps("lightfoot_ch3H", translatorBridge);
+        checkInMaps("lightfoot_ch3I", translatorBridge);
+        checkInMaps("lightfoot_ch3J", translatorBridge);
+        checkInMaps("lightfoot_ch3K", translatorBridge);
+        checkInMaps("lightfoot_ch3L", translatorBridge);
+        checkInMaps("lightfoot_ch3M", translatorBridge);
+        checkInMaps("lightfoot_ch3N", translatorBridge);
+        checkInMaps("lightfoot_ch3O", translatorBridge);
+        checkInMaps("lightfoot_ch3P", translatorBridge);
+        checkInMaps("lightfoot_ch3Q", translatorBridge);
+        checkInMaps("lightfoot_ch3R", translatorBridge);
+        checkInMaps("lightfoot_ch3S", translatorBridge);
+        checkInMaps("lightfoot_ch3T", translatorBridge);
+        checkInMaps("lightfoot_ch3U", translatorBridge);
+        checkInMaps("lightfoot_ch3V", translatorBridge);
+        checkInMaps("lightfoot_ch3W", translatorBridge);
+        checkInMaps("lightfoot_ch3X", translatorBridge);
+        checkInMaps("lightfoot_ch3Y", translatorBridge);
+        checkInMaps("lightfoot_ch3Z", translatorBridge);
+        checkInMaps("lightfoot_ch3AA", translatorBridge);
+        checkInMaps("lightfoot_ch3BB", translatorBridge);
+        checkInMaps("lightfoot_ch3CC", translatorBridge);
+        checkInMaps("lightfoot_ch3DD", translatorBridge);
+        checkInMaps("lightfoot_ch3EE", translatorBridge);
+        checkInMaps("lightfoot_ch3FF", translatorBridge);
+        checkInMaps("lightfoot_ch3GG", translatorBridge);
+        checkInMaps("lightfoot_ch3HH", translatorBridge);
+        checkInMaps("lightfoot_ch3II", translatorBridge);
+    }
+
+    @Test
+    public void test_lightfoot_chap4() {
+        checkInMaps("lightfoot_ch4A", translatorBridge);
+        checkInMaps("lightfoot_ch4B", translatorBridge);
+        checkInMaps("lightfoot_ch4C", translatorBridge);
+        checkInMaps("lightfoot_ch4D", translatorBridge);
+        checkInMaps("lightfoot_ch4E", translatorBridge);
+        checkInMaps("lightfoot_ch4F", translatorBridge);
+        checkInMaps("lightfoot_ch4G", translatorBridge);
+        checkInMaps("lightfoot_ch4H", translatorBridge);
+        checkInMaps("lightfoot_ch4I", translatorBridge);
+        checkInMaps("lightfoot_ch4J", translatorBridge);
+        checkInMaps("lightfoot_ch4K", translatorBridge);
+        checkInMaps("lightfoot_ch4L", translatorBridge);
+        checkInMaps("lightfoot_ch4M", translatorBridge);
+        checkInMaps("lightfoot_ch4N", translatorBridge);
+        checkInMaps("lightfoot_ch4O", translatorBridge);
+        checkInMaps("lightfoot_ch4P", translatorBridge);
+        checkInMaps("lightfoot_ch4Q", translatorBridge);
+        checkInMaps("lightfoot_ch4R", translatorBridge);
+        checkInMaps("lightfoot_ch4S", translatorBridge);
+        checkInMaps("lightfoot_ch4T", translatorBridge);
+        checkInMaps("lightfoot_ch4U", translatorBridge);
+        checkInMaps("lightfoot_ch4V", translatorBridge);
+        checkInMaps("lightfoot_ch4W", translatorBridge);
+        checkInMaps("lightfoot_ch4X", translatorBridge);
+        checkInMaps("lightfoot_ch4Y", translatorBridge);
+        checkInMaps("lightfoot_ch4Z", translatorBridge);
+        checkInMaps("lightfoot_ch4AA", translatorBridge);
+        checkInMaps("lightfoot_ch4BB", translatorBridge);
+        checkInMaps("lightfoot_ch4CC", translatorBridge);
+        checkInMaps("lightfoot_ch4DD", translatorBridge);
+        checkInMaps("lightfoot_ch4EE", translatorBridge);
+        checkInMaps("lightfoot_ch4FF", translatorBridge);
+        checkInMaps("lightfoot_ch4GG", translatorBridge);
+        checkInMaps("lightfoot_ch4HH", translatorBridge);
+        checkInMaps("lightfoot_ch4II", translatorBridge);
+        checkInMaps("lightfoot_ch4JJ", translatorBridge);
+        checkInMaps("lightfoot_ch4KK", translatorBridge);
+        checkInMaps("lightfoot_ch4LL", translatorBridge);
+        checkInMaps("lightfoot_ch4MM", translatorBridge);
+        checkInMaps("lightfoot_ch4NN", translatorBridge);
+        checkInMaps("lightfoot_ch4OO", translatorBridge);
+        checkInMaps("lightfoot_ch4PP", translatorBridge);
+        checkInMaps("lightfoot_ch4QQ", translatorBridge);
+        checkInMaps("lightfoot_ch4RR", translatorBridge);
+        checkInMaps("lightfoot_ch4SS", translatorBridge);
+        checkInMaps("lightfoot_ch4TT", translatorBridge);
+    }
+
+        @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("nkjv_genesis_chapter4M", translatorBridge);
+        checkInMaps("nkjv_genesis_chapter4S", translatorBridge);
     }
 }

@@ -4,3 +4,5 @@ AORPASIND=>ν,ς,,μεν,τε,σαν
 PAINPRPA=>ηναι,εις,εισα,εν
 AORPASSUB=>-,-,θη,-,-,-
 FUTPARTACT=>ουμενην,-x,-x,-x
+AORPASSPART=>εντος,-,-,-,-,-
+ACAOIM=>-,-,-,σατε

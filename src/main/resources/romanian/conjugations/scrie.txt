@@ -1,2 +1,3 @@
 IPR=>u,i,e,em,etsi,u
+AII=>am,ai,a,am,atsi,au
 PAP=>s

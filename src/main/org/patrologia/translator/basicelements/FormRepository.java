@@ -7,10 +7,11 @@ import java.util.*;
 /**
  * Created by lkloeble on 30/12/2015.
  */
-public class FormRepository extends Repository {
+public class FormRepository {
 
     private Map<Form, Form> formCorrespondances = new HashMap<Form, Form>();
     private Set<String>  allPossibleWordsValue = new HashSet<>();
+    private Accentuer accentuer = new Accentuer();
 
     public FormRepository() {
 
@@ -22,11 +23,11 @@ public class FormRepository extends Repository {
         Collections.sort(strs);
         int i=0;
         for(String s : strs) {
-            if(s.startsWith("hi")) System.out.println(i + " " + s);
+            if(s.startsWith("asmw")) System.out.println(i + " " + s);
             i++;
         }
         */
-        return allPossibleWordsValue.contains(initialValue) || allPossibleWordsValue.contains(unaccentued(initialValue));
+        return allPossibleWordsValue.contains(initialValue) || allPossibleWordsValue.contains(accentuer.unaccentued(initialValue));
     }
 
     public String getValueByForm(Form form) {

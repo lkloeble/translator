@@ -1,5 +1,6 @@
 package org.patrologia.translator.conjugation.hebrew;
 
+import org.patrologia.translator.basicelements.noun.NounRepository;
 import org.patrologia.translator.conjugation.Conjugation;
 import org.patrologia.translator.conjugation.ConjugationFactory;
 import org.patrologia.translator.conjugation.VerbDefinition;
@@ -14,10 +15,12 @@ import java.util.Map;
 public class HebrewConjugationFactory extends ConjugationFactory {
 
     private Map<String, List<String>> conjugationsDefinitionsList;
+    private NounRepository nounRepository;
 
-    public HebrewConjugationFactory(List<String> conjugationLines, Map<String, List<String>> conjugationsDefinitionsList) {
+    public HebrewConjugationFactory(List<String> conjugationLines, Map<String, List<String>> conjugationsDefinitionsList, NounRepository nounRepository) {
         conjugations = new HashMap<>();
         this.conjugationsDefinitionsList = conjugationsDefinitionsList;
+        this.nounRepository = nounRepository;
         populateConjugationMap(conjugationLines);
     }
 
@@ -29,7 +32,7 @@ public class HebrewConjugationFactory extends ConjugationFactory {
         }
         //String conjugationFile = conjugations.get(conjugationPattern.toLowerCase());
         //return conjugationFile != null ? new HebrewConjugation(conjugationsFilesPath + "\\" + conjugationFile,verbDefinition) : new NullHebrewConjugation();
-        return new HebrewConjugation(conjugationsDefinitionsList.get(conjugationPattern), verbDefinition);
+        return new HebrewConjugation(conjugationsDefinitionsList.get(conjugationPattern), verbDefinition, nounRepository);
     }
 
     @Override

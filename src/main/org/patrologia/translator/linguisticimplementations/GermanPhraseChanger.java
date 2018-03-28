@@ -1,6 +1,12 @@
 package org.patrologia.translator.linguisticimplementations;
 
 import org.patrologia.translator.basicelements.*;
+import org.patrologia.translator.basicelements.modificationlog.ModificationLog;
+import org.patrologia.translator.basicelements.noun.Noun;
+import org.patrologia.translator.basicelements.noun.NounRepository;
+import org.patrologia.translator.basicelements.preposition.Preposition;
+import org.patrologia.translator.basicelements.verb.Verb;
+import org.patrologia.translator.basicelements.verb.VerbRepository;
 import org.patrologia.translator.casenumbergenre.*;
 import org.patrologia.translator.rule.german.GermanRuleFactory;
 import org.patrologia.translator.utils.ExpressionHolder;
@@ -43,6 +49,7 @@ public class GermanPhraseChanger extends CustomLanguageRulePhraseChanger {
         boolean genitiveFollowedByNoun = true;
         phraseLabel : for(Integer indice : integers) {
             String initialValue = phrase.getWordContainerAtPosition(indice).getInitialValue();
+            if(initialValue.length() == 0) continue;
             String valueWithoutGenitive = initialValue.substring(0, initialValue.length() - 1);
             if(initialValue.endsWith("s") && nounRepository.hasNoun(valueWithoutGenitive)  && !nounRepository.hasNoun(initialValue)) {
                 Collection<Noun> nouns = nounRepository.getNoun(valueWithoutGenitive);

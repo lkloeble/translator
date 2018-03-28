@@ -1,5 +1,6 @@
 package org.patrologia.translator.conjugation.romanian;
 
+import org.patrologia.translator.basicelements.noun.NounRepository;
 import org.patrologia.translator.conjugation.Conjugation;
 import org.patrologia.translator.conjugation.ConjugationLoader;
 import org.patrologia.translator.conjugation.VerbDefinition;
@@ -19,10 +20,11 @@ public class RomanianConjugation extends Conjugation {
     private String conjugationFilePath;
     private ConjugationLoader conjugationLoader = new ConjugationLoader();
 
-    protected static List<String> times = Arrays.asList(new String[]{"IPR","AIMP","CONJ","MMCP"});
+    protected static List<String> times = Arrays.asList(new String[]{"IPR","AIMP","CONJ","MMCP","AIF"});
 
-    public RomanianConjugation(List<String> conjugationElements, VerbDefinition verbDefinition) {
+    public RomanianConjugation(List<String> conjugationElements, VerbDefinition verbDefinition, NounRepository nounRepository) {
         this.verbDefinition = verbDefinition;
+        this.nounRepository = nounRepository;
         initializeMap(conjugationElements);
     }
 

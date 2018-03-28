@@ -1,5 +1,6 @@
 package org.patrologia.translator.conjugation.latin;
 
+import org.patrologia.translator.basicelements.noun.NounRepository;
 import org.patrologia.translator.conjugation.Conjugation;
 import org.patrologia.translator.conjugation.ConjugationLoader;
 import org.patrologia.translator.conjugation.VerbDefinition;
@@ -14,12 +15,13 @@ import java.util.List;
  */
 public class LatinConjugation extends Conjugation {
 
-    protected static List<String> times = Arrays.asList(new String[]{"IPR", "SPA", "SPR", "AIP", "PSP", "PII", "AIF", "PIP", "ASI", "ASP", "IMP", "PIF", "AII", "AIFP","PASUPR","AIMP","AIPP","IAPP","PAPR","IAP","PSI"});
+    protected static List<String> times = Arrays.asList(new String[]{"IPR", "SPA", "SPR", "AIP", "PSP", "PII", "AIF", "PIP", "ASI", "ASP", "IMP", "PIF", "AII", "AIFP","PASUPR","AIMP","AIPP","IAPP","PAPR","IAP","PSI","VENO"});
     private String conjugationFilePath;
     private ConjugationLoader conjugationLoader = new ConjugationLoader();
 
-    public LatinConjugation(List<String> conjugationsElements, VerbDefinition verbDefinition) {
+    public LatinConjugation(List<String> conjugationsElements, VerbDefinition verbDefinition, NounRepository nounRepository) {
         this.verbDefinition = verbDefinition;
+        this.nounRepository = nounRepository;
         initializeMap(conjugationsElements);
     }
 

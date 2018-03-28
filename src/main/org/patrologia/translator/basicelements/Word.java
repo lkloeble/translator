@@ -1,5 +1,6 @@
 package org.patrologia.translator.basicelements;
 
+import org.patrologia.translator.basicelements.noun.Noun;
 import org.patrologia.translator.casenumbergenre.CaseNumberGenre;
 import org.patrologia.translator.casenumbergenre.Gender;
 import org.patrologia.translator.casenumbergenre.Number;
@@ -174,10 +175,6 @@ public class Word {
         }
     }
 
-    public boolean isDemonstrative() {
-        return wordType.equals(WordType.DEMONSTRATIVE);
-    }
-
     public Number getNumberElected() {
         if(hasNoRecursiveElected()) {
             return ((Noun)this).getElectedCaseNumber().getNumber();
@@ -210,7 +207,8 @@ public class Word {
 
     public void modifyContentByPatternReplacement(String origin, String replacement) {
         initialValue = initialValue.replace(origin,replacement);
-        root = root.contains("[") ? root.replace(origin,replacement) : root.replace(root,replacement);
+        root = root.replace(origin,replacement);
+        //root = root.contains("[") ? root.replace(origin,replacement) : root.replace(root,replacement);
     }
 
     public void modifyContentByPatternReplacementAndPosition(String replacement, int position) {
@@ -276,5 +274,9 @@ public class Word {
 
     public boolean isEmpty() {
         return getInitialValue().isEmpty();
+    }
+
+    public Language getLanguage() {
+        return language;
     }
 }

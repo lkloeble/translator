@@ -9,7 +9,7 @@ public class StringUtils {
         char[] letters = value.toCharArray();
         StringBuilder sb = new StringBuilder();
         for(char c : letters) {
-            if(c >= 'a' || c == '\'' || c == '&') sb.append(c);
+            if(c >= 'a' || c == '\'' || c == '&'  || c == ' ') sb.append(c);
             //if(c >= 'a') sb.append(c);
         }
         return sb.toString();

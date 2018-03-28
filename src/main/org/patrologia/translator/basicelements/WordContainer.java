@@ -1,5 +1,7 @@
 package org.patrologia.translator.basicelements;
 
+import org.patrologia.translator.basicelements.noun.Noun;
+import org.patrologia.translator.basicelements.verb.Verb;
 import org.patrologia.translator.casenumbergenre.CaseNumberGenre;
 import org.patrologia.translator.casenumbergenre.Gender;
 import org.patrologia.translator.linguisticimplementations.*;
@@ -37,6 +39,16 @@ public class WordContainer {
 
     public void putOtherPossibleWords(Collection<Word> words) {
         wordSet.addAll(words);
+    }
+
+    public void deleteAllWordTypeExceptThisOne(WordType wordType) {
+        Set<Word> newWordSet = new HashSet<>();
+        for(Word word : getWordSet()) {
+            if(word.hasType(wordType)) {
+                newWordSet.add(word);
+            }
+        }
+        this.wordSet = newWordSet;
     }
 
     public boolean containsUniqueWord() {
@@ -90,6 +102,18 @@ public class WordContainer {
 
     public void updateInitialValue(String newValue) {
         getUniqueWord().setInitialValue(newValue);
+    }
+
+    public void updateInitialValueOrCreate(String newValue, WordType wordType) {
+        Word wordByType = getWordByType(wordType);
+        if(wordByType.isTypeUnknow()) {
+            if(wordType.VERB.equals(wordType)) {
+                wordByType = new Verb(newValue,newValue,wordByType.language);
+            }
+        }
+        wordByType.setInitialValue(newValue);
+        putOtherPossibleWord(wordByType);
+        deleteWordByWordType(WordType.UNKNOWN);
     }
 
     public void modifyContentByPatternReplacement(String origin, String replacement) {

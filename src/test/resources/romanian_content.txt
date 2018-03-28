@@ -29,7 +29,7 @@ assimil3A=>aveți noroc
 assimil3B=>ai mulți prieteni la bucuresti ?
 assimil3C=>Nu, nu am. Sînt destul de singur
 assimil3D=>pentru ca esti de puțin timp aici
-assimil3E=>da, și in plus sint foarte ocupat. Si voi ?
+assimil3E=>da, și in plus sint foarte ocupat. Si voi@N ?
 assimil3F=>noi avem mulți colegi simpatici
 assimil3G=>si Dan are rude care locuiesc aproape de centru
 assimil3H=>au o casă frumoasa linga parc
@@ -148,7 +148,7 @@ assimil11J=>ei da@P, și nu e loc pentru soția ta.
 assimil11K=>exact, mai ales că nevastă-mea iubește animalele și plantele
 assimil11L=>și are un canar și o mușcată ?
 assimil11M=>nu, un cîine-lup și un palmier
-assimil11N=>sîntem vecini, locuim în cartier, chiar lîngă voi
+assimil11N=>sîntem vecini, locuim în cartier, chiar lîngă voi@N
 assimil11O=>am un apartament mare și  confortabil
 assimil11P=>locuința e prea mică pentru cinci persoane
 assimil11Q=>bunicii sînt in sufragerie, părinții în dormitor
@@ -337,44 +337,39 @@ staniloae1T=>Noi consideram ca raționalitatea cosmosului e o marturie a faptulu
 staniloae1U=>Pe de alta parte, cosmosul însuși ar fi fără sens împreună cu raționalitatea lui dacă n-ar fi dată rațiunea umană care să-l cunoască pe baza raționalității lui.
 staniloae1V=>In credința noastra, raționalitatea cosmosului are un sens numai daca e cugetat inainte de creare si in toata continuarea lui de o ființa creatoare cunoscatoare, fiind adus la existența pentru a fi cunoscut de o ființa pentru care e creat si, prin aceasta, pentru a realiza intre sine si acea ființa raționala creata un dialog prin mijlocirea lui.
 staniloae1W=>Acest fapt constituie conținutul revelației naturale.
-staniloae1X=>Acest lucru@1 insă îl afirmă si revelația crestină supranaturală prin invățătura ca poziției originare creatoare si conservatoare a lui Dumnezeu în fața lumii ii corespunde, pe un plan mai coborât sau de dependență, poziția noastra de ființa cunoscătoare si prelucrătoare a naturii, ca chip al lui Dumnezeu.
+staniloae1X=>Acest lucru@N1 insă îl afirmă si revelația crestină supranaturală prin invățătura ca poziției originare creatoare si conservatoare a lui Dumnezeu în fața lumii ii corespunde, pe un plan mai coborât sau de dependență, poziția noastra de ființa cunoscătoare si prelucrătoare a naturii, ca chip al lui Dumnezeu.
 staniloae1Y=>In aceasta poziție a omului, se arată ca lumea are o raționalitate pentru a fi cunoscută de noi – ființe raționale.
 staniloae1Z=>De aceea ea trebuie sa aiba originea într-o ființa care a urmarit prin crearea lumii – si urmărește prin conservarea ei – cunoasterea lumii, si prin ea însăși si cunoasterea ei de către om.
+staniloae1AA=>Noi aparem ca unica ființa care, aparținand lumii vazute si imprimate de raționalitate, e constienta de aceasta raționalitate a ei si, odata cu aceasta, de sine insasi.
+staniloae1BB=>Fiind singura ființa din lume constienta de sine, omul este totodata constiința lumii si factorul de valorificare a raționalitații lumii si de prelucrare  constienta a ei în favoarea noastra, iar prin aceasta, de autoformare constienta a noastra.
+staniloae1CC=>Noi nu putem fi constienți de noi inșine fara a fi constienți de lume si de lucrurile@1N din ea.
+staniloae1DD=>Cu cât cunoastem mai bine lumea, sau suntem mai constienți de ea, cu atat suntem mai constienți de noi insine.
+staniloae1EE=>Dar lumea, contribuind în modul acesta pasiv la formarea noastra si la adancirea constiinței de sine a noastra, nu devine prin aceasta si ea insasi constienta de sine.
+staniloae1FF=>Aceasta inseamna ca nu noi suntem pentru lume, ci lumea pentru noi, desi lumea ii este necesară omului.
+staniloae1GG=>Omul e scopul lumii, nu invers.
+staniloae1HH=>Chiar faptul ca noi ne dam seama ca lumea ne este necesara e un fapt care arata poziția de superioritate a omului fața de lume.
+staniloae1II=>Caci lumea nu e in stare sa simta necesitatea noastra pentru ea, lumea, existand ca obiect inconștient, exista pentru.
+staniloae1JJ=>Ea e subordonata lui, fara insa sa o fi facut el.
+
+toto=>devina centrul
+
 ă
 ș
 ț
 
-staniloae1AA=>Noi aparem ca unica ființa care, aparținand lumii vazute si imprimate de raționalitate, e constienta de aceasta raționalitate a ei si, odata cu aceasta, de sine insasi.
-staniloae1BB=>Fiind singura ființa din lume constienta de sine, omul este totodata constiința lumii si factorul de valorificare a raționalitații lumii si de prelucrare  constienta a ei în favoarea noastra, iar prin aceasta, de autoformare constienta a noastra.
-staniloae1CC=>Noi nu putem fi constienți de noi insine fara a fi constienți de lume si de lucrurile din ea.
-staniloae1DD=>Cu cat cunoastem mai bine lumea, sau suntem mai constienți de noi insine.
-staniloae1EE=>Dar lumea, contribuind în modul acesta pasiv la formarea noastra si la adancirea constiinței de sine a noastra, nu devine prin aceasta si ea insasi constienta de sine.
-staniloae1FF=>Aceasta inseamna ca nu noi suntem pentru lume, ci lumea pentru noi, desi lumea ii este necesara omului.
-staniloae1GG=>Omul e scopul lumii, nu invers.
-staniloae1HH=>Chiar faptul ca noi ne dam seama ca lumea ne este necesara e un fapt care arata poziția de superioritate a omului fața de lume.
-staniloae1II=>Caci lumea nu e in stare sa simta necesitatea noastra pentru ea, lumea, existand ca obiect inconstient, exista pentru.
-staniloae1JJ=>Ea e subordonata lui, fara insa sa o fi facut el.
 
 P12
-Rațiunile lucrurilor isi descopera lumina lor in rațiunea si prin acțiunea raționala si constienta a omului.
-Rațiunea noastra de asemenea isi descopera tot mai bogat puterea si adancimea ei prin descoperirea
-rațiunilor lucrurilor. Dar in aceasta influența reciproca, rațiunea umana este cea care are rolul de subiect
-care lucreaza in mod constient, nu rațiunile lucrurilor. Rațiunile lucrurilor se descopera constiinței
-umane, avand sa fie asimilate de aceasta, concentrate in ea ; se descopera avand ca centru virtual
-constient al lor rațiunea umana, si ajutand-o sa devina centrul in curs de a fi descoperite ca raze
-actuale ale ei, prin care rațiunea umana isi extinde tot mai departe vederea.
-Faptul ca lumea se lumineaza in om si pentru om si prin om, arata ca lumea e pentru om, nu omul
-pentru lume. Dar faptul ca omul insusi, luminand lumea, se lumineaza pe sine pentru sine prin lume,
-arata ca si lumea e necesara pentru om. Lumea e facuta pentru a fi umanizata, nu omul pentru a fi
-asimilat lumii, naturii. Lumea intreaga e facuta pentru a deveni un om mare, sau conținutul omului
-devenit in fiecare persoana atotcuprinzator, nu omul pentru a fi parte a naturii si neinsemnand in ea mai
-mult decat orice alta parte a naturii si neinsemnand n ea mai mult decat orice alta parte a ei, sau
-contopindu-se in ea. Caci printr-o eventuala contopire a omului in natura s-ar pierde cel mai important
-factor al realitatii, fara ca natura sa castige ceva nou, pe cand prin asimilarea lumii in om, natura insasi
-castiga, fiind ridicata pe un plan cu totul nou, fara sa se pierda propriu-zis. Pierderea noastra in natura
-nu reprezinta nici un progres nici pentru natura, pe cand umanizarea continua sau eterna a naturii
-reprezinta un progres etern, facand abstractie de faptul ca prin aceasta nu se pierde nimic si mai ales
-nu se pierde ceea ce e mai valoros in realitate.
+staniloae4A=>Rațiunile lucrurilor isi descopera lumina lor in rațiunea si prin acțiunea raționala si constienta a omului.
+staniloae4B=>Rațiunea noastra de asemenea isi descopera tot mai bogat puterea si adancimea ei prin descoperirea rațiunilor lucrurilor.
+staniloae4C=>Dar in aceasta influența reciproca, rațiunea umana este cea care are rolul de subiect care lucreaza in mod constient, nu rațiunile lucrurilor.
+staniloae4D=>Rațiunile lucrurilor se descopera constiinței umane, avand sa fie asimilate de aceasta, concentrate in ea ;
+staniloae4E=>se descopera avand ca centru virtual constient al lor rațiunea umana, si ajutand-o sa devina centrul in curs de a fi descoperite ca raze actuale ale ei, prin care rațiunea umana isi extinde tot mai departe vederea.
+staniloae4F=>Faptul ca lumea se lumineaza in om si pentru om si prin om, arata ca lumea e pentru om, nu omul pentru lume.
+staniloae4G=>Dar faptul ca omul insusi, luminand lumea, se lumineaza pe sine pentru sine prin lume, arata ca si lumea e necesara pentru om.
+staniloae4H=>Lumea e facuta pentru a fi umanizata, nu omul pentru a fi asimilat lumii, naturii.
+staniloae4I=>Lumea intreaga e facuta pentru a deveni un om mare, sau conținutul omului devenit in fiecare persoana atotcuprinzator, nu omul pentru a fi parte a naturii si neinsemnand in ea mai mult decat orice alta parte a naturii si neinsemnand n ea mai mult decat orice alta parte a ei, sau contopindu-se in ea.
+staniloae4J=>Caci printr-o eventuala contopire a omului in natura s-ar pierde cel mai important factor al realitatii, fara ca natura sa castige ceva nou, pe cand prin asimilarea lumii in om, natura insasi castiga, fiind ridicata pe un plan cu totul nou, fara sa se pierda propriu-zis.
+staniloae4K=>Pierderea noastra in natura nu reprezinta nici un progres nici pentru natura, pe cand umanizarea continua sau eterna a naturii reprezinta un progres etern, facand abstractie de faptul ca prin aceasta nu se pierde nimic si mai ales nu se pierde ceea ce e mai valoros in realitate.
 
 filocalia1A=>Sfintul Antonie a fost cel dintîi monah care s-a retras în pustie, fiind urmat de mai mulți ucenici.
 filocalia1B=>viața lui, care a umplut de uimire lumea din acea vreme, a fost descrisă de Sfîntul Atanasie, patriarhul Alexandriei.
@@ -392,13 +387,14 @@ filocalia1M=>Prima redacție (977B-1000B) e o traducere de la 1516 a lui Symphor
 filocalia1N=>a doua, care cuprinde un text mai larg, tradus după un manuscris arab, o formează primele șapte epistole din cele douăzeci date toate sub numele lui Antonie (999C-1066B), din care însă pe cele treisprezece din urmă (1015D-1066B) Klejna le-a dovedit că sînt ale lui Ammonas, ucenicul și urmașul lui Antonie la conducerea chinoviei de la Pispir.
 filocalia1O=>în timpul mai nou a început să fie descoperit și  textul copt, cel original, al unora din aceste epistole.
 filocalia1P=>O. Bardenhewer (Geschichte der altkirchlichen Literatur, Vol III, ed. a II-a Herder, Freiburg im Breisgau, p 81) scria la 1923, pînă nu se dovedise că aceste epistole sînt ale lui Antonie, că ele nu pot fi ale lui și din motivul că sînt prea de cuprins general și lipsite de putere și de sevă ca să fie de la marele ascet
-filocalia1Q=>cum stăm însă cu autenticitatea celor 170 de capete pe care Nicodim Aghioritul, care a trăit la sfîrșitul veacului al XVIII-lea, le-a așezat în fruntea Filocaliei ?
-filocalia1R=>Nici Bardenhewer, nici Viller-Rahner, din care iau aceste însemnări, nu le pomenesc între scrierile atribuite lui Antonie.
-filocalia1S=>Ele nu se cuprind nici în Patrologia lui Migne.
-filocalia1T=>Nu știm, de asemenea, după ce manuscris le-a luat Nicodim Aghioritul.
+filocalia1Q=>cum stăm însă cu autenticitatea celor 170 de capete pe care |Nicodim| |Aghioritul|, care a trăit la sfîrșitul veacului al XVIII-lea, le-a așezat în fruntea Filocaliei ?
+filocalia1R=>Nici |Bardenhewer|, nici |Viller-Rahner|, din care iau aceste însemnări, nu le pomenesc între scrierile atribuite lui Antonie.
+filocalia1S=>Ele nu se cuprind nici în |Patrologia| lui |Migne|.
+filocalia1T=>Nu știm, de asemenea, după ce manuscris le-a luat |Nicodim| |Aghioritul|.
 filocalia1U=>Ne dă această dreptul să afirmăm cu siguranță că nu sînt ale Sfîntului Antonie ?
 filocalia1V=>Nu, acest drept nu-l avem.
-filocalia1W=>Chiar dacă azi ele nu s-ar mai găsi în nici un manuscris ascuns pe cine știe unde, Nicodim Aghioritul le-a luat sigur din vreun manuscris care s-a putut pierde.
+filocalia1W1=>Chiar dacă azi ele nu s-ar mai găsi în nici un manuscris ascuns pe cine știe unde,
+filocalia1W2=>|Nicodim| |Aghioritul| le-a luat sigur din vreun manuscris care s-a putut pierde.
 filocalia1X=>faptul că  aceste au și ele același caracter general nu poate fi un argument sigur că nu sînt ale lui Antonie, cum nu e pentru epistole se pot constata, deși ele sînt o lucrare deosebită, cu cuprinsul ei propriu.
 filocalia1Y=>Asemenea înrudiri am avea, de pildă, în ideea de "om rațional" pe care o folosesc și capetele și epistolele;
 filocalia1Z=>în prețul ce se spune și în unele, și în altele pe "deosebirea dintre bine și rău", pe caracterizarea lui Dumnezeu ca "medic" ș.a.m.d
@@ -409,10 +405,12 @@ urzeala1B=>moartea te înspăimântă ? întrebă ser |Waymar| |Royce| cu umbra 
 urzeala1C=>gared nu mușcă din momeală. Era un om bătrân, trecut de cincizeci de ani, și văzuse destui stăpâni venind și plecând.
 urzeala1D=>ce-i mort e mort zise el. Nu avem nimic cu ce-i mort.
 urzeala1E=>sunt morți ? întrebă  |Royce| cu voce moale. Ce dovezi avem ?
-urzeala1F=>Will i-a văzut, răspunse Gared. Dacă el spune că sunt morți, pentru mine asta-i suficient ca dovadă.
-urzeala1G=>Will știuse că-l vor atrage la sfadă, mai devreme sau mai târziu.  și-ar fi dorit să se întâmple asta cât mai târziu.
+urzeala1F=>|Will| i-a văzut, răspunse Gared. Dacă el spune că sunt morți, pentru mine asta-i suficient ca dovadă.
+urzeala1G=>|Will| știuse că-l vor atrage la sfadă, mai devreme sau mai târziu.  și-ar fi dorit să se întâmple asta cât mai târziu.
 urzeala1H=>Mama mi-a spus că morții nu cântă nimic, interveni el.
-urzeala1I=>Dădaca mea spunea la fel, Will, răspunse Royce. Să nu crezi niciodată ce auzi la țâța unei femei. Există lucruri care pot fi învățate chiar și de la morți.
+urzeala1I1=>Dădaca mea spunea la fel, Will, răspunse Royce.
+urzeala1I2=>Să nu crezi niciodată ce auzi la țâța unei femei.
+urzeala1I3=>Există lucruri care pot fi învățate chiar și de la morți.
 urzeala1J=>glasul său se reverbera, poate prea puternic, prin pădurea întunecată.
 urzeala1K=>Avem un drum lung înaintea noastră, sublinie Gared. Opt zile, poate nouă. și noapte se aproprie.
 urzeala1L=>Ser Waymar Royce privi spre cer fără niciun interes.
@@ -429,19 +427,51 @@ bocaseumplu7B=>pilda lui Iisus rezumă toată strădiania lui Dumnezeu cu via Sa
 bocaseumplu7C=>de aici rezultă că Dumnezeu are un rost cu lumea Sa, la care l-a întovărășit și pe om.
 bocaseumplu7D=>se tânguie Dumnezeu omului :
 bocaseumplu7E=>"... am sădit viță bună, de soi, și iată acum rodește struguri sălbatici... voi smulge-o si pe voi arunca-o !"
-bocaseumplu7F=>à saisir
-bocaseumplu7G=>à saisir
+bocaseumplu7F=>împlinindu-se urgia lui Dumnezeu cu via, ieremia proorocul omul, se tânguie lui Dumnezeu
+bocaseumplu7G=>Doamne Dumnezeul puterilor, întoarce-ne pe noi, si arata-ți fața ta si ne vom mantui
+bocaseumplu7H=>via din eghipet ai mutat-o, gonit-ai neamurile si ai rasadit-o pe ea
+bocaseumplu7I=>cale ai facut înaintea ei si ai sadit radacinile ei si a umplut pamantul
+bocaseumplu7J=>acoperit-a muntii umbra ei si mladițele ei chedrii lui dumnezeu
+bocaseumplu7K=>întinsu-si-a vițele sale pâna la mare pana la rauri odrasele sale.
+bocaseumplu7L=>pentru ce ai surpat gardul ei si a culeg pe ea toți cei ce trec pa cale ?
+bocaseumplu7M=>a stricat-o pe ea vierul din padure si porcul salbatic a pascut-o pe ea.
+bocaseumplu7N=>dumnezeul puterilor, întoarce-te dar si cauta din cer si vezi si cerceteaza via aceasta.
+bocaseumplu7O=>si o savarseste pe ea, pe care a sadit-o dreapta ta si peste fiul omenesc pe care l-ai intarit ție.
+bocaseumplu7P=>Tu Doamne în veac vei ramanea, scaunul tau in neam si in neam.
+bocaseumplu7Q=>pentru ce pana in sfarsit ne vei uita pe noi ? parasi-ne-vei pre noi întru îndelungare de zile ?
+bocaseumplu7R=>întoarce-ne pe noi Domane catre tine si ne vom intoarce, si înnoieste zilele noastre ca si mai na-inte.
+bocaseumplu7S=>ca lepadand, ne-ai lepadat pe noi, mâniatu-te-ai spre noi foarte
+bocaseumplu7T=>ce insemneaza întunericul si ascunzisul padurii, precum si cine e mistrețul din padure, e usor de banuit.
+bocaseumplu7U=>Iisus a fost scos din vie si omorat
+bocaseumplu7V=>oamenii cred ca dumnezeu nu mai are nici o putere, nici un drept asupra lumii
+bocaseumplu7W=>oamenii îl prigonesc pe Iisus si în istorie.
+bocaseumplu7X=>Iisus a fost prigonit personal si omorât.
+bocaseumplu7Y=>au fost prigonite faptele Sale : minunile.
+bocaseumplu7Z=>A fost, si este, prigonita învațatura Sa.
+bocaseumplu7AA=>si au fost si unt prigoniți toți ucenicii Sai de-a lungul istoriei.
+bocaseumplu7BB=>Pentru acest lucru s-au rasculat su s-au unit împotriva lui ereziile,
+bocaseumplu7CC=>prigoanele si toata coloana nesfarsita a salbaticiunii si slabiciunilor omonesti.
 
 patericulegyptantonie1A=>Sfântul avva Antonie, șezând odată în deșert, a fost cuprins de acedie și de o mare întunecare de gânduri.
 patericulegyptantonie1B=>și zicea către Dumnezeu :
-patericulegyptantonie1C=>"Domane, vreau să mă mântuiesc, și nu mă lasă gândurile.
+patericulegyptantonie1C=>"Doamne, vreau să mă mântuiesc, și nu mă lasă gândurile.
 patericulegyptantonie1D=>Ce voi face în necazul meu ? cum mă va mântui ?"
-patericulegyptantonie1E=>și sculându-se puțin, a ieșit afarăși a văzut pe cineva ca pe sine șezând și lucrând, apoi sculându-se de la lucru și rugându-se, apoi iarăși sculându-se la rugăciune.
+patericulegyptantonie1E=>și sculându-se puțin, a ieșit afară și a văzut pe cineva ca pe sine șezând și lucrând, apoi sculându-se de la lucru și rugându-se, apoi iarăși sculându-se la rugăciune.
 patericulegyptantonie1F=>acesta era un înger al Domnului, trimis spre îndreptarea și încredințarea lui Antonie.
 patericulegyptantonie1G=>și a auzit pe înger zicând-i :
 patericulegyptantonie1H=>"fă așa și te vei mântui".
 patericulegyptantonie1I=>iar el, auzind aceasta, s-a umplut de multă bucurie și îndrăzneală.
 patericulegyptantonie1J=>și, făcând așa, se mântuia.
+patericulegyptantonia2A=>|Cronie|, preotul Nitriei, ne-a istorisit nouă că fericitul Antonie povestea :
+patericulegyptantonia2B=>"un an întreg m-am rugat să mi descopere locul drepților și al pacatoșilor.
+patericulegyptantonia2C=>Și am văzut un uriaș care ajungea până la nori.
+patericulegyptantonia2D=>Era negru și avea mâinile întinse până la cer, și sub el se afla un lac având măsura mării.
+patericulegyptantonia2E=>Și am văzut suflete zburând ca niște păsări.
+patericulegyptantonia2F=>Cele ce zburau deasupra mâinilor și capului uriașului se mântuiau.
+patericulegyptantonia2G=>Dimpotrivă, cele ce erau prinse de mâinile lui cădeau în lac.
+patericulegyptantonia2H=>Și a ajuns la mine un glas care a zis :
+patericulegyptantonia2I=>"aceste suflete, pe care le vzei zburând mai sus de acela, sunt sufletele drepților care se mântuiesc în rai.
+patericulegyptantonia2J=>Iar celelalte sunt atrase în iad, urmând voilor trupului și ținerii de minte a răului.
 
 ă
 ș

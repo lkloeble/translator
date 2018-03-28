@@ -1,6 +1,6 @@
 package org.patrologia.translator.rule.romanian;
 
-import org.patrologia.translator.basicelements.VerbRepository;
+import org.patrologia.translator.basicelements.verb.VerbRepository;
 import org.patrologia.translator.rule.Rule;
 import org.patrologia.translator.rule.RuleFactory;
 
@@ -62,6 +62,10 @@ public class RomanianRuleFactory extends RuleFactory {
             return new RuleComposeCuAtitMaiBine();
         }  else if("recomposeArVerb".equals(ruleName)) {
             return new RuleComposeArVerb();
+        } else if("recomposeVaVerb".equals(ruleName)) {
+            return new RuleComposeVaVerb();
+        } else if("electGenitiveForFollowingNoun".equals(ruleName)) {
+            return new RuleElectGenitiveForFollowingNoun();
         }
         return null;
     }

@@ -2,6 +2,8 @@ package org.patrologia.translator.rule.romanian;
 
 import org.patrologia.translator.basicelements.Phrase;
 import org.patrologia.translator.basicelements.Word;
+import org.patrologia.translator.basicelements.WordContainer;
+import org.patrologia.translator.basicelements.WordType;
 import org.patrologia.translator.rule.Rule;
 
 /**
@@ -26,6 +28,8 @@ public class RulePrepAndWordToAssemble extends Rule {
             word.setInitialValue(resultToSubstitue);
             word.setRoot(resultToSubstitue);
             followingWord.setInitialValue("xxtoremovexx");
+            WordContainer wordContainer = phrase.getWordContainerAtPosition(position);
+            wordContainer.deleteAllWordTypeExceptThisOne(WordType.PREPOSITION);
         }
     }
 }

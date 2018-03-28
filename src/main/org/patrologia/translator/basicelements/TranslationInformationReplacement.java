@@ -15,6 +15,7 @@ public class TranslationInformationReplacement {
     private Map<Integer, String> toReplaceMap = new HashMap<>();
     private Map<Integer, String> replacementMap = new HashMap<>();
     private Map<Integer, Integer> positionMap = new HashMap<>();
+    private Map<Integer, String> nounParticipleDeclensionMap = new HashMap<>();
     protected static final String NULL_REPLACEMENT_STRING = "foobar";
     protected static Set<Character> numbers = new HashSet<Character>();
     static {
@@ -41,6 +42,10 @@ public class TranslationInformationReplacement {
             replacementMap.put(indice, replacement);
             int position = Integer.parseInt(elements[3]);
             positionMap.put(indice, position);
+            if(elements.length == 5) {
+                String nounParticipleDeclension = elements[4].replace("[", "").replace("]", "");
+                nounParticipleDeclensionMap.put(indice, nounParticipleDeclension);
+            }
             indice++;
         }
     }

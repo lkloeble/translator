@@ -1,6 +1,11 @@
 package org.patrologia.translator.linguisticimplementations;
 
 import org.patrologia.translator.basicelements.*;
+import org.patrologia.translator.basicelements.modificationlog.ModificationLog;
+import org.patrologia.translator.basicelements.noun.NounRepository;
+import org.patrologia.translator.basicelements.preposition.Preposition;
+import org.patrologia.translator.basicelements.preposition.PrepositionRepository;
+import org.patrologia.translator.basicelements.verb.VerbRepository;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -30,43 +35,27 @@ public class LatinPhraseChanger extends CustomLanguageRulePhraseChanger {
     private static final String QUINQUE = "quinque";
     private NounRepository nounRepository;
     private VerbRepository verbRepository;
-    private  PrepositionRepository prepositionRepository;
+    private PrepositionRepository prepositionRepository;
     private List<String> stopWordsQue = new ArrayList<String>();
     private List<String> stopWordsNe = new ArrayList<String>();
+    private List<String> stopWordsVe = new ArrayList<String>();
+
+    private Accentuer accentuer = new DummyAccentuer();
 
     public LatinPhraseChanger(NounRepository nounRepository, VerbRepository verbRepository, PrepositionRepository prepositionRepository) {
         this.nounRepository = nounRepository;
         this.verbRepository = verbRepository;
         this.prepositionRepository = prepositionRepository;
         this.language = Language.LATIN;
-        /*
-        stopWordsQue.add(QUOQUE);
-        stopWordsQue.add(ITAQUE);
-        stopWordsQue.add(UNUMQUODQUE);
-        stopWordsQue.add(QUINQUE);
-        stopWordsQue.add(UNDIQUE);
-        stopWordsQue.add(DENIQUE);
-        */
         stopWordsQue.addAll(nounRepository.getNounsValueForEndingWith("que"));
         stopWordsQue.addAll(prepositionRepository.getValuesEndingWith("que"));
         stopWordsQue.addAll(verbRepository.getValuesEndingWith("que"));
-        /*
-        stopWordsNe.add(BENE);
-        stopWordsNe.add(BONE);
-        stopWordsNe.add(MANE);
-        stopWordsNe.add(SANE);
-        stopWordsNe.add(PENE);
-        stopWordsNe.add(SINE);
-        stopWordsNe.add(CARNE);
-        stopWordsNe.add(OMNE);
-        stopWordsNe.add(PONE);
-        stopWordsNe.add(PLENE);
-        stopWordsNe.add(DOMINE);
-        stopWordsNe.add(SUME);
-        */
         stopWordsNe.addAll(nounRepository.getNounsValueForEndingWith("ne"));
         stopWordsNe.addAll(prepositionRepository.getValuesEndingWith("ne"));
         stopWordsNe.addAll(verbRepository.getValuesEndingWith("ne"));
+        stopWordsVe.addAll(nounRepository.getNounsValueForEndingWith("ve"));
+        stopWordsVe.addAll(prepositionRepository.getValuesEndingWith("ve"));
+        stopWordsVe.addAll(verbRepository.getValuesEndingWith("ve"));
     }
 
     @Override
@@ -74,15 +63,20 @@ public class LatinPhraseChanger extends CustomLanguageRulePhraseChanger {
         Phrase phrase = substituteEndingNeWithCustomPrep(startPhrase);
         phrase = splitAdPrepositionAndSumConjugation(phrase);
         phrase = splitAbPrepositionAndSumConjugation(phrase);
+        phrase = substituteVeWithSeu(phrase);
         return substituteQueWithEt(phrase);
     }
 
     private Phrase substituteEndingNeWithCustomPrep(Phrase phrase) {
-        return substituteEndPatternWithNewPreposition(phrase, "ne", new Preposition(language, "isntit", null), stopWordsNe);
+        return substituteEndPatternWithNewPreposition(phrase, "ne", new Preposition(language, "isntit", null), stopWordsNe, accentuer);
+    }
+
+    private Phrase substituteVeWithSeu(Phrase phrase) {
+        return substituteEndPatternWithNewPreposition(phrase, "ve", new Preposition(language, "seu", null), stopWordsVe, accentuer);
     }
 
     private Phrase substituteQueWithEt(Phrase phrase) {
-        return substituteEndPatternWithNewPreposition(phrase, "que", new Preposition(language, "et", null), stopWordsQue);
+        return substituteEndPatternWithNewPreposition(phrase, "que", new Preposition(language, "et", null), stopWordsQue, accentuer);
     }
 
     private Phrase splitAdPrepositionAndSumConjugation(Phrase phrase) {

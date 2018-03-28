@@ -1,5 +1,8 @@
 package org.patrologia.translator.conjugation;
 
+import org.patrologia.translator.casenumbergenre.CaseNumberGenre;
+import org.patrologia.translator.declension.Declension;
+
 import java.util.*;
 
 /**
@@ -9,6 +12,17 @@ public class RootedConjugation {
 
     private List<ConjugationPart> conjugationPartList;
     private String constructionName;
+    private boolean isParticipleRelatedToNounDeclension;
+    private String declensionPattern;
+    private Declension declension;
+
+    public RootedConjugation(String constructionName, String values, boolean isParticipleRelatedToNounDeclension, String declensionPattern, Declension declension) {
+        this.constructionName = constructionName;
+        this.isParticipleRelatedToNounDeclension = isParticipleRelatedToNounDeclension;
+        this.declensionPattern = declensionPattern;
+        this.declension = declension;
+        this.conjugationPartList = getConjugationPartList(values);
+    }
 
     public RootedConjugation(String constructionName, String values) {
         this.constructionName = constructionName;
@@ -21,6 +35,26 @@ public class RootedConjugation {
     }
 
     public List<ConjugationPart> getConjugationPartList(String conjugationValues) {
+        if(isParticipleRelatedToNounDeclension)  {
+            return getNounRelatedConjugationPartList(conjugationValues);
+        }
+        return getPureVerbalConjugationPartList(conjugationValues);
+    }
+
+    private List<ConjugationPart> getNounRelatedConjugationPartList(String prefix) {
+        if(conjugationPartList != null && conjugationPartList.size() > 0) return conjugationPartList;
+        List<ConjugationPart> conjugationPartList = new ArrayList<>();
+        Set<Map.Entry<CaseNumberGenre, String>> entries = declension.getAllEndings().entrySet();
+        for(Map.Entry entry : entries) {
+            CaseNumberGenre caseNumberGenre =  (CaseNumberGenre)entry.getKey();
+            String conjugationValue = (String)entry.getValue();
+            ConjugationPart conjugationPart = new ConjugationPart(caseNumberGenre, prefix + conjugationValue, prefix + conjugationValue);
+            conjugationPartList.add(conjugationPart);
+        }
+        return conjugationPartList;
+    }
+
+    private List<ConjugationPart> getPureVerbalConjugationPartList(String conjugationValues) {
         List<ConjugationPart> conjugationPartList = new ArrayList<>();
         String[] valueTab = conjugationValues.split(",");
         if(valueTab.length == 0) return Collections.EMPTY_LIST;
@@ -38,7 +72,6 @@ public class RootedConjugation {
         }
         return conjugationPartList;
     }
-
 
 
     public boolean isThirdPlural(String valueToCheck) {
@@ -161,5 +194,18 @@ public class RootedConjugation {
 
     public String getValueByPosition(int positionFound) {
         return getValueByPosition(ConjugationPosition.getValueByPosition(positionFound));
+    }
+
+    public boolean isParticipleRelatedToNounDeclension() {
+        return isParticipleRelatedToNounDeclension;
+    }
+
+    public String getDeclensionPattern() {
+        return declensionPattern;
+    }
+
+
+    public CaseNumberGenre getElectedCaseNumber(String initialValue) {
+        return declension.getCaseNumberGenreByEndingValue(initialValue);
     }
 }

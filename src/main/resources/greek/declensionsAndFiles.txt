@@ -1,5 +1,6 @@
 ος-ου%secondOs.txt
 ος-ους%batos.txt
+ος-ους2%genos.txt
 inv%invariable.txt
 α-ας%agora.txt
 α-ης%talassa.txt
@@ -36,3 +37,9 @@ apas%apas.txt
 ης-ης-ες%epieikes.txt
 ων-ων-ον%swprwn.txt
 ας-η-α%megas.txt
+υς-υος%ixtus.txt
+ο-ου%ugro.txt
+ων-ονος%kavwv.txt
+ους-η-ουν%aplous.txt
+ους-ουσα-ον%didous.txt
+ων-ουσα-ον%lambanon.txt

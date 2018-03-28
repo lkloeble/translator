@@ -1,4 +1,4 @@
-package org.patrologia.translator.basicelements;
+package org.patrologia.translator.basicelements.modificationlog;
 
 /**
  * Created by lkloeble on 02/09/2016.

@@ -1,5 +1,8 @@
-package org.patrologia.translator.basicelements;
+package org.patrologia.translator.basicelements.noun;
 
+import org.patrologia.translator.basicelements.Accentuer;
+import org.patrologia.translator.basicelements.PairConstructionGender;
+import org.patrologia.translator.basicelements.noun.Noun;
 import org.patrologia.translator.casenumbergenre.Gender;
 
 import java.util.*;
@@ -11,7 +14,7 @@ public class NounMap {
 
     private HashMap<PairConstructionGender, Noun> internalMap = new HashMap<PairConstructionGender, Noun>();
     private Map<String, Set<String>> declensionsForConstructions = new HashMap<>();
-    private Repository repository = new Repository();
+    private Accentuer accentuer = new Accentuer();
 
     public Noun get(String construction, String declension, Gender gender) {
         return internalMap.get(new PairConstructionGender(construction, declension,gender));
@@ -49,7 +52,7 @@ public class NounMap {
     }
 
     private String unaccentuedWithSofit(String value) {
-        return repository.unaccentuedWithSofit(value);
+        return accentuer.unaccentuedWithSofit(value);
     }
 
     private void addNounByGenderAndContruction(String construction, Set<String> declensions, Gender gender, Collection<Noun> nouns) {

@@ -1,5 +1,12 @@
 package org.patrologia.translator.utils;
 
+import org.patrologia.translator.basicelements.modificationlog.ModificationLog;
+import org.patrologia.translator.basicelements.noun.Noun;
+import org.patrologia.translator.basicelements.noun.NounRepository;
+import org.patrologia.translator.basicelements.preposition.Preposition;
+import org.patrologia.translator.basicelements.preposition.PrepositionRepository;
+import org.patrologia.translator.basicelements.verb.Verb;
+import org.patrologia.translator.basicelements.verb.VerbRepository;
 import org.patrologia.translator.casenumbergenre.*;
 import org.patrologia.translator.linguisticimplementations.CustomLanguageRulePhraseChanger;
 import org.patrologia.translator.basicelements.*;
@@ -20,6 +27,7 @@ public class WordAnalyzer {
     private Language language;
     private CustomRule customRule;
     private CaseOperatorContainer caseOperatorContainer;
+    private Accentuer accentuer = new Accentuer();
 
     public WordAnalyzer(PrepositionRepository prepositionRepository, NounRepository nounRepository, VerbRepository verbRepository, CustomLanguageRulePhraseChanger customLanguageRulePhraseChanger, ModificationLog modificationLog, CustomRule customRule, CaseOperatorContainer caseOperatorContainer, Language language) {
         this.prepositionRepository = prepositionRepository;
@@ -69,22 +77,19 @@ public class WordAnalyzer {
                     result.addWordsAtPosition(indice, wordsToAdd);
                 }
                 if (unknownYet.isVerb() || unknownYet.isTypeUnknow() && verbRepository.hasVerb(initialValue)) {
-                    Verb verb = verbRepository.getVerb(initialValue);
-                    verb.setInitialValue(initialValue);
-                    verb.setPreferedTranslation(unknownYet.getPreferedTranslation());
-                    if(unknownYet.isVerb()) {
-                        verb.setForbiddenConjugations(unknownYet.getForbiddenConjugations());
-                        verb.setGender(unknownYet.getGender());
+                    Collection<Verb> verbs = verbRepository.getVerbs(initialValue);
+                    Collection<Word> wordsToAdd = new ArrayList<>();
+                    for(Verb verb : verbs) {
+                        verb.setInitialValue(accentuer.unaccentued(initialValue));
+                        verb.setPreferedTranslation(unknownYet.getPreferedTranslation());
+                        if (unknownYet.isVerb()) {
+                            verb.setForbiddenConjugations(unknownYet.getForbiddenConjugations());
+                            verb.setGender(unknownYet.getGender());
+                        }
+                        wordsToAdd.add((Word) verb);
                     }
-                    result.addWordAtPosition(indice, verb);
+                    result.addWordsAtPosition(indice, wordsToAdd);
                 }
-                /*
-                if(unknownYet.isTypeUnknow() && demonstrativeRepository.hasDemonstrative(initialValue)) {
-                    Demonstrative demonstrative = demonstrativeRepository.getDemonstrative(initialValue);
-                    demonstrative.setPreferedTranslation(unknownYet.getPreferedTranslation());
-                    result.addWordAtPosition(indice, demonstrative);
-                }
-                */
                 if(unknownYet.isTypeUnknow() && shouldNotBeTranslated(initialValue)) {
                     result.addWordAtPosition(indice, new NoTranslationWord(language,initialValue));
                 }

@@ -1,6 +1,6 @@
 package org.patrologia.translator.linguisticimplementations;
 
-import org.patrologia.translator.basicelements.Noun;
+import org.patrologia.translator.basicelements.noun.Noun;
 
 /**
  * Created by lkloeble on 08/08/2017.

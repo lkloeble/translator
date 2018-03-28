@@ -1,4 +1,5 @@
 nom%sing%neut%
 gen%sing%neut%gg
+acc%sing%neut%
 noma%plr%neut%pp
 nomb%plr%masc%pp

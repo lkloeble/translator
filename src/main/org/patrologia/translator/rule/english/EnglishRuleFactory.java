@@ -58,6 +58,8 @@ public class EnglishRuleFactory extends RuleFactory {
             return new RuleOfCourse();
         } else if ("followUpVerbFinder".equals(ruleName)) {
             return new RuleVerbUpFinder();
+        } else if ("rootOutVerbFinder".equals(ruleName)) {
+            return new RootOutVerbFinder();
         }
         return null;
     }

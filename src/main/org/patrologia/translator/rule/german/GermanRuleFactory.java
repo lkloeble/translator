@@ -1,6 +1,6 @@
 package org.patrologia.translator.rule.german;
 
-import org.patrologia.translator.basicelements.VerbRepository;
+import org.patrologia.translator.basicelements.verb.VerbRepository;
 import org.patrologia.translator.rule.Rule;
 import org.patrologia.translator.rule.RuleElectPersonInFollowingVerb;
 import org.patrologia.translator.rule.RuleFactory;

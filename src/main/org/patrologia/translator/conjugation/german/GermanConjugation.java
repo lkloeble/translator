@@ -1,5 +1,6 @@
 package org.patrologia.translator.conjugation.german;
 
+import org.patrologia.translator.basicelements.noun.NounRepository;
 import org.patrologia.translator.conjugation.Conjugation;
 import org.patrologia.translator.conjugation.ConjugationLoader;
 import org.patrologia.translator.conjugation.VerbDefinition;
@@ -18,8 +19,9 @@ public class GermanConjugation extends Conjugation {
 
     protected static List<String> times = Arrays.asList(new String[]{"IPR","PAP","AIMP","AIP","AII","AIF","ASP","PAPR","SPA"});
 
-    public GermanConjugation(List<String> conjugationElements, VerbDefinition verbDefinition) {
+    public GermanConjugation(List<String> conjugationElements, VerbDefinition verbDefinition, NounRepository nounRepository) {
         this.verbDefinition = verbDefinition;
+        this.nounRepository = nounRepository;
         initializeMap(conjugationElements);
     }
 

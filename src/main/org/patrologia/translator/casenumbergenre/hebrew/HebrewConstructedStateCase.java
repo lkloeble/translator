@@ -46,5 +46,4 @@ public class HebrewConstructedStateCase extends HebrewCase {
     public String getTrigramForCase() {
         return "cst";
     }
-
 }

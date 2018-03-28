@@ -54,3 +54,4 @@ x-gis%lex.txt
 s-nis%sanguis.txt
 on-i%criterion.txt
 ut-itis%caput.txt
+s-dis%tigris.txt

@@ -1,5 +1,8 @@
-package org.patrologia.translator.basicelements;
+package org.patrologia.translator.basicelements.noun;
 
+import org.patrologia.translator.basicelements.*;
+import org.patrologia.translator.basicelements.preposition.Preposition;
+import org.patrologia.translator.basicelements.verb.Verb;
 import org.patrologia.translator.casenumbergenre.Case;
 import org.patrologia.translator.casenumbergenre.CaseNumberGenre;
 import org.patrologia.translator.casenumbergenre.Gender;
@@ -253,6 +256,7 @@ public class Noun extends Word {
     }
 
     public boolean isNotPrecededByAPrepositionWithRule() {
+        if(phrase == null) return false;
         WordContainer precedingWordContainer = phrase.getWordContainerAtPosition(positionInPhrase - 1);
         boolean preposition = precedingWordContainer.getWordByType(WordType.PREPOSITION).isPreposition();
         if (!preposition) return true;

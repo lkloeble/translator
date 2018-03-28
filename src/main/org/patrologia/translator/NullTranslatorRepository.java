@@ -1,7 +1,7 @@
 package org.patrologia.translator;
 
 import org.patrologia.translator.basicelements.Analysis;
-import org.patrologia.translator.basicelements.DefaultFinalModifier;
+import org.patrologia.translator.basicelements.modifier.DefaultFinalModifier;
 import org.patrologia.translator.basicelements.NullTranslation;
 import org.patrologia.translator.basicelements.Translation;
 

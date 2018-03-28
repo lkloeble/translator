@@ -1,6 +1,12 @@
 package org.patrologia.translator.linguisticimplementations;
 
 import org.patrologia.translator.basicelements.*;
+import org.patrologia.translator.basicelements.modificationlog.EnglishModificationLog;
+import org.patrologia.translator.basicelements.noun.NounRepository;
+import org.patrologia.translator.basicelements.preposition.Preposition;
+import org.patrologia.translator.basicelements.preposition.PrepositionRepository;
+import org.patrologia.translator.basicelements.verb.Verb;
+import org.patrologia.translator.basicelements.verb.VerbRepository;
 import org.patrologia.translator.casenumbergenre.CaseOperatorContainer;
 import org.patrologia.translator.casenumbergenre.NullCase;
 import org.patrologia.translator.conjugation.Conjugation;
@@ -51,11 +57,36 @@ public class EnglishAnalyzer implements Analizer {
         Phrase replaceWouldVerbalConstruction = replaceWouldVerbalConstruction(replaceDoVerbalConstruction);
         Phrase replaceWillVerbalConstruction = replaceWillVerbalConstruction(replaceWouldVerbalConstruction);
         Phrase replaceLikeVerbalPresentParticipleConstruction = replaceLikeVerbalConstruction(replaceWillVerbalConstruction);
-        return phraseAnalizer.affectAllPossibleInformationsBetweenWords(Language.ENGLISH, replaceLikeVerbalPresentParticipleConstruction);
+        Phrase affectPAPConjugationForPrecedingHaveAndBeVerbs = findPAPConjugationFOrm(replaceLikeVerbalPresentParticipleConstruction);
+        return phraseAnalizer.affectAllPossibleInformationsBetweenWords(Language.ENGLISH, affectPAPConjugationForPrecedingHaveAndBeVerbs);
+    }
+
+    private Phrase findPAPConjugationFOrm(Phrase phrase) {
+        Set<Integer> indices = phrase.keySet();
+        for(int indice : indices) {
+            WordContainer currentContainer = phrase.getWordContainerAtPosition(indice);
+            WordContainer followingContainer = phrase.getWordContainerAtPosition(indice + 1);
+            String currentWord = currentContainer.getInitialValue();
+            String followingWord = followingContainer.getInitialValue();
+            if(!verbRepository.hasVerb(currentWord)&& verbRepository.hasVerb(followingWord)) continue;
+            Verb currentVerb = verbRepository.getVerb(currentWord);
+            if(!currentVerb.getRoot().equals("have") && !currentVerb.getRoot().equals("be")) continue;
+            Verb followingVerb = verbRepository.getVerb(followingWord);
+            followingVerb.setInitialValue(followingWord);
+            if(verbRepository.isConjugation(followingVerb,"PAP")) {
+                followingVerb.setConjugation("PAP");
+                WordContainer newWordContainer = new WordContainer(followingVerb,indice+1,Language.ENGLISH);
+                phrase.addWordContainerAtPosition(indice+1, newWordContainer, phrase);
+            }
+        }
+        return phrase;
     }
 
     private String handleSpecialChars(String sentence) {
-        return sentence.replace("ï","i").replace("A.D.","adabrev").replace(":"," : ");
+        return sentence.replace("ï","i")
+                .replace("A.D.","adabrev")
+                .replace(":"," : ")
+                .replace("ë","e");
 
     }
 
@@ -154,7 +185,7 @@ public class EnglishAnalyzer implements Analizer {
         String formerInitialValue = "";
         for(WordContainer wordContainer : possibleVerbs) {
             Verb verb = (Verb)wordContainer.getWordByType(WordType.VERB);
-            if(verb.getRoot().equals(rootVerb)) {
+            if(verb.getRoot().equals(rootVerb) && !verb.getInitialValue().equals("willd")) {
                 hasSearchedVerb = true;
                 verbPosition = wordContainer.getPosition();
                 verbTranslationPosition = verb.getPositionInTranslationTable();
@@ -178,7 +209,7 @@ public class EnglishAnalyzer implements Analizer {
         WordContainer otherVerbWordContainer = phrase.getWordContainerAtPosition(otherVerbPositionToCorrect);
         Verb otherVerb = (Verb)otherVerbWordContainer.getWordByType(WordType.VERB);
         otherVerb.setPositionInTranslationTable(verbTranslationPosition);
-        String newInitialValue = verbRepository.getEquivalentForOtherRoot(otherVerb.getRoot(), otherVerb.getInitialValue(), formerInitialValue, rootVerb, verbTranslationPosition ,new DefaultLanguageSelector());
+        String newInitialValue = verbRepository.getEquivalentForOtherRoot(otherVerb.getRoot(), formerInitialValue, rootVerb, verbTranslationPosition ,new DefaultLanguageSelector());
         if(endConjugationModifier.length() == 0) {
             //phrase.modifyWordContenAndRootAtPosition(newInitialValue + endConjugationModifier, verbPosition);
             phrase.modifyOnlyRootAtPosition(otherVerb.getRoot(), verbPosition);
@@ -215,7 +246,7 @@ public class EnglishAnalyzer implements Analizer {
                 int correctPosition = possibleTranlationPositions.size() == 1 ? possibleTranlationPositions.get(0) :  Language.ENGLISH.getDefaultPositionInTranslationTableVerb();
                 followingVerb.setConjugation(constructionName);
                 followingVerb.setPositionInTranslationTable(correctPosition);
-                followingVerb.updateInitialValue(verbRepository.getEquivalentForOtherRoot(followingVerb.getRoot(), followingVerb.getInitialValue(), currentVerb.getInitialValue(), "be", correctPosition,new DefaultLanguageSelector()));
+                followingVerb.updateInitialValue(verbRepository.getEquivalentForOtherRoot(followingVerb.getRoot(), currentVerb.getInitialValue(), "be", correctPosition,new DefaultLanguageSelector()));
                 currentWord.updateInitialValue(Word.WORD_TO_REMOVE);
             }
         }

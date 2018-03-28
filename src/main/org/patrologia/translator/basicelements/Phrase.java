@@ -1,5 +1,8 @@
 package org.patrologia.translator.basicelements;
 
+import org.patrologia.translator.basicelements.noun.Noun;
+import org.patrologia.translator.basicelements.preposition.Preposition;
+import org.patrologia.translator.basicelements.verb.Verb;
 import org.patrologia.translator.casenumbergenre.Number;
 
 import java.util.*;
@@ -65,7 +68,8 @@ public class Phrase {
     }
 
     public void addWordContainerAtPosition(Integer indice, WordContainer wordContainer, Phrase phraseToAdd) {
-        wordContainersWithPosition.put(indice, getCloneContainer(wordContainer, phraseToAdd, indice));
+        WordContainer cloneContainer = getCloneContainer(wordContainer, phraseToAdd, indice);
+        wordContainersWithPosition.put(indice, cloneContainer);
     }
 
     private WordContainer getCloneContainer(WordContainer wordContainer, Phrase phraseToAdd, Integer indice) {

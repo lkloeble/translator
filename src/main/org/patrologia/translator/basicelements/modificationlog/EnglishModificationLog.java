@@ -1,6 +1,8 @@
-package org.patrologia.translator.linguisticimplementations;
+package org.patrologia.translator.basicelements.modificationlog;
 
 import org.patrologia.translator.basicelements.*;
+import org.patrologia.translator.basicelements.noun.Noun;
+import org.patrologia.translator.basicelements.preposition.Preposition;
 import org.patrologia.translator.casenumbergenre.CaseNumberGenre;
 import org.patrologia.translator.casenumbergenre.Gender;
 import org.patrologia.translator.casenumbergenre.NullCase;
@@ -47,6 +49,7 @@ public class EnglishModificationLog extends ModificationLog {
                         Noun mayBeInversedNoun = (Noun)mayBeInversed;
                         List<CaseNumberGenre> mayBeInversedPossibleCaseNumbers = mayBeInversedNoun.getPossibleCaseNumbers();
                         mayBeInversed.modifyContentByPatternReplacement(lastValue, firstValue);
+                        mayBeInversed.setRoot(firstValue);
                         mayBeInversedNoun.setGender(currentGender);
                         currentNoun.setGender(mayBeInversedGender);
                         mayBeInversedNoun.setPossibleCaseNumbers(currentNounPossibleCaseNumbers);

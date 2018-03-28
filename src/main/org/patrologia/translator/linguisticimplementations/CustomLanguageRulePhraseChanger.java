@@ -1,9 +1,12 @@
 package org.patrologia.translator.linguisticimplementations;
 
 import org.patrologia.translator.basicelements.*;
+import org.patrologia.translator.basicelements.modificationlog.ModificationLog;
+import org.patrologia.translator.basicelements.noun.Noun;
+import org.patrologia.translator.basicelements.preposition.Preposition;
+import org.patrologia.translator.basicelements.verb.VerbRepository;
 import org.patrologia.translator.rule.RuleFactory;
 import org.patrologia.translator.utils.ExpressionHolder;
-import org.patrologia.translator.utils.StringUtils;
 
 import java.util.Collections;
 import java.util.List;
@@ -18,10 +21,10 @@ public abstract class CustomLanguageRulePhraseChanger {
 
     public abstract Phrase modifyPhrase(Phrase startPhrase, ModificationLog modificationLog, CustomRule customRule);
 
-    protected boolean endsWithPattern(WordContainer wordAtPosition, String patternToFind, List<String> stopWords) {
+    protected boolean endsWithPattern(WordContainer wordAtPosition, String patternToFind, List<String> stopWords, Accentuer accentuer) {
         String initialValue = wordAtPosition.getInitialValue() != null ? wordAtPosition.getInitialValue() : "";
         if(stopWords.contains(wordAtPosition.getInitialValue().toLowerCase())) return false;
-        if(stopWords.contains(StringUtils.unaccentuate(wordAtPosition.getInitialValue().toLowerCase()))) return false;
+        if(stopWords.contains(accentuer.unaccentued(wordAtPosition.getInitialValue().toLowerCase()))) return false;
         if(wordAtPosition.getInitialValue().length() == patternToFind.length()) return false;
         return initialValue.toLowerCase().endsWith(patternToFind);
     }
@@ -50,11 +53,11 @@ public abstract class CustomLanguageRulePhraseChanger {
         return modifiedWord;
     }
 
-    protected Phrase substituteEndPatternWithNewPreposition(Phrase phrase, String endingPattern, Word word, List<String> stopWords) {
+    protected Phrase substituteEndPatternWithNewPreposition(Phrase phrase, String endingPattern, Word word, List<String> stopWords, Accentuer accentuer) {
         Set<Integer> integers = phrase.keySet();
         int numberOfEndingPattern = 0;
         for(Integer indice : integers) {
-            numberOfEndingPattern += endsWithPattern(phrase.getWordContainerAtPosition(indice), endingPattern, stopWords) ? 1 : 0;
+            numberOfEndingPattern += endsWithPattern(phrase.getWordContainerAtPosition(indice), endingPattern, stopWords,accentuer) ? 1 : 0;
         }
         if(numberOfEndingPattern == 0) {
             return phrase;
@@ -62,7 +65,7 @@ public abstract class CustomLanguageRulePhraseChanger {
         Phrase newPhrase = new Phrase(phrase.size() + numberOfEndingPattern,language);
         int newPhraseIndice = 1;
         for(Integer indice : integers) {
-            if(endsWithPattern(phrase.getWordContainerAtPosition(indice), endingPattern, stopWords)) {
+            if(endsWithPattern(phrase.getWordContainerAtPosition(indice), endingPattern, stopWords,accentuer)) {
                 newPhrase.addWordAtPosition(newPhraseIndice, word);
                 newPhrase.addWordAtPosition(newPhraseIndice+1, wordWithoutEndingPattern(phrase.getWordContainerAtPosition(indice), endingPattern));
                 newPhraseIndice+=2;
@@ -74,12 +77,12 @@ public abstract class CustomLanguageRulePhraseChanger {
         return newPhrase;
     }
 
-    protected Phrase substituteBeginPatternWithNewWord(Phrase phrase, String beginPattern, Word wordReplace) {
+    protected Phrase substituteBeginPatternWithNewWord(Phrase phrase, String beginPattern, Word wordReplace, Accentuer accentuer) {
         Set<Integer> integers = phrase.keySet();
         int numberOfBeginPattern = 0;
         Set<List<String>> emptyListSet = Collections.singleton(Collections.EMPTY_LIST);
         for(Integer indice : integers) {
-            numberOfBeginPattern += startsWithLetter(phrase.getWordContainerAtPosition(indice).getUniqueWord(), beginPattern, emptyListSet) ? 1 : 0;
+            numberOfBeginPattern += startsWithLetter(phrase.getWordContainerAtPosition(indice).getUniqueWord(), beginPattern, emptyListSet, accentuer) ? 1 : 0;
         }
         if(numberOfBeginPattern == 0) {
             return phrase;
@@ -87,7 +90,7 @@ public abstract class CustomLanguageRulePhraseChanger {
         Phrase newPhrase = new Phrase(phrase.size() + numberOfBeginPattern,language);
         int newPhraseIndice = 1;
         for(Integer indice : integers) {
-            if(startsWithLetter(phrase.getWordContainerAtPosition(indice).getUniqueWord(), beginPattern, emptyListSet)) {
+            if(startsWithLetter(phrase.getWordContainerAtPosition(indice).getUniqueWord(), beginPattern, emptyListSet, accentuer)) {
                 newPhrase.addWordAtPosition(newPhraseIndice+1, wordWithoutBeginningPattern(phrase.getWordContainerAtPosition(indice), beginPattern));
                 newPhrase.addWordAtPosition(newPhraseIndice, wordReplace);
                 newPhraseIndice+=2;
@@ -123,11 +126,11 @@ public abstract class CustomLanguageRulePhraseChanger {
         return newPhrase;
     }
 
-    protected Phrase extractLetterFromBeginningOfWord(Phrase phrase, String letter, List<String> stopWords, RuleFactory ruleFactory, String ruleName) {
+    protected Phrase extractLetterFromBeginningOfWord(Phrase phrase, String letter, List<String> stopWords, RuleFactory ruleFactory, String ruleName, Accentuer accentuer) {
         Set<Integer> integers = phrase.keySet();
         int numberOfStartingLetter = 0;
         for(Integer indice : integers) {
-            numberOfStartingLetter += startsWithLetter(phrase.getWordContainerAtPosition(indice).getUniqueWord(), letter, Collections.singleton(stopWords)) ? 1 : 0;
+            numberOfStartingLetter += startsWithLetter(phrase.getWordContainerAtPosition(indice).getUniqueWord(), letter, Collections.singleton(stopWords), accentuer) ? 1 : 0;
         }
         if(numberOfStartingLetter == 0) {
             return phrase;
@@ -135,7 +138,7 @@ public abstract class CustomLanguageRulePhraseChanger {
         Phrase newPhrase = new Phrase(phrase.size() + numberOfStartingLetter,language);
         int newPhraseIndice = 1;
         for(Integer indice : integers) {
-            if(startsWithLetter(phrase.getWordContainerAtPosition(indice).getUniqueWord(), letter, Collections.singleton(stopWords))) {
+            if(startsWithLetter(phrase.getWordContainerAtPosition(indice).getUniqueWord(), letter, Collections.singleton(stopWords), accentuer)) {
                 Noun leadingLetter = new Noun(language,letter, letter, Collections.EMPTY_LIST, null, null, null, Collections.EMPTY_LIST);//gugu
                 if(ruleName != null) {
                     leadingLetter.addRule(ruleFactory.getRuleByName(ruleName,leadingLetter.getInitialValue()));
@@ -159,9 +162,10 @@ public abstract class CustomLanguageRulePhraseChanger {
         return verbRepository.getVerb(formWithoutLeadingPreposition).getRoot().equals(verbForm);
     }
 
-    protected boolean startsWithLetter(Word word, String letter, Set<List<String>> stopWordsLists) {
+    protected boolean startsWithLetter(Word word, String letter, Set<List<String>> stopWordsLists, Accentuer accentuer) {
         String initialValue = word.getInitialValue() != null ? word.getInitialValue() : "";
         for(List<String> stopWords : stopWordsLists) {
+            if (stopWords.contains(accentuer.unaccentued(word.getInitialValue().toLowerCase()))) return false;
             if (stopWords.contains(word.getInitialValue().toLowerCase())) return false;
         }
         if(word.getRoot().length() ==  1) return false;

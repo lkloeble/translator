@@ -1,7 +1,10 @@
 package org.patrologia.translator.linguisticimplementations;
 
-import org.patrologia.translator.DefaultModificationLog;
+import org.patrologia.translator.basicelements.modificationlog.DefaultModificationLog;
 import org.patrologia.translator.basicelements.*;
+import org.patrologia.translator.basicelements.noun.NounRepository;
+import org.patrologia.translator.basicelements.preposition.PrepositionRepository;
+import org.patrologia.translator.basicelements.verb.VerbRepository;
 import org.patrologia.translator.casenumbergenre.AvoidCaseOperator;
 import org.patrologia.translator.casenumbergenre.CaseOperatorContainer;
 import org.patrologia.translator.casenumbergenre.hebrew.HebrewDirectionalCase;

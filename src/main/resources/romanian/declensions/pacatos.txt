@@ -1,0 +1,15 @@
+noma%sing%masc%s
+nomb%sing%masc%sul
+nom%sing%fem%oasa
+nom%sing%neut%s
+gen%sing%masc%sului
+gen%sing%fem%oasei
+gen%sing%neut%sului
+noma%plr%masc%si
+nomb%plr%masc%sii
+noma%plr%fem%ase
+nomb%plr%fem%sele
+nom%plr%neut%si
+gen%plr%masc%silor
+gen%plr%fem%oaselor
+gen%plr%neut%silor

@@ -1,5 +1,7 @@
 package org.patrologia.translator.basicelements;
 
+import org.patrologia.translator.basicelements.modifier.FinalModifier;
+
 /**
  * Created by Laurent KLOEBLE on 01/09/2015.
  */

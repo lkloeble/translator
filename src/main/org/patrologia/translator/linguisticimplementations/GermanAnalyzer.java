@@ -1,7 +1,12 @@
 package org.patrologia.translator.linguisticimplementations;
 
-import org.patrologia.translator.DefaultModificationLog;
+import org.patrologia.translator.basicelements.modificationlog.DefaultModificationLog;
 import org.patrologia.translator.basicelements.*;
+import org.patrologia.translator.basicelements.noun.NounRepository;
+import org.patrologia.translator.basicelements.preposition.Preposition;
+import org.patrologia.translator.basicelements.preposition.PrepositionRepository;
+import org.patrologia.translator.basicelements.verb.Verb;
+import org.patrologia.translator.basicelements.verb.VerbRepository;
 import org.patrologia.translator.casenumbergenre.CaseOperatorContainer;
 import org.patrologia.translator.conjugation.Conjugation;
 import org.patrologia.translator.rule.german.GermanRuleFactory;
@@ -25,7 +30,7 @@ public class GermanAnalyzer implements Analizer {
 
     public GermanAnalyzer(PrepositionRepository prepositionRepository, NounRepository nounRepository, VerbRepository verbRepository) {
         wordAnalyzer = new WordAnalyzer(prepositionRepository, nounRepository, verbRepository, new GermanPhraseChanger(nounRepository, new GermanRuleFactory(verbRepository),verbRepository), new DefaultModificationLog(), new CustomRule(),  new CaseOperatorContainer(nounRepository,prepositionRepository),Language.GERMAN);
-        germanNounSplitter = new GermanNounSplitter(nounRepository,prepositionRepository);
+        germanNounSplitter = new GermanNounSplitter(nounRepository,prepositionRepository,verbRepository);
         this.verbRepository = verbRepository;
     }
 

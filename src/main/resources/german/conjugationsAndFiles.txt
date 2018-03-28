@@ -14,3 +14,5 @@ segnen%segnen.txt
 genesen%genesen.txt
 bedauern%bedauern.txt
 stehen%stehen.txt
+wenden%wenden.txt
+pflanzen%pflanzen.txt

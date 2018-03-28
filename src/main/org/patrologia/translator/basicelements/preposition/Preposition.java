@@ -1,5 +1,8 @@
-package org.patrologia.translator.basicelements;
+package org.patrologia.translator.basicelements.preposition;
 
+import org.patrologia.translator.basicelements.Language;
+import org.patrologia.translator.basicelements.Word;
+import org.patrologia.translator.basicelements.WordType;
 import org.patrologia.translator.casenumbergenre.*;
 
 import java.util.ArrayList;

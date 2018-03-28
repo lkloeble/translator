@@ -1,0 +1,2 @@
+IPR=>it,itsi,ite,item,itetsi,it
+PAP=>is

@@ -1,10 +1,10 @@
 import org.junit.Before;
 import org.junit.Test;
 import org.patrologia.translator.TranslatorBridge;
-import org.patrologia.translator.basicelements.Language;
-import org.patrologia.translator.basicelements.NounRepository;
-import org.patrologia.translator.basicelements.PrepositionRepository;
-import org.patrologia.translator.basicelements.VerbRepository;
+import org.patrologia.translator.basicelements.*;
+import org.patrologia.translator.basicelements.noun.NounRepository;
+import org.patrologia.translator.basicelements.preposition.PrepositionRepository;
+import org.patrologia.translator.basicelements.verb.VerbRepository;
 import org.patrologia.translator.casenumbergenre.hebrew.HebrewCaseFactory;
 import org.patrologia.translator.conjugation.hebrew.HebrewConjugationFactory;
 import org.patrologia.translator.declension.Declension;
@@ -44,10 +44,10 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
         String hebrewPathFile = "C:\\translator\\src\\test\\resources\\hebrew_content.txt";
         String hebrewResultFile = "C:\\translator\\src\\test\\resources\\hebrew_expected_results.txt";
         HebrewDeclensionFactory hebrewDeclensionFactory = new HebrewDeclensionFactory(getDeclensions(declensionsAndFiles), getDeclensionList(declensionsAndFiles, declensionPath));
-        VerbRepository verbRepository = new VerbRepository(new HebrewConjugationFactory(getHebrewConjugations(conjugationsAndFiles), getHebrewConjugationDefinitions(conjugationsAndFiles, conjugationPath)), Language.HEBREW, getVerbs(verbFileDescription));
+        NounRepository nounRepository = new NounRepository(Language.HEBREW, hebrewDeclensionFactory, new Accentuer(),getFileContentForRepository(nounFileDescription));
+        VerbRepository verbRepository = new VerbRepository(new HebrewConjugationFactory(getHebrewConjugations(conjugationsAndFiles), getHebrewConjugationDefinitions(conjugationsAndFiles, conjugationPath), nounRepository), Language.HEBREW, new DummyAccentuer(),getVerbs(verbFileDescription));
         HebrewRuleFactory ruleFactory = new HebrewRuleFactory();
         PrepositionRepository prepositionRepository = new PrepositionRepository(Language.HEBREW, new HebrewCaseFactory(), ruleFactory, getFileContentForRepository(prepositionFileDescription));
-        NounRepository nounRepository = new NounRepository(Language.HEBREW, hebrewDeclensionFactory, getFileContentForRepository(nounFileDescription));
         Analizer hebrewAnalyzer = new HebrewAnalyzer(prepositionRepository, nounRepository, verbRepository);
         Translator frenchTranslator = new FrenchTranslator(getFileContentForRepository(hebrewFrenchDataFile), getFileContentForRepository(frenchVerbsDataFile), verbRepository, nounRepository, declensionPath, declensionsAndFiles, hebrewDeclensionFactory);
         translatorBridge = new TranslatorBridge(hebrewAnalyzer, frenchTranslator);
@@ -127,28 +127,6 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_weingreen_chapter_29() {
         assertEquals(2, 2);
-    }
-
-    @Test
-    public void test_weingreen_chapter_30() {
-        checkInMaps("wein30A", translatorBridge);
-        checkInMaps("wein30B", translatorBridge);
-        checkInMaps("wein30C", translatorBridge);
-        checkInMaps("wein30D", translatorBridge);
-        checkInMaps("wein30E", translatorBridge);
-        checkInMaps("wein30F", translatorBridge);
-        checkInMaps("wein30G", translatorBridge);
-        checkInMaps("wein30H", translatorBridge);
-        checkInMaps("wein30I", translatorBridge);
-        checkInMaps("wein30J", translatorBridge);
-        checkInMaps("wein30K", translatorBridge);
-        checkInMaps("wein30L", translatorBridge);
-        checkInMaps("wein30M", translatorBridge);
-        checkInMaps("wein30N", translatorBridge);
-        checkInMaps("wein30O", translatorBridge);
-        checkInMaps("wein30P", translatorBridge);
-        checkInMaps("wein30Q", translatorBridge);
-        checkInMaps("wein30R", translatorBridge);
     }
 
     @Test

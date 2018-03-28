@@ -1,5 +1,6 @@
 package org.patrologia.translator.conjugation.greek;
 
+import org.patrologia.translator.basicelements.noun.NounRepository;
 import org.patrologia.translator.conjugation.ConjugationFactory;
 import org.patrologia.translator.conjugation.VerbDefinition;
 
@@ -13,10 +14,12 @@ import java.util.Map;
 public class GreekConjugationFactory extends ConjugationFactory {
 
     private Map<String, List<String>> conjugationsDefinitionsList;
+    private NounRepository nounRepository;
 
-    public GreekConjugationFactory(List<String> conjugationDefinitions, Map<String, List<String>> conjugationsDefinitionsList) {
+    public GreekConjugationFactory(List<String> conjugationDefinitions, Map<String, List<String>> conjugationsDefinitionsList, NounRepository nounRepository) {
         conjugations = new HashMap<>();
         this.conjugationsDefinitionsList = conjugationsDefinitionsList;
+        this.nounRepository = nounRepository;
         populateConjugationMap(conjugationDefinitions);
     }
 
@@ -26,7 +29,7 @@ public class GreekConjugationFactory extends ConjugationFactory {
         if(conjugationPattern == null) {
             return new NullGreekConjugation();
         }
-        return new GreekConjugation(conjugationsDefinitionsList.get(conjugationPattern), verbDefinition);    }
+        return new GreekConjugation(conjugationsDefinitionsList.get(conjugationPattern), verbDefinition, nounRepository);    }
 
     @Override
     public String getConjugationSynonym(VerbDefinition verbDefinition) {

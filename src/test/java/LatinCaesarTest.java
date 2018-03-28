@@ -27,8 +27,11 @@ public class LatinCaesarTest  extends LatinTranslatorBridgeTest  {
         checkInMaps("caesar1C5", translatorBridge);
         checkInMaps("caesar1C6", translatorBridge);
         checkInMaps("caesar1C7", translatorBridge);
-        checkInMaps("caesar1D1", translatorBridge);
-        checkInMaps("caesar1D2", translatorBridge);
+        checkInMaps("caesar1C8", translatorBridge);
+        checkInMaps("caesar1D1A", translatorBridge);
+        checkInMaps("caesar1D1B", translatorBridge);
+        checkInMaps("caesar1D1C", translatorBridge);
+        checkInMaps("caesar1D2D", translatorBridge);
         checkInMaps("caesar1D3", translatorBridge);
         checkInMaps("caesar1D4", translatorBridge);
         checkInMaps("caesar1E1", translatorBridge);

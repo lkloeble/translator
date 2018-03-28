@@ -1,10 +1,10 @@
 import org.junit.Before;
 import org.junit.Test;
 import org.patrologia.translator.TranslatorBridge;
-import org.patrologia.translator.basicelements.Language;
-import org.patrologia.translator.basicelements.NounRepository;
-import org.patrologia.translator.basicelements.PrepositionRepository;
-import org.patrologia.translator.basicelements.VerbRepository;
+import org.patrologia.translator.basicelements.*;
+import org.patrologia.translator.basicelements.noun.NounRepository;
+import org.patrologia.translator.basicelements.preposition.PrepositionRepository;
+import org.patrologia.translator.basicelements.verb.VerbRepository;
 import org.patrologia.translator.casenumbergenre.romanian.RomanianCaseFactory;
 import org.patrologia.translator.conjugation.romanian.RomanianConjugationFactory;
 import org.patrologia.translator.declension.Declension;
@@ -16,10 +16,7 @@ import org.patrologia.translator.linguisticimplementations.Translator;
 import org.patrologia.translator.rule.romanian.RomanianRuleFactory;
 import org.patrologia.translator.utils.Analizer;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 import static junit.framework.Assert.assertTrue;
 import static junit.framework.TestCase.assertEquals;
@@ -45,12 +42,12 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         String romanianPathFile = "E:\\translator\\src\\test\\resources\\romanian_content.txt";
         String romanianResultFile = "E:\\translator\\src\\test\\resources\\romanian_expected_results.txt";
         RomanianDeclensionFactory romanianDeclensionFactory = new RomanianDeclensionFactory(getDeclensions(declensionsAndFiles), getDeclensionList(declensionsAndFiles, declensionPath));
-        VerbRepository verbRepository = new VerbRepository(new RomanianConjugationFactory(getRomanianConjugations(conjugationsAndFiles), getRomanianConjugationDefinitions(conjugationsAndFiles, conjugationPath)), Language.ROMANIAN, getVerbs(verbFileDescription));
+        NounRepository nounRepository = new NounRepository(Language.ROMANIAN, romanianDeclensionFactory, new DummyAccentuer(),getFileContentForRepository(nounFileDescription));
+        VerbRepository verbRepository = new VerbRepository(new RomanianConjugationFactory(getRomanianConjugations(conjugationsAndFiles), getRomanianConjugationDefinitions(conjugationsAndFiles, conjugationPath), nounRepository), Language.ROMANIAN, new DummyAccentuer(), getVerbs(verbFileDescription));
         RomanianRuleFactory ruleFactory = new RomanianRuleFactory(verbRepository);
         PrepositionRepository prepositionRepository = new PrepositionRepository(Language.ROMANIAN, new RomanianCaseFactory(), ruleFactory, getFileContentForRepository(prepositionFileDescription));
-        NounRepository nounRepository = new NounRepository(Language.ROMANIAN, romanianDeclensionFactory, getFileContentForRepository(nounFileDescription));
         Analizer romanianAnalyzer = new RomanianAnalyzer(prepositionRepository, nounRepository, verbRepository);
-        Translator frenchTranslator = new FrenchTranslator(getFileContentForRepository(romanianFrenchDataFile), getFileContentForRepository(frenchVerbsDataFile), verbRepository, nounRepository, declensionPath, declensionsAndFiles, romanianDeclensionFactory);
+        Translator frenchTranslator = new FrenchTranslator(getFileContentForRepository(romanianFrenchDataFile), getFrenchVerbs(frenchVerbsDataFile), verbRepository, nounRepository, declensionPath, declensionsAndFiles, romanianDeclensionFactory);
         translatorBridge = new TranslatorBridge(romanianAnalyzer, frenchTranslator);
         mapValuesForTest = loadMapFromFiles(romanianPathFile);
         mapValuesForResult = loadMapFromFiles(romanianResultFile);
@@ -88,12 +85,19 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "sum@IRREGULAR%[IPR]=[sum,es,est,sumus,estis,sunt]%[AII]=[eram,eras,erat,eramus,eratis,erant]%[AIF]=[ero,eris,erit,erimus,eritis,erunt]%[INFINITIVE]=[esse]%[ASP]=[sim,sis,sit,simus,sitis,sint]%[ASI]=[essem,esses,esset,essemus,essetis,essent]%[AIP]=[fui,fuisti,fuit,fuimus,fuistis,fuerunt]%[AIPP]=[fueram,fueras,fuerat,fueramus,fueratis,fuerant]%[IAP]=[fuisse]%[AIFP]=[fuero,fueris,fuerit,fuerimus,fueritis,fuerint]",
-                "sum,o,is,ere,,,[o-is]"
+                "devin,,[fumez]"
         });
         */
-
         return getFileContentForRepository(verbFileDescription);
+    }
+
+    private List<String> getFrenchVerbs(String frenchVerbFileDescription) {
+        /*
+        return Arrays.asList(new String[]{
+                "devenir@NORM%[INFINITIVE]=[devenir]%[IPR]=[deviens,deviens,devient,devenons,devenez,deviennent]%[PII]=[étais devenu,étais devenu,était devenu,étions devenus,étiez devenus,étaient devenus]%[PIP]=[suis devenu,es devenu,est devenu,sommes devenus,êtes devenus,sont devenus]%[AIP]=[devins,devins,devint,devînmes,devîntes,devinrent]%[PIF]=[serai devenu,seras devenu,sera devenu,serons devenus,serez devenus,seront devenus]%[PRPARPASS]=[être devenu,qui est devenu,qui est devenu,qui est devenu]%[PAAOIM]=[-,que sois,que soit,-,que soyez,que soient]%[MIAOIN]=[fus,fus,fut,fûmes,fûtes,furent]%[AORPASSIMP]=[sois,sois,soit,soyons,soyez,soient]%[PAP]=[devenu]%[PERACTPAR]=[devenu,-,-,-]"
+        });
+        */
+        return getFileContentForRepository(frenchVerbFileDescription);
     }
 
     private List<Declension> getDeclensionList(String file, String directory) {
@@ -536,6 +540,21 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     }
 
     @Test
+    public void test_staniloae_chap1_point3() {
+        checkInMaps("staniloae4A", translatorBridge);
+        checkInMaps("staniloae4B", translatorBridge);
+        checkInMaps("staniloae4C", translatorBridge);
+        checkInMaps("staniloae4D", translatorBridge);
+        checkInMaps("staniloae4E", translatorBridge);
+        checkInMaps("staniloae4F", translatorBridge);
+        checkInMaps("staniloae4G", translatorBridge);
+        checkInMaps("staniloae4H", translatorBridge);
+        checkInMaps("staniloae4I", translatorBridge);
+        checkInMaps("staniloae4J", translatorBridge);
+        checkInMaps("staniloae4K", translatorBridge);
+    }
+
+    @Test
     public void test_trone_de_fer_chapter1() {
         checkInMaps("urzeala1A", translatorBridge);
         checkInMaps("urzeala1B", translatorBridge);
@@ -545,7 +564,9 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("urzeala1F", translatorBridge);
         checkInMaps("urzeala1G", translatorBridge);
         checkInMaps("urzeala1H", translatorBridge);
-        checkInMaps("urzeala1I", translatorBridge);
+        checkInMaps("urzeala1I1", translatorBridge);
+        checkInMaps("urzeala1I2", translatorBridge);
+        checkInMaps("urzeala1I3", translatorBridge);
         checkInMaps("urzeala1J", translatorBridge);
         checkInMaps("urzeala1K", translatorBridge);
         checkInMaps("urzeala1L", translatorBridge);
@@ -581,7 +602,8 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("filocalia1T", translatorBridge);
         checkInMaps("filocalia1U", translatorBridge);
         checkInMaps("filocalia1V", translatorBridge);
-        checkInMaps("filocalia1W", translatorBridge);
+        checkInMaps("filocalia1W1", translatorBridge);
+        checkInMaps("filocalia1W2", translatorBridge);
         checkInMaps("filocalia1X", translatorBridge);
         checkInMaps("filocalia1Y", translatorBridge);
         checkInMaps("filocalia1Z", translatorBridge);
@@ -595,6 +617,29 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("bocaseumplu7D", translatorBridge);
         checkInMaps("bocaseumplu7E", translatorBridge);
         checkInMaps("bocaseumplu7F", translatorBridge);
+        checkInMaps("bocaseumplu7G", translatorBridge);
+        checkInMaps("bocaseumplu7H", translatorBridge);
+        checkInMaps("bocaseumplu7I", translatorBridge);
+        checkInMaps("bocaseumplu7J", translatorBridge);
+        checkInMaps("bocaseumplu7K", translatorBridge);
+        checkInMaps("bocaseumplu7L", translatorBridge);
+        checkInMaps("bocaseumplu7M", translatorBridge);
+        checkInMaps("bocaseumplu7N", translatorBridge);
+        checkInMaps("bocaseumplu7O", translatorBridge);
+        checkInMaps("bocaseumplu7P", translatorBridge);
+        checkInMaps("bocaseumplu7Q", translatorBridge);
+        checkInMaps("bocaseumplu7R", translatorBridge);
+        checkInMaps("bocaseumplu7S", translatorBridge);
+        checkInMaps("bocaseumplu7T", translatorBridge);
+        checkInMaps("bocaseumplu7U", translatorBridge);
+        checkInMaps("bocaseumplu7V", translatorBridge);
+        checkInMaps("bocaseumplu7W", translatorBridge);
+        checkInMaps("bocaseumplu7X", translatorBridge);
+        checkInMaps("bocaseumplu7Y", translatorBridge);
+        checkInMaps("bocaseumplu7Z", translatorBridge);
+        checkInMaps("bocaseumplu7AA", translatorBridge);
+        checkInMaps("bocaseumplu7BB", translatorBridge);
+        checkInMaps("bocaseumplu7CC", translatorBridge);
     }
 
     @Test
@@ -612,9 +657,23 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     }
 
     @Test
+    public void test_patericul2() {
+        checkInMaps("patericulegyptantonia2A", translatorBridge);
+        checkInMaps("patericulegyptantonia2B", translatorBridge);
+        checkInMaps("patericulegyptantonia2C", translatorBridge);
+        checkInMaps("patericulegyptantonia2D", translatorBridge);
+        checkInMaps("patericulegyptantonia2E", translatorBridge);
+        checkInMaps("patericulegyptantonia2F", translatorBridge);
+        checkInMaps("patericulegyptantonia2G", translatorBridge);
+        checkInMaps("patericulegyptantonia2H", translatorBridge);
+        checkInMaps("patericulegyptantonia2I", translatorBridge);
+        checkInMaps("patericulegyptantonia2J", translatorBridge);
+    }
+
+    @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("filocalia1N", translatorBridge);
+        checkInMaps("patericulegyptantonia2B", translatorBridge);
     }
     
 }

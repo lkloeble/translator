@@ -1,4 +1,6 @@
-package org.patrologia.translator.basicelements;
+package org.patrologia.translator.basicelements.verb;
+
+import org.patrologia.translator.basicelements.*;
 
 import java.util.HashSet;
 import java.util.Set;
@@ -125,4 +127,5 @@ public class Verb extends Word {
     public VerbRepository getVerbRepository() {
         return verbRepository;
     }
+
 }

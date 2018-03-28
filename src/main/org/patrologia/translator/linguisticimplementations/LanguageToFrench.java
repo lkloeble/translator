@@ -2,8 +2,16 @@ package org.patrologia.translator.linguisticimplementations;
 
 import org.patrologia.translator.TranslatorRepository;
 import org.patrologia.translator.basicelements.*;
+import org.patrologia.translator.basicelements.modifier.FinalModifier;
+import org.patrologia.translator.basicelements.noun.Noun;
+import org.patrologia.translator.basicelements.noun.NounRepository;
+import org.patrologia.translator.basicelements.preposition.Preposition;
+import org.patrologia.translator.basicelements.verb.Verb;
+import org.patrologia.translator.basicelements.verb.VerbRepository;
 import org.patrologia.translator.casenumbergenre.CaseNumberGenre;
 import org.patrologia.translator.casenumbergenre.Gender;
+import org.patrologia.translator.conjugation.ConjugationPosition;
+import org.patrologia.translator.conjugation.RootedConjugation;
 import org.patrologia.translator.declension.Declension;
 import org.patrologia.translator.declension.DeclensionFactory;
 
@@ -137,10 +145,15 @@ public abstract class LanguageToFrench implements TranslatorRepository {
                 return "XXX";
             }
             Set<String> constructionNames = construction.getConstructionName(toTranslate, getLanguageSelector(), verb);
+            constructionNames = filterPastParticipleForVerbalNoun(constructionNames);
             Map<String, Integer> formPositionByConstructionName = construction.getFormPosition(constructionNames, toTranslate, (Verb)word);
             List<String> possibleVerbs = extractTranslation(formPositionByConstructionName, frenchVerbs.get(frenchRoot), verb.getPositionInTranslationTable(), verb);
             if(possibleVerbs.size() == 0 || possibleVerbs.get(0).equals("[XXX]")) {
                 System.out.println(word + " " + frenchRoot + " "  + formPositionByConstructionName.keySet().toString());
+            }
+            if(isVerbalNounCase(constructionNames,formPositionByConstructionName)) {
+                String constructionName = constructionNames.iterator().next();
+                return numberCaseDecorate(possibleVerbs.get(0),createVerbalNoun(verb,construction.getRootedConjugationByConstructionName(constructionName)));
             }
             return agregateVerbs(decorateVerbs(possibleVerbs,verb));
         } else if(word.isPreposition()) {
@@ -151,11 +164,26 @@ public abstract class LanguageToFrench implements TranslatorRepository {
                 translationRoot = customTranslationMap.get(word.getRoot() + "P");
             }
             return translationRoot;
-        } else if(word.isDemonstrative()) {
-            String translationRoot = customTranslationMap.get(formRepository.getValueByForm(new Form(word.getRoot(), word.getRoot(), WordType.DEMONSTRATIVE, word.getRoot(),word.getPreferedTranslation())) + "D");
-            return translationRoot;
         }
         return "";
+    }
+
+    private Set<String> filterPastParticipleForVerbalNoun(Set<String> constructionNames) {
+        if(constructionNames.size() < 2) return constructionNames;
+        if(constructionNames.contains("PAP")) constructionNames.remove("PAP");
+        return constructionNames;
+    }
+
+    private Word createVerbalNoun(Verb verb, RootedConjugation rootedConjugation) {
+        Noun noun = new Noun(verb.getLanguage(), verb.getInitialValue(), verb.getInitialValue(), Collections.EMPTY_LIST, null, null, null, null);
+        noun.setElectedCaseNumber(rootedConjugation.getElectedCaseNumber(verb.getInitialValue()));
+        return noun;
+    }
+
+    private boolean isVerbalNounCase(Set<String> constructionNames, Map<String, Integer> formPositionByConstructionName) {
+        if(constructionNames.size() != 1) return false;
+        String uniqueConstructionName = constructionNames.iterator().next();
+        return formPositionByConstructionName.get(uniqueConstructionName).intValue() == ConjugationPosition.RELATED_TO_NOUN.getIndice();
     }
 
     private List<String> decorateVerbs(List<String> possibleVerbs, Verb verb) {
@@ -174,12 +202,16 @@ public abstract class LanguageToFrench implements TranslatorRepository {
         String fullWordDefinition = null;
         String root = word.getRoot() + "@";
         for(String definition : dictionaryDefinitions) {
-            if(definition.startsWith(root)) {
+            if(definition.startsWith(root) && wordHasCorrectExpectedType(definition, word.getWordType())) {
                 fullWordDefinition = definition;
                 break;
             }
         }
         return getAlternateDictionaryTranslation(fullWordDefinition, word.getPreferedTranslation(), word);
+    }
+
+    protected boolean wordHasCorrectExpectedType(String definition, WordType wordType) {
+        return definition.contains(wordType.getDefinitionString().toLowerCase());
     }
 
     private String getAlternateDictionaryTranslation(String fullWordDefinition, int preferedTranslation, Word word) {
@@ -200,6 +232,7 @@ public abstract class LanguageToFrench implements TranslatorRepository {
         }
         if(translationInformationBeans.size() == 1) return translationInformationBeans.get(0);
         for(TranslationInformationBean translationInformationBean : translationInformationBeans)  {
+            if(translationInformationBean.hasNoForms()) continue;
             if(translationInformationBean.hasRoot(word)) {
                 return translationInformationBean;
             }
@@ -259,16 +292,19 @@ public abstract class LanguageToFrench implements TranslatorRepository {
         List<String> resultsFound = new ArrayList<>();
         for(String constructionName : formPositionByConstructionName.keySet()) {
             String constructionNameAlone = extractExactVerbTime(constructionName);
+            String constructionNameForPatternMatching = "[" + constructionNameAlone + "]";
             if(verb.isConjugationForbidden(constructionNameAlone)) continue;
-            if(!frenchVerbDescription.contains(constructionNameAlone)) continue;
+            if(!frenchVerbDescription.contains(constructionNameForPatternMatching)) continue;
             String rightForm = allForms.stream().filter(form -> new FrenchVerbPattern(form).hasExactKey (handleConstructionSynonyms(constructionNameAlone))).findFirst().get();
             //String rightForm = allForms.stream().filter(form -> form.contains(handleConstructionSynonyms(constructionNameAlone))).findFirst().get();
             List<String> translations = Arrays.asList(rightForm.split("=")[1].replace("]", "").replace("[", "").split(","));
             Integer formPosition = formPositionByConstructionName.get(constructionName);
             if(suggestedPositionInTranslation != 100 && suggestedPositionInTranslation > translations.size()) continue;
             if(formPosition == -1) continue;
-            if(translations.size() > formPosition) {
+            if(translations.size() > formPosition && formPosition > 0) {
               resultsFound.add(translations.get(formPosition));
+            } else {
+                resultsFound.add(translations.get(0));
             }
         }
         if(resultsFound.size() == 0 && suggestedPositionInTranslation != 100) resultsFound = extractTranslation(formPositionByConstructionName, frenchVerbDescription, 100, verb);
@@ -298,6 +334,8 @@ public abstract class LanguageToFrench implements TranslatorRepository {
         }
         if(caseNumber.isGenitive()) {
             translationRoot = "(" + genitiveArticle + ") " + translationRoot;
+        } else if(caseNumber.isConstructedState()) {
+            translationRoot += " (" + genitiveArticle + ")";
         } else if(caseNumber.isDative() && languageDecorator.dativeHandlerIsTrue(noun)) {
             translationRoot = "(" + dativeArticle + ") " + translationRoot;
         } else if (caseNumber.isAblative() && languageDecorator.ablativeHandlerIsTrue(noun)) {

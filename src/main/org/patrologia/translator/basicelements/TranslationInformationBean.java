@@ -1,5 +1,6 @@
 package org.patrologia.translator.basicelements;
 
+import org.patrologia.translator.basicelements.verb.Verb;
 import org.patrologia.translator.conjugation.RootedConjugation;
 import org.patrologia.translator.linguisticimplementations.DefaultLanguageSelector;
 import org.patrologia.translator.linguisticimplementations.SpecificLanguageSelector;
@@ -168,8 +169,8 @@ public class TranslationInformationBean {
     }
 
     public boolean hasRoot(Word word) {
-        return root.substring(0, 2).equals(word.initialValue.substring(0, 2))
-                || root.equals(word.getRoot());
+        return root.equals(word.getRoot());// || root.substring(0, 2).equals(word.initialValue.substring(0, 2))
+
     }
 
     public boolean hasNearRoot(Word word) {
@@ -207,5 +208,13 @@ public class TranslationInformationBean {
     public List<Integer> getPossibleTranslationPositions(String initialValue, String constructionName, String root) {
         RootedConjugation rootedConjugation = nameForms.get(root + "@" + constructionName);
         return rootedConjugation.positionFound(initialValue);
+    }
+
+    public RootedConjugation getRootedConjugationByConstructionName(String name) {
+        return nameForms.get(root + "@" + name);
+    }
+
+    public boolean hasNoForms() {
+        return nameForms.size() == 0;
     }
 }

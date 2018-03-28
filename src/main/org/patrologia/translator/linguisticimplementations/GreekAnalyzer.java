@@ -1,7 +1,11 @@
 package org.patrologia.translator.linguisticimplementations;
 
-import org.patrologia.translator.DefaultModificationLog;
+import org.patrologia.translator.basicelements.modificationlog.DefaultModificationLog;
 import org.patrologia.translator.basicelements.*;
+import org.patrologia.translator.basicelements.noun.Noun;
+import org.patrologia.translator.basicelements.noun.NounRepository;
+import org.patrologia.translator.basicelements.preposition.PrepositionRepository;
+import org.patrologia.translator.basicelements.verb.VerbRepository;
 import org.patrologia.translator.casenumbergenre.CaseOperatorContainer;
 import org.patrologia.translator.casenumbergenre.Gender;
 import org.patrologia.translator.rule.greek.RuleElectNounElectedForPrecedingAdjective;
@@ -45,7 +49,7 @@ public class GreekAnalyzer implements Analizer {
         if(sentence == null) return "";
         StringBuilder sb = new StringBuilder();
         char[] chars = sentence.toLowerCase().toCharArray();
-        int[] charsz = new int[]{7936,7938,7940,7941,7952,7953,7955,7956,7969,7970,7971,7973,7974,7975,7984,7988,7990,8000,8001,8003,8004,8005,8016,8017,8019,8020,8021,8023,8033,8036,8037,8039,8048,8049,8050,8051,8052,8053,8054,8055,8056,8057,8058,8059,8061,8103,8118,8127,8134,8135,8147,8150,8166,8179,8182,8183};
+        int[] charsz = new int[]{7936,7937,7938,7939,7940,7941,7942,7952,7953,7955,7956,7969,7970,7971,7972,7973,7974,7975,7984,7985,7987,7988,7990,8000,8001,8003,8004,8005,8016,8017,8019,8020,8021,8023,8033,8036,8037,8039,8048,8049,8050,8051,8052,8053,8054,8055,8056,8057,8058,8059,8060,8061,8103,8118,8127,8134,8135,8147,8150,8166,8179,8180,8182,8183};
         for (char c : chars) {
             int i = (int) c;
             if(i>6000 && notInTab(i,charsz)) {
@@ -59,6 +63,9 @@ public class GreekAnalyzer implements Analizer {
                     break;
                 case 93://]
                     sb.append(" |]| ");
+                    break;
+                case 183://.
+                    sb.append(".");
                     break;
                 case 903://'·' greek point
                     sb.append(".");
@@ -87,13 +94,22 @@ public class GreekAnalyzer implements Analizer {
                 case 7936://'ἀ' accentueted a
                     sb.append("α");
                     break;
+                case 7937://'ἁ' accentued a
+                    sb.append("α");
+                    break;
                 case 7938://'ἂ' 7938
+                    sb.append("α");
+                    break;
+                case 7939://'ἃ' 7939
                     sb.append("α");
                     break;
                 case 7940://'ἀ' accentueted a
                     sb.append("α");
                     break;
                 case 7941://'ἅ' 7941
+                    sb.append("α");
+                    break;
+                case 7942://'ἆ' 7942
                     sb.append("α");
                     break;
                 case 7952://'ἐ' 7952
@@ -117,6 +133,9 @@ public class GreekAnalyzer implements Analizer {
                 case 7971://'ἣ' 7971
                     sb.append("η");
                     break;
+                case 7972://'ἤ' 7972
+                    sb.append("η");
+                    break;
                 case 7973://'ἥ' 7973
                     sb.append("η");
                     break;
@@ -127,6 +146,12 @@ public class GreekAnalyzer implements Analizer {
                     sb.append("η");
                     break;
                 case 7984://'ἴ' 7984
+                    sb.append("ι");
+                    break;
+                case 7985://'ἱ' 7985
+                    sb.append("ι");
+                    break;
+                case 7987://'ἳ'
                     sb.append("ι");
                     break;
                 case 7988://'ἴ' 7988
@@ -216,6 +241,9 @@ public class GreekAnalyzer implements Analizer {
                 case 8059://'ύ' 8059
                     sb.append("υ");
                     break;
+                case 8060://'ὼ' 8060
+                    sb.append("ω");
+                    break;
                 case 8061://'ώ' 8061
                     sb.append("ω");
                     break;
@@ -244,6 +272,9 @@ public class GreekAnalyzer implements Analizer {
                     sb.append("υ");
                     break;
                 case 8179://'ῳ' 8179
+                    sb.append("ω");
+                    break;
+                case 8180://'ῴ' 8180
                     sb.append("ω");
                     break;
                 case 8182://'ῶ' 8182

@@ -1,7 +1,7 @@
 IPR=>e,st,t,en,t,en
 AIP=>te,test,te,ten,tet,ten
-PAP=>t
+PAP=>[ausreichend]
 AIMP=>xxx,|e,xxx,xxx,t,xxx
 AII=>te,test,te,ten,tet,ten
 ASP=>e,est,e,en,et,en
-PAPR=>end|ende
+PAPR=>end|ende|enden

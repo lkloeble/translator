@@ -1,5 +1,6 @@
 package org.patrologia.translator.conjugation.greek;
 
+import org.patrologia.translator.basicelements.noun.NounRepository;
 import org.patrologia.translator.conjugation.Conjugation;
 import org.patrologia.translator.conjugation.ConjugationLoader;
 import org.patrologia.translator.conjugation.VerbDefinition;
@@ -13,13 +14,15 @@ import java.util.List;
  * IPR => Active InNicative Present
  * ACAOIM => Active Aoriste Imperative
  * ACAOIN => Active Aoriste Indicatif
+ * ACAOINBIS => Active Aoriste Indicatif
  * ACOPPR => ACtive OPtative PResent
  * PAAOIM => Passive AOrist IMpérative
  * MIAOIN => MIddle AOrist INdicative
  * PAINPRAC => PArticiple INfinitive PResent ACtive
- * PAINPRMIPA => PArticiple INfinitive PResent MIddlePAssive
+ * PPP => Present Passive Participle
  * PAINPRMI => PArticiple INfinitive PResent PAssive
  * PEPASPAR => PErfect PASsive PARticiple
+ * PERACTPAR => PERfect ACTive PARticiple
  * AORPASOPT =>AORist PASsive OPTative
  * AORPASIND =>AORist PASsive INDicative
  * AORACTINF => AORist ACTive INFinitive
@@ -34,16 +37,24 @@ import java.util.List;
  * FUTPARTACT => FUTure PARticiple INFinitive
  * ACAOOP => ACtive AOrist OPtative
  * AORMIDDIND => AORist MIDDle INDicative
+ * IMPMIDPASSIND => IMPerfect MIddlePASSive INDicative
+ * PRESACTPART => PREsent ACTive PARTiciple
+ * AORACTPART => AORist ACTive PARTiciple
+ * PRESPASPART => PREsent PASsive PARTiciple
+ * PRMIDPASSPART => PREsent MID PASsive PARTiciple
+ * PRMIDPASSDEPPART => PResent MIDdle/PASSive DEPonent PARTiciple
+ * MIDPASSSUBJPRE => MIDdle PASsive SUBjonctive PREsent
  */
 public class GreekConjugation extends Conjugation {
 
-    protected static List<String> times = Arrays.asList(new String[]{"IPR","AII","ACAOIM","ACAOIN","PEACIN","PRPARPASS","PII","ACOPPR","PAAOIM","MIAOIN","PAINPRAC","PEPASPAR","AORPASOPT","AORPASIND","AORACTINF","PASANT","AORPASSPART","PARAORINFACT","AORPASDEP","PARAORINFPAS","AORPASSPART","ACAOOP","AORMIDDIND","FUTPARTACT"});
+    protected static List<String> times = Arrays.asList(new String[]{"IPR","AII","ACAOIM","ACAOIN","ACAOINBIS","PEACIN","PRPARPASS","PII","ACOPPR","PAAOIM","MIAOIN","PAINPRAC","PEPASPAR","AORPASOPT","AORPASIND","AORACTINF","PASANT","AORPASSPART","PARAORINFACT","AORPASDEP","PARAORINFPAS","AORPASSPART","ACAOOP","AORMIDDIND","FUTPARTACT","IMPMIDPASSIND","PRESACTPART","PRMIDPASSDEPPART","PRESPASPART","PERACTPAR","PRMIDPASSPART","MIDPASSSUBJPRE","AORACTPART","PIP"});
 
     private String conjugationFilePath;
     private ConjugationLoader conjugationLoader = new ConjugationLoader();
 
-    public GreekConjugation(List<String> conjugationElements, VerbDefinition verbDefinition) {
+    public GreekConjugation(List<String> conjugationElements, VerbDefinition verbDefinition, NounRepository nounRepository) {
         this.verbDefinition = verbDefinition;
+        this.nounRepository = nounRepository;
         initializeMap(conjugationElements);
     }
 

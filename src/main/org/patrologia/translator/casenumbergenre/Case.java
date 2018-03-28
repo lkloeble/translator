@@ -1,6 +1,7 @@
 package org.patrologia.translator.casenumbergenre;
 
 import org.patrologia.translator.basicelements.Language;
+import org.patrologia.translator.casenumbergenre.english.EnglishCaseFactory;
 import org.patrologia.translator.casenumbergenre.german.GermanCaseFactory;
 import org.patrologia.translator.casenumbergenre.greek.GreekCaseFactory;
 import org.patrologia.translator.casenumbergenre.hebrew.HebrewCaseFactory;
@@ -26,6 +27,8 @@ public abstract class Case {
                 return new HebrewCaseFactory().getCaseByStringPattern(caseName, differentier);
             case ROMANIAN:
                 return new RomanianCaseFactory().getCaseByStringPattern(caseName, differentier);
+            case ENGLISH:
+                return new EnglishCaseFactory().getCaseByStringPattern(caseName,differentier);
             default:
                 return null;
         }

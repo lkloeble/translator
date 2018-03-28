@@ -1,5 +1,6 @@
 package org.patrologia.translator.conjugation.english;
 
+import org.patrologia.translator.basicelements.noun.NounRepository;
 import org.patrologia.translator.conjugation.Conjugation;
 import org.patrologia.translator.conjugation.ConjugationLoader;
 import org.patrologia.translator.conjugation.VerbDefinition;
@@ -18,8 +19,9 @@ public class EnglishConjugation extends Conjugation {
 
     protected static List<String> times = Arrays.asList(new String[]{"IPR","PAP","AIMP", "AII","PAPR","AIP","ACP","AIF"});
 
-    public EnglishConjugation(List<String> conjugationElements, VerbDefinition verbDefinition) {
+    public EnglishConjugation(List<String> conjugationElements, VerbDefinition verbDefinition, NounRepository nounRepository) {
         this.verbDefinition = verbDefinition;
+        this.nounRepository = nounRepository;
         initializeMap(conjugationElements);
     }
 

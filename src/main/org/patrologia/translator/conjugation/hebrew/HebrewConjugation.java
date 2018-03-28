@@ -1,5 +1,6 @@
 package org.patrologia.translator.conjugation.hebrew;
 
+import org.patrologia.translator.basicelements.noun.NounRepository;
 import org.patrologia.translator.conjugation.Conjugation;
 import org.patrologia.translator.conjugation.ConjugationLoader;
 import org.patrologia.translator.conjugation.VerbDefinition;
@@ -14,6 +15,8 @@ import java.util.List;
  * PALFUT => PA'aL FUTure
  * HIFPER => HIf'il PERfect
  * HIFIPR => HIF'il iPResent
+ * BINPER => BINyan PERfect
+ * BINPRE => BINyan PREsent
  * Created by Laurent KLOEBLE on 15/10/2015.
  */
 public class HebrewConjugation extends Conjugation {
@@ -23,8 +26,9 @@ public class HebrewConjugation extends Conjugation {
 
     protected static List<String> times = Arrays.asList(new String[]{"AIP","AIF","PSP","ARAIPR","PALINF","PALFUT","HIFPER","HIFIPR","AIMP"});
 
-    public HebrewConjugation(List<String> conjugationElements, VerbDefinition verbDefinition) {
+    public HebrewConjugation(List<String> conjugationElements, VerbDefinition verbDefinition, NounRepository nounRepository) {
         this.verbDefinition = verbDefinition;
+        this.nounRepository = nounRepository;
         initializeMap(conjugationElements);
     }
 
