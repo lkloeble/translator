@@ -305,6 +305,7 @@ dovedit@adj!adj%1(adj)=prouvé
 drace@noun!inv%1(noun)=flute
 drag@adj!adj%1(adj)=cher
 drept@adj!adjts%1(noun)=pour%2(noun)=droit
+drept@noun!ul%1(noun)=droit
 dreapta@noun!inv%1(noun)=droit
 dreptate@noun!inv%1(noun)=raison
 duc@verb!norm%1(verb)=aller
@@ -361,6 +362,7 @@ filtr@noun!filtru%1(noun)=filtre
 fizic@adj!adj%1(adj)=physique
 foarte@prep%1(prep)=très
 foc@noun!ul%1(noun)=feu
+folos@verb!norm%1(verb)=utiliser
 form@verb!norm%1(verb)=former
 formar@noun!berea%1(noun)=création%2(noun)=constitution%3(noun)=formation
 frat@noun!frate%1(noun)=frère
@@ -438,6 +440,7 @@ inexplicabil@adj!adj%1(adj)=inexplicable
 influent@noun!femts%1(noun)=influence
 inger@noun!ul%1(noun)=ange
 inmormint@verb!norm%1(verb)=inhumer
+inrudiri@noun!inv%1(noun)=proches parents
 insa@prep%1(prep)=cependant%2(prep)=mais
 insasi@prep%1(prep)=elle-même
 insemnar@noun!ratsiune%1(noun)=marque%2(noun)=note

@@ -179,6 +179,7 @@ drace@neut%inv
 drag@adj%adj
 dreapta@neut%inv
 drept@adj%adjts
+drept@masc%ul
 dreptate@neut%inv
 dumneavoastra@neut%inv
 dumnezeu@neut%inv
@@ -268,6 +269,7 @@ indrazneal@fem%fem
 inexplicabil@adj%adj
 influent@fem%femts
 inger@masc%ul
+inrudiri@neut%inv
 insemnar@fem%ratsiune
 insurat@adj%adjts
 inteligent@adj%adjts

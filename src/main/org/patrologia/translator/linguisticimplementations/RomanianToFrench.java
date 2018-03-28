@@ -21,6 +21,7 @@ public class RomanianToFrench extends LanguageToFrench {
         this.verbRepository = verbRepository;
         this.nounRepository = nounRepository;
         this.originLanguageDeclensionFactory = declensionFactory;
+        this.conjugationGenderAnalyser = new DefaultConjugationAnalyzer();
         this.finalModifier = finalModifier;
         populateAllForms();
     }

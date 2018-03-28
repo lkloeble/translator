@@ -52,6 +52,7 @@ exist,,[incerca]
 extind,,[merg]
 fac,,[face],(AIMP*fac*fa*0)
 fierb,,[merg]
+folos,,[aciti]
 form,,[fumez]
 fum,,[fumez]
 gas,,[locuiesc]
