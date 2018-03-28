@@ -483,7 +483,7 @@ mishnah1A=>de quand appellent COD entendit@shema@ dans prière du soir : de heur
 mishnah1B'=>, paroles de Rabbi Eliêzer. Et les H'akhamim4 disent, jusqu'à la mi-nuit. Rabban Gamliel dit, jusqu'à ce que se soit levée l'aube.
 mishnah1B=>parole(s) (des)@paroles de@ rabbi éliezer. et sage(s) disent, jusqu'à milieu de la nuit. rabban gamaliel dit, jusqu'à que se levera page le aube
 mishnah1C'=>Il arriva que ses fils revinrent d'un banquet, et ils lui dirent, nous n'avons pas récité le Shemâ. Il leur dit, si l'aube n'est pas levée,
-mishnah1C=>oeuvre(e) que vinrent fils(s) (des) de lui de maison le banquet, et dirai pour lui, ne appelâmes COD entendit@shema@. dit à eux, si ne se lève page le aube
+mishnah1C=>oeuvre(e) que vinrent fils(s) (des) de lui de maison le banquet, et diront pour lui, ne appelâmes COD entendit@shema@. dit à eux, si ne se lève page le aube
 mishnah1D'=>vous avez le droit de le réciter.
 mishnah1D=>de permis eux appeler
 mishnah1E'=>Et pas seulement dans ce cas, chaque fois que les H'akhamim disent jusqu'à la mi-nuit, le précepte est jusqu'à ce que l'aube soit levée. la combustion des graisses et des membres
@@ -498,7 +498,8 @@ mishnah1I'=>Jusqu'au point du jour; Rabbi Yehoshuâ dit, jusqu'à la troisième 
 mishnah1I=>jusqu'à le floraison la soleil(e); rabbi yehoshouah dit, jusqu'à troisième heure(s)(e), que ainsi chemin fils(s) (des) roi(s) à page dans troisième heure(s)(e).
 mishnah1J'=>Celui qui récite de cette façon ne subit pas de dommage, [mais il est] tout comme l'homme qui lit la Torah.
 mishnah1J=>le lecteur de là et désormais, ne causa de perdre, comme homme que lui lecteur dans torah(e)
-mishnah1K=>Les disciples de Shammaï disent, le soir que tout homme s'allonge et récite [le Shemâ], et le matin qu'il se lève [pour réciter le Shemâ], comme il est dit "à ton coucher et à ton lever" (Devarim 6:7
+mishnah1K'=>Les disciples de Shammaï disent, le soir que tout homme s'allonge et récite [le Shemâ], et le matin qu'il se lève [pour réciter le Shemâ], comme il est dit "à ton coucher et à ton lever" (Devarim 6:7
+mishnah1K=>maison shammai disent, dans soir tout homme inclineront et appelèrent, et dans matin lèveront, que dirons/est dit " dans coucher de-toi et dans lever de-toi " ( parole(s) et, zayin
 mishnah1L=>Devarim 11:19). Les disciples de Hillel disent, tout homme récite selon son habitude, comme il est dit "et quand tu partiras en chemin" (ibid).
 mishnah1M=>S'il en est ainsi, pourquoi est-il dit "à ton coucher et à ton lever"? - Ceci [signifie] à l'heure où d'habitude les fils de l'homme se couchent, et à l'heure où d'habitude les fils de l'homme se lèvent.
 mishnah1N=>Rabbi Tarfon dit, [un jour] j'étais en chemin, et je me suis allongé pour réciter [le Shemâ] selon les paroles des disciples de Shammay,
@@ -540,5 +541,5 @@ hebbavli1ApagecommentA=>mishna : commandement(e) à lecture " entendit@shema@ " 
 hebbavli1ApagecommentB=>foo
 
 
-toto=>alliance de lui
-totoacc=>alliance de lui
+toto=>discuta main à nous
+totoacc=>discuta main à nous

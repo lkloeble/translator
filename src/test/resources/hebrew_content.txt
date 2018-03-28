@@ -567,8 +567,8 @@ hebbavli1ApagecommentE=>והמשנה מבארת מתי הוא זמן זה :
 
 
 
-totoacc=>בְּרִיתוֹ
-toto=>בריתו
+totoacc=>דנה ידנו
+toto=>דנה ידנו
 א
 ב
 ג
