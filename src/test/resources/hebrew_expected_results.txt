@@ -513,7 +513,7 @@ mishnah1U=>jusqu'à ce que la commente Ben Zoma: comme il est dit "afin que tu t
 mishnah1V=>- "Les jours de ta vie", [signifie] le jour. "Tous les jours de ta vie", [signifie] la nuit. Et les H'akhamim disent, "les jours de ta vie",
 mishnah1W=>[signifie] ce monde; "tous les jours de ta vie", [comprend] l'Ere du Mashia'h5.
 rachitext1A=>( un ) dans commencement : dit rabbi isaac ne fut besoin commencer COD la torah(e) mais de " le nouveau ce à vous
-rachitext1B=>que cette commande@mitsva@ première(e) que étaient commandés israël et quoi goût ouvre/ouvrira dans " dans début(e) "
+rachitext1B=>que elle commandement(e) première(e) que étaient ordonnés israël et quoi goût ouvrit dans " dans commencement "
 rachitext1C=>parce que " force oeuvre(e) de lui fais savoir à peuple de lui donner à eux possession(e) gentil " que si diront parmi le monde à israël
 rachitext1D=>brigands eux que conquîtes terre(s)(e) sept gentil ils disent à eux tout la terre(e) que à Le Saint-Béni soit-Il cette lui créa et donnera
 rachitext1E=>dit rabbi isaac
@@ -532,14 +532,14 @@ engbavli1Arightmain1=>foo
 engbavli1Arightmain2=>foo
 
 engbavli1Aleftmain1=>foo
-engbavli1Aleftmain2=>foo.
+engbavli1Aleftmain2=>foo
 
-engyerou1Arightleft1=>foo
+engyerou1Arightleft1=>de quand appellent COD entendit@shema@ dans prière du soir
 engyerou1Arightleft2=>foo
 
 hebbavli1ApagecommentA=>mishna : commandement(e) à lecture " entendit@shema@ " dans matin et dans soir ( voir dans le introduction à nous à section [XXX] ) et de que donnèrent discuta quand lui temps la commandement(e) de appel de entendit@shema@ de prière du soir.
 hebbavli1ApagecommentB=>foo
 
 
-toto=>discuta main à nous
-totoacc=>discuta main à nous
+toto=>peuple de-toi
+totoacc=>peuple de-toi
