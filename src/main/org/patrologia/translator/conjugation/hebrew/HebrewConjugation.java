@@ -15,6 +15,8 @@ import java.util.List;
  * PALFUT => PA'aL FUTure
  * HIFPER => HIf'il PERfect
  * HIFIPR => HIF'il iPResent
+ * BINPER => BINyan PERfect
+ * BINPRE => BINyan PREsent
  * Created by Laurent KLOEBLE on 15/10/2015.
  */
 public class HebrewConjugation extends Conjugation {

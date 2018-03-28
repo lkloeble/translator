@@ -447,7 +447,8 @@ wein41U=>foo
 wein41V=>foo
 bereshit1A1=>dans commencement créa dieu COD le ciels et COD la terre(e)
 bereshit1A2=>dans commencement créa dieu COD le ciels et COD la terre(e)
-bereshit1B=>et la terre(e) fut informe et vide et obscurité(e) sur face(s)(e) abîme(e) et souffle dieu planas sur face(s)(e) le eaux
+bereshit1B1=>et la terre(e) fut informe et vide et obscurité(e) sur face(s) (des)(e) abîme et souffle dieu plane sur face(s) (des)(e) le eaux
+bereshit1B2=>et la terre(e) fut informe et vide et obscurité(e) sur face(s) (des)(e) abîme et souffle dieu plane sur face(s) (des)(e) le eaux
 bereshit1C=>et dit dieu sera lumière(e) et fut lumière(e)
 bereshit1D=>et vit dieu COD la lumière(e) que bon et sépara dieu entre la lumière(e) et entre la obscurité(e)
 bereshit1E=>et appela dieu à lumière(e) jour et à obscurité(e) appela nuit(e) et fut soir et fut matin jour un
@@ -486,9 +487,9 @@ mishnah1C=>oeuvre(e) que vinrent fils(s) (des) de lui de maison le banquet, et d
 mishnah1D'=>vous avez le droit de le réciter.
 mishnah1D=>de permis eux appeler
 mishnah1E'=>Et pas seulement dans ce cas, chaque fois que les H'akhamim disent jusqu'à la mi-nuit, le précepte est jusqu'à ce que l'aube soit levée. la combustion des graisses et des membres
-mishnah1E=>et ne ce dans seulement, mais tout que dirent sage(s) jusqu'à milieu de la nuit, de précepte jusqu'à que se levera page le aube. le combustion graisse(s) et membre(s),
+mishnah1E=>et ne ce dans seulement, mais tout que dirent sage(s) jusqu'à milieu de la nuit, commandement(e) à eux jusqu'à que se levera page le aube. le combustion graisse(s) et membre(s),
 mishnah1F'=>leur obligation (de manger peut se faire) jusqu'au lever de l'aube. Et tous (les sacrifices) qui doivent être mangés le jour même de leur obligation (de manger peut se faire) jusqu'au lever de l'aube.
-mishnah1F=>de précepte jusqu'à que se levera page le aube; tout les destiné à être mangé(s) à jour un, de précepte jusqu'à que se levera page le aube
+mishnah1F=>commandement(e) à eux jusqu'à que se levera page le aube; tout les destiné à être mangé(s) à jour un, commandement(e) à eux jusqu'à que se levera page le aube
 mishnah1G'=>S'il en est ainsi, pourquoi les H'akhamim ont-ils dit "jusqu'à la mi-nuit" ? - Ceci afin d'éloigner l'homme de la transgression (du péché).
 mishnah1G=>si ainsi, pourquoi dirent sage(s) jusqu'à milieu de la nuit mais pour éloigner COD le homme de la transgression(e)
 mishnah1H'=>A partir de quand doit-on réciter le Shemâ le matin ? Lorsque l'on distingue entre le bleu et le blanc; Rabbi Eliêzer dit, entre le bleu et le vert.
@@ -535,7 +536,7 @@ engbavli1Aleftmain2=>foo.
 engyerou1Arightleft1=>foo
 engyerou1Arightleft2=>foo
 
-hebbavli1ApagecommentA=>foo
+hebbavli1ApagecommentA=>mishna : commandement(e) à lecture " entendit@shema@ " dans matin et dans soir ( voir dans le introduction à nous à section [XXX] ) et de que donnèrent discuta quand lui temps la commandement(e) de appel de entendit@shema@ de prière du soir.
 hebbavli1ApagecommentB=>foo
 
 

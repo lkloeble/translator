@@ -371,7 +371,7 @@ persuader@NORM%[INFINITIVE]=[persuader]%[IPR]=[persuade,persuades,persuade,persu
 perturber@NORM%[INFINITIVE]=[perturber]%[IPR]=[perturbe,perturbes,perturbe,perturbons,perturbez,perturbent]
 placer@NORM%[INFINITIVE]=[placer]%[IPR]=[place,places,place,plaçons,placez,placent]%[AIP]=[plaçai,plaças,plaça,plaçâmes,plaçâtes,placèrent]%[AORMIDDIND]=[plaçai,plaças,plaça,plaçâmes,plaçâtes,placèrent]%[PAP]=[placé]
 plaire@NORM%[IPR]=[plais,plais,plait,plaisons,plaisez,plaisent]%[INFINITIVE]=[plaire]
-planer@NORM%[INFINITIVE]=[planer]%[IPR]=[plane,planes,plane,planons,planez,planent]%[AII]=[planais,planais,planait,planions,planiez,planaient]%[AIP]=[planai,planas,plana,planâmes,planâtes,planèrent]
+planer@NORM%[INFINITIVE]=[planer]%[IPR]=[plane,planes,plane,planons,planez,planent]%[AII]=[planais,planais,planait,planions,planiez,planaient]%[AIP]=[planai,planas,plana,planâmes,planâtes,planèrent]%[BINPRE]=[plane,planes,plane,planons,planez,planent]
 planifier@NORM%[INFINITIVE]=[planifier]%[IPR]=[planifie,planifies,planifie,planifions,planifiez,planifient]
 planter@NORM%[INFINITIVE]=[planter]%[IPR]=[plante,plantes,plante,plantons,plantez,plantent]%[AIP]=[plantai,plantais,planta,plantâmes,plantâtes,plantèrent]%[AIPP]=[ai planté,as planté,a planté,avons planté,avez planté,ont planté]%[AII]=[plantais,plantais,plantait,plantions,plantiez,plantaient]
 pleurer@NORM%[IPR]=[pleure,pleures,pleure,pleurons,pleurez,pleurent]%[AII]=[pleurais,pleurais,pleurait,pleurions,pleuriez,pleuraient]%[INFINITIVE]=[pleurer]
