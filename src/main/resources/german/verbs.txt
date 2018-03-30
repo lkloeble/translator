@@ -234,6 +234,7 @@ verrats,eln,[sammeln]
 verschreib,en,[rufen]
 versteh,en,[leben]
 verschweig,en,[lassen],(PAP*verschweig*verschwieg*0)
+versterb,en,[leben],(PAP*versterb*verstorben*0)
 versuch,en,[leben]
 verteidig,en,[leben]
 vertrag,en,[leben]
@@ -265,3 +266,4 @@ zumach,en,[leben]
 zurucklass,en,[lassen],(PAP*zurucklassen*zuruckgelassen*0)
 zuruckhalt,en,[halten],(AII*zuruckhalt*zuruckhielt*0)
 zusammenhal,en,[halten]
+zusteh,en,[stehen],(PAP*zustehen*zugestand*0)

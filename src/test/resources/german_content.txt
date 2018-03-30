@@ -510,6 +510,6 @@ nietzscheBookGTversuchCha7S=>Zarathustra der Wahrsager, Zarathustra der Wahrlach
 nietzscheBookGTversuchCha7T=>Diese Krone des Lachenden, diese Rosenkranz-Krone: euch, meinen Brüdern, werfe ich diese Krone zu! Das Lachen sprach ich heilig: ihr höheren Menschen, lernt mir – lachen!"
 nietzscheBookGTversuchCha7U=>Also sprach Zarathustra, vierter Teil Sils-Maria
 
-toto=>männern aus irgendwelchem grunde geschieden waren
+toto=>übrigen priestern zugestand
 
 ß

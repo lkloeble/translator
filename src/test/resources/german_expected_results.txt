@@ -159,7 +159,7 @@ lecon18A=>monsieur docteur, depuis un mois dors je pas. un(e)@un(s)@ sans sommei
 lecon18B=>contre insomnie dois on absolument quelque chose faire. la santé dépend oui de le qualité(e) du (du) sommeil.
 lecon18C=>demain suis je toujours alors fatigué(e)@fatigué(s)@ et viens à peine de du lit. je aime vouloir/voulons loin sommeil(s). somnifère(s) de quel(e)@quel(s)@ dois je prennent
 lecon18D=>je préscrire à eux un somnifère de nouveau(e). mais ils doivent aussi la raison(s)(e) son insomnie connaissent/connaître. quel(e)@quel(s)@ facteur(s) jouent/jouer par à eux un(e)@un(s)@ rôle(e) ?
-lecon18E=>vers beaucoup café, vers beaucoup cigarette(s)(e), force(e) r tumulte et vers vive lumière perturbent/perturber naturellement mon(e)@mon(s)@penser/pensons@ dors@sommeil@.
+lecon18E=>vers beaucoup café, vers beaucoup cigarette(s)(e), plus fort tumulte et vers vive lumière perturbent/perturber naturellement mon(e)@mon(s)@penser/pensons@ dors@sommeil@.
 lecon18F=>peur(e) et stress portent/porter également pour trouble du sommeil(e) par
 lecon18G=>quel(e)@quel(s)@ conseil(s) peuvent elle à moi donnent/donner ? un chaud bain le soir aide à moi souvent
 lecon18H=>faites du jogging ou allez vous promener après le diner. Buvez une tisane. Cela vous fait du bien.
@@ -251,7 +251,7 @@ strackp3notB5=>antiquités. 3. 12. 12 la sainteté(e) le prêtre faisait moïse 
 strackp3notB6=>car aussi ce tenait il comme tout(e)@tout(s)@ (du) restant@restant@restant(s)(e)@ ( israélite(s) ) de le (du) égal chose(s)(e) après ( fornication ) en arrière, et. en outre refusait il à eux prostituée(s)(e).
 strackp3notB6'=>zuruckhalten => empecher
 strackp3notB7=>un(e)@un(s)@ esclave(e) ou un(e)@un(s)@ guerre prisonnier(s) vers épousent/épouser, de même tel(e)@tel(s)@ femme(s)(e), la de du entreprise(s), (des) un(s)@(du) un(e)@un@ verseur économie ou (des) un(s)@(du) un(e)@un@ (du) public@public@public(s)(e)@ auberge(e) votre moyen de subsistance acquirent ou de votre (du) plus libre@plus libre@plus libre(s)(e)@ homme(s) de en tout quel raison(s) séparé marchandise(s)(e)@étions@.
-strackp3notB8=>foobar
+strackp3notB8=>du (du) haut prêtre mais permit il aussi pas, le femme un mort(s) (du) homme vers épousent/épouser, pendant que il ce le (du) restant@restant@restant(s)(e)@ prêtre après revenu.
 strackp3notB9=>foobar
 strackp3notB10=>foobar
 strackp3notB11=>foobar
@@ -533,4 +533,4 @@ talmudstrackH=>et portèrent elle la rapidement au dessus de du litière loin. o
 talmudstrackI=>ils s'assirent et examinèrent ( la (du) généalogique@généalogique@généalogique(s)(e)@ tablette(s)(e) ), jusque elle dans danger(e) vinrent ( la illégitimité (des) quelque(s)@(du) quelque(e)@quelque@ famille(s)(e) sur le jour vers apportent/apporter );
 talmudstrackJ=>et séparèrent elle se.
 
-toto=>homme(s) de en tout quel raison(s) séparé marchandise(s)(e)@étions@
+toto=>(du) restant@restant@restant(s)(e)@ prêtre après revenu

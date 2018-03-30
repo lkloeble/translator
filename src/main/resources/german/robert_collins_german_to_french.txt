@@ -1369,6 +1369,7 @@ verschreib@verb!norm%1(verb)=prescrire
 verschweig@verb!norm%1(verb)=permettre
 verstandnis@noun!inv%1(noun)=sympathie%2(noun)=compréhension
 versteh@verb!norm%1(verb)=comprendre
+versterb@verb!norm%1(verb)=mourir
 versuch@verb!norm%1(verb)=essayer
 versuch@noun!meinmasc%1(noun)=essai
 versucherisch@adj!ausreichend%1(adj)=expérimental
@@ -1531,6 +1532,7 @@ zurucklass@verb!norm%1(verb)=laisserrentrer%2(verb)=laisserderriere
 zuruckhlat@verb!norm%1(verb)=empecher
 zusammenhang@noun!meer%1(noun)=connexion
 zusammenhal@verb!norm%1(verb)=rassembler
+zusteh@verb!norm%1(verb)=revenir
 zuteil@noun!inv%1(noun)=accordé
 zuverlassig@adj!ausreichend%1(adj)=fiable
 zwar@prep%1(prep)=précisément

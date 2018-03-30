@@ -469,7 +469,7 @@ retirer@NORM%[INFINITIVE]=[retirer]%[IPR]=[retire,retires,retire,retirons,retire
 retourner@NORM%[INFINITIVE]=[retourner]%[IPR]=[retourne,retournes,retourne,retournons,retournez,retournent]
 reunir@NORM%[INFINITIVE]=[réunir]%[IPR]=[réunis,réunis,réunit,réunissons,réunissez,réunissent]%[PAP]=[réuni]%[PIP]=[suis réuni,es réuni,est réuni,sommes réunis,êtes réunis,sont réunis]%[PAPR]=[réunissant]%[AIP]=[réunis,réunis,réunit,réunîmes,réunîtes,réunirent]
 reveler@NORM%[INFINITIVE]=[révéler]%[IPR]=[révèle,révèles,révèle,révèlons,révèlez,révèlent]%[ASP]=[révèle,révèles,révèle,révèlions,révèliez,révèlent]
-revenir@NORM%[IPR]=[reviens,reviens,revient,revenons,revenez,reviennent]%[INFINITIVE]=[revenir]
+revenir@NORM%[INFINITIVE]=[revenir]%[IPR]=[reviens,reviens,revient,revenons,revenez,reviennent]%[PAP]=[revenu]
 reverer@NORM%[IPR]=[révère,révères,révère,révèrons,révèrez,révèrent]%[INFINITIVE]=[révérer]
 rire@NORM%[IPR]=[ris,ris,rie,rions,riez,rient]%[INFINITIVE]=[rire]
 saccomplir@NORM%[INFINITIVE]=[s'accomplir]%[IPR]=[m'accomplis,t'accomplis,s'accomplit,nous accomplissons,vous accomplissez,s'accomplissent]
