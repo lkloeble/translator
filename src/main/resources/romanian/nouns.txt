@@ -83,6 +83,7 @@ cap@masc%capul
 capabil@adj%adj
 capacita@fem%capacitate
 caracter@neut%chil
+caracterizar@fem%berea
 cartier@masc%ul
 cartof@masc%ul
 cas@fem%fem
@@ -451,6 +452,7 @@ preajm@fem%fem
 prelucrar@fem%berea
 prelucratoare@neut%inv
 preot@masc%ul
+prets@masc%ul
 prieten@adj%adj
 prim@adj%adj
 probabil@adj%adj

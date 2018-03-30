@@ -36,7 +36,8 @@ public class RomanianAnalyzer implements Analizer {
 
     public Analysis analyze(String sentence) {
         String characterAlphaOnly = replaceRomanianSpecialsWithAlpha(sentence);
-        Phrase phrase = wordSplitter.splitSentence(characterAlphaOnly,Language.ROMANIAN, new DefaultWordSplitterPattern());
+        String romanianFirstCleaning = replaceExpressions(characterAlphaOnly);
+        Phrase phrase = wordSplitter.splitSentence(romanianFirstCleaning,Language.ROMANIAN, new DefaultWordSplitterPattern());
         Phrase phraseWithUAModified = replaceFinalAForUAFemininesNouns(phrase);
         Phrase phraseWithPastParticipeFound = identifyFemininePastParticipe(phraseWithUAModified);
         phrase = wordAnalyzer.affectAllPossibleInformationsWithAnotherRule(phraseWithPastParticipeFound, new CustomRule());
@@ -45,6 +46,10 @@ public class RomanianAnalyzer implements Analizer {
         Analysis analysis = phraseAnalizer.affectAllPossibleInformationsBetweenWords(Language.ROMANIAN, phrase);
 
         return phraseAnalizer.affectAllPossibleInformationsBetweenWords(Language.ROMANIAN, analysis.getPhrase());
+    }
+
+    private String replaceExpressions(String characterAlphaOnly) {
+        return characterAlphaOnly.replace("s.a.m.d", "samd");
     }
 
     private Phrase identifyFemininePastParticipe(Phrase phrase) {

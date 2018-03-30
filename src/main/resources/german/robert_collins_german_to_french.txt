@@ -50,6 +50,7 @@ anrufung@noun!meinfem%1(noun)=invocation%2(noun)=appel
 anschauung@noun!meinfem%1(noun)=intution%2(noun)=opinion
 anschein@noun!arbeiter%1(noun)=apparence
 ansicht@noun!meinfem%1(noun)=opinion
+antiq@noun!inv%1(noun)=antiquités
 antwort@noun!meinfem%1(noun)=réponse
 anzuglich@adj!ausreichend%1(adj)=suggestive
 anzuseh@verb!norm%1(verb)=voir
@@ -301,6 +302,7 @@ doktor@noun!autor%1(noun)=docteur
 dokument@noun!meer%1(noun)=document
 donner@noun!burger%1(noun)=tonnerre
 donnerstag@noun!inv%1(noun)=jeudi
+doppelt@adj!ausreichend%1(adj)=double
 dorn@noun!autor%1(noun)=épine
 dort@prep%1(prep)=là
 drang@noun!jahrzehnt%1(noun)=pression
@@ -599,6 +601,7 @@ haben@verb!irrg%1(verb)=avoir
 hebraisch@adj!ausreichend%1(adj)=hébreu
 heer@noun!meer%1(noun)=armée
 heilig@verb!norm%1(verb)=justifier%2(verb)=sanctifier
+heiligkeit@noun!meinfem%1(noun)=sainteté
 heiligtum@noun!heiligtum%1(noun)=sanctuaire
 heim@noun!meer%1(noun)=asile%2(noun)=hôtel%3(noun)=maison
 heimlichkeit@noun!meinmasc%1(noun)=secret
@@ -885,6 +888,7 @@ montag@noun!inv%1(noun)=lundi
 moral@noun!inv%1(noun)=morale
 moralisch@adj!ausreichend%1(adj)=moral
 morgen@noun!inv%1(noun)=matin%2(noun)=demain
+mose@noun!inv%1(noun)=moïse
 mozart@noun!inv%1(noun)=mozart
 mt@noun!inv%1(noun)=mt
 mud@adj!ausreichend%1(adj)=fatigué

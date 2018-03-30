@@ -640,6 +640,7 @@ novel@adj%invmasc
 num@neut%invmasc
 number@neut%normmasc
 numbered@neut%invmasc
+o@neut%invmasc
 occasion@neut%normmasc
 occasional@adj%normmasc
 odd@masc%normmasc
@@ -1032,6 +1033,7 @@ world@neut%normmasc
 woman@fem%invfem
 women@fem%invfem
 worry@neut%invmasc
+writ@neut%invmasc
 writer@neut%normmasc
 writing@neut%normmasc
 wrong@neut%invmasc

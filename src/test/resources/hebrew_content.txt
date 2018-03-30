@@ -567,7 +567,7 @@ hebbavli1ApagecommentE=>והמשנה מבארת מתי הוא זמן זה :
 
 
 
-totoacc=>עַמְךָ
+totoacc=>בְּנֵי-בְרִיתֶֽךָ
 toto=>עַמְךָ
 א
 ב

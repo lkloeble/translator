@@ -54,9 +54,10 @@ public class WordSplitter {
         char[] letters = sentence.toCharArray();
         for(char c : letters) {
             if(c == '.' || c == ',' || c == ';' || c == ')') {
-                sb.append(" ");
+                sb.append(" ").append(c).append(" ");
+            } else {
+                sb.append(c);
             }
-            sb.append(c);
             if(c == '(') {
                 sb.append(" ");
             }

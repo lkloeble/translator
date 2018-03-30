@@ -144,6 +144,7 @@ onexx@prep()
 only@prep()
 openly@prep()
 or@prep()
+otherwise@prep()
 our@prep()
 ourselves@prep()
 out@prep()%[rootOutVerbFinder]

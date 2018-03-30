@@ -27,9 +27,9 @@ import static org.junit.Assert.assertTrue;
 public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
 
     private TranslatorBridge translatorBridge;
-    String frenchVerbsDataFile = "E:\\translator\\src\\main\\resources\\french_verbs.txt";
-    String hebrewPathFile = "E:\\translator\\src\\test\\resources\\hebrew_content.txt";
-    String hebrewResultFile = "E:\\translator\\src\\test\\resources\\hebrew_expected_results.txt";
+    String frenchVerbsDataFile = "C:\\translator\\src\\main\\resources\\french_verbs.txt";
+    String hebrewPathFile = "C:\\translator\\src\\test\\resources\\hebrew_content.txt";
+    String hebrewResultFile = "C:\\translator\\src\\test\\resources\\hebrew_expected_results.txt";
 
 
     @Before
@@ -105,10 +105,11 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "decim-nw%plr%masc%nw",
                 "decim-w%sing%masc%w331",
                 "decim-k%sing%masc%k",
-                "nomplr%plr%masc%60im000",
+                "nomplra%plr%masc%60im000",
+                "nomplrb%plr%masc%60in000",
                 "decim-m%plr%masc%m000",
-                "cst(nomplr1)%plr%masc%i",
-                "cst(nomplr2)%plr%masc%i&"
+                "cst(nomplra1)%plr%masc%i",
+                "cst(nomplra2)%plr%masc%i&"
         });
     }
 
@@ -303,7 +304,6 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "y64m000@masc%im",
                 "ymwd@masc%im",
                 "y64p64r@fem%im-fem",
-                "yrbin@masc%invmasc",
                 "yrbit@masc%invmasc",
                 "y62r62b@masc%im",
                 "yts@masc%custom(nomsg=yts|cst(nomsg)=ytst&|nomplr=ytsim|cst(nomplr)=ytsi&)",
@@ -573,7 +573,6 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "y60m64m000@prep%1(prep)=avec eux",
                 "y64m000@noun!im%1(noun)=peuple",
                 "ymnw@prep%1(prep)=avec nous",
-                "yrbin@noun!invmasc%1(noun)=prière du soir",
                 "yrbit@noun!invmasc%1(noun)=prière du soir",
                 "y62r62b@noun!im%1(noun)=soir",
                 "y61s29964w309@noun!invmasc%1(noun)=esav",
@@ -1354,9 +1353,9 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failed_ones() {
         assertTrue(true);
-        checkInMaps("toto", translatorBridge);
-        checkInMaps("wein30A1", translatorBridge);
         checkInMaps("totoacc", translatorBridge);
+        checkInMaps("wein30A1", translatorBridge);
+        //checkInMaps("toto", translatorBridge);
     }
 
 }

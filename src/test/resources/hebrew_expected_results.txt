@@ -534,12 +534,12 @@ engbavli1Arightmain2=>foo
 engbavli1Aleftmain1=>foo
 engbavli1Aleftmain2=>foo
 
-engyerou1Arightleft1=>de quand appellent COD entendit@shema@ dans prière du soir
+engyerou1Arightleft1=>de quand appellent COD entendit@shema@ dans soir(s)
 engyerou1Arightleft2=>foo
 
 hebbavli1ApagecommentA=>mishna : commandement(e) à lecture " entendit@shema@ " dans matin et dans soir ( voir dans le introduction à nous à section [XXX] ) et de que donnèrent discuta quand lui temps la commandement(e) de appel de entendit@shema@ de prière du soir.
 hebbavli1ApagecommentB=>foo
 
 
-toto=>peuple de-toi
-totoacc=>peuple de-toi
+toto=>fils(s) de alliance de-toi
+totoacc=>fils(s) de alliance de-toi
