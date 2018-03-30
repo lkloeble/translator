@@ -1,1 +1,3 @@
-IPR=>in,i,ne,nim,nitsi,in
+IPR=>,i,e,im,itsi,
+AIP=>u,i,a,im,itsi,a
+PAP=>it

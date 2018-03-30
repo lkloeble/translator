@@ -1,5 +1,7 @@
 noma%sing%masc%e
 nomb%sing%masc%ea
+nomc%sing%masc%ele
+gen%sing%masc%elui
 noma%plr%masc%si
 nomb%plr%masc%sii
 gen%plr%masc%silor

@@ -4,3 +4,4 @@ PSP=>,i,e,am,atsi,e
 CONJ=>,i,e,am,atsi,e
 AIP=>ai,asi,a,aram,aratsi,ara
 PAPR=>and
+PAP=>at

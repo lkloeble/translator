@@ -1,6 +1,7 @@
 adorm,,[dorm]
 aduc,,[face],(PAP*aducut*adus*0)
 afirm,,[incerca]
+ajung,,[merg],(AII*ajung*ajunge*0)
 ajut,,[cauta]
 alerg,,[merg]
 am@IRREGULAR%[INFINITIVE]=[avea]%[IPR]=[am,ai,are,avem,avetsi,au]%[CONJ]=[x,x,aiba,x,x,aiba]%[PAPR]=[avand]
@@ -39,8 +40,7 @@ depart,,[fumez]
 deranj,,[fumez]
 descop,,[descopar]
 desfasoar,,[incerca]
-dev,,[deveni],(IPR12*dev*devi*0)
-devin,,[fumez]
+deven,i,[deveni],(PAP*devinat*devenit*0@IPR0125*deven*devin*0@AIP01*deven*devi*0@AIP25*deven*devin*0)
 doar,,[dorm],(IPR0*doar*dor*0)
 dor,,[aciti]
 dorm,,[dorm]
@@ -57,6 +57,7 @@ form,,[fumez]
 fum,,[fumez]
 gas,,[locuiesc]
 gol,i,[aciti]
+gon,i,[aciti]
 hotar,i,[hotarasc]
 ies,,[dorm]
 impart,,[impart]
@@ -92,8 +93,10 @@ mor,,[dorm],(IPR2*mor*moar*0@IPR34*mor*mur*0@PAP*mor*mur*0)
 mosten,,[locuiesc]
 munc,,[aciti]
 mus,,[musca]
+mut,,[cauta]
 obos,,[locuiesc]
 omor,i,[merg]
+opr,i,[aciti]
 organiz,,[fumez]
 pastr,a,[fumez]
 pedeps,i,[locuiesc]
@@ -108,6 +111,7 @@ prefer,,[incerca]
 prin,,[crede]
 produc,,[face]
 pun,,[merg]
+rasad,,[aciti]
 renunts,,[cauta]
 rama,,[ramane]
 raspun,,[raspund]
@@ -134,10 +138,11 @@ sta,,[stiu]
 sti,,[stiu],(AIPP*sti*stius*0)
 strig,,[incerca]
 string,,[merg],(MMCP*string*strins*0)
-studi,,[fumez]
+studi,a,[fumez]
 sufer,,[suferi],(IPR0*er*ar*1)
 suport,,[cauta]
 tangui,,[trebui]
+tax,,[fumez]
 termin,,[cauta]
 traduc,,[merg],(PAP*traduc*tradu*0)
 trag,,[merg]

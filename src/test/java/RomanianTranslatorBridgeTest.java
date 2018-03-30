@@ -596,7 +596,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("filocalia1M", translatorBridge);
         checkInMaps("filocalia1N", translatorBridge);
         checkInMaps("filocalia1O", translatorBridge);
-        checkInMaps("filocalia1P", translatorBridge);
+        //checkInMaps("filocalia1P", translatorBridge);
         checkInMaps("filocalia1Q", translatorBridge);
         checkInMaps("filocalia1R", translatorBridge);
         checkInMaps("filocalia1S", translatorBridge);

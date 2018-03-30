@@ -27,6 +27,7 @@ anecdot@fem%fem
 animal@masc%fem
 antonie@masc%inv
 ap@fem%fem
+aparat@masc%ul
 apartament@masc%ul
 apartsinand@neut%inv
 apetit@masc%ul
@@ -40,7 +41,9 @@ asimilat@adj%adj
 ascuns@adj%adj
 aspect@masc%ul
 aspirin@fem%fem
+astazi@neut%inv
 atanasie@masc%inv
+atotcuprinzator@neut%inv
 atribuit@adj%adj
 autenticita@fem%capacitate
 autobuz@masc%ul
@@ -58,6 +61,7 @@ ber@fem%berea
 biblic@adj%adj
 bine@neut%inv
 biseric@fem%fem
+blocat@adj%adj
 blond@adj%adj
 boal@fem%fem
 bogat@adj%adjts
@@ -74,6 +78,7 @@ bunic@masc%ul
 cadr@masc%ul
 cafea@fem%cafea
 cain@masc%caine
+cart@fem%frate
 ciin@masc%caine
 cal@masc%inv
 cald@adj%adj
@@ -221,6 +226,7 @@ filtr@masc%filtru
 fizic@adj%adj
 foc@masc%ul
 formar@fem%berea
+fran@fem%fem
 frat@masc%frate
 fricos@adj%adj
 frig@adj%adj
@@ -308,6 +314,7 @@ liber@adj%adj
 libertat@fem%berea
 limb@fem%fem
 limitat@adj%adj
+literatur@fem%fem
 litr@masc%filtru
 loc@masc%locul
 locuints@fem%fem
@@ -368,6 +375,7 @@ muscat@fem%fem
 natur@fem%tigara
 nascut@adj%adj
 natural@adj%adj
+neam@masc%locul
 neavind@neut%inv
 necaz@masc%ul
 necesar@adj%adj
@@ -383,6 +391,7 @@ nisipos@adj%adj
 nitri@fem%fem
 noapte@fem%fem
 noi@neut%inv
+nor@masc%ul
 nord@neut%inv
 normal@adj%adj
 noroc@neut%inv
@@ -456,6 +465,7 @@ prets@masc%ul
 prieten@adj%adj
 prim@adj%adj
 probabil@adj%adj
+profesor@masc%ul
 prooroc@masc%ul
 propri@adj%adj
 produs@masc%ul
@@ -602,6 +612,7 @@ un@adj%adj
 unchi@masc%ul
 unic@adj%adj
 urgi@fem%fem
+urias@masc%ul
 urm@fem%fem
 urmas@masc%ul
 urs@masc%ul

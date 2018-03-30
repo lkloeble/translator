@@ -300,13 +300,13 @@ assimil20J=>et quand ne as patient(s) ? comment fais ?
 assimil20K=>comment  fais ? tue... le temps !
 assimil20L=>dans taxi
 assimil20M=>sommes perdu(s) ! crie le chauffeur
-assimil20N=>les freins sont bloqués et je ne peux plus arrêter la voiture !
-assimil20O=>arrêtez au moins l'appareil à taxer
-assimil20P=>foo
-assimil20Q=>foo
-assimil20R=>foo
-assimil20S=>foo
-assimil20T=>foo
+assimil20N=>frein(s)(e) suis bloqué(e) et ne plus peux arrêter la voiture(e) !
+assimil20O=>arrête au moins le appareil de taxé !
+assimil20P=>chien celui-ci ne est bon pour chasse, est peureux
+assimil20Q=>ami ou est docteur, mais ne est médecin, est professeur de la littérature(e)
+assimil20R=>sans livre(s) son, est un homme perdu : ne peut étudia
+assimil20S=>patient(s) ont chance aujourd'hui : le docteur est malade
+assimil20T=>a une voiture(e) belle mais ne sais si est bleu(e) ou vert
 
 
 
@@ -355,7 +355,7 @@ staniloae4E=>se découvre ayant que centre virtuel conscient de eux la raison(e)
 staniloae4F=>le fait que la monde(e) se met en lumière dans homme et pour homme et par homme, montre que la monde(e) est pour homme, ne le homme pour monde(e).
 staniloae4G=>mais le fait que le homme lui-même, mettant en lumière la monde(e), se met en lumière sur lui-même pour lui-même par monde(e), montre que et la monde(e) est nécessaire(e) pour homme.
 staniloae4H=>la monde(e) est fait(e) pour ah être humanisé(e), ne le homme pour ah être assimilé (du) monde(e), (du) nature(e).
-staniloae4I1=>foobar
+staniloae4I1=>la monde(e) entière est fait(e) pour devenir un homme grand@mer(e)@, ou le contenu (du) homme devenu dans chaque la personne(e) universel,
 staniloae4I2=>foobar
 staniloae4J=>foobar
 staniloae4K=>foobar
@@ -388,6 +388,16 @@ filocalia1X=>le fait que ces ont et eux identique caractère général ne peut �
 filocalia1Y=>également proches parents ai avoir, de la parabole(e), dans la idée de homme rationnel sur qui une utilise et tête(s) et épitre(s)(e);
 filocalia1Z=>dans le prix comment se dit et dans un(s)(e), et dans autre(s)(e) sur la distinction(e) entre bien et mal, sur la caractérisation(e) son dieu que médecin et ainsi de suite
 
+filocalia1antonie1=>de celui entre saint(s) (du) parent notre antoine celui grand@mer(e)@
+filocalia1antonie2=>foobar
+filocalia1antonie1A=>foobar
+filocalia1antonie1B=>foobar
+filocalia1antonie1C=>foobar
+filocalia1antonie1D=>foobar
+filocalia1antonie1E=>foobar
+filocalia1antonie1F=>foobar
+filocalia1antonie1G=>foobar
+
 
 urzeala1A=>il faudrait que  nous retournons, demanda gared sur quand broussaille(s) commencèrent  se obscurcir tout plus fort dans autour eux. herbe(s) sont mort(e).
 urzeala1B=>la mort(e) te terrifie ? demanda ser waymar royce avec la ombre(e) (du) un sourire.
@@ -417,7 +427,7 @@ bocaseumplu7D=>se se lamente dieu (du) homme :
 bocaseumplu7E=>... ai semé la grappe(e) bon(e), de espèce, et voici maintenant pousse raisin(s) sauvage(s)... voudrai@vous@ arrache une et sur voudrai@vous@ lance une !
 bocaseumplu7F=>accomplissant se la colère(e) son dieu avec la vignoble(e), Jérémie le prophète le homme, se se lamente son dieu
 bocaseumplu7G=>seigneur dieu (des) puissance(s)(e), retourne nous sur nous, et montre toi la visage(e) ta et nous voudrons sauve
-bocaseumplu7H=>foo
+bocaseumplu7H=>la vignoble(e) de égypte as déplacé une, chassé as nation(s) et as planté une sur elle
 bocaseumplu7I=>foo
 bocaseumplu7J=>foo
 bocaseumplu7K=>foo
@@ -453,7 +463,7 @@ patericulegyptantonie1J=>et, faisant comme ceci, se sauvait.
 
 patericulegyptantonia2A=>cronie, le prêtre (du) nitrie(e), nous ah raconté nouveau(e) que heureux antoine racontait :
 patericulegyptantonia2B=>un année entier me ai prié  moi découvre le place (des) droit(s) et de (des) pêcheur(s)@pêcheur@.
-patericulegyptantonia2C=>foo
+patericulegyptantonia2C=>et ai visible@vu@ un géant qui atteignait jusque à nuage(s).
 patericulegyptantonia2D=>foo
 patericulegyptantonia2E=>foo
 patericulegyptantonia2F=>foo
