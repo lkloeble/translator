@@ -316,7 +316,7 @@ assimil20T=>are o mașină frumoasă dar nu știu dacă e albastră sau verde
 
 staniloae1A=>revelația naturală ca baza a credinței naturale si a unui sens al existenței
 staniloae1B=>Biserica ortodoxa nu face o separație intre revelația naturală si cea supranaturală.
-staniloae1C=>revelația naturală e cunoscuta si ințeleasa deplin in lumina revelației supranaturale;
+staniloae1C=>revelația naturală e cunoscuta si ințeleasa deplin in lumina@N revelației supranaturale;
 staniloae1D=>sau revelația naturală e data si menținuta de Dumnezeu in continuare printr-o acțiune a lui mai presus de natura.
 staniloae1E=>de aceea, Sfantul Maxim Marturisitorul nu face o deosebire esențiala intre revelația naturală si cea supranaturală, sau biblică.
 staniloae1F=>ultima nu e, după el, decât incorporarea celei dintâi in persoane si acțiuni istorice (Ambigua PG 91 col 1180)
@@ -367,7 +367,8 @@ staniloae4E=>se descopera avand ca centru virtual constient al lor rațiunea uma
 staniloae4F=>Faptul ca lumea se lumineaza in om si pentru om si prin om, arata ca lumea e pentru om, nu omul pentru lume.
 staniloae4G=>Dar faptul ca omul insusi, luminand lumea, se lumineaza pe sine pentru sine prin lume, arata ca si lumea e necesara pentru om.
 staniloae4H=>Lumea e facuta pentru a fi umanizata, nu omul pentru a fi asimilat lumii, naturii.
-staniloae4I=>Lumea intreaga e facuta pentru a deveni un om mare, sau conținutul omului devenit in fiecare persoana atotcuprinzator, nu omul pentru a fi parte a naturii si neinsemnand in ea mai mult decat orice alta parte a naturii si neinsemnand n ea mai mult decat orice alta parte a ei, sau contopindu-se in ea.
+staniloae4I1=>Lumea intreaga e facuta pentru a deveni un om mare, sau conținutul omului devenit in fiecare persoana atotcuprinzator,
+staniloae4I2=>nu omul pentru a fi parte a naturii si neinsemnand in ea mai mult decat orice alta parte a naturii si neinsemnand n ea mai mult decat orice alta parte a ei, sau contopindu-se in ea.
 staniloae4J=>Caci printr-o eventuala contopire a omului in natura s-ar pierde cel mai important factor al realitatii, fara ca natura sa castige ceva nou, pe cand prin asimilarea lumii in om, natura insasi castiga, fiind ridicata pe un plan cu totul nou, fara sa se pierda propriu-zis.
 staniloae4K=>Pierderea noastra in natura nu reprezinta nici un progres nici pentru natura, pe cand umanizarea continua sau eterna a naturii reprezinta un progres etern, facand abstractie de faptul ca prin aceasta nu se pierde nimic si mai ales nu se pierde ceea ce e mai valoros in realitate.
 
@@ -399,6 +400,19 @@ filocalia1X=>faptul că  aceste au și ele același caracter general nu poate fi
 filocalia1Y=>Asemenea înrudiri am avea, de pildă, în ideea de "om rațional" pe care o folosesc și capetele și epistolele;
 filocalia1Z=>în prețul ce se spune și în unele, și în altele pe "deosebirea dintre bine și rău", pe caracterizarea lui Dumnezeu ca "medic" ș.a.m.d
 
+ă
+ș
+ț
+
+filocalia1antonie1=>ale celui dintre sfinți părintelui nostru antonie cel mare
+filocalia1antonie2=>învățături despre viața morală a oamenilor și despre buna purtare, în 170 de capete
+filocalia1antonie1A=>Oamenii se socotesc raționali.
+filocalia1antonie1B=>Însă pe nedrept, căci nu sînt raționali.
+filocalia1antonie1C=>Unii au învățat cuvintele și cărțile vechilor înțelepți.
+filocalia1antonie1D=>Dar raționali sînt numai aceia care au sufletul rațional, pot să deosebească ce este binele și ce este răul,
+filocalia1antonie1E=>se feresc de cele rele și vătămătoare sufletului și toată grija o au spre cele bune și folositoare sufletului;
+filocalia1antonie1F=>iar acestea le săvîrșesc cu multă mulțumire către Dumnezeu.
+filocalia1antonie1G=>numai aceștia trebuie să se numească oameni raționali.
 
 urzeala1A=>ar trebui să ne întoarcem, ceru Gared pe când desișurile începură să se întunece  tot mai tare în jurul lor. Ierburile sunt moarte.
 urzeala1B=>moartea te înspăimântă ? întrebă ser |Waymar| |Royce| cu umbra unui zâmbet.

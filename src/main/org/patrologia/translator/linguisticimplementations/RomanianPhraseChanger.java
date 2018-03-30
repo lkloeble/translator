@@ -235,6 +235,9 @@ public class RomanianPhraseChanger extends CustomLanguageRulePhraseChanger {
             if(endsWithPattern(wordContainerAtPosition, endPattern, stopWords, accentuer) && nounRepository.hasNoun(wordContainerAtPosition.getInitialValue())) {
                 Collection<Noun> nounCollection = nounRepository.getNoun(wordContainerAtPosition.getInitialValue());
                 Noun firstNoun = (Noun)nounCollection.toArray()[0];
+                if(wordContainerHasPreferedTranslation(wordContainerAtPosition)) {
+                    firstNoun.setInitialValue(firstNoun.getInitialValue() + "@" + getPreferedTranslation(wordContainerAtPosition).toUpperCase());
+                }
                 WordContainer previousWordContainer = phrase.getWordContainerAtPosition(indice-1);
                 Word previousWord = previousWordContainer.getUniqueWord();
                // boolean isAlsoNotAdjective = previousWord != null && previousWord.isNoun() ? ((Noun)previousWord).isNotAnAdjective() : false;
@@ -264,6 +267,9 @@ public class RomanianPhraseChanger extends CustomLanguageRulePhraseChanger {
                     continue;
                 }
                 String newContenu  = word.getInitialValue().substring(0,word.getInitialValue().length());
+                if(wordContainerHasPreferedTranslation(wordContainerAtIndice)) {
+                    newContenu = newContenu + "@" + getPreferedTranslation(wordContainerAtIndice);
+                }
                 newPhrase.addWordAtPosition(newPhraseIndice, new Word(WordType.UNKNOWN, replacementArticle, Language.ROMANIAN));
                 newPhrase.addWordAtPosition(newPhraseIndice+1, new Word(WordType.UNKNOWN, newContenu, Language.ROMANIAN));
                 newPhraseIndice+=2;
@@ -273,6 +279,14 @@ public class RomanianPhraseChanger extends CustomLanguageRulePhraseChanger {
             }
         }
         return newPhrase;
+    }
+
+    private String getPreferedTranslation(WordContainer wordContainerAtPosition) {
+        return wordContainerAtPosition.getRoot().split("@")[1];
+    }
+
+    private boolean wordContainerHasPreferedTranslation(WordContainer wordContainerAtPosition) {
+        return wordContainerAtPosition.getRoot().contains("@");
     }
 
     private Phrase replaceSintAbbreviation(Phrase phrase) {

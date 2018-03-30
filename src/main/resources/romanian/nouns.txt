@@ -595,6 +595,7 @@ ucigas@ùasc%ul
 uimir@fem%berea
 ultim@adj%adj
 uman@adj%adj
+umanizat@adj%adj
 umbr@fem%fem
 umor@masc%ul
 un@adj%adj

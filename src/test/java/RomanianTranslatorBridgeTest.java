@@ -549,7 +549,8 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("staniloae4F", translatorBridge);
         checkInMaps("staniloae4G", translatorBridge);
         checkInMaps("staniloae4H", translatorBridge);
-        checkInMaps("staniloae4I", translatorBridge);
+        checkInMaps("staniloae4I1", translatorBridge);
+        checkInMaps("staniloae4I2", translatorBridge);
         checkInMaps("staniloae4J", translatorBridge);
         checkInMaps("staniloae4K", translatorBridge);
     }
@@ -607,6 +608,19 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("filocalia1X", translatorBridge);
         checkInMaps("filocalia1Y", translatorBridge);
         checkInMaps("filocalia1Z", translatorBridge);
+    }
+
+    @Test
+    public void test_filocalia1_antonie1() {
+        checkInMaps("filocalia1antonie1", translatorBridge);
+        checkInMaps("filocalia1antonie2", translatorBridge);
+        checkInMaps("filocalia1antonie1A", translatorBridge);
+        checkInMaps("filocalia1antonie1B", translatorBridge);
+        checkInMaps("filocalia1antonie1C", translatorBridge);
+        checkInMaps("filocalia1antonie1D", translatorBridge);
+        checkInMaps("filocalia1antonie1E", translatorBridge);
+        checkInMaps("filocalia1antonie1F", translatorBridge);
+        checkInMaps("filocalia1antonie1G", translatorBridge);
     }
 
     @Test
@@ -673,7 +687,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("filocalia1Z", translatorBridge);
+        checkInMaps("staniloae1C", translatorBridge);
     }
     
 }

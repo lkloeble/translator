@@ -1,5 +1,6 @@
 abdruck,en,[leben],(PAP*abdruck*abgedruckt*0)
 abhang,en,[leben]
+abschliess,en,[pflanzen]
 ander,n,[leben]
 anerkenn,en,[leben],(PAP*anerke*anerka*0)
 anfang,en,[leben]
@@ -81,6 +82,7 @@ erreich,en,[leben]
 erprob,en,[leben]
 erschein,en,[leben]
 erwachs,en,[genesen]
+erwerb,en,[rufen],(AIP*erwe*erwa*0)
 erzeug,en,[leben]
 ess,en,[leben],(IPR1*ess*is*0)
 fahr,en,[leben],(AIP*fahr*fuhr*0)
@@ -110,7 +112,7 @@ gescheh,en,[rufen],(AIP*gescheh*geschah*0)
 gewinn,en,[leben]
 glaub,en,[leben]
 haben@IRREGULAR%[IPR]=[habe,hast,hat,haben,habt,haben]%[AIP]=[hatte,hattest,hatte,hatten,hattet,hatten]%[INFINITIVE]=[haben]
-halt,en,[wollen]
+halt,en,[halten],(AII*halt*hielt*0)
 hang,en,[leben]
 heilig,en,[leben]
 heirat,en,[mochten]
@@ -178,7 +180,7 @@ sag,en,[leben],(AIP*sag*sagt*0@PAP*sag*gesagt*0)
 samm,eln,[sammeln],(PAP*sam*gesam*0)
 schaff,en,[rufen],(AIP*schaff*schuf*0@PAP*sch*gesch*0)
 schick,en,[leben]
-scheid,en,[rufen],(AIP*scheid*schied*0)
+scheid,en,[rufen],(AIP*scheid*schied*0@PAP*scheid*geschied*0)
 schein,en,[rufen],(AIP*schein*schien*0)
 schlacht,en,[mochten]
 schlaf,en,[leben]
@@ -209,6 +211,7 @@ studier,en,[leben]
 such,en,[leben],(AIP*such*sucht*0)
 surf,en,[leben]
 tauf,en,[leben],(PAP*tauf*getauft*0)
+teil,en,[werden],(AIP*teil*teilt*0)
 text,en,[mochten]
 tipp,en,[leben]
 trag,en,[lassen],(AIP*trag*trug*0)
@@ -237,6 +240,7 @@ vertrag,en,[leben]
 vertrau,en,[leben]
 verurteil,en,[leben]
 verwahr,en,[leben]
+verwehr,en,[leben]
 vorbereit,en,[leben]
 vorhaben@IRREGULAR%[IPR]=[vorhabe,vorhast,vorhat,vorhaben,vorhabt,vorhaben]%[INFINITIVE]=[vorhaben]
 vorleg,en,[leben]
@@ -259,4 +263,5 @@ zieh,en,[rufen],(PAP*ziehen*gezogen*0@AIP*zieh*zog*0)
 zulass,en,[lassen],(PAP*zulassen*zugelassen*0)
 zumach,en,[leben]
 zurucklass,en,[lassen],(PAP*zurucklassen*zuruckgelassen*0)
+zuruckhalt,en,[halten],(AII*zuruckhalt*zuruckhielt*0)
 zusammenhal,en,[halten]

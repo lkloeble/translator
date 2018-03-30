@@ -107,6 +107,7 @@ bestellung@fem%meinfem
 bestimmt@adj%ausreichend
 bestimmung@fem%meinfem
 betragt@adj%meinmasc
+betrieb@masc%phanomen
 bett@neut%schmerz
 bewahrt@adj%ausreichend
 beweis@masc%meer
@@ -122,6 +123,7 @@ birne@fem%flasche
 bisherig@adj%ausreichend
 blick@masc%ort
 blume@fem%flasche
+blut@fem%phanomen
 boden@masc%arbeiter
 bodensee@neut%inv
 bose@neut%bose
@@ -132,6 +134,7 @@ brief@masc%norm
 brigitte@fem%inv
 brot@neut%wurst
 buch@fem%ort
+buhlerin@fem%sangerin
 burger@masc%burger
 burgermeister@masc%masc
 buro@neut%inv
@@ -216,6 +219,7 @@ erfolg@masc%jahrzehnt
 erforderlich@adj%ausreichend
 erfreulich@adj%ausreichend
 erkenntnis@fem%erkenntnis
+erkennungszeichen@neut%inv
 erklarung@fem%meinfem
 erkrankung@fem%meinfem
 erlauterung@fem%meinfem
@@ -279,7 +283,7 @@ fragwurdig@adj%ausreichend
 frankfurt@neut%inv
 franz@neut%inv
 franzosisch@adj%ausreichend
-frau@fem%flasche
+frau@fem%meinfem
 fraulein@fem%inv
 freigelassen@neut%bastard
 freitag@neut%inv
@@ -290,6 +294,8 @@ freund@masc%meer
 frieden@masc%autor
 frucht@fem%tipp
 fruchtbar@adj%ausreichend
+fruh@adj%ausreichend
+fruher@adj%ausreichend
 funf@neut%inv
 funft@adj%ausreichend
 furcht@fem%angst
@@ -299,6 +305,7 @@ fussganger@masc%meinmasc
 ganz@adj%ausreichend
 garten@masc%inv
 gast@neut%meer
+gebildet@adj%ausreichend
 geblieben@adj%ausreichend
 gebracht@adj%ausreichend
 geburt@fem%meinfem
@@ -306,6 +313,7 @@ geburtstag@masc%inv
 gedanke@masc%flasche
 gefahr@fem%meinfem
 gefahrlich@adj%ausreichend
+gefangen@adj%ausreichend
 gefieder@neut%burger
 gefiedert@adj%ausreichend
 geflugel@neut%arbeiter
@@ -382,6 +390,7 @@ hart@adj%ausreichend
 harte@fem%inv
 hass@masc%ort
 hauptstadt@fem%flasche
+hauptwasser@neut%inv
 haus@neut%licht
 hebraisch@adj%ausreichend
 heer@neut%meer
@@ -392,6 +401,7 @@ heimlichkeit@neut%meinmasc
 heiss@adj%ausreichend
 heiterkeit@fem%norm
 helles@neut%inv
+herberge@fem%flasche
 herkunft@fem%norm
 herr@neut%meinmasc
 herrlichkeit@fem%meinfem
@@ -405,6 +415,7 @@ hinausgehend@adj%ausreichend
 hinsicht@fem%meinfem
 hintersinn@fem%inv
 hoch@adj%inv
+hochmutig@adj%ausreichend
 hoh@adj%ausreichend
 hoher@adj%ausreichend
 hochst@adj%ausreichend
@@ -471,6 +482,8 @@ jung@adj%norm
 juni@neut%inv
 kaffee@neut%inv
 kalter@neut%inv
+kantens@neut%inv
+kantischen@adj%meinmasc
 kase@masc%norm
 kassette@fem%flasche
 katalog@masc%norm
@@ -513,6 +526,7 @@ lateinisch@adj%ausreichend
 leben@neut%burger
 lebendig@adj%ausreichend
 lebenskraft@fem%angst
+lebensunterhalt@masc%inv
 leer@adj%inv
 legitim@adj%ausreichend
 legitimitat@fem%inv
@@ -591,6 +605,7 @@ mozart@masc%inv
 mt@neut%inv
 mud@adj%ausreichend
 muhe@fem%flasche
+muhselig@adj%ausreichend
 multikulturell@adj%ausreichend
 musee@fem%flasche
 museum@neut%zeichen
@@ -737,6 +752,7 @@ sauberkeit@neut%inv
 schauerlich@adj%ausreichend
 scharfst@adj%ausreichend
 scheck@fem%meinfem
+schenk@masc%meinmasc
 schicklichkeit@fem%meinfem
 schimson@neut%inv
 schlaflos@adj%ausreichend
@@ -756,10 +772,13 @@ schmerz@masc%schmerz
 schon@adj%inv
 schonheit@fem%meinfem
 schonst@adj%ausreichend
+schopenhauer@neut%zeichen
+schopenhauerisch@adj%meinmasc
 schopfern@masc%arbeiter
 schriften@fem%inv
 schubert@neut%inv
 schuler@masc%arbeiter
+schwarmerisch@adj%ausreichend
 schwarz@adj%ausreichend
 schweigsamkeit@neut%inv
 schwelle@fem%flasche
@@ -777,6 +796,7 @@ siebenten@neut%inv
 singer@masc%masc
 sittenlehre@fem%flasche
 situation@fem%norm
+sklavin@fem%sangerin
 smarkt@neut%inv
 sohn@masc%norm
 sokrates@neut%inv
@@ -799,6 +819,7 @@ stadtrat@neut%inv
 stadtverwaltung@neut%inv
 stammbaum@masc%jahrzehnt
 starke@fem%flasche
+starker@adj%ausreichend
 starkst@adj%ausreichend
 stelle@fem%meinfem
 stern@masc%meer
@@ -808,6 +829,7 @@ stolz@adj%norm
 strafe@fem%flasche
 stress@neut%inv
 strasse@fem%flasche
+strom@neut%phanomen
 stuck@neut%inv
 sturm@masc%jahrzehnt
 sud@neut%inv
@@ -864,6 +886,7 @@ uberschrift@fem%meinfem
 ubersetzung@fem%meinfem
 uberstromen@adj%ausreichend
 uberzeugt@adj%ausreichend
+ubrig@adj%ausreichend
 uhr@fem%inv
 umfang@masc%meinmasc
 umfangreich@adj%ausreichend
@@ -871,6 +894,7 @@ umfangreichst@adj%ausreichend
 umwelt@fem%inv
 unabhangig@adj%ausreichend
 unangenehm@adj%ausreichend
+unbedenklich@adj%ausreichend
 unbedingt@neut%inv
 unbekummert@neut%inv
 unbescheidenheit@neut%inv
@@ -887,6 +911,7 @@ unterlag@neut%meinmasc
 unterscheidend@adj%ausreichend
 unterschied@neut%meinmasc
 untertan@neut%meinmasc
+unzucht@neut%inv
 urkunde@fem%flasche
 urlaub@masc%norm
 ursache@fem%flasche
@@ -914,6 +939,7 @@ versaumt@adj%meinmasc
 verstandnis@fem%inv
 versuch@neut%meinmasc
 versucherisch@adj%ausreichend
+verwandt@adj%ausreichend
 verwohnter@adj%ausreichend
 verwegen@adj%ausreichend
 verzuckert@adj%inv
@@ -926,7 +952,7 @@ vier@neut%inv
 viert@adj%ausreichend
 viertel@neut%inv
 vogel@masc%arbeiter
-volke@masc%norm
+volk@masc%licht
 vollburtig@adj%ausreichend
 vollendet@adj%ausreichend
 vorausstezung@fem%meinfem
@@ -986,6 +1012,7 @@ wunsch@masc%meinmasc
 wurdig@adj%ausreichend
 wurst@fem%wurst
 wust@adj%mein
+wutend@adj%ausreichend
 zahl@neut%meinmasc
 zauber@neut%inv
 zehn@neut%inv

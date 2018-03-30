@@ -283,7 +283,7 @@ strackp3notB2=>also nicht die Tochter eines profanierten priesters (|chalal|) ei
 strackp3notB3=>Josephus c. Apion 1:7 : wer teilhat am priestertum, soll mit einem weibe, die seinem volke angehört, kinder erzeugen,
 strackp3notB4=>und nicht auf Reichtum und andere ehren blicken, sondern die familie prüfen, von den ahnen die geschlechtsfolge herleitend u. viele zeugen beibringend. |
 strackp3notB5=>Antiq. 3.12.12 Die heiligkeit der priester machte Mose doppelt groß;
-strackp3notB6=>denn auch diese hielt er wie alle übrigen (Israeliten) von dergleichen Dingen (unzucht) zurück , u. außerdam verwehrte er ihnen buhlerinnen.
+strackp3notB6=>denn auch diese hielt er wie alle übrigen (Israeliten) von dergleichen Dingen (unzucht) zurück , u. außerdem verwehrte er ihnen buhlerinnen.
 strackp3notB7=>Eine sklavin oder eine kriegsgefangene zu heiraten, desgleichen solche frauen, die aus dem betriebe, einer schenkwirtschaft oder einer öffentlichen herberge ihren lebensunterhalt erwarben oder von ihren früheren männern aus irgendwelchem grunde geschieden waren.
 strackp3notB8=>Dem hohenpriester aber erlaubte er auch nicht, das weib eines verstorbenen mannes zu heiraten, während er dies den übrigen priestern zugestand.
 strackp3notB9=>Nur eine jungfrau gestattete er ihm. Vgl. Jeb 6:4 : ein hoherpriester soll keine witwe heiraten, sie sei eine witwe aus der verlobungszeit her oder eine witwe aus der ehe.
@@ -357,7 +357,7 @@ genesis2F=>Aber ein Nebel ging auf von der Erde und feuchtete alles Land.
 genesis2G=>Und Gott der HERR machte den Menschen aus einem Erdenkloß, uns blies ihm ein den lebendigen Odem in seine Nase. Und also ward der Mensch eine lebendige Seele.
 genesis2H=>Und Gott der HERR pflanzte einen Garten in |Eden| gegen Morgen und setzte den Menschen hinein, den er gemacht hatte.
 genesis2I=>Und Gott der HERR ließ aufwachsen aus der Erde allerlei Bäume, lustig anzusehen und gut zu essen, und den Baum des Lebens mitten im Garten und den Baum der Erkenntnis des Guten und Bösen.
-genesis2J=>Und es ging aus von Eden ein Strom, zu wässern den Garten, und er teilte sich von da in vier Hauptwasser.
+genesis2J=>Und es ging aus von |Eden| ein Strom, zu wässern den Garten, und er teilte sich von da in vier Hauptwasser.
 genesis2K=>Das erste heißt Pison, das fließt um das ganze Land Hevila; und daselbst findet man Gold.
 genesis2L=>Und das Gold des Landes ist köstlich; und da findet man Bedellion und den Edelstein Onyx.
 genesis2M=>Das andere Wasser heißt Gihon, das fließt um um das ganze Mohrenland.
@@ -413,8 +413,9 @@ nietzscheBookGTversuchChap2J=>– die Wissenschaft unter der Optik des Künstler
 nietzscheBookGTversuchCha3A=>Nochmals gesagt, heute ist es mir ein unmögliches Buch, – ich heiße@V es schlecht geschrieben, schwerfällig, peinlich, bilderwütig und bilderwirrig, gefühlsam, hier und da verzuckert bis zum Femininischen, ungleich im Tempo, ohne Willen zur logischen Sauberkeit, sehr überzeugt und deshalb des Beweisens sich überhebend, mißtrauisch selbst gegen die Schicklichkeit des Beweisens, als Buch für Eingeweihte,
 nietzscheBookGTversuchCha3B1=>als "Musik" für solche, die auf Musik getauft, die auf gemeinsame und seltne Kunst-Erfahrungen hin von Anfang der Dinge an verbunden sind,
 nietzscheBookGTversuchCha3B2=>als Erkennungszeichen für Blutsverwandte in |artibus|,
-nietzscheBookGTversuchCha3B3=>– ein hochmütiges und schwärmerisches Buch, das sich gegen das profanum vulgus der "Gebildeten" von vornherein noch mehr als gegen das "Volk" abschließt,
-nietzscheBookGTversuchCha3C=>welches aber, wie seine Wirkung bewies und beweist, sich gut[11] genug auch darauf verstehen muß, sich seine Mitschwärmer zu suchen und sie auf neue Schleichwege und Tanzplätze zu locken.
+nietzscheBookGTversuchCha3B3=>– ein hochmütiges und schwärmerisches Buch, das sich gegen das profanum |vulgus| der "Gebildeten" von vornherein noch mehr als gegen das "Volk" abschließt,
+nietzscheBookGTversuchCha3C1=>welches aber, wie seine Wirkung bewies und beweist, sich gut genug auch darauf verstehen muß,
+nietzscheBookGTversuchCha3C2=>sich seine Mitschwärmer zu suchen und sie auf neue Schleichwege und Tanzplätze zu locken.
 nietzscheBookGTversuchCha3D=>Hier redete jedenfalls – das gestand man sich mit Neugierde ebenso als mit Abneigung ein – eine fremde Stimme, der Jünger eines noch "unbekannten Gottes", der sich einstweilen unter die Kapuze des Gelehrten, unter die Schwere und dialektische Unlustigkeit des Deutschen, selbst unter die schlechten Manieren des Wagnerianers versteckt hat;
 nietzscheBookGTversuchCha3E=>hier war ein Geist mit fremden, noch namenlosen Bedürfnissen, ein Gedächtnis strotzend von Fragen, Erfahrungen, Verborgenheiten, welchen der Name Dionysos wie ein Fragezeichen mehr beigeschrieben war;
 nietzscheBookGTversuchCha3F=>hier sprach – so sagte man sich mit Argwohn – etwas wie eine mystische und beinahe mänadische Seele, die mit Mühsal und willkürlich, fast unschlüssig darüber, ob sie sich mitteilen oder verbergen wolle, gleichsam in einer fremden Zunge stammelt.
@@ -509,6 +510,6 @@ nietzscheBookGTversuchCha7S=>Zarathustra der Wahrsager, Zarathustra der Wahrlach
 nietzscheBookGTversuchCha7T=>Diese Krone des Lachenden, diese Rosenkranz-Krone: euch, meinen Brüdern, werfe ich diese Krone zu! Das Lachen sprach ich heilig: ihr höheren Menschen, lernt mir – lachen!"
 nietzscheBookGTversuchCha7U=>Also sprach Zarathustra, vierter Teil Sils-Maria
 
-toto=>geplant
+toto=>männern aus irgendwelchem grunde geschieden waren
 
 ß

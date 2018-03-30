@@ -83,6 +83,7 @@ istoris,,[locuiesc]
 lua@IRREGULAR%[IPR]=[iau,iei,ia,luam,luatsi,iau]%[PAP]=[luat]%[PAPR]=[luand]%[INFINITIVE]=[lua]
 locu,,[locuiesc]
 lucr,,[fumez]
+lumin,,[fumez]
 maninc@IRREGULAR%[IPR]=[maninc,maninci,maninca,mancam,mancati,mananca]%[INFINITIVE]=[maninca]
 mantui,,[mantui],(AIF*man*vaman*0)
 ments,,[mentsin]
