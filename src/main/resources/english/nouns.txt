@@ -111,6 +111,7 @@ bronwen@neut%invmasc
 brunch@neut%invmasc
 burning@neut%normmasc
 bus@neut%invmasc
+bush@neut%church
 business@masc%invmasc
 businesse@masc%invmasc
 busy@neut%invmasc
@@ -259,6 +260,7 @@ doctor@neut%normmasc
 dominion@neut%normmasc
 door@fem%normfem
 double@adj%normmasc
+doubt@neut%normmasc
 doubtful@adj%normmasc
 dreadful@adj%normmasc
 dress@fem%invfem
@@ -351,6 +353,7 @@ flavour@fem%invfem
 flesh@fem%invfem
 flock@neut%normmasc
 fluently@neut%invmasc
+flute@fem%normfem
 fol@neut%invmasc
 folio@neut%invmasc
 food@fem%normfem
@@ -418,6 +421,7 @@ happily@neut%invmasc
 happy@adj%invmasc
 hard@adj%invmasc
 hardly@neut%invmasc
+harp@fem%normfem
 hatred@neut%invmasc
 havilah@neut%invmasc
 head@neut%normfem
@@ -490,6 +494,7 @@ joynt@neut%normmasc
 jones@neut%invmasc
 jos@neut%invmasc
 joseph@masc%invmasc
+jubal@masc%invmasc
 judaism@masc%invmasc
 judas@masc%invmasc
 judea@neut%invmasc
@@ -612,6 +617,7 @@ my@neut%invmasc
 myster@neut%endy
 naked@neut%invmasc
 name@neut%normmasc
+named@neut%invmasc
 narrower@adj%normmasc
 nation@neut%normmasc
 natural@adj%normmasc
@@ -641,6 +647,7 @@ num@neut%invmasc
 number@neut%normmasc
 numbered@neut%invmasc
 o@neut%invmasc
+object@neut%normmasc
 occasion@neut%normmasc
 occasional@adj%normmasc
 odd@masc%normmasc
@@ -910,6 +917,7 @@ talmudical@adj%normmasc
 talmudist@neut%normmasc
 tannaim@neut%invmasc
 targum@neut%invmasc
+targumist@neut%normmasc
 tea@neut%normmasc
 teacher@neut%normmasc
 teaching@neut%normmasc

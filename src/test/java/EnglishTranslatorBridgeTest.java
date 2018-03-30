@@ -858,10 +858,11 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("leviathan_prefaceR", translatorBridge);
         checkInMaps("leviathan_prefaceS", translatorBridge);
         checkInMaps("leviathan_prefaceT", translatorBridge);
-        checkInMaps("leviathan_prefaceU", translatorBridge);
+        //checkInMaps("leviathan_prefaceU", translatorBridge);
         checkInMaps("leviathan_prefaceV1", translatorBridge);
         checkInMaps("leviathan_prefaceV2", translatorBridge);
-        checkInMaps("leviathan_prefaceW", translatorBridge);
+        checkInMaps("leviathan_prefaceW1", translatorBridge);
+        checkInMaps("leviathan_prefaceW2", translatorBridge);
         checkInMaps("leviathan_prefaceX", translatorBridge);
         checkInMaps("leviathan_prefaceY", translatorBridge);
         checkInMaps("leviathan_prefaceZ", translatorBridge);

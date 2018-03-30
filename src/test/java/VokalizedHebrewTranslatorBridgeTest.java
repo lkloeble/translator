@@ -1351,6 +1351,24 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
 
 
     @Test
+    public void midrabaeng() {
+        checkInMaps("midrashrabaeng1A", translatorBridge);
+        checkInMaps("midrashrabaeng1B", translatorBridge);
+        checkInMaps("midrashrabaeng1C", translatorBridge);
+        checkInMaps("midrashrabaeng1D", translatorBridge);
+        checkInMaps("midrashrabaeng1E", translatorBridge);
+    }
+
+    @Test
+    public void midrabheb() {
+        checkInMaps("midrashrabahebcom1A", translatorBridge);
+        checkInMaps("midrashrabahebcom1B", translatorBridge);
+        checkInMaps("midrashrabahebcom1C", translatorBridge);
+        checkInMaps("midrashrabahebcom1D", translatorBridge);
+        checkInMaps("midrashrabahebcom1E", translatorBridge);
+    }
+
+    @Test
     public void test_failed_ones() {
         assertTrue(true);
         checkInMaps("totoacc", translatorBridge);
