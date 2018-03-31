@@ -109,8 +109,9 @@ fall,[live],(AIP*falld*fell*0@PAP*falld*fallen*0)
 fear,[call]
 fight,[live]
 fill,[live]
-find,[live],(PAP*findd*found*0)
 finish,[call]
+find,[live],(PAP*findd*found*0)
+fit,[live]
 fix,[teach]
 fly,[live]
 follow,[call]

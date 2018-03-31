@@ -19,6 +19,7 @@ auz,,[dorm],(IPR025*auz*aud*0)
 be,,[bea]
 calator,i,[locuiesc]
 cant,,[cauta]
+castig,,[incerca]
 caut,,[cauta]
 cer,,[face],(CONJ25*cer*cear*0)
 cint,,[cauta]
@@ -27,6 +28,8 @@ conduc,,[face]
 consider,,[cauta]
 constat,,[cauta]
 constitui,,[constitui]
+continu,a,[intampla]
+contop,,[aciti]
 contribui,,[constitui]
 corespun,,[vinde]
 cost,,[cauta]
@@ -116,6 +119,7 @@ renunts,,[cauta]
 rama,,[ramane]
 raspun,,[raspund]
 realiz,a,[fumez]
+reprezent,a,[cauta],(IPR0125*repreze*reprezi*0)
 restabil,i,[locuiesc]
 retrag,,[merg],(PAP*retrags*retras*0)
 reverber,,[fumez]
@@ -160,4 +164,4 @@ vin@IRREGULAR%[IPR]=[vin,vii,vine,venim,venitsi,vin]%[AII]=[veneam,veneai,venea,
 van,,[vinde],(IPR1234*van*vin*0@PSP1234*van*vin*0)
 vorb,i,[aciti]
 vr,,[vrea],(AIF*vr*v*0)
-zic,,[merg],(AIP*zic*zis*0@AII*zic*zice*0)
+zic,,[merg],(AIP*zic*zis*0@AII*zic*zice*0@PAP*zics*zis*0)

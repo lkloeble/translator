@@ -109,6 +109,7 @@ gelt,en,[stehen],(AIP*gel*gal*0)
 genes,en,[genesen]
 gernhaben@IRREGULAR%[INFINITIVE]=[gernhaben]%[IPR]=[gernhabe,gernhast,gernhat,gernhaben,gernhabt,gernhaben]
 gescheh,en,[rufen],(AIP*gescheh*geschah*0)
+gestatt,en,[segnen]
 gewinn,en,[leben]
 glaub,en,[leben]
 haben@IRREGULAR%[IPR]=[habe,hast,hat,haben,habt,haben]%[AIP]=[hatte,hattest,hatte,hatten,hattet,hatten]%[INFINITIVE]=[haben]
@@ -126,6 +127,7 @@ hor,en,[leben],(PAP*hor*gehort*0)
 informier,en,[leben]
 innewerd,en,[werden]
 interessier,en,[leben]
+jogg,en,[leben]
 kampf,en,[leben]
 kauf,en,[leben]
 kehr,en,[starken]
@@ -198,6 +200,7 @@ sinn,en,[rufen],(AIP*sin*san*0)
 sitz,en,[lassen],(IPR1*sitzst*sitzt*0@AIP*sitz*sass*0)
 soll,en,[wollen]
 sorg,en,[leben]
+spazier,en,[leben]
 spiel,en,[leben]
 sprech,en,[rufen],(AIP*spre*spra*0@IPR12*spre*spri*0)
 stamm,en,[leben]
@@ -218,6 +221,7 @@ trag,en,[lassen],(AIP*trag*trug*0)
 trau,en,[leben]
 treib,en,[leben]
 trenn,en,[leben]
+trink,en,[leben]
 tu,n,[leben],(PAP*tu*getan*0)
 ubereinstimm,en,[leben]
 uberrasch,en,[leben]
@@ -229,6 +233,8 @@ verbind,en,[mochten],(AIP*verbind*verband*0)
 vergess,en,[wollen]
 verheirat,en,[segnen]
 verlang,en,[leben]
+verletz,en,[pflanzen]
+verlier,en,[leben],(PAP*verlier*verloren*0)
 vermeid,en,[mochten]
 verrats,eln,[sammeln]
 verschreib,en,[rufen]

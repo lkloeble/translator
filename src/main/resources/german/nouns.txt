@@ -1,5 +1,6 @@
 a@neut%inv
 abend@neut%inv
+abendessen@neut%inv
 abends@neut%inv
 aber@neut%inv
 abhandlung@fem%meinfem
@@ -11,6 +12,7 @@ acht@neut%inv
 adresse@fem%flasche
 ah@neut%inv
 ahn@masc%schmerz
+ailonith@neut%inv
 all@adj%ausreichend
 allein@adj%inv
 allergisch@adj%norm
@@ -126,6 +128,7 @@ blume@fem%flasche
 blut@fem%phanomen
 boden@masc%arbeiter
 bodensee@neut%inv
+bogereth@neut%inv
 bose@neut%bose
 brasilianisch@adj%ausreichend
 braut@fem%angst
@@ -428,6 +431,7 @@ hotel@neut%inv
 hund@fem%norm
 hundert@neut%inv
 hunger@neut%inv
+hure@fem%flasche
 ideal@adj%inv
 idee@fem%invfem[nomplr:ideen]
 illegitim@adj%ausreichend
@@ -479,6 +483,7 @@ jugend@neut%inv
 jugendlich@adj%ausreichend
 juli@neut%inv
 jung@adj%norm
+jungsfrauschaft@fem%inv
 juni@neut%inv
 kaffee@neut%inv
 kalter@neut%inv
@@ -508,6 +513,7 @@ kraft@fem%angst
 krank@adj%mein
 krankheit@fem%meinfem
 kraut@fem%meinfem
+krautertee@neut%inv
 krieg@fem%jahrzehnt
 kritik@masc%meinmasc
 kritisch@adj%norm
@@ -552,6 +558,7 @@ lukas@masc%inv
 lust@fem%angst
 lustbarkeit@fem%meinfem
 lustig@adj%ausreichend
+lv@neut%inv
 magazin@masc%norm
 makel@masc%zeichen
 makellos@adj%ausreichend
@@ -898,6 +905,8 @@ unbedenklich@adj%ausreichend
 unbedingt@neut%inv
 unbekummert@neut%inv
 unbescheidenheit@neut%inv
+unfall@masc%phanomen
+unfruchtbar@adj%ausreichend
 ungarisch@adj%ausreichend
 ungeheuerlich@adj%ausreichend
 ungeheur@adj%ausreichend
@@ -931,6 +940,7 @@ vergrubelt@neut%inv
 verhaltnis@neut%erkenntnis
 verkauf@neut%norm
 verlobt@adj%meinmasc
+verlobung@fem%meinfem
 vermischung@neut%norm
 verruckt@adj%norm
 versailles@neut%inv
@@ -1001,6 +1011,7 @@ wirtschaft@fem%inv
 wissender@masc%inv
 wissenschaft@fem%meinfem
 wissenschaftlichkeit@fem%inv
+witwe@fem%flasche
 woche@fem%flasche
 wohnung@masc%meinmasc
 wort@neut%holz

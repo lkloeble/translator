@@ -368,9 +368,19 @@ staniloae4F=>Faptul ca lumea se lumineaza in om si pentru om si prin om, arata c
 staniloae4G=>Dar faptul ca omul insusi, luminand lumea, se lumineaza pe sine pentru sine prin lume, arata ca si lumea e necesara pentru om.
 staniloae4H=>Lumea e facuta pentru a fi umanizata, nu omul pentru a fi asimilat lumii, naturii.
 staniloae4I1=>Lumea intreaga e facuta pentru a deveni un om mare, sau conținutul omului devenit in fiecare persoana atotcuprinzator,
-staniloae4I2=>nu omul pentru a fi parte a naturii si neinsemnand in ea mai mult decat orice alta parte a naturii si neinsemnand n ea mai mult decat orice alta parte a ei, sau contopindu-se in ea.
-staniloae4J=>Caci printr-o eventuala contopire a omului in natura s-ar pierde cel mai important factor al realitatii, fara ca natura sa castige ceva nou, pe cand prin asimilarea lumii in om, natura insasi castiga, fiind ridicata pe un plan cu totul nou, fara sa se pierda propriu-zis.
-staniloae4K=>Pierderea noastra in natura nu reprezinta nici un progres nici pentru natura, pe cand umanizarea continua sau eterna a naturii reprezinta un progres etern, facand abstractie de faptul ca prin aceasta nu se pierde nimic si mai ales nu se pierde ceea ce e mai valoros in realitate.
+staniloae4I2=>nu omul pentru a fi parte a naturii si neinsemnand in ea mai mult decat orice alta parte a naturii si neinsemnand în ea mai mult decat orice alta parte a ei, sau contopindu-se in ea.
+staniloae4J1=>Caci printr-o eventuala contopire a omului in natura s-ar pierde cel mai important factor al realitații,
+staniloae4J2=>fara ca natura sa castige ceva nou, pe cand prin asimilarea lumii in om, natura insasi castiga,
+staniloae4J3=>fiind ridicata pe un plan cu totul nou, fara sa se pierdă propriu-zis.
+staniloae4K1=>Pierderea noastră in natura nu reprezinta nici un progres nici pentru natura,
+staniloae4K2=>pe cand umanizarea continua sau eterna a naturii reprezinta un progres etern,
+staniloae4K3=>facand abstractie de faptul ca prin aceasta nu se pierde nimic si mai ales nu se pierde ceea ce e mai valoros in realitate.
+staniloae4L=>Pierderea noastră în natura înseamnă a se bate pasul pe loc într-un proces în esență mereu identic și deci absurd prin monotonia lui.
+
+ă
+ș
+ț
+
 
 filocalia1A=>Sfintul Antonie a fost cel dintîi monah care s-a retras în pustie, fiind urmat de mai mulți ucenici.
 filocalia1B=>viața lui, care a umplut de uimire lumea din acea vreme, a fost descrisă de Sfîntul Atanasie, patriarhul Alexandriei.

@@ -237,6 +237,7 @@ degree@neut%normmasc
 deliberation@fem%normfem
 delicious@adj%invmasc
 delight@adj%normmasc
+depth@neut%church
 designation@fem%normfem
 desirable@adj%normmasc
 desire@neut%normmasc
@@ -265,6 +266,7 @@ doubtful@adj%normmasc
 dreadful@adj%normmasc
 dress@fem%invfem
 dressing@neut%invmasc
+dried@neut%invmasc
 dry@adj%invmasc
 dundee@neut%invmasc
 durham@neut%invmasc
@@ -902,6 +904,7 @@ style@eut%normmasc
 suburb@fem%normfem
 sugar@neut%normmasc
 suggestion@fem%normfem
+summer@neut%invmasc
 sunday@neut%normmasc
 sunny@adj%invmasc
 super@neut%invmasc

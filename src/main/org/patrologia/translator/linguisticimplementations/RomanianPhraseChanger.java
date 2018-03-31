@@ -7,6 +7,7 @@ import org.patrologia.translator.basicelements.noun.NounRepository;
 import org.patrologia.translator.basicelements.preposition.Preposition;
 import org.patrologia.translator.basicelements.verb.Verb;
 import org.patrologia.translator.basicelements.verb.VerbRepository;
+import org.patrologia.translator.casenumbergenre.Case;
 import org.patrologia.translator.casenumbergenre.Gender;
 import org.patrologia.translator.conjugation.ConjugationPart;
 import org.patrologia.translator.conjugation.RootedConjugation;
@@ -39,10 +40,12 @@ public class RomanianPhraseChanger extends CustomLanguageRulePhraseChanger {
     @Override
     public Phrase modifyPhrase(Phrase startPhrase, ModificationLog modificationLog, CustomRule customRule) {
         Phrase badaReplacedByAccordingPreposition = replaceBada(startPhrase);
-        Phrase phraseSint = replaceSintAbbreviation(badaReplacedByAccordingPreposition);
+        Phrase handleConditionalCOnstructions = replaceConditional(badaReplacedByAccordingPreposition);
+        Phrase phraseSint = replaceSintAbbreviation(handleConditionalCOnstructions);
         Phrase gerondiveMinusI = replaceMinusIInGerondiveVerb(phraseSint);
         Phrase pentruCaByCustomNoun = replacePentruCaByCustomNoun(gerondiveMinusI);
-        Phrase withSeparatedFeminineArticle = replaceEndAForFeminineNoun(pentruCaByCustomNoun, stopWords);
+        Phrase splitWithNeInBeginningOfVerbs = splitNeInBeginningOfVerbs(pentruCaByCustomNoun);
+        Phrase withSeparatedFeminineArticle = replaceEndAForFeminineNoun(splitWithNeInBeginningOfVerbs, stopWords);
         Phrase withSeparatedMasculineArticle = replaceEndUlForMasculineNoun(withSeparatedFeminineArticle, Collections.EMPTY_LIST);
         Phrase replaceNWithMinusByNuWithSpace = replaceSuffixesWithMinus(withSeparatedMasculineArticle);
         Phrase splittedComposedWords = splitComposedWords(replaceNWithMinusByNuWithSpace);
@@ -53,6 +56,52 @@ public class RomanianPhraseChanger extends CustomLanguageRulePhraseChanger {
             return cleanPatternForAInRomanianAnalyzer(verbsInfinitiveWithStie);
         }
         return verbsInfinitiveWithStie;
+    }
+
+    private Phrase replaceConditional(Phrase phrase) {
+        Set<Integer> integers = phrase.keySet();
+        for(Integer indice  : integers) {
+            Word currentWord = phrase.getYetUnknownWordAtPosition(indice);
+            String current = currentWord.getInitialValue();
+            Word nextWord = phrase.getYetUnknownWordAtPosition(indice + 1);
+            String next = nextWord.getInitialValue();
+            if("s_ar".equals(current) && verbRepository.hasVerb(next)) {
+                currentWord.modifyContentByPatternReplacement("s_ar","xxtoremovexx");
+                nextWord.modifyContentByPatternReplacement(next, next+"arcond");
+            }
+        }
+        return phrase;
+    }
+
+    private Phrase splitNeInBeginningOfVerbs(Phrase phrase) {
+        Set<Integer> indices = phrase.keySet();
+        int numberOfMatchingVerbs =0;
+        for(Integer indice : indices) {
+            WordContainer wordContainerAtIndice = phrase.getWordContainerAtPosition(indice);
+            String initialValue = wordContainerAtIndice.getInitialValue();
+            if(nounRepository.hasNoun(initialValue)) continue;
+            if(initialValue.startsWith("ne") && initialValue.length() > 2 && verbRepository.hasVerb(initialValue.substring(2))) {
+                numberOfMatchingVerbs++;
+            }
+        }
+        if(numberOfMatchingVerbs == 0) return phrase;
+        Phrase newPhrase = new Phrase(phrase.size() + numberOfMatchingVerbs, Language.ROMANIAN);
+        int newPhraseIndice = 1;
+        for(Integer indice : indices) {
+            WordContainer wordContainerAtIndice = phrase.getWordContainerAtPosition(indice);
+            String initialValue = wordContainerAtIndice.getInitialValue();
+            if(initialValue.startsWith("ne") && initialValue.length() > 2 && verbRepository.hasVerb(initialValue.substring(2))) {
+                Verb verbWithoutLeadingNe = new Verb(initialValue.substring(2), wordContainerAtIndice.getRoot().substring(2), Language.ROMANIAN);
+                newPhrase.addWordAtPosition(newPhraseIndice, verbWithoutLeadingNe);
+                newPhraseIndice++;
+                newPhrase.addWordAtPosition(newPhraseIndice, new Preposition(Language.ROMANIAN,"nu", Case.getCaseByName("nom","", Language.ROMANIAN)));
+                newPhraseIndice++;
+            } else {
+                newPhrase.addWordContainerAtPosition(newPhraseIndice, wordContainerAtIndice, newPhrase);
+                newPhraseIndice++;
+            }
+        }
+        return newPhrase;
     }
 
     private Phrase replaceMinusIInGerondiveVerb(Phrase phrase) {

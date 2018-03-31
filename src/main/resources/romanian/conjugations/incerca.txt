@@ -1,3 +1,4 @@
-IPR=>,i,a,am,ati,a
+IPR=>,i,a,am,atsi,a
+ASP=>,i,e,am,atsi,e
 PAP=>at
 PAPR=>and

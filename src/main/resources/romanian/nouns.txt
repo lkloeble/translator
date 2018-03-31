@@ -1,3 +1,4 @@
+abstracti@fem%berea
 acasa@neut%inv
 accentuat@adj%adj
 acedie@neut%inv
@@ -39,6 +40,7 @@ articol@masc%ul
 ascet@masc%ul
 asimilat@adj%adj
 ascuns@adj%adj
+asimilare@fem%ereditate
 aspect@masc%ul
 aspirin@fem%fem
 astazi@neut%inv
@@ -120,6 +122,7 @@ constient@adj%adjts
 constiints@fem%fem
 consultatsi@fem%fem
 continuare@fem%ereditate
+contopir@fem%berea
 contsinut@masc%ul
 conversatsie@fem%ereditate
 copi@masc%copil
@@ -199,7 +202,9 @@ energie@fem%ereditate
 epistol@fem%fem
 ereditate@fem%ereditate
 esentsial@adj%adj
+etern@adj%adj
 eu@neut%inv
+eventual@adj%adj
 exact@adj%adj
 existents@fem%fem
 exempl@masc%ul
@@ -413,7 +418,7 @@ original@adj%adj
 origine@fem%ereditate
 ortodox@fem%fem
 pacat@neut%inv
-pacato@adj%pacatos
+pacat@adj%pacatos
 pachet@fem%fem
 pacient@masc%ul
 padur@fem%berea
@@ -440,6 +445,7 @@ pg@neut%inv
 pian@masc%ul
 pic@neut%inv
 picatur@fem%fem
+pierder@fem%berea
 pierdut@adj%adjts
 pild@fem%fem
 pip@fem%fem
@@ -466,6 +472,7 @@ prieten@adj%adj
 prim@adj%adj
 probabil@adj%adj
 profesor@masc%ul
+progres@masc%ul
 prooroc@masc%ul
 propri@adj%adj
 produs@masc%ul
@@ -495,6 +502,7 @@ revedere@neut%inv
 revelatsi@fem%femi
 revist@fem%fem
 rezumat@masc%ul
+ridicat@adj%adj
 roat@fem%fem[nomplr(a):roate,nomplr(b):rotsi,nomplr(c):roatele,nomplr(d):rotsile]
 rod@masc%ul[nomplr(a):roadele]
 rol@masc%ul
@@ -583,6 +591,7 @@ taxi@neut%inv
 teatr@masc%ul
 tendints@fem%fem
 text@neut%ul
+totul@neut%inv
 trei@neut%inv
 tren@masc%ul
 tsaran@masc%ul
@@ -605,6 +614,7 @@ ucigas@ùasc%ul
 uimir@fem%berea
 ultim@adj%adj
 uman@adj%adj
+umanizare@fem%ereditate
 umanizat@adj%adj
 umbr@fem%fem
 umor@masc%ul
@@ -621,6 +631,7 @@ usor@adj%adj
 usuoar@adj%adj
 va@neut%inv
 vadit@adj%adj
+valor@adj%pacatos
 valorificare@neut%inv
 vampir@masc%ul
 vanatoare@fem%inv

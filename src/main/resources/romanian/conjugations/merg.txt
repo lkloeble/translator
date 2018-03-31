@@ -1,4 +1,5 @@
 IPR=>,i,e,em,etsi,
+ACP=>arcond,iarcond,earcond,emarcond,etsiarcond,arcond
 PAP=>s
 AIP=>ei,esi,e,eram,eratsi,era
 AII=>am,ai,a,am,atsi,au

@@ -201,6 +201,7 @@ vielem@prep()
 vieles@prep()
 vielleicht@prep()
 voller@prep()
+vollig@prep()
 vom@prep()
 von@prep()
 vor@prep()%[verbLeadingPreposition]
