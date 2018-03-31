@@ -44,6 +44,7 @@ bestatig,en,[leben]
 bestell,en,[leben]
 betracht,en,[mochten]
 beug,en,[leben]
+beweis,en,[genesen],(AII*beweis*bewies*0)
 bewund,ern,[fordern]
 bezahl,en,[leben]
 biet,en,[leben]

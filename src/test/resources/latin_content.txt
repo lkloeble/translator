@@ -899,3 +899,12 @@ caesar1T2=>scire se illa esse vera, nec quemquam  ex eo plus quam se doloris cap
 caesar1T3=>quibus opibus ac nervis non solum ad minuendam gratiam, sed paene ad perniciem suam uteretur. Sese tamen et amore fraterno et existimatione vulgi commoveri.
 caesar1T4=>Quod si quid ei a Caesare gravius accidisset, cum ipse eum locum amicitiae apud eum teneret, neminem existimaturum non sua voluntate factum; qua ex re futurum uti totius Galliae animi a se averterentur.
 caesar1T5=>Haec cum pluribus verbis flens a Caesare peteret, Caesar eius dextram prendit; consolatus rogat finem orandi faciat; tanti eius apud se gratiam esse ostendit uti et rei publicae iniuriam et suum dolorem eius voluntati ac precibus condonet. Dumnorigem ad se vocat, fratrem adhibet; quae in eo reprehendat ostendit; quae ipse intellegat, quae civitas queratur proponit; monet ut in reliquum tempus omnes suspiciones vitet; praeterita se Diviciaco fratri condonare dicit. Dumnorigi custodes ponit, ut quae agat, quibuscum loquatur scire possit.
+
+spinozaethi1A=>Definitio 1 : Per causam sui intelligo id cujus essentia involvit existentiam sive id cujus natura non potest concipi nisi existens.
+spinozaethi1B=>Definitio 2 : Ea res dicitur in suo genere finita quae alia ejusdem naturae terminari potest. Exempli gratia corpus dicitur finitum quia aliud semper majus concipimus. Sic cogitatio alia cogitatione terminatur. At corpus non terminatur cogitatione nec cogitatio corpore.
+spinozaethi1C=>Definitio 3 : Per substantiam intelligo id quod in se est et per se concipitur hoc est id cujus conceptus non indiget conceptu alterius rei a quo formari debeat.
+spinozaethi1D=>Definitio 4 : Per attributum intelligo id quod intellectus de substantia percipit tanquam ejusdem essentiam constituens.
+spinozaethi1E=>Definitio 5 : Per modum intelligo substantiae affectiones sive id quod in alio est, per quod etiam concipitur.
+spinozaethi1F=>Definitio 6 : Per Deum intelligo ens absolute infinitum hoc est substantiam constantem infinitis attributis quorum unumquodque aeternam et infinitam essentiam exprimit.
+spinozaethi1G=>Definitio 7 : Ea res libera dicitur quae ex sola suae naturae necessitate existit et a se sola ad agendum determinatur. Necessaria autem vel potius coacta quae ab alio determinatur ad existendum et operandum certa ac determinata ratione.
+spinozaethi1H=>Definitio 8 : Per aeternitatem intelligo ipsam existentiam quatenus ex sola rei aeternae definitione necessario sequi concipitur.

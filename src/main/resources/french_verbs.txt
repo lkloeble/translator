@@ -414,7 +414,7 @@ promettre@NORM%[INFINITIVE]=[promettre]%[IPR]=[promets,promets,promet,promettons
 prononcer@NORM%[INFINITIVE]=[prononcer]%[IPR]=[prononce,prononces,prononce,prononçons,prononcez,prononcent]%[PAP]=[prononcé]%[PAPR]=[prononçant]%[AIP]=[prononçai,prononças,prononça,prononçâmes,prononçâtes,prononcèrent]
 prophetiser@NORM%[IPR]=[prophétise,prophétises,prophétise,prophétisons,prophétisez,prophétisaient]%[AII]=[prophétisais,prophétisais,prophétisait,prophétisions,prophétisiez,prophétisaient]%[INFINITIVE]=[prophétiser]
 proteger@NORM%[INFINITIVE]=[protéger]%[IPR]=[protège,protèges,protège,protègeons,protègez,protègent]
-prouver@NORM%[INFINITIVE]=[prouver]%[IPR]=[prouve,prouves,prouve,prouvons,prouvez,prouvent]%[PAP]=[prouvé]%[AIPP]=[ai prouvé,as prouvé,a prouvé,avons prouvés,avez prouvés,ont prouvés]
+prouver@NORM%[INFINITIVE]=[prouver]%[IPR]=[prouve,prouves,prouve,prouvons,prouvez,prouvent]%[PAP]=[prouvé]%[AIPP]=[ai prouvé,as prouvé,a prouvé,avons prouvés,avez prouvés,ont prouvés]%[AII]=[prouvais,prouvais,prouvait,prouvions,prouviez,prouvaient]
 provoquer@NORM%[INFINITIVE]=[provoquer]%[IPR]=[provoque,provoques,provoque,provoquons,provoquez,provoquent]%[IAP]=[avoir provoqué]
 publier@NORM%[INFINITIVE]=[publier]%[IAP]=[avoir publier]%[PAP]=[publié]%[IPR]=[publie,publies,publie,publions,publiez,publient]%[AIP]=[publiai,publias,publia,publiâmes,publiâtes,publièrent]%[AIPP]=[ai publié,as publié,a publié,avons publiés,avez publiés,ont publiés]%[AII]=[publiais,publiais,publiait,publiions,publiiez,publiaient]
 punir@NORM%[IPR]=[punis,punis,punit,punissons,punissez,punissent]%[INFINITIVE]=[punir]

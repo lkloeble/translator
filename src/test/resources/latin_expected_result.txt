@@ -917,3 +917,13 @@ caesar1T2=>foo
 caesar1T3=>foo
 caesar1T4=>foo
 caesar1T5=>foo
+
+
+spinozaethi1A=>foobar
+spinozaethi1B=>foobar
+spinozaethi1C=>foobar
+spinozaethi1D=>foobar
+spinozaethi1E=>foobar
+spinozaethi1F=>foobar
+spinozaethi1G=>foobar
+spinozaethi1H=>foobar

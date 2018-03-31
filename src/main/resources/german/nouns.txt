@@ -1007,6 +1007,7 @@ wien@neut%inv
 wille@fem%wille
 winkel@masc%arbeiter
 wirklichkeit@fem%meinfem
+wirkung@fem%meinfem
 wirtschaft@fem%inv
 wissender@masc%inv
 wissenschaft@fem%meinfem

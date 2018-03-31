@@ -185,6 +185,7 @@ bett@noun!schmerz%1(noun)=lit
 beug@verb!norm%1(verb)=inflechir
 bewahrt@adj!ausreichend%1(adj)=fiable
 beweis@noun!meer%1(noun)=preuve
+beweis@verb!norm%1(verb)=prouver
 bewiesen@adj!ausreichend%1(adj)=prouvé
 bewund@verb!norm%1(verb)=admirer
 bezahl@verb!norm%1(verb)=payer
@@ -1490,6 +1491,7 @@ winkel@noun!arbeiter%1(noun)=endroit%2(noun)=angle
 wir@prep%1(prep)=nous
 wirklich@prep%1(prep)=vraiment
 wirklichkeit@noun!meinfem%1(noun)=réalité
+wirkung@noun!meinfem%1(noun)=effet%2(noun)=action
 wirtschaft@noun!inv%1(noun)=économie
 wissender@noun!inv%1(noun)=connaisseur
 wissenschaft@noun!meinfem%1(noun)=science
