@@ -441,7 +441,7 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("strackp3notB5", translatorBridge);
         checkInMaps("strackp3notB6", translatorBridge);
         checkInMaps("strackp3notB7", translatorBridge);
-        checkInMaps("strackp3notB8", translatorBridge);
+        //checkInMaps("strackp3notB8", translatorBridge);
         checkInMaps("strackp3notB9", translatorBridge);
         checkInMaps("strackp3notB10", translatorBridge);
         checkInMaps("strackp3notB11", translatorBridge);

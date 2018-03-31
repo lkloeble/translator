@@ -123,6 +123,7 @@ autem@prep%1(prep)=mais%2(prep)=d'autre part%3(prep)=et puis,en outre%4(prep)=or
 av@noun!is-is%1(noun)=volaille%2(noun)=oiseau
 ave@noun!inv%1(noun)=bonjour
 bacul@noun!um-i%1(noun)=support%2(noun)=sceptre%3(noun)=bâton
+baptism@noun!um-i%1(noun)=baptême
 baptist@noun!a-ae%1(noun)=baptiste
 barnabe@noun!inv%1(noun)=barnabé
 bdelli@noun!um-i%1(noun)=bdellium
@@ -154,7 +155,7 @@ cantic@noun!um-i%1(noun)=cantique%2(noun)=chant
 cap@noun!ut-itis%1(noun)=tête
 capen@noun!a-ae%1(noun)=capena
 capharnaum@noun!inv%1(noun)=capharnaüm
-capio@verb!norm%1(verb)=recevoir%2(verb)=comprendre
+capio@verb!norm%1(verb)=prendre%2(verb)=recevoir%3(verb)=comprendre
 capitul@noun!um-i%1(noun)=chapitre
 capu@noun!a-ae%1(noun)=capue
 car@adj!us-a-um%1(noun)=bien-aimé
@@ -220,6 +221,7 @@ congregatio@noun!x-nis%1(noun)=association%2(noun)=société%3(noun)=réunion
 congrego@verb!norm%1(noun)=assembler2
 coniurati@noun!o-onis%1(noun)=complot
 conjectur@adj!us-a-um%1(adj)=lançant%2(adj)=jetant%3(adj)=présumant
+consepult@adj!us-a-um%1(adj)=enterré
 conjugo@verb!norm%1(verb)=s'unir
 conor@verb!norm%1(verb)=essayer
 conpleo@verb!norm%1(verb)=accomplir%2(verb)=terminer
@@ -255,6 +257,7 @@ creator@noun!x-is2%1(noun)=créateur
 creatur@noun!a-ae%1(noun)=créature
 creo@verb!norm%1(verb)=engendrer,procreer,produire%2(verb)=causer,faire naitre,produire%3(verb)=creer
 credo@verb!norm%1(verb)=croire
+cremo@verb!norm%1(verb)=consumer
 cresco@verb!norm%1(verb)=croitre
 cret@noun!a-ae%1(noun)=crète
 cristat@adj!us-a-um%1(adj)=avec crête
@@ -275,8 +278,10 @@ cupid@adj!us-a-um%1(adj)=méchant%2(adj)=glouton%3(adj)=désireux
 cupidit@noun!as-atis%1(noun)=cupidité%2(noun)=avarice%3(noun)=désir
 cur@prep%1(adv interrogatif)=pourquoi ?%(adv indirect avec subj)=que%(adv causal)=[ne se traduit pas]%(adv)=pourquoi
 cur@noun!a-ae%1(noun)=attention
+custodio@verb!norm%1(verb)=garder
 cynthia@noun!inv%1(noun)=cynthia
 damn@noun!um-i%1(noun)=perte%2(noun)=blessure
+damnat@adj!us-a-um%1(adj)=condamné
 danuvi@noun!us-i%1(noun)=danube
 dat@adj!us-a-um%1(adj)=offert%2(adj)=donné
 dav@noun!us-i%1(noun)=davus
@@ -303,6 +308,7 @@ desino@verb!norm%1(verb)=cesser%2(noun)=stopper
 despect@adj!us-a-um%1(adj)=dédaigné%2(adj)=méprisé
 detriment@noun!um-i%1(noun)=détriment
 desideri@noun!um-i%1(noun)=besoin%2(noun)=regret%3(noun)=désir
+dexter@noun!a-ae%1(noun)=main droite
 di@noun!es-ei%1(noun)=jour
 diacon@noun!us-i%1(noun)=diacre
 dicend@adj!us-a-um%1(noun)=dit
@@ -477,6 +483,7 @@ gen@noun!adj-us-eris%1(noun)=genre%2(noun)=groupe%3(noun)=origine%4(noun)=type%5
 generatim@prep%1(prep)=par type%2(prep)=généralement
 generati@noun!o-onis%1(noun)=génération
 genit@adj!us-a-um%1(adj)=engendré
+genital@adj!is-is-e%1(adj)=productif%2(adj)=lié à la naissance
 genu@noun!a-ae%1(noun)=gêne
 genuin@adj!us-a-um%1(adj)=naturel,inne%2(adj)=authentique
 geon@noun!inv%1(noun)=géon
@@ -544,6 +551,7 @@ idem@demo%1(determ)=aussi%2(corr avec qui,atque,et,ut,quasi,cum)=meme%3(determ)=
 idol@noun!um-i%1(noun)=forme%2(noun)=idole
 igitur@prep%1(noun)=en conséquence
 ignati@noun!us-i%1(proper noun)=ignace eveque d'antioche%2(proper noun)=ignace
+ign@noun!is-is%1(noun)=feu
 ill@adj!e-a-ud%1(pro dem)=celui la
 imag@noun!o-inis%1(noun)=image
 imbuo@verb!norm%1(verb)=humidifer%2(verb)=tremper%3(verb)=mouiller
@@ -897,6 +905,7 @@ ploro@verb!norm%1(verb)=pleurer
 plu@adj!us-res-ra%1(noun)=plus nombreux, en plus grand nombre%2(noun)=un assez grand nombre, un trop grand nombre%3(noun)=plusieurs%4(noun)=plus
 plu@adj!s-ris%1(adj)=plus
 plurim@adj!us-a-um%1(adj)=superieur%2(adj)=le plus grand nombre
+poen@noun!a-ae%1(noun)=punition
 poet@noun!a-ae%1(noun)=poêtes
 pomif@adj!er-era-erum%1(adj)=porteur de fruit
 pono@verb!norm%1(verb)=établir%2(verb)=placer%3(verb)=ordonner
@@ -1085,6 +1094,7 @@ septim@adj!us-a-um%1(noun)=septième
 sequan@noun!us-i%1(noun)=sequane
 sequan@noun!a-ae%1(noun)=seine
 sequen@adj!s-s-s%1(noun)=suivant
+sequor@verb!norm%1(verb)=suivre
 serv@noun!us-i%1(noun)=esclave
 serviend@adj!us-a-um%1(adj)=qui doit être servi
 servo@verb!norm%1(verb)=préserver%2(verb)=garder
@@ -1203,6 +1213,7 @@ ubi@prep%1(adv)=ou%2(adv)=dans lequel%3(conj)=quand, lorsque4(conj + subj)=du mo
 umbr@noun!a-ae%1(noun)=ombre
 umer@noun!us-i%1(noun)=dos%2(noun)=umérus (os)%3(noun)=épaule
 un@adj!us-a-um%1(adj)=un
+und@noun!a-ae%1(noun)=onde%2(noun)=vague
 unde@prep%1(prep)=d'où
 undique@prep%1(prep)=de tous côtés
 unic@adj!us-a-um%1(adj)=unique

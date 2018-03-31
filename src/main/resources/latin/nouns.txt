@@ -77,6 +77,7 @@ aureli@fem%a-ae
 av@fem%is-is
 ave@neut%inv
 bacul@neut%um-i
+baptism@neut%um-i
 baptist@masc%a-ae
 barnabe@masc%inv
 bdelli@neut%um-i
@@ -147,6 +148,7 @@ congregat@adj%us-a-um
 congregatio@neut%x-nis
 coniurati@fem%o-onis
 conjectur@adj%us-a-um
+consepult@adj%us-a-um
 consili@neut%um-i
 conspurcat@adj%us-a-um
 consuetud@fem%o-inis
@@ -180,6 +182,7 @@ cupidit@fem%as-atis
 cur@fem%a-ae
 cynthia@fem%inv
 damn@neut%um-i
+damnat@adj%us-a-um
 danuvi@masc%us-i
 dat@adj%us-a-um
 dav@masc%us-i
@@ -195,6 +198,7 @@ desert@adj%us-a-um
 desideri@neut%um-i
 despect@adj%us-a-um
 detriment@neut%um-i
+dexter@fem%a-ae
 di@neut%es-ei
 diacon@masc%us-i
 dicend@adj%us-a-um
@@ -296,6 +300,7 @@ gaudi@neut%um-i
 gen@neut%adj-us-eris
 generati@fem%o-onis
 genit@adj%us-a-um
+genital@adj%is-is-e
 genu@fem%a-ae
 genuin@adj%us-a-um
 geon@neut%inv
@@ -335,6 +340,7 @@ human@adj%us-a-um
 hymn@masc%us-i
 idol@neut%um-i
 ignati@masc%us-i2
+ign@masc%is-is
 ill@adj%e-a-ud
 imag@fem%o-inis
 imperi@masc%um-i
@@ -573,6 +579,7 @@ pler@adj%us-a-um
 plu@adj%us-res-ra
 plu@adj%s-ris
 plurim@adj%us-a-um
+poen@fem%a-ae
 poet@fem%a-ae
 pomif@adj%er-era-erum
 popul@masc%us-i
@@ -744,6 +751,7 @@ tuscul@masc%um-i
 umbr@fem%a-ae
 umer@masc%us-i
 un@adj%us-a-um
+und@fem%a-ae
 unic@adj%us-a-um
 unigenit@adj%us-a-um
 univers@neut%um-i

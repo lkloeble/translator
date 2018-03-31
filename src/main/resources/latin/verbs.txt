@@ -34,7 +34,7 @@ benedic,o,is,ere,foobar,foobar,[o-is],(AIP*benedic*benedix*0)
 bib,o,is,ere,,,[o-is]
 can,o,is,ere,,,[o-is]
 cant,o,as,are,,,[o-as]
-cap,io,is,ere,,,[io-is],[INF=capere]
+cap,io,is,ere,,,[io-is],(AIP*cap*cep*0)
 carp,o,is,ere,,,[o-is]
 cav,eo,es,ere,-,-,[eo-es]
 celebr,o,as,are,,,[o-as]
@@ -68,8 +68,10 @@ conven,io,is,ire,veni,ventum,[io-is]
 convinc,o,is,ere,,,[o-is]
 corrig,o,is,ere,,,[o-is]
 cre,o,as,are,avi,atum,[o-as]
+crem,o,as,are,avi,atum,[o-as],(PSI*crem*cremar*0)
 cresc,o,is,ere,,,[o-is]
 cred,o,is,ere,,,[o-is],(AIP*cred*credid*0)
+custod,io,is,ire,,,[io-is],(ASI*custode*custodi*0)
 d,o,as,are,edi,atum,[o-as],(AIP*dav*ded*0@AIPP*dav*ded*0)
 deb,eo,es,ere,-,-,[eo-es]
 defic,io,is,ire,-,-,[io-is]
@@ -109,7 +111,7 @@ exst,o,as,are,-,-,[o-as]
 extend,o,is,ere,,,[o-is]
 exsult,o,as,are,,,[o-as]
 fac,io,is,ere,,,[io-is2],(AIP*fac*fec*0@AIPP*fac*fec*0@PII*fac*fieb*0)
-fer,o,s,re,tuli,latum,[o-s]
+fer,o,s,re,tuli,latum,[o-s],(AIP*fer*tul*0)
 fi,o,s,ere,foobar,foobar,[o-s-fiat]
 fin,io,is,ire,,,[io-is],(AIP*fin*finiv*0)
 flor,eo,es,ere,,,[eo-es],(AIP*flor*floru*0)
@@ -231,6 +233,7 @@ scrib,o,is,ere,,,[o-is]
 sed,eo,es,ere,,,[eo-es]
 seduc,o,is,ere,misi,missum,[o-is]
 separ,o,as,are,,,[o-as],(ASP*separe*separaveri*0)
+sequ,or,eris,i,,,[or-eris]
 serv,o,as,are,,,[o-as]
 solv,o,is,ere,,,[o-is]
 son,o,as,are,,,[o-as]
