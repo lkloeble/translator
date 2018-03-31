@@ -3,6 +3,7 @@ abominand@adj%us-a-um
 abrogat@adj%us-a-um
 abyss@masc%us-i
 accept@adj%us-a-um
+accurat@adj%us-a-um
 adae@masc%inv
 adam@masc%inv
 adduct@adj%us-a-um
@@ -11,6 +12,7 @@ adipat@neut%um-i
 adferen@masc%s-tis
 adorand@adj%us-a-um
 adult@adj%us-a-um
+adyt@neut%um-i
 aegypt@fem%us-i
 aegypti@adj%us-a-um
 aemili@fem%a-ae
@@ -244,6 +246,7 @@ equ@masc%us-i
 esc@fem%a-ae
 ev@fem%a-ae
 euboe@fem%a-ae
+eucharisti@fem%a-ae
 eufrates@neut%inv
 europ@fem%a-ae
 evangeli@neut%um-i
@@ -253,6 +256,7 @@ except@adj%us-a-um
 excus@adj%us-a-um
 exercit@adj%us-a-um
 exercit@masc%us-us
+expositi@fem%o-onis
 exspectat@adj%us-a-um
 extrem@adj%us-a-um
 fabi@fem%a-ae
@@ -348,6 +352,7 @@ impi@adj%us-a-um
 impluvi@neut%um-i
 improb@adj%us-a-um
 inan@adj%is-is-e
+incarnati@fem%o-onis
 incens@neut%um-i
 indici@neut%um-i
 incredibil@adj%is-is-e
@@ -477,6 +482,7 @@ monit@adj%us-a-um
 monument@neut%um-i
 mor@fem%s-tis
 morien@adj%s-s-s
+moritur@adj%us-a-um
 mortu@adj%us-a-um
 mo@masc%s-ris
 motabil@adj%is-is-e
@@ -627,6 +633,7 @@ ratio@fem%x-nis
 recen@neut%s-tis
 recitati@fem%o-onis
 rect@adj%us-a-um
+regenerati@fem%o-onis
 regin@fem%a-ae
 regio@fem%x-nis
 regn@neut%um-i
@@ -673,6 +680,7 @@ scribend@adj%us-a-um
 scriptor@masc%scriptor
 script@neut%um-i
 scriptur@adj%us-a-um
+secreti@adj%or-or-us
 secund@adj%us-a-um
 semen@fem%x-is
 sement@neut%is-is
@@ -714,6 +722,7 @@ supern@adj%us-a-um
 su@adj%us-a-um
 supplici@neut%um-i
 supposititi@adj%us-a-um
+suscept@adj%us-a-um
 suscitand@adj%us-a-um
 syllab@fem%a-ae
 syr@fem%a-ae
@@ -744,6 +753,7 @@ traditio@fem%x-nis
 tres@neut%inv
 tria@neut%inv
 triclini@neut%um-i
+trinit@fem%as-atis
 tub@fem%a-ae
 tuend@adj%us-a-um
 turb@fem%a-ae

@@ -37,6 +37,7 @@ cant,o,as,are,,,[o-as]
 cap,io,is,ere,,,[io-is],(AIP*cap*cep*0)
 carp,o,is,ere,,,[o-is]
 cav,eo,es,ere,-,-,[eo-es]
+cel,o,as,are,,,[o-as]
 celebr,o,as,are,,,[o-as]
 cen,o,as,are,,,[o-as]
 cess,o,as,are,,,[o-as]
@@ -214,9 +215,11 @@ redim,o,is,ere,,,[o-is]
 regn,o,as,are,,,[o-as]
 reg,o,is,ere,,,[o-is]
 relinqu,o,is,ere,,,[o-is],(AIP*relin*reli*0)
+renasc,or,eris,i,,,[or-eris],(ASI*renasc*renascer*0)
 repl,eo,es,ere,,,[eo-es]
 repudi,o,as,are,,,[o-as]
 requiesc,o,is,ere,,,[o-is],(AIP*requiesc*requiev*0)
+reser,o,as,are,,,[o-as]
 respect,o,as,are,,,[o-as]
 respond,eo,es,ere,,,[eo-es]
 rest,o,as,are,,,[o-as]

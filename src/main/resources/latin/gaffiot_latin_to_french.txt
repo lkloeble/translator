@@ -10,6 +10,7 @@ acerbius@prep%1(prep)=aussi sévère que
 accept@adj!us-a-um%1(adj)=accepté
 accipio@verb!norm%1(verb)=recevoir%2(verb)=accepter
 acclamo@verb!norm%1(verb)=acclamer
+accurat@adj!us-a-um%1(adj)=exact%2(adj)=bien préparé
 accuso@verb!norm%1(verb)=accuser
 ad@prep%1(prep)=vers
 adae@noun!inv%1(noun)=adam
@@ -31,6 +32,7 @@ adorand@adj!us-a-um%1(adj)=adoré
 adoro@verb!norm%1(verb)=admirer%2(verb)=adorer%3(verb)=accuser%4(verb)=negocier
 adult@adj!us-a-um%1(adj)=brûlé%2(adj)=sacrifié
 advenio@verb!norm%1(verb)=arriver
+adyt@noun!um-i%1(noun)=saint des saints
 aegypt@noun!us-i%1(noun)=egypte
 aegypti@adj!us-a-um%1(adj)=egyptien
 aemili@noun!a-ae%1(noun)=aemilia
@@ -64,6 +66,7 @@ amiciti@noun!a-ae%1(noun)=alliance%2(noun)=amitié
 amo@verb!norm%1(verb)=aimer
 amoen@noun!us-a-um%1(noun)=délicieux
 amplexand@noun!us-a-um%1(noun)=embrassé
+amplius@prep%1(prep)=en outre
 ancill@noun!a-ae%1(noun)=servante, esclave%2(noun)=devote, servante%3(noun()=moniale%4(noun)=servante
 angel@noun!us-i%1(noun)=ange
 angelic@adj!us-a-um%1(adj)=angélique
@@ -167,6 +170,7 @@ carpo@verb!norm%1(verb)=cueillir
 catholic@adj!us-a-um%1(adj)=catholique
 caus@noun!a-ae%1(noun)=chose%2(noun)=explication%3(noun)=condition%4(noun)=motif,prétexte%5(noun)=raison
 caveo@verb!norm%1(verb)=prendregarde
+celo@verb!norm%1(verb)=cacher
 celebro@verb!norm%1(verb)=celebrer
 celerit@noun!as-atis%1(noun)=vitesse
 celt@noun!a-ae%1(noun)=celte
@@ -400,6 +404,7 @@ etenim@prep%1(prep)=parce  que
 etiam@prep%1(prep)=bien plus%2(prep)=même
 etsi@prep%1(prep)=bien que%2(prep)=néanmoins
 euboe@noun!a-ae%1(noun)=eubée
+eucharisti@noun!a-ae%1(noun)=eucharistie
 eufrates@noun!inv%1(noun)=euphrate
 eum@prep%1(prep)=le
 europ@noun!a-ae%1(noun)=europe
@@ -415,6 +420,7 @@ exerceo@verb!norm%1(verb)=exercer
 excus@adj!us-a-um%1(adj)=falsifié
 exercit@adj!us-a-um%1(adj)=exercé%2(adj)=occupé
 exercit@noun!us-us%1(noun)=entrainé
+expositi@noun!o-onis%1(noun)=exposition
 exspectat@adj!us-a-um%1(adj)=attendu
 extrem@adj!us-a-um%1(adj)=extrême
 exempl@noun!um-i%1(noun)=exemple
@@ -565,6 +571,7 @@ importo@verb!norm%1(verb)=importer
 improb@noun!us-a-um%1(noun)=mauvais
 in@prep%1(prep+acc)=dans, en, sur : (sens local aboutissement d'un mouvement)%2(prep+acc)=jusqu'a : (temporel aboutissement d'un mouvement)%3(prep+acc)=a la maniere de%4(prep+acc)=pour, en faveur de%5(prep+abl)=dans,en,sur (sens local sans mouvement)%6(prep+abl)=dans (temporel indiquant une date ou un laps de temps)%7(prep+abl)=dans,parmi%8(prep+abl)=dans
 inan@adj!is-is-e%1(adj)=vide
+incarnati@noun!o-onis%1(noun)=incarnation
 incens@noun!um-i%1(noun)=encens
 inclino@verb!norm%1(verb)=incliner
 incipio@verb!norm%1(verb)=demarrer
@@ -753,6 +760,7 @@ monit@adj!us-a-um%1(adj)=averti
 monument@noun!um-i%1(noun)=tombe%2(noun)=monument%3(noun)=rappel
 mor@noun!s-tis%1(noun)=mort
 morien@adj!s-s-s%1(adj)=mourant
+moritur@adj!us-a-um%1(noun)=sur le point de mourir
 mortu@adj!us-a-um%1(noun)=mort
 mo@noun!s-ris%1(noun)=manière
 motabil@adj!is-is-e%1(adj)=mobile
@@ -922,6 +930,7 @@ potentissim@adj!us-a-um%1(noun)=le plus puissante
 potissim@adj!us-a-um%1(noun)=principal%2(adj)=plus puissant
 potior@verb!norm%1(verb)=controler%2(verb)=capturer%3(verb)=obtenir
 prae@prep%1(prep)=a l'avant,en avant,devant%2(prep)=au regard de,en comparaison de%3(prep)=en raison de (phrases negatives)%4(prep)=a cause de
+praesertim@prep%1(prep)=particulièrement
 praecedo@verb!norm%1(verb)=surpasser
 praesum@verb!irrg%1(verb)=être devant%2(verb)=commander%3(verb)=presider
 praecept@noun!um-i%1(noun)=leçon%2(noun)=commandement%3(noun)=précepte
@@ -1007,6 +1016,7 @@ recitati@noun!o-onis%1(noun)=lecture
 rect@adj!us-a-um%1(adj)=droit
 redimo@verb!norm%1(verb)=racheter
 regin@noun!a-ae%1(noun)=reine
+regenerati@noun!o-onis%1(noun)=régénération
 regio@noun!x-nis%1(noun)=sol%2(noun)=région%3(noun)=frontière%4(noun)=direction
 regn@noun!um-i%1(noun)=autorite royale, royaute, monarchie, trone%2(noun)=souverainete, autorite toute puissante%3(noun)=aspirer a la royaute (pejoratif chez les romqins de l'epoque republicaine)%4(noun)=royaume
 regno@verb!norm%1(verb)=regner
@@ -1016,6 +1026,7 @@ relict@adj!us-a-um%1(adj)=abandonné%2(adj)=veuf
 religi@noun!o-onis%1(noun)=piété%2(noun)=observance
 relinquo@verb!norm%1(verb)=abandonner%2(verb)=quitter
 reliqu@adj!us-a-um%1(adj)=survivant%2(adj)=restant
+renascor@verb!norm%1(verb)=naitredenouveau
 repleo@verb!norm%1(verb)=remplir
 reptil@adj!is-is-e%1(adj)=reptile
 repudio@verb!norm%1(verb)=repudier
@@ -1023,6 +1034,7 @@ requiesco@verb!norm%1(verb)=stopper%2(verb)=sereposer
 res@noun!a-ae%1(noun)=chose
 resarcitum@noun!inv%1(noun)=rangs
 resciss@adj!us-a-um%1(adj)=annulé
+resero@verb!norm%1(verb)=reveler%2(verb)=ouvrir
 respecto@verb!norm%1(verb)=attendre%2(verb)=regarder
 respons@noun!um-i%1(noun)=réponse
 respondeo@verb!norm%1(verb)=repondre
@@ -1076,6 +1088,7 @@ script@noun!um-i%1(noun)=ligne%2(noun)=ecrit%3(noun)=la lettre, le texte (de la 
 scriptor@noun!scriptor%1(noun)=écraivain%2(noun)=auteur
 scriptur@noun!us-a-um%1(noun)=écriture
 se@prep%1(conj)=se
+secreti@adj!or-or-us%1(adj)=séparé
 secund@adj!us-a-um%1(adj)=suivant
 sed@prep%1(conj)=mais
 sedeo@verb!norm%1(verb)=se repose%2(verb)=etreassis
@@ -1143,6 +1156,7 @@ super@prep%1(adv)=par dessus,en plus%2(prep + acc)=au dessus%3(prep + abl)=sur%4
 superfici@noun!es-ei%1(fem)=à la surface
 supern@adj!us-a-um%1(adj)=céleste%2(adj)=paradisiaque
 supposititi@adj!us-a-um%1(adj)=supposé
+suscept@adj!us-a-um%1(adj)=a été repris
 suscitand@adj!us-a-um%1(adj)=qui doit être encouragé%2(adj)=qui doit être élevé%3(adj)=qui doit être éveillé
 supersum@verb!irrg%(1verb)=etre de reste, rester, subsister%2(verb)=survivre%3(verb)=etre en surabondance%4(verb)=suffire (poesie)%5(verb)=etre de trop, superflu%6(verb)=assister, secourir%7(verb)==etre au dessus, dominer%8(verb)=rester
 suppeto@verb!norm%1(verb)=etredisponible
@@ -1196,6 +1210,7 @@ transmitto@verb!norm%1(verb)=transmettre
 tres@noun!inv%1(noun)=trois
 tria@noun!inv%1(noun)=trois
 triclini@noun!um-i%1(noun)=salle-à-manger
+trinit@noun!as-atis%1(noun)=trinité
 tu@prep%1(prep)=toi
 tua@prep%1(prep)=ta
 tuam@prep%1(prep)=ta
