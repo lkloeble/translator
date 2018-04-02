@@ -41,5 +41,6 @@ apas%apas.txt
 ο-ου%ugro.txt
 ων-ονος%kavwv.txt
 ους-η-ουν%aplous.txt
+ους-ους-ουν%tetrapous.txt
 ους-ουσα-ον%didous.txt
 ων-ουσα-ον%lambanon.txt

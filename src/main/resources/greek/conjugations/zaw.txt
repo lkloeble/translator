@@ -1,2 +1,2 @@
 IPR=>ω,ης,η,ωμεν,ητε,ωσιν|ωσι
-PRESACTPART=>ωσων
+PRESACTPART=>ωσαν,ωσων

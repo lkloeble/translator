@@ -39,6 +39,7 @@
 επι@prep%[electGenitiveForFollowingNoun(επιgen),electDativeForFollowingNoun(επιdat),electAccusativeForFollowingNoun(επιacc)]
 επιgen@prep()
 επιdat@prep()
+επιμελως@prep()
 ηι@prep()
 ημιν@prep()
 ημων@prep()
@@ -73,6 +74,7 @@
 οδε@prep()
 οιον@prep()
 οντων@prep()
+οπισω@prep()
 οτι@prep()
 ου@prep()
 ουδε@prep()
