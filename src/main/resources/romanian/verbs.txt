@@ -16,6 +16,7 @@ astept,,[cauta],(AIMP*astepta*asteapta*1)
 atrag,,[merg]
 autoform,are,[aciti]
 auz,,[dorm],(IPR025*auz*aud*0)
+bat,e,[merg]
 be,,[bea]
 calator,i,[locuiesc]
 cant,,[cauta]

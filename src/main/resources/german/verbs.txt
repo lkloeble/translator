@@ -34,6 +34,7 @@ behand,eln,[sammeln]
 behaupt,en,[mochten]
 beibring,en,[leben]
 beitrag,en,[lassen],(AIP*beitrag*beitrug*0)
+beiwohn,en,[leben]
 bekomm,en,[rufen],(AIP*bekomm*bekam*0)
 belohn,en,[leben]
 benutz,en,[setzen]
@@ -70,6 +71,7 @@ eintret,en,[leben],(IPR12*tret*trit*0)
 empfang,en,[leben]
 entnehm,en,[leben]
 entsteh,en,[entstehen],(AIP*entsteh*entstand*0)
+entweih,en,[leben]
 erfull,en,[leben]
 erhalt,en,[leben]
 erhol,en,[leben]
@@ -111,6 +113,7 @@ genes,en,[genesen]
 gernhaben@IRREGULAR%[INFINITIVE]=[gernhaben]%[IPR]=[gernhabe,gernhast,gernhat,gernhaben,gernhabt,gernhaben]
 gescheh,en,[rufen],(AIP*gescheh*geschah*0)
 gestatt,en,[segnen]
+gesteh,en,[entstehen],(AIP*gesteh*gestand*0)
 gewinn,en,[leben]
 glaub,en,[leben]
 haben@IRREGULAR%[IPR]=[habe,hast,hat,haben,habt,haben]%[AIP]=[hatte,hattest,hatte,hatten,hattet,hatten]%[INFINITIVE]=[haben]
@@ -148,11 +151,12 @@ lern,en,[leben]
 les,en,[leben],(IPR124*les*lies*0@PAP*les*geles*0)
 lieb,en,[leben]
 lieg,en,[rufen],(AIP*lieg*lag*0)
+lock,en,[leben]
 los,en,[leben]
 loskomm,en,[leben],(AIP*loskomm*loskam*0@PAP*loskomm*losgekommen*0)
 mach,en,[leben],(AIP*mach*macht*0@PAP*mach*gemacht*0)
 mehr,en,[leben]
-mein,en,[leben]
+mein,en,[leben],(PAP*mein*gemeint*0)
 miet,en,[leben]
 mitteil,en,[leben],(PAP*mitteil*mitgeteil*0)
 mitwirk,en,[leben],(PAP*mitwirk*mitgewirkt*0)
@@ -187,6 +191,8 @@ scheid,en,[rufen],(AIP*scheid*schied*0@PAP*scheid*geschied*0)
 schein,en,[rufen],(AIP*schein*schien*0)
 schlacht,en,[mochten]
 schlaf,en,[leben]
+schleich,en,[leben]
+schliess,en,[schliessen],(AIP*schliess*schloss*0)
 schreib,en,[rufen],(AIP*schreib*schrieb*0@PAP*schrei*geschrie*0)
 schutz,en,[leben],(IPR*schutzst*schutzt*0)
 schweb,en,[leben]
@@ -241,7 +247,9 @@ verrats,eln,[sammeln]
 verschreib,en,[rufen]
 versteh,en,[leben]
 verschweig,en,[lassen],(PAP*verschweig*verschwieg*0)
+versteck,en,[leben],(PAP*versteck*versteckt*0)
 versterb,en,[leben],(PAP*versterb*verstorben*0)
+verstoss,en,[genesen],(PAP*verstoss*verstossen*0)
 versuch,en,[leben]
 verteidig,en,[leben]
 vertrag,en,[leben]

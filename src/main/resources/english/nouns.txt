@@ -44,6 +44,7 @@ aramaic@neut%normmasc
 archbishop@neut%invmasc
 area@fem%normfem
 arm@neut%normmasc
+arm@neut%endy
 art@neut%invmasc
 artificer@neut%normmasc
 artificial@adj%normmasc
@@ -344,6 +345,7 @@ fifth@neut%invmasc
 fifty@neut%invmasc
 fig@neut%normmasc
 fine@adj%invmasc!agenitive
+firm@adj%normmasc
 firmament@masc%normmasc
 first@adj%invmasc
 firstborn@neut%invmasc
@@ -411,6 +413,7 @@ green@adj%invmasc
 ground@masc%normmasc
 guide@masc%normmasc
 gun@masc%normmasc
+guttural@adj%invmasc
 guy@neut%invmasc
 gym@neut%invmasc
 habitation@neut%normmasc
@@ -650,6 +653,7 @@ number@neut%normmasc
 numbered@neut%invmasc
 o@neut%invmasc
 object@neut%normmasc
+observation@neut%normmasc
 occasion@neut%normmasc
 occasional@adj%normmasc
 odd@masc%normmasc
@@ -801,6 +805,7 @@ sally@neut%invmasc!agenitive
 salt@masc%normmasc
 samaria@fem%invfem
 same@neut%normmasc
+sand@neut%normmasc
 sandy@adj%invmasc
 sarah@fem%invfem
 saturday@neut%normmasc
@@ -966,6 +971,7 @@ traditional@adj%normfem
 traffic@neut%normmasc
 translation@fem%normfem
 translator@neut%normmasc
+traveler@neut%normmasc
 tree@masc%normmasc
 truth@neut%church
 tube@masc%normmasc
@@ -985,6 +991,7 @@ underemphasis@neut%invmasc
 university@fem%invfem
 unknown@neut%invmasc
 unsatisfactory@neut%invmasc
+unusual@adj%invmasc
 upper@neut%invmasc
 usually@neut%invmasc
 usurped@neut%invmasc

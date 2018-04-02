@@ -11,6 +11,8 @@ abschliess@verb!norm%1(verb)=terminer
 abstammung@noun!meinfem%1(noun)=lignée
 abteilung@noun!norm%1(noun)=service
 abkurzung@noun!meinfem%1(noun)=abbréviation
+abneigung@noun!meinfem%1(noun)=aversion
+absicht@noun!meinfem%1(noun)=objectif
 ach@noun!inv%1(noun)=ah
 acht@noun!inv%1(noun)=huit
 adresse@noun!flasche%1(noun)=adresse
@@ -154,6 +156,8 @@ beiden@prep%1(prep)=les deux
 beigefugt@adj!ausreichend%1(adj)=attaché
 beispielsweise@prep%1(prep)=par exemple
 beitrag@verb!norm%1(verb)=contribuera
+beiwohn@verb!norm%1(verb)=avoirdesrelationssexuelles
+beiwohnung@noun!inv%1(noun)=présence%2(noun)=rapports sexuels
 bekomm@verb!norm%1(noun)=recevoir
 bekummert@noun!inv%1(noun)=concerné
 beleg@noun!jahrzehnt%1(noun)=référence%2(noun)=évidence
@@ -286,6 +290,7 @@ deutsch@adj!ausreichend%1(adj)=allemand
 deutschland@noun!inv%1(noun)=allemagne
 dezember@noun!inv%1(noun)=décembre
 dialektik@noun!inv%1(noun)=dialectique
+dialektisch@noun!ausreichend%1(adj)=dialectique
 dich@prep%1(prep)=te
 dick@noun!norm%1(adj)=obèse
 die@noun!inv%1(noun)=la
@@ -351,6 +356,7 @@ einlad@verb!norm%1(verb)=inviter
 einleitung@noun!norm%1(noun)=introduction
 einpaar@prep%1(prep)=quelque
 eins@noun!inv%1(noun)=un
+einstweilen@prep%1(prep)=entre-temps%2(prep)=en attendant
 eintret@verb!norm%1(verb)=entrer
 eintrittskarte@noun!flasche%1(noun)=billet d'entrée
 einzeln@adj!ausreichend%1(adj)=unique%2(adj)=solitaire%3(adj)=séparé%4(adj)=seul
@@ -365,6 +371,7 @@ entschlossenheit@noun!inv%1(noun)=détermination
 entschuldigung@prep%1(prep)=excuse
 entnehm@verb!norm%1(verb)=deduire%2(verb)=extraire%3(verb)=retirer
 entsteh@verb!norm%1(verb)=naitre
+entweih@verb!norm%1(verb)=profaner
 epikurisch@adj!ausreichend%1(adj)=épicurien
 er@prep%1(prep)=il
 erde@noun!flasche%1(noun)=terre
@@ -565,6 +572,7 @@ geschwacht@adj!ausreichend%1(adj)=affaibli
 gesetz@noun!meer%1(noun)=loi
 gesetzlich@adj!ausreichend%1(noun)=légal
 gestatt@verb!norm%1(verb)=permettre
+gesteh@verb!norm%1(verb)=confesser
 gestiegen@adj!ausreichend%1(noun)=monté
 gesund@noun!inv%1(noun)=sain
 gesundheit@noun!norm%1(noun)=santé
@@ -670,6 +678,7 @@ hund@noun!norm%1(noun)=chien
 hundert@noun!inv%1(noun)=cent
 hunger@noun!inv%1(noun)=faim
 hure@noun!flasche%1(noun)=prostituée
+hurerische@adj!inv%1(adj)=liée à la prostitution
 ich@prep%1(prep)=je
 ideal@noun!inv%1(noun)=idéal
 idee@noun!invfem%1(noun)=idée
@@ -751,6 +760,7 @@ kalter@noun!inv%1(noun)=plus froid
 kantens@noun!inv%1(noun)=de kant
 kampf@verb!norm%1(verb)=lutter
 kantischen@adj!meinmasc%1(adj)=kantien
+kapuze@noun!flasche%1(noun)=capuche%2(noun)=cagoule
 kase@noun!norm%1(noun)=fromage
 kassette@noun!flasche%1(noun)=cassette
 katalog@noun!norm%1(noun)=catalogue
@@ -817,6 +827,7 @@ lebendig@adj!ausreichend%1(adj)=animé%2(adj)=vivant
 lebenskraft@noun!angst%1(noun)=vitalité
 lebensunterhalt@noun!inv%1(noun)=moyen de subsistance
 leer@adj!inv%1(adj)=vide
+ledig@adj!ausreichend%1(adj)=célibataire
 legitim@adj!ausreichend%1(adj)=légitime
 legitimitat@noun!inv%1(noun)=légitimité
 lehr@noun!inv%1(noun)=apprentissage
@@ -840,6 +851,7 @@ lieg@verb!norm%1(verb)=reposer
 limonade@noun!inv%1(noun)=limonade
 literatur@noun!inv%1(noun)=littérature
 lk@noun!inv%1(noun)=lc
+lock@verb!norm%1(verb)=attirer
 logisch@adj!ausreichend%1(adj)=logique
 losend@adj!ausreichend%1(adj)=dissolvant
 los@verb!norm%1(verb)=resoudre
@@ -860,6 +872,7 @@ maltechnik@noun!meinfem%1(noun)=technique picturale
 man@prep%1(prep)=on
 manch@adj!ausreichend%1(adj)=nombreux
 mangel@noun!arbeiter%1(noun)=manque
+manier@noun!meinfem%1(noun)=manière
 mann@noun!ort%1(noun)=époux%2(noun)=homme
 marke@noun!flasche%1(noun)=marque
 markus@noun!inv%1(noun)=marc
@@ -874,7 +887,7 @@ mehr@prep%1(prep)=davantage de
 mehr@verb!norm%1(verb)=augmenter
 mehrfach@adj!ausreichend%1(adj)=nombreux
 mein@adj!mein%1(adj)=mon
-mein@verb!norm%1(verb)=penser
+mein@verb!norm%1(verb)=designer%2(verb)=penser
 meister@noun!masc%1(noun)=maître
 meist@prep%1(prep)=principalement
 melancholie@noun!inv%1(noun)=mélancolie
@@ -960,6 +973,7 @@ nenn@verb!norm%1(verb)=nommer
 neu@noun!mein%1(noun)=nouveau
 neuer@noun!ausreichend%1(noun)=davantage nouveau
 neuerung@noun!meinfem%1(noun)=innovation
+neugierde@noun!inv%1(noun)=curiosité
 neugierig@adj!inv%1(adj)=curieux
 neutestamentlich@noun!mein%1(adj)=néotestamentaire
 neutral@adj!ausreichend%1(adj)=neutre
@@ -1018,6 +1032,7 @@ pflanze@noun!flasche%1(noun)=plante
 pflanz@verb!norm%1(verb)=planter
 plan@verb!norm%1(verb)=prevoir
 plan@noun!ausreichend%1(noun)=projet
+platz@noun!phanomen%1(noun)=lieu%2(noun)=place
 politik@noun!inv%1(noun)=politique
 politiker@noun!arbeiter%1(noun)=politicien
 portrat@noun!meinmasc%1(noun)=portrait
@@ -1040,6 +1055,7 @@ prufung@noun!meinfem%1(noun)=examen%2(noun)=test
 pseudepigraphe@noun!flasche%1(noun)=pseudépigraphique
 psychologisch@adj!ausreichend%1(adj)=psychologique
 punktlich@noun!inv%1(noun)=ponctuel
+qid@noun!inv%1(noun)=kid.
 qual@noun!meinfem%1(noun)=agonie
 qualitat@noun!meinfem%1(noun)=qualité
 r@noun!inv%1(noun)=r
@@ -1112,14 +1128,22 @@ schenk@noun!meinmasc%1(noun)=verseur
 schick@verb!norm%1(verb)=adresser
 schicklichkeit@noun!meinfem%1(noun)=convenance
 schimson@noun!inv%1(noun)=schimson
+schlacht@noun!meinfem%1(noun)=bataille
 schlacht@verb!norm%1(verb)=sacrifier
+schlaf@verb!norm%1(verb)=dormir
 schlaflos@adj!ausreichend%1(adj)=sans sommeil
 schlaflosigkeit@noun!inv%1(noun)=insomnie
 schlafstorung@noun!meinfem%1(noun)=trouble du sommeil
 schlafmittel@noun!arbeiter%1(noun)=somnifère
 schlank@adj!inv%1(noun)=mince
+schlauheit@noun!meinfem%1(noun)=ruse
+schleich@verb!norm%1(verb)=ramper
+schliess@verb!norm%1(verb)=fermer
+schlimm@adj!ausreichend%1(adj)=mauvais
+schlimmer@adj!ausreichend%1(adj)=plus grave
 schluss@noun!norm%1(noun)=conclusion
 schlussel@noun!inv%1(noun)=clé
+schlecht@adj!ausreichend%1(adj)=mauvais
 schmerz@noun!schmerz%A(noun)=douleur
 schnell@prep%1(prep)=rapidement
 schutz@verb!norm%1(verb)=proteger
@@ -1130,12 +1154,6 @@ sicht@verb!norm%1(verb)=trier%2(verb)=classifier%3(verb)=organiser
 sitz@verb!norm%1(verb)=rester%2(verb)=sasseoir
 scheid@verb!norm%1(verb)=separer
 schein@verb!norm%1(verb)=briller
-schlacht@noun!meinfem%1(noun)=bataille
-schlaf@verb!norm%1(verb)=dormir
-schlauheit@noun!meinfem%1(noun)=ruse
-schlecht@adj!ausreichend%1(adj)=mauvais
-schlimm@adj!ausreichend%1(adj)=mauvais
-schlimmer@adj!ausreichend%1(adj)=plus grave
 schopenhauer@noun!zeichen%1(noun)=schopenhauer
 schopenhauerisch@adj!meinmasc%1(adj)=schopenhauerien
 schopfern@noun!arbeiter%1(noun)=créateur
@@ -1180,6 +1198,7 @@ sicherlicht@prep%1(prep)=certainement
 sie@prep%1(prep)=vous%2(prep)=eux%3(prep)=elle[ils]
 singer@noun!masc%1(noun)=chanteur
 sinn@verb!norm%1(verb)=reflechir
+siphra@noun!inv%1(noun)=siphra
 sittenlehre@noun!flasche%1(noun)=morale%2(noun)=éthique
 situation@noun!norm%1(noun)=situation
 schlaf@noun!ort%1(noun)=sommeil
@@ -1229,6 +1248,7 @@ stelle@noun!meinfem%1(noun)=position%2(noun)=place
 sterb@verb!norm%1(verb)=mourir
 stern@noun!meer%1(noun)=étoile
 stier@noun!meer%1(noun)=taureau
+stimme@noun!flasche%1(noun)=voix
 stoff@noun!meer%1(noun)=matière%2(noun)=substance%3(noun)=tissu
 stolz@noun!norm%1(noun)=fier
 stor@verb!norm%1(verb)=perturber
@@ -1250,6 +1270,7 @@ synedrium@noun!inv%1(noun)=sanhédrin
 tabelle@noun!flasche%1(noun)=tablette
 tag@noun!jahrzehnt%1(noun)=jour
 talmud@noun!meinmasc%1(noun)=talmud
+tanz@noun!phanomen%1(noun)=danse
 tapferkeit@noun!meinfem%1(noun)=courage
 tapferst@adj!ausreichend%1(noun)=le plus courageux
 tat@noun!inv%1(noun)=effet
@@ -1324,6 +1345,7 @@ unabhangig@adj!ausreichend%2(adj)=indépendant
 unangenehm@adj!ausreichend%2(adj)=désagréable
 unbedenklich@adj!ausreichend%2(adj)=acceptable
 unbedingt@noun!inv%1(noun)=absolument
+unbekannten@noun!inv%1(noun)=inconnu
 unbekummert@noun!inv%1(noun)=non concerné
 unbescheidenheit@noun!inv%1(noun)=immodestie
 und@prep%1(prep)=et
@@ -1333,6 +1355,7 @@ ungarisch@adj!ausreichend%1(adj)=hongrois
 ungeheur@adj!ausreichend%1(adj)=énorme
 ungeheuerlich@adj!ausreichend%1(adj)=monstrueux
 ungleich@adj!ausreichend%1(adj)=inégal
+unlustigkeit@noun!inv%1(noun)=morosité
 unmoglich@noun!meinmasc%1(noun)=impossible
 unmoralisch@adj!ausreichend%1(noun)=immoral
 uns@prep%1(prep)=nous
@@ -1386,7 +1409,9 @@ verschreib@verb!norm%1(verb)=prescrire
 verschweig@verb!norm%1(verb)=permettre
 verstandnis@noun!inv%1(noun)=sympathie%2(noun)=compréhension
 versteh@verb!norm%1(verb)=comprendre
+versteck@verb!norm%1(verb)=cacher
 versterb@verb!norm%1(verb)=mourir
+verstoss@verb!norm%1(verb)=rejetter%2(verb)=repudier
 versuch@verb!norm%1(verb)=essayer
 versuch@noun!meinmasc%1(noun)=essai
 versucherisch@adj!ausreichend%1(adj)=expérimental
@@ -1443,6 +1468,7 @@ wachs@verb!norm%1(verb)=grandir
 wag@verb!norm%1(verb)=oser
 wagen@noun!inv%1(noun)=voiture
 wagner@noun!inv%1(noun)=wagner
+wagnerianer@noun!arbeiter%1(noun)=wagnérien
 wagnisse@noun!inv%1(noun)=initiatives
 wann@prep%1(prep)=quand
 wahrend@prep%1(prep)=pendant que
@@ -1458,6 +1484,7 @@ wasser@noun!masc%1(noun)=eau
 web@verb!norm%1(verb)=tisser
 webend@noun!meinfem%1(noun)=tissage
 weder@prep%1(prep)=ni%2(prep)=aucun
+weg@noun!phanomen%1(noun)=voie%2(noun)=chemin
 weggeh@verb!norm%1(verb)=partir
 weib@noun!ort%1(noun)=épouse%2(noun)=femme
 wein@noun!inv%1(noun)=vin

@@ -561,6 +561,27 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     }
 
     @Test
+    public void test_staniloae_ch1_point5() {
+        checkInMaps("staniloae5A", translatorBridge);
+        checkInMaps("staniloae5B", translatorBridge);
+        checkInMaps("staniloae5C", translatorBridge);
+        checkInMaps("staniloae5D", translatorBridge);
+        checkInMaps("staniloae5E", translatorBridge);
+        checkInMaps("staniloae5F", translatorBridge);
+        checkInMaps("staniloae5G", translatorBridge);
+        checkInMaps("staniloae5H", translatorBridge);
+        checkInMaps("staniloae5I", translatorBridge);
+        checkInMaps("staniloae5J", translatorBridge);
+        checkInMaps("staniloae5K", translatorBridge);
+        checkInMaps("staniloae5L", translatorBridge);
+        checkInMaps("staniloae5M", translatorBridge);
+        checkInMaps("staniloae5N", translatorBridge);
+        checkInMaps("staniloae5O", translatorBridge);
+        checkInMaps("staniloae5P", translatorBridge);
+        checkInMaps("staniloae5Q", translatorBridge);
+    }
+
+    @Test
     public void test_trone_de_fer_chapter1() {
         checkInMaps("urzeala1A", translatorBridge);
         checkInMaps("urzeala1B", translatorBridge);

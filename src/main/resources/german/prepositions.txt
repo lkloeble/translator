@@ -74,6 +74,7 @@ ebenso@prep()
 eilends@prep()
 ein@prep()%[verbLeadingPreposition]
 einpaar@prep()
+einstweilen@prep()
 entgegen@prep()
 entschuldigung@prep()
 er@prep()%!article!

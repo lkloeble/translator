@@ -1,4 +1,5 @@
 abstracti@fem%berea
+absurd@adj%adj
 acasa@neut%inv
 accentuat@adj%adj
 acedie@neut%inv
@@ -201,6 +202,7 @@ elev@masc%ul
 energie@fem%ereditate
 epistol@fem%fem
 ereditate@fem%ereditate
+esents@fem%fem
 esentsial@adj%adj
 etern@adj%adj
 eu@neut%inv
@@ -261,6 +263,7 @@ iarba@fem%inv
 ierb@fem%locul
 ieremia@masc%inv
 ide@fem%parinte
+identic@adj%adj
 ieftin@adj%adj
 iepure@neut%iepure
 iesir@fem%femi
@@ -366,6 +369,7 @@ moart@fem%berea
 mod@masc%ul
 modest@adj%adj
 monah@masc%ul
+monotoni@fem%fem
 morcov@masc%ul
 mort@adj%adjts
 momeal@fem%fem
@@ -430,6 +434,7 @@ parasit@adj%adj
 parc@neut%inv
 parint@neut%parinte
 par@fem%capacitate
+pas@masc%ul
 pasiv@adj%inv
 patriarh@masc%ul
 patru@neut%inv
@@ -471,6 +476,7 @@ prets@masc%ul
 prieten@adj%adj
 prim@adj%adj
 probabil@adj%adj
+proces@masc%ul
 profesor@masc%ul
 progres@masc%ul
 prooroc@masc%ul

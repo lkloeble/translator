@@ -64,6 +64,7 @@ confound,[call]
 consider,[call]
 constrain,[call]
 consult,[call]
+cover,[call]
 create,[live]
 creep,[live]
 cry,[live],(IPR*crys*cries*0)
@@ -163,6 +164,7 @@ maintain,[call]
 may,[live],(IPR*mays*may*0@AIP*mayd*might*0)
 mean,[live],(PAP*meand*meant*0)
 meet,[live]
+melt,[call]
 mention,[call]
 mingle,[live]
 mix,[call]
@@ -201,6 +203,7 @@ reckon,[call]
 refer,[call]
 reflect,[call]
 reject,[call]
+relate,[live]
 remain,[call]
 remark,[call]
 remind,[call]
@@ -235,11 +238,14 @@ ski,[live]
 skirt,[live]
 sleep,[live],(AIP*sleepd*slept*0)
 smoke,[live],(PAPR*smoke*smok*0)
+smooth,[teach]
+soften,[live]
 speak,[live],(AII*spea*spo*0@PAP*speakd*spoken*0)
 starve,[live],(PAPR*starvei*starvi*0)
 subdue,[live]
 suffer,[call]
 suggest,[call]
+supplant,[call]
 support,[live]
 suppose,[live]
 survive,[live]
