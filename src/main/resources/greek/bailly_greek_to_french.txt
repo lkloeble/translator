@@ -243,9 +243,9 @@
 επιγινωσκ@verb!norm%1(verb)=reconnaitre
 επιζητ@verb!norm%1(verb)=souhaiter%2(verb)=rechercher
 επιμελως@prep%1(prep)=avec soin
-επιτελ@verb!norm%1(verb)=completer%2(verb)=accomplir
 επιπεδ@noun!ος-ου%1(noun)=niveau%2(noun)=plan
 επιεικ@adj!ης-ης-ες%1(adj)=raisonnable
+επιτελ@verb!norm%1(verb)=completer%2(verb)=accomplir
 επιστολ@noun!η-ης%1(noun)=lettre
 επιστροφ@noun!η-ης%1(noun)=retour
 ερπετ@noun!ον-ου%1(noun)=reptile%2(noun)=animal rampant
@@ -283,6 +283,7 @@
 η@noun!inv%1(noun)=la
 ηγε@verb!norm%1(verb)=preceder%2(verb)=diriger%3(verb)=commander
 ηδ@adj!υς-εια-υ%1(adj)=doux%2(adj)=plaisant
+ηδη@prep%1(prep)=déjà%2(prep)=maintenant
 ηι@prep%1(prep)=lequel
 ηθ@noun!ος-ους%1(noun)=coutûme%2(noun)=charactère
 ηλι@noun!ος-ου%1(noun)=soleil
