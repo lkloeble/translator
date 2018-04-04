@@ -230,15 +230,20 @@ public class VerbRepository {
     }
 
 
-    public Verb affectTime(Verb verb, String oldTime, String newTime) {
+    public Verb affectTime(Verb verb, String oldTime, List<String> newTimes) {
         TranslationInformationBean allFormsForTheVerbRoot = getAllFormsForTheVerbRoot(verb.getRoot());
         RootedConjugation rootedConjugationOld = allFormsForTheVerbRoot.getNameForms().get(verb.getRoot() + "@" + oldTime);
         List<Integer> indices = rootedConjugationOld.positionFound(verb.getInitialValue());
         int position = indices.get(0);
-        RootedConjugation rootedConjugationNew = allFormsForTheVerbRoot.getNameForms().get(verb.getRoot() + "@" + newTime);
-        String valueByPosition = rootedConjugationNew.getValueByPosition(ConjugationPosition.getValueByPosition(position));
-        verb.updateInitialValue(valueByPosition);
-        return verb;
+        RootedConjugation rootedConjugation = null;
+        for(String newTime : newTimes) {
+            if(!allFormsForTheVerbRoot.hasThisTime(newTime)) continue;
+            RootedConjugation rootedConjugationNew = allFormsForTheVerbRoot.getNameForms().get(verb.getRoot() + "@" + newTime);
+            String valueByPosition = rootedConjugationNew.getValueByPosition(ConjugationPosition.getValueByPosition(position));
+            verb.updateInitialValue(valueByPosition);
+            return verb;
+        }
+        return null;
     }
 
     public void addIndiceOfPreferedTranslation(String root, int indiceOfPreferedTranslation) {

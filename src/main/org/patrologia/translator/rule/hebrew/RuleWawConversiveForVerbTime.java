@@ -22,12 +22,15 @@ public class RuleWawConversiveForVerbTime extends Rule {
         List<String> futureTimes = new ArrayList<>();
         futureTimes.add("AIF");
         futureTimes.add("PALFUT");
+        futureTimes.add("CONVFUT");
+        futureTimes.add("HIFFUT");
         List<String> pastTimes = new ArrayList<>();
         pastTimes.add("AIP");
+        pastTimes.add("HIFPER");
         if(verbRepository.isOnlyInThisTime(followingVerb,futureTimes) != null) {
-            followingVerb = verbRepository.affectTime(followingVerb, verbRepository.isOnlyInThisTime(followingVerb,futureTimes),  "AIP");
+            followingVerb = verbRepository.affectTime(followingVerb, verbRepository.isOnlyInThisTime(followingVerb,futureTimes),  pastTimes);
         } else if(verbRepository.isOnlyInThisTime(followingVerb, pastTimes) != null) {
-            followingVerb = verbRepository.affectTime(followingVerb, verbRepository.isOnlyInThisTime(followingVerb,pastTimes), "AIF");
+            followingVerb = verbRepository.affectTime(followingVerb, verbRepository.isOnlyInThisTime(followingVerb,pastTimes), futureTimes);
         }
         WordContainer followingWordContainer = phrase.getWordContainerAtPosition(position+1);
         followingWordContainer.clearAll();

@@ -217,4 +217,12 @@ public class TranslationInformationBean {
     public boolean hasNoForms() {
         return nameForms.size() == 0;
     }
+
+    public boolean hasThisTime(String possibleTime) {
+        Set<String> allTimes = nameForms.keySet();
+        for(String time : allTimes) {
+            if(time.contains(possibleTime)) return true;
+        }
+        return false;
+    }
 }

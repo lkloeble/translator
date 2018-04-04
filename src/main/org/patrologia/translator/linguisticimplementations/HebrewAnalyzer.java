@@ -50,39 +50,33 @@ public class HebrewAnalyzer implements Analizer {
             int i = (int) c;
             switch (i) {
                 case 34://"
-                    //sb.append(" xxdexx ");
                     sb.append(" \" ");
                     break;
+                case 39://(
+                    sb.append("'");
+                    break;
                 case 40://(
-                    //sb.append(" xxdexx ");
                     sb.append(" ( ");
                     break;
                 case 41://(
-                    //sb.append(" xxdexx ");
                     sb.append(" ) ");
                     break;
                 case 44://,
-                    //sb.append(" xxdexx ");
                     sb.append(" , ");
                     break;
                 case 45://-
-                    //sb.append(" xxdexx ");
                     sb.append("& ");
                     break;
                 case 46://.
-                    //sb.append(" xxdexx ");
                     sb.append(" . ");
                     break;
                 case 49://1
-                    //sb.append(" xxdexx ");
                     sb.append("1");
                     break;
                 case 58://.
-                    //sb.append(" xxdexx ");
                     sb.append(" : ");
                     break;
                 case 59://;
-                    //sb.append(" ; ");
                     sb.append(" ; ");
                     break;
                 case 64://@

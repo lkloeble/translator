@@ -18,6 +18,7 @@ import java.util.List;
  * BINPER => BINyan PERfect
  * BINPRE => BINyan PREsent
  * HITAIP => HITpael AIP (imperfect)
+ * CONVFUT => CONVersive FUTure
  * Created by Laurent KLOEBLE on 15/10/2015.
  */
 public class HebrewConjugation extends Conjugation {
@@ -25,7 +26,7 @@ public class HebrewConjugation extends Conjugation {
     private String conjugationFilePath;
     private ConjugationLoader conjugationLoader = new ConjugationLoader();
 
-    protected static List<String> times = Arrays.asList(new String[]{"AIP","AIF","PSP","ARAIPR","PALINF","PALFUT","HIFPER","HIFIPR","AIMP","HITAIP"});
+    protected static List<String> times = Arrays.asList(new String[]{"AIP","AIF","PSP","ARAIPR","PALINF","PALFUT","HIFPER","HIFIPR","AIMP","HITAIP","CONVFUT"});
 
     public HebrewConjugation(List<String> conjugationElements, VerbDefinition verbDefinition, NounRepository nounRepository) {
         this.verbDefinition = verbDefinition;
