@@ -1,6 +1,7 @@
 abound,[call]
 accept,[call]
 acquire,[live]
+add,[live]
 adopt,[call]
 advance,[live]
 allow,[call]
@@ -116,6 +117,7 @@ fit,[live]
 fix,[teach]
 fly,[live]
 follow,[call]
+forget,[live]
 form,[call]
 gather,[call]
 get,[live]
@@ -231,6 +233,7 @@ shallbe,[live],(IPR*shallsbe*shallbe*0)
 shew,[live]
 should,[live],(IPR*shoulds*should*0)
 shut,[live]
+signif,[signify]
 simulate,[live],(PAPR*simulateing*simulating*0)
 sing,[live]
 sit,[live],(AIP*sitd*sat*0)

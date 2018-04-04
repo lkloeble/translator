@@ -131,6 +131,7 @@ care@neut%invmasc
 carmel@neut%invmasc
 case@neut%normmasc
 castle@masc%normmasc
+catalogue@neut%normmasc
 cathedral@fem%normfem
 catherine@fem%normfem
 cathy@fem%invfem
@@ -794,6 +795,7 @@ romans@neut%invmasc
 room@fem%normfem
 root@fem%normfem
 rush@neut%normfem
+rushy@adj%invmasc
 sacred@neut%invmasc
 sacrifice@neut%normmasc
 safet@neut%endy
@@ -825,6 +827,7 @@ section@fem%normfem
 second@adj%invmasc
 secondary@adj%invmasc
 secondly@adj%invmasc
+sedgy@adj%invmasc
 sedition@neut%normmasc
 seed@neut%normmasc
 sense@neut%normmasc

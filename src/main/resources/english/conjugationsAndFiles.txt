@@ -5,3 +5,4 @@ teach%teach.txt
 swim%swim.txt
 become%become.txt
 see%see.txt
+signify%signify.txt
