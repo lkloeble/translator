@@ -1,6 +1,7 @@
 abdruck,en,[leben],(PAP*abdruck*abgedruckt*0)
 abhang,en,[leben]
 abschliess,en,[pflanzen]
+abstamm,en,[leben]
 ander,n,[leben]
 anerkenn,en,[leben],(PAP*anerke*anerka*0)
 anfang,en,[leben]
@@ -40,6 +41,7 @@ belohn,en,[leben]
 benutz,en,[setzen]
 berat,en,[werden],(AIP*berate*beriet*0)
 bereit,en,[leben]
+beruh,en,[leben]
 besam,en,[leben]
 bestatig,en,[leben]
 bestell,en,[leben]
@@ -257,6 +259,7 @@ vertrau,en,[leben]
 verurteil,en,[leben]
 verwahr,en,[leben]
 verwehr,en,[leben]
+vollzieh,en,[rufen],(PAP*vollziehen*vollzogen*0)
 vorbereit,en,[leben]
 vorhaben@IRREGULAR%[IPR]=[vorhabe,vorhast,vorhat,vorhaben,vorhabt,vorhaben]%[INFINITIVE]=[vorhaben]
 vorleg,en,[leben]
