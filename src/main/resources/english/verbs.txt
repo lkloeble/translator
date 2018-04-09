@@ -264,6 +264,7 @@ think,[call],(PAP*thinked*thought*0)
 touch,[teach]
 turn,[call]
 translate,[live]
+travel,[live],(AIP*traveld*travelled*0)
 treat,[call]
 trouble,[live]
 try,[live]

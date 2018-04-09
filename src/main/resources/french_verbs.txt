@@ -487,7 +487,7 @@ resumer@NORM%[INFINITIVE]=[résumer]%[IPR]=[résume,résumes,résume,résumons,r
 retablir@NORM%[INFINITIVE]=[rétablir]%[IPR]=[rétablis,rétablis,rétablit,rétablissons,rétablissez,rétablissent]
 retentir@[IPR]=[retentis,retentis,retentit,retentissons,retentissez,retentissent]%[AIPP]=[ai retenti,as retenti,a retenti,avons retenti,avez retenti,ont retenti]%[INFINITIVE]=[retentir]
 retirer@NORM%[INFINITIVE]=[retirer]%[IPR]=[retire,retires,retire,retirons,retirez,retirent]%[PAP]=[retiré]
-retourner@NORM%[INFINITIVE]=[retourner]%[IPR]=[retourne,retournes,retourne,retournons,retournez,retournent]
+retourner@NORM%[INFINITIVE]=[retourner]%[IPR]=[retourne,retournes,retourne,retournons,retournez,retournent]%[AIP]=[retournai,retournas,retourna,retournâmes,retournâtes,retournèrent]
 reunir@NORM%[INFINITIVE]=[réunir]%[IPR]=[réunis,réunis,réunit,réunissons,réunissez,réunissent]%[PAP]=[réuni]%[PIP]=[suis réuni,es réuni,est réuni,sommes réunis,êtes réunis,sont réunis]%[PAPR]=[réunissant]%[AIP]=[réunis,réunis,réunit,réunîmes,réunîtes,réunirent]
 reveler@NORM%[INFINITIVE]=[révéler]%[IPR]=[révèle,révèles,révèle,révèlons,révèlez,révèlent]%[ASP]=[révèle,révèles,révèle,révèlions,révèliez,révèlent]
 revenir@NORM%[INFINITIVE]=[revenir]%[IPR]=[reviens,reviens,revient,revenons,revenez,reviennent]%[PAP]=[revenu]
@@ -594,6 +594,6 @@ vivre@NORM%[INFINITIVE]=[vivre]%[IPR]=[vis,vis,vit,vivons,vivez,vivent]%[AIP]=[v
 voir@NORM%[INFINITIVE]=[voir]%[IPR]=[vois,vois,voit,voyons,voyez,voient]%[AIP]=[vis,vis,vit,vîmes,vîtes,virent]%[PSP]=[sois vu,sois vu,soit vu,soyons vus,soyez vus,soient vus]%[AII]=[voyais,voyais,voyait,voyions,voyiez,voyaient]%[AIF]=[verrai,verras,verra,verrons,verrez,verront]%[PIF]=[serai vu, seras vu,sera vu,serons vus,serez vus,seront vus]%[PII]=[suis vu,es vu,est vu,sommes vus,êtes vus,sont vus]%[AIPP]=[ai vu,as vu,a vu,avons vu,avez vu,ont vu]%[PIF]=[serai vu,seras vu,sera vu,serons vus,serez vus,seront vus]%[PIP]=[suis vu,es vu,est vu,sommes vus,êtes vus,sont vus]%[AIMP]=[vois,vois,vois,voyons,voyez,voyez]%[PAP]=[vu]%[PAPR]=[voyant]%[ACAOIN]=[vis,vis,vit,vîmes,vîtes,virent]%[PAAOIM]=[que sois vu,que sois vu,que soit vu,que soyons vus,que soyez vus,que soient vus]%[AORPASIND]=[fus vu,fus vu,fut vu,fûmes vus,fûtes vus,furent vus]%[AIFP]=[aurai vu,auras vu,aura vu,aurons vu,aurez vu,auront vu]
 voler@NORM%[infinitive]=[voler]%[IPR]=[vole,voles,vole,volons,volez,volent]%[PRMIDPASSPART]=[-,-,volantes,volants]
 vouloir@NORM%[INFINITIVE]=[vouloir]%[IPR]=[veux,veux,veut,voulons,voulez,veulent]%[AII]=[voulais,voulais,voulait,voulions,vouliez,voulaient]%[PAINPRAC]=[veut,veut,veut]%[AIF]=[voudrai,voudras,voudra,voudrons,voudrez,voudront]
-voyager@NORM%[IPR]=[voyage,voyages,voyage,voyageons,voyagez,voyagent]%[INFINITIVE]=[voyager]
+voyager@NORM%[INFINITIVE]=[voyager]%[IPR]=[voyage,voyages,voyage,voyageons,voyagez,voyagent]%[AIP]=[voyageai,voyageas,voyagea,voyageâmes,voyageâtes,voyagèrent]
 
 trad@http://www.uvm.edu/~bsaylor/latin/cheatsheet.html

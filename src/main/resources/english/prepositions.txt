@@ -176,6 +176,7 @@ than@prep()
 that@prep()
 the@prep()%[electPluralForFollowingPluralNoun,electFeminineForFollowingNoun]
 their@prep()
+theirs@prep()
 them@prep()
 themselves@prep()
 then@prep()

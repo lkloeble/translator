@@ -477,6 +477,7 @@ ill@adj%normmasc
 image@fem%normfem
 important@adj%normmasc
 inferior@adj%normmasc
+infinite@adj%normmasc
 instruction@neut%normmasc
 intended@adj%invmasc
 interest@masc%normmasc
@@ -530,6 +531,7 @@ law@neut%normmasc
 lawes@neut%invmasc
 lazy@adj%invmasc
 leader@neut%normmasc
+lean@adj%invmasc
 learning@neut%normmasc
 leave@fem%normfem
 leave@fem%normfem
@@ -554,6 +556,7 @@ livestock@neut%invmasc
 living@neut%invmasc
 liz@fem%invfem
 loave@neut%normmasc
+locust@neut%normmasc
 london@neut%invmasc
 long@adj%invmasc
 longer@adj%invmasc
@@ -907,6 +910,7 @@ strength@fem%church
 string@fem%normfem
 stone@fem%normfem
 storehouse@neut%normmasc
+stor@fem%endy
 street@neut%normmasc
 stud@fem%endy
 style@eut%normmasc
