@@ -35,6 +35,8 @@ anfang@masc%norm
 angabe@fem%flasche
 angesehn@neut%inv
 angst@fem%angst
+anlehnung@masc%meinmasc
+anm@neut%inv
 anrufung@fem%meinfem
 anschauung@fem%meinfem
 anschein@masc%arbeiter
@@ -104,6 +106,7 @@ beleg@masc%jahrzehnt
 bemuh@neut%meinmasc
 ben@neut%inv
 beneidet@adj%ausreichend
+benutzung@fem%meinfem
 beredt@adj%ausreichend
 bergpredigt@fem%inv
 berlin@neut%inv
@@ -113,6 +116,7 @@ bestellung@fem%meinfem
 bestimmt@adj%ausreichend
 bestimmung@fem%meinfem
 betragt@adj%meinmasc
+betreffend@adj%ausreichend
 betrieb@masc%phanomen
 bett@neut%schmerz
 bewahrt@adj%ausreichend
@@ -284,6 +288,7 @@ flote@fem%norm
 flug@neut%meinmasc
 flugzeug@neut%meinmasc
 folge@fem%flasche
+folgerichtig@adj%ausreichend
 formel@neut%masc
 fortfuhrung@fem%meinfem
 frage@fem%flasche
@@ -725,6 +730,7 @@ qualitat@fem%meinfem
 r@neut%inv
 rab@neut%inv
 rabbi@masc%inv[nomplr:rabbis]
+rabbinen@masc%inv
 rabbiner@masc%burger
 rang@masc%meer
 rassismus@neut%inv
@@ -796,7 +802,7 @@ schonst@adj%ausreichend
 schopenhauer@neut%zeichen
 schopenhauerisch@adj%meinmasc
 schopfern@masc%arbeiter
-schriften@fem%inv
+schrift@fem%meinfem
 schubert@neut%inv
 schuh@masc%phanomen
 schuler@masc%arbeiter
@@ -952,6 +958,7 @@ vater@masc%arbeiter
 vaterschaft@fem%meinfem
 verabredung@masc%meinmasc
 verbindung@masc%meinmasc
+verbot@neut%phanomen
 verboten@adj%ausreichend
 verbunden@adj%ausreichend
 verehelichung@fem%meinfem
@@ -1066,6 +1073,7 @@ zone@fem%flasche
 zuganglich@adj%meinmasc
 zugrunde@fem%flasche
 zusammenhang@masc%meer
+zusatz@masc%phanomen
 zuverlassig@adj%ausreichend
 zuteil@neut%inv
 zweck@masc%jahrzehnt

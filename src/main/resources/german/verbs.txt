@@ -71,6 +71,7 @@ ehr,en,[leben]
 einlad,en,[leben]
 eintret,en,[leben],(IPR12*tret*trit*0)
 empfang,en,[leben]
+entlass,en,[genesen]
 entnehm,en,[leben]
 entsteh,en,[entstehen],(AIP*entsteh*entstand*0)
 entweih,en,[leben]
@@ -127,6 +128,7 @@ helf,en,[leben],(IPR*helft*hilft*0)
 heiss,en,[genesen]
 heranzuzieh,en,[leben]
 herleit,en,[mochten]
+herstamm,en,[leben]
 herrsch,en,[leben]
 hinstell,en,[leben],(PAP*hinstell*hingestellt*0)
 hor,en,[leben],(PAP*hor*gehort*0)
@@ -160,6 +162,7 @@ mach,en,[leben],(AIP*mach*macht*0@PAP*mach*gemacht*0)
 mehr,en,[leben]
 mein,en,[leben],(PAP*mein*gemeint*0)
 miet,en,[leben]
+miteinzuschliess,en,[schliessen]
 mitteil,en,[leben],(PAP*mitteil*mitgeteil*0)
 mitwirk,en,[leben],(PAP*mitwirk*mitgewirkt*0)
 mocht,en,[mochten]
@@ -283,5 +286,6 @@ zulass,en,[lassen],(PAP*zulassen*zugelassen*0)
 zumach,en,[leben]
 zurucklass,en,[lassen],(PAP*zurucklassen*zuruckgelassen*0)
 zuruckhalt,en,[halten],(AII*zuruckhalt*zuruckhielt*0)
+zuruckkehr,en,[leben]
 zusammenhal,en,[halten]
 zusteh,en,[stehen],(PAP*zustehen*zugestand*0)

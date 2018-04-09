@@ -51,6 +51,8 @@ angeblich@adj!ausreichend%1(adj)=prétendu
 angehor@verb!norm%1(verb)=appartenir
 angesehn@noun!inv%1(noun)=considéré
 angst@noun!angst%1(noun)=peur
+anlehnung@noun!meinmasc%1(noun)=dépendance%2(noun)=modèle
+anm@noun!inv%1(noun)=nb
 anruf@verb!norm%1(verb)=appeler
 anrufung@noun!meinfem%1(noun)=invocation%2(noun)=appel
 anschauung@noun!meinfem%1(noun)=intution%2(noun)=opinion
@@ -168,6 +170,7 @@ bemuh@noun!meinmasc%1(noun)=effort
 ben@noun!inv%1(noun)=ben
 beneidet@adj!ausreichend%1(adj)=envié
 benutz@verb!norm%1(noun)=utiliser
+benutzung@noun!meinfem%1(noun)=usage
 bequem@prep%1(prep)=facilement
 berat@verb!norm%1(noun)=discuter
 beredt@adj!ausreichend%1(adj)=éloquent
@@ -187,6 +190,7 @@ bestimmt@adj!ausreichend%1(adj)=certain
 bestimmung@noun!meinfem%1(noun)=règle
 betracht@verb!norm%1(verb)=considerer
 betragt@adj!meinmasc%1(adj)=égal à
+betreffend@adj!ausreichend%1(adj)=concerné
 betrieb@noun!phanomen%1(noun)=entreprise
 bett@noun!schmerz%1(noun)=lit
 beug@verb!norm%1(verb)=inflechir
@@ -373,6 +377,7 @@ endlich@noun!inv%1(noun)=enfin
 england@noun!inv%1(noun)=angleterre
 entbehrung@noun!meinfem%1(noun)=privation
 entgegen@prep%1(prep)=contrairement
+entlass@verb!norm%1(verb)=liberer
 entschlossenheit@noun!inv%1(noun)=détermination
 entschuldigung@prep%1(prep)=excuse
 entnehm@verb!norm%1(verb)=deduire%2(verb)=extraire%3(verb)=retirer
@@ -476,6 +481,7 @@ flote@noun!norm%1(noun)=flute
 flugzeug@noun!meinmasc%1(noun)=avion
 folg@verb!norm%1(verb)=suivre
 folge@noun!flasche%1(noun)=suite
+folgerichtig@adj!ausreichend%1(adj)=logique
 folglich@prep%1(prep)=en conséquence
 ford@verb!norm%1(verb)=encourager%2(verb)=supporter%3(verb)=favoriser
 formel@noun!masc%1(noun)=formule
@@ -650,6 +656,7 @@ herleit@verb!norm%1(verb)=deduire
 herr@noun!meinmasc%1(noun)=seigneur%2(noun)=monsieur
 herrlichkeit@noun!meinfem%1(noun)=gloire
 herrsch@verb!norm%1(verb)=gouverner
+herstamm@verb!norm%1(verb)=provenir
 herstellung@noun!meinfem%1(noun)=production
 hervor@prep%1(prep)=en avant
 herzlich@noun!meinmasc%1(noun)=beaucoup
@@ -918,6 +925,7 @@ mittagessen@noun!inv%1(noun)=déjeuner
 mitteil@verb!norm%1(verb)=informer
 mitteilbar@adj!ausreichend%1(adj)=communicable
 mittelalter@noun!meer%1(noun)=moyen-âge
+miteinzuschliess@verb!norm%1(verb)=inclure
 mitten@prep%1(prep)=au milieu
 mittwoch@noun!inv%1(noun)=mercredi
 mitwirk@verb!norm%1(verb)=participer
@@ -1067,6 +1075,7 @@ qualitat@noun!meinfem%1(noun)=qualité
 r@noun!inv%1(noun)=r
 rab@noun!inv%1(noun)=rab
 rabbi@noun!inv%1(noun)=rabbin
+rabbinen@noun!inv%1(noun)=rabbins
 rabbiner@noun!burger%1(noun)=rabbi
 rang@noun!meer%1(noun)=rang
 rassismus@noun!inv%1(noun)=racisme
@@ -1169,7 +1178,7 @@ schon@prep%1(prep)=déjà
 schonheit@noun!meinfem%1(noun)=beauté
 schonst@adj!ausreichend%1(adj)=plus beau
 schreib@verb!norm%1(noun)=ecrire
-schriften@noun!inv%1(noun)=écritures
+schrift@noun!meinfem%1(noun)=écriture
 schubert@noun!inv%1(noun)=schubert
 schuh@noun!phanomen%1(noun)=chaussure
 schuler@noun!arbeiter%1(noun)=élève%2(noun)=disciple
@@ -1392,6 +1401,7 @@ vaterschaft@noun!meinfem%1(noun)=paternité
 verabredung@noun!meinmasc%1(noun)=rendez-vous
 verbind@verb!norm%1(verb)=relier
 verbindung@noun!meinmasc%1(noun)=mélange%2(noun)=connexion
+verbot@noun!phanomen%1(noun)=prohibition
 verboten@adj!ausreichend%1(adj)=interdit
 verbunden@adj!ausreichend%1(adj)=relatif
 verehelichung@noun!meinfem%1(noun)=fiançaille
@@ -1589,8 +1599,10 @@ zur@prep%1(prep)=pour
 zuruck@prep%1(prep)=en arrière
 zurucklass@verb!norm%1(verb)=laisserrentrer%2(verb)=laisserderriere
 zuruckhlat@verb!norm%1(verb)=empecher
+zuruckkehr@verb!norm%1(verb)=revenir
 zusammenhang@noun!meer%1(noun)=connexion
 zusammenhal@verb!norm%1(verb)=rassembler
+zusatz@noun!phanomen%1(noun)=addition
 zusteh@verb!norm%1(verb)=revenir
 zuteil@noun!inv%1(noun)=accordé
 zuverlassig@adj!ausreichend%1(adj)=fiable
