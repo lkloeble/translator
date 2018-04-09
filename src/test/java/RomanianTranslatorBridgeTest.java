@@ -42,15 +42,42 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         String romanianPathFile = "C:\\translator\\src\\test\\resources\\romanian_content.txt";
         String romanianResultFile = "C:\\translator\\src\\test\\resources\\romanian_expected_results.txt";
         RomanianDeclensionFactory romanianDeclensionFactory = new RomanianDeclensionFactory(getDeclensions(declensionsAndFiles), getDeclensionList(declensionsAndFiles, declensionPath));
-        NounRepository nounRepository = new NounRepository(Language.ROMANIAN, romanianDeclensionFactory, new DummyAccentuer(),getFileContentForRepository(nounFileDescription));
+        NounRepository nounRepository = new NounRepository(Language.ROMANIAN, romanianDeclensionFactory, new DummyAccentuer(),getNouns(nounFileDescription));
         VerbRepository verbRepository = new VerbRepository(new RomanianConjugationFactory(getRomanianConjugations(conjugationsAndFiles), getRomanianConjugationDefinitions(conjugationsAndFiles, conjugationPath), nounRepository), Language.ROMANIAN, new DummyAccentuer(), getVerbs(verbFileDescription));
         RomanianRuleFactory ruleFactory = new RomanianRuleFactory(verbRepository);
-        PrepositionRepository prepositionRepository = new PrepositionRepository(Language.ROMANIAN, new RomanianCaseFactory(), ruleFactory, getFileContentForRepository(prepositionFileDescription));
+        PrepositionRepository prepositionRepository = new PrepositionRepository(Language.ROMANIAN, new RomanianCaseFactory(), ruleFactory, getPrepositions(prepositionFileDescription));
         Analizer romanianAnalyzer = new RomanianAnalyzer(prepositionRepository, nounRepository, verbRepository);
-        Translator frenchTranslator = new FrenchTranslator(getFileContentForRepository(romanianFrenchDataFile), getFrenchVerbs(frenchVerbsDataFile), verbRepository, nounRepository, declensionPath, declensionsAndFiles, romanianDeclensionFactory);
+        Translator frenchTranslator = new FrenchTranslator(getRomanianDico(romanianFrenchDataFile), getFrenchVerbs(frenchVerbsDataFile), verbRepository, nounRepository, declensionPath, declensionsAndFiles, romanianDeclensionFactory);
         translatorBridge = new TranslatorBridge(romanianAnalyzer, frenchTranslator);
         mapValuesForTest = loadMapFromFiles(romanianPathFile);
         mapValuesForResult = loadMapFromFiles(romanianResultFile);
+    }
+
+    private List<String> getRomanianDico(String romanianFrenchDataFile) {
+        /*
+        return Arrays.asList(new String[]{
+                        "a@noun!invpur%1(noun)=un",
+                });
+                */
+        return getFileContentForRepository(romanianFrenchDataFile);
+    }
+
+    private List<String> getPrepositions(String prepositionFileDescription) {
+        /*
+        return Arrays.asList(new String[]{
+                "acea@prep()"
+        });
+        */
+        return getFileContentForRepository(prepositionFileDescription);
+    }
+
+    private List<String> getNouns(String nounFileDescription) {
+        /*
+        return Arrays.asList(new String[]{
+                "pacat@adj%pacatos"
+        });
+        */
+        return getFileContentForRepository(nounFileDescription);
     }
 
     private Map<String, List<String>> getRomanianConjugationDefinitions(String file, String directory) {
@@ -85,7 +112,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "devin,,[fumez]"
+                "sint@IRREGULAR%[INFINITIVE]=[fi]"
         });
         */
         return getFileContentForRepository(verbFileDescription);
@@ -540,7 +567,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     }
 
     @Test
-    public void test_staniloae_chap1_point3() {
+    public void test_staniloae_chap1_point4() {
         checkInMaps("staniloae4A", translatorBridge);
         checkInMaps("staniloae4B", translatorBridge);
         checkInMaps("staniloae4C", translatorBridge);
@@ -713,7 +740,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("staniloae4K2", translatorBridge);
+        checkInMaps("patericulegyptantonia2B", translatorBridge);
     }
     
 }

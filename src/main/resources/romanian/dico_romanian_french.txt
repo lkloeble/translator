@@ -680,8 +680,7 @@ original@adj!adj%1(adj)=original
 originare@noun!inv%1(noun)=originaire
 origine@noun!ereditate%1(noun)=origine
 ortodox@noun!fem%1(noun)=orthodoxe
-pacat@noun!inv%1(noun)=dommage
-pacato@adj!pacatos%1(adj)=pêcheur
+pacat@adj!pacatos%1(adj)=dommage%2(noun)=pêcheur
 pachet@noun!fem%1(noun)=paquet
 pacient@noun!ul%1(noun)=patient
 padur@noun!berea%1(noun)=forêt

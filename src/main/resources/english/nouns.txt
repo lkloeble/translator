@@ -227,6 +227,7 @@ danger@neut%normmasc
 darkness@fem%invfem
 darling@fem%invfem
 data@fem%invfem
+date@neut%normmasc
 daughter@fem%normfem
 david@masc%invmasc
 day@masc%normmasc

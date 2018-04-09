@@ -14,3 +14,4 @@ nom%plr%neut%osi
 gen%plr%masc%osilor
 gen%plr%fem%oaselor
 gen%plr%neut%osilor
+nomd%sing%neut%

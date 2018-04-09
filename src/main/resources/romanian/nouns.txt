@@ -421,7 +421,6 @@ originare@neut%inv
 original@adj%adj
 origine@fem%ereditate
 ortodox@fem%fem
-pacat@neut%inv
 pacat@adj%pacatos
 pachet@fem%fem
 pacient@masc%ul

@@ -343,6 +343,7 @@ dare@verb!norm%1(verb)=oser
 darkness@noun!invmasc%1(noun)=obscurité
 darling@noun!invmasc%1(noun)=chéri
 data@noun!invfem%1(noun)=donnée
+date@noun!normmasc%1(noun)=date
 daughter@noun!normmasc%1(noun)=fille
 david@noun!invmasc%1(noun)=david
 day@noun!normmasc%1(noun)=jour
