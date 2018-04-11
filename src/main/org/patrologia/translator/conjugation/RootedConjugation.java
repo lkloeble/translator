@@ -184,7 +184,6 @@ public class RootedConjugation {
                 return conjugationPart.getValue().equals(toTranslate);
             }
         }
-        System.out.println("PB LIST POSITIONINTRANSLATIONTABLE");
         return false;
     }
 

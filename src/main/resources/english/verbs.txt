@@ -15,6 +15,7 @@ assert,[call]
 attain,[call]
 attempt,[call]
 avoid,[call]
+backcome,[see],(AIP*backcome*backcame*0@PAPR*backcome*backcom*0)
 base,[live]
 be@IRREGULAR%[INFINITIVE]=[to be]%[IPR]=[am,are,is,are,are,are]%[AII]=[was,was,was,were,were,were]%[PAPR]=[being]%[AIF]=[bewill,bewill,bewill,bewill,bewill,bewill]%[ACP]=[bewould,bewould,bewould,bewould,bewould,bewould]%[ASP]=[ambe,arebe,be,ambe,arebe,bebe]%[AIMP]=[letbe,letbe,letbe,letbe,letbe,letbe]%[PAP]=[been]
 bear,[live],(AIP*beard*bore*0)
@@ -90,6 +91,7 @@ distinguish,[teach]
 divide,[live],(PAPR*divide*divid*0)
 divorce,[live]
 do,[live],(AIP*dod*did*0@IPR2*dos*does*0@AII*do*did*0@PAP*dod*done*0)
+doubt,[call]
 draw,[live],(PAP*drawd*drawn*0)
 drink,[call]
 drive,[live],(AIP*drived*drove*0@PAP*drived*driven*0)
@@ -119,6 +121,7 @@ fly,[live]
 follow,[call]
 forget,[live]
 form,[call]
+frame,[live]
 gather,[call]
 get,[live]
 getup,[live]
@@ -210,6 +213,7 @@ remain,[call]
 remark,[call]
 remind,[call]
 render,[call]
+require,[live]
 resemble,[live]
 respect,[call]
 rest,[call]
@@ -263,6 +267,7 @@ till,[call]
 think,[call],(PAP*thinked*thought*0)
 touch,[teach]
 turn,[call]
+trace,[live]
 translate,[live]
 travel,[live],(AIP*traveld*travelled*0)
 treat,[call]

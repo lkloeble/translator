@@ -142,6 +142,7 @@ censure@neut%normmasc
 century@neut%invmasc
 cereal@neut%normmasc
 certain@adj%normmasc
+ch@neut%invmasc
 champaign@neut%normmasc
 change@masc%normmasc
 chapter@neut%normmasc
@@ -450,6 +451,7 @@ heretic@neut%normmasc
 hi@neut%invmasc
 hiddekel@neut%invmasc
 high@adj%invmasc
+hiram@neut%invmasc
 historical@neut%normmasc
 histor@neut%endy
 holiday@neut%invmasc
@@ -483,6 +485,7 @@ intended@adj%invmasc
 interest@masc%normmasc
 interesting@neut%invmasc
 interpretation@fem%normfem
+invention@neut%normmasc
 isle@fem%normfem
 israel@neut%invmasc
 israelite@neut%normmasc
@@ -496,6 +499,7 @@ jewish@neut%invmasc
 jn@neut%invmasc
 job@masc%normmasc
 john@neut%invmasc
+jonah@neut%invmasc
 jordan@neut%invmasc
 josephus@neut%invmasc
 joynt@neut%normmasc
@@ -774,6 +778,7 @@ reason@neut%normmasc
 reasonable@adj%normmasc
 recension@fem%normfem
 recent@adj%normmasc
+red@adj%invmasc
 reference@fem%normfem
 reflected@adj%invmasc
 reformation@neut%normmasc
@@ -849,6 +854,7 @@ shade@fem%normfem
 shadow@fem%normfem
 sheaf@neut%church
 shekhina@neut%invmasc
+ship@neut%normmasc
 shore@neut%normmasc
 show@neut%invmasc
 shower@neut%normmasc
@@ -1039,6 +1045,7 @@ west@neut%invmasc
 western@neut%invmasc
 westminster@neut%invmasc
 wet@neut%invmasc
+whale@neut%normmasc
 wheel@fem%normfem
 wheel@fem%church
 white@adj%normmasc

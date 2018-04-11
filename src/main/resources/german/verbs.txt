@@ -55,6 +55,7 @@ blas,en,[genesen],(AII*bla*blie*0)
 bleib,en,[rufen],(AIP*blei*blie*0)
 brauch,en,[leben]
 brech,en,[leben],(IPR*brecht*bricht*0@IPR*brechst*brichst*0)
+buhl,en,[leben]
 bring,en,[leben]
 dank,en,[leben]
 darbiet,en,[mochten]
@@ -71,6 +72,7 @@ ehr,en,[leben]
 einlad,en,[leben]
 eintret,en,[leben],(IPR12*tret*trit*0)
 empfang,en,[leben]
+empfehl,en,[leben]
 entlass,en,[genesen]
 entnehm,en,[leben]
 entsteh,en,[entstehen],(AIP*entsteh*entstand*0)
@@ -123,7 +125,7 @@ haben@IRREGULAR%[IPR]=[habe,hast,hat,haben,habt,haben]%[AIP]=[hatte,hattest,hatt
 halt,en,[halten],(AII*halt*hielt*0)
 hang,en,[leben]
 heilig,en,[leben]
-heirat,en,[mochten]
+heirat,en,[mochten],(PAP*heirat*geheiratet*0)
 helf,en,[leben],(IPR*helft*hilft*0)
 heiss,en,[genesen]
 heranzuzieh,en,[leben]
@@ -179,7 +181,7 @@ profanier,en,[leben],(PAP*profanier*profaniert*0)
 pruf,en,[leben],(PAP*pruf*gepruft*0)
 rats,eln,[sammeln]
 rauch,en,[leben]
-red,en,[mochten],(PAP*red*gered*0)
+red,en,[mochten],(PAP*red*geredet*0)
 reg,eln,[sammeln]
 regier,en,[leben]
 regn,en,[mochten]
@@ -246,6 +248,7 @@ vergess,en,[wollen]
 verheirat,en,[segnen]
 verlang,en,[leben]
 verletz,en,[pflanzen]
+verpflicht,en,[mochten],(PAP*verpflicht*verpflichtet*0)
 verlier,en,[leben],(PAP*verlier*verloren*0)
 vermeid,en,[mochten]
 verrats,eln,[sammeln]
@@ -274,7 +277,7 @@ weggeh,en,[rufen],(AIP*weggeh*wegging*0)
 wend,en,[wenden]
 werd,en,[werden],(AIP*werd*wurd*0@PAP*werden*geworden*0)
 werf,en,[leben],(IPR12*wer*wir*0)
-widm,en,[mochten],(PAP*wid*gewid*0)
+widm,en,[mochten],(PAP*widm*gewidmet*0)
 woll,en,[wollen],(IPR012*woll*will*0@AII*will*woll*0)
 wohn,en,[leben]
 wunsch,en,[leben]

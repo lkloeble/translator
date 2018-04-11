@@ -9,9 +9,9 @@ import org.patrologia.translator.basicelements.Word;
 public class RuleVerbUpFinder extends RuleVerbAndPrepositionAfter {
 
     public RuleVerbUpFinder()  {
-        upVerbs.add("follow");
-        upVerbs.add("lay");
-        upVerbs.add("rise");
+        prepositionVerbs.add("follow");
+        prepositionVerbs.add("lay");
+        prepositionVerbs.add("rise");
         this.preposition = "up";
     }
 

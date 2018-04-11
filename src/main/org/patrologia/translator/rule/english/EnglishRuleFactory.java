@@ -60,6 +60,8 @@ public class EnglishRuleFactory extends RuleFactory {
             return new RuleVerbUpFinder();
         } else if ("rootOutVerbFinder".equals(ruleName)) {
             return new RootOutVerbFinder();
+        } else if ("comeBackVerbFinder".equals(ruleName)) {
+            return new RuleComeBackFinder();
         }
         return null;
     }

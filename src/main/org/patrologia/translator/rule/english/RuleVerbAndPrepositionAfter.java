@@ -10,7 +10,7 @@ import java.util.Set;
 
 public abstract class RuleVerbAndPrepositionAfter extends Rule {
 
-    protected Set<String> upVerbs = new HashSet<>();
+    protected Set<String> prepositionVerbs = new HashSet<>();
     protected String preposition;
 
     protected void apply(Word word, Phrase phrase, int position, String preposition) {
@@ -18,7 +18,7 @@ public abstract class RuleVerbAndPrepositionAfter extends Rule {
         if(!precedingWord.isVerb()) return;
         Verb precedingVerb = (Verb)precedingWord;
         String root = precedingVerb.getRoot();
-        if(!upVerbs.contains(root)) return;
+        if(!prepositionVerbs.contains(root)) return;
         precedingVerb.updateRoot(preposition + root);
         boolean prefixed = precedingVerb.getInitialValue().startsWith("to ");
         precedingVerb.updateInitialValue(preposition + precedingVerb.getInitialValue().replace("to ",""));
