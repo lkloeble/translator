@@ -10,3 +10,4 @@ AIMP=>i,ite
 AIFP=>ero,eris,erit,erimus,eritis,erint
 ASP=>iam,ias,iat,iamus,iatis,iant
 ASI=>erem,eres,eret,eremus,eretis,erent
+PSI=>erer,ereris,eretur,eremur,eremini,erentur

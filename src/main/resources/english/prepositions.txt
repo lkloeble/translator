@@ -110,6 +110,7 @@ let@prep()
 let's@prep()%[electImperativeForFollowingVerb]
 like@prep()
 likely@prep()
+likewise@prep()
 many@prep()
 me@prep()
 merely@prep()

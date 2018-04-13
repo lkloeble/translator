@@ -233,6 +233,7 @@ consecro@verb!norm%1(verb)=sanctifier%2(verb)=consacrer
 conservo@verb!norm%1(verb)=preserver%2(noun)=garder
 consigno@verb!norm%1(verb)=signer
 consili@noun!um-i%1(noun)=conseil%2(noun)=plan
+constan@adj!s-s-s%1(adj)=constant
 conspurcat@adj!us-a-um%1(adj)=pollué
 constituo@verb!norm%1(verb)=etablir
 consuetud@noun!o-inis%1(noun)=usage
@@ -397,6 +398,7 @@ epistol@noun!a-ae%1(noun)=courrier,missive,depeche%2(noun)=lettre
 equ@noun!us-i%1(noun)=cheval
 ergo@prep%1(prep)=parce que%2(prep)=donc
 erigo@verb!norl%1(verb)=stimuler%2(verb)=construire,ériger%3(verb)=elever
+eripio@verb!norl%1(verb)=secourir
 erudio@verb!norl%1(verb)=cultiver%2(verb)=eduquer%3(verb)=instruire
 esc@noun!a-ae%1(noun)=nourriture
 et@prep%1(prep)=et
@@ -524,6 +526,7 @@ hic@prep%1(prep)=ici
 hinc@prep%1(prep)=puis
 his@prep%1(prep)=ceux-ci
 hispani@noun!a-ae%1(noun)=espagne
+histori@noun!a-ae%1(noun)=histoire
 hoc@prep%1(prep)=lui
 hodie@noun!inv%1(noun)=aujourd'hui
 homer@noun!us-i%1(noun)=homère
@@ -531,6 +534,7 @@ homi@noun!x-nis%1(noun)=homme%2(noun)=personne%3(noun)=humain
 homo@noun!inv%1(noun)=homme%2(noun)=personne%3(noun)=humain
 hor@noun!a-ae%1(noun)=l'heure,le temps,le moment%2(noun)=horloge%3(noun)=heures de prieres (christianisme)%4(noun)=heure
 hort@noun!us-i%1(noun)=jardin
+hortor@verb!norm%1(verb)=encourager%2(verb)=exhorter
 horum@prep%1(prep)=ces
 hos@prep%1(prep)=les
 hosanna@noun!inv%1(noun)=hosanna
@@ -711,6 +715,7 @@ malo@verb!norm%1(verb)=preferer
 mamm@noun!a-ae%1(noun)=maman
 man@noun!us-us%1(noun)=main
 mandat@noun!um-i%1(noun)=commandement%2(noun)=ordre
+mando@verb!o-as%1(verb)=ordonner
 maneo@verb!eo-es%1(verb)=attendre, espérer%2(verb)=demeurer
 mane@noun!inv%1(noun)=matin
 marc@noun!us-i%1(noun)=marcus
@@ -883,10 +888,12 @@ perduco@verb!norm%1(verb)=détruire%2(verb)=perdre
 perduell@noun!is-is%1(noun)=ennemi
 perenniter@prep%1(prep)=toujours%2(prep)=de façon permanente
 perfacile@prep%1(prep)=très spontanément%2(prep)=très facilement
+perfero@verb!norm%1(verb)=porter%2(noun)=souffrir
 perficio@verb!norm%1(verb)=parfaire
 perquam@prep%1(prep)=autant que possible%2(prep)=sans équivalent
 persecuti@noun!o-onis%1(noun)=persécution
 perhibeo@verb!norm%1(verb)=assigner,attribuer%2(verb)=présenter,produire%3(verb)=offrir
+permaneo@verb!norm%1(verb)=continuer%2(verb)=endurer
 peristyl@noun!um-i%1(noun)=cour intérieure
 permitto@verb!o-is%1(verb)=lancer d'un point a un autre, jusqu'a un but%2(verb)=faire aller jusqu'a un but, laisser aller%3(verb)=remettre, abandonner%4(verb)=laisser libre, permettre%5(verb)=permettre
 perfect@adj!us-a-um%1(adj)=accompli
@@ -935,6 +942,7 @@ praecedo@verb!norm%1(verb)=surpasser
 praesum@verb!irrg%1(verb)=être devant%2(verb)=commander%3(verb)=presider
 praecept@noun!um-i%1(noun)=leçon%2(noun)=commandement%3(noun)=précepte
 praeconcept@adj!us-a-um%1(adj)=préconçu
+praestanti@adj!or-or-us%1(adj)=plus excellent
 praemi@noun!um-i%1(noun)=récompense
 praenom@noun!en-inis%1(noun)=nom
 praenuntiat@adj!us-a-um%1(adj)=annoncé
@@ -980,6 +988,8 @@ pulchr@adj!us-a-um%1(adj)=beau
 pulso@verb!norm%1(verb)=pousser
 puri@adj!or-or-us%1(adj)=plus propre
 pyrenae@noun!x-ri%1(noun)=pyrénées
+qualibet@prep%1(prep)=n'importe où
+quaelibet@prep%1(prep)=n'importe où
 quam@prep%1(prep)=combien, a quel point (exclamatif)%2(prep)= autant que (avec tam : tam... quam... : autant... que...)%3(prep)=aussi... aussi... (construction quam... sic...)%4(prep)=comparaison avec un comparatif : <exp>magis quam</exp><trad>plus que</trad>%5(prep)=correlation avec un nom de nombre ou un nom multiplicatif%6(prep)=combien
 quamvis@prep%1(prep)=toutefois
 qu@adj!i-ae-od-cuius%1(rel)=qui
@@ -1196,6 +1206,7 @@ tibi@prep%1(prep)=à toi
 timeo@verb!norm%1(verb)=craindre
 tit@noun!us-i%1(noun)=titus
 tollo@verb!norm%1(verb)=détruire%2(verb)=élever%3(verb)=enlever
+torment@noun!um-i%1(noun)=canon%2(noun)=torture
 tot@prep%1(prep)=si nombreux
 tot@adj!us-a-um%1(adj)=tout
 totius@adj!inv%1(adj)=de tout

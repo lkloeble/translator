@@ -1,5 +1,6 @@
 abound,[call]
 accept,[call]
+accompany,[live]
 acquire,[live]
 add,[live]
 adopt,[call]
@@ -222,6 +223,7 @@ return,[call]
 rise,[live],(AIP*rised*rose*0@PAPR*rise*ris*0)
 root,[call]
 rule,[live]
+sail,[call]
 say,[live],(AII*say*sai*0@PAP*say*sai*0)
 sanctify,[live],(AIP*fyd*fied*1@PAP*sanctifyd*sanctified*0)
 scrape,[live]
@@ -237,7 +239,7 @@ shallbe,[live],(IPR*shallsbe*shallbe*0)
 shew,[live]
 should,[live],(IPR*shoulds*should*0)
 shut,[live]
-signif,[signify]
+signify,[live],(IPR2*signifys*signifies*0)
 simulate,[live],(PAPR*simulateing*simulating*0)
 sing,[live]
 sit,[live],(AIP*sitd*sat*0)
@@ -268,6 +270,7 @@ think,[call],(PAP*thinked*thought*0)
 touch,[teach]
 turn,[call]
 trace,[live]
+trade,[live]
 translate,[live]
 travel,[live],(AIP*traveld*travelled*0)
 treat,[call]

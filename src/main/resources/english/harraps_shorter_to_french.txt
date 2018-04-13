@@ -7,6 +7,7 @@ above@prep%1(prep)=au dessus
 absent@adj!invmasc%1(adj)=absent
 abundance@noun!normmasc%1(noun)=abondance
 accept@verb!norm%1(verb)=accepter
+accompany@verb!norm%1(verb)=accompagner
 according@noun!invmasc%1(noun)=selon
 account@noun!normmasc%1(noun)=compte%2(noun)=description%3(noun)=témoignage%4(noun)=récit
 act@noun!normmasc%1(noun)=acte
@@ -538,6 +539,7 @@ fix@verb!norm%1(verb)=fixer
 flaming@noun!invmasc%1(noun)=enflammée
 flat@noun!invmasc%1(noun)=appartement
 flavour@noun!invmasc%1(noun)=parfum
+fleet@noun!invfem%1(noun)=flotte
 flesh@noun!invmasc%1(noun)=chair
 flock@noun!normmasc%1(noun)=troupeau
 fluently@noun!invmasc%1(noun)=couramment
@@ -823,6 +825,7 @@ like@prep%1(prep)=comme
 like@verb!norm%1(verb)=apprecier
 likely@prep%1(prep)=à peu près
 likeness@noun!invmasc%1(noun)=ressemblance
+likewise@prep%1(prep)=de même
 limb@noun!normmasc%1(noun)=membre
 limit@noun!normmasc%1(noun)=limite
 limit@verb!norm%1(noun)=limiter
@@ -1181,6 +1184,7 @@ rise@verb!norm%1(verb)=grandir
 rite@noun!normmasc%1(noun)=rite
 river@noun!normmasc%1(noun)=rivière
 riverhead@noun!normmasc%1(noun)=rivière
+ro@noun!invmasc%1(noun)=ro
 roger@noun!invmasc%1(noun)=roger
 romans@noun!invmasc%1(noun)=romains
 room@noun!normmasc%1(noun)=pièce%2(noun)=chambre
@@ -1192,6 +1196,7 @@ rushy@adj!invmasc%1(adj)=de jonc
 sacred@noun!invmasc%1(noun)=sacré
 sacrifice@noun!normmasc%1(noun)=sacrifice
 safet@noun!endy%1(noun)=sécurité
+sail@verb!norm%1(verb)=naviguer
 saith@noun!invmasc%1(noun)=dit
 sake@noun!normmasc%1(noun)=intention%2(noun)=bénéfice
 salad@noun!normmasc%1(noun)=salade
@@ -1216,6 +1221,7 @@ school@noun!normmasc%1(noun)=école
 scrape@verb!norm%1(verb)=gratter
 scripture@noun!normfem%1(noun)=écriture
 sea@noun!normmasc%1(noun)=mer
+seaman@noun!normmasc%1(noun)=pêcheur%2(noun)=marin
 seat@verb!norm%1(verb)=sasseoir
 sedgy@adj!invmasc%1(adj)=énervé
 sedition@noun!normmasc%1(noun)=sédition
@@ -1265,7 +1271,7 @@ sickness@noun!church%1(noun)=maladie
 sicknesse@noun!normmasc%1(noun)=maladie
 side@noun!normmasc%1(noun)=dimension%2(noun)=côté
 sign@noun!normmasc%1(noun)=signe
-signif@verb!norm%1(verb)=signifier
+signify@verb!norm%1(verb)=signifier
 significance@noun!normmasc%1(noun)=importance
 sight@noun!normmasc%1(noun)=vue
 silence@noun!normmasc%1(noun)=silence
@@ -1450,6 +1456,7 @@ town@noun!normmasc%1(noun)=ville
 trace@verb!norm%1(verb)=tracer
 tract@noun!normmasc%1(noun)=voie%2(noun)=tract
 tractate@noun!normmasc%1(noun)=traité
+trade@verb!norm%1(verb)=negocier
 trade@noun!normmasc%1(noun)=commerce
 tradition@noun!normfem%1(noun)=tradition
 traditional@noun!normfem%1(noun)=traditionnel

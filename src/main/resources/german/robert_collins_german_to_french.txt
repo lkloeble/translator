@@ -1424,6 +1424,7 @@ verfuhrendst@adj!ausreichend%1(adj)=plus séduisant
 vergess@verb!norm%1(verb)=oublier
 vergrubelt@noun!inv%1(noun)=couvé
 verhaltnis@noun!erkenntnis%1(noun)=relation adultère%2(noun)=relation
+verhalt@verb!norm%1(verb)=agir
 verheirat@verb!norm%1(verb)=marier
 verkauf@noun!norm%1(noun)=vente
 verlang@verb!norm%1(verb)=demander

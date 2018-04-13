@@ -692,8 +692,8 @@ lightfoot_ch4BB=>R. |Houna| bar Joseph saith, [hebrew] they travelled by the way
 lightfoot_ch4CC=>Surely it requires a jewish invention (which is able to frame any thing out of any thing), to trace a way, either by any sea, or by any river, through which fish might swim out of Palestine into Babylon.
 lightfoot_ch4DD=>By the same art they bring Jonah in the belly of the whale, out of the Phoenician sea, into the red sea.
 lightfoot_ch4EE=>That, indeed, is somewhat hard, yet no be doubted of, what is said, 2 Ch 8:18, concerning Hiram sending ships to Solomon into the red sea.
-lightfoot_ch4FF=>What ! ships to come from Tyre into the red sea ? Which way sailed they ?
-lightfoot_ch4GG=>it is answered, he sent such tyrian ships, which had much and long traded before in the red sea, to accompany Solomon’s fleet.
+lightfoot_ch4FF=>What ! ships to come from |Tyre| into the red sea ? Which way sailed they ?
+lightfoot_ch4GG=>it is answered, he sent such |tyrian| ships, which had much and long traded before in the red sea, to accompany Solomon's fleet.
 lightfoot_ch4HH=>To this belongs that, that it is said there likewise (and in 1 Ro 9:27), that "he sent seamen, that had knowledge of the sea;" that is, knowledge of that sea :
 lightfoot_ch4II=>and they probably not such, who had never yet adventured themselves into the red sea, but had experience of it before, and were not ignorant of the Ophir voyage.
 lightfoot_ch4JJ=>The four rivers for the compassing of the land (they say) 1 [hebrew] Jordan; that is sufficiently known.
@@ -709,5 +709,5 @@ lightfoot_ch4SS=>And of the river of Amanah, of which the Aruch speaks, mention 
 lightfoot_ch4TT=>"they that dwell upon the river Amanah, shall offer thee a gift" etc.
 
 
-toto=>Lightfoot's commentary
+toto=>to accompany Solomon's fleet.
 

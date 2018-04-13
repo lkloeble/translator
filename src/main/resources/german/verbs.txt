@@ -245,12 +245,13 @@ unterzeichn,en,[mochten]
 unterzieh,en,[rufen],(AIP*unterzieh*unterzog*0@PAP*unterzieh*unterzog*0)
 verbind,en,[mochten],(AIP*verbind*verband*0)
 vergess,en,[wollen]
+verhalt,en,[halten]
 verheirat,en,[segnen]
 verlang,en,[leben]
 verletz,en,[pflanzen]
-verpflicht,en,[mochten],(PAP*verpflicht*verpflichtet*0)
 verlier,en,[leben],(PAP*verlier*verloren*0)
 vermeid,en,[mochten]
+verpflicht,en,[mochten],(PAP*verpflicht*verpflichtet*0)
 verrats,eln,[sammeln]
 verschreib,en,[rufen]
 versteh,en,[leben]

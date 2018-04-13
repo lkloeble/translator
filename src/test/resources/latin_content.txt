@@ -779,7 +779,7 @@ patrologiacaput2O=>tum deinde eos docebant quid singulis quibusque esset praesta
 patrologiacaput2P=>et cum eo resurgentes, nova gratiae vita, peccatis amplius non morituri, renascerentur.
 patrologiacaput2Q=>post susceptum divinae regenerationis sacramentum, secretiora fidei nostrae adyta eis reserabant clara et accurata eorum omnium,
 patrologiacaput2R=>quae alios celabant, sum mysteriorum trinitatis et incarnationis, tum sacramentorum ac praesertim eucharistiae expositione.
-patrologiacaput2S=>in primis autem illos hortabantur, ut in tradita fide constantes permanerent, ac pro ca tuenda quaelibet perferrent genera tormentorum.
+patrologiacaput2S=>in primis autem illos hortabantur, ut in tradita fide constantes permanerent, ac pro ea tuenda quaelibet perferrent genera tormentorum.
 patrologiacaput2T=>quibus sane tormentis si vita eis eriperetur, id nonnulli litteris mandabant.
 patrologiacaput2U=>scribebant vero alii aliorum virtute et merito praestantiorum historiam,
 patrologiacaput2V=>itinera, pericula, labores, certamina, passiones, supplicia, et omnia eorum martyrii acta.
@@ -788,7 +788,7 @@ patrologiacaput2X=>alii datis ad quosdam christianos, aut episcopos, aut ecclesi
 patrologiacaput2Y=>vel graviora quorumdam peccata, vel nascentes jamque irruentes abusus castigatione paterna coercebant, corrigebantque.
 patrologiacaput2Z=>alli denique ne simpliciores quorumdam animi corrumperentur, in perversas doctrinas, erroresque nefarios, ac nascentes haereses stylum verterunt
 
-toto=>attingit etiam
+toto=>quaelibet perferrent
 
 caesar1A1=>Gallia est omnis divisa in partes tres, quarum unam incolunt Belgae, aliam Aquitani, tertiam qui@N ipsorum lingua Celtae, nostra Galli appellantur.
 caesar1A2=>Hi omnes lingua, institutis, legibus inter se differunt. Gallos ab Aquitanis Garumna flumen, a Belgis Matrona@1 et Sequana dividit.

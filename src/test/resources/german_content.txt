@@ -311,7 +311,7 @@ strackp3notB30=>|| Qid 4,6 |f| : die tochter eines |chalal| ist untauglich für 
 strackp3notB31=>Wenn ein israelit eine entweihte geheiratet hat, so ist seine tochter tauglich für die priesterschaft;
 strackp3notB32=>wenn ein entweihter die tochter eines israeliten geheiratet hat, so ist seine tochter untauglich für die priesterschaft.
 strackp3notB33=>R. Jehuda (b. |elsai|) sagte : mit der tochter eines proselyten verhält es sich wie mit der tochter eines entweihten.
-strackp3notB34=>R. Eliezer ben Ja?aqob (um 150) sagte : wenn ein israelit eine proselytin heiratet. So ist seine tochter tauglich für die priesterschaft.
+strackp3notB34=>R. |Eliezer| ben |Jaaqob| (um 150) sagte : wenn ein israelit eine proselytin heiratet. So ist seine tochter tauglich für die priesterschaft.
 strackp3notB35=>Aber wenn ein proselyt eine proselytin geheiratet hat, so ist seine tochter für die priesterschaft untauglich;
 strackp3notB36=>das gilt sowohl für den proselyten als auch für freigelassene sklaven, selbst bis ins zehnte geschlecht, bis die mutter aus Israel (= eine israelitin) ist.
 strackp3notB37=>R. Jose (b. Chalafta, um 150) sagte : auch wenn ein proselyt eine proselytin heiratet, ist seine tochter tauglich für die priesterschaft.

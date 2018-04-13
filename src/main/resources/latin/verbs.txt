@@ -102,6 +102,7 @@ effic,io,is,ere,,,[io-is],[AIP=effec]
 egred,or,eris,i,,,[or-eris],(AII*egred*egredi*0)
 eo@IRREGULAR%[IPR]=[eo,is,it,imus,itis,eunt]%[AIP]=[ibam,ibas,ibat,ibamus,ibatis,ibant]
 erig,o,is,ere,,,[o-is]
+erip,io,is,ere,,,[io-is]
 erud,io,is,ire,,,[io-is]
 evoc,o,as,are,avi,atus,[o-as]
 ex,eo,is,ire,,,[eo-is]
@@ -124,6 +125,7 @@ germin,o,as,are,,,[o-as],(ASI*germin*germinar*0)
 gubern,o,as,are,,,[o-as]
 hab,eo,es,ere,foo,bar,[eo-es2],(ASP*hab*habe*0@AIP*hab*habu*0)
 habit,o,as,are,avi,atus,[o-as]
+hort,or,aris,ari,,,[or-aris]
 imbu,o,is,ere,,,[o-is]
 imper,o,as,are,avi,atus,[o-as]
 impl,eo,es,ere,,,[eo-es]
@@ -159,6 +161,7 @@ lud,o,is,ere,,,[o-is]
 mal,o,is,ere,,,[o-is],(IPR124*mal*mav*0)
 maledic,o,is,ere,,,[o-is]
 man,eo,es,ere,ui,itum,[eo-es]
+mand,o,as,are,,,[o-as]
 misc,eo,es,ere,ui,itum,[eo-es]
 mitt,o,is,ere,,,[o-is]
 mon,eo,es,ere,ui,itus,[eo-es]
@@ -183,8 +186,10 @@ par,io,is,ere,,,[io-is],(AIP*par*peper*0)
 pat,eo,es,ere,,,[eo-es]
 patr,o,as,are,,,[o-as],(ASI*patr*patrar*0)
 perduc,o,is,ere,,,[o-is]
+perfer,o,s,re,,,[o-s]
 perfic,io,is,ere,,,[io-is]
 perhib,eo,es,ere,ui,itum,[eo-es]
+perman,eo,es,ere,ui,itum,[eo-es]
 permitt,o,is,ere,misi,missum,[o-is],(AIFP*permitts*permis*0@AIP*permitt*permis*0)
 persuad,eo,es,ere,,,[eo-es],(AIP*persuad*persuas*0)
 pertin,eo,es,ere,ui,itum,[eo-es]

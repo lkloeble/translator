@@ -153,6 +153,7 @@ conjectur@adj%us-a-um
 consepult@adj%us-a-um
 consili@neut%um-i
 conspurcat@adj%us-a-um
+constan@adj%s-s-s
 consuetud@fem%o-inis
 consul@masc%x-is
 contrit@adj%us-a-um
@@ -329,6 +330,7 @@ heri@neut%inv
 hermas@neut%inv
 hermae@neut%inv
 hispani@fem%a-ae
+histori@fem%a-ae
 hodie@neut%inv
 homer@neut%us-i
 homi@masc%x-nis
@@ -595,6 +597,7 @@ potentissim@adj%us-a-um
 potissim@adj%us-a-um
 praecept@neut%um-i
 praeconcept@adj%us-a-um
+praestanti@adj%or-or-us
 praemi@neut%um-i
 praenom@neut%en-inis
 praenuntiat@adj%us-a-um
@@ -744,6 +747,7 @@ testimoni@neut%um-i
 tiberis@neut%inv
 tigri@neut%s-dis
 tit@masc%us-i
+torment@neut%um-i
 tot@adj%us-a-um
 totius@adj%inv
 tractand@adj%us-a-um

@@ -357,6 +357,7 @@ five@neut%invmasc
 flaming@neut%invmasc
 flat@neut%invmasc
 flavour@fem%invfem
+fleet@fem%invfem
 flesh@fem%invfem
 flock@neut%normmasc
 fluently@neut%invmasc
@@ -799,6 +800,7 @@ righteousness@neut%invmasc
 rite@masc%normmasc
 river@fem%normfem
 riverhead@fem%normfem
+ro@neut%invmasc
 roger@neut%invmasc
 romans@neut%invmasc
 room@fem%normfem
@@ -830,6 +832,7 @@ scotland@neut%invmasc
 scottish@neut%invmasc
 scripture@fem%normfem
 sea@fem%normfem
+seaman@masc%normmasc[nomplr:seamen]
 season@fem%normfem
 seat@neut%normmasc
 section@fem%normfem
