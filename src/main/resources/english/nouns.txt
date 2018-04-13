@@ -223,6 +223,7 @@ cup@fem%normfem
 curiosit@fem%endy
 curry@neut%invmasc
 cush@neut%invmasc
+damascus@neut%invmasc
 dan@neut%invmasc
 danger@neut%normmasc
 darkness@fem%invfem
@@ -326,6 +327,7 @@ exercise@neut%normmasc
 exercitation@neut%normmasc
 execution@neut%normmasc
 exclusive@adj%normmasc
+experience@neut%normmasc
 expression@neut%normmasc
 extensive@adj%normmasc
 external@adj%normmasc
@@ -475,6 +477,7 @@ idea@fem%normfem
 idumea@neut%invmasc
 idumean@neut%normmasc
 ignorance@fem%normfem
+ignorant@adj%normmasc
 ii@neut%invmasc
 ill@adj%normmasc
 image@fem%normfem
@@ -673,6 +676,7 @@ older@adj%invmasc
 ones@adj%invmasc
 onion@neut%normmasc
 onyx@neut%invmasc
+ophir@neut%invmasc
 opinion@neut%invmasc
 opposite@neut%invmasc
 oral@adj%normmasc
@@ -1026,6 +1030,7 @@ voice@neut%normmasc
 void@neut%invmasc
 vol@neut%invmasc
 volume@neut%normmasc
+voyage@neut%normmasc
 waiter@masc%normmasc
 wales@neut%invmasc
 wall@neut%normmasc
