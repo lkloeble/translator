@@ -1,4 +1,5 @@
 ab@prep()%[verbLeadingPreposition]
+ahnlich@prep()
 allerlei@prep()
 alles@prep()
 als@prep()
@@ -189,6 +190,7 @@ sondern@prep()
 sonst@prep()
 soweit@prep()
 sowie@prep()
+sowohl@prep()
 ub@prep()
 uber@prep()
 uberhaupt@prep()

@@ -125,6 +125,7 @@ beweis@masc%meer
 bewiesen@adj%ausreichend
 bezug@masc%jahrzehnt
 bier@neut%inv
+bikkurim@neut%inv
 bild@neut%licht
 bilderwirrig@neut%inv
 bilderwutig@neut%inv
@@ -834,6 +835,7 @@ singer@masc%masc
 siphra@neut%inv
 sittenlehre@fem%flasche
 situation@fem%norm
+sklave@neut%flasche
 sklavin@fem%sangerin
 smarkt@neut%inv
 sohn@masc%norm
@@ -1069,6 +1071,7 @@ wutend@adj%ausreichend
 zahl@neut%meinmasc
 zauber@neut%inv
 zehn@neut%inv
+zehnt@adj%ausreichend
 zehnerlei@neut%inv
 zeichen@neut%zeichen
 zeit@neut%meinmasc

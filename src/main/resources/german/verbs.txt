@@ -113,7 +113,7 @@ geb,en,[leben],(IPR124*geb*gib*0)
 gebar,en,[leben],(IPR12*gebar*gebier*0@PAP*gebar*geboren*0)
 geh,en,[lassen],(AIP*geh*ging*0@PAP*geh*gegang*0)
 gehor,en,[leben]
-gelt,en,[stehen],(AIP*gel*gal*0)
+gelt,en,[gelten],(AIP*gel*gal*0@IPR12*gelt*gilt*0)
 genes,en,[genesen]
 gernhaben@IRREGULAR%[INFINITIVE]=[gernhaben]%[IPR]=[gernhabe,gernhast,gernhat,gernhaben,gernhabt,gernhaben]
 gescheh,en,[rufen],(AIP*gescheh*geschah*0)

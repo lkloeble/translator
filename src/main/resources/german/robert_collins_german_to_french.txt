@@ -19,6 +19,7 @@ acht@noun!inv%1(noun)=huit
 adresse@noun!flasche%1(noun)=adresse
 ah@noun!inv%1(noun)=ah
 ahn@noun!schmerz%1(noun)=ancêtre
+ahnlich@prep%1(prep)=similaire
 ailonith@noun!inv%1(noun)=ailonith
 alkohol@noun!inv%1(noun)=alcool
 all@adj!ausreichend%1(adj)=chaque%2(adj)=tout
@@ -34,9 +35,9 @@ alt@noun!ausreichend%1(adj)=vieux
 altar@noun!phanomen%1(noun)=autel
 alter@noun!ausreichend%1(adj)=plus vieux
 altest@adj!ausreichend%1(adj)=le plus vieux
+am@prep%1(prep)=au
 amerikanisch@adj!ausreichend%1(adj)=américain
 an@prep%1(noun)=sur
-am@prep%1(prep)=au
 analytisch@adj!ausreichend%1(adj)=analytique
 anarchisch@adj!ausreichend%1(adj)=anarchique
 ander@verb!norm%1(verb)=modifier
@@ -52,6 +53,7 @@ angeblich@adj!ausreichend%1(adj)=prétendu
 angehor@verb!norm%1(verb)=appartenir
 angesehn@noun!inv%1(noun)=considéré
 angst@noun!angst%1(noun)=peur
+ahnlich@prep%1(prep)=semblable
 anlehnung@noun!meinmasc%1(noun)=dépendance%2(noun)=modèle
 anm@noun!inv%1(noun)=nb
 anruf@verb!norm%1(verb)=appeler
@@ -205,6 +207,7 @@ bezug@noun!jahrzehnt%1(noun)=référence
 bezw@prep%1(prep)=plus précisément
 bier@noun!inv%1(noun)=bière
 biet@verb!norm%1(verb)=offrir
+bikkurim@noun!inv%1(noun)=bikkurim
 bild@noun!licht%1(noun)=image%2(noun)=toile
 bilderwirrig@noun!inv%1(noun)=image incohérent
 bilderwutig@noun!inv%1(noun)=image forcé
@@ -558,7 +561,7 @@ gehor@verb!norm%1(noun)=appartenir
 geist@noun!norm%1(noun)=esprit
 geld@noun!inv%1(noun)=argent
 gelehrt@noun!ausreichend%1(adj)=enseigné
-gelt@verb!norm%1(verb)=valider
+gelt@verb!norm%1(verb)=concerner%2(verb)=valider
 geltend@noun!ausreichend%1(adj)=effectif%2(adj)=courant%3(adj)=valide%4(adj)=applicable
 gemalde@noun!meer%1(noun)=peinture
 gemaldegalerie@noun!flasche%1(noun)=galerie de tableaux
@@ -1231,6 +1234,7 @@ siphra@noun!inv%1(noun)=siphra
 sittenlehre@noun!flasche%1(noun)=morale%2(noun)=éthique
 situation@noun!norm%1(noun)=situation
 schlaf@noun!ort%1(noun)=sommeil
+sklave@noun!flasche%1(noun)=esclave
 sklavin@noun!sangerin%1(noun)=esclave
 smarkt@noun!inv%1(noun)=marché de
 so@prep%1(prep)=à ce point%2(prep)=alors
@@ -1247,6 +1251,7 @@ sonstig@adj!ausreichend%1(adj)=autre
 sorg@verb!norm%1(verb)=regretter%2(verb)=faireattention
 soweit@prep%1(prep)=autant que
 sowie@prep%1(prep)=ainsi que
+sowohl@prep%1(prep)=aussi bien
 sozial@noun!inv%1(noun)=social
 sozialist@noun!meinmasc%1(noun)=socialiste
 spalt@noun!licht%1(noun)=cassure
@@ -1585,6 +1590,7 @@ zahl@noun!meinmasc%1(noun)=nombre
 zauber@noun!inv%1(noun)=magie
 zb@prep%1(prep)=par exemple
 zehn@noun!inv%1(noun)=dix
+zehnt@adj!ausreichend%1(adj)=dixième
 zehnerlei@noun!inv%1(noun)=dizaine
 zeichen@noun!zeichen%1(noun)=signe
 zeig@verb!norm%1(verb)=montrer

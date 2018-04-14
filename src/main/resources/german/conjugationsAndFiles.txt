@@ -17,3 +17,4 @@ stehen%stehen.txt
 wenden%wenden.txt
 pflanzen%pflanzen.txt
 schliessen%schliessen.txt
+gelten%gelten.txt

@@ -279,9 +279,9 @@ strackp3notB32=>quand un profanateur la fille(e) un israélite(s) épousé a, al
 strackp3notB33=>r. jehuda ( b. elsai ) disait : avec le fille(e) un prosélyte(s) agissait cela se comme avec le fille(e) un profanai.
 strackp3notB34=>r. eliezer ben jaaqob ( autour 150 ) disait : quand un israélite un(e)@un(s)@ prosélyte dans épouse. alors est son fille(e) apte pour la prêtrise.
 strackp3notB35=>mais quand un prosélyte un(e)@un(s)@ prosélyte dans épousé a, alors est son fille(e) pour la prêtrise inapte;
-strackp3notB36=>foobar
-strackp3notB37=>foobar
-strackp3notB38=>foobar
+strackp3notB36=>ceci concerne aussi bien pour le prosélyte(s) que aussi pour affranchi(s) esclave(s)(e), soi-même jusque au dixième(e)@dixième(s)@ sexe, jusque la mère de israël ( = un(e)@un(s)@ israélite dans ) est.
+strackp3notB37=>r. jose ( b. chalafta, autour 150 ) disait : aussi quand un prosélyte un(e)@un(s)@ prosélyte dans épouse, est son fille(e) apte pour la prêtrise.
+strackp3notB38=>semblable bikkurim 1, 5.
 
 
 genesis1A=>au commencement créa dieu (des) ciel(s) et terre(e).

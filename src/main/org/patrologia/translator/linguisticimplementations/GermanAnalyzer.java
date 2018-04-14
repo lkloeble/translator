@@ -97,6 +97,9 @@ public class GermanAnalyzer implements Analizer {
         for (char c : chars) {
             int i = (int) c;
             switch (i) {
+                case 196:
+                    sb.append("a");
+                    break;
                 case 220:
                     sb.append("u");
                     break;
