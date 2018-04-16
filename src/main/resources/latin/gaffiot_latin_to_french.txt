@@ -12,6 +12,7 @@ accipio@verb!norm%1(verb)=recevoir%2(verb)=accepter
 acclamo@verb!norm%1(verb)=acclamer
 accurat@adj!us-a-um%1(adj)=exact%2(adj)=bien préparé
 accuso@verb!norm%1(verb)=accuser
+act@noun!a-orum%1(noun)=acte
 ad@prep%1(prep)=vers
 adae@noun!inv%1(noun)=adam
 adam@noun!inv%1(noun)=adam
@@ -181,6 +182,7 @@ centum@noun!inv%1(noun)=cent
 cer@noun!a-ae%1(noun)=tablette de cire%2(noun)=cire
 cere@noun!us-i%1(noun)=bougie
 cert@adj!us-a-um%1(adj)=certain
+certam@noun!en-inis%1(noun)=lutte
 certe@prep%1(adv)=du moins,en tout cas%2(adv)=certainement
 cesso@verb!norm%1(verb)=retarder%2(verb)=negliger%3(verb)=sereposer
 cet@noun!us-i%1(noun)=grand poisson
@@ -654,6 +656,7 @@ juli@noun!a-ae%1(noun)=julia
 just@adj!us-a-um%1(adj)=pieux%2(adj)=juste
 justiti@noun!a-ae%1(noun)=justice, conformite avec le droit : <exp>justitia ergo deos</exp><trad>accomplissement des devoirs envers les dieux</trad>%2(noun)=le droit, les lois%3(noun)=sentiment d'equite, de justice, esprit de justice%4(noun)=justice
 labente@noun!inv%1(noun)=[labente trad non trouvée]
+labor@noun!x-is2%1(noun)=travail
 laboro@verb!norm%1(verb)=produire%2(verb)=souffrir%3(verb)=travailler
 lac@noun!us-us%1(noun)=lac
 laet@adj!us-a-um%1(adj)=joyeux
@@ -722,6 +725,7 @@ marc@noun!us-i%1(noun)=marcus
 mar@noun!e-is%1(noun)=mer
 mari@noun!a-ae%1(noun)=marie
 martyr@noun!x-ys%1(noun)=martyr
+martyri@noun!um-i%1(noun)=martyr
 mascul@adj!us-a-um%1(adj)=male
 mat@noun!er-eris%1(noun)=mère
 matrimoni@noun!um-i%1(noun)=mariage
@@ -872,6 +876,7 @@ parv@adj!us-a-um%1(adj)=insignifiant%2(adj)=petit
 parvul@adj!us-a-um%1(adj)=insignifiant%2(adj)=petit
 pasch@noun!a-ae%1(noun)=pâque
 pass@noun!us-us%1(noun)=pas (unité de mesure)
+passion@noun!o-nis%1(noun)=souffrance
 pastor@noun!x-is%1(noun)=pasteur
 pateo@verb!norm%1(verb)=etreouvert
 patro@verb!norm%1(verb)=accomplir
@@ -894,6 +899,7 @@ perquam@prep%1(prep)=autant que possible%2(prep)=sans équivalent
 persecuti@noun!o-onis%1(noun)=persécution
 perhibeo@verb!norm%1(verb)=assigner,attribuer%2(verb)=présenter,produire%3(verb)=offrir
 permaneo@verb!norm%1(verb)=continuer%2(verb)=endurer
+pericul@noun!um-i%1(noun)=procès%2(noun)=danger
 peristyl@noun!um-i%1(noun)=cour intérieure
 permitto@verb!o-is%1(verb)=lancer d'un point a un autre, jusqu'a un but%2(verb)=faire aller jusqu'a un but, laisser aller%3(verb)=remettre, abandonner%4(verb)=laisser libre, permettre%5(verb)=permettre
 perfect@adj!us-a-um%1(adj)=accompli

@@ -700,13 +700,13 @@ lightfoot_ch4JJ=>The four rivers for the compassing of the land (they say) 1 [he
 lightfoot_ch4KK=>2 [hebrew] Jarmoch. In Pliny, 'Hieramax' : "Gaddara (saith he), Hieramax flowing before it". 3 [hebrew] Kirmion. 4 [hebrew] Pigah.
 lightfoot_ch4LL=>Concerning which the Aruch : "kirmion is a river in the way to Damascus, and is the same with Amanah. Pigah is Pharphar.
 lightfoot_ch4MM=>And Jarmoch is also a river in the way to Damascus."
-lightfoot_ch4NN=>And the talmudists : "the waters of Kirmion and Pigah are not fit" (to sprinkle the unclean), "because they are muddy waters.
-lightfoot_ch4OO=>The waters also of Jordan, and the waters of Jarmoch, are not fit, because they are mixed waters:"
+lightfoot_ch4NN=>And the talmudists : "the waters of |Kirmion| and |Pigah| are not fit" (to sprinkle the unclean), "because they are muddy waters.
+lightfoot_ch4OO=>The waters also of Jordan, and the waters of |Jarmoch|, are not fit, because they are mixed waters:"
 lightfoot_ch4PP=>that is, as the gloss speaks, mixed with the waters of other rivers, which they receive within themselves.
-lightfoot_ch4QQ=>To the seven seas, concerning which we have spoken, those things which are said by Midras Tillim, do refer :
-lightfoot_ch4RR=>"I have created seven seas, said the Lord, but out of them all I have chosen none, but the sea of Gennesaret".
-lightfoot_ch4SS=>And of the river of Amanah, of which the Aruch speaks, mention is made in the Targum upon Can 4/8 :
-lightfoot_ch4TT=>"they that dwell upon the river Amanah, shall offer thee a gift" etc.
+lightfoot_ch4QQ=>To the seven seas, concerning which we have spoken, those things which are said by |Midras| |Tillim|, do refer :
+lightfoot_ch4RR=>"I have created seven seas, said the Lord, but out of them all I have chosen none, but the sea of |Gennesaret|".
+lightfoot_ch4SS=>And of the river of |Amanah|, of which the |Aruch| speaks, mention is made in the Targum upon Can 4/8 :
+lightfoot_ch4TT=>"they that dwell upon the river |Amanah|, shall offer thee a gift" etc.
 
 
 toto=>to accompany Solomon's fleet.

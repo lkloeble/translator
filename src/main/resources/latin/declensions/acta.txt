@@ -1,0 +1,5 @@
+nom%sing%neut%a
+gen%sing%neut%orum
+abl%sing%neut%tis
+acc%sing%neut%a
+dat%sing%neut%tis

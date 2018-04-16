@@ -4,6 +4,7 @@ abrogat@adj%us-a-um
 abyss@masc%us-i
 accept@adj%us-a-um
 accurat@adj%us-a-um
+act@neut%a-orum
 adae@masc%inv
 adam@masc%inv
 adduct@adj%us-a-um
@@ -124,6 +125,7 @@ centum@neut%inv
 cer@fem%a-ae
 cere@masc%us-i
 cert@adj%us-a-um
+certam@neut%en-inis
 cet@masc%us-i
 ceter@adj%us-a-um
 charact@masc%er-eris
@@ -401,6 +403,7 @@ juli@fem%a-ae
 just@adj%us-a-um
 justiti@fem%a-ae
 labente@neut%inv
+labor@masc%x-is2
 lac@masc%us-us
 laetiti@fem%a-ae
 laet@adj%us-a-um
@@ -456,6 +459,7 @@ marc@masc%us-i
 mar@neut%e-is
 mari@fem%a-ae
 martyr@masc%x-ys
+martyri@masc%um-i
 mascul@adj%us-a-um
 mat@fem%er-eris
 matrimoni@neut%um-i
@@ -553,11 +557,12 @@ pagan@adj%us-a-um
 palm@fem%a-ae
 pap@fem%a-ae
 par@fem%s-tis2
+paradis@masc%us-i
+parv@adj%us-a-um
 parvul@adj%us-a-um
 pasch@fem%a-ae
 pass@masc%us-us
-paradis@masc%us-i
-parv@adj%us-a-um
+passion@fem%o-nis
 pastor@masc%x-is
 pat@masc%er-ris
 pauc@adj%us-a-um
@@ -568,8 +573,9 @@ pecuni@fem%a-ae
 pene@neut%inv
 penit@adj%us-a-um
 perduell@fem%is-is
-peristyl@masc%um-i
 perfect@adj%us-a-um
+pericul@masc%um-i
+peristyl@masc%um-i
 permot@adj%us-a-um
 perpetu@adj%us-a-um
 persecuti@fem%o-onis

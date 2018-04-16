@@ -401,6 +401,7 @@ gentile@neut%normmasc
 geography@neut%invmasc
 gerasa@neut%invmasc
 german@adj%normmasc
+gift@neut%normmasc
 gihon@neut%invmasc
 girdle@neut%normmasc
 girl@fem%normfem
@@ -629,6 +630,7 @@ mountainous@adj%invmasc
 mouth@neut%church
 movement@masc%normmasc
 mt@neut%invmasc
+muddy@neut%invmasc
 museum@masc%normmasc
 music@fem%normfem
 my@neut%invmasc
@@ -1008,6 +1010,7 @@ unanswerable@neut%normmasc
 unbelieving@neut%invmasc
 uncertain@adj%normmasc
 uncharitable@adj%normmasc
+unclean@adj%invmasc
 underemphasis@neut%invmasc
 university@fem%invfem
 unknown@neut%invmasc

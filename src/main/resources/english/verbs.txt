@@ -47,6 +47,7 @@ cause,[live]
 cease,[live]
 change,[live]
 check,[call]
+choose,[live],(PAP*choosed*chosen*0)
 circumcise,[live]
 circumscribe,[live]
 claim,[call]
@@ -251,6 +252,7 @@ smoke,[live],(PAPR*smoke*smok*0)
 smooth,[teach]
 soften,[live]
 speak,[live],(AII*spea*spo*0@PAP*speakd*spoken*0)
+sprinkle,[live]
 starve,[live],(PAPR*starvei*starvi*0)
 subdue,[live]
 suffer,[call]
