@@ -34,6 +34,7 @@ behalt,en,[entstehen],(SPA*behal*behiel*0)
 behand,eln,[sammeln]
 behaupt,en,[mochten]
 beibring,en,[leben]
+beischreib,en,[rufen],(AIP*beischreib*beischrieb*0@PAP*beischrei*beigeschrie*0)
 beitrag,en,[lassen],(AIP*beitrag*beitrug*0)
 beiwohn,en,[leben]
 bekomm,en,[rufen],(AIP*bekomm*bekam*0)

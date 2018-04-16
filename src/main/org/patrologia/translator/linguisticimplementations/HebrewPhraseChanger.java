@@ -100,7 +100,7 @@ public class HebrewPhraseChanger extends CustomLanguageRulePhraseChanger {
         //stopWords = verbRepository.getAllFormsForRoot(stopWords,null);
 
         stopNounsWithEndingHe.add("h");
-        stopNounsWithEndingHe.addAll(nounRepository.getNounsValueForEndingWith("h"));
+        stopNounsWithEndingHe.addAll(nounRepository.getNounsRootValueForEndingWith("h"));
         stopNounsWithEndingHe.addAll(verbRepository.getValuesEndingWith("h"));
         stopNounsWithEndingHe.addAll(prepositionRepository.getValuesEndingWith("h"));
 
@@ -298,7 +298,7 @@ public class HebrewPhraseChanger extends CustomLanguageRulePhraseChanger {
         int newPhraseIndice = 1;
         for(Integer indice : integers) {
             WordContainer wordContainerAtPosition = phrase.getWordContainerAtPosition(indice);
-             if(endsWithPattern(wordContainerAtPosition, endingPattern, stopWords,accentuer)) {
+             if(endsWithPattern(wordContainerAtPosition, endingPattern, stopWords,accentuer) && caseOperatorContainer.isCompliantToOneOfCaseOperator(wordContainerAtPosition)) {
                 List<ResultCaseOperator> resultCaseOperatorList = caseOperatorContainer.getResultCaseOperatorList();
                 Word newWordWithoutEndingPattern = wordWithoutEndingPattern(wordContainerAtPosition, endingPattern);
                 if(isNotDeclined(newWordWithoutEndingPattern) || isUnknownInRepositories(newWordWithoutEndingPattern)) {

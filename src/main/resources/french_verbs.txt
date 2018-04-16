@@ -301,7 +301,7 @@ inflechir@NORM%[INFINITIVE]=[infléchir]%[IPR]=[infléchis,infléchis,infléchit
 influencer@NORM%[INFINITIVE]=[influencer]%[IPR]=[influence,influences,influence,influençons,influencez,influencent]%[PII]=[étais influencé,étais influencé,était influencé,étions influencés,étiez influencés,étaient influencés]
 informer@NORM%[INFINITIVE]=[informer]%[IPR]=[informe,informes,informe,informons,informez,informent]%[PAP]=[informé]
 inhumer@NORM%[INFINITIVE]=[inhumer]%[IPR]=[inhume,inhumes,inhume,inhumons,inhumez,inhument]%[PAP]=[inhumé]%[PAPR]=[inhumant]
-inscrire@NORM%[INFINITIVE]=[inscrire]%[IPR]=[inscris,inscris,inscrit,inscrivons,inscrivez,inscrivent]%[ASI]=[inscrivais,inscrivais,inscrivait,inscrivions,inscriviez,inscrivaient]
+inscrire@NORM%[INFINITIVE]=[inscrire]%[IPR]=[inscris,inscris,inscrit,inscrivons,inscrivez,inscrivent]%[ASI]=[inscrivais,inscrivais,inscrivait,inscrivions,inscriviez,inscrivaient]%[PAP]=[inscrit]
 inserer@NORM%[INFINITIVE]=[insérer]%[IPR]=[insére,inséres,insére,insérons,insérez,insérent]%[PAP]=[inséré]
 insister@NORM%[IPR]=[insiste,insistes,insiste,insistons,insistez,insistent]%[INFINITIVE]=[insister]
 instruire@NORM%[INFINITIVE]=[instruire]%[IPR]=[instruis,instruis,instruit,instruisons,instruisez,instruisent]%[PIP]=[suis instruit,es instruit,est instruit,sommes instruits,êtes instruits,sont instruits]%[AIFP]=[aurai instruit,auras instruit,aura instruit,aurons instruits,aurez instruits,auront instruits]%[AII]=[instruisais,instruisais,instruisait,instruisions,instruisiez,instruisaient]

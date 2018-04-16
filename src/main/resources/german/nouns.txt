@@ -98,6 +98,7 @@ bastard@neut%bastard
 baum@neut%jahrzehnt
 bauamt@neut%inv
 beamt@masc%artist
+bedurfnis@neut%erkenntnis
 befinlichen@neut%inv
 behorde@fem%flasche
 beigefugt@adj%ausreichend
@@ -328,6 +329,7 @@ geblieben@adj%ausreichend
 gebracht@adj%ausreichend
 geburt@fem%meinfem
 geburtstag@masc%inv
+gedachtnis@neut%erkenntnis
 gedanke@masc%flasche
 gefahr@fem%meinfem
 gefahrlich@adj%ausreichend
@@ -586,6 +588,7 @@ makellos@adj%ausreichend
 mal@neut%meer
 maler@masc%burger
 maltechnik@fem%meinfem
+manadisch@adj%ausreichend
 manch@adj%ausreichend
 mangel@masc%arbeiter
 manier@fem%meinfem
@@ -640,6 +643,7 @@ murmeltier@neut%arbeiter
 musee@fem%flasche
 museum@neut%zeichen
 musik@fem%inv
+mystisch@adj%ausreichend
 mut@masc%inv
 mutter@fem%inv
 mutterlich@adj%ausreichend
@@ -656,6 +660,7 @@ nacht@fem%meinfem
 nachrede@fem%flasche
 naher@adj%ausreichend
 name@masc%flasche
+namenlos@adj%ausreichend
 namens@neut%inv
 namensvetter@masc%masc
 nase@fem%flasche
@@ -970,6 +975,7 @@ vater@masc%arbeiter
 vaterschaft@fem%meinfem
 verabredung@masc%meinmasc
 verbindung@masc%meinmasc
+verborgenheit@masc%meinmasc
 verbot@neut%phanomen
 verboten@adj%ausreichend
 verbunden@adj%ausreichend

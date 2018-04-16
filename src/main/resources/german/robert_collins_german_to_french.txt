@@ -147,6 +147,7 @@ bearbeit@verb!norm%1(verb)=editer
 bedau@verb!norm%1(verb)=regretter
 bedarf@verb!norm%1(verb)=avoirbesoin
 bedeut@verb!norm%1(verb)=signifier
+bedurfnis@noun!erkenntnis%1(noun)=besoin
 befass@verb!norm%1(verb)=envisager
 befind@verb!norm%1(verb)=setrouver
 befinlichen@noun!inv%1(noun)=situé
@@ -161,7 +162,9 @@ beide@prep%1(prep)=tous deux
 beibring@verb!norm%1(verb)=enseigner
 beiden@prep%1(prep)=les deux
 beigefugt@adj!ausreichend%1(adj)=attaché
+beinahe@prep%1(prep)=pratiquement
 beispielsweise@prep%1(prep)=par exemple
+beischreib@verb!norm%1(verb)=inscrire
 beitrag@verb!norm%1(verb)=contribuera
 beiwohn@verb!norm%1(verb)=avoirdesrelationssexuelles
 beiwohnung@noun!inv%1(noun)=présence%2(noun)=rapports sexuels
@@ -540,6 +543,7 @@ geblieben@adj!ausreichend%1(adj)=resté
 gebracht@adj!ausreichend%1(adj)=amené
 geburt@noun!meinfem%1(noun)=naissance
 geburtstag@noun!inv%1(noun)=anniversaire
+gedachtnis@noun!phanomen%1(noun)=souvenir%2(noun)=mémoire
 gedanke@noun!flasche%1(noun)=pensée
 gefahr@noun!meinfem%1(noun)=menace%2(noun)=danger
 gefahrlich@adj!ausreichend%1(adj)=dangereux
@@ -895,6 +899,7 @@ mal@noun!meer%1(noun)=occasion%2(noun)=fois
 maler@noun!burger%1(noun)=peintre
 maltechnik@noun!meinfem%1(noun)=technique picturale
 man@prep%1(prep)=on
+manadisch@adj!ausreichend%1(adj)=bacchante
 manch@adj!ausreichend%1(adj)=nombreux
 mangel@noun!arbeiter%1(noun)=manque
 manier@noun!meinfem%1(noun)=manière
@@ -968,6 +973,7 @@ muss@verb!norm%1(verb)=devoir
 mut@noun!inv%1(noun)=courage
 mutter@noun!inv%1(noun)=mère
 mutterlich@adj!ausreichend%1(adj)=maternel
+mystisch@adj!ausreichend%1(adj)=mystique
 mythus@noun!inv%1(noun)=mythe
 n@noun!inv%1(noun)=après
 nach@prep%1(prep)=après%2(prep)=à
@@ -984,6 +990,7 @@ nachst@noun!norm%1(noun)=prochain
 nacht@noun!meinfem%1(noun)=nuit
 naher@adj!ausreichend%1(adj)=plus proche
 name@noun!flasche%1(noun)=nom
+namenlos@adj!ausreichend%1(adj)=anonyme%2(adj)=inconnu
 namlich@prep%1(prep)=précisément
 namens@noun!inv%1(noun)=au nom de
 namentlich@prep%1(prep)=nommément
@@ -1290,6 +1297,7 @@ strafe@noun!flasche%1(noun)=sanction%2(noun)=condamnation%3(noun)=punition
 strasse@noun!flasche%1(noun)=rue
 stress@noun!inv%1(noun)=stress
 strom@noun!phanomen%1(noun)=flux
+strotzend@prep%1(prep)=plein
 stuck@noun!inv%1(noun)=morceau
 sturm@noun!jahrzehnt%1(noun)=tempête
 such@verb!norm%1(verb)=chercher
@@ -1419,6 +1427,7 @@ vaterschaft@noun!meinfem%1(noun)=paternité
 verabredung@noun!meinmasc%1(noun)=rendez-vous
 verbind@verb!norm%1(verb)=relier
 verbindung@noun!meinmasc%1(noun)=mélange%2(noun)=connexion
+verborgenheit@noun!meinmasc%1(noun)=dissimulation
 verbot@noun!phanomen%1(noun)=prohibition
 verboten@adj!ausreichend%1(adj)=interdit
 verbunden@adj!ausreichend%1(adj)=relatif

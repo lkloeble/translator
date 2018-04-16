@@ -524,6 +524,8 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "lw@prep%1(prep)=pour lui",
                 "lw331@prep%1(prep)=pour lui",
                 "li@prep%1(prep)=à moi",
+                "l56k00064@prep%1(prep)=à toi",
+                "lk@prep%1(prep)=à toi",
                 "lkm@prep%1(prep)=à vous",
                 "lkt@noun!invmasc%1(noun)=départ",
                 "lq'h@verb!norm%1(verb)=prendre",
@@ -648,6 +650,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "trwm@noun!ot%1(noun)=térouma",
                 "xw331b@noun!im-ot%1(noun)=bon",
                 "xxdexx@prep%1(prep)=de",
+                "xxhexx@prep%1(prep)=à elle",
                 "xxixx@prep%1(prep)=de moi",
                 "xxmxx@prep%1(prep)=à eux",
                 "xxnxx@prep%1(prep)=leur",
@@ -848,6 +851,8 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "lw331@prep()",
                 "lw@prep()",
                 "li@prep()",
+                "l56k00064@prep()",
+                "lk@prep()",
                 "lkm@prep()",
                 "lmh@prep()",
                 "m@prep()",
@@ -882,6 +887,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "t'ht@prep()",
                 "t63'h63t@prep()",
                 "xxdexx@prep()",
+                "xxhexx@prep()",
                 "xxixx@prep()",
                 "xxmxx@prep()",
                 "xxnxx@prep()",
@@ -1429,9 +1435,9 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failed_ones() {
         assertTrue(true);
-        checkInMaps("midrashrabahebcom1A", translatorBridge);
-        checkInMaps("toto", translatorBridge);
+        checkInMaps("wein27I1", translatorBridge);
         checkInMaps("totoacc", translatorBridge);
+        checkInMaps("toto", translatorBridge);
     }
 
 }
