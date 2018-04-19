@@ -132,7 +132,8 @@ public class HebrewPhraseChanger extends CustomLanguageRulePhraseChanger {
         Phrase withoutOneWhichIsMinusForUnknowConstructedState = substituteEndPatternWithNewPrepositionAfterWord(startPhrase, "&", new Preposition(Language.HEBREW, "xxdexx", null), stopWordsOneSofit, NO_FOLLOWING_INTERRUPTION_VALUE, caseOperatorContainer);
         Phrase erasedPatternOfMinus = erasePatternInWords(withoutOneWhichIsMinusForUnknowConstructedState, "&","#");
         caseOperatorContainer.emptyCases();
-        Phrase withoutWav56 = extractLetterFromBeginningOfNoun(erasedPatternOfMinus, "w56", stopWords, ruleFactory, null);
+        Phrase withoutSingleInterrogationPoint = extractInterrogationPointFromNonRecongnizedAbbreviation(erasedPatternOfMinus);
+        Phrase withoutWav56 = extractLetterFromBeginningOfNoun(withoutSingleInterrogationPoint, "w56", stopWords, ruleFactory, null);
         Phrase withoutWav63 = extractLetterFromBeginningOfNoun(withoutWav56, "w63", stopWords, ruleFactory, null);
         Phrase withoutWav309 = extractLetterFromBeginningOfNoun(withoutWav63, "w309", stopWords, ruleFactory, null);
         Phrase withoutWav = extractLetterFromBeginningOfNoun(withoutWav309, "w", stopWords, ruleFactory, null);
@@ -202,6 +203,62 @@ public class HebrewPhraseChanger extends CustomLanguageRulePhraseChanger {
         Phrase withoutNounsEndingHe = substituteEndPatternWithNewPrepositionAfterWord(withoutNounsEndingDirectionnalHe, "h", new Preposition(Language.HEBREW, "xxhexx", null), stopNounsWithEndingHe, NO_FOLLOWING_INTERRUPTION_VALUE, caseOperatorContainer);
 
         return withoutNounsEndingHe;
+    }
+
+    private Phrase extractInterrogationPointFromNonRecongnizedAbbreviation(Phrase phrase) {
+        Set<Integer> indices = phrase.keySet();
+        int numberOfInterrogationPoint = 0;
+        for(Integer indice : indices) {
+            WordContainer wordContainer = phrase.getWordContainerAtPosition(indice);
+            String initialValue = wordContainer.getInitialValue();
+            if(initialValue.contains("?") && !valueIsPreposition(initialValue)) {
+                numberOfInterrogationPoint++;
+            }
+        }
+        if(numberOfInterrogationPoint == 0) return phrase;
+        Phrase newPhrase = new Phrase(phrase.size() + 3*numberOfInterrogationPoint, Language.HEBREW);
+        int position = 0;
+        for(Integer indice : indices) {
+            WordContainer wordContainer = phrase.getWordContainerAtPosition(indice);
+            String initialValue = wordContainer.getInitialValue();
+            if(initialValue.contains("?") && !prepositionRepository.hasPreposition(initialValue)) {
+                String[] splittedValue = initialValue.split("\\?");
+                String beforeInterrogationPoint = splittedValue[0];
+                Word before = new Word(WordType.UNKNOWN,beforeInterrogationPoint,Language.HEBREW);
+                WordContainer wordContainerBeforeInterrogationPoint = new WordContainer(before, position, Language.HEBREW);
+                newPhrase.addWordContainerAtPosition(position,wordContainerBeforeInterrogationPoint,newPhrase);
+                position++;
+                Word interrogationPoint = new Word(WordType.UNKNOWN,"xx?xx",Language.HEBREW);
+                WordContainer containerInterrogation = new WordContainer(interrogationPoint,position,Language.HEBREW);
+                newPhrase.addWordContainerAtPosition(position,containerInterrogation,newPhrase);
+                position++;
+                String afterInterrogationPoint = "";
+                if(splittedValue.length == 2) {
+                    afterInterrogationPoint = splittedValue[1];
+                }
+                Word after = new Word(WordType.UNKNOWN,afterInterrogationPoint,Language.HEBREW);
+                WordContainer wordContainerAfterInterrogationPoint = new WordContainer(after, position, Language.HEBREW);
+                newPhrase.addWordContainerAtPosition(position,wordContainerAfterInterrogationPoint,newPhrase);
+                position++;
+            } else {
+                newPhrase.addWordContainerAtPosition(position,wordContainer,newPhrase);
+                position++;
+            }
+        }
+        return newPhrase;
+    }
+
+    private boolean valueIsPreposition(String initialValue) {
+        return decoratedValueIsPreposition(initialValue) || prepositionRepository.hasPreposition(initialValue);
+    }
+
+    private boolean decoratedValueIsPreposition(String value) {
+        if(value.startsWith("w") && prepositionWithoutWavExists(value)) return true;
+        return false;
+    }
+
+    private boolean prepositionWithoutWavExists(String value) {
+        return prepositionRepository.hasPreposition(value.substring(1));
     }
 
     private Phrase substituteEndPatternWithNewPrepositionBeforeWord(Phrase phrase, String endingPattern, Preposition preposition, List<String> stopNouns, String valueFollowingWordInterruption, CaseOperatorContainer caseOperatorContainer) {

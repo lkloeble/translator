@@ -50,7 +50,7 @@ public class HebrewAnalyzer implements Analizer {
             int i = (int) c;
             switch (i) {
                 case 34://"
-                    sb.append(" \" ");
+                    sb.append("?");
                     break;
                 case 39://(
                     sb.append("'");

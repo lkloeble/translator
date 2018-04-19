@@ -500,9 +500,10 @@ mishnah1J'=>Celui qui récite de cette façon ne subit pas de dommage, [mais il 
 mishnah1J=>le lecteur de là et désormais, ne causa de perdre, comme homme que lui lecteur dans torah(e)
 mishnah1K'=>Les disciples de Shammaï disent, le soir que tout homme s'allonge et récite [le Shemâ], et le matin qu'il se lève [pour réciter le Shemâ], comme il est dit "à ton coucher et à ton lever" (Devarim 6:7
 mishnah1K=>maison shammai disent, dans soir tout homme inclineront et appelèrent, et dans matin lèveront, que dirons/est dit " dans coucher de-toi et dans lever de-toi " ( parole(s) et, zayin
-mishnah1L=>Devarim 11:19). Les disciples de Hillel disent, tout homme récite selon son habitude, comme il est dit "et quand tu partiras en chemin" (ibid).
+mishnah1L'=>Devarim 11:19). Les disciples de Hillel disent, tout homme récite selon son habitude, comme il est dit "et quand tu partiras en chemin" (ibid).
 mishnah1L=>maison hillel disent, tout homme appellent comme chemin leur, que dirons/est dit " et dans départ de-toi dans chemin " ( nom )
-mishnah1M=>S'il en est ainsi, pourquoi est-il dit "à ton coucher et à ton lever"? - Ceci [signifie] à l'heure où d'habitude les fils de l'homme se couchent, et à l'heure où d'habitude les fils de l'homme se lèvent.
+mishnah1M'=>S'il en est ainsi, pourquoi est-il dit "à ton coucher et à ton lever"? - Ceci [signifie] à l'heure où d'habitude les fils de l'homme se couchent, et à l'heure où d'habitude les fils de l'homme se lèvent.
+mishnah1M=>" dans coucher de-toi et dans lever de-toi " mais dans heure(e) ordre de-toi fils(s) (des) homme se couchent, et dans heure(e) ordre de-toi fils(s) (des) homme lèvent
 mishnah1N=>Rabbi Tarfon dit, [un jour] j'étais en chemin, et je me suis allongé pour réciter [le Shemâ] selon les paroles des disciples de Shammay,
 mishnah1O=>et je me suis mis moi-même en danger en face de brigands. Ils lui dirent,
 mishnah1P=>tu as mérité d'être coupable, car tu as transgressé les paroles des disciples de Hillel.
@@ -514,8 +515,8 @@ mishnah1U=>jusqu'à ce que la commente Ben Zoma: comme il est dit "afin que tu t
 mishnah1V=>- "Les jours de ta vie", [signifie] le jour. "Tous les jours de ta vie", [signifie] la nuit. Et les H'akhamim disent, "les jours de ta vie",
 mishnah1W=>[signifie] ce monde; "tous les jours de ta vie", [comprend] l'Ere du Mashia'h5.
 rachitext1A=>( un ) dans commencement : dit rabbi isaac,
-rachitext1B=>ne fut besoin commencer COD la torah(e) mais de " le nouveau ce à vous ",
-rachitext1C=>que elle commandement(e) première(e) que étaient ordonnés israël et quoi goût ouvrit dans " dans commencement ".
+rachitext1B=>ne fut besoin commencer COD la torah(e) mais de " le mois ce à vous,
+rachitext1C=>que elle commandement(e) première(e) que étaient ordonnés israël et quoi goût ouvrit dans " dans commencement.
 rachitext1D=>brigands eux que conquîtes terre(s)(e) sept gentil ils disent à eux tout la terre(e) que à Le Saint-Béni soit-Il cette lui créa et donnera
 rachitext1E=>dit rabbi isaac
 rachitext1F=>le parole ce le commence " dit rabbi isaac " trouverons dans collection shimouni parasha(e) vint
@@ -530,7 +531,7 @@ rachitext1N=>foo
 rachitext1O=>foo
 
 sheilamoreiA=>dit rabbi isaac :
-sheilamoreiB=>foobar
+sheilamoreiB=>le discours ce le début " dit rabbi isaac " suis trouvé dans yalkout shimoni parasha(e) vint,
 sheilamoreiC=>foobar
 sheilamoreiD=>foobar
 sheilamoreiE=>foobar
@@ -539,30 +540,35 @@ sheilamoreiG=>foobar
 sheilamoreiH=>foobar
 
 engbavli1Arightmain1=>de quand appellent COD entendit@shema@ dans soir(s). de heure(e) que les prêtre(s) entrons manger dans térouma(e) à eux
-engbavli1Arightmain2=>foo
+engbavli1Arightmain2=>prêtre(s) que étaient profanés et immergeront et le soir soleil(e) leur et arrivera temps(e) à eux manger dans térouma(e)
+engbavli1Arightmain3=>foo
+engbavli1Arightmain4=>foo
+engbavli1Arightmain5=>foo
 
 engbavli1Aleftmain1=>foo
 engbavli1Aleftmain2=>foo
 
 engyerou1Arightleft1=>de quand appellent COD entendit@shema@ dans soir(s)
-engyerou1Arightleft2=>foo
+engyerou1Arightleft2=>tannah appelerai (expre intraduisible :fait référence à) comme dit l'écriture ( parole(s) et zayin ) dans coucher de-toi et dans lever de-toi, et ainsi soit-il temps appel de entendit@shema@ au moment de se coucher quand
+engyerou1Arightleft3=>foo
+engyerou1Arightleft4=>foo
 
-hebbavli1ApagecommentA=>mishna : commandement(e) à lecture " entendit@shema@ " dans matin et dans soir ( voir dans le introduction à nous à section [XXX] ) et de que donnèrent discuta quand lui temps la commandement(e) de appel de entendit@shema@ de prière du soir.
-hebbavli1ApagecommentB=>puisque que la commandement(e) as été enseigné/enseigne de le passage " dans coucher de-toi "
-hebbavli1ApagecommentC=>foo
+hebbavli1ApagecommentA=>mishna : commandement(e) à lecture " entendit@shema@ dans matin et dans soir ( voir dans le introduction à nous à section [XXX] ) et de que donnèrent discuta quand lui temps la commandement(e) de appel de entendit@shema@ de prière du soir.
+hebbavli1ApagecommentB=>puisque que la commandement(e) as été enseigné/enseigne de le passage " dans coucher de-toi
+hebbavli1ApagecommentC=>" dans temps que fils(s) (des) homme se couchent " ( voir dans le introduction à nous ),
 hebbavli1ApagecommentD=>foo
 hebbavli1ApagecommentE=>foo
 
 midrashrabaeng1A=>ordre dans commencement
-midrashrabaeng1B=>foobar
+midrashrabaeng1B=>parasha(e) un
 midrashrabaeng1C=>foobar
 midrashrabaeng1D=>foobar
 midrashrabaeng1E=>foobar
 
 midrashrabahebcom1A=>rabbi hoshaya grand ouvrit.
-midrashrabahebcom1B=>foobar
+midrashrabahebcom1B=>dans yalkout livre des proverbes [XXX] le version rabbi hoshaya grand quand Xmystère hwhX ouvrit dans oeuvre(e) dans commencement ouvrit et fus etc.
 midrashrabahebcom1C=>foobar
 midrashrabahebcom1D=>foobar
 
-toto=>peuple à elle avec nous@peuple(s)@
-totoacc=>ancien(e)
+toto=>ouvrit et fus
+totoacc=>de " le mois ce à vous
