@@ -721,8 +721,8 @@ patrologiacaput2S=>dans premier@premier(s)@premier(s)(e)@ or celui la(s) exhorta
 patrologiacaput2T=>(par) qui(s)@qui@qui(e)@ vraiment (aux) torture(s) si vie(e) eux fut secouru, ce (du) quelque@quelque(s)@ lettre(s)(e) ordonnaient.
 patrologiacaput2U=>écrivaient (au) vrai@(par) vrai@mais@ un@un(s)@ (des) un(s)@autre@un@ virilité(e) et (au) mérite@vraiment@ plus excellent(e) histoire(e),
 patrologiacaput2V=>voyage(s), danger(s), travail(s), lutte(s), souffrance(s)(e), supplice(s), et tous(s) leur (du) martyr acte.
-patrologiacaput2W=>foo
-patrologiacaput2X=>foo
+patrologiacaput2W=>(au) un(e) établi(e)@établi(s)@ et canon(s), en provenance de apotre(s) et leur (aux) successeur(s) vers doctrine(s)(e) explication(e), et idée(e) (des) manière(s)(e) rendu saint(e)@rendu saint(s)@, (aux) ecrit(s) abandonnaient;
+patrologiacaput2X=>un@un(s)@ donnez@donné@donné(s)@donné(s)(e)@ vers quelques uns chrétien(s), ou eveque(s), ou église(s)(e) (aux) lettre(s)(e), celui la(s) enflammaient vers (des) tyran(s) persécution(s)(e) le plus patient toléré(s)(e);
 patrologiacaput2Y=>foo
 patrologiacaput2Z=>foo
 

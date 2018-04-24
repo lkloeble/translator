@@ -81,6 +81,7 @@ ausrottung@neut%meinmasc
 ausserung@neut%meinmasc
 ausspruche@fem%flasche
 ausziehens@neut%inv
+auszugraben@neut%inv
 autor@masc%autor
 auto@fem%tipp
 b@neut%inv
@@ -177,6 +178,7 @@ deutschland@fem%inv
 dezember@neut%inv
 dialektik@neut%inv
 dialektisch@adj%ausreichend
+dichter@masc%arbeiter
 dick@adj%norm
 die@fem%inv
 diener@masc%arbeiter
@@ -324,6 +326,7 @@ fussganger@masc%meinmasc
 ganz@adj%ausreichend
 garten@masc%inv
 gast@neut%meer
+gebiet@neut%phanomen
 gebildet@adj%ausreichend
 geblieben@adj%ausreichend
 gebracht@adj%ausreichend
@@ -637,6 +640,7 @@ mozart@masc%inv
 mt@neut%inv
 mud@adj%ausreichend
 muhe@fem%flasche
+muhsal@fem%inv
 muhselig@adj%ausreichend
 multikulturell@adj%ausreichend
 murmeltier@neut%arbeiter
@@ -712,6 +716,7 @@ peter@neut%inv
 petrus@masc%inv
 pfleger@masc%arbeiter
 phanomen@neut%phanomen
+philologe@masc%flasche
 pinchas@neut%inv
 pizza@neut%meinmasc
 pflanze@fem%flasche
@@ -789,8 +794,9 @@ sammlung@fem%meinfem
 sanger@masc%arbeiter
 satz@masc%ort
 sauberkeit@neut%inv
-schauerlich@adj%ausreichend
+schade@neut%inv
 scharfst@adj%ausreichend
+schauerlich@adj%ausreichend
 scheck@fem%meinfem
 schenk@masc%meinmasc
 schicklichkeit@fem%meinfem
@@ -948,6 +954,7 @@ unbedingt@neut%inv
 unbekannten@neut%inv
 unbekummert@neut%inv
 unbescheidenheit@neut%inv
+unerkannt@adj%ausreichend
 unfall@masc%phanomen
 unfruchtbar@adj%ausreichend
 ungarisch@adj%ausreichend
@@ -957,8 +964,8 @@ ungleich@adj%ausreichend
 unlustigkeit@neut%inv
 unmoglich@neut%meinmasc
 unmoralisch@adj%ausreichend
-unvollstandig@adj%ausreichend
 unser@adj%ausreichend
+unschlussig@neut%inv
 unsre@neut%inv
 untauglich@adj%ausreichend
 unterlag@neut%meinmasc
@@ -966,6 +973,8 @@ unterscheidend@adj%ausreichend
 unterschied@neut%meinmasc
 untertan@neut%meinmasc
 unzucht@neut%inv
+unvollstandig@adj%ausreichend
+unvorstellbar@adj%ausreichend
 urkunde@fem%flasche
 urlaub@masc%norm
 ursache@fem%flasche
@@ -1054,6 +1063,7 @@ widrig@adj%ausreichend
 wiederholung@fem%meinfem
 wien@neut%inv
 wille@fem%wille
+willkurlich@adj%ausreichend
 winkel@masc%arbeiter
 wirklichkeit@fem%meinfem
 wirkung@fem%meinfem
@@ -1091,6 +1101,7 @@ zitate@fem%jahrzehnt
 zone@fem%flasche
 zuganglich@adj%meinmasc
 zugrunde@fem%flasche
+zunge@fem%flasche
 zusammenhang@masc%meer
 zusatz@masc%phanomen
 zuverlassig@adj%ausreichend

@@ -1,6 +1,7 @@
 absolv,o,is,ere,,,[o-is]
 absolv,o,is,ere,,,[o-is]
 absolv,o,is,ere,,,[o-is]
+accend,o,is,ere,,,[o-is]
 accip,io,is,ere,,,[io-is],(AIP*acci*acce*0@AIPP*acci*acce*0)
 acclam,o,as,are,,,[o-as]
 accus,o,as,are,,,[o-as]

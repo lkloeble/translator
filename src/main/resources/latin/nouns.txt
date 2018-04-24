@@ -104,6 +104,7 @@ calam@masc%us-i
 campani@fem%a-ae
 can@masc%is-is
 canal@masc%is-is
+canon@masc%x-is2
 cantic@neut%um-i
 cap@neut%ut-itis
 capen@fem%a-ae
@@ -259,6 +260,7 @@ except@adj%us-a-um
 excus@adj%us-a-um
 exercit@adj%us-a-um
 exercit@masc%us-us
+explicati@fem%o-onis
 expositi@fem%o-onis
 exspectat@adj%us-a-um
 extrem@adj%us-a-um
@@ -366,6 +368,7 @@ indut@adj%us-a-um
 infand@adj%us-a-um
 inferi@adj%or-or-us
 infirm@adj%us-a-um
+informati@fem%o-onis
 ingeni@neut%um-i
 inimic@masc%us-i
 initi@neut%um-i
@@ -565,6 +568,7 @@ pass@masc%us-us
 passion@fem%o-nis
 pastor@masc%x-is
 pat@masc%er-ris
+patientissim@adj%us-a-um
 pauc@adj%us-a-um
 paucissim@adj%us-a-um
 paul@masc%us-i
@@ -676,6 +680,7 @@ saevien@masc%s-tis
 salutif@adj%er-era-erum
 salve@neut%inv
 samos@neut%inv
+sancit@adj%us-a-um
 sanct@adj%us-a-um
 sancti@adj%or-or-us
 sanctissim@adj%us-a-um
@@ -722,10 +727,12 @@ speci@fem%es-ei
 spiracul@neut%um-i
 spirit@masc%us-i
 spuri@adj%us-a-um
+statut@adj%us-a-um
 stell@fem%a-ae
 stil@masc%us-i
 studi@neut%um-i
 suav@adj%is-is-e
+successor@masc%x-is2
 superfici@fem%es-ei
 supern@adj%us-a-um
 su@adj%us-a-um
@@ -753,6 +760,7 @@ testimoni@neut%um-i
 tiberis@neut%inv
 tigri@neut%s-dis
 tit@masc%us-i
+tolerand@adj%us-a-um
 torment@neut%um-i
 tot@adj%us-a-um
 totius@adj%inv
@@ -768,6 +776,7 @@ tub@fem%a-ae
 tuend@adj%us-a-um
 turb@fem%a-ae
 tuscul@masc%um-i
+tyrann@masc%us-i
 umbr@fem%a-ae
 umer@masc%us-i
 un@adj%us-a-um

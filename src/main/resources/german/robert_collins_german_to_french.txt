@@ -123,6 +123,7 @@ ausserung@noun!meinmasc%1(noun)=énoncé
 ausspruche@noun!flasche%1(noun)=dire
 auswendig@prep%1(prep)=par coeur
 ausziehens@noun!inv%1(noun)=enlèvement
+auszugraben@noun!inv%1(noun)=exhumer
 auto@noun!tipp%1(noun)=voiture
 autor@noun!autor%1(noun)=auteur
 b@noun!inv%1(noun)=b
@@ -308,6 +309,7 @@ dezember@noun!inv%1(noun)=décembre
 dialektik@noun!inv%1(noun)=dialectique
 dialektisch@noun!ausreichend%1(adj)=dialectique
 dich@prep%1(prep)=te
+dichter@noun!arbeiter%1(noun)=poête
 dick@noun!norm%1(adj)=obèse
 die@noun!inv%1(noun)=la
 diejenige@prep%1(prep)=celle-que
@@ -382,6 +384,7 @@ einzusenden@noun!inv%1(noun)=être envoyé
 eltern@noun!inv%1(noun)=parents
 empfang@verb!norm%1(verb)=concevoir%2(verb)=accueillir%3(verb)=recevoir
 empfehl@verb!norm%1(verb)=recommander
+entdeck@verb!norm%1(verb)=decouvrir
 endlich@noun!inv%1(noun)=enfin
 england@noun!inv%1(noun)=angleterre
 entbehrung@noun!meinfem%1(noun)=privation
@@ -454,6 +457,7 @@ faktor@noun!autor%1(noun)=facteur
 falschheit@noun!meinfem%1(noun)=hypocrisie
 familie@noun!flasche%1(noun)=famille
 fass@verb!norm%1(verb)=comprendre%2(verb)=saisir
+fast@prep%1(prep)=quasiment
 fax@noun!inv%1(noun)=fax
 fehler@noun!arbeiter%1(noun)=erreur
 fehlerhaft@adj!ausreichend%1(noun)=imparfait%2(adj)=défectueux
@@ -538,6 +542,7 @@ garten@noun!inv%1(noun)=jardin
 gast@noun!meer%1(noun)=invité
 geb@verb!norm%1(verb)=donner
 gebar@verb!norm%1(verb)=naitre
+gebiet@noun!phanomen%1(noun)=zone%2(noun)=territoire
 gebildet@adj!ausreichend%1(adj)=constitué
 geblieben@adj!ausreichend%1(adj)=resté
 gebracht@adj!ausreichend%1(adj)=amené
@@ -928,6 +933,7 @@ midrasch@noun!meinmasc%1(noun)=midrash
 mich@prep%1(prep)=moi
 miet@verb!norm%1(verb)=louer
 mild@noun!mein%1(adj)=doux
+mindestens@prep%1(prep)=au moins
 mineral@adj!norm%1(noun)=minéral
 minute@noun!flasche%1(noun)=minute
 mir@prep%1(prep)=à moi
@@ -963,6 +969,7 @@ mozart@noun!inv%1(noun)=mozart
 mt@noun!inv%1(noun)=mt
 mud@adj!ausreichend%1(adj)=fatigué
 muhe@noun!flasche%1(noun)=difficulté%2(noun)=effort
+muhsal@noun!inv%1(noun)=tribulation%2(noun)=difficulté
 muhselig@adj!ausreichend%1(adj)=laborieux
 multikulturell@adj!ausreichend%1(adj)=multiculturel
 murmeltier@noun!arbeiter%1(noun)=marmotte
@@ -1060,6 +1067,7 @@ peter@noun!inv%1(noun)=peter
 petrus@noun!inv%1(noun)=pierre
 pfleger@noun!arbeiter%1(noun)=infirmier
 phanomen@noun!phanomen%1(noun)=phénomène
+philologe@noun!flasche%1(noun)=philologue
 pinchas@noun!inv%1(noun)=pinhas
 pizza@noun!meinmasc%1(noun)=pizza
 pflanze@noun!flasche%1(noun)=plante
@@ -1156,6 +1164,7 @@ sammlung@noun!meinfem%1(noun)=réunion%2(noun)=élévation%3(noun)=collection
 sanger@noun!arbeiter%1(noun)=chanteur
 satz@noun!ort%1(noun)=phrase%2(noun)=proposition
 sauberkeit@noun!inv%1(noun)=propreté
+schade@noun!inv%1(noun)=dommage
 schaff@verb!norm%1(verb)=creer
 schauerlich@adj!ausreichend%1(adj)=horrible
 scharfst@adj!ausreichend%1(adj)=le plus précis
@@ -1188,6 +1197,7 @@ servier@verb!norm%1(verb)=servir
 setz@verb!norm%1(verb)=sassoir%2(verb)=poser
 sich@prep%1(prep)=se
 sicht@verb!norm%1(verb)=trier%2(verb)=classifier%3(verb)=organiser
+sing@verb!norm%1(verb)=chanter
 sitz@verb!norm%1(verb)=rester%2(verb)=sasseoir
 scheid@verb!norm%1(verb)=separer
 schein@verb!norm%1(verb)=briller
@@ -1277,6 +1287,7 @@ stadt@noun!meinfem%1(noun)=ville
 stadtrat@noun!inv%1(noun)=conseil municipal
 stadtverwaltung@noun!inv%1(noun)=administration municipale
 stamm@verb!norm%1(verb)=descendre
+stamm@verb!norm%1(verb)=balbutier
 stammbaum@noun!jahrzehnt%1(noun)=arbre généalogique
 stark@verb!norm%1(verb)=renforcer
 starke@noun!flasche%1(noun)=force
@@ -1393,6 +1404,7 @@ unbekannten@noun!inv%1(noun)=inconnu
 unbekummert@noun!inv%1(noun)=non concerné
 unbescheidenheit@noun!inv%1(noun)=immodestie
 und@prep%1(prep)=et
+unerkannt@adj!ausreichend%1(adj)=non identifié
 unfall@noun!phanomen%1(noun)=accident
 unfruchtbar@adj!ausreichend%1(adj)=stérile
 ungarisch@adj!ausreichend%1(adj)=hongrois
@@ -1403,6 +1415,7 @@ unlustigkeit@noun!inv%1(noun)=morosité
 unmoglich@noun!meinmasc%1(noun)=impossible
 unmoralisch@adj!ausreichend%1(noun)=immoral
 uns@prep%1(prep)=nous
+unschlussig@noun!inv%1(noun)=indécis
 unser@adj!ausreichend%1(adj)=notre
 unsre@noun!inv%1(noun)=nos
 untauglich@adj!ausreichend%1(adj)=inapte
@@ -1415,6 +1428,7 @@ unterscheidend@adj!ausreichend%1(adj)=distinctif
 unterschied@noun!meinmasc%1(noun)=différence
 untertan@noun!meinmasc%1(noun)=sujet
 unvollstandig@noun!ausreichend%1(adj)=incomplet
+unvorstellbar@noun!ausreichend%1(adj)=inconcevable
 unzucht@noun!inv%1(noun)=fornication
 urkunde@noun!flasche%1(noun)=document%2(noun)=acte
 urlaub@noun!norm%1(noun)=vacance
@@ -1425,6 +1439,7 @@ v@noun!inv%1(noun)=avant
 vater@noun!arbeiter%1(noun)=père
 vaterschaft@noun!meinfem%1(noun)=paternité
 verabredung@noun!meinmasc%1(noun)=rendez-vous
+verberg@verb!norm%1(verb)=cacher
 verbind@verb!norm%1(verb)=relier
 verbindung@noun!meinmasc%1(noun)=mélange%2(noun)=connexion
 verborgenheit@noun!meinmasc%1(noun)=dissimulation
@@ -1565,6 +1580,7 @@ wieviel@prep%1(prep)=combien
 wien@noun!inv%1(noun)=vienne
 wille@noun!wille%1(noun)=volonté
 winkel@noun!arbeiter%1(noun)=endroit%2(noun)=angle
+willkurlich@adj!ausreichend%1(adj)=aléatoire
 wir@prep%1(prep)=nous
 wirklich@prep%1(prep)=vraiment
 wirklichkeit@noun!meinfem%1(noun)=réalité
@@ -1625,6 +1641,7 @@ zum@prep%1(prep)=pour
 zumach@verb!norm%1(noun)=fermer
 zumal@prep%1(prep)=spécialement (depuis)
 zunachst@prep%1(prep)=premièrement
+zunge@noun!flasche%1(noun)=langue
 zur@prep%1(prep)=pour
 zuruck@prep%1(prep)=en arrière
 zurucklass@verb!norm%1(verb)=laisserrentrer%2(verb)=laisserderriere

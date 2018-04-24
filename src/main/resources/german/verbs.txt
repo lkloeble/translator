@@ -74,6 +74,7 @@ einlad,en,[leben]
 eintret,en,[leben],(IPR12*tret*trit*0)
 empfang,en,[leben]
 empfehl,en,[leben]
+entdeck,en,[leben]
 entlass,en,[genesen]
 entnehm,en,[leben]
 entsteh,en,[entstehen],(AIP*entsteh*entstand*0)
@@ -145,7 +146,7 @@ kehr,en,[starken]
 kenn,en,[leben],(AIP*kenn*kannt*0)
 koch,en,[leben]
 komm,en,[rufen],(AIP*komm*kam*0@PAP*kom*gekom*0)
-konn,en,[wollen],(IPR012*kon*kan*0)
+konn,en,[wollen],(IPR012*kon*kan*0@PAP*konn*gekonnt*0)
 kost,en,[leben]
 kriech,en,[leben]
 kritisier,en,[leben]
@@ -211,6 +212,7 @@ seh,en,[rufen],(IPR14*seh*sieh*0@AIP*seh*sah*0@PAP*seh*geseh*0@AIMP1*seh*sieh*0)
 servier,en,[leben]
 setz,en,[setzen],(PAP*set*geset*0)
 sicht,en,[mochten]
+sing,en,[leben]
 sinn,en,[rufen],(AIP*sin*san*0)
 sitz,en,[lassen],(IPR1*sitzst*sitzt*0@AIP*sitz*sass*0)
 soll,en,[wollen]
@@ -219,6 +221,7 @@ spazier,en,[leben]
 spiel,en,[leben]
 sprech,en,[rufen],(AIP*spre*spra*0@IPR12*spre*spri*0)
 stamm,en,[leben]
+stamm,eln,[sammeln]
 stark,en,[starken]
 steh,en,[stehen],(AIP*steh*stand*0)
 steig,en,[leben],(PAP*steigt*gestiegen*0)
@@ -244,6 +247,7 @@ ubersetz,en,[leben]
 uberwach,en,[leben]
 unterzeichn,en,[mochten]
 unterzieh,en,[rufen],(AIP*unterzieh*unterzog*0@PAP*unterzieh*unterzog*0)
+verberg,en,[leben],(IPR12*verbe*verbi*0)
 verbind,en,[mochten],(AIP*verbind*verband*0)
 vergess,en,[wollen]
 verhalt,en,[halten]

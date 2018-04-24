@@ -1,3 +1,4 @@
 IPR=>,st,,en,t,en
 AII=>te,test,te,ten,tet,ten
 ASP=>e,est,e,en,et,en
+PAP=>[ausreichend]

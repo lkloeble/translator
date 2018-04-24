@@ -6,6 +6,7 @@ abrogat@adj!us-a-um%1(adj)=abrogé
 absolvo@verb!norm%1(verb)=delier
 abyss@noun!us-i%1(noun)=abysse,enfer%2(noun)=abime
 ac@prep%1(prep)=et
+accendo@verb!norm%1(verb)=allumer%2(verb)=enflammer
 acerbius@prep%1(prep)=aussi sévère que
 accept@adj!us-a-um%1(adj)=accepté
 accipio@verb!norm%1(verb)=recevoir%2(verb)=accepter
@@ -154,6 +155,7 @@ campani@noun!a-ae%1(noun)=campanie
 can@noun!is-is%1(noun)=chien
 canal@noun!is-is%1(noun)=orifice%2(noun)=canal
 cano@verb!norm%1(verb)=chanter2
+canon@noun!x-is2%1(noun)=canon
 canto@verb!norm%1(verb)=chanter
 cantic@noun!um-i%1(noun)=cantique%2(noun)=chant
 cap@noun!ut-itis%1(noun)=tête
@@ -424,6 +426,7 @@ exerceo@verb!norm%1(verb)=exercer
 excus@adj!us-a-um%1(adj)=falsifié
 exercit@adj!us-a-um%1(adj)=exercé%2(adj)=occupé
 exercit@noun!us-us%1(noun)=entrainé
+explicati@noun!o-onis%1(noun)=explication
 expositi@noun!o-onis%1(noun)=exposition
 exspectat@adj!us-a-um%1(adj)=attendu
 extrem@adj!us-a-um%1(adj)=extrême
@@ -595,6 +598,7 @@ inferi@adj!or-or-us%1(adj)=inférieur
 infero@verb!norm%1(verb)=infliger%2(verb)=attaquer%3(verb)=porter
 infigo@verb!norm%1(verb)=fermer%2(verb)=implanter%3(verb)=reparer
 infirm@adj!us-a-um%1(adj)=infirme
+informati@noun!o-onis%1(noun)=conception%2(noun)=idée
 informo@verb!norm%1(verb)=former
 ingeni@noun!um-i%1(noun)=génie%2(noun)=talent%3(noun)=intelligence%4(noun)=tempérament%5(noun)=caractère
 inimic@noun!us-i%1(noun)=ennemi
@@ -881,6 +885,7 @@ pastor@noun!x-is%1(noun)=pasteur
 pateo@verb!norm%1(verb)=etreouvert
 patro@verb!norm%1(verb)=accomplir
 pat@noun!er-ris%1(noun)=père de famille,maître de maison%2(noun)=fondateur%3(noun)=vieillard%4(noun)=père
+patientissim@adj!us-a-um%1(adj)=le plus patient
 pauc@adj!us-a-um%1(adj)=peu nombreux
 paucissim@adj!us-a-um%1(adj)=le moins nombreux
 paul@noun!us-i%1(noun)=Paul
@@ -1023,6 +1028,7 @@ quint@noun!us-a-um%1(noun)=cinquième
 quippe@prep%1(prep)=bien sur,oui certes%2(prep)=de fait,le fait est que%3(prep)=puisque%4(prep)=certainement
 quis@prep%1(prep)=qui
 quoniam@prep%1(prep)=puisque%2(prep)=depuis que
+quosdam@prep%1(prep)=quelques uns
 quoque@prep%1(adv)=aussi
 quot@prep%1(quot)=combien
 ratio@noun!x-nis%1(noun)=raison%2(noun)=explication
@@ -1085,6 +1091,7 @@ salve@noun!inv%1(noun)=salut
 sane@prep%1(prep)=vraiment
 samos@noun!inv%1(noun)=samos
 sano@verb!norm%1(verb)=soigner
+sancit@adj!us-a-um%1(adj)=rendu saint
 sanct@adj!us-a-um%1(adj)=saint
 sancti@adj!or-or-us%1(adj)=plus sacré
 sanctifico@verb!norm%1(verb)=purifier%2(verb)=consacrer%3(verb)=sanctifier
@@ -1155,6 +1162,7 @@ spero@verb!norm%1(verb)=esperer
 spiracul@noun!um-i%1(noun)=souffle
 spirit@noun!us-i%1(noun)=air (respire)%2(noun)=vie,soupir%3(noun)=odeur,suffisance,arrogance%4(noun)=esprit,ame%5(noun)=le saint esprit (christianisme)%6(noun)=souffle
 spuri@adj!us-a-um%1(adj)=faux%2(adj)=illégitime
+statut@adj!us-a-um%1(adj)=établi
 stell@noun!a-ae%1(noun)=planète%2(noun)=étoile
 statim@prep%1(prep)=soudain%2(prep)=immédiatement
 stil@noun!us-i%1(noun)=stylo
@@ -1166,6 +1174,7 @@ suav@adj!is-is-e%1(adj)=plaisant
 sub@prep%1(prep)=sous
 subicio@verb!norm%1(verb)=soumettre
 subito@prep%1(prep)=subitement
+successor@noun!x-is2%1(noun)=successeur
 sum@verb!irrg%1(verb substantif)=etre%2(verb substantif)=etre dans un lieu%3(verb substantif)=etre reellement%4(verb substantif + datif)=appartenir a, s'appliquer a%5(verbe)=etre
 sumo@verb!norm%1(verb)=charmer%2(verb)=adopter%3(verb)=utiliser%4(verb)=obtenir%5(verb)=sélectionner%6(verb)=commencer%7(verb)=prendre
 super@prep%1(adv)=par dessus,en plus%2(prep + acc)=au dessus%3(prep + abl)=sur%4(prep)=sur
@@ -1211,9 +1220,10 @@ tigri@noun!s-dis%1(noun)=tigre
 tibi@prep%1(prep)=à toi
 timeo@verb!norm%1(verb)=craindre
 tit@noun!us-i%1(noun)=titus
+tolerand@adj!us-a-um%1(adj)=toléré
 tollo@verb!norm%1(verb)=détruire%2(verb)=élever%3(verb)=enlever
-torment@noun!um-i%1(noun)=canon%2(noun)=torture
 tot@prep%1(prep)=si nombreux
+torment@noun!um-i%1(noun)=canon%2(noun)=torture
 tot@adj!us-a-um%1(adj)=tout
 totius@adj!inv%1(adj)=de tout
 tractand@adj!us-a-um%1(noun)=transporté
@@ -1240,6 +1250,7 @@ tuorum@prep%1(prep)=tes
 tuum@prep%1(prep)=ton
 turb@noun!a-ae%1(noun)=foule%2(noun)=tumulte%3(noun)=multitude
 tuscul@noun!um-i%1(noun)=grain d'encens%2(noun)=tusculane
+tyrann@noun!us-i%1(noun)=tyran
 tuus@prep%1(prep)=ton
 ubi@prep%1(adv)=ou%2(adv)=dans lequel%3(conj)=quand, lorsque4(conj + subj)=du moment que%5(adv)=où
 umbr@noun!a-ae%1(noun)=ombre
