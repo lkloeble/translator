@@ -210,6 +210,7 @@ diacon@masc%us-i
 dicend@adj%us-a-um
 dict@neut%um-i
 difficil@neut%is-is
+digit@masc%us-i
 dign@adj%us-a-um
 diligen@adj%s-tis
 dimiss@adj%us-a-um

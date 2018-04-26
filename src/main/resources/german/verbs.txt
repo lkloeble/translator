@@ -59,7 +59,7 @@ brech,en,[leben],(IPR*brecht*bricht*0@IPR*brechst*brichst*0)
 buhl,en,[leben]
 bring,en,[leben]
 dank,en,[leben]
-darbiet,en,[mochten]
+darbiet,en,[mochten](AIP*darbiet*darbot*0)
 darf,en,[wollen]
 darleg,en,[leben]
 denk,en,[leben]

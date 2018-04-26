@@ -49,7 +49,7 @@ public class GermanAnalyzer implements Analizer {
     private Phrase affectInfinitive(Phrase phrase) {
         Set<Integer> integers = phrase.keySet();
         for(Integer indice : integers) {
-            //VERBE PRECEDE OU SUIVI PAR UN DEMONSTRATIF : on laisse le translationIndice
+            //VERBE PRECEDE OU SUIVI PAR UNE PREPOSITION : on laisse le translationIndice
             WordContainer currentWordContainer = phrase.getWordContainerAtPosition(indice);
             Word currentWordVerb = currentWordContainer.getWordByType(WordType.VERB);
             if(currentWordVerb.isTypeUnknow()) continue;

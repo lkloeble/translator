@@ -326,6 +326,7 @@ dict@noun!um-i%1(noun)=ordre%2(noun)=prédiction%3(noun)=poésie%4(noun)=proverb
 dicto@verb!norm%1(verb)=repeter
 differo@verb!norm%1(verb)=differer
 difficil@noun!is-is%1(noun)=difficile
+digit@noun!us-i%1(noun)=doigt
 dign@adj!us-a-um%1(noun)=digne
 diligenter@prep%1(prep)=avec diligence
 diligen@adj!s-tis%1(adj)=diligence
@@ -958,7 +959,7 @@ praemi@noun!um-i%1(noun)=récompense
 praenom@noun!en-inis%1(noun)=nom
 praenuntiat@adj!us-a-um%1(adj)=annoncé
 praeparo@verb!norm%1(verb)=preparer
-praesto@verb!norm%1(verb)=surpasser2
+praesto@verb!norm%1(verb)=offrir%2(verb)=surpasser2
 preti@noun!um-i%1(noun)=punition%2(noun)=valeur%3(noun)=prix
 pretios@adj!us-a-um%1(adj)=coûteux%2(adj)=précieux
 prim@adj!us-a-um%1(adj)=le plus en avant, le plus avance, le premier%2(adj)=le premier rang%3(adj)=le plus important, le principal%4(adj)=la premiere partie, le commencement%5(adj)=premier
@@ -1157,6 +1158,7 @@ sono@verb!norm%1(verb)=sonner%2(verb)=resonner
 spart@noun!a-ae%1(noun)=sparte
 spati@noun!um-i%1(noun)=espace
 speci@noun!es-ei%1(noun)=apparence
+specio@verb!norm%1(verb)=observer
 specto@verb!norm%1(verb)=regarder%2(verb)=observer
 spero@verb!norm%1(verb)=esperer
 spiracul@noun!um-i%1(noun)=souffle

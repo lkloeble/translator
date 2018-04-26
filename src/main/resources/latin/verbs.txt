@@ -204,7 +204,7 @@ possum@IRREGULAR%[INFINITIVE]=[posse]%[IPR]=[possum,potes,potest,possumus,potest
 poti,or,ris,ri,,,[or-ris]
 praeced,o,is,ere,,,[o-is]
 praepar,o,as,are,,,[o-as]
-praest,o,as,are,,,[o-as],(ASI*praest*praestar*0)
+praest,o,as,are,,,[o-as],(ASI*praest*praestar*0@AIP*praestav*praestit*0)
 praesum@IRREGULAR%[IPR]=[praesum,praees,praeest,praesumus,praeestis,praesunt]%[AII]=[praeeram,praeeras,praeerat,praeeramus,praeeratis,praeerant]%[AIF]=[praeero,praeeris,praeerit,praeerimus,praeeritis,praeerunt]%[INFINITIVE]=[praesse]%[ASP]=[praesim,praesis,praesit,praesimus,praesitis,praesint]%[ASI]=[praeessem,praeesses,praeesset,praeessemus,praeessetis,praeessent]%[AIP]=[praefui,praefuisti,praefuit,praefuimus,praefuistis,praefuerunt]
 prob,o,as,are,,,[o-as]
 prod,eo,is,ire,ii,itum,[eo-is]
@@ -246,6 +246,7 @@ sequ,or,eris,i,,,[or-eris]
 serv,o,as,are,,,[o-as]
 solv,o,is,ere,,,[o-is]
 son,o,as,are,,,[o-as]
+spec,io,is,ere,,,[io-is],(AIP*spec*spex*0)
 spect,o,as,are,,,[o-as]
 sper,o,as,are,,,[o-as]
 stud,eo,es,ere,,,[eo-es]
