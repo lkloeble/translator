@@ -371,7 +371,7 @@ staniloae4I1=>Lumea intreaga e facuta pentru a deveni un om mare, sau conținutu
 staniloae4I2=>nu omul pentru a fi parte a naturii si neinsemnand in ea mai mult decat orice alta parte a ei, sau contopindu-se in ea.
 staniloae4J1=>Caci printr-o eventuala contopire a omului in natura s-ar pierde cel mai important factor al realitații,
 staniloae4J2=>fara ca natura sa castige ceva nou, pe cand prin asimilarea lumii in om, natura insasi castiga,
-staniloae4J3=>fiind ridicata pe un plan cu totul nou, fara sa se pierdă propriu-zis.
+staniloae4J3=>fiind ridicata pe un plan cu totul nou, fara sa se piardă propriu-zis.
 staniloae4K1=>Pierderea noastră in natura nu reprezinta nici un progres nici pentru natura,
 staniloae4K2=>pe cand umanizarea continua sau eterna a naturii reprezinta un progres etern,
 staniloae4K3=>facand abstractie de faptul ca prin aceasta nu se pierde nimic si mai ales nu se pierde ceea ce e mai valoros in realitate.
@@ -435,7 +435,7 @@ filocalia1Z=>în prețul ce se spune și în unele, și în altele pe "deosebire
 ț
 
 filocalia1antonie1=>ale celui dintre sfinți părintelui nostru antonie cel mare
-filocalia1antonie2=>învățături despre viața morală a oamenilor și despre buna purtare, în 170 de capete
+filocalia1antonie2=>învățături despre viața morală a oamenilor și despre buna purtare, în 170 de capete@1
 filocalia1antonie1A=>Oamenii se socotesc raționali.
 filocalia1antonie1B=>Însă pe nedrept, căci nu sînt raționali.
 filocalia1antonie1C=>Unii au învățat cuvintele și cărțile vechilor înțelepți.

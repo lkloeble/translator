@@ -81,6 +81,7 @@ bun@adj%adj
 bunic@masc%ul
 cadr@masc%ul
 cafea@fem%cafea
+cal@fem%berea
 cain@masc%caine
 cart@fem%frate
 ciin@masc%caine
@@ -155,6 +156,7 @@ curs@masc%ul
 dadac@fem%fem
 dan@neut%inv
 dat@adj%adjts
+datat@adj%adjor
 deosebire@fem%ereditate
 deosebit@adj%adj
 dependents@fem%fem
@@ -211,6 +213,7 @@ eventual@adj%adj
 exact@adj%adj
 existents@fem%fem
 exempl@masc%ul
+exteri@adj%adjor
 extraordinar@adj%adj
 factor@masc%ul
 famili@fem%fem
@@ -295,11 +298,12 @@ intreg@adj%adj
 intseleasa@adj%inv
 intim@adj%adj
 intimplat@neut%inv
+intins@adj%adj
 intretsinut@adj%adj
 intunecare@neut%inv
 intunecat@adj%adj
 invatsat@adj%adjts
-invatsatur@fem%fem
+invatsatur@fem%femi
 invers@neut%inv
 ion@masc%inv
 ionescu@masc%inv
@@ -313,6 +317,7 @@ jug@masc%ul
 jumatate@fem%inv
 jurul@masc%inv
 kilogram@neut%cafea
+lac@masc%ul
 larg@adj%adj
 lasa@fem%inv
 latin@adj%adj
@@ -339,6 +344,7 @@ macrocosmos@masc%ul
 magazin@neut%inv
 mal@masc%ul
 mam@fem%fem
+mainile@neut%inv
 manuscris@neut%inv
 mar@fem%berea
 mare@neut%inv
@@ -348,6 +354,7 @@ marturi@fem%ratsiune
 marturisitor@masc%ul
 mas@fem%fem
 masin@fem%fem
+masur@fem%fem
 matus@fem%fem
 maxim@masc%inv
 medic@masc%ul
@@ -373,6 +380,7 @@ mod@masc%ul
 modest@adj%adj
 monah@masc%ul
 monotoni@fem%fem
+moral@adj%adj
 morcov@masc%ul
 mort@adj%adjts
 momeal@fem%fem
@@ -431,6 +439,7 @@ padur@fem%berea
 pahar@masc%ul
 palid@adj%adj
 palmier@masc%ul
+pamant@masc%ul
 papus@fem%tigara
 parasit@adj%adj
 parc@neut%inv
@@ -486,9 +495,11 @@ propri@adj%adj
 produs@masc%ul
 punct@masc%ul
 pur@adj%adj
+purtar@fem%berea
 pusti@fem%ratsiune
 puter@fem%berea
 puternic@adj%adj
+radacin@fem%fem
 radu@neut%inv
 ragusit@adj%adj
 ras@fem%fem
@@ -629,6 +640,7 @@ umor@masc%ul
 un@adj%adj
 unchi@masc%ul
 unic@adj%adj
+unitat@fem%berea
 urgi@fem%fem
 urias@masc%ul
 urm@fem%fem

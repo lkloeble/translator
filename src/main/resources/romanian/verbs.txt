@@ -1,6 +1,7 @@
 adorm,,[dorm]
 aduc,,[face],(PAP*aducut*adus*0)
 afirm,,[incerca]
+afl,,[intampla]
 ajung,,[merg],(AII*ajung*ajunge*0)
 ajut,,[cauta]
 alerg,,[merg]

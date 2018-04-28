@@ -28,3 +28,4 @@ doctor%doctor.txt
 capul%capul.txt
 pacatos%pacatos.txt
 esc%bisericesc.txt
+adjor%exterior.txt
