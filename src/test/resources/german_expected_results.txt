@@ -283,6 +283,10 @@ strackp3notB36=>ceci concerne aussi bien pour le prosélyte(s) que aussi pour af
 strackp3notB37=>r. jose ( b. chalafta, autour 150 ) disait : aussi quand un prosélyte un(e)@un(s)@ prosélyte dans épouse, est son fille(e) apte pour la prêtrise.
 strackp3notB38=>semblable bikkurim 1, 5.
 
+strackp3notC1=>mid 5, 4 : là ( dans le (des) rectangle(s) halle, cf schurer 2, 211 ) avait habitude le grand(e)@grand(s)@ sanhédrin israël s
+strackp3notC2=>son réunion(s)(e) vers tenir et. la prêtrise ( à son aptitude(e) pour sacerdoce ) vers évaluent/évaluer.
+strackp3notC3=>tos sanh 7, 1 ( 425 ) chag 2, 9 ( 235 ) : là ( dans le (des) rectangle(s) halle ) s'assirent elle et. examinèrent la lignée(e) le prêtrise et. la le lévit(isme).
+strackp3notC4=>foobar
 
 genesis1A=>au commencement créa dieu (des) ciel(s) et terre(e).
 genesis1B=>et la terre(e) était informe et vide, et cela était obscurité au dessus de le profonde(e)@profonde(s)@profondeur@; et le esprit de dieu plana/planait au dessus de du eau.
@@ -451,8 +455,11 @@ nietzscheBookGTversuchCha4C'=>Un point fondamental est la mesure de subjectivit�
 nietzscheBookGTversuchCha4C=>un(e)@un(s)@ raison question(e) est le relation(e) du grec(s)(e) pour douleur, son@être@ degré de sensibilité, – resta relation(e) de la se égal ? ou tourna cela se autour ?
 nietzscheBookGTversuchCha4D'=>— cette question de savoir si son toujours grandissant désir de beauté, de fêtes, de réjouissances, de cultes nouveaux, n’est pas fait de détresse, de misère, de mélancolie, de douleur ?
 nietzscheBookGTversuchCha4D=>– ce(e)@ce(s)@ question(e), sur vraiment son@être@ toujours plus fort demandent/demander à beauté(e), à (du) solide@solide@solide(s)(e)@étendue(s)(e)@, réjouissance(s)(e), nouveau(e)@nouveau(s)@ culte(s) après de manque, de privation(e), de mélancolie, de douleur grandir/grandissent est ?
-nietzscheBookGTversuchCha4E=>Et en supposant que ce fût vrai — et Périclès (ou Thucydide) le donne à entendre dans la grande oraison funèbre — :
-nietzscheBookGTversuchCha4F=>d’où viendrait alors la tendance contraire et chronologiquement antérieure, le besoin de l’horrible, la sincère et âpre inclination des premiers Hellènes pour le pessimisme, le mythe tragique, la représentation de tout ce qu’il y a de terreur, de cruauté, de mystère, de néant, de fatalité au fond des choses de la vie,
+nietzscheBookGTversuchCha4E'=>Et en supposant que ce fût vrai — et Périclès (ou Thucydide) le donne à entendre dans la grande oraison funèbre — :
+nietzscheBookGTversuchCha4E=>posé précisément, maintenant marchandise(e) de la vrai – et Périclès ( ou thucydide ) il y a nous dans le (du) grand@grand@grand(s)(e)@ cadavre(s)(e) disais/dit vers comprendre/comprennent :
+nietzscheBookGTversuchCha4F1=>d’où viendrait alors la tendance contraire et chronologiquement antérieure, le besoin de l’horrible, la sincère et âpre inclination des premiers Hellènes pour le pessimisme, le mythe tragique, la représentation de tout ce qu’il y a de terreur, de cruauté, de mystère, de néant, de fatalité au fond des choses de la vie,
+nietzscheBookGTversuchCha4F2=>d’où viendrait alors la tendance contraire et chronologiquement antérieure, le besoin de l’horrible, la sincère et âpre inclination des premiers Hellènes pour le pessimisme, le mythe tragique, la représentation de tout ce qu’il y a de terreur, de cruauté, de mystère, de néant, de fatalité au fond des choses de la vie,
+nietzscheBookGTversuchCha4F3=>d’où viendrait alors la tendance contraire et chronologiquement antérieure, le besoin de l’horrible, la sincère et âpre inclination des premiers Hellènes pour le pessimisme, le mythe tragique, la représentation de tout ce qu’il y a de terreur, de cruauté, de mystère, de néant, de fatalité au fond des choses de la vie,
 nietzscheBookGTversuchCha4G=>— d’où viendrait alors la tragédie ?
 nietzscheBookGTversuchCha4H=>Peut-être de la joie, de la force, de la santé exubérante, de l’excès de vitalité ?
 nietzscheBookGTversuchCha4I=>Et quelle signification prend alors, physiologiquement parlant, ce délire particulier, qui fut la source de l’art tragique aussi bien que de l’art comique, le délire dionysiaque ? Quoi ?

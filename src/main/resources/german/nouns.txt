@@ -406,6 +406,7 @@ grundsatz@masc%jahrzehnt
 gulasch@neut%inv
 gut@adj%mein
 halb@adj%inv
+halle@fem%inv
 hallo@neut%inv
 hand@fem%rest
 hang@masc%reis
@@ -563,6 +564,7 @@ legitim@adj%ausreichend
 legitimitat@fem%inv
 lehr@neut%inv
 leiblichen@adj%mein
+leiche@fem%flasche
 leicht@adj%ausreichend
 leiden@neut%inv[ablsg:leidens]
 leider@neut%inv
@@ -573,6 +575,7 @@ letztgultig@adj%ausreichend
 leute@fem%flasche
 levirat@neut%inv
 levit@neut%meinmasc
+levitenschaft@neut%inv
 licht@fem%licht
 liebling@adj%rest
 limonade@neut%inv
@@ -612,6 +615,7 @@ melancholie@neut%inv
 mensch@masc%meinmasc
 metaphysik@neut%inv
 metaphysisch@adj%ausreichend
+mid@neut%inv
 midrasch@masc%meinmasc
 mild@adj%mein
 mineral@adj%norm
@@ -711,6 +715,7 @@ paulus@masc%inv
 pause@fem%inv
 personlich@adj%ausreichend
 peinlich@adj%ausreichend
+perikles@neut%inv
 pessimismus@neut%inv
 peter@neut%inv
 petrus@masc%inv
@@ -728,6 +733,7 @@ portrat@neut%meinmasc
 post@neut%inv
 praktisch@adj%norm
 priester@masc%zeichen
+priesteramt@neut%inv
 priesterschaft@neut%inv
 priesterlich@adj%ausreichend
 priesterstand@neut%inv
@@ -744,6 +750,7 @@ pseudepigraphe@fem%flasche
 psychologisch@adj%ausreichend
 punktlich@neut%inv
 qid@neut%inv
+quader@neut%arbeiter
 qual@fem%meinfem
 qualitat@fem%meinfem
 r@neut%inv
@@ -846,6 +853,7 @@ singer@masc%masc
 siphra@neut%inv
 sittenlehre@fem%flasche
 situation@fem%norm
+sitzung@fem%meinfem
 sklave@neut%flasche
 sklavin@fem%sangerin
 smarkt@neut%inv
@@ -900,6 +908,7 @@ tapferst@adj%ausreichend
 tat@neut%inv
 tatigkeit@fem%meinfem
 tauglich@adj%ausreichend
+tauglichkeit@fem%meinfem
 technik@fem%meinfem
 tee@neut%inv
 teig@masc%jahrzehnt
@@ -914,6 +923,7 @@ teuer@neut%inv
 teufel@neut%inv
 theologie@fem%inv
 theoretisch@adj%ausreichend
+thukydides@neut%inv
 tief@adj%ausreichend
 tiefst@adj%ausreichend
 tiefe@fem%norm
@@ -923,6 +933,7 @@ tipp@masc%tipp!agenitive
 tochter@fem%invfem[genplr:tochtern]
 tomate@fem%flasche
 tora@neut%inv
+tos@neut%inv
 tosephta@neut%inv
 tot@neut%inv
 tragisch@adj%ausreichend

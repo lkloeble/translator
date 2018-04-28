@@ -48,6 +48,7 @@ bestatig,en,[leben]
 bestell,en,[leben]
 betracht,en,[mochten]
 beug,en,[leben]
+beurteil,en,[leben]
 beweis,en,[genesen],(AII*beweis*bewies*0)
 bewund,ern,[fordern]
 bezahl,en,[leben]
@@ -178,6 +179,7 @@ nehm,en,[leben],(IPR12*nehm*nimm*0@AIP*nehm*nahm*0)
 nenn,en,[leben],(AII*nenn*nann*0)
 pass,en,[leben]
 pflanz,en,[pflanzen]
+pfleg,en,[leben]
 plan,en,[leben],(PAP*plan*geplant*0)
 profanier,en,[leben],(PAP*profanier*profaniert*0)
 pruf,en,[leben],(PAP*pruf*gepruft*0)

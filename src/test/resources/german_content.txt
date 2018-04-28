@@ -317,9 +317,9 @@ strackp3notB36=>das gilt@1 sowohl für den proselyten als auch für freigelassen
 strackp3notB37=>R. Jose (b. |Chalafta|, um 150) sagte : auch wenn ein proselyt eine proselytin heiratet, ist seine tochter tauglich für die priesterschaft.
 strackp3notB38=>Ähnlich bikkurim 1,5.
 
-strackp3notC1=>Mid 5,4 : Dort (in der Quaderhalle, vgl Schürer 2,211) pflegte das große Synderium Israels
+strackp3notC1=>Mid 5,4 : Dort (in der Quaderhalle, vgl |Schürer| 2,211) pflegte das große Synedrium Israels
 strackp3notC2=>seine Sitzungen zu halten u. die Priesterschaft (nach ihrer tauglichkeit zum priesteramt) zu beurteilen. ||
-strackp3notC3=>Tos Sanh 7,1 (425) Chag 2,9 (235) : dort (in der Quaderhalle) saßen sie u. prüften die abstammung der priesterschaft u. die der levitenschaft.
+strackp3notC3=>Tos Sanh 7,1 (425) |Chag| 2,9 (235) : dort (in der Quaderhalle) saßen sie u. prüften die abstammung der priesterschaft u. die der levitenschaft.
 strackp3notC4=>Ähnlich Qid 76B. über die prüfungsnormen s. Qid 4,4 (S.2).
 
 genesis1A=>Am Anfang@n schuf Gott Himmel und Erde.
@@ -438,8 +438,10 @@ nietzscheBookGTversuchCha4A=>Ja, was ist dionysisch ? – In diesem Buche steht 
 nietzscheBookGTversuchCha4B=>Vielleicht würde ich jetzt vorsichtiger und weniger beredt von einer so schweren psychologischen Frage reden, wie sie der Ursprung der Tragödie bei den Griechen ist.
 nietzscheBookGTversuchCha4C=>Eine Grundfrage ist das Verhältnis des Griechen zum Schmerz, sein Grad von Sensibilität, – blieb dies Verhältnis sich gleich ? oder drehte es sich um ?
 nietzscheBookGTversuchCha4D=>– jene Frage, ob wirklich sein immer stärkeres Verlangen nach Schönheit, nach Festen, Lustbarkeiten, neuen Kulten aus Mangel, aus Entbehrung, aus Melancholie, aus Schmerz erwachsen ist ?
-nietzscheBookGTversuchCha4E=>Gesetzt nämlich, gerade dies wäre wahr – und Perikles (oder Thukydides) gibt es uns in der großen Leichenrede zu verstehen –:
-nietzscheBookGTversuchCha4F=>woher müßte dann das entgegengesetzte Verlangen, das der Zeit nach früher hervortrat, stammen, das Verlangen nach dem Häßlichen,[12] der gute strenge Wille des älteren Hellenen zum Pessimismus, zum tragischen Mythus, zum Bilde alles Furchtbaren, Bösen, Rätselhaften, Vernichtenden, Verhängnisvollen auf dem Grunde des Daseins,
+nietzscheBookGTversuchCha4E=>Gesetzt nämlich, gerade dies wäre wahr – und Perikles (oder Thukydides) gibt es uns in der großen Leichenrede zu verstehen :
+nietzscheBookGTversuchCha4F1=>woher müßte dann das entgegengesetzte Verlangen, das der Zeit nach früher hervortrat, stammen, das Verlangen nach dem Häßlichen,
+nietzscheBookGTversuchCha4F2=>der gute strenge Wille des älteren Hellenen zum Pessimismus, zum tragischen Mythus, zum Bilde alles Furchtbaren,
+nietzscheBookGTversuchCha4F3=>Bösen, Rätselhaften, Vernichtenden, Verhängnisvollen auf dem Grunde des Daseins,
 nietzscheBookGTversuchCha4G=>– woher müßte dann die Tragödie stammen?
 nietzscheBookGTversuchCha4H=>Vielleicht aus der Lust, aus der Kraft, aus überströmender Gesundheit, aus übergroßer Fülle?
 nietzscheBookGTversuchCha4I=>Und welche Bedeutung hat dann, physiologisch gefragt, jener Wahnsinn, aus dem die tragische wie die komische Kunst erwuchs, der dionysische Wahnsinn? Wie?
