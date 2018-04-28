@@ -27,3 +27,4 @@ treaba%treaba.txt
 doctor%doctor.txt
 capul%capul.txt
 pacatos%pacatos.txt
+esc%bisericesc.txt

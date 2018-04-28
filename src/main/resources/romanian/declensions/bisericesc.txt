@@ -1,0 +1,2 @@
+nom%sing%neut%esc
+nom%plr%neut%esti

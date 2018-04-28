@@ -472,10 +472,18 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("strackp3notB36", translatorBridge);
         checkInMaps("strackp3notB37", translatorBridge);
         checkInMaps("strackp3notB38", translatorBridge);
-
     }
 
     @Test
+    public void test_talmud_help_strackp3notC() {
+        checkInMaps("strackp3notC1", translatorBridge);
+        checkInMaps("strackp3notC2", translatorBridge);
+        checkInMaps("strackp3notC3", translatorBridge);
+        checkInMaps("strackp3notC4", translatorBridge);
+    }
+
+
+        @Test
     public void test_genesis_chapter1() {
         checkInMaps("genesis1A", translatorBridge);
         checkInMaps("genesis1B", translatorBridge);

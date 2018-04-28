@@ -64,6 +64,7 @@ ber@fem%berea
 biblic@adj%adj
 bine@neut%inv
 biseric@fem%fem
+biseric@adj%esc
 blocat@adj%adj
 blond@adj%adj
 boal@fem%fem
@@ -334,6 +335,7 @@ lumin@fem%fem
 lun@fem%fem
 lup@masc%ul
 m@neut%inv
+macrocosmos@masc%ul
 magazin@neut%inv
 mal@masc%ul
 mam@fem%fem
@@ -354,6 +356,7 @@ menit@adj%adj
 mentsinut@adj%adjts
 mersi@neut%inv
 mic@adj%adj
+microcosm@masc%ul
 miere@masc%ul
 mihai@neut%inv
 mijloc@masc%ul

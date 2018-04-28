@@ -317,6 +317,11 @@ strackp3notB36=>das gilt@1 sowohl für den proselyten als auch für freigelassen
 strackp3notB37=>R. Jose (b. |Chalafta|, um 150) sagte : auch wenn ein proselyt eine proselytin heiratet, ist seine tochter tauglich für die priesterschaft.
 strackp3notB38=>Ähnlich bikkurim 1,5.
 
+strackp3notC1=>Mid 5,4 : Dort (in der Quaderhalle, vgl Schürer 2,211) pflegte das große Synderium Israels
+strackp3notC2=>seine Sitzungen zu halten u. die Priesterschaft (nach ihrer tauglichkeit zum priesteramt) zu beurteilen. ||
+strackp3notC3=>Tos Sanh 7,1 (425) Chag 2,9 (235) : dort (in der Quaderhalle) saßen sie u. prüften die abstammung der priesterschaft u. die der levitenschaft.
+strackp3notC4=>Ähnlich Qid 76B. über die prüfungsnormen s. Qid 4,4 (S.2).
+
 genesis1A=>Am Anfang@n schuf Gott Himmel und Erde.
 genesis1B=>Und die Erde war wüst und leer, und es war finster auf der Tiefe; und der Geist Gottes schwebte auf dem Wasser.
 genesis1C=>Und Gott sprach : Es werde Licht ! und es ward Licht.

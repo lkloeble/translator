@@ -709,5 +709,49 @@ lightfoot_ch4SS=>And of the river of |Amanah|, of which the |Aruch| speaks, ment
 lightfoot_ch4TT=>"they that dwell upon the river |Amanah|, shall offer thee a gift" etc.
 
 
+lightfoot_ch5A01=>The sea of Sodom ים המלח
+lightfoot_ch5A02=>The bounds of Judea, on both sides, are the sea; the western bound is the Mediterranean, --
+lightfoot_ch5A03=>the eastern, the Dead sea, or the sea of Sodom. This the Jewish writers every where call ים המלח,
+lightfoot_ch5A04=>which you may not so properly interpret here, "the salt sea," as "the bituminous sea."
+lightfoot_ch5A05=>In which sense מלח סדומית word for word, "Sodom's salt," but properly "Sodom's bitumen," doth very frequently occur among them.
+lightfoot_ch5A06=>The use of it was in the holy incense. They mingled מלח סדומית 'bitumen,' כפת הירדן 'the amber of Jordan,'
+lightfoot_ch5A07=>and מעלת עשר [an herb known to few], with the spices that made that incense.
+lightfoot_ch5A08=>‘ασφλττιτις λιμνη απεχει των ιεροσολυμιτων ορων σταδιους τ' "The lake Asphaltitis is distant from Jerusalem three hundred furlongs":
+lightfoot_ch5A09=>-- about eight-and-thirty miles.
+lightfoot_ch5A10=>ταυτης της λιμνης μηκος μεν ογδοηκοντα και πεντακοσιοι σταδιοι "It is extended in length five hundred and eighty furlongs";
+lightfoot_ch5A11=>seventy-two miles. -- ευρος δε πεντηκοντα και εκατον  "In breadth a hundred and fifty furlongs"; eighteen miles.
+lightfoot_ch5A12=>Pliny speaks thus of it: "In length it is more than a hundred miles: in its greatest breadth, it makes five-and-twenty,
+lightfoot_ch5A13=>-- in its least, six." What agreement is there between these two? I suppose Josephus does not comprehend within his measure the tongue of the sea,
+lightfoot_ch5A14=>of which mention is made, Joshua 15:2 -- and defines the breadth, as it was generally every where diffused.
+lightfoot_ch5A15=>Concerning its distance from Jerusalem, Solinus also speaks: "In a long retreat from Jerusalem (saith he) a sad bay openeth itself;
+lightfoot_ch5A16=>which that it was struck from heaven, the ground, black and dissolved into ashes, testifies.
+lightfoot_ch5A17=>There were two towns there, one named Sodom, the other Gomorrha."
+lightfoot_ch5A18=>But that distance was not directly southward, but by a very long declination eastward.
+lightfoot_ch5A19=>The Talmudists devote "to the sea of Sodom," לים המלח any thing, that is destined to rejection and cursing, and that by no means is to be used.
+lightfoot_ch5A20=>יוליך הנייה לים המלח "Let him devote the use of such a thing to the bituminous sea."
+lightfoot_ch5A21=>"Let the price of an oblation for sin, the owner whereof is dead, depart לים המלח into the salt sea."
+lightfoot_ch5A22=>עקילס הגר "The proselyte Aquila divided the inheritance with his brother a Gentile, and devoted the use and benefit of it to the salt sea.
+lightfoot_ch5A23=>Of three doctors one saith, That he devoted the moneys of idolatry into the salt sea."
+lightfoot_ch5A24=>Hence is that allusion, Revelation 20:14, "And death and hell were cast into the lake of fire."
+lightfoot_ch5A25=>It doth not please me, that Sodom, in the maps, is placed in the northern bounds of the Asphaltites;
+lightfoot_ch5A26=>when it seems rather to be placed in the southern extremity of it. For,
+lightfoot_ch5A27=>I. The bounds of the land are thus defined by Moses, Genesis 10:19: "The borders of the Canaanites were from Sidon" (on the north)
+lightfoot_ch5A28=>"unto Gaza" (on the south), "as thou goest forward, or until thou comest to Sodom."
+lightfoot_ch5A29=>Are not the bounds here bent from Gaza to the farthest term opposite to it on the east?
+lightfoot_ch5A30=>II. Josephus, in the description of the Asphaltites, which we quoted a little above, hath these words:
+lightfoot_ch5A31=>"The length of it is five hundred and eighty furlongs : καθο δη μεχρι  ζοαρων της αραβιας εκτεινεται and it is stretched out as far as Zoar of Arabia."
+lightfoot_ch5A32=>Note, that the farthest coast of the extension of it southward, is to Zoar.
+lightfoot_ch5A33=>ut now Zoar was not far distant from Sodom, when Lot, with his company, got thither before the rising of the sun, Genesis 19:23.
+lightfoot_ch5A34=>"It is written (say the Gemarists), 'The sun was risen upon the earth, when Lot entered into Sodom.' -- Now Sodom was four miles from Zoar."
+lightfoot_ch5A35=>The maps show you Zoar and Lot's Cave in Judea, at the northern coast almost of the Asphaltites: -- by what authority, I do not apprehend.
+lightfoot_ch5A36=>The Talmudists, indeed, do mention a certain Zoar, which they also call, "The City of Palms."
+lightfoot_ch5A37=>-- "There is a story (say they) of some Levites, who travelled to Zoar, the city of palms:
+lightfoot_ch5A38=>and one of them fell sick, whom they brought to an inn, and there he died."
+lightfoot_ch5A39=>But I should sooner believe, that there were two Zoars, than I should believe,
+lightfoot_ch5A40=>that the father of the Moabites were not conceived and born near Zoar of the land of Moab. See Isaiah 15:5.
+lightfoot_ch5A41=>Concerning the age of Sodom, when it perished, see the places in the margin, and weigh them well.
+
+lightfootbase=>http://biblehub.com/library/lightfoot/from_the_talmud_and_hebraica/index.html
+
 toto=>to accompany Solomon's fleet.
 
