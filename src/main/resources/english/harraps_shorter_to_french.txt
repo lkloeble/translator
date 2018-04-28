@@ -353,6 +353,7 @@ date@noun!normmasc%1(noun)=date
 daughter@noun!normmasc%1(noun)=fille
 david@noun!invmasc%1(noun)=david
 day@noun!normmasc%1(noun)=jour
+dead@noun!invmasc%1(noun)=mort
 dear@noun!invmasc%1(noun)=cher
 death@noun!church%1(fem)=mort
 deceit@noun!invfem%1(noun)=tromperie
@@ -431,6 +432,7 @@ earnest@noun!invmasc%1(noun)=fervent%2(noun)=sérieux
 earth@noun!invfem%1(noun)=terre
 easily@prep%1(prep)=facilement
 east@noun!invmasc%1(noun)=est
+eastern@noun!invmasc%1(noun)=oriental
 eastward@noun!invmasc%1(noun)=en direction
 easy@noun!invmasc%1(noun)=facile
 eat@verb!norm%1(verb)=manger

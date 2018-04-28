@@ -233,6 +233,7 @@ date@neut%normmasc
 daughter@fem%normfem
 david@masc%invmasc
 day@masc%normmasc
+dead@adj%invmasc
 dear@adj%invmasc
 death@fem%church
 deceit@fem%invfem
@@ -283,6 +284,7 @@ earnest@adj%invmasc
 earth@fem%invfem
 east@neut%invmasc
 easy@neut%invmasc
+eastern@neut%invmasc
 eastward@neut%invmasc
 eden@neut%invmasc
 edition@fem%normfem
