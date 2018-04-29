@@ -723,8 +723,8 @@ patrologiacaput2U=>écrivaient (au) vrai@(par) vrai@mais@ un@un(s)@ (des) un(s)@
 patrologiacaput2V=>voyage(s), danger(s), travail(s), lutte(s), souffrance(s)(e), supplice(s), et tous(s) leur (du) martyr acte.
 patrologiacaput2W=>(au) un(e) établi(e)@établi(s)@ et canon(s), en provenance de apotre(s) et leur (aux) successeur(s) vers doctrine(s)(e) explication(e), et idée(e) (des) manière(s)(e) rendu saint(e)@rendu saint(s)@, (aux) ecrit(s) abandonnaient;
 patrologiacaput2X=>un@un(s)@ donnez@donné@donné(s)@donné(s)(e)@ vers quelques uns chrétien(s), ou eveque(s), ou église(s)(e) (aux) lettre(s)(e), celui la(s) enflammaient vers (des) tyran(s) persécution(s)(e) le plus patient toléré(s)(e);
-patrologiacaput2Y=>foo
-patrologiacaput2Z=>foo
+patrologiacaput2Y=>ou plus lourd(s)@plus lourd(s)(e)@ quelques uns péché(s), ou naissant(s)@naissant(s)(e)@ et plus pressé(s) consommé punition paternel(e)@paternel(s)@ enfermaient, et corrigeaient.
+patrologiacaput2Z=>(au) un(e)@(du) un@autre@un@un(s)@ finalement ne plus simple@plus simple(s)@plus simple(s)(e)@ quelques uns âme(s) furent corrompus, dans pervers(s)(e) doctrine(s)(e), et erreur(s) néfaste(s), et naissant(s)@naissant(s)(e)@ hérésie(s) stylo tournèrent
 
 genese1A=>dans commencement créa dieu ciel et terre(e)
 genese1B=>terre(e) or était (du) vide@vide@vide(e)@ et desert(e)@desert(s)@ et tenebre(s)(e) sur face (du) abime et souffle (du) dieu est porté sur eau(s)(e)

@@ -45,6 +45,7 @@ cess,o,as,are,,,[o-as]
 circu,eo,is,ire,,,[eo-is]
 circumspic,io,is,ere,,,[io-is],(AIP*circumspic*circumspex*0)
 coem,o,is,ere,,,[o-is]
+coerc,eo,es,ere,,,[eo-es]
 cog,o,is,ere,,,[o-is],(AIP*cog*coeg*0)
 collaud,o,as,are,avi,atum,[o-as]
 comme,o,as,are,avi,atum,[o-as]
@@ -69,6 +70,7 @@ conting,o,is,ere,,,[o-is],(AIPP*conting*contig*0)
 conven,io,is,ire,veni,ventum,[io-is]
 convinc,o,is,ere,,,[o-is]
 corrig,o,is,ere,,,[o-is]
+corrump,o,is,ere,,,[o-is]
 cre,o,as,are,avi,atum,[o-as]
 crem,o,as,are,avi,atum,[o-as],(PSI*crem*cremar*0)
 cresc,o,is,ere,,,[o-is]
@@ -273,6 +275,7 @@ ven,io,is,ire,veni,ventum,[io-is]
 verber,o,as,are,,,[o-as]
 vere,or,ris,re,,,[or-ris]
 verg,o,is,ere,,,[o-is],(AIP*verg*xxxxx*0)
+vert,o,is,ere,,,[o-is]
 vesc,or,eris,ere,,,[or-eris]
 vid,eo,es,ere,foo,bar,[eo-es2],(PSP*vid*visus*0@AIFP*vidue*vide*0)
 vinc,o,is,ere,,,[o-is],(AIP*vinc*vic*0)

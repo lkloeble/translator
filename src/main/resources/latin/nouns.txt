@@ -1,6 +1,7 @@
 abject@adj%us-a-um
 abominand@adj%us-a-um
 abrogat@adj%us-a-um
+abus@adj%us-a-um
 abyss@masc%us-i
 accept@adj%us-a-um
 accurat@adj%us-a-um
@@ -116,6 +117,7 @@ carmin@neut%um-i
 carn@fem%o-nis
 caro@fem%inv
 carr@masc%us-i
+castigatio@fem%x-nis
 catholic@adj%us-a-um
 caus@fem%a-ae
 celerit@fem%as-atis
@@ -248,6 +250,7 @@ enuntiat@adj%us-a-um
 episcop@masc%us-i
 epistol@fem%a-ae
 equ@masc%us-i
+error@masc%x-is2
 esc@fem%a-ae
 ev@fem%a-ae
 euboe@fem%a-ae
@@ -325,9 +328,11 @@ graec@adj%us-a-um
 grand@adj%is-is-e
 grati@fem%a-ae
 grat@adj%us-a-um
+gravi@adj%or-or-us
 gustati@fem%o-onis
 gutt@fem%a-ae
 haben@adj%s-tis
+haeres@fem%is-is
 hebrae@adj%us-a-um
 helveti@adj%us-a-um
 herb@fem%a-ae
@@ -385,6 +390,7 @@ invictissim@adj%us-a-um
 ips@adj%e-a-um
 ipsimet@neut%inv
 irat@adj%us-a-um
+irruen@adj%s-s-s
 itali@fem%a-ae
 itin@neut%us-eris[nomsing:iter,accsing:iter]
 iucund@adj%us-a-um
@@ -510,6 +516,7 @@ nat@masc%us-us
 natur@fem%a-ae
 nax@masc%us-i
 nazaren@masc%us-i
+nefari@adj%us-a-um
 nerv@masc%us-i
 nil@masc%us-i
 nimi@adj%us-a-um
@@ -569,6 +576,7 @@ pass@masc%us-us
 passion@fem%o-nis
 pastor@masc%x-is
 pat@masc%er-ris
+patern@adj%us-a-um
 patientissim@adj%us-a-um
 pauc@adj%us-a-um
 paucissim@adj%us-a-um
@@ -585,6 +593,7 @@ permot@adj%us-a-um
 perpetu@adj%us-a-um
 persecuti@fem%o-onis
 persuas@adj%us-a-um
+pervers@adj%us-a-um
 petr@masc%us-i
 pi@adj%us-a-um
 pil@fem%a-ae
@@ -716,6 +725,7 @@ sicili@fem%a-ae
 sign@masc%um-i
 silenti@neut%um-i
 similitud@fem%o-inis
+simplici@adj%or-or-us
 singul@adj%us-a-um
 soci@adj%us-a-um
 sol@adj%us-a-um
@@ -731,6 +741,7 @@ spuri@adj%us-a-um
 statut@adj%us-a-um
 stell@fem%a-ae
 stil@masc%us-i
+styl@masc%us-i
 studi@neut%um-i
 suav@adj%is-is-e
 successor@masc%x-is2

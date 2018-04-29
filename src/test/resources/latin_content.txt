@@ -786,7 +786,7 @@ patrologiacaput2V=>itinera, pericula, labores@N, certamina, passiones, supplicia
 patrologiacaput2W=>alii statuta et canones, ab apostolis eorumque successoribus ad doctrinae explicationem, informationemque morum sancita, scriptis tradebant;
 patrologiacaput2X=>alii datis ad quosdam christianos, aut episcopos, aut ecclesias litteris, illos accendebant ad tyrannorum persecutiones patientissime tolerandas;
 patrologiacaput2Y=>vel graviora quorumdam peccata, vel nascentes jamque irruentes abusus castigatione paterna coercebant, corrigebantque.
-patrologiacaput2Z=>alli denique ne simpliciores quorumdam animi corrumperentur, in perversas doctrinas, erroresque nefarios, ac nascentes haereses stylum verterunt
+patrologiacaput2Z=>alii denique ne simpliciores quorumdam animi corrumperentur, in perversas doctrinas, erroresque nefarios, ac nascentes haereses stylum verterunt
 
 patrologiacaput3A01=>De haeresum primi saeculi ortu, progressu, et interitu, earumque expugnatoribus ;
 patrologiacaput3A02=>ac primum de haeresi Simonis Magi.

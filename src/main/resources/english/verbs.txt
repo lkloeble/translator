@@ -182,6 +182,7 @@ must,[live]
 neglect,[call]
 note,[live]
 observe,[live],(PAPR*observe*observ*0)
+occur,[call]
 offer,[live]
 open,[call]
 operate,[live],(PAPR*operateing*operating*0)

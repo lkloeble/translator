@@ -3,6 +3,7 @@ ab@prep%1(prep + abl)=de (avec point de départ et idee de mouvement)%2(prep + a
 abject@adj!us-a-um%1(adj)=rejetté
 abominand@adj!us-a-um%1(adj)=détesté
 abrogat@adj!us-a-um%1(adj)=abrogé
+abus@adj!us-a-um%1(adj)=détourné%2(adj)=gaspillé%3(noun)=consommé
 absolvo@verb!norm%1(verb)=delier
 abyss@noun!us-i%1(noun)=abysse,enfer%2(noun)=abime
 ac@prep%1(prep)=et
@@ -170,6 +171,7 @@ carn@noun!o-nis%1(noun)=chair
 caro@noun!inv%1(noun)=chair
 carr@noun!us-i%1(noun)=chariot
 carpo@verb!norm%1(verb)=cueillir
+castigatio@noun!x-nis%1(noun)=punition
 catholic@adj!us-a-um%1(adj)=catholique
 caus@noun!a-ae%1(noun)=chose%2(noun)=explication%3(noun)=condition%4(noun)=motif,prétexte%5(noun)=raison
 caveo@verb!norm%1(verb)=prendregarde
@@ -208,6 +210,7 @@ clemen@noun!s-tis%1(noun)=clément
 cler@noun!us-i%1(noun)=clergé
 coct@adj!us-a-um%1(noun)=roti%2(noun)=cuisiné
 coemo@verb!norm%1(verb)=acheter
+coerceo@verb!norm%1(verb)=entourer%2(verb)=enfermer
 cogo@verb!norm%1(verb)=reunir
 collaudo@verb!norm%1(verb)=prier ensemble%2(verb)=prier excessivement%3(verb)=prier collectif
 collect@noun!a-ae%1(noun)=collecte
@@ -259,6 +262,7 @@ copi@noun!a-ae%1(noun)=renfort%2(noun)=troupe
 coram@prep%1(adv)=en face, devant, en présence : <exp>coram videre</exp><trad>voir sur place (personnellement)</trad>%2(prep avec abl)= en présence de, devant : <exp>senatu coram</exp><trad>devant le sénat</trad>%3(prep)=devant
 corneli@noun!us-i%1(noun)=cornelius
 corrigo@verb!norm%1(verb)=corriger
+corrumpo@verb!norm%1(verb)=corrompre
 corsic@noun!a-ae%1(noun)=corse
 cotidian@adj!us-a-um%1(noun)=ordinaire%2(adj)=quotidien
 creat@adj!us-a-um%1(noun)=créé
@@ -404,6 +408,7 @@ equ@noun!us-i%1(noun)=cheval
 ergo@prep%1(prep)=parce que%2(prep)=donc
 erigo@verb!norl%1(verb)=stimuler%2(verb)=construire,ériger%3(verb)=elever
 eripio@verb!norl%1(verb)=secourir
+error@noun!x-is2%1(noun)=erreur
 erudio@verb!norl%1(verb)=cultiver%2(verb)=eduquer%3(verb)=instruire
 esc@noun!a-ae%1(noun)=nourriture
 et@prep%1(prep)=et
@@ -514,6 +519,7 @@ graec@adj!us-a-um%1(adj)=grec
 grand@adj!is-is-e%1(adj)=grand
 grati@noun!a-ae%1(noun)=faveur,complaisance%2(noun)=reconnaissance,gratitude%3(noun)=faveur d'autrui,popularite,credit%4(noun)=charme%5(noun)=faveur divine,grace%6(noun)=grace
 grat@adj!us-a-um%1(adj)=plaisant%2(adj)=agréable
+gravi@adj!or-or-us%1(adj)=plus lourd
 guberno@verb!norm%1(verb)=gerer%2(verb)=piloter%3(verb)=gouverner
 gustati@noun!o-onis%1(noun)=hors d'oeuvre
 gutt@noun!a-ae%1(noun)=goutte
@@ -521,6 +527,7 @@ habeo@verb!norm%1(noun)=posséder%2(noun)=retenir%3(noun)=conduire%4(noun)=prés
 haben@adj!s-tis%1(adj)=portant%2(adj)=possédant%3(adj)=ayant
 habito@verb!norm%1(verb)=habiter
 hac@prep%1(prep)=cette
+haeres@noun!is-is%1(noun)=hérésie
 hebrae@adj!us-a-um%1(adj)=judeen%2(adj)=hebreu
 helveti@adj!us-a-um%1(adj)=helvète
 herb@noun!a-ae%1(noun)=herbe
@@ -630,6 +637,7 @@ ips@adj!e-a-um%1(adj)=lui-même
 ipsimet@noun!inv%1(noun)=opposant
 irat@noun!us-a-um%1(noun)=en colère
 ire@verb!irrg%1(verb)=aller
+irruen@adj!s-s-s%1(adj)=pressé
 isntit@prep%1(prep)=est-ce que
 istae@prep%1(prep)=celles-ci
 ita@prep%1(prep)=oui
@@ -800,6 +808,7 @@ nax@noun!us-i%1(noun)=naxos
 nazaren@noun!us-i%1(noun)=nazarénien
 ne@prep%1(prep)=ne
 nec@prep%1(prep)=non plus
+nefari@adj!us-a-um%1(adj)=néfaste
 nerv@noun!us-i%1(noun)=nerf
 nihil@prep%1(prep)=rien
 nil@noun!us-i%1(noun)=nil
@@ -886,6 +895,7 @@ pastor@noun!x-is%1(noun)=pasteur
 pateo@verb!norm%1(verb)=etreouvert
 patro@verb!norm%1(verb)=accomplir
 pat@noun!er-ris%1(noun)=père de famille,maître de maison%2(noun)=fondateur%3(noun)=vieillard%4(noun)=père
+patern@adj!us-a-um%1(adj)=paternel
 patientissim@adj!us-a-um%1(adj)=le plus patient
 pauc@adj!us-a-um%1(adj)=peu nombreux
 paucissim@adj!us-a-um%1(adj)=le moins nombreux
@@ -915,6 +925,7 @@ persuadeo@verb!norm%1(verb)=persuader
 persuas@adj!us-a-um%1(adj)=convaincu
 pertineo@verb!norm%1(verb)=être la proriété de,appartenir à%2(verb)=avoir tendance à%3(verb)=rejoindre
 pervenio@verb!norm%1(verb)=atteindre%2(verb)=arriver%3(verb)=parvenir
+pervers@adj!us-a-um%1(adj)=pervers
 petr@noun!us-i%1(noun)=Pierre
 pi@adj!us-a-um%1(adj)=aimant%2(adj)=tendre%3(adj)=saint
 pil@noun!a-ae%1(noun)=balle
@@ -1031,6 +1042,7 @@ quis@prep%1(prep)=qui
 quoniam@prep%1(prep)=puisque%2(prep)=depuis que
 quosdam@prep%1(prep)=quelques uns
 quoque@prep%1(adv)=aussi
+quorumdam@prep%1(adv)=quelques uns
 quot@prep%1(quot)=combien
 ratio@noun!x-nis%1(noun)=raison%2(noun)=explication
 recen@noun!s-tis%1(noun)=récent
@@ -1146,6 +1158,7 @@ sicili@noun!a-ae%1(noun)=sicile
 sign@noun!um-i%1(noun)=signe
 silenti@noun!um-i%1(noun)=obscurité%2(noun)=inactivité%3(noun)=silence
 similitud@noun!o-inis%1(noun)=similitude%2(noun)=ressemblance
+simplici@adj!or-or-us%1(adj)=plus simple
 sine@prep%1(prep)=sans
 singul@adj!us-a-um%1(adj)=tous%2(adj)=chaque
 soci@noun!us-a-um%1(adj)=allié%é(adj)=relié%3(adj)=associé
@@ -1168,6 +1181,7 @@ statut@adj!us-a-um%1(adj)=établi
 stell@noun!a-ae%1(noun)=planète%2(noun)=étoile
 statim@prep%1(prep)=soudain%2(prep)=immédiatement
 stil@noun!us-i%1(noun)=stylo
+styl@noun!us-i%1(noun)=stylo
 studeo@verb!norm%1(verb)=supporter%2(verb)=etudier
 studi@noun!um-i%1(noun)=zèle%2(noun)=étude
 studiose@prep%1(prep)=studieusement
@@ -1290,6 +1304,7 @@ vergo@verb!norm%1(verb)=tourner
 vero@prep%1(prep)=vraiment%2(prep)=mais
 verit@noun!as-atis%1(noun)=vérité
 vers@noun!us-us%1(noun)=verset
+verto@verb!norm%1(verb)=tourner
 vescor@verb!norm%1(verb)=senourrir
 vespere@noun!inv%1(noun)=soir
 vest@adj!er-ra-rum%1(adj)=votre
