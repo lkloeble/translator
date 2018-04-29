@@ -229,6 +229,7 @@ einleitung@fem%norm
 einzeln@adj%ausreichend
 eltern@neut%inv
 entbehrung@fem%meinfem
+entgegengesetzt@adj%ausreichend
 entweihter@masc%arbeiter
 epikurisch@adj%ausreichend
 erde@fem%flasche
@@ -413,6 +414,7 @@ hang@masc%reis
 hart@adj%ausreichend
 harte@fem%inv
 hass@masc%ort
+hasslich@adj%ausreichend
 hauptstadt@fem%flasche
 hauptwasser@neut%inv
 haus@neut%licht
@@ -686,6 +688,7 @@ neutral@adj%ausreichend
 nieder@adj%ausreichend
 niedergang@masc%arbeiter
 nihilismus@neut%inv
+norm@fem%meinfem
 notig@adj%ausreichend
 notwehr@neut%inv
 notwendig@adj%ausreichend

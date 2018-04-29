@@ -482,6 +482,15 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("strackp3notC4", translatorBridge);
     }
 
+    @Test
+    public void test_talmud_help_strackp3notD() {
+        checkInMaps("strackp3notD1", translatorBridge);
+        checkInMaps("strackp3notD2", translatorBridge);
+        checkInMaps("strackp3notD3", translatorBridge);
+        checkInMaps("strackp3notD4", translatorBridge);
+        checkInMaps("strackp3notD5", translatorBridge);
+        checkInMaps("strackp3notD6", translatorBridge);
+    }
 
         @Test
     public void test_genesis_chapter1() {
@@ -716,6 +725,6 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("strack17", translatorBridge);
+        checkInMaps("nietzscheBookGTversuchCha3F3", translatorBridge);
     }
 }

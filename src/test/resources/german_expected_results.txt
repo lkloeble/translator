@@ -286,7 +286,14 @@ strackp3notB38=>semblable bikkurim 1, 5.
 strackp3notC1=>mid 5, 4 : là ( dans le (des) rectangle(s) halle, cf schurer 2, 211 ) avait habitude le grand(e)@grand(s)@ sanhédrin israël s
 strackp3notC2=>son réunion(s)(e) vers tenir et. la prêtrise ( à son aptitude(e) pour sacerdoce ) vers évaluent/évaluer.
 strackp3notC3=>tos sanh 7, 1 ( 425 ) chag 2, 9 ( 235 ) : là ( dans le (des) rectangle(s) halle ) s'assirent elle et. examinèrent la lignée(e) le prêtrise et. la le lévit(isme).
-strackp3notC4=>foobar
+strackp3notC4=>semblable kid. b. sur la test(e) norme(s)(e) s. kid. 4, 4 ( s. 2 ).
+
+strackp3notD1=>[XXX]. [XXX]. [XXX] 1, 7 : la test(e) le ancêtre(s)(e) observons/observâmes nous pas seulement dans juif(e)@juif(s)@ (des) pays(s) soi-même,
+strackp3notD2=>mais où seulement toujours un divise (du) sexe de nos se se trouve,
+strackp3notD3=>foobar
+strackp3notD4=>foobar
+strackp3notD5=>foobar
+strackp3notD6=>foobar
 
 genesis1A=>au commencement créa dieu (des) ciel(s) et terre(e).
 genesis1B=>et la terre(e) était informe et vide, et cela était obscurité au dessus de le profonde(e)@profonde(s)@profondeur@; et le esprit de dieu plana/planait au dessus de du eau.
@@ -457,7 +464,8 @@ nietzscheBookGTversuchCha4D'=>— cette question de savoir si son toujours grand
 nietzscheBookGTversuchCha4D=>– ce(e)@ce(s)@ question(e), sur vraiment son@être@ toujours plus fort demandent/demander à beauté(e), à (du) solide@solide@solide(s)(e)@étendue(s)(e)@, réjouissance(s)(e), nouveau(e)@nouveau(s)@ culte(s) après de manque, de privation(e), de mélancolie, de douleur grandir/grandissent est ?
 nietzscheBookGTversuchCha4E'=>Et en supposant que ce fût vrai — et Périclès (ou Thucydide) le donne à entendre dans la grande oraison funèbre — :
 nietzscheBookGTversuchCha4E=>posé précisément, maintenant marchandise(e) de la vrai – et Périclès ( ou thucydide ) il y a nous dans le (du) grand@grand@grand(s)(e)@ cadavre(s)(e) disais/dit vers comprendre/comprennent :
-nietzscheBookGTversuchCha4F1=>d’où viendrait alors la tendance contraire et chronologiquement antérieure, le besoin de l’horrible, la sincère et âpre inclination des premiers Hellènes pour le pessimisme, le mythe tragique, la représentation de tout ce qu’il y a de terreur, de cruauté, de mystère, de néant, de fatalité au fond des choses de la vie,
+nietzscheBookGTversuchCha4F1'=>d’où viendrait alors la tendance contraire et chronologiquement antérieure, le besoin de l’horrible, la sincère et âpre inclination des premiers Hellènes pour le pessimisme, le mythe tragique, la représentation de tout ce qu’il y a de terreur, de cruauté, de mystère, de néant, de fatalité au fond des choses de la vie,
+nietzscheBookGTversuchCha4F1=>comment devait ensuite le opposé(e)@opposé(s)@ demandent/demander, le le temps à (des) libre(s)@(du) libre(e)@libre@ émergé, descendent/descendre, ceci demandent/demander à du (du) horrible@horrible@horrible(s)(e)@,
 nietzscheBookGTversuchCha4F2=>d’où viendrait alors la tendance contraire et chronologiquement antérieure, le besoin de l’horrible, la sincère et âpre inclination des premiers Hellènes pour le pessimisme, le mythe tragique, la représentation de tout ce qu’il y a de terreur, de cruauté, de mystère, de néant, de fatalité au fond des choses de la vie,
 nietzscheBookGTversuchCha4F3=>d’où viendrait alors la tendance contraire et chronologiquement antérieure, le besoin de l’horrible, la sincère et âpre inclination des premiers Hellènes pour le pessimisme, le mythe tragique, la représentation de tout ce qu’il y a de terreur, de cruauté, de mystère, de néant, de fatalité au fond des choses de la vie,
 nietzscheBookGTversuchCha4G=>— d’où viendrait alors la tragédie ?

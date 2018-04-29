@@ -40,6 +40,7 @@ beiwohn,en,[leben]
 bekomm,en,[rufen],(AIP*bekomm*bekam*0)
 belohn,en,[leben]
 benutz,en,[setzen]
+beobacht,en,[mochten]
 berat,en,[werden],(AIP*berate*beriet*0)
 bereit,en,[leben]
 beruh,en,[leben]
@@ -135,6 +136,7 @@ heranzuzieh,en,[leben]
 herleit,en,[mochten]
 herstamm,en,[leben]
 herrsch,en,[leben]
+hervortret,en,[leben],(PAP*hervortret*hervortrat*0)
 hinstell,en,[leben],(PAP*hinstell*hingestellt*0)
 hor,en,[leben],(PAP*hor*gehort*0)
 informier,en,[leben]
@@ -223,7 +225,7 @@ spazier,en,[leben]
 spiel,en,[leben]
 sprech,en,[rufen],(AIP*spre*spra*0@IPR12*spre*spri*0)
 stamm,en,[leben]
-stamm,eln,[sammeln]
+stammxx,eln,[sammeln]
 stark,en,[starken]
 steh,en,[stehen],(AIP*steh*stand*0)
 steig,en,[leben],(PAP*steigt*gestiegen*0)

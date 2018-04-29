@@ -37,6 +37,7 @@ public class GermanAnalyzer implements Analizer {
     @Override
     public Analysis analyze(String sentence) {
         String characterAlphaOnly = replaceGermanWithAlpha(sentence);
+        characterAlphaOnly = substituteTwinVerbs(characterAlphaOnly);
         Phrase phrase = wordSplitter.splitSentence(characterAlphaOnly, Language.GERMAN, new DefaultWordSplitterPattern());
         phrase = wordAnalyzer.affectAllPossibleInformations(phrase);
         phrase = germanNounSplitter.germanFindComposedWords(phrase);
@@ -44,6 +45,10 @@ public class GermanAnalyzer implements Analizer {
         phrase = wordAnalyzer.getPhraseChanger().modifyPhrase(phrase, null,null);
         phrase = affectInfinitive(phrase);
         return phraseAnalizer.affectAllPossibleInformationsBetweenWords(Language.GERMAN, phrase);
+    }
+
+    private String substituteTwinVerbs(String sentence) {
+        return sentence.replace("stammelt","stammxxelt");
     }
 
     private Phrase affectInfinitive(Phrase phrase) {
