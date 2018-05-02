@@ -211,6 +211,8 @@ public class HebrewPhraseChanger extends CustomLanguageRulePhraseChanger {
         for(Integer indice : indices) {
             WordContainer wordContainer = phrase.getWordContainerAtPosition(indice);
             String initialValue = wordContainer.getInitialValue();
+            if(indice == 1 && initialValue.startsWith("?")) numberOfInterrogationPoint++;//beginning of sentence
+            if(indice == phrase.size() && initialValue.endsWith("?")) numberOfInterrogationPoint++;//beginning of sentence
             if(initialValue.contains("?") && !valueIsPreposition(initialValue)) {
                 numberOfInterrogationPoint++;
             }
@@ -223,6 +225,7 @@ public class HebrewPhraseChanger extends CustomLanguageRulePhraseChanger {
             String initialValue = wordContainer.getInitialValue();
             if(initialValue.contains("?") && !prepositionRepository.hasPreposition(initialValue)) {
                 String[] splittedValue = initialValue.split("\\?");
+                if(initialValue.equals("?")) splittedValue = new String[] {""};
                 String beforeInterrogationPoint = splittedValue[0];
                 Word before = new Word(WordType.UNKNOWN,beforeInterrogationPoint,Language.HEBREW);
                 WordContainer wordContainerBeforeInterrogationPoint = new WordContainer(before, position, Language.HEBREW);

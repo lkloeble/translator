@@ -263,6 +263,7 @@ discussion@neut%normmasc
 dispensation@neut%normmasc
 dissolveth@neut%invmasc
 distance@fem%normfem
+distant@neut%invmasc
 distinction@neut%normmasc
 divine@adj%normmasc
 division@fem%normfem
@@ -390,6 +391,7 @@ friendship@masc%normmasc
 fruit@masc%normmasc
 fruitful@adj%invmasc
 fugitive@adj%normmasc
+furlong@neut%normmasc
 galilee@neut%invmasc
 gallon@neut%normmasc
 game@neut%normmasc
@@ -913,6 +915,7 @@ soveraigne@neut%invmasc
 soveraignt@fem%endy
 sp@neut%invmasc
 space@neut%normmasc
+spice@neut%normmasc
 spirit@neut%normmasc
 sport@neut%normmasc
 spring@neut%normmasc

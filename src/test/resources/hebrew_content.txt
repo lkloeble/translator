@@ -575,7 +575,7 @@ hebbavli1ApagecommentE=>והמשנה מבארת מתי הוא זמן זה :
 midrashrabaeng1A=>סֵדֶר בְּרֵאשִׁית
 midrashrabaeng1B=>פרשה א
 midrashrabaeng1C=>רַבִּי הוֹשַׁעְיָה רַבָּה פָּתַח (משלי ח, ל)
-midrashrabaeng1D=>"וָאֶהְיֶה אֶצְלוֹ אָמוֹן וָאֶהְיֶה שַעֲשׁוּעִים יוֹם יוֹם וְגוֹ,"
+midrashrabaeng1D=>"וָאֶהְיֶה אֶצְלוֹ אָמוֹן וָאֶהְיֶה שַעֲשׁוּעִים יוֹם יוֹם וְגוֹ'"
 midrashrabaeng1E=>"אָמוֹן" פַּדְגוֹג, "אָמוֹן" מְבוּסֶה, "אָמוֹן" מוּצְגָע,
 
 midrashrabahebcom1A=>ר' הושעיה רבה פתח.

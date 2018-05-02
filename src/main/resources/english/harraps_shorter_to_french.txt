@@ -397,6 +397,7 @@ dispensation@noun!normmasc%1(noun)=distribution%2(noun)=dérogation
 dispose@verb!norm%1(verb)=placer
 dissolveth@noun!invmasc%1(noun)=dissous
 distance@noun!normfem%1(noun)=distance
+distant@noun!invmasc%1(noun)=distant
 distinguish@verb!norm%1(verb)=distinguer
 distinction@noun!normmasc%1(noun)=distinction
 divide@verb!norm%1(verb)=diviser
@@ -587,6 +588,7 @@ fruit@noun!normmasc%1(noun)=fruit
 fruitful@noun!invmasc%1(noun)=fructueux%2(noun)=fertile%3(noun)=fécond
 fugitive@adj!normmasc%1(adj)=fugitif
 fully@prep%1(prep)=complètement
+furlong@noun!normmasc%1(noun)=furlong
 further@prep%1(prep)=davantage%2(prep)=plus loin
 galilee@noun!invmasc%1(noun)=galilée
 gallon@noun!normmasc%1(noun)=gallon
@@ -1341,6 +1343,7 @@ soveraignt@noun!endy%1(noun)=souveraineté
 sp@noun!invmasc%1(noun)=particulièrement
 space@noun!normmasc%1(noun)=espace
 speak@verb!norm%1(verb)=parler
+spice@noun!normmasc%1(noun)=épice
 spirit@noun!normmasc%1(noun)=esprit
 sport@noun!normmasc%1(noun)=sport
 spring@noun!normmasc%1(noun)=ressort%2(noun)=printemps
