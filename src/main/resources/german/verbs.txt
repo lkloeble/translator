@@ -77,12 +77,13 @@ eintret,en,[leben],(IPR12*tret*trit*0)
 empfang,en,[leben]
 empfehl,en,[leben]
 entdeck,en,[leben]
+enthalt,en,[gelten]
 entlass,en,[genesen]
 entnehm,en,[leben]
 entsteh,en,[entstehen],(AIP*entsteh*entstand*0)
 entweih,en,[leben]
 erfull,en,[leben]
-erhalt,en,[leben]
+erhalt,en,[gelten]
 erhol,en,[leben]
 erinner,en,[mochten]
 erkenn,en,[leben],(PAP*erke*erka*0)
@@ -213,6 +214,7 @@ sein@IRREGULAR%[INFINITIVE]=[sein]%[IPR]=[bin,bist,ist,sind,seid,sind]%[AII]=[wa
 seinold@IRREGULAR%[AII]=[ward,ward,ward,ward,ward,warden]
 segn,en,[segnen]
 seh,en,[rufen],(IPR14*seh*sieh*0@AIP*seh*sah*0@PAP*seh*geseh*0@AIMP1*seh*sieh*0)
+send,en,[mochten]
 servier,en,[leben]
 setz,en,[setzen],(PAP*set*geset*0)
 sicht,en,[mochten]
@@ -294,6 +296,7 @@ wunsch,en,[leben]
 zeig,en,[leben]
 zeug,en,[leben]
 zerstor,en,[leben]
+zerstreu,en,[leben]
 zieh,en,[rufen],(PAP*ziehen*gezogen*0@AIP*zieh*zog*0)
 zulass,en,[lassen],(PAP*zulassen*zugelassen*0)
 zumach,en,[leben]

@@ -12,6 +12,7 @@ abteilung@neut%norm
 ach@neut%inv
 acht@neut%inv
 adresse@fem%flasche
+agypten@neut%inv
 ah@neut%inv
 ahn@masc%schmerz
 ailonith@neut%inv
@@ -426,6 +427,7 @@ heim@neut%meer
 heimlichkeit@neut%meinmasc
 heiss@adj%ausreichend
 heiterkeit@fem%norm
+hellene@masc%flasche
 helles@neut%inv
 herberge@fem%flasche
 herkunft@fem%norm
@@ -766,6 +768,7 @@ rassismus@neut%inv
 rathaus@masc%norm
 ratschlag@masc%norm
 ratsel@neut%arbeiter
+ratselhaft@adj%ausreichend
 recht@neut%inv
 rechts@neut%inv
 rechten@neut%inv
@@ -890,6 +893,7 @@ stimme@fem%flasche
 stoff@neut%meer
 stolz@adj%norm
 strafe@fem%flasche
+streng@adj%ausreichend
 stress@neut%inv
 strasse@fem%flasche
 strom@neut%phanomen
@@ -1008,10 +1012,12 @@ verfasser@masc%norm
 verfuhrendst@adj%ausreichend
 vergrubelt@neut%inv
 verhaltnis@neut%erkenntnis
+verhangnisvoll@adj%ausreichend
 verkauf@neut%norm
 verlobt@adj%meinmasc
 verlobung@fem%meinfem
 vermischung@neut%norm
+vernichtend@adj%ausreichend
 verruckt@adj%norm
 versailles@neut%inv
 versand@fem%norm
@@ -1022,6 +1028,7 @@ versucherisch@adj%ausreichend
 verwandt@adj%ausreichend
 verwohnter@adj%ausreichend
 verwegen@adj%ausreichend
+verzeichnis@neut%erkenntnis
 verzuckert@adj%inv
 vgl@neut%inv
 videokassette@fem%flasche
