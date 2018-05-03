@@ -54,6 +54,7 @@ compl,eo,es,ere,ui,itum,[eo-es]
 con,or,aris,ari,,,[or-aris]
 concili,o,as,are,,,[o-as]
 concip,io,is,ere,,,[io-is],(AIPP*concip*concep*0)
+conduc,o,is,ere,,,[o-is],(AIP*conduc*condux*0)
 confirm,o,as,are,,,[o-as]
 conglorific,o,as,are,,,[o-as]
 congreg,o,as,are,,,[o-as]
@@ -105,7 +106,7 @@ effic,io,is,ere,,,[io-is],[AIP=effec]
 egred,or,eris,i,,,[or-eris],(AII*egred*egredi*0)
 eo@IRREGULAR%[IPR]=[eo,is,it,imus,itis,eunt]%[AIP]=[ibam,ibas,ibat,ibamus,ibatis,ibant]
 erig,o,is,ere,,,[o-is]
-erip,io,is,ere,,,[io-is]
+erip,io,is,ere,,,[io-is],(AIP*erip*eripu*0)
 erud,io,is,ire,,,[io-is]
 evoc,o,as,are,avi,atus,[o-as]
 ex,eo,is,ire,,,[eo-is]

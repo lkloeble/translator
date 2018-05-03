@@ -143,6 +143,7 @@ clar@adj%us-a-um
 claudia@fem%inv
 clemen@masc%s-tis
 cler@masc%us-i
+clien@masc%s-tis2
 coct@adj%us-a-um
 collect@fem%a-ae
 column@fem%a-ae
@@ -159,6 +160,7 @@ consepult@adj%us-a-um
 consili@neut%um-i
 conspurcat@adj%us-a-um
 constan@adj%s-s-s
+constitut@neut%um-i
 consuetud@fem%o-inis
 consul@masc%x-is
 contrit@adj%us-a-um
@@ -211,6 +213,7 @@ di@neut%es-ei
 diacon@masc%us-i
 dicend@adj%us-a-um
 dict@neut%um-i
+dictio@fem%x-nis
 difficil@neut%is-is
 digit@masc%us-i
 dign@adj%us-a-um
@@ -266,6 +269,7 @@ exercit@adj%us-a-um
 exercit@masc%us-us
 explicati@fem%o-onis
 expositi@fem%o-onis
+expugnator@masc%x-is
 exspectat@adj%us-a-um
 extrem@adj%us-a-um
 fabi@fem%a-ae
@@ -385,6 +389,7 @@ inrigan@adj%s-tis
 instituend@adj%us-a-um
 institut@neut%um-i
 insul@fem%a-ae
+interit@masc%us-us
 invict@adj%us-a-um
 invictissim@adj%us-a-um
 ips@adj%e-a-um
@@ -394,6 +399,7 @@ irruen@adj%s-s-s
 itali@fem%a-ae
 itin@neut%us-eris[nomsing:iter,accsing:iter]
 iucund@adj%us-a-um
+iudici@neut%um-i
 iuli@masc%us-i
 iuli@fem%a-ae
 iument@neut%um-i
@@ -455,6 +461,7 @@ lugend@adj%us-a-um
 luminar@fem%e-is
 lydi@fem%a-ae
 maest@adj%us-a-um
+mag@masc%us-i
 magist@neut%er-ri
 magn@adj%us-a-um
 magnific@adj%us-a-um
@@ -532,6 +539,7 @@ null@adj%us-a-um
 numer@masc%us-i
 numm@masc%us-i
 o@neut%s-ris
+obaerat@adj%us-a-um
 obscenit@fem%as-atis
 observat@adj%us-a-um
 obtentur@adj%us-a-um
@@ -558,6 +566,7 @@ oratio@fem%x-nis
 orgetorix@neut%inv[gensing:orgetorigis,accsing:orgetoricem]
 orien@adj%s-s-s
 ornat@masc%us-us
+ort@adj%us-us
 osti@masc%um-i
 ostre@fem%a-ae
 oti@neut%um-i
@@ -630,6 +639,7 @@ prob@adj%us-a-um
 proeli@neut%um-i
 profect@adj%us-a-um
 profecti@fem%o-onis
+progress@masc%us-us
 promiscu@adj%us-a-um
 propagand@adj%us-a-um
 prophet@masc%a-ae

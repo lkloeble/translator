@@ -208,6 +208,7 @@ clar@adj!us-a-um%1(adj)=clair,brillant%2(adj)=glorieux,fameux%3(adj)=célèbre
 claudia@noun!inv%1(noun)=claudia
 clemen@noun!s-tis%1(noun)=clément
 cler@noun!us-i%1(noun)=clergé
+clien@noun!s-tis2%1(noun)=client
 coct@adj!us-a-um%1(noun)=roti%2(noun)=cuisiné
 coemo@verb!norm%1(verb)=acheter
 coerceo@verb!norm%1(verb)=entourer%2(verb)=enfermer
@@ -224,6 +225,7 @@ conciliatur@adj!us-a-um%1(adj)=sur le point de s'unir
 concilio@verb!norm%1(verb)=acquerir%2(verb)=recommander%3(verb)=rassembler
 confirmo@verb!norm%1(verb)=confirmer
 concipio@verb!norm%1(noun)=recevoir
+conduco@verb!norm%1(noun)=conduire
 conglorifico@verb!norm%1(verb)=glorifier
 conficiend@adj!us-a-um%1(adj)=qui doit être préparé
 confirmat@adj!us-a-um%1(adj)=confirmé
@@ -241,6 +243,7 @@ conservo@verb!norm%1(verb)=preserver%2(noun)=garder
 consigno@verb!norm%1(verb)=signer
 consili@noun!um-i%1(noun)=conseil%2(noun)=plan
 constan@adj!s-s-s%1(adj)=constant
+constitut@noun!um-i%1(noun)=accord%2(noun)=arrangement
 conspurcat@adj!us-a-um%1(adj)=pollué
 constituo@verb!norm%1(verb)=etablir
 consuetud@noun!o-inis%1(noun)=usage
@@ -327,6 +330,7 @@ diacon@noun!us-i%1(noun)=diacre
 dicend@adj!us-a-um%1(noun)=dit
 dico@verb!norm%1(verb)=dire
 dict@noun!um-i%1(noun)=ordre%2(noun)=prédiction%3(noun)=poésie%4(noun)=proverbe%5(noun)=parole
+dictio@noun!x-nis%1(noun)=plaidoyer%2(noun)=déclaration
 dicto@verb!norm%1(verb)=repeter
 differo@verb!norm%1(verb)=differer
 difficil@noun!is-is%1(noun)=difficile
@@ -398,8 +402,9 @@ ejus@prep%1(prep)=son
 elect@adj!us-a-um%1(adj)=élu
 enim@prep%1(prep)=en effet
 enuntiat@adj!us-a-um%1(adj)=révélé
-eo@prep%1(adv)=a ce oint%2(adv lieu)=la
+eo@prep%1(adv)=a ce point%2(adv lieu)=la
 eo@verb!irrg%1(verb)=aller
+eodem@prep%1(adv)=le même
 eorum@prep%1(prep)=leur
 eos@prep%1(prep)=les
 episcop@noun!us-i%1(noun)=inspecteur des marches%2(noun)=eveque
@@ -434,6 +439,7 @@ exercit@adj!us-a-um%1(adj)=exercé%2(adj)=occupé
 exercit@noun!us-us%1(noun)=entrainé
 explicati@noun!o-onis%1(noun)=explication
 expositi@noun!o-onis%1(noun)=exposition
+expugnator@noun!x-is%1(noun)=conquérant
 exspectat@adj!us-a-um%1(adj)=attendu
 extrem@adj!us-a-um%1(adj)=extrême
 exempl@noun!um-i%1(noun)=exemple
@@ -627,6 +633,7 @@ intelligo@verb!norm%1(verb)=comprendre
 inter@prep%1(prep)=durant%2(prep)=entre
 interea@prep%1(prep)=pendant ce temps
 intereo@verb!norm%1(verb)=se perdre dans,disparaitre dans%2(verb)=perir,disparaitre,mourir%3(verb)=disparaitre
+interit@noun!us-us%1(noun)=destruction%2(noun)=ruine
 interrogo@verb!norm%1(verb)=interroger
 intro@verb!norm%1(verb)=pénéter%2(verb)=entrer
 invenio@verb!norm%1(verb)=découvrir%2(verb)=trouver
@@ -648,6 +655,7 @@ itero@verb!norm%1(verb)=repeter
 iterum@prep%1(prep)=de nouveau
 itin@noun!us-eris%1(noun)=chemin%2(noun)=voyage
 iucund@adj!us-a-um%1(adj)=agréable
+iudici@noun!um-i%1(noun)=procès%2(noun)=opinion%3(noun)=décision
 iuli@noun!us-i%1(noun)=julius
 iuli@noun!a-ae%1(noun)=iulia
 iument@noun!um-i%1(noun)=animal domestique
@@ -719,6 +727,7 @@ luminar@noun!e-is%1(noun)=luminaire
 lydi@noun!a-ae%1(noun)=lydia
 m@prep%1(prep)=m
 maest@adj!us-a-um%1(adj)=triste
+mag@noun!us-i%1(noun)=magicien
 magis@prep%1(prep)=mieux
 magist@noun!er-ri%1(noun)=maître%2(noun)=rabbin%3(noun)=professeur
 magn@adj!us-a-um%1(adj)=grand
@@ -837,6 +846,7 @@ numquam@prep%1(prep)=jamais
 o@prep%1(prep)=ô
 o@noun!s-ris%1(noun)=parole
 ob@prep%1(prep)=contre%2(prep)=à cause de%3(prep)=vers
+obaerat@adj!us-a-um%1(adj)=endetté
 obscenit@noun!as-atis%1(noun)=défavorable
 observat@adj!us-a-um%1(adj)=observé
 observo@verb!norm%1(verb)=observer
@@ -870,6 +880,7 @@ oro@verb!norm%1(verb)=adorer
 orien@adj!s-s-s%1(adj)=levant
 orior@verb!norm%1(verb)=apparaitre
 ornat@noun!us-us%1(noun)=décoration%2(noun)=appareillage
+ort@adj!us-us%1(adj)=lever de soleil
 orno@verb!norm%1(verb)=orner
 ostendo@verb!norm%1(verb)=tendre en avant%2(verb)=mettre en vant,faire voir%3(verb)=presenter,exhiber,exposer%4(verb)=montrer2
 osti@noun!um-i%1(noun)=estuaire%2(noun)=entrée%3(noun)=porte
@@ -989,6 +1000,7 @@ profect@adj!us-a-um%1(adj)=avance
 profecti@noun!o-onis%1(noun)=voyage%2(noun)=départ
 profero@verb!norm%1(verb)=apparaitre2
 proficiscor@verb!norm%1(verb)=partir
+progress@adj!us-us%1(adj)=avancée
 prohibeo@verb!norm%1(verb)=preserver%2(verb)=defendre%3(verb)=proteger%4(verb)=garder
 promiscu@adj!us-a-um%1(adj)=mele,indistinct,commun%2(adj)=confondu,indifferent%3(adj)=melange
 propagand@adj!us-a-um%1(adj)=propagé
@@ -1042,6 +1054,7 @@ quis@prep%1(prep)=qui
 quoniam@prep%1(prep)=puisque%2(prep)=depuis que
 quosdam@prep%1(prep)=quelques uns
 quoque@prep%1(adv)=aussi
+quorum@prep%1(adv)=qui
 quorumdam@prep%1(adv)=quelques uns
 quot@prep%1(quot)=combien
 ratio@noun!x-nis%1(noun)=raison%2(noun)=explication
