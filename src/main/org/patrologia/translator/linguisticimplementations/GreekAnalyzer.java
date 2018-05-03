@@ -70,6 +70,9 @@ public class GreekAnalyzer implements Analizer {
                 case 903://'·' greek point
                     sb.append(".");
                     break;
+                case 912://'ΐ'  912
+                    sb.append("ι");
+                    break;
                 case 940://'ά' 940
                     sb.append("α");
                     break;

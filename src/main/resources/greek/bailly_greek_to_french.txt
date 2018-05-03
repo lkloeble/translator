@@ -4,6 +4,7 @@
 αβρααμ@noun!inv%1(noun)=abraham
 αβυσσ@noun!ος-ου%1(noun)=abysse
 αγ@verb!norm%1(verb)=conduire%2(verb)=amener%3(verb)=aller
+αγαθοποιι@noun!α-ας%1(noun)=acte de vertu
 αγαπ@noun!η-ης%1(noun)=amour
 αγαπητ@adj!ος-η-ον%1(adj)=bien-aimé
 αγγελ@verb!norm%1(verb)=annoncer
@@ -23,6 +24,7 @@
 αζωρ@noun!inv%1(noun)=azor
 αθην@noun!α-ας%1(noun)=athéna
 ακαθαρτ@adj!ος-η-ον%1(adj)=impur
+ακορεστ@adj!ος-η-ον%1(adj)=insatiable
 αι@prep%1(prep)=les
 αιγυπτ@noun!ος-ου%1(noun)=égypte
 αιδης@noun!inv%1(noun)=hades
@@ -110,6 +112,7 @@
 βα@noun!inv%1(noun)=ba
 βαβυλων@noun!x-ος%1(noun)=babylone
 βαθ@noun!ος-ους%1(noun)=profondeur%2(noun)=hauteur
+βαθ@adj!υς-εια-υ%1(adj)=profond
 βαλλ@verb!norm%1(verb)=lancer,jeter,renverser,laisser tomber%2(verb)=frapper à distance%3(verb)=jeter
 βαπτιστ@noun!ης-ου%1(noun)=baptiste
 βαρβαρ@noun!ος-ου%1(noun)=barbare
@@ -211,6 +214,7 @@
 εκλειψ@noun!inv%1(noun)=éclipse
 εκλεκτ@adj!ος-η-ον%1(adj)=choisi%2(adj)=élu
 εκπνο@noun!η-ης%1(noun)=expiration
+εκχυσ@noun!ις-εως%1(noun)=effusion%2(noun)=sortie
 εκφερ@verb!norm%1(verb)=produire%2(verb)=effectuer
 ελασσω@noun!inv%1(noun)=plus petit
 ελε@verb!norm%1(verb)=avoirpitie
@@ -400,6 +404,7 @@
 λεγοντ@adj!ος-α-ον%1(noun)=disant
 λεπρ@noun!ος-ου%1(noun)=lépreux
 λιθ@noun!ος-ου%1(noun)=pierre
+λιπαρ@noun!ος-α-ον%1(noun)=huileux%2(noun)=gras
 λογ@noun!ος-ου%1(noun)=parole,sentence,question%2(noun)=mot%3(noun)=recit%4(noun)=raison,intelligence%5(noun)=opinion%6(noun)=relation,proportion,analogie%7(noun)=justification,explication%8(noun)=verbe
 λοιπ@adj!ος-η-ον%1(adj)=restant
 λυ@verb!norm%1(verb)=delier,delivrer,lacher,laisser aller,mettre en liberte%2(verb)=dissoudre,rompre,briser,achever,terminer,resoudre,expliquer,se liberer de%3(verb)=delier
@@ -562,6 +567,7 @@
 πιστ@noun!η-ης%1(noun)=foi%2(noun)=confiance
 πιστευ@verb!norm%1(verb)=avoir foi%2(verb)=croire
 πληκτρ@noun!ον-ου%1(noun)=plectre
+πληρ@adj!ης-ης-ες%1(adj)=accompli
 πληθυν@verb!norm%1(verb)=multiplier
 πληρ@verb!norm%1(verb)=accomplir
 πληρο@verb!norm%1(verb)=remplir
@@ -570,6 +576,7 @@
 πλοι@noun!ον-ου%1(noun)=bateau%2(noun)=barque
 πλουσι@adj!ος-α-ον%1(adj)=riche
 πνευμ@noun!α-ατος%1(noun)=génie%2(noun)=esprit%3(noun)=vie%4(noun)=respiration%5(noun)=souffle%6(noun)=vent%7(noun)=air
+ποθ@noun!ος-ου%1(noun)=désir
 ποι@verb!norm%1(verb)=fabriquer,exécuter,confectionner%2(verb)=créer,produire,enfanter%3(verb)=imaginer,inventer%4(verb)=faire
 ποιητικ@noun!ος-ου%1(noun)=poétique
 ποιουν@noun!inv%1(noun)=qui fait
