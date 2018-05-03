@@ -213,6 +213,7 @@ eventual@adj%adj
 exact@adj%adj
 existents@fem%fem
 exempl@masc%ul
+exprimar@fem%berea
 exteri@adj%adjor
 extraordinar@adj%adj
 factor@masc%ul
@@ -480,6 +481,7 @@ post@fem%fem
 potrivit@neut%inv
 pozitsi@fem%fem
 preajm@fem%fem
+precis@adj%adj
 prelucrar@fem%berea
 prelucratoare@neut%inv
 preot@masc%ul
@@ -609,6 +611,7 @@ tatal@masc%inv
 taxi@neut%inv
 teatr@masc%ul
 tendints@fem%fem
+termen@masc%ul
 text@neut%ul
 totul@neut%inv
 trei@neut%inv

@@ -298,6 +298,7 @@ habiter@NORM%[INFINITIVE]=[habiter]%[IPR]=[habite,habites,habite,habitons,habite
 hair@NORM%[IPR]=[hais,hais,haït,haïssons,haïssez,haïssent]%[INFINITIVE]=[haïr]
 heriter@NORM%[INFINITIVE]=[hériter]%[IPR]=[hérite,hérites,hérite,héritons,héritez,héritent]%[PSP]=[hérite,hérites,hérite,héritions,héritiez,héritent]
 honorer@NORM%[INFINITIVE]=[honorer]%[IPR]=[honore,honores,honore,honorons,honorez,honorent]
+humaniser@NORM%[INFINITIVE]=[humaniser]%[IPR]=[humanise,humanises,humanise,humanisons,humanisez,humanisent]%[CONJ]=[humanise,humanises,humanise,humanisions,humanisiez,humanisent]%[PAP]=[humanisé]
 identifier@NORM%[INFINITIVE]=[identifier]%[IPR]=[identifie,identifies,identifie,identifions,identifiez,identifient]%[PAP]=[identifié]
 ilfaut@NORM%[INFINITIVE]=[falloir]%[IPR]=[-,-,il faut,-,-,-]%[AII]=[-,-,il fallait,-,-,-]
 illuminer@NORM%[IPR]=[illumine,illumines,illumine,illuminons,illuminez,illuminent]%[ASP]=[illumine,illumines,illumine,illuminons,illuminez,illuminent]%[INFINITIVE]=[illuminer]
