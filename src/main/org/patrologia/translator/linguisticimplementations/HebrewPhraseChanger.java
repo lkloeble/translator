@@ -181,7 +181,8 @@ public class HebrewPhraseChanger extends CustomLanguageRulePhraseChanger {
         caseOperatorContainer.addCaseOperator(operatorCombination);
         Phrase withoutEndingHeAndWav = substituteEndPatternWithNewPrepositionAfterWord(withoutKeSofitPreposition, "hw", new Preposition(Language.HEBREW,"xxheandwav",null), stopWordsWavSofit, NO_FOLLOWING_INTERRUPTION_VALUE, caseOperatorContainer);
         Phrase withoutEndingWav331 = substituteEndPatternWithNewPrepositionAfterWord(withoutEndingHeAndWav, "w331", new Preposition(Language.HEBREW,"wavend",null), stopWordsWavSofit, NO_FOLLOWING_INTERRUPTION_VALUE, caseOperatorContainer);
-        Phrase withoutEndingWav = substituteEndPatternWithNewPrepositionAfterWord(withoutEndingWav331, "w", new Preposition(Language.HEBREW,"wavend",null), stopWordsWavSofit, NO_FOLLOWING_INTERRUPTION_VALUE, caseOperatorContainer);
+        Phrase withoutEndingWav65 = substituteEndPatternWithNewPrepositionAfterWord(withoutEndingWav331, "w65", new Preposition(Language.HEBREW,"wavend",null), stopWordsWavSofit, NO_FOLLOWING_INTERRUPTION_VALUE, caseOperatorContainer);
+        Phrase withoutEndingWav = substituteEndPatternWithNewPrepositionAfterWord(withoutEndingWav65, "w", new Preposition(Language.HEBREW,"wavend",null), stopWordsWavSofit, NO_FOLLOWING_INTERRUPTION_VALUE, caseOperatorContainer);
 
         Phrase withoutEndingYod60 = substituteEndPatternWithNewPrepositionAfterWord(withoutEndingWav, "i60", new Preposition(Language.HEBREW,"xxixx",null), stopNounsWithEndingYod, NO_FOLLOWING_INTERRUPTION_VALUE, caseOperatorContainer);
         Phrase withoutEndingYod = substituteEndPatternWithNewPrepositionAfterWord(withoutEndingYod60, "i", new Preposition(Language.HEBREW,"xxixx",null), stopNounsWithEndingYod, NO_FOLLOWING_INTERRUPTION_VALUE, caseOperatorContainer);

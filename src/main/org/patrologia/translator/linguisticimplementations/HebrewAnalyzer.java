@@ -149,6 +149,9 @@ public class HebrewAnalyzer implements Analizer {
                 case 1465://signe o sur lettre
                     sb.append("65");
                     break;
+                case 1467://signe ou sous lettre 1467
+                    sb.append("67");
+                    break;
                 case 1468://signe sous lettre
                     break;
                 case 1469://signe | sous lettre
