@@ -60,6 +60,7 @@ compare,[live]
 compass,[call]
 complete,[live]
 compose,[live]
+comprehend,[call]
 comprise,[live],(PAPR*compriseing*comprising*0)
 conceive,[live]
 concern,[live],(PAP*concernd*concerned*0)

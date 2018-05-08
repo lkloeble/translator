@@ -492,7 +492,113 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("strackp3notD6", translatorBridge);
     }
 
-        @Test
+    @Test
+    public void test_talmud_help_strackp4andNot() {
+        checkInMaps("strackp4not001", translatorBridge);
+        //checkInMaps("strackp4not002", translatorBridge);
+        //checkInMaps("strackp4not003", translatorBridge);
+        checkInMaps("strackp4not004", translatorBridge);
+        checkInMaps("strackp4not005", translatorBridge);
+        checkInMaps("strackp4not006", translatorBridge);
+        checkInMaps("strackp4not007", translatorBridge);
+        checkInMaps("strackp4not008", translatorBridge);
+        checkInMaps("strackp4not000", translatorBridge);
+        checkInMaps("strackp4not010", translatorBridge);
+        checkInMaps("strackp4not011", translatorBridge);
+        checkInMaps("strackp4not012", translatorBridge);
+        checkInMaps("strackp4not013", translatorBridge);
+        checkInMaps("strackp4not014", translatorBridge);
+        checkInMaps("strackp4not015", translatorBridge);
+        checkInMaps("strackp4not016", translatorBridge);
+        checkInMaps("strackp4not017", translatorBridge);
+        checkInMaps("strackp4not018", translatorBridge);
+        checkInMaps("strackp4not019", translatorBridge);
+        checkInMaps("strackp4not020", translatorBridge);
+        checkInMaps("strackp4not021", translatorBridge);
+        checkInMaps("strackp4not022", translatorBridge);
+        checkInMaps("strackp4not023", translatorBridge);
+        checkInMaps("strackp4not024", translatorBridge);
+        checkInMaps("strackp4not025", translatorBridge);
+        checkInMaps("strackp4not026", translatorBridge);
+        checkInMaps("strackp4not027", translatorBridge);
+        checkInMaps("strackp4not028", translatorBridge);
+        checkInMaps("strackp4not029", translatorBridge);
+        checkInMaps("strackp4not030", translatorBridge);
+        checkInMaps("strackp4not031", translatorBridge);
+        checkInMaps("strackp4not032", translatorBridge);
+        checkInMaps("strackp4not033", translatorBridge);
+        checkInMaps("strackp4not034", translatorBridge);
+        checkInMaps("strackp4not035", translatorBridge);
+        checkInMaps("strackp4not036", translatorBridge);
+        checkInMaps("strackp4not037", translatorBridge);
+        checkInMaps("strackp4not038", translatorBridge);
+        checkInMaps("strackp4not039", translatorBridge);
+        checkInMaps("strackp4not040", translatorBridge);
+        checkInMaps("strackp4not041", translatorBridge);
+        checkInMaps("strackp4not042", translatorBridge);
+        checkInMaps("strackp4not043", translatorBridge);
+        checkInMaps("strackp4not044", translatorBridge);
+        checkInMaps("strackp4not045", translatorBridge);
+        checkInMaps("strackp4not046", translatorBridge);
+        checkInMaps("strackp4not047", translatorBridge);
+        checkInMaps("strackp4not048", translatorBridge);
+        checkInMaps("strackp4not049", translatorBridge);
+        checkInMaps("strackp4not050", translatorBridge);
+        checkInMaps("strackp4not051", translatorBridge);
+        checkInMaps("strackp4not052", translatorBridge);
+        checkInMaps("strackp4not053", translatorBridge);
+        checkInMaps("strackp4not054", translatorBridge);
+        checkInMaps("strackp4not055", translatorBridge);
+        checkInMaps("strackp4not056", translatorBridge);
+        checkInMaps("strackp4not057", translatorBridge);
+        checkInMaps("strackp4not058", translatorBridge);
+        checkInMaps("strackp4not059", translatorBridge);
+        checkInMaps("strackp4not060", translatorBridge);
+        checkInMaps("strackp4not061", translatorBridge);
+        checkInMaps("strackp4not062", translatorBridge);
+        checkInMaps("strackp4not063", translatorBridge);
+        checkInMaps("strackp4not064", translatorBridge);
+        checkInMaps("strackp4not065", translatorBridge);
+        checkInMaps("strackp4not066", translatorBridge);
+        checkInMaps("strackp4not067", translatorBridge);
+        checkInMaps("strackp4not068", translatorBridge);
+        checkInMaps("strackp4not069", translatorBridge);
+        checkInMaps("strackp4not070", translatorBridge);
+        checkInMaps("strackp4not071", translatorBridge);
+        checkInMaps("strackp4not072", translatorBridge);
+        checkInMaps("strackp4not073", translatorBridge);
+        checkInMaps("strackp4not074", translatorBridge);
+        checkInMaps("strackp4not075", translatorBridge);
+        checkInMaps("strackp4not076", translatorBridge);
+        checkInMaps("strackp4not077", translatorBridge);
+        checkInMaps("strackp4not078", translatorBridge);
+        checkInMaps("strackp4not079", translatorBridge);
+        checkInMaps("strackp4not080", translatorBridge);
+        checkInMaps("strackp4not081", translatorBridge);
+        checkInMaps("strackp4not082", translatorBridge);
+        checkInMaps("strackp4not083", translatorBridge);
+        checkInMaps("strackp4not084", translatorBridge);
+        checkInMaps("strackp4not085", translatorBridge);
+        checkInMaps("strackp4not086", translatorBridge);
+        checkInMaps("strackp4not087", translatorBridge);
+        checkInMaps("strackp4not088", translatorBridge);
+        checkInMaps("strackp4not089", translatorBridge);
+        checkInMaps("strackp4not090", translatorBridge);
+        checkInMaps("strackp4not091", translatorBridge);
+        checkInMaps("strackp4not092", translatorBridge);
+        checkInMaps("strackp4not093", translatorBridge);
+        checkInMaps("strackp4not094", translatorBridge);
+        checkInMaps("strackp4not095", translatorBridge);
+        checkInMaps("strackp4not096", translatorBridge);
+        checkInMaps("strackp4not097", translatorBridge);
+        checkInMaps("strackp4not098", translatorBridge);
+        checkInMaps("strackp4not099", translatorBridge);
+        checkInMaps("strackp4not100", translatorBridge);
+        checkInMaps("strackp4not101", translatorBridge);
+    }
+
+
+    @Test
     public void test_genesis_chapter1() {
         checkInMaps("genesis1A", translatorBridge);
         checkInMaps("genesis1B", translatorBridge);

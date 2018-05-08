@@ -451,6 +451,7 @@ pasiv@adj%inv
 patriarh@masc%ul
 patru@neut%inv
 patruzeci@neut%inv
+pecet@fem%berea
 pelerin@masc%ul
 pentrucaXX@neut%inv
 pere@masc%capacitate
@@ -624,6 +625,7 @@ tiparit@adj%adj
 tirziu@neut%inv
 traducer@fem%berea
 treab@fem%treaba
+trebuint@fem%femts
 treisprezece@neut%inv
 treizeci@neut%inv
 tsint@fem%fem
@@ -635,6 +637,7 @@ ucenic@masc%ul
 ucigas@ùasc%ul
 uimir@fem%berea
 ultim@adj%adj
+uman@masc%ul
 uman@adj%adj
 umanizare@fem%ereditate
 umanizat@adj%adj

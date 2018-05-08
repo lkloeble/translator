@@ -94,7 +94,8 @@ erreg,en,[leben]
 erreich,en,[leben]
 erprob,en,[leben]
 erschein,en,[leben]
-erwachs,en,[genesen]
+erwachs,en,[genesen],(AII*erwachs*erwuchs*0)
+erwahn,en,[leben]
 erwerb,en,[rufen],(AIP*erwe*erwa*0)
 erzeug,en,[leben]
 ess,en,[leben],(IPR1*ess*is*0)
@@ -109,6 +110,7 @@ fixier,en,[leben]
 flieg,en,[leben]
 folg,en,[leben]
 ford,ern,[fordern]
+frag,en,[leben],(PAP*frag*gefragt*0)
 freu,en,[leben]
 fug,en,[leben]
 fuhl,en,[leben]
@@ -221,6 +223,7 @@ sicht,en,[mochten]
 sing,en,[leben]
 sinn,en,[rufen],(AIP*sin*san*0)
 sitz,en,[lassen],(IPR1*sitzst*sitzt*0@AIP*sitz*sass*0)
+skizzier,en,[leben]
 soll,en,[wollen]
 sorg,en,[leben]
 spazier,en,[leben]

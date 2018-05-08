@@ -299,6 +299,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "lbn@masc%invmasc",
                 "l63i56l64h@fem%invfem",
                 "l64i56l64h@fem%invfem",
+                "l'hm@neut%invpur",
                 "lsxin000@neut%invpur",
                 "lkt@neut%invmasc",
                 "mamr@neut%im",
@@ -444,10 +445,12 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "b65hw@noun!invpur%1(noun)=vide",
                 "bw@prep%1(prep)=en lui",
                 "b305w331@prep()%1(prep)=en lui",
+                "b'hr@verb!norm%1(verb)=choisir",
                 "b30561in000@prep%1(prep)=entre",
                 "bin000@prep%1(prep)=entre",
                 "b61in000@prep%1(prep)=entre",
                 "bit@noun!im%1(noun)=maison",
+                "bk@prep%1(prep)=en toi",
                 "b62n000@noun!im%1(noun)=fils",
                 "b30565q62r@noun!im%1(noun)=matin",
                 "bwqr@noun!im%1(noun)=matin",
@@ -501,6 +504,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "wkw'@prep%1(prep)=etc",
                 "wtrin@adj!im-ot%1(adj)=permis",
                 "z@prep%(prep)=zayin",
+                "zkr@verb!norm%1(verb)=sesouvenir",
                 "zmn@noun!im%1(noun)=temps",
                 "z64q61n000@noun!adj%1(adj)=ancien",
                 "zw@prep%(prep)=ce",
@@ -565,6 +569,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "lmh@prep%1(prep)=pourquoi",
                 "lw@prep%1(prep)=pour lui",
                 "lw331@prep%1(prep)=pour lui",
+                "l'hm@noun!invpur%1(noun)=pain",
                 "li@prep%1(prep)=à moi",
                 "l56k00064@prep%1(prep)=à toi",
                 "lk@prep%1(prep)=à toi",
@@ -739,6 +744,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "amr,,[paal],(AIP%leadingrootletter%a*a64@AIP%secondletterroot%m*m63@AIP%alternateaccentuation(5:9)%m63*m56@AIP%alternateaccentuation(5)%r*r64@ARAIPR%substitute%amr*awmr*0)",
                 "ba,,[paal2],(AIP%leadingrootletter%b*b30564@AIP%alternateaccentuation(5)%a*a64))",
                 "bdl,,[hiphil],(HIFPER%leadingrootletter%h*h60@HIFPER%secondletterroot%b*b56@HIFPER%alternateaccentuation(4:5:9)%d*d60i",
+                "b'hr,,[paal]",
                 "bra,,[paal],(AIP%leadingrootletter%*b30564@AIP%secondletterroot%r*r64@AIP%secondletterrootexception(5:9)%r*r56@AIP%alternateaccentuation%b30564*b64",
                 "dbr,,[piel],(PIEPER%leadingrootletter%d*d60@PIEPER%secondletterroot%b*b63@PIEPER%alternateaccentuation(4)%b63*b30562@PIEPER%alternateaccentuation(5:9)%b63*b30556)",
                 "dnn,,[paal],(AIP%substitute%nn*n*0)",
@@ -748,6 +754,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "hr'hiq,hr'hiq,[paal]",
                 "xbl,,[paal]",
                 "xma,,[nifal]",
+                "zkr,,[paal]",
                 "idy,,[paal],(AIP%leadingrootletter%i*i64@AIP%secondletterroot%d*d63@AIP%alternateaccentuation(5:9)%d63*d56@AIP%alternateaccentuation(5)%y*y64)",
                 "isb,,[paal],(AIP%leadingrootletter%i*i64@AIP%secondletterroot%s*s29863@AIP%alternateaccentuation(5:9)%s29863*s29856@AIP%alternateaccentuation(5)%b*b64)",
                 "itsa,,[paal],(AIP%leadingrootletter%i*i64@AIP%secondletterroot%ts*ts64@AIP%alternateaccentuation(5:9)%ts64*ts56)",
@@ -887,6 +894,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "b30564@prep()",
                 "b56@prep()",
                 "b63@prep()",
+                "bk@prep()",
                 "bh@prep()",
                 "bw@prep()",
                 "b305w331@prep()",
@@ -1547,7 +1555,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failed_ones() {
         assertTrue(true);
-        checkInMaps("rachitext1D", translatorBridge);
+        checkInMaps("wein30J1", translatorBridge);
         checkInMaps("toto", translatorBridge);
         checkInMaps("totoacc", translatorBridge);
     }

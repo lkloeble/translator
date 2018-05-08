@@ -16,6 +16,7 @@ advantage@masc%normmasc
 affection@fem%normfem
 afraid@fem%invfem
 afternoon@masc%normmasc
+agreement@masc%normmasc
 air@neut%invmasc
 airport@masc%normmasc
 akkadian@neut%normmasc
@@ -70,6 +71,7 @@ baptism@neut%invmasc
 bar@neut%normmasc
 barbarous@adj%invmasc
 barren@neut%invmasc
+bay@neut%invmasc
 bdellium@neut%invmasc
 beast@neut%normmasc
 bed@neut%normmasc
@@ -103,6 +105,7 @@ both@neut%invmasc
 bound@neut%normmasc
 boy@masc%normmasc
 bread@neut%normmasc
+breadth@neut%invmasc
 breakfast@neut%invmasc
 breast@fem%normfem
 breath@neut%invmasc
@@ -257,6 +260,7 @@ diet@neut%normmasc
 difference@fem%normfem
 different@adj%normmasc
 difficult@adj%normmasc
+diffused@adj%invmasc
 dinner@neut%normmasc
 disciple@neut%normmasc
 discussion@neut%normmasc
@@ -297,6 +301,7 @@ effort@neut%normmasc
 egg@masc%normmasc
 egypt@neut%invmasc
 eight@neut%invmasc
+eighteen@neut%invmasc
 eighty@neut%invmasc
 elder@neut%normmasc
 eldership@neut%normmasc
@@ -422,6 +427,7 @@ grandson@masc%normmasc
 grass@neut%invmasc
 great@adj%invmasc
 greater@adj%invmasc
+greatest@adj%invmasc
 greek@neut%normmasc
 green@adj%invmasc
 ground@masc%normmasc
@@ -515,6 +521,7 @@ john@neut%invmasc
 jonah@neut%invmasc
 jordan@neut%invmasc
 josephus@neut%invmasc
+joshua@neut%invmasc
 joynt@neut%normmasc
 jones@neut%invmasc
 jos@neut%invmasc
@@ -608,6 +615,7 @@ matthew@neut%invmasc
 matthat@neut%invmasc
 mean@neut%normmasc
 meaning@neut%normmasc
+measure@neut%normmasc
 medieval@adj%normmasc
 mediterranean@adj%normmasc
 member@masc%normmasc
@@ -686,6 +694,7 @@ older@adj%invmasc
 ones@adj%invmasc
 onion@neut%normmasc
 onyx@neut%invmasc
+openeth@neut%invmasc
 ophir@neut%invmasc
 opinion@neut%invmasc
 opposite@neut%invmasc
@@ -734,6 +743,7 @@ plain@fem%normmasc
 plant@fem%normfem
 pleasant@neut%invmasc
 please@neut%invmasc
+pliny@neut%invmasc
 plural@masc%normmasc
 pocket@fem%normfem
 point@neut%normmasc
@@ -805,6 +815,7 @@ remote@masc%invmasc
 reprinted@neut%normmasc
 restaurant@neut%normmasc
 restoration@fem%normfem
+retreat@neut%normmasc
 revival@neut%normmasc
 reward@neut%normmasc
 rib@fem%normfem
@@ -823,6 +834,7 @@ rush@neut%normfem
 rushy@adj%invmasc
 sacred@neut%invmasc
 sacrifice@neut%normmasc
+sad@adj%invmasc
 safet@neut%endy
 saith@neut%invmasc
 sake@neut%normmasc
@@ -992,6 +1004,7 @@ title@masc%normmasc
 tm@neut%invmasc
 today@neut%invmasc
 toil@neut%invmasc
+tongue@neut%normmasc
 torment@neut%normmasc
 tower@neut%normmasc
 town@fem%normfem
@@ -1010,6 +1023,7 @@ tube@masc%normmasc
 tunic@fem%normfem
 turbulent@adj%normmasc
 twelve@neut%invmasc
+twenty@neut%invmasc
 twining@fem%normfem
 twisting@fem%normfem
 two@neut%invmasc

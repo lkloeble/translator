@@ -100,6 +100,7 @@ bastard@neut%bastard
 baum@neut%jahrzehnt
 bauamt@neut%inv
 beamt@masc%artist
+bedeutung@fem%meinfem
 bedurfnis@neut%erkenntnis
 befinlichen@neut%inv
 behorde@fem%flasche
@@ -227,8 +228,10 @@ einig@adj%ausreichend
 eingang@fem%meinfem
 eingewandert@adj%ausreichend
 einleitung@fem%norm
+eintragung@fem%meinfem
 einzeln@adj%ausreichend
 eltern@neut%inv
+entartung@neut%inv
 entbehrung@fem%meinfem
 entgegengesetzt@adj%ausreichend
 entweihter@masc%arbeiter
@@ -388,6 +391,8 @@ gewesen@neut%inv
 geworden@adj%ausreichend
 gewurm@neut%inv
 gibeonit@adj%ausreichend
+glaubwurdig@adj%ausreichend
+glaubwurdiger@adj%ausreichend
 gleich@adj%ausreichend
 gleichzeitig@adj%ausreichend
 gluck@fem%flasche
@@ -473,6 +478,7 @@ interessant@adj%norm
 international@adj%ausreichend
 ironie@fem%inv
 ironiker@neut%inv
+irrenarzte@neut%inv
 isr@neut%inv
 israel@neut%inv
 israelit@neut%meinmasc
@@ -509,6 +515,7 @@ judentum@masc%inv
 judisch@neut%mein
 jugend@neut%inv
 jugendlich@adj%ausreichend
+jugendlichkeit@fem%inv
 juli@neut%inv
 jung@adj%norm
 jungsfrauschaft@fem%inv
@@ -533,6 +540,7 @@ klaus@neut%inv
 klein@adj%ausreichend
 klima@neut%inv
 kloss@neut%inv
+komisch@adj%ausreichend
 kommunikation@fem%meinfem
 kongress@neut%inv
 konstanz@neut%inv
@@ -549,6 +557,7 @@ kritisch@adj%norm
 kuche@fem%flasche
 kuchen@neut%inv
 kult@masc%reis
+kultur@fem%inv
 kunst@masc%kunst
 kunstler@masc%arbeiter
 kur@fem%flasche
@@ -675,6 +684,7 @@ name@masc%flasche
 namenlos@adj%ausreichend
 namens@neut%inv
 namensvetter@masc%masc
+namhaft@adj%ausreichend
 nase@fem%flasche
 nathanael@neut%inv
 nebel@neut%arbeiter
@@ -685,6 +695,8 @@ neuer@adj%ausreichend
 neuerung@fem%meinfem
 neugierde@fem%inv
 neugierig@adj%inv
+neurose@fem%flasche
+neutest@neut%inv
 neutestamentlich@adj%mein
 neutral@adj%ausreichend
 nieder@adj%ausreichend
@@ -724,6 +736,7 @@ perikles@neut%inv
 pessimismus@neut%inv
 peter@neut%inv
 petrus@masc%inv
+physiologisch@adj%ausreichend
 pfleger@masc%arbeiter
 phanomen@neut%phanomen
 philologe@masc%flasche
@@ -1048,6 +1061,7 @@ vorfahre@masc%flasche
 vorgeblich@adj%ausreichend
 vorgelegt@adj%ausreichend
 vorhanden@adj%ausreichend
+vorhandensein@neut%zeichen
 vorneigung@fem%inv
 vorrede@fem%flasche
 vorsicht@neut%inv
@@ -1058,6 +1072,7 @@ wagen@neut%inv
 wagner@neut%inv
 wagnerianer@neut%arbeiter
 wagnisse@neut%inv
+wahnsinn@masc%phanomen
 wahr@adj%ausreichend
 wahrheit@fem%norm
 wahrscheinlich@adj%ausreichend
@@ -1112,6 +1127,7 @@ zehnt@adj%ausreichend
 zehnerlei@neut%inv
 zeichen@neut%zeichen
 zeit@neut%meinmasc
+zeitraum@masc%phanomen
 zeitschrift@fem%meinfem
 zeremonie@fem%flasche
 zerspalten@fem%angst
@@ -1129,5 +1145,6 @@ zuverlassig@adj%ausreichend
 zuteil@neut%inv
 zweck@masc%jahrzehnt
 zwei@neut%inv
+zweifel@masc%zeichen
 zweit@adj%ausreichend
 zwiegesprach@neut%inv

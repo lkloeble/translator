@@ -31,3 +31,4 @@ ramane%ramane.txt
 mantui%mantui.txt
 trimite%trimite.txt
 intampla%intampla.txt
+primi%primi.txt
