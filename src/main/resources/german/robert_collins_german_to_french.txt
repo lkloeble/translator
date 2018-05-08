@@ -95,11 +95,13 @@ aufgrund@prep%1(prep)=sur la base de
 aufhor@verb!norm%1(verb)=arreter
 aufles@verb!norm%1(verb)=ramasser
 aufregend@adj!ausreichend%1(adj)=excitant
+aufstell@verb!norm%1(verb)=preparer
 aufstellung@noun!meinfem%1(noun)=relevé%2(noun)=inventaire%3(noun)=liste
 aufwachs@verb!norm%1(verb)=grandir
 aufwarts@prep%1(prep)=vers le haut
 aufwiederhoren@noun!inv%1(noun)=au revoir
 aufwiedersehen@noun!inv%1(noun)=au revoir
+aufzeichnungen@noun!meinfem%1(noun)=enregistrement%2(noun)=archive
 aufzieh@verb!norm%1(verb)=remonter
 auge@noun!flasche%1(noun)=oeil
 augenblick@noun!inv%1(noun)=moment
@@ -187,6 +189,7 @@ beredt@adj!ausreichend%1(adj)=éloquent
 bereit@verb!norm%1(noun)=preparer
 bereits@prep%1(prep)=déjà
 bergpredigt@noun!inv%1(noun)=sermon sur la montagne
+bericht@verb!norm%1(noun)=rapporter
 berlin@noun!inv%1(noun)=berlin
 beruh@verb!norm%1(verb)=reposer
 besam@verb!norm%1(verb)=fertiliser
@@ -303,10 +306,11 @@ denunzier@verb!norm%1(verb)=denoncer
 der@noun!inv%1(noun)=le
 deren@prep%1(prep)=dont
 derjenigen@prep%1(prep)=ceux-qui
-des@prep%1(prep)=du
+derselbe@prep%1(prep)=identique
 desgleichen@prep%1(prep)=de même
 deshalb@prep%1(prep)=à cause de cela
 desjenigen@prep%1(prep)=ceux
+des@prep%1(prep)=du
 dessen@prep%1(prep)=dont le
 deutsch@adj!ausreichend%1(adj)=allemand
 deutschland@noun!inv%1(noun)=allemagne
@@ -643,6 +647,7 @@ grieche@noun!flasche%1(noun)=grec
 griechentum@noun!arbeiter%1(noun)=hellénisme
 griechisch@adj!ausreichend%1(adj)=grec
 gross@adj!ausreichend%1(adj)=grand
+grosser@adj!ausreichend%1(adj)=plus grand
 grubler@noun!burger%1(noun)=éleveur
 grun@adj!ausreichend%1(adj)=vert
 grund@noun!jahrzehnt%1(noun)=sol%2(noun)=raison
@@ -942,6 +947,7 @@ material@noun!meinmasc%1(noun)=matériau
 matthaus@noun!inv%1(noun)=matthieu
 mauer@noun!arbeiter%1(noun)=mur
 meer@noun!meer%1(noun)=mer
+megilath@noun!inv%1(noun)=megillath
 mehl@noun!jahrzehnt%1(noun)=farine
 mehr@prep%1(prep)=davantage de
 mehr@verb!norm%1(verb)=augmenter
@@ -1110,6 +1116,7 @@ plan@verb!norm%1(verb)=prevoir
 platz@noun!phanomen%1(noun)=lieu%2(noun)=place
 politik@noun!inv%1(noun)=politique
 politiker@noun!arbeiter%1(noun)=politicien
+pompejus@noun!inv%1(noun)=pompée
 portrat@noun!meinmasc%1(noun)=portrait
 post@noun!inv%1(noun)=poste
 praktisch@noun!norm%1(noun)=pratique
@@ -1424,6 +1431,7 @@ ubereinstimm@verb!norm%1(verb)=correspondre
 uberfulle@noun!flasche%1(noun)=profusion
 uberhaupt@prep%1(prep)=absolument%2(prep)=du tout
 uberhebend@noun!inv%1(noun)=recherchant
+uberlebend@adj!ausreichend%1(adj)=survivant
 uberlieferung@noun!meinfem%1(noun)=tradition%2(noun)=tradition
 uberrasch@verb!norm%1(verb)=surprendre
 uberschrift@noun!meinfem%1(noun)=entête

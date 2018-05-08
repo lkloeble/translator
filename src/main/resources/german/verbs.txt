@@ -15,6 +15,7 @@ aufbau,en,[leben],(PAP*aufbaut*aufgebaut*0)
 aufgeh,en,[leben]
 aufhor,en,[leben]
 aufles,en,[leben],(PAP*aufles*aufgelesen*0)
+aufstell,en,[leben],(PAP*aufstell*aufgestellt*0)
 aufwachs,en,[genesen]
 aufzieh,en,[leben],(PAP*aufzieh*aufgezogen*0)
 auslass,en,[genesen],(AII*auslass*ausliess*0)
@@ -43,6 +44,7 @@ benutz,en,[setzen]
 beobacht,en,[mochten]
 berat,en,[werden],(AIP*berate*beriet*0)
 bereit,en,[leben]
+bericht,en,[mochten]
 beruh,en,[leben]
 besam,en,[leben]
 bestatig,en,[leben]
@@ -105,7 +107,7 @@ fass,en,[leben],(PAP*fass*gefasst*0)
 feststeh,en,[stehen]
 feststell,en,[leben]
 feucht,en,[leben],(AII*feucht*feuchte*0)
-find,en,[leben]
+find,en,[leben],(PAP*find*gefunden*0)
 fixier,en,[leben]
 flieg,en,[leben]
 folg,en,[leben]

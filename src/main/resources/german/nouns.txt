@@ -66,8 +66,9 @@ aufgabe@fem%flasche
 aufgewendet@adj%ausreichend
 aufregend@adj%ausreichend
 aufstellung@fem%meinfem
-aufwiederhoren@neut%inv
 aufwiedersehen@neut%inv
+aufwiederhoren@neut%inv
+aufzeichnungen@fem%meinfem
 auge@neut%flasche
 augenblick@neut%inv
 ausdruck@masc%jahrzehnt
@@ -406,6 +407,7 @@ grieche@masc%flasche
 griechentum@neut%arbeiter
 griechisch@adj%ausreichend
 gross@adj%ausreichend
+grosser@adj%ausreichend
 grubler@masc%burger
 grun@adj%ausreichend
 grund@neut%jahrzehnt
@@ -620,6 +622,7 @@ material@neut%meinmasc
 matthaus@masc%inv
 mauer@masc%arbeiter
 meer@neut%meer
+megilath@neut%inv
 mehl@neut%jahrzehnt
 mehrfach@adj%ausreichend
 mein@adj%mein
@@ -747,6 +750,7 @@ plan@masc%ausreichend
 platz@masc%phanomen
 politik@fem%inv
 politiker@masc%arbeiter
+pompejus@neut%inv
 portrat@neut%meinmasc
 post@neut%inv
 praktisch@adj%norm
@@ -967,6 +971,7 @@ trocken@adj%ausreichend
 u@neut%inv
 uberfulle@fem%flasche
 uberhebend@neut%inv
+uberlebend@adj%ausreichend
 uberlieferung@fem%meinfem
 uberschrift@fem%meinfem
 ubersetzung@fem%meinfem

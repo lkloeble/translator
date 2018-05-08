@@ -432,7 +432,7 @@ prendre@NORM%[INFINITIVE]=[prendre]%[IPR]=[prends,prends,prend,prenons,prenez,pr
 prendreconnaissance@NORM%[INFINITIVE]=[prendre connaissance]
 prendregarde@NORM%[INFINITIVE]=[prendre garde]%[IPR]=[p[ends garde,prends garde,prend garde,prenons garde,prenez garde,prennent garde]%[AIMP]=[-,prends garde,-,prenons garde,prenez garde,-]
 preoccuper@NORM%[INFINITIVE]=[préoccuper]%[IPR]=[préoccupe,préoccupes,préoccupe,préoccupons,préoccupez,préoccupent]%[PAP]=[préoccupé]
-preparer@NORM%[INFINITIVE]=[préparer]%[IPR]=[prépare,prépares,prépare,préparons,préparez,préparent]%[AIPP]=[ai préparé,as préparé,a préparé,avons préparé,avez préparé,ont préparé]%[ASI]=[prépare,prépares,prépare,préparions,prépariez,préparent]
+preparer@NORM%[INFINITIVE]=[préparer]%[IPR]=[prépare,prépares,prépare,préparons,préparez,préparent]%[AIPP]=[ai préparé,as préparé,a préparé,avons préparé,avez préparé,ont préparé]%[ASI]=[prépare,prépares,prépare,préparions,prépariez,préparent]%[PAP]=[préparé]
 prescrire@NORM%[IPR]=[préscrire]%[IPR]=[prescris,prescris,prescrit,prescrivons,prescrivez,prescrivent]
 presenter@NORM%[INFINITIVE]=[présenter]%[IPR]=[présente,présentes,présente,présentons,présentez,présentent]
 presenter2@NORM%[INFINITIVE]=[présenter]%[IPR]=[présente,présentes,présente,présentons,présentez,présentent]
