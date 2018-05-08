@@ -91,6 +91,7 @@ die,[live]
 differ,[call]
 discuss,[call]
 dispose,[live]
+dissolve,[live]
 distinguish,[teach]
 divide,[live],(PAPR*divide*divid*0)
 divorce,[live]
@@ -256,6 +257,7 @@ soften,[live]
 speak,[live],(AII*spea*spo*0@PAP*speakd*spoken*0)
 sprinkle,[live]
 starve,[live],(PAPR*starvei*starvi*0)
+strike,[live],(PAP*striked*struck*0)
 subdue,[live]
 suffer,[call]
 suggest,[call]
@@ -270,6 +272,7 @@ talk,[live],(AII*talkd*talked*0)
 teach,[teach]
 tell,[live],(AIP*tell*tol*0)
 tend,[call]
+testify,[live],(IPR*testifys*testifies*0)
 till,[call]
 think,[call],(PAP*thinked*thought*0)
 touch,[teach]

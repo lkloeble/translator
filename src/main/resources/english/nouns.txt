@@ -52,6 +52,7 @@ artificer@neut%normmasc
 artificial@adj%normmasc
 artificiall@adj%normmasc
 artist@neut%invmasc
+ash@neut%church
 ashamed@neut%invmasc
 asmonean@neut%normmasc
 assembl@fem%endy
@@ -243,6 +244,7 @@ dead@adj%invmasc
 dear@adj%invmasc
 death@fem%church
 deceit@fem%invfem
+declination@fem%normfem
 deep@adj%invmasc
 defence@neut%normmasc
 degree@neut%normmasc
@@ -421,6 +423,7 @@ gloom@neut%invmasc
 gloss@neut%invmasc
 god@masc%normmasc
 gold@masc%normmasc
+gomorrha@neut%invmasc
 good@adj%invmasc
 gospel@neut%normmasc
 grandson@masc%normmasc
