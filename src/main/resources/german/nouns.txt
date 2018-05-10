@@ -588,6 +588,7 @@ leser@neut%inv
 letzt@adj%ausreichend
 letztgultig@adj%ausreichend
 leute@fem%flasche
+levi@neut%inv
 levirat@neut%inv
 levit@neut%meinmasc
 levitenschaft@neut%inv
@@ -598,6 +599,7 @@ literatur@neut%inv
 lk@neut%inv
 logisch@adj%ausreichend
 losend@adj%ausreichend
+lucke@fem%flasche
 lukas@masc%inv
 lust@fem%angst
 lustbarkeit@fem%meinfem
@@ -870,6 +872,7 @@ sekretarin@fem%inv
 selbstandig@adj%ausreichend
 seltne@adj%inv
 sensibilitat@fem%inv
+sephorris@neut%inv
 sicher@adj%ausreichend
 siebenten@neut%inv
 singer@masc%masc

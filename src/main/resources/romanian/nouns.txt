@@ -17,6 +17,7 @@ afirmatsi@fem%fem
 ajutor@masc%ul
 albastr@adj%adj
 alexandri@fem%fem
+alipir@masc%ul
 alo@neut%inv
 alt@adj%adj
 ambigua@neut%inv
@@ -168,6 +169,7 @@ deseara@neut%inv
 desert@neut%locul
 desis@neut%locul
 despartsit@adj%adj
+destinatsi@fem%fem
 devreme@neut%inv
 dezvoltare@neut%inv
 dialog@masc%ul
@@ -328,6 +330,7 @@ legat@adj%adj
 liber@adj%adj
 libertat@fem%berea
 limb@fem%fem
+limit@fem%fem
 limitat@adj%adj
 literatur@fem%fem
 litr@masc%filtru

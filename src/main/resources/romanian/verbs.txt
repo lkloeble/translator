@@ -29,6 +29,7 @@ chem,a,[cauta],(PAP*chem*chemat*0)
 cint,,[cauta]
 cit,,[aciti]
 conduc,,[face]
+confund,,[incerca]
 consider,,[cauta]
 constat,,[cauta]
 constitui,,[constitui]

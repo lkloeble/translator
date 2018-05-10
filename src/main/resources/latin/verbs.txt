@@ -104,6 +104,7 @@ edoc,eo,es,ere,,,[eo-es]
 effer,o,s,re,tuli,latum,[o-s],(AIP*effer*extul*0)
 effic,io,is,ere,,,[io-is],[AIP=effec]
 egred,or,eris,i,,,[or-eris],(AII*egred*egredi*0)
+emerg,o,is,ere,,,[o-is],(AIP*emerg*emers*0)
 eo@IRREGULAR%[IPR]=[eo,is,it,imus,itis,eunt]%[AIP]=[ibam,ibas,ibat,ibamus,ibatis,ibant]
 erig,o,is,ere,,,[o-is]
 erip,io,is,ere,,,[io-is],(AIP*erip*eripu*0)
@@ -113,6 +114,7 @@ ex,eo,is,ire,,,[eo-is]
 examin,o,as,are,,,[o-as]
 exaud,io,is,ire,veni,ventum,[io-is]
 exerc,eo,es,ere,,,[eo-es]
+exsequ,or,eris,i,,,[or-eris]
 exst,o,as,are,-,-,[o-as]
 extend,o,is,ere,,,[o-is]
 exsult,o,as,are,,,[o-as]

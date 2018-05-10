@@ -287,6 +287,7 @@ darum@prep%1(prep)=donc%2(prep)=dès lors
 das@prep%1(prep)=ceci[le]
 dasein@noun!rest%1(noun)=être là
 dass@prep%1(prep)=que
+dasselbe@prep%1(prep)=identique
 david@noun!inv%1(noun)=david
 davids@noun!inv%1(noun)=de david
 davon@prep%1(prep)=depuis
@@ -904,6 +905,7 @@ leser@noun!inv%1(noun)=lecteur
 letzt@adj!ausreichend%1(adj)=dernier
 letztgultig@adj!ausreichend%1(adj)=ultime%2(adj)=final
 leute@noun!flasche%1(noun)=gens
+levi@noun!inv%1(noun)=lévi
 levirat@noun!inv%1(noun)=lévirat
 levit@noun!meinmasc%1(noun)=lévite
 levitenschaft@noun!inv%1(noun)=lévit(isme)
@@ -920,6 +922,7 @@ logisch@adj!ausreichend%1(adj)=logique
 los@verb!norm%1(verb)=resoudre
 losend@adj!ausreichend%1(adj)=dissolvant
 loskomm@verb!norm%1(verb)=liberer
+lucke@noun!flasche%1(noun)=écart
 lukas@noun!inv%1(noun)=luc
 lust@noun!angst%1(noun)=caprice%2(noun)=plaisir%3(noun)=désir
 lustbarkeit@noun!meinfem%1(noun)=réjouissance
@@ -1280,6 +1283,7 @@ selbstandig@adj!ausreichend%1(adj)=indépendant
 seltne@adj!inv%1(adj)=rare
 send@verb!norm%1(verb)=envoyer
 sensibilitat@noun!inv%1(noun)=sensibilité
+sephorris@noun!inv%1(noun)=sephorris
 servier@verb!norm%1(verb)=servir
 setz@verb!norm%1(verb)=sassoir%2(verb)=poser
 sich@prep%1(prep)=se

@@ -14,6 +14,7 @@ adipat@neut%um-i
 adferen@masc%s-tis
 adorand@adj%us-a-um
 adult@adj%us-a-um
+advers@adj%us-a-um
 adyt@neut%um-i
 aegypt@fem%us-i
 aegypti@adj%us-a-um
@@ -68,6 +69,7 @@ arid@adj%us-a-um
 arimin@neut%um-i
 arm@fem%a-ae
 asi@fem%a-ae
+assertor@masc%x-is2
 assyri@masc%us-i
 atlantic@adj%us-a-um
 atrament@neut%um-i
@@ -253,6 +255,7 @@ enuntiat@adj%us-a-um
 episcop@masc%us-i
 epistol@fem%a-ae
 equ@masc%us-i
+ereb@masc%us-i
 error@masc%x-is2
 esc@fem%a-ae
 ev@fem%a-ae
@@ -281,6 +284,7 @@ fals@adj%us-a-um
 famili@fem%a-ae
 familiarita@fem%s-tis2
 famul@masc%us-i
+fau@fem%x-cis
 felicit@fem%as-atis
 femin@fem%a-ae
 fenestr@fem%a-ae
@@ -370,6 +374,7 @@ improb@adj%us-a-um
 inan@adj%is-is-e
 incarnati@fem%o-onis
 incens@neut%um-i
+incitat@adj%us-a-um
 indici@neut%um-i
 incredibil@adj%is-is-e
 indign@adj%us-a-um
@@ -463,6 +468,7 @@ lydi@fem%a-ae
 maest@adj%us-a-um
 mag@masc%us-i
 magist@neut%er-ri
+magistrat@masc%us-us
 magn@adj%us-a-um
 magnific@adj%us-a-um
 mai@adj%or-or-us
@@ -502,6 +508,7 @@ miss@fem%a-ae
 mod@masc%us-i
 mon@masc%s-tis2
 monit@adj%us-a-um
+monstr@neut%um-i
 monument@neut%um-i
 mor@fem%s-tis
 morien@adj%s-s-s
@@ -751,6 +758,7 @@ spuri@adj%us-a-um
 statut@adj%us-a-um
 stell@fem%a-ae
 stil@masc%us-i
+stupend@adj%us-a-um
 styl@masc%us-i
 studi@neut%um-i
 suav@adj%is-is-e
@@ -779,6 +787,7 @@ terti@adj%us-a-um
 tessel@fem%a-ae
 testament@neut%um-i
 testimoni@neut%um-i
+theoderet@masc%us-i
 tiberis@neut%inv
 tigri@neut%s-dis
 tit@masc%us-i

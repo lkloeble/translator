@@ -35,6 +35,7 @@ adorand@adj!us-a-um%1(adj)=adoré
 adoro@verb!norm%1(verb)=admirer%2(verb)=adorer%3(verb)=accuser%4(verb)=negocier
 adult@adj!us-a-um%1(adj)=brûlé%2(adj)=sacrifié
 advenio@verb!norm%1(verb)=arriver
+advers@adj!us-a-um%1(adj)=adverse
 adyt@noun!um-i%1(noun)=saint des saints
 aegypt@noun!us-i%1(noun)=egypte
 aegypti@adj!us-a-um%1(adj)=egyptien
@@ -111,6 +112,7 @@ ascendo@verb!norm%1(verb)=jaillir%2(verb)=grimper%3(verb)=monter
 arm@noun!a-ae%1(noun)=armes
 asi@noun!a-ae%1(noun)=asie
 assequor@verb!norm%1(verb)=comprendre%2(verb)=rivaliser%3(verb)=atteindre,achever%4(verb)=poursuivre
+assertor@noun!x-is2%1(noun)=déclarant
 assyri@noun!us-i%1(noun)=assyrien
 atlantic@adj!us-a-um%1(adj)=atlantique
 at@prep%1(conj)=au contraire%2(conj)=quant a%3(conj)=et pourtant,et qui plus est%4(conj)=mais
@@ -400,7 +402,9 @@ eis@prep%1(prep)=eux
 eius@prep%1(prep)=son
 ejus@prep%1(prep)=son
 elect@adj!us-a-um%1(adj)=élu
+emergo@verb!norm%1(verb)=emerger
 enim@prep%1(prep)=en effet
+enimvero@prep%1(prep)=bien sûr
 enuntiat@adj!us-a-um%1(adj)=révélé
 eo@prep%1(adv)=a ce point%2(adv lieu)=la
 eo@verb!irrg%1(verb)=aller
@@ -410,6 +414,7 @@ eos@prep%1(prep)=les
 episcop@noun!us-i%1(noun)=inspecteur des marches%2(noun)=eveque
 epistol@noun!a-ae%1(noun)=courrier,missive,depeche%2(noun)=lettre
 equ@noun!us-i%1(noun)=cheval
+ereb@noun!us-i%1(noun)=démon érébus
 ergo@prep%1(prep)=parce que%2(prep)=donc
 erigo@verb!norl%1(verb)=stimuler%2(verb)=construire,ériger%3(verb)=elever
 eripio@verb!norl%1(verb)=secourir
@@ -440,6 +445,7 @@ exercit@noun!us-us%1(noun)=entrainé
 explicati@noun!o-onis%1(noun)=explication
 expositi@noun!o-onis%1(noun)=exposition
 expugnator@noun!x-is%1(noun)=conquérant
+exsequor@verb!norm%1(verb)=accompagner
 exspectat@adj!us-a-um%1(adj)=attendu
 extrem@adj!us-a-um%1(adj)=extrême
 exempl@noun!um-i%1(noun)=exemple
@@ -460,6 +466,7 @@ fals@adj!us-a-um%1(adj)=trompé
 famili@noun!a-ae%1(noun)=ensemble des esclaves de la maison, le personnel des esclaves%2(noun)=maison de famille%3(noun)=corps, secte, troupe, école%4(noun)=la famille de Dieu, l'Église%5(noun)=famille
 familiarita@noun!s-tis2%1(noun)=familiarité%2(noun)=amitié très proche%3(noun)=intimité
 famul@noun!us-i%1(noun)=esclave
+fau@noun!x-cis%1(noun)=gorge
 felicit@noun!as-atis%1(noun)=fécondité
 femin@noun!a-ae%1(noun)=femme
 fenestr@noun!a-ae%1(noun)=opportunité%2(noun)=orifice%3(noun)=fenêtre
@@ -596,6 +603,7 @@ in@prep%1(prep+acc)=dans, en, sur : (sens local aboutissement d'un mouvement)%2(
 inan@adj!is-is-e%1(adj)=vide
 incarnati@noun!o-onis%1(noun)=incarnation
 incens@noun!um-i%1(noun)=encens
+incitat@adj!us-a-um%1(adj)=incité
 inclino@verb!norm%1(verb)=incliner
 incipio@verb!norm%1(verb)=demarrer
 incolo@verb!norm%1(verb)=cultiver%2(verb)=resider
@@ -730,6 +738,7 @@ maest@adj!us-a-um%1(adj)=triste
 mag@noun!us-i%1(noun)=magicien
 magis@prep%1(prep)=mieux
 magist@noun!er-ri%1(noun)=maître%2(noun)=rabbin%3(noun)=professeur
+magistrat@noun!us-us%1(noun)=magistrat
 magn@adj!us-a-um%1(adj)=grand
 magnific@adj!us-a-um%1(adj)=magnifique
 mai@adj!or-or-us%1(adj)=plus grand
@@ -788,6 +797,7 @@ mod@noun!us-i%1(noun)=manière%2(noun)=façon
 mon@noun!s-tis2%1(noun)=montagne
 moneo@verb!norm%1(verb)=avertir%2(verb)=conseiller%3(verb)=enseigner
 monit@adj!us-a-um%1(adj)=averti
+monstr@noun!um-i%1(noun)=malédiction
 monument@noun!um-i%1(noun)=tombe%2(noun)=monument%3(noun)=rappel
 mor@noun!s-tis%1(noun)=mort
 morien@adj!s-s-s%1(adj)=mourant
@@ -1012,6 +1022,7 @@ prosterno@verb!norm%1(verb)=seprosterner
 providenti@noun!a-ae%1(noun)=providence
 provinci@noun!a-ae%1(noun)=province
 proxim@adj!us-a-um%1(adj)=proche
+prudenter@prep%1(prep)=sagement
 psalm@noun!us-i%1(noun)=psaume
 public@adj!us-a-um%1(adj)=public
 publico@verb!norm%1(verb)=publier
@@ -1194,6 +1205,7 @@ statut@adj!us-a-um%1(adj)=établi
 stell@noun!a-ae%1(noun)=planète%2(noun)=étoile
 statim@prep%1(prep)=soudain%2(prep)=immédiatement
 stil@noun!us-i%1(noun)=stylo
+stupend@adj!us-a-um%1(adj)=stupéfiant
 styl@noun!us-i%1(noun)=stylo
 studeo@verb!norm%1(verb)=supporter%2(verb)=etudier
 studi@noun!um-i%1(noun)=zèle%2(noun)=étude
@@ -1244,6 +1256,7 @@ terti@noun!us-a-um%1(adj)=troisième
 tessel@noun!a-ae%1(noun)=mosaïque
 testament@noun!um-i%1(noun)=alliance%2(noun)=testament
 testimoni@noun!um-i%1(noun)=évidence,preuve%2(noun)=témoignage
+theoderet@noun!us-i%1(noun)=Théodoret
 tiberis@noun!inv%1(noun)=tibre
 tigri@noun!s-dis%1(noun)=tigre
 tibi@prep%1(prep)=à toi

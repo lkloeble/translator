@@ -1529,6 +1529,9 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("rachitext1G", translatorBridge);
         checkInMaps("rachitext1H", translatorBridge);
         checkInMaps("rachitext1I", translatorBridge);
+        checkInMaps("rachitext1J", translatorBridge);
+        checkInMaps("rachitext1K", translatorBridge);
+        checkInMaps("rachitext1L", translatorBridge);
     }
 
     @Test

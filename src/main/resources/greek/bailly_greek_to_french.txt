@@ -4,6 +4,7 @@
 αβρααμ@noun!inv%1(noun)=abraham
 αβυσσ@noun!ος-ου%1(noun)=abysse
 αγ@verb!norm%1(verb)=conduire%2(verb)=amener%3(verb)=aller
+αγαθ@adj!ος-η-ον%1(adj)=bon
 αγαθοποιι@noun!α-ας%1(noun)=acte de vertu
 αγαπ@noun!η-ης%1(noun)=amour
 αγαπητ@adj!ος-η-ον%1(adj)=bien-aimé
@@ -133,6 +134,7 @@
 βο@prep%1(prep)=bo
 βοες@noun!inv%1(noun)=boaz
 βοταν@noun!η-ης%1(noun)=pelouse%2(noun)=herbe
+βουλ@noun!η-ης%1(noun)=résolution%2(noun)=volonté
 βουλ@verb!norm%1(verb)=preferer%2(verb)=planifier%3(verb)=souhaiter
 βραδ@adj!υς-εια-υ%1(adj)=tardif
 βυ@prep%1(prep)=bu
@@ -272,6 +274,7 @@
 ευαγγελι@noun!ον-ου%1(noun)=bonne nouvelle%2(noun)=évangile
 ευλογ@verb!norm%1(verb)=parler avec bienveillance%2(verb)=dire du bien,célébrer%3(verb)=honorer%4(verb)=benir
 ευρισκ@verb!norm%1(verb)=rencontrer%2(verb)=trouver
+ευσεβ@adj!ης-ης-ες%1(adj)=dévot
 ευσεβει@noun!α-ας%1(noun)=piété
 ευχαριστ@verb!norm%1(verb)=remercier
 εφοδι@noun!ον-ου%1(noun)=réserve%2(noun)=fourniture%3(noun)=provision
@@ -430,6 +433,7 @@
 μεν@noun!inv%1(noun)=d'une part
 μενουσ@adj!ος-α-ον%1(adj)=resté
 μεσ@adj!ος-η-ον%1(adj)=milieu
+μεστ@adj!ος-η-ον%1(adj)=plein
 μετα@prep%1(prep)=après
 μεταacc@prep%1(prep)=après
 μεταgen@prep%1(prep)=avec
@@ -496,6 +500,7 @@
 ορα@verb!norm%1(verb)=voir
 οργ@noun!η-ης%1(noun)=colère
 οσ@adj!ος-η-ον%1(adj)=et aussi grand
+οσι@adj!ος-α-ον%1(adj)=pieux
 οτι@prep%1(prep)=que
 ου@prep%1(prep)=qui%2(prep)=ne
 ουδε@prep%1(prep)=non plus%2(prep)=ni
@@ -549,14 +554,15 @@
 πειρασμ@noun!ος-ου%1(noun)=preuve%2(noun)=tentation%3(noun)=épreuve
 πεμπ@verb!norm%1(verb)=renvoyer,congédier%2(verb)=envoyer
 πεμπτ@noun!ος-η-ον%1(noun)=cinquième
+πεποιθησ@noun!ις-εως%1(noun)=confiance
 περιβοητ@noun!ος-η-ον%1(noun)=célèbre
 περιacc@prep%1(prep)=autour de
 περιgen@prep%1(prep)=à propos
 περιεχ@verb!norm%1(verb)=entourer
 περιλαμβαν@verb!norm%1(verb)=encercler
 περιληφθεντ@adj!ος-α-ον%1(adj)=encerclé
-περιπατε@verb!norm%1(verb)=marcher
 περιπατ@verb!norm%1(verb)=marcher2
+περιπατε@verb!norm%1(verb)=marcher
 περιπτωσ@noun!ις-εως%1(noun)=calamité
 περισσευ@verb!norm%1(verb)=abonder
 περιφυ@verb!norm%1(verb)=verbe des présocratique trouvé nulle part en trad%2(verb)=developper
@@ -568,6 +574,7 @@
 πιστευ@verb!norm%1(verb)=avoir foi%2(verb)=croire
 πληκτρ@noun!ον-ου%1(noun)=plectre
 πληρ@adj!ης-ης-ες%1(adj)=accompli
+πληθ@verb!norm%1(verb)=gonfler
 πληθυν@verb!norm%1(verb)=multiplier
 πληρ@verb!norm%1(verb)=accomplir
 πληρο@verb!norm%1(verb)=remplir
@@ -593,6 +600,7 @@
 πρεσβυτερ@noun!ος-ου%1(noun)=ancien
 πριν@prep%1(prep)=avant
 προβατ@noun!ον-ου%1(noun)=piscine%2(noun)=brebis
+προθυμι@noun!α-ας%1(noun)=disponibilité
 προπετη@noun!inv%1(noun)=imprudent%2(noun)=énervé
 προφητ@noun!ης-ου%1(noun)=prophète
 προφητευ@verb!norm%1(verb)=prophetiser
@@ -740,6 +748,7 @@
 υπομον@noun!η-ης%1(noun)=constance%2(noun)=persévérance
 υποταγ@noun!η-ης%1(noun)=obéissance%2(noun)=soumission
 υποτασσ@verb!norm%1(verb)=soumettre
+υποτιθη@verb!norm%1(verb)=placersous
 υστατ@adj!ος-η-ον%1(noun)=dernier
 υφgen@prep%1(prep)=par
 υφacc@prep%1(prep)=au dessous

@@ -4,3 +4,6 @@ gen%sing%fem%cis
 dat%sing%fem%ci
 acc%sing%fem%cem
 nom%plr%fem%ces
+gen%plr%fem%cium
+dat%plr%fem%cibus
+abl%plr%fem%cibus

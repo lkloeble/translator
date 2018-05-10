@@ -21,6 +21,7 @@ air@neut%invmasc
 airport@masc%normmasc
 akkadian@neut%normmasc
 alleged@neut%invmasc
+allusion@neut%normmasc
 alone@neut%normmasc
 alternative@fem%normfem
 amber@neut%invmasc
@@ -82,6 +83,7 @@ begining@masc%normmasc
 beginning@masc%normmasc
 behaviour@neut%normmasc
 bell@neut%endy
+benefit@neut%normmasc
 betters@neut%invmasc
 bible@neut%normmasc
 big@adj%normmasc
@@ -229,6 +231,7 @@ cunning@neut%invmasc
 cup@fem%normfem
 curiosit@fem%endy
 curry@neut%invmasc
+cursing@neut%invmasc
 cush@neut%invmasc
 damascus@neut%invmasc
 dan@neut%invmasc
@@ -256,6 +259,7 @@ designation@fem%normfem
 desirable@adj%normmasc
 desire@neut%normmasc
 desperate@adj%normmasc
+destined@neut%invmasc
 deut@neut%invmasc
 dialect@neut%normmasc
 diet@neut%normmasc
@@ -363,6 +367,7 @@ fifth@neut%invmasc
 fifty@neut%invmasc
 fig@neut%normmasc
 fine@adj%invmasc!agenitive
+fire@masc%normmasc
 firm@adj%normmasc
 firmament@masc%normmasc
 first@adj%invmasc
@@ -491,6 +496,7 @@ husband@masc%invmasc
 hypocrisy@fem%invfem
 ibid@neut%invmasc
 idea@fem%normfem
+idolatry@neut%invmasc
 idumea@neut%invmasc
 idumean@neut%normmasc
 ignorance@fem%normfem
@@ -502,6 +508,7 @@ important@adj%normmasc
 incense@neut%normmasc
 inferior@adj%normmasc
 infinite@adj%normmasc
+inheritance@neut%normmasc
 instruction@neut%normmasc
 intended@adj%invmasc
 interest@masc%normmasc
@@ -637,7 +644,7 @@ mishna@neut%invmasc
 mishnaic@adj%invmasc
 mist@neut%normmasc
 moment@neut%invmasc
-money@neut%invmasc
+money@neut%normmasc
 month@neut%normmasc
 moon@neut%normmasc
 morning@neut%normmasc
@@ -687,6 +694,7 @@ number@neut%normmasc
 numbered@neut%invmasc
 o@neut%invmasc
 object@neut%normmasc
+oblation@neut%normmasc
 observation@neut%normmasc
 occasion@neut%normmasc
 occasional@adj%normmasc
@@ -707,6 +715,7 @@ original@adj%invmasc
 originally@neut%invmasc
 other@neut%normmasc
 outer@neut%invmasc
+owner@neut%normmasc
 p@neut%invmasc
 pact@neut%normmasc
 page@fem%normfem
@@ -783,6 +792,7 @@ proper@adj%normmasc
 propert@fem%endy
 prophec@fem%endy
 proscription@fem%normfem
+proselyte@neut%normmasc
 protection@neut%normmasc
 protestant@neut%normmasc
 providence@neut%invmasc
@@ -811,6 +821,7 @@ reference@fem%normfem
 reflected@adj%invmasc
 reformation@neut%normmasc
 region@neut%normmasc
+rejection@neut%normmasc
 related@masc%invmasc
 relation@fem%normfem
 religion@fem%normfem
@@ -819,6 +830,7 @@ reprinted@neut%normmasc
 restaurant@neut%normmasc
 restoration@fem%normfem
 retreat@neut%normmasc
+revelation@neut%normmasc
 revival@neut%normmasc
 reward@neut%normmasc
 rib@fem%normfem

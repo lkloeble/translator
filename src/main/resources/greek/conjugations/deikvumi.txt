@@ -3,3 +3,4 @@ AORACTINF=>ηναι,ας,ασα,αν
 AORMIDDIND=>μεν,ου,το,μεθα,σθε,ντο
 PAP=>[ους-ουσα-ον]
 MIDPASSPLUPERFIND=>μην,σο,το,μεθα,σθε,ντο
+AORPASSPART=>οι

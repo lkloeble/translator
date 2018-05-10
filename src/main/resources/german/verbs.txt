@@ -262,7 +262,7 @@ verberg,en,[leben],(IPR12*verbe*verbi*0)
 verbind,en,[mochten],(AIP*verbind*verband*0)
 vergess,en,[wollen]
 verhalt,en,[halten]
-verheirat,en,[segnen]
+verheirat,en,[segnen],(PAP*verheirat*verheiratet*0)
 verlang,en,[leben]
 verletz,en,[pflanzen]
 verlier,en,[leben],(PAP*verlier*verloren*0)

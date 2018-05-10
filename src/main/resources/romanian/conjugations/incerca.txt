@@ -1,4 +1,4 @@
 IPR=>,i,a,am,atsi,a
 ASP=>,i,e,am,atsi,e
 PAP=>at
-PAPR=>and
+PAPR=>and|andu

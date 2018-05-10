@@ -337,14 +337,14 @@ strackp4not005=>Josephus gibt, |Vita| 1, seinen stammbaum väterlicherseits auf 
 strackp4not006=>u. zwar so genau, daß er selbst das geburtsjahr der einzelnen vorfahren namhaft machen kann.
 strackp4not007=>Derselbe berichtet (|c|. |Apion| 1,7), daß der größeren kriegen, wie zb zur zeit des |antiochus| |epiphanes|, des pompejus,
 strackp4not008=>des |quintilius| |varus|, die überlebenden priester aus den alten genealogischen aufzeichnungen neue register aufgestellt haben. ||
-strackp4not000=>Jeb 4,13 : R. Schimson ben |Azzai| (um 110) hat gesagt : ich habe eine genealogische rolle, megilath |juchasin|, in Jerusalem gefunden,
-strackp4not010=>in der geschrieben stand : der und der mann ist ein mamzer (bastard) von einer verheirateten Frau. Dasselbe als Bar Jeb 49B. ||
-strackp4not011=>pTa’an 4,2 (68a,45) : R. Levi (um 300) hat gesagt : Eine genealogische Rolle hat man in Jerusalem gefunden, in der geschrieben stand :
-strackp4not012=>Hillel (30 v. Christ) stammte von den nachkommen Davids; Ben Jeçephs von der nachkommen Asaphs;
-strackp4not013=>Ben çiçith Hakkassath [der name nach Levi 2,371a; vgl Gittin 56a,19] von der nachkommen abners;
-strackp4not014=>Ben Qosibin [in der parallele GnR 98 (62a) Koshbin; Levi 4,239b Qaposai] von der nachkommen ahabs;
-strackp4not015=>Ben Kalba Schabua (um 70 n. Chr) von der nachkommens Kalebs; R. Jannai (um 225) von der Nachkommen elis.
-strackp4not016=>[hier im text eine lücke] von Jehud von Sephorris [die parallele GnR 98 (62a) liest : Die familie Jehus (stammt) aus Sephorris];
+strackp4not009=>Jeb 4,13 : R. Schimson ben |Azzai| (um 110) hat gesagt : ich habe eine genealogische rolle, megilath |juchasin|, in Jerusalem gefunden,
+strackp4not010=>in der geschrieben stand : der und der mann ist ein |mamzer| (bastard) von einer verheirateten Frau. Dasselbe als |Bar| Jeb 49B. ||
+strackp4not011=>|pTa’an| 4,2 (68a,45) : R. Levi (um 300) hat gesagt : Eine genealogische Rolle hat man in Jerusalem gefunden, in der geschrieben stand :
+strackp4not012=>Hillel (30 v. Christ) stammte von den nachkommen Davids; Ben |Jeçephs| von der nachkommen |Asaphs|;
+strackp4not013=>Ben |çiçith| |Hakkassath| [der name nach Levi 2,371a; vgl |Gittin| 56a,19] von der nachkommen |abners|;
+strackp4not014=>Ben |Qosibin| [in der parallele GnR 98 (62a) |Koshbin|; Levi 4,239b |Qaposai|] von der nachkommen |ahabs|;
+strackp4not015=>Ben |Kalba| |Schabua| (um 70 n. Chr) von der nachkommens |Kalebs|; R. |Jannai| (um 225) von der Nachkommen |elis|.
+strackp4not016=>[hier im text eine lücke] von |Jehud| von Sephorris [die parallele GnR 98 (62a) liest : Die familie |Jehus| (stammt) aus Sephorris];
 strackp4not017=>R. Chijja der ältere (um 200) von den söhnen des Schepatja, des sohnes der abital (2 Sm 3,4);
 strackp4not018=>R. Jose b. CHalapta (um 150) von den Söhnen Jonadabs ben Rekhab (2 Ro 10,15); R. Nechemja (um 150) von Nechemja, dem Statthalter (Neh 8:9, 10:2).
 strackp4not019=>Die parallele GnR 98 hat mehrere abweichungen.
@@ -636,6 +636,6 @@ nietzscheBookGTversuchCha7S=>Zarathustra der Wahrsager, Zarathustra der Wahrlach
 nietzscheBookGTversuchCha7T=>Diese Krone des Lachenden, diese Rosenkranz-Krone: euch, meinen Brüdern, werfe ich diese Krone zu! Das Lachen sprach ich heilig: ihr höheren Menschen, lernt mir – lachen!"
 nietzscheBookGTversuchCha7U=>Also sprach Zarathustra, vierter Teil Sils-Maria
 
-toto=>darbieten
+toto=>einer verheirateten Frau
 
 ß
