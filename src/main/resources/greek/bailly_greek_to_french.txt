@@ -172,6 +172,7 @@
 δαυιδ@noun!inv%1(noun)=david
 δεκατεσσαρες@noun!inv%1(noun)=quatorze
 δημ@noun!ος-ου%1(noun)=peuple
+δημοκριτ@noun!ος-ου%1(noun)=démocrite
 δε@noun!inv%1(noun)=d'autre part
 δειγματι@verb!norm%1(verb)=montrer2%2(verb)=faireunexemple%3(verb)=exposer
 δεικνυ@verb!norm%1(verb)=montrer
@@ -216,8 +217,9 @@
 εκλειψ@noun!inv%1(noun)=éclipse
 εκλεκτ@adj!ος-η-ον%1(adj)=choisi%2(adj)=élu
 εκπνο@noun!η-ης%1(noun)=expiration
-εκχυσ@noun!ις-εως%1(noun)=effusion%2(noun)=sortie
+εκτειν@verb!norm%1(verb)=lever%2(verb)=tendre
 εκφερ@verb!norm%1(verb)=produire%2(verb)=effectuer
+εκχυσ@noun!ις-εως%1(noun)=effusion%2(noun)=sortie
 ελασσω@noun!inv%1(noun)=plus petit
 ελε@verb!norm%1(verb)=avoirpitie
 ελεαζαρ@noun!inv%1(noun)=éléazar
@@ -251,6 +253,7 @@
 επιμελως@prep%1(prep)=avec soin
 επιπεδ@noun!ος-ου%1(noun)=niveau%2(noun)=plan
 επιεικ@adj!ης-ης-ες%1(adj)=raisonnable
+επικουρ@adj!ος-ος-ον%1(adj)=assistant
 επιτελ@verb!norm%1(verb)=completer%2(verb)=accomplir
 επιστολ@noun!η-ης%1(noun)=lettre
 επιστροφ@noun!η-ης%1(noun)=retour
@@ -406,6 +409,7 @@
 λεγ@verb!norm%1(verb)=dire
 λεγοντ@adj!ος-α-ον%1(noun)=disant
 λεπρ@noun!ος-ου%1(noun)=lépreux
+λευκιππ@noun!ος-ου%1(noun)=leucippe
 λιθ@noun!ος-ου%1(noun)=pierre
 λιπαρ@noun!ος-α-ον%1(noun)=huileux%2(noun)=gras
 λογ@noun!ος-ου%1(noun)=parole,sentence,question%2(noun)=mot%3(noun)=recit%4(noun)=raison,intelligence%5(noun)=opinion%6(noun)=relation,proportion,analogie%7(noun)=justification,explication%8(noun)=verbe
@@ -749,7 +753,8 @@
 υποταγ@noun!η-ης%1(noun)=obéissance%2(noun)=soumission
 υποτασσ@verb!norm%1(verb)=soumettre
 υποτιθη@verb!norm%1(verb)=placersous
-υστατ@adj!ος-η-ον%1(noun)=dernier
+υστατ@adj!ος-η-ον%1(adj)=dernier
+υστερ@adj!ος-α-ον%1(adj)=tardif
 υφgen@prep%1(prep)=par
 υφacc@prep%1(prep)=au dessous
 υφιστη@verb!norm%1(verb)=promettre%2(verb)=entreprendre%3(verb)=setenirdebout%4(verb)=rester%5(verb)=resister
@@ -782,6 +787,7 @@
 χαλεπως@noun!inv%1(noun)=difficilement
 χαρ@noun!α-ας%1(noun)=joie
 χαρι@noun!ς-τος%1(noun)=grâce
+χειρ@noun!x-ος2%1(noun)=main
 χηρ@noun!α-ας%1(noun)=veuve
 χορτ@noun!ος-ου%1(noun)=nourriture%2(noun)=foin%3(noun)=pâturage
 χρει@noun!α-ας%1(noun)=besoin

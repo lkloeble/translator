@@ -592,6 +592,7 @@ survivre@NORM%[INFINITIVE]=[survivre]%[IPR]=[survis,survis,survit,survivons,surv
 taper@NORM%[IPR]=[tape,tapes,tape,tapons,tapez,tapent]%[AIMP]=[tape,tape,tapons,tapez]%[INFINITIVE]=[taper]
 taxer@NORM%[INFINITIVE]=[taxer]%[IPR]=[taxe,taxes,taxe,taxons,taxez,taxent]%[PAP]=[taxé]
 temoigner@NORM%[IPR]=[témoigne,témoignes,témoigne,témoignons,témoignez,témoignent]%[INFINITIVE]=[témoigner]
+tendre@NORM%[INFINITIVE]=[tendre]%[IPR]=[tends,tends,tend,tendons,tendez,tendent]%[AII]=[tendais,tendais,tendait,tendions,tendiez,tendaient]
 tenir@NORM%[INFINITIVE]=[tenir]%[IPR]=[tiens,tiens,tient,tenons,tenez,tiennent]%[AIP]=[tins,tins,tint,tînmes,tîntes,tinrent]%[AII]=[tenais,tenais,tenait,tenions,teniez,tenaient]
 tenter@NORM%[INFINITIVE]=[tenter]%[IPR]=[tente,tentes,tente,tentons,tentez,tentent]
 terminer@NORM%[INFINITIVE]=[terminer]%[IPR]=[termine,termines,termine,terminons,terminez,terminent]%[PAP]=[terminé]%[AIP]=[terminai,terminas,termina,terminâmes,terminâtes,terminèrent]
