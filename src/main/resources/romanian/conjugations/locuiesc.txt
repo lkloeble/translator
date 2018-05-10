@@ -1,6 +1,6 @@
 IPR=>iesc,iesti,este,im,itsi,iesc
 PSP=>isem,isesi,ise,iseram,iseratsi,isera
-PAP=>it
+PAP=>[adj]
 AII=>eam,eai,ea,eam,eatsi,eau
 AIP=>ii,isi,i,iram,iratsi,ira
 PAPR=>ind|indu

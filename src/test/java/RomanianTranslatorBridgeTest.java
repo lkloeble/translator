@@ -609,6 +609,36 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     }
 
     @Test
+    public void test_staniloae_ch1_point6() {
+        checkInMaps("staniloae6A", translatorBridge);
+        checkInMaps("staniloae6B", translatorBridge);
+        checkInMaps("staniloae6C", translatorBridge);
+        checkInMaps("staniloae6D", translatorBridge);
+        checkInMaps("staniloae6E", translatorBridge);
+        checkInMaps("staniloae6F", translatorBridge);
+        checkInMaps("staniloae6G", translatorBridge);
+        checkInMaps("staniloae6H", translatorBridge);
+        checkInMaps("staniloae6I", translatorBridge);
+        checkInMaps("staniloae6J", translatorBridge);
+        checkInMaps("staniloae6K", translatorBridge);
+        checkInMaps("staniloae6L", translatorBridge);
+        checkInMaps("staniloae6M", translatorBridge);
+        checkInMaps("staniloae6N", translatorBridge);
+        checkInMaps("staniloae6O", translatorBridge);
+        checkInMaps("staniloae6P", translatorBridge);
+        checkInMaps("staniloae6Q", translatorBridge);
+        checkInMaps("staniloae6R", translatorBridge);
+        checkInMaps("staniloae6S", translatorBridge);
+        checkInMaps("staniloae6T", translatorBridge);
+        checkInMaps("staniloae6U", translatorBridge);
+        checkInMaps("staniloae6V", translatorBridge);
+        checkInMaps("staniloae6W", translatorBridge);
+        checkInMaps("staniloae6X", translatorBridge);
+        checkInMaps("staniloae6Y", translatorBridge);
+        checkInMaps("staniloae6Z", translatorBridge);
+    }
+
+    @Test
     public void test_trone_de_fer_chapter1() {
         checkInMaps("urzeala1A", translatorBridge);
         checkInMaps("urzeala1B", translatorBridge);
@@ -725,7 +755,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
 
     @Test
     public void test_patericul2() {
-        checkInMaps("patericulegyptantonia2A", translatorBridge);
+        //checkInMaps("patericulegyptantonia2A", translatorBridge);
         checkInMaps("patericulegyptantonia2B", translatorBridge);
         checkInMaps("patericulegyptantonia2C", translatorBridge);
         checkInMaps("patericulegyptantonia2D", translatorBridge);
@@ -740,7 +770,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("staniloae4J3", translatorBridge);
+        checkInMaps("patericulegyptantonia2E", translatorBridge);
     }
     
 }

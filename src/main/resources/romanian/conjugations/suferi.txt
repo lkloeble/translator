@@ -1,1 +1,2 @@
 IPR=>,i,a,im,itsi,a
+PAP=>[adj]

@@ -377,6 +377,7 @@ staniloae4K2=>pe cand umanizarea continua sau eterna a naturii reprezinta un pro
 staniloae4K3=>facand abstractie de faptul ca prin aceasta nu se pierde nimic si mai ales nu se pierde ceea ce e mai valoros in realitate.
 staniloae4L=>Pierderea noastră în natura înseamnă a se bate pasul pe loc într-un proces în esență mereu identic și deci absurd prin monotonia lui.
 
+page13
 staniloae5A=>Unii Părinții bisericești au spus că omul e un microcosm,
 staniloae5B=>o lume care rezumă în sine pe cea mare.
 staniloae5C=>Sfântul Maxim Mărturisitorul a remarcat că mai drept e să se considere omul ca macrocosmos,
@@ -394,6 +395,33 @@ staniloae5N=>nici măcar la limita alipirii sale de lume, confundându-se deplin
 staniloae5O=>Destinația cosmosului pentru om, și nu a omului pentru cosmos,
 staniloae5P=>se arată nu numai în faptul că cosmosul e obiectul conștiinței și al cunoasterii umane,
 staniloae5Q=>și nu invers, ci și în faptul că tot cosmosul servește practic existenței umane.
+
+staniloae6A=>Treptele inferioare, chimice, minerale și organice ale existenței,
+staniloae6B=>deși au o raționalitate, nu au un scop în ele însele,
+staniloae6C=>ci scopul lor constă în a constitui condiția materială a existențai omului
+staniloae6D=>și ele un sunt conștiente de acest scop al lor.
+staniloae6E=>În om se deschide însă ordinea unor scopuri conștiente.
+staniloae6F=>Și numai în cadrul scopurilor urmărite de el se deschide
+staniloae6G=>și înțelegerea scopurilor treptelor inferioare lui,
+staniloae6H=>punându-se într-o referință cu scopurile urmărite de el,
+staniloae6I=>ca el să boltească peste toate un sens ultim și suprem al existenței.
+staniloae6J=>Spre deosebire de treptele inferioare lui,
+staniloae6K=>omul nu-și mai împlinește scopul existenței servind unei alte trepte superioare lui,
+staniloae6L=>căci în lume nu există unele ca acestea.
+staniloae6M=>El își urmărește propriile sale scopuri.
+staniloae6N=>Iar în aceasta există o mare varietate de la om la om.
+staniloae6O=>Fiecare om, datorită conștiinței și libertății sale,
+staniloae6P=>se servește altfel de treptele inferiorare lui.
+staniloae6Q=>Iar pentru a se servi de ele, omul organizează și prelucrează datele lumii,
+staniloae6R=>punând pecetea sa pe ele. Această adaptare a lumii la trebuințele omului,
+staniloae6S=>mereu sporite și mai rafinate, are nevoie în primul rând de cunoașterea lucrurilor de către om.
+staniloae6T=>Dat tot de natura noastră ține
+staniloae6U=>– ca singura ființă conștientă de sine și de lume –
+staniloae6V=>și căutarea unui sens al existenței noastre și al lumii.
+staniloae6W=>Iar sensul acesta nu n-il poate da decât perspectiva eternității existenței noastre.
+staniloae6X=>În consensului existenței noastre,
+staniloae6Y=>și voința de a persista pin eternitate,
+staniloae6Z=>pentru a adânci la nesfârșit sensul existenței noastre și al întregii realități.
 
 
 
@@ -475,7 +503,7 @@ bocaseumplu7F=>împlinindu-se urgia lui Dumnezeu cu via, ieremia proorocul omul,
 bocaseumplu7G=>Doamne Dumnezeul puterilor, întoarce-ne pe noi, si arata-ți fața ta si ne vom mantui
 bocaseumplu7H=>via din egipt ai mutat-o, gonit-ai neamurile si ai rasadit-o pe ea
 bocaseumplu7I=>cale ai facut înaintea ei si ai sadit radacinile ei si a umplut pamantul
-bocaseumplu7J=>acoperit-a muntii umbra ei si mladițele ei chedrii lui dumnezeu
+bocaseumplu7J=>acoperit-a munții umbra ei si mladițele ei chedrii lui dumnezeu
 bocaseumplu7K=>întinsu-si-a vițele sale pâna la mare pana la rauri odrasele sale.
 bocaseumplu7L=>pentru ce ai surpat gardul ei si a culeg pe ea toți cei ce trec pa cale ?
 bocaseumplu7M=>a stricat-o pe ea vierul din padure si porcul salbatic a pascut-o pe ea.

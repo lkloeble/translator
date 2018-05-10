@@ -115,6 +115,9 @@ public class RomanianAnalyzer implements Analizer {
         for (char c : chars) {
             int i = (int) c;
             switch (i) {
+                case 206://Î
+                    sb.append("i");
+                    break;
                 case 226://â
                     sb.append("a");
                     break;
@@ -123,6 +126,9 @@ public class RomanianAnalyzer implements Analizer {
                     break;
                 case 259://ă
                     sb.append("[a]");
+                    break;
+                case 536://'Ș'
+                    sb.append("s");
                     break;
                 case 537://ș
                     sb.append("s");
