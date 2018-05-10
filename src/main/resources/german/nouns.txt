@@ -9,6 +9,7 @@ abneigung@fem%meinfem
 absicht@fem%meinfem
 abstammung@fem%meinfem
 abteilung@neut%norm
+abweichung@fem%meinfem
 ach@neut%inv
 acht@neut%inv
 adresse@fem%flasche
@@ -116,6 +117,7 @@ benutzung@fem%meinfem
 beredt@adj%ausreichend
 bergpredigt@fem%inv
 berlin@neut%inv
+bescheiden@adj%ausreichend
 besonder@adj%ausreichend
 best@adj%mein
 bestellung@fem%meinfem
@@ -141,6 +143,7 @@ bisherig@adj%ausreichend
 blick@masc%ort
 blume@fem%flasche
 blut@fem%phanomen
+bock@masc%phanomen
 boden@masc%arbeiter
 bodensee@neut%inv
 bogereth@neut%inv
@@ -824,6 +827,7 @@ sale@fem%inv
 same@fem%flasche
 sammlung@fem%meinfem
 sanger@masc%arbeiter
+satyr@masc%masc
 satz@masc%ort
 sauberkeit@neut%inv
 schade@neut%inv
@@ -859,6 +863,7 @@ schubert@neut%inv
 schuh@masc%phanomen
 schuler@masc%arbeiter
 schwager@masc%arbeiter
+schwarmer@masc%arbeiter
 schwarmerisch@adj%ausreichend
 schwarz@adj%ausreichend
 schweigsamkeit@neut%inv
@@ -906,6 +911,7 @@ stammbaum@masc%jahrzehnt
 starke@fem%flasche
 starker@adj%ausreichend
 starkst@adj%ausreichend
+statthalter@masc%arbeiter
 stelle@fem%meinfem
 stern@masc%meer
 stier@masc%meer
@@ -926,6 +932,7 @@ surf@neut%inv
 suss@adj%ausreichend
 symptom@neut%norm
 synedrium@neut%inv
+synthesis@neut%inv
 tabelle@fem%flasche
 tag@masc%jahrzehnt
 talmud@masc%meinmasc
@@ -1016,6 +1023,7 @@ unvollstandig@adj%ausreichend
 unvorstellbar@adj%ausreichend
 urkunde@fem%flasche
 urlaub@masc%norm
+urmensch@adj%ausreichend
 ursache@fem%flasche
 ursprung@masc%meer
 v@neut%inv

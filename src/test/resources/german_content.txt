@@ -345,12 +345,12 @@ strackp4not013=>Ben |çiçith| |Hakkassath| [der name nach Levi 2,371a; vgl |Git
 strackp4not014=>Ben |Qosibin| [in der parallele GnR 98 (62a) |Koshbin|; Levi 4,239b |Qaposai|] von der nachkommen |ahabs|;
 strackp4not015=>Ben |Kalba| |Schabua| (um 70 n. Chr) von der nachkommens |Kalebs|; R. |Jannai| (um 225) von der Nachkommen |elis|.
 strackp4not016=>[hier im text eine lücke] von |Jehud| von Sephorris [die parallele GnR 98 (62a) liest : Die familie |Jehus| (stammt) aus Sephorris];
-strackp4not017=>R. Chijja der ältere (um 200) von den söhnen des Schepatja, des sohnes der abital (2 Sm 3,4);
-strackp4not018=>R. Jose b. CHalapta (um 150) von den Söhnen Jonadabs ben Rekhab (2 Ro 10,15); R. Nechemja (um 150) von Nechemja, dem Statthalter (Neh 8:9, 10:2).
+strackp4not017=>R. |Chijja| der ältere (um 200) von den söhnen des |Schepatja|, des sohnes der |abital| (2 |Sm| 3,4);
+strackp4not018=>R. Jose b. |CHalapta| (um 150) von den Söhnen |Jonadabs| ben |Rekhab| (2 Ro 10,15); R. |Nechemja| (um 150) von Nechemja, dem Statthalter (Neh 8:9, 10:2).
 strackp4not019=>Die parallele GnR 98 hat mehrere abweichungen.
 strackp4not020=>pKil 9,32b u. pKeth 12,35a,36 :Rabbi war sehr bescheiden.
 strackp4not021=>Er pflegte zu sagen : alles, was mir ein mensch sagt, würde ich tun,
-strackp4not022=>nur nicht was die vorfahren der familie bathyra meinem vorfahren (Hillel, dem Alten) getan haben,
+strackp4not022=>nur nicht was die vorfahren der familie |bathyra| meinem vorfahren (Hillel, dem Alten) getan haben,
 strackp4not023=>die sich selbst von der patriarchenwürde zurückzogen u. Hillel (an ihrer Statt zum patriarchen) ernannten.
 strackp4not024=>Wenn der (Babylon) Exilarch Rab Huna (um 200) hierher käme, würde ich ihn über mich setzen.
 strackp4not025=>Denn er stammt von (unsrem stammvater) Juda u. ich von Benjamin ab, er väterlicherseits u. ich mutterlichersets.
@@ -559,7 +559,7 @@ nietzscheBookGTversuchCha4H=>Vielleicht aus der Lust, aus der Kraft, aus überst
 nietzscheBookGTversuchCha4I=>Und welche Bedeutung hat dann, physiologisch gefragt, jener Wahnsinn, aus dem die tragische wie die komische Kunst erwuchs, der dionysische Wahnsinn ? Wie ?
 nietzscheBookGTversuchCha4J=>Ist Wahnsinn vielleicht nicht notwendig das Symptom der Entartung, des Niedergangs, der überspäten Kultur ?
 nietzscheBookGTversuchCha4K=>Gibt es vielleicht – eine Frage für Irrenärzte – Neurosen der Gesundheit? der Volks-Jugend und - Jugendlichkeit?
-nietzscheBookGTversuchCha4L=>Worauf weist jene Synthesis von Gott und Bock im Satyr?
+nietzscheBookGTversuchCha4L=>Worauf weist jene Synthesis von Gott und Bock im Satyr ?
 nietzscheBookGTversuchCha4M=>Aus welchem Selbsterlebnis, auf welchen Drang hin mußte sich der Grieche den dionysischen Schwärmer und Urmenschen als Satyr denken?
 nietzscheBookGTversuchCha4N=>Und was den Ursprung des tragischen Chors betrifft: gab es in jenen Jahrhunderten, wo der griechische Leib blühte, die griechische Seele von Leben überschäumte, vielleicht endemische Entzückungen?
 nietzscheBookGTversuchCha4O=>Visionen und Halluzinationen, welche sich ganzen Gemeinden, ganzen Kultversammlungen mitteilten? Wie?
@@ -636,6 +636,6 @@ nietzscheBookGTversuchCha7S=>Zarathustra der Wahrsager, Zarathustra der Wahrlach
 nietzscheBookGTversuchCha7T=>Diese Krone des Lachenden, diese Rosenkranz-Krone: euch, meinen Brüdern, werfe ich diese Krone zu! Das Lachen sprach ich heilig: ihr höheren Menschen, lernt mir – lachen!"
 nietzscheBookGTversuchCha7U=>Also sprach Zarathustra, vierter Teil Sils-Maria
 
-toto=>einer verheirateten Frau
+toto=>ich tun
 
 ß

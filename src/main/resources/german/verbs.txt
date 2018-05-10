@@ -251,7 +251,7 @@ trau,en,[leben]
 treib,en,[leben]
 trenn,en,[leben]
 trink,en,[leben]
-tu,n,[leben],(PAP*tu*getan*0)
+tu,n,[leben],(PAP*tu*getan*0@IPR35*tuen*tun*0)
 ubereinstimm,en,[leben]
 uberrasch,en,[leben]
 ubersetz,en,[leben]
@@ -291,6 +291,7 @@ wachs,en,[genesen],(PAP*wa*gewa*0)
 wag,en,[leben],(PAP*wag*gewagt*0)
 web,en,[leben]
 weggeh,en,[rufen],(AIP*weggeh*wegging*0)
+weis,en,[genesen]
 wend,en,[wenden]
 werd,en,[werden],(AIP*werd*wurd*0@PAP*werden*geworden*0)
 werf,en,[leben],(IPR12*wer*wir*0)

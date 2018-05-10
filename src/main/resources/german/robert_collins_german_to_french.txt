@@ -14,6 +14,7 @@ absicht@noun!meinfem%1(noun)=objectif
 abstamm@verb!norm%1(verb)=provenir
 abstammung@noun!meinfem%1(noun)=lignée
 abteilung@noun!norm%1(noun)=service
+abweichung@noun!meinfem%1(noun)=déviation
 ach@noun!inv%1(noun)=ah
 acht@noun!inv%1(noun)=huit
 adresse@noun!flasche%1(noun)=adresse
@@ -193,6 +194,7 @@ bericht@verb!norm%1(noun)=rapporter
 berlin@noun!inv%1(noun)=berlin
 beruh@verb!norm%1(verb)=reposer
 besam@verb!norm%1(verb)=fertiliser
+bescheiden@noun!ausreichend%1(adj)=humble%2(adj)=modeste
 besonder@noun!ausreichend%1(adj)=extraordinaire%2(adj)=particulier%3(adj)=spécial
 besonders@prep%1(prep)=particulièrement
 best@adj!mein%1(adj)=le meilleur
@@ -234,6 +236,7 @@ bleib@verb!norm%1(verb)=rester
 blick@noun!ort%1(noun)=regard
 blume@noun!flasche%1(noun)=fleur
 blut@noun!phanomen%1(noun)=sang
+bock@noun!phanomen%1(noun)=bouc
 boden@noun!arbeiter%1(noun)=terrain%2(noun)=sol
 bodensee@noun!inv%1(noun)=lac de constance
 bogereth@noun!inv%1(noun)=bogereth
@@ -953,10 +956,12 @@ meer@noun!meer%1(noun)=mer
 megilath@noun!inv%1(noun)=megillath
 mehl@noun!jahrzehnt%1(noun)=farine
 mehr@prep%1(prep)=davantage de
+mehrere@prep%1(prep)=plusieurs
 mehr@verb!norm%1(verb)=augmenter
 mehrfach@adj!ausreichend%1(adj)=nombreux
 mein@adj!mein%1(adj)=mon
 mein@verb!norm%1(verb)=designer%2(verb)=penser
+meinem@prep%1(prep)=mes
 meist@prep%1(prep)=principalement
 meister@noun!masc%1(noun)=maître
 melancholie@noun!inv%1(noun)=mélancolie
@@ -1209,6 +1214,7 @@ samm@verb!norm%1(verb)=collecter%2(verb)=assembler
 sammlung@noun!meinfem%1(noun)=réunion%2(noun)=élévation%3(noun)=collection
 sanger@noun!arbeiter%1(noun)=chanteur
 sanh@noun!inv%1(noun)=sanh
+satyr@noun!masc%1(noun)=satyre
 satz@noun!ort%1(noun)=phrase%2(noun)=proposition
 sauberkeit@noun!inv%1(noun)=propreté
 schade@noun!inv%1(noun)=dommage
@@ -1256,6 +1262,7 @@ schuh@noun!phanomen%1(noun)=chaussure
 schuler@noun!arbeiter%1(noun)=élève%2(noun)=disciple
 schutz@verb!norm%1(verb)=proteger
 schwager@noun!arbeiter%1(noun)=beau-frère
+schwarmer@noun!arbeiter%1(noun)=illuminé%2(noun)=utopiste
 schwarmerisch@adj!ausreichend%1(adj)=exalté
 schwarz@adj!ausreichend%1(adj)=noir
 schweb@verb!norm%1(verb)=planer
@@ -1344,6 +1351,7 @@ stark@verb!norm%1(verb)=renforcer
 starke@noun!flasche%1(noun)=force
 starker@adj!ausreichend%1(noun)=plus fort
 starkst@adj!ausreichend%1(noun)=le plus fort
+statthalter@noun!arbeiter%1(noun)=vice-roi%2(noun)=chambellan%3(noun)=gouverneur
 steh@verb!norm%1(verb)=rester%2(verb)=figurer%3(verb)=tenir
 steig@verb!norm%1(verb)=monter
 stell@verb!norm%1(verb)=poser
@@ -1373,6 +1381,7 @@ surf@verb!norm%1(surf)=surfer
 suss@adj!ausreichend%1(adj)=doux
 symptom@noun!norm%1(noun)=symptôme
 synedrium@noun!inv%1(noun)=sanhédrin
+synthesis@noun!inv%1(noun)=synthèse
 tabelle@noun!flasche%1(noun)=tablette
 tag@noun!jahrzehnt%1(noun)=jour
 talmud@noun!meinmasc%1(noun)=talmud
@@ -1488,6 +1497,7 @@ unvorstellbar@noun!ausreichend%1(adj)=inconcevable
 unzucht@noun!inv%1(noun)=fornication
 urkunde@noun!flasche%1(noun)=document%2(noun)=acte
 urlaub@noun!norm%1(noun)=vacance
+urmensch@adj!ausreichend%1(adj)=primitif
 ursache@noun!flasche%1(noun)=raison
 ursprung@noun!meer%1(noun)=origine
 usw@prep%1(prep)=etc
@@ -1615,12 +1625,13 @@ weg@noun!phanomen%1(noun)=voie%2(noun)=chemin
 weggeh@verb!norm%1(verb)=partir
 weib@noun!ort%1(noun)=épouse%2(noun)=femme
 wein@noun!inv%1(noun)=vin
+weis@verb!norm%1(verb)=indiquer
 weit@adj!ausreichend%1(adj)=large%2(adj)=loin
 weiter@adj!ausreichend%1(adj)=plus large%2(adj)=plus loin
 welch@adj!ausreichend%1(adj)=quel
+wenAAAAAAg@prep%1(prep)=assez
 welt@noun!meinfem%1(noun)=monde
 wen@prep%1(prep)=qui
-wenAAAAAAg@prep%1(prep)=assez
 wend@verb!norm%1(verb)=consacrer
 wenig@noun!meinmasc%1(noun)=peu
 wenn@prep%1(prep)=si%2(prep)=quand
@@ -1660,6 +1671,7 @@ wohn@verb!norm%1(verb)=habiter
 wohnung@noun!meinmasc%1(noun)=habitation
 woll@verb!norm%1(verb)=vouloir
 woran@prep%1(prep)=ce dont
+worauf@prep%1(prep)=comme%2(prep)=qu'est-ce que
 wort@noun!holz%1(noun)=mot
 wortlaute@noun!flasche%1(noun)=formulation
 wortlich@adj!ausreichend%1(adj)=littéral
