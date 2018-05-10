@@ -243,6 +243,7 @@ conpleo@verb!norm%1(verb)=accomplir%2(verb)=terminer
 consecro@verb!norm%1(verb)=sanctifier%2(verb)=consacrer
 conservo@verb!norm%1(verb)=preserver%2(noun)=garder
 consigno@verb!norm%1(verb)=signer
+consisco@verb!norm%1(verb)=resoudre%2(verb)=approuver
 consili@noun!um-i%1(noun)=conseil%2(noun)=plan
 constan@adj!s-s-s%1(adj)=constant
 constitut@noun!um-i%1(noun)=accord%2(noun)=arrangement
@@ -328,6 +329,7 @@ detriment@noun!um-i%1(noun)=détriment
 desideri@noun!um-i%1(noun)=besoin%2(noun)=regret%3(noun)=désir
 dexter@noun!a-ae%1(noun)=main droite
 di@noun!es-ei%1(noun)=jour
+diabol@noun!us-i%1(noun)=Diable
 diacon@noun!us-i%1(noun)=diacre
 dicend@adj!us-a-um%1(noun)=dit
 dico@verb!norm%1(verb)=dire
@@ -438,8 +440,8 @@ examino@verb!norm%1(verb)=examiner
 exaudio@verb!norm%1(verb)=entendre favorablement
 excels@adj!us-a-um%1(adj)=lieu très haut
 except@adj!us-a-um%1(adj)=excepté
-exerceo@verb!norm%1(verb)=exercer
 excus@adj!us-a-um%1(adj)=falsifié
+exerceo@verb!norm%1(verb)=exercer
 exercit@adj!us-a-um%1(adj)=exercé%2(adj)=occupé
 exercit@noun!us-us%1(noun)=entrainé
 explicati@noun!o-onis%1(noun)=explication
@@ -447,6 +449,7 @@ expositi@noun!o-onis%1(noun)=exposition
 expugnator@noun!x-is%1(noun)=conquérant
 exsequor@verb!norm%1(verb)=accompagner
 exspectat@adj!us-a-um%1(adj)=attendu
+exspecto@verb!norm%1(verb)=attendre
 extrem@adj!us-a-um%1(adj)=extrême
 exempl@noun!um-i%1(noun)=exemple
 exeo@verb!norm%1(verb)=sortir
@@ -644,6 +647,7 @@ intereo@verb!norm%1(verb)=se perdre dans,disparaitre dans%2(verb)=perir,disparai
 interit@noun!us-us%1(noun)=destruction%2(noun)=ruine
 interrogo@verb!norm%1(verb)=interroger
 intro@verb!norm%1(verb)=pénéter%2(verb)=entrer
+invalesco@verb!norm%1(verb)=serenforcer
 invenio@verb!norm%1(verb)=découvrir%2(verb)=trouver
 invict@adj!us-a-um%1(adj)=invaincu
 invictissim@adj!us-a-um%1(adj)=le plus invaincu
@@ -941,6 +945,7 @@ peristyl@noun!um-i%1(noun)=cour intérieure
 permitto@verb!o-is%1(verb)=lancer d'un point a un autre, jusqu'a un but%2(verb)=faire aller jusqu'a un but, laisser aller%3(verb)=remettre, abandonner%4(verb)=laisser libre, permettre%5(verb)=permettre
 perfect@adj!us-a-um%1(adj)=accompli
 permot@adj!us-a-um%1(adj)=excité%2(adj)=agité
+pernici@noun!es-ei%1(noun)=désastre%2(noun)=ruine
 perpetu@adj!us-a-um%1(adj)=perpétuel
 persuadeo@verb!norm%1(verb)=persuader
 persuas@adj!us-a-um%1(adj)=convaincu
@@ -986,6 +991,7 @@ praecedo@verb!norm%1(verb)=surpasser
 praesum@verb!irrg%1(verb)=être devant%2(verb)=commander%3(verb)=presider
 praecept@noun!um-i%1(noun)=leçon%2(noun)=commandement%3(noun)=précepte
 praeconcept@adj!us-a-um%1(adj)=préconçu
+praedicati@noun!o-onis%1(noun)=prédication
 praestanti@adj!or-or-us%1(adj)=plus excellent
 praemi@noun!um-i%1(noun)=récompense
 praenom@noun!en-inis%1(noun)=nom
@@ -1185,6 +1191,7 @@ similitud@noun!o-inis%1(noun)=similitude%2(noun)=ressemblance
 simplici@adj!or-or-us%1(adj)=plus simple
 sine@prep%1(prep)=sans
 singul@adj!us-a-um%1(adj)=tous%2(adj)=chaque
+sitio@verb!norm%1(verb)=avoirsoif
 soci@noun!us-a-um%1(adj)=allié%é(adj)=relié%3(adj)=associé
 sol@adj!us-a-um%1(adj)=seul
 sol@noun!x-is2%1(noun)=soleil
@@ -1229,6 +1236,7 @@ suppeto@verb!norm%1(verb)=etredisponible
 supplici@noun!um-i%1(noun)=supplication%2(noun)=supplice
 surgo@verb!norm%1(verb)=selever
 suscipio@verb!norm%1(verb)=envoyer%2(verb)=controler
+suspicio@verb!norm%1(verb)=suspecter
 syllab@noun!a-ae%1(noun)=syllabe
 syr@noun!a-ae%1(noun)=syra
 syr@noun!us-i%1(noun)=syrus

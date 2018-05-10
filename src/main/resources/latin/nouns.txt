@@ -212,6 +212,7 @@ despect@adj%us-a-um
 detriment@neut%um-i
 dexter@fem%a-ae
 di@neut%es-ei
+diabol@masc%us-i
 diacon@masc%us-i
 dicend@adj%us-a-um
 dict@neut%um-i
@@ -606,6 +607,7 @@ perfect@adj%us-a-um
 pericul@masc%um-i
 peristyl@masc%um-i
 permot@adj%us-a-um
+pernici@fem%es-ei
 perpetu@adj%us-a-um
 persecuti@fem%o-onis
 persuas@adj%us-a-um
@@ -633,6 +635,7 @@ potentissim@adj%us-a-um
 potissim@adj%us-a-um
 praecept@neut%um-i
 praeconcept@adj%us-a-um
+praedicati@fem%o-onis
 praestanti@adj%or-or-us
 praemi@neut%um-i
 praenom@neut%en-inis

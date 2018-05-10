@@ -63,6 +63,7 @@ conpl,eo,es,ere,,,[eo-es],(AIP*conpl*conplev*0)
 consecr,o,as,are,,,[o-as]
 conserv,o,as,are,,,[o-as]
 consign,o,as,are,,,[o-as]
+consisc,o,is,ere,,,[o-is],(AIFP*consiscs*consciv*0)
 constitu,o,is,ere,,,[o-is],(IAP*constituidi*constitui*0)
 consum,o,is,ere,,,[o-is],(IAP*consum*consumps*0)
 contend,o,is,ere,,,[o-is]
@@ -115,6 +116,7 @@ examin,o,as,are,,,[o-as]
 exaud,io,is,ire,veni,ventum,[io-is]
 exerc,eo,es,ere,,,[eo-es]
 exsequ,or,eris,i,,,[or-eris]
+exspect,o,as,are,,,[o-as]
 exst,o,as,are,-,-,[o-as]
 extend,o,is,ere,,,[o-is]
 exsult,o,as,are,,,[o-as]
@@ -154,6 +156,7 @@ intellig,o,is,ere,,,[o-is]
 inter,eo,is,ire,ii,itum,[eo-is]
 interrog,o,as,are,,,[o-as]
 intr,o,as,are,avi,atus,[o-as]
+invalesc,o,is,ere,,,[o-is]
 inven,io,is,ere,,,[io-is]
 invoc,o,as,are,avi,atum,[o-as]
 ire@IRREGULAR%[INFINITIVE]=[ire]%[IPR]=[eo,is,it,imus,itis,eunt]
@@ -249,6 +252,7 @@ seduc,o,is,ere,misi,missum,[o-is]
 separ,o,as,are,,,[o-as],(ASP*separe*separaveri*0)
 sequ,or,eris,i,,,[or-eris]
 serv,o,as,are,,,[o-as]
+sit,io,is,ire,,,[io-is],(ASI*site*siti*0)
 solv,o,is,ere,,,[o-is]
 son,o,as,are,,,[o-as]
 spec,io,is,ere,,,[io-is],(AIP*spec*spex*0)
@@ -262,6 +266,7 @@ supersum@IRREGULAR%[ASP]=[supersim,supersis,supersit,supersimus,supersitis,super
 suppet,o,is,ere,,,[o-is]
 surg,o,is,ere,,,[o-is]
 suscip,io,is,ere,,,[io-is]
+suspic,io,is,ere,,,[io-is]
 tac,eo,es,ere,,,[eo-es]
 ten,eo,es,ere,,,[eo-es]
 tim,eo,es,ere,,,[eo-es]
