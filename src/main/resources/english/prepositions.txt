@@ -199,6 +199,7 @@ these@prep()
 they@prep()%[electPluralForFollowingVerb(6)]
 this@prep()
 those@prep()
+thou@prep()
 though@prep()
 through@prep()
 thus@prep()

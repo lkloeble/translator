@@ -1452,7 +1452,47 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("wein30R2", translatorBridge);
     }
 
-
+    @Test
+    public void test_weingreen_chapter_33() {
+        checkInMaps("wein33A1", translatorBridge);
+        checkInMaps("wein33A2", translatorBridge);
+        checkInMaps("wein33B1", translatorBridge);
+        checkInMaps("wein33B2", translatorBridge);
+        checkInMaps("wein33C1", translatorBridge);
+        checkInMaps("wein33C2", translatorBridge);
+        checkInMaps("wein33D1", translatorBridge);
+        checkInMaps("wein33D2", translatorBridge);
+        checkInMaps("wein33E1", translatorBridge);
+        checkInMaps("wein33E2", translatorBridge);
+        checkInMaps("wein33F1", translatorBridge);
+        checkInMaps("wein33F2", translatorBridge);
+        checkInMaps("wein33G1", translatorBridge);
+        checkInMaps("wein33G2", translatorBridge);
+        checkInMaps("wein33H1", translatorBridge);
+        checkInMaps("wein33H2", translatorBridge);
+        checkInMaps("wein33I1", translatorBridge);
+        checkInMaps("wein33I2", translatorBridge);
+        checkInMaps("wein33J1", translatorBridge);
+        checkInMaps("wein33J2", translatorBridge);
+        checkInMaps("wein33K1", translatorBridge);
+        checkInMaps("wein33K2", translatorBridge);
+        checkInMaps("wein33L1", translatorBridge);
+        checkInMaps("wein33L2", translatorBridge);
+        checkInMaps("wein33M1", translatorBridge);
+        checkInMaps("wein33M2", translatorBridge);
+        checkInMaps("wein33N1", translatorBridge);
+        checkInMaps("wein33N2", translatorBridge);
+        checkInMaps("wein33O1", translatorBridge);
+        checkInMaps("wein33O2", translatorBridge);
+        checkInMaps("wein33P1", translatorBridge);
+        checkInMaps("wein33P2", translatorBridge);
+        checkInMaps("wein33Q1", translatorBridge);
+        checkInMaps("wein33Q2", translatorBridge);
+        checkInMaps("wein33R1", translatorBridge);
+        checkInMaps("wein33R2", translatorBridge);
+        checkInMaps("wein33S1", translatorBridge);
+        checkInMaps("wein33S2", translatorBridge);
+    }
 
     @Test
     public void test_bereshit_chapter1() {

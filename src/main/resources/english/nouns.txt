@@ -56,6 +56,7 @@ artist@neut%invmasc
 ash@neut%church
 ashamed@neut%invmasc
 asmonean@neut%normmasc
+asphaltite@neut%normmasc
 assembl@fem%endy
 assyria@fem%invfem
 attested@neut%invmasc
@@ -132,6 +133,7 @@ cain@masc%invmasc
 calor@fem%endy
 cambridge@neut%invmasc
 camera@fem%normfem
+canaanite@neut%normmasc
 cannot@neut%invmasc
 canon@neut%normmasc
 car@neut%normmasc
@@ -348,6 +350,7 @@ experience@neut%normmasc
 expression@neut%normmasc
 extensive@adj%normmasc
 external@adj%normmasc
+extremit@fem%endy
 eye@masc%normmasc
 face@masc%normmasc
 facing@neut%invmasc
@@ -648,6 +651,7 @@ money@neut%normmasc
 month@neut%normmasc
 moon@neut%normmasc
 morning@neut%normmasc
+moses@neut%invmasc
 mother@fem%normfem
 motion@neut%normmasc
 mount@neut%invmasc
@@ -684,6 +688,7 @@ nissim@neut%invmasc
 nod@neut%normmasc
 norman@adj%normmasc
 north@masc%invmasc
+northern@adj%invmasc
 nostril@neut%normmasc
 nothing@masc%invmasc
 notice@neut%normmasc
@@ -906,6 +911,7 @@ sick@adj%invmasc
 sickness@neut%church
 sicknesse@neut%normmasc
 side@neut%normmasc
+sidon@neut%invmasc
 sight@fem%normfem
 sign@masc%normmasc
 significance@masc%normmasc
