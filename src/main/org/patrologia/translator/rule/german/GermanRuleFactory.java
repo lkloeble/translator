@@ -47,6 +47,10 @@ public class GermanRuleFactory extends RuleFactory {
             return new RuleAufGrundReplace();
         } else if("electAccusativeForFollowingNoun".equals(ruleName)) {
             return new RuleElectAccusativeForFollowingNoun();
+        } else if("esGabReplace".equals(ruleName)) {
+            return new RuleEsGabFinder();
+        } else if("gabEsReplace".equals(ruleName)) {
+            return new RuleGabEsFinder();
         }
         return null;
     }

@@ -1,4 +1,5 @@
 IPR=>e,st,t,en,t,en
 AIP=>,st,,en,t,en
+ASI=>e,est,e,en,et,en
 PAP=>en
 AIMP=>-,|e,-,-,t,-

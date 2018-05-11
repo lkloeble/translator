@@ -90,6 +90,7 @@ auto@fem%tipp
 b@neut%inv
 bab@neut%inv
 babel@neut%inv
+babylon@neut%inv
 babylonien@neut%jahrzehnt
 bad@neut%licht
 bahn@fem%meinfem
@@ -113,6 +114,7 @@ beleg@masc%jahrzehnt
 bemuh@neut%meinmasc
 ben@neut%inv
 beneidet@adj%ausreichend
+benjamin@neut%inv
 benutzung@fem%meinfem
 beredt@adj%ausreichend
 bergpredigt@fem%inv
@@ -166,6 +168,7 @@ chanina@neut%inv
 chama@neut%inv
 chef@neut%inv
 chinesisch@adj%ausreichend
+chor@neut%phanomen
 chr@neut%inv
 christ@masc%christ
 christel@fem%inv
@@ -235,10 +238,12 @@ einleitung@fem%norm
 eintragung@fem%meinfem
 einzeln@adj%ausreichend
 eltern@neut%inv
+endemisch@adj%ausreichend
 entartung@neut%inv
 entbehrung@fem%meinfem
 entgegengesetzt@adj%ausreichend
 entweihter@masc%arbeiter
+entzuckung@fem%meinfem
 epikurisch@adj%ausreichend
 erde@fem%flasche
 erdgeschoss@masc%inv
@@ -266,6 +271,7 @@ europa@neut%inv
 europaer@masc%arbeiter
 ev@neut%inv
 evangelium@neut%inv
+exilarch@neut%inv
 explosiv@neut%norm
 examen@neut%norm
 fahigkeit@fem%meinfem
@@ -463,6 +469,7 @@ hollander@neut%arbeiter
 holz@neut%holz
 horn@neut%ort
 hotel@neut%inv
+huna@neut%inv
 hund@fem%norm
 hundert@neut%inv
 hunger@neut%inv
@@ -491,6 +498,7 @@ italien@neut%inv
 italienisch@adj%ausreichend
 ja@neut%inv
 jahr@neut%jahrzehnt
+jahrhundert@neut%rest
 jahrig@adj%ausreichend
 jahrzehnt@neut%jahrzehnt
 januar@neut%inv
@@ -581,6 +589,7 @@ ledig@adj%ausreichend
 legitim@adj%ausreichend
 legitimitat@fem%inv
 lehr@neut%inv
+leib@masc%licht
 leiblichen@adj%mein
 leiche@fem%flasche
 leicht@adj%ausreichend
@@ -735,6 +744,7 @@ park@neut%inv
 parallel@adj%ausreichend
 partei@masc%meinmasc
 pastor@neut%inv
+patriarch@masc%meinmasc
 paul@masc%inv
 paulus@masc%inv
 pause@fem%inv
@@ -851,6 +861,7 @@ schlimmer@adj%ausreichend
 schluss@neut%norm
 schlussel@neut%inv
 schlussfolgerung@fem%meinfem
+schlusssatz@fem%inv
 schmerz@masc%schmerz
 schon@adj%inv
 schonheit@fem%meinfem
@@ -908,9 +919,11 @@ stadt@fem%meinfem
 stadtrat@neut%inv
 stadtverwaltung@neut%inv
 stammbaum@masc%jahrzehnt
+stammvater@masc%arbeiter
 starke@fem%flasche
 starker@adj%ausreichend
 starkst@adj%ausreichend
+statt@fem%inv
 statthalter@masc%arbeiter
 stelle@fem%meinfem
 stern@masc%meer
@@ -1028,6 +1041,7 @@ ursache@fem%flasche
 ursprung@masc%meer
 v@neut%inv
 vater@masc%arbeiter
+vaterlich@adj%ausreichend
 vaterschaft@fem%meinfem
 verabredung@masc%meinmasc
 verbindung@masc%meinmasc

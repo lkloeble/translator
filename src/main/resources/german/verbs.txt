@@ -50,6 +50,7 @@ besam,en,[leben]
 bestatig,en,[leben]
 bestell,en,[leben]
 betracht,en,[mochten]
+betreff,en,[leben],(IPR12*betreff*betriff*0)
 beug,en,[leben]
 beurteil,en,[leben]
 beweis,en,[genesen],(AII*beweis*bewies*0)
@@ -58,6 +59,7 @@ bezahl,en,[leben]
 biet,en,[leben]
 blas,en,[genesen],(AII*bla*blie*0)
 bleib,en,[rufen],(AIP*blei*blie*0)
+bluh,en,[leben]
 brauch,en,[leben]
 brech,en,[leben],(IPR*brecht*bricht*0@IPR*brechst*brichst*0)
 buhl,en,[leben]
@@ -91,6 +93,7 @@ erinner,en,[mochten]
 erkenn,en,[leben],(PAP*erke*erka*0)
 erlaub,en,[leben]
 ermang,en,[sammeln]
+ernenn,en,[leben],(AII*ernenn*ernann*0)
 errat,en,[werden]
 erreg,en,[leben]
 erreich,en,[leben]
@@ -118,7 +121,7 @@ fug,en,[leben]
 fuhl,en,[leben]
 full,en,[leben]
 garantier,en,[leben]
-geb,en,[leben],(IPR124*geb*gib*0)
+geb,en,[rufen],(IPR124*geb*gib*0@AII*geb*gab*0@ASI*geb*gab*0@AIP*geb*gab*0)
 gebar,en,[leben],(IPR12*gebar*gebier*0@PAP*gebar*geboren*0)
 geh,en,[lassen],(AIP*geh*ging*0@PAP*geh*gegang*0)
 gehor,en,[leben]
@@ -153,7 +156,7 @@ kauf,en,[leben]
 kehr,en,[starken]
 kenn,en,[leben],(AIP*kenn*kannt*0)
 koch,en,[leben]
-komm,en,[rufen],(AIP*komm*kam*0@PAP*kom*gekom*0)
+komm,en,[rufen],(AIP*komm*kam*0@PAP*kom*gekom*0@ASI*komm*kam*0)
 konn,en,[wollen],(IPR012*kon*kan*0@PAP*konn*gekonnt*0)
 kost,en,[leben]
 kriech,en,[leben]
@@ -162,6 +165,7 @@ kumme,rn,[leben]
 lad,en,[leben]
 lass,en,[lassen],(AIP*lass*liess*0@PAP*la*gela*0)
 lauf,en,[rufen],(AIP*lauf*lief*0)
+laut,en,[wenden]
 leb,en,[leben]
 lern,en,[leben]
 les,en,[leben],(IPR124*les*lies*0@PAP*les*geles*0)
@@ -254,6 +258,7 @@ trink,en,[leben]
 tu,n,[leben],(PAP*tu*getan*0@IPR35*tuen*tun*0)
 ubereinstimm,en,[leben]
 uberrasch,en,[leben]
+uberschaum,en,[leben]
 ubersetz,en,[leben]
 uberwach,en,[leben]
 unterzeichn,en,[mochten]
@@ -306,8 +311,10 @@ zerstreu,en,[leben]
 zieh,en,[rufen],(PAP*ziehen*gezogen*0@AIP*zieh*zog*0)
 zulass,en,[lassen],(PAP*zulassen*zugelassen*0)
 zumach,en,[leben]
+zuruckfuhr,en,[leben],(PAP*zuruckfuhr*zuruckgefuhrt*0)
 zurucklass,en,[lassen],(PAP*zurucklassen*zuruckgelassen*0)
 zuruckhalt,en,[halten],(AII*zuruckhalt*zuruckhielt*0)
 zuruckkehr,en,[leben]
+zuruckzieh,en,[rufen],(AIP*zuruckzieh*zuruckzog*0)
 zusammenhal,en,[halten]
 zusteh,en,[stehen],(PAP*zustehen*zugestand*0)
