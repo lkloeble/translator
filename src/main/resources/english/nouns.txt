@@ -257,6 +257,7 @@ deliberation@fem%normfem
 delicious@adj%invmasc
 delight@adj%normmasc
 depth@neut%church
+description@neut%normmasc
 designation@fem%normfem
 desirable@adj%normmasc
 desire@neut%normmasc
@@ -356,6 +357,7 @@ face@masc%normmasc
 facing@neut%invmasc
 famous@adj%invmasc
 fantastic@neut%invmasc
+farthest@neut%invmasc
 fastned@neut%invmasc
 fat@adj%normmasc
 father@masc%normmasc
@@ -998,6 +1000,7 @@ temple@neut%normmasc
 ten@neut%invmasc
 tendenc@fem%endy
 tent@fem%normfem
+term@neut%normmasc
 terrible@neut%invmasc
 testament@neut%normmasc
 testimon@neut%endy

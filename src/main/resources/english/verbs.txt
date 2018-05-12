@@ -28,6 +28,7 @@ behead,[call]
 behold,[call]
 believe,[live]
 belong,[call]
+bend,[live],(PAP*bendd*bent*0)
 bless,[call]
 boast,[call]
 book,[call]
@@ -259,6 +260,7 @@ soften,[live]
 speak,[live],(AII*spea*spo*0@PAP*speakd*spoken*0)
 sprinkle,[live]
 starve,[live],(PAPR*starvei*starvi*0)
+stretch,[call]
 strike,[live],(PAP*striked*struck*0)
 subdue,[live]
 suffer,[call]
