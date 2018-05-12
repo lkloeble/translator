@@ -63,7 +63,7 @@ bluh,en,[leben]
 brauch,en,[leben]
 brech,en,[leben],(IPR*brecht*bricht*0@IPR*brechst*brichst*0)
 buhl,en,[leben]
-bring,en,[leben]
+bring,en,[leben],(AII*bring*brach*0)
 dank,en,[leben]
 darbiet,en,[mochten](AIP*darbiet*darbot*0)
 darf,en,[wollen]
@@ -167,6 +167,7 @@ lass,en,[lassen],(AIP*lass*liess*0@PAP*la*gela*0)
 lauf,en,[rufen],(AIP*lauf*lief*0)
 laut,en,[wenden]
 leb,en,[leben]
+leg,en,[leben]
 lern,en,[leben]
 les,en,[leben],(IPR124*les*lies*0@PAP*les*geles*0)
 lieb,en,[leben]
@@ -241,7 +242,8 @@ stark,en,[starken]
 steh,en,[stehen],(AIP*steh*stand*0)
 steig,en,[leben],(PAP*steigt*gestiegen*0)
 stell,en,[leben]
-sterb,en,[rufen],(AIP*sterb*starb*0)
+sterb,en,[rufen],(AIP*sterb*starb*0@PAP*sterb*gestorben*0)
+stimm,en,[leben]
 stor,en,[leben]
 studier,en,[leben]
 such,en,[leben],(AIP*such*sucht*0)

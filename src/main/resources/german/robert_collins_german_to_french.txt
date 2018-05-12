@@ -189,6 +189,7 @@ beobacht@verb!norm%1(noun)=observer
 bequem@prep%1(prep)=facilement
 berat@verb!norm%1(noun)=discuter
 beredt@adj!ausreichend%1(adj)=éloquent
+bereit@adj!ausreichend%1(adj)=prêt
 bereit@verb!norm%1(noun)=preparer
 bereits@prep%1(prep)=déjà
 bergpredigt@noun!inv%1(noun)=sermon sur la montagne
@@ -201,6 +202,7 @@ besonder@noun!ausreichend%1(adj)=extraordinaire%2(adj)=particulier%3(adj)=spéci
 besonders@prep%1(prep)=particulièrement
 best@adj!mein%1(adj)=le meilleur
 bestatig@verb!norm%1(verb)=confirmer
+bestatten@noun!inv%1(noun)=enterrer
 bestell@verb!norm%1(verb)=commander
 bestellung@noun!meinfem%1(noun)=commande
 bestimmt@adj!ausreichend%1(adj)=certain
@@ -399,6 +401,7 @@ einstweilen@prep%1(prep)=entre-temps%2(prep)=en attendant
 eintret@verb!norm%1(verb)=entrer
 eintrittskarte@noun!flasche%1(noun)=billet d'entrée
 einzeln@adj!ausreichend%1(adj)=unique%2(adj)=solitaire%3(adj)=séparé%4(adj)=seul
+einzuraumen@noun!inv%1(noun)=octroyer
 einzusenden@noun!inv%1(noun)=être envoyé
 eltern@noun!inv%1(noun)=parents
 empfang@verb!norm%1(verb)=concevoir%2(verb)=accueillir%3(verb)=recevoir
@@ -477,6 +480,7 @@ evangelium@noun!inv%1(noun)=évangile
 ewig@prep%1(prep)=éternellement
 examen@noun!norm%1(noun)=examen
 exilarch@noun!inv%1(noun)=exilarque
+exilarchen@noun!inv%1(noun)=exilarque
 explosiv@noun!norm%1(noun)=explosif
 fahigkeit@noun!meinfem%1(noun)=aptitude
 fahr@verb!norm%1(verb)=aller
@@ -641,6 +645,7 @@ getrank@noun!rest%1(noun)=boisson
 gevogel@noun!inv%1(noun)=volaille
 gewesen@noun!inv%1(noun)=été
 gewinn@verb!norm%1(verb)=gagner
+gewiss@adj!ausreichend%1(adj)=certain
 gewohnlich@prep%1(prep)=d'habitude
 geworden@adj!ausreichend%1(adj)=devenu
 gewurm@noun!inv%1(noun)=chose rampante
@@ -676,6 +681,7 @@ haben@verb!irrg%1(verb)=avoir
 halb@noun!inv%1(noun)=moitié
 halle@noun!inv%1(noun)=halle
 hallo@noun!inv%1(noun)=allo
+halluzination@noun!meinfem%1(noun)=hallucination
 halt@verb!norm%1(verb)=arrêter%2(verb)=tenir
 hand@noun!rest%1(noun)=main
 hang@noun!reis%1(noun)=inclinaison
@@ -908,6 +914,7 @@ lebenskraft@noun!angst%1(noun)=vitalité
 lebensunterhalt@noun!inv%1(noun)=moyen de subsistance
 ledig@adj!ausreichend%1(adj)=célibataire
 leer@adj!inv%1(adj)=vide
+leg@verb!norm%1(verb)=reposer
 legitim@adj!ausreichend%1(adj)=légitime
 legitimitat@noun!inv%1(noun)=légitimité
 lehr@noun!inv%1(noun)=apprentissage
@@ -1002,7 +1009,7 @@ miteinzuschliess@verb!norm%1(verb)=inclure
 mitgleid@noun!inv%1(noun)=membre
 mithin@prep%1(prep)=en conséquence%2(prep)=dès lors%3(prep)=donc
 mittagessen@noun!inv%1(noun)=déjeuner
-mitteil@verb!norm%1(verb)=informer
+mitteil@verb!norm%1(verb)=semanifester%2(verb)=informer
 mitteilbar@adj!ausreichend%1(adj)=communicable
 mittelalter@noun!meer%1(noun)=moyen-âge
 mitten@prep%1(prep)=au milieu
@@ -1126,6 +1133,7 @@ peinlich@adj!ausreichend%1(adj)=pénible
 perikles@noun!inv%1(noun)=Périclès
 personlich@adj!ausreichend%1(adj)=personnel
 pessimismus@noun!inv%1(noun)=pessimisme
+pessimist@noun!meinmasc%1(noun)=pessimiste
 peter@noun!inv%1(noun)=peter
 petrus@noun!inv%1(noun)=pierre
 physiologisch@adj!ausreichend%1(adj)=physiologique
@@ -1380,6 +1388,7 @@ stelle@noun!meinfem%1(noun)=position%2(noun)=place
 sterb@verb!norm%1(verb)=mourir
 stern@noun!meer%1(noun)=étoile
 stier@noun!meer%1(noun)=taureau
+stimm@verb!norm%1(verb)=voter%2(verb)=approuver
 stimme@noun!flasche%1(noun)=voix
 stoff@noun!meer%1(noun)=matière%2(noun)=substance%3(noun)=tissu
 stolz@noun!norm%1(noun)=fier
@@ -1560,6 +1569,7 @@ verpflicht@verb!norm%1(verb)=obliger
 verrats@verb!norm%1(verb)=resoudre
 verruckt@noun!norm%1(noun)=fou
 versailles@noun!inv%1(noun)=versailles
+versammlung@noun!meinfem%1(noun)=assemblée
 versand@noun!norm%1(noun)=vente par correspondance
 versaumt@adj!meinmasc%1(adj)=manqué
 verschreib@verb!norm%1(verb)=prescrire
@@ -1596,6 +1606,7 @@ vielleicht@prep%1(prep)=peut-être
 vier@noun!inv%1(noun)=quatre
 viert@adj!ausreichend%1(adj)=quatrième
 viertel@noun!inv%1(noun)=quartier
+vision@noun!meinfem%1(noun)=vision
 vogel@noun!arbeiter%1(noun)=oiseau
 volk@noun!licht%1(noun)=peuple
 vollburtig@adj!ausreichend%1(adj)=jumeau
@@ -1623,6 +1634,7 @@ vorsicht@noun!inv%1(noun)=prudence
 vorsichtig@adj!ausreichend%1(adj)=prudent
 vorstell@verb!norm%1(verb)=presenter2
 vorwort@noun!licht%1(noun)=préface
+vorzug@noun!phanomen%1(noun)=avantage
 vorzeitig@adj!ausreichend%1(adj)=précoce
 wachs@verb!norm%1(verb)=grandir
 wag@verb!norm%1(verb)=oser

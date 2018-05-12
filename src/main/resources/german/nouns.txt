@@ -117,11 +117,13 @@ beneidet@adj%ausreichend
 benjamin@neut%inv
 benutzung@fem%meinfem
 beredt@adj%ausreichend
+bereit@adj%ausreichend
 bergpredigt@fem%inv
 berlin@neut%inv
 bescheiden@adj%ausreichend
 besonder@adj%ausreichend
 best@adj%mein
+bestatten@neut%inv
 bestellung@fem%meinfem
 bestimmt@adj%ausreichend
 bestimmung@fem%meinfem
@@ -237,6 +239,7 @@ eingewandert@adj%ausreichend
 einleitung@fem%norm
 eintragung@fem%meinfem
 einzeln@adj%ausreichend
+einzuraumen@neut%inv
 eltern@neut%inv
 endemisch@adj%ausreichend
 entartung@neut%inv
@@ -272,6 +275,7 @@ europaer@masc%arbeiter
 ev@neut%inv
 evangelium@neut%inv
 exilarch@neut%inv
+exilarchen@neut%inv
 explosiv@neut%norm
 examen@neut%norm
 fahigkeit@fem%meinfem
@@ -398,6 +402,7 @@ getier@neut%inv
 getrank@neut%rest
 gevogel@neut%inv
 gewesen@neut%inv
+gewiss@adj%ausreichend
 geworden@adj%ausreichend
 gewurm@neut%inv
 gibeonit@adj%ausreichend
@@ -426,6 +431,7 @@ gut@adj%mein
 halb@adj%inv
 halle@fem%inv
 hallo@neut%inv
+halluzination@fem%meinfem
 hand@fem%rest
 hang@masc%reis
 hart@adj%ausreichend
@@ -752,6 +758,7 @@ personlich@adj%ausreichend
 peinlich@adj%ausreichend
 perikles@neut%inv
 pessimismus@neut%inv
+pessimist@adj%meinmasc
 peter@neut%inv
 petrus@masc%inv
 physiologisch@adj%ausreichend
@@ -1063,6 +1070,7 @@ vermischung@neut%norm
 vernichtend@adj%ausreichend
 verruckt@adj%norm
 versailles@neut%inv
+versammlung@fem%meinfem
 versand@fem%norm
 versaumt@adj%meinmasc
 verstandnis@fem%inv
@@ -1081,6 +1089,7 @@ vielfach@neut%inv
 vier@neut%inv
 viert@adj%ausreichend
 viertel@neut%inv
+vision@fem%meinfem
 vogel@masc%arbeiter
 volk@masc%licht
 vollburtig@adj%ausreichend
@@ -1097,6 +1106,7 @@ vorrede@fem%flasche
 vorsicht@neut%inv
 vorsichtig@adj%ausreichend
 vorzeitig@adj%ausreichend
+vorzug@masc%phanomen
 vorwort@neut%licht
 wagen@neut%inv
 wagner@neut%inv
