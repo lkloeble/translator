@@ -32,6 +32,7 @@
 εμπροσθεν@prep()%[electGenitiveForFollowingNoun]
 εν@prep()
 ενωπιον@prep()
+επ@prep()
 επι@prep()
 εξ@prep()
 εως@prep()
@@ -46,6 +47,7 @@
 ημων@prep()
 ηστινος@prep()
 ιδου@prep()
+ιλεως@prep()
 ινα@prep()
 και@prep()
 καθ@prep()%[findFollowindEmerav]

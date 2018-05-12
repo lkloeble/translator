@@ -699,7 +699,7 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failed_ones() {
         assertTrue(true);
-        checkInMaps("clement2C2", translatorBridge);
         checkInMaps("toto", translatorBridge);
+        checkInMaps("wenham15A", translatorBridge);
     }
 }

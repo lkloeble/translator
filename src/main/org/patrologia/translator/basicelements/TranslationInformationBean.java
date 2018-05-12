@@ -142,7 +142,7 @@ public class TranslationInformationBean {
         if (verb.isPositionInTranslationTableKnown() && rootedConjugation.positionIsCorrect(verb.getPositionInTranslationTable(), toTranslate)) {
             return verb.getPositionInTranslationTable();
         }
-        if (verb.isPluralKnown()) {
+        if (verb.isPluralKnown() && !rootedConjugation.isParticipleRelatedToNounDeclension()) {
             return  rootedConjugation.getMaxPosition();
         }
         return rootedConjugation.positionFound(toTranslate).get(0);

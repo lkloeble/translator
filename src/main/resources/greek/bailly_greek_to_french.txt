@@ -32,12 +32,13 @@
 αιδι@noun!ος-ου%1(noun)=éternel
 αιφνιδι@noun!ος-ου%1(noun)=soudain
 αιτ@verb!norm%1(verb)=demander
+ακ@adj!ων-ουσα-ον%1(adj)=involontaire
 ακατασκευαστ@adj!ος-ος-ον%1(adj)=non fini
 ακολουθε@verb!norm%1(verb)=suivre
 αλαζονευ@verb!norm%1(verb)=etrearrogant
-ακου@verb!norm%1(verb)=ecouter%2(verb)=entendre
 αληθει@noun!α-ας%1(noun)=vérité
 αλλ@prep%1(prep)=mais
+ακου@verb!norm%1(verb)=ecouter%2(verb)=entendre
 αλλα@prep%1(prep)=mais
 αλλ@adj!ος-η-ο%1(adj)=autre
 αλληλα@prep%1(prep)=autres
@@ -45,6 +46,7 @@
 αλληλων@prep%1(prep)=autres
 αλλοτρι@adj!ος-α-ον%1(adj)=étranger%2(adj)=appartenant à un autre
 αλφα@noun!inv%1(noun)=alpha
+αμαρταν@verb!norm%1(verb)=pecher
 αμαρτι@noun!α-ας%1(noun)=faute%2(noun)=péché
 αμαρτωλ@noun!ος-ου%1(noun)=pêcheur
 αμιναδαβ@noun!inv%1(noun)=aminadab
@@ -241,6 +243,7 @@
 εξ@prep%1(prep)=hors de
 εξαγ@verb!norm%1(verb)=faireemerger%2(verb)=bannir%3(verb)=enlever%4(verb)=emmener
 εξουσι@noun!α-ας%1(noun)=autorité
+επ@prep%1(prep)=au temps de%2(prep)=sur
 επαγγελι@noun!α-ας%1(noun)=promesse
 επαλληλ@noun!ος-ου%1(noun)=se suit rapidement
 επανω@prep%1(prep)=au dessus
@@ -334,6 +337,8 @@
 ιεροσολυμων@noun!inv%1(noun)=de jérusalem
 ιεχονι@noun!ας-ου%1(noun)=jéchonias
 ικαν@adj!ος-η-ον%1(adj)=suffisant
+ικετευ@verb!norm%1(verb)=supplier
+ιλεως@prep%1(prep)=avec bienveillance
 ιματι@noun!ον-ου%1(noun)=manteau%2(noun)=vêtement
 ινα@prep%1(prep)=en accord avec%2(prep)=à cause de%3(prep)=afin que
 ιουδ@noun!ας-ου%1(noun)=judas
@@ -752,7 +757,7 @@
 υπομον@noun!η-ης%1(noun)=constance%2(noun)=persévérance
 υποταγ@noun!η-ης%1(noun)=obéissance%2(noun)=soumission
 υποτασσ@verb!norm%1(verb)=soumettre
-υποτιθη@verb!norm%1(verb)=placersous
+υποτιθη@verb!norm%1(verb)=voie moyenne:suggérer,ordonner,apprendre%2(verb)=placersous
 υστατ@adj!ος-η-ον%1(adj)=dernier
 υστερ@adj!ος-α-ον%1(adj)=tardif
 υφgen@prep%1(prep)=par
