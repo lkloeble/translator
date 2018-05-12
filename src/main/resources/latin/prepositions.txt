@@ -90,6 +90,7 @@ igitur@prep()
 in@prep(acc)%[electAccusativeForFollowingNoun]%[electAblativeForFollowingNoun]
 inde@prep()
 inter@prep()
+interim@prep()
 interea@prep()
 isntit@prep()
 istae@prep()

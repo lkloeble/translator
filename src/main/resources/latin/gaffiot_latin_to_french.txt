@@ -213,10 +213,12 @@ cler@noun!us-i%1(noun)=clergé
 clien@noun!s-tis2%1(noun)=client
 coct@adj!us-a-um%1(noun)=roti%2(noun)=cuisiné
 coemo@verb!norm%1(verb)=acheter
+coepi@verb!norm%1(verb)=commencer
 coerceo@verb!norm%1(verb)=entourer%2(verb)=enfermer
 cogo@verb!norm%1(verb)=reunir
 collaudo@verb!norm%1(verb)=prier ensemble%2(verb)=prier excessivement%3(verb)=prier collectif
 collect@noun!a-ae%1(noun)=collecte
+colo@verb!norm%1(verb)=habiter%2(verb)=cultiver
 column@noun!a-ae%1(noun)=colonne
 commeo@verb!norm%1(verb)=voyager%2(verb)=fréquenter%3(verb)=visiter
 comparo@verb!norm%1(verb)=comparer%2(verb)=assembler
@@ -644,6 +646,7 @@ intelligo@verb!norm%1(verb)=comprendre
 inter@prep%1(prep)=durant%2(prep)=entre
 interea@prep%1(prep)=pendant ce temps
 intereo@verb!norm%1(verb)=se perdre dans,disparaitre dans%2(verb)=perir,disparaitre,mourir%3(verb)=disparaitre
+interim@prep%1(prep)=durant%2(prep)=entre-temps
 interit@noun!us-us%1(noun)=destruction%2(noun)=ruine
 interrogo@verb!norm%1(verb)=interroger
 intro@verb!norm%1(verb)=pénéter%2(verb)=entrer
@@ -834,6 +837,7 @@ nec@prep%1(prep)=non plus
 nefari@adj!us-a-um%1(adj)=néfaste
 nerv@noun!us-i%1(noun)=nerf
 nihil@prep%1(prep)=rien
+nihil@noun!um-i%1(noun)=rien
 nil@noun!us-i%1(noun)=nil
 nimis@prep%1(prep)=trop
 nimi@adj!us-a-um%1(adj)=excessif
@@ -954,6 +958,7 @@ pervenio@verb!norm%1(verb)=atteindre%2(verb)=arriver%3(verb)=parvenir
 pervers@adj!us-a-um%1(adj)=pervers
 petr@noun!us-i%1(noun)=Pierre
 pi@adj!us-a-um%1(adj)=aimant%2(adj)=tendre%3(adj)=saint
+piet@noun!as-atis%1(noun)=sens du devoir
 pil@noun!a-ae%1(noun)=balle
 pir@noun!um-i%1(noun)=poire
 pisc@noun!is-is%1(noun)=poisson
@@ -1148,6 +1153,7 @@ scel@noun!us-eris%1(noun)=crime
 schol@noun!a-ae%1(noun)=secte%2(noun)=ensemble de disciples%3(noun)=école%4(noun)=leçon
 scienti@noun!a-ae%1(noun)=savoir
 scio@verb!nom%1(verb)=savoir
+schisma@noun!x-tis%1(noun)=schisme
 scribend@adj!us-a-um%1(adj)=qui doit être écrit
 scribo@verb!nom%1(verb)=ecrire
 script@noun!um-i%1(noun)=ligne%2(noun)=ecrit%3(noun)=la lettre, le texte (de la loi)%4(noun)=ecrit
@@ -1162,6 +1168,8 @@ seduco@verb!norm%1(verb)=séduire%2(verb)=tromper
 semen@noun!x-is%1(noun)=descendance%2(noun)=semence
 sement@noun!is-is%1(noun)=semence
 semet@prep%1(prep)=lui-même
+semin@noun!x-is%1(noun)=descendance%2(noun)=semence
+semino@verb!norm%1(verb)=semer
 semper@prep%1(adv)=une fois pour toutes%2(adv)=tout le temps,sans cesse%3(adv)=toujours
 sempitern@adj!us-a-um%1(adj)=éternel
 senat@noun!us-us%1(noun)=sénat
@@ -1199,6 +1207,7 @@ solid@adj!us-a-um%1(adj)=solide
 solut@adj!us-a-um%1(adj)=libéré
 solvo@verb!norm%1(verb)=payer%2(verb)=résoudre%3(verb)=enlever%4(verb)=dissoudre%5(verb)=acquitter
 sono@verb!norm%1(verb)=sonner%2(verb)=resonner
+spargo@verb!norm%1(verb)=disperser
 spart@noun!a-ae%1(noun)=sparte
 spati@noun!um-i%1(noun)=espace
 speci@noun!es-ei%1(noun)=apparence
@@ -1374,3 +1383,4 @@ voluc@adj!er-ris-re%1(adj)=ailé
 volum@noun!en-inis%1(noun)=livre
 volupt@noun!as-atis%1(noun)=plaisir
 vot@adj!us-a-um%1(adj)=prière
+zizani@noun!um-i%1(noun)=zizanie

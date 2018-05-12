@@ -45,8 +45,10 @@ cess,o,as,are,,,[o-as]
 circu,eo,is,ire,,,[eo-is]
 circumspic,io,is,ere,,,[io-is],(AIP*circumspic*circumspex*0)
 coem,o,is,ere,,,[o-is]
+coepi@IRREGULAR%[INFINITIVE]=[coepisse]%[IPR]=[coepi,coepisti,coepit,coepimus,coepistis,coeperunt]
 coerc,eo,es,ere,,,[eo-es]
 cog,o,is,ere,,,[o-is],(AIP*cog*coeg*0)
+col,o,is,ere,,,[o-is]
 collaud,o,as,are,avi,atum,[o-as]
 comme,o,as,are,avi,atum,[o-as]
 compar,o,as,are,avi,atum,[o-as]
@@ -249,12 +251,14 @@ sc,io,is,ire,,,[io-is],(AIP*sc*sciv*0@AIPP*sc*sciv*0)
 scrib,o,is,ere,,,[o-is]
 sed,eo,es,ere,,,[eo-es]
 seduc,o,is,ere,misi,missum,[o-is]
+semin,o,as,are,,,[o-as]
 separ,o,as,are,,,[o-as],(ASP*separe*separaveri*0)
 sequ,or,eris,i,,,[or-eris]
 serv,o,as,are,,,[o-as]
 sit,io,is,ire,,,[io-is],(ASI*site*siti*0)
 solv,o,is,ere,,,[o-is]
 son,o,as,are,,,[o-as]
+sparg,o,is,ere,,,[o-is]
 spec,io,is,ere,,,[io-is],(AIP*spec*spex*0)
 spect,o,as,are,,,[o-as]
 sper,o,as,are,,,[o-as]

@@ -533,6 +533,7 @@ nax@masc%us-i
 nazaren@masc%us-i
 nefari@adj%us-a-um
 nerv@masc%us-i
+nihil@neut%um-i
 nil@masc%us-i
 nimi@adj%us-a-um
 nobilissim@adj%us-a-um
@@ -614,6 +615,7 @@ persuas@adj%us-a-um
 pervers@adj%us-a-um
 petr@masc%us-i
 pi@adj%us-a-um
+piet@fem%as-atis
 pil@fem%a-ae
 pir@neut%um-i
 pisc@masc%is-is
@@ -719,6 +721,7 @@ sanguine@adj%us-a-um
 sardini@fem%a-ae
 scel@neut%us-eris
 scienti@fem%a-ae
+schisma@neut%x-tis
 schol@fem%a-ae
 scribend@adj%us-a-um
 scriptor@masc%scriptor
@@ -728,6 +731,7 @@ secreti@adj%or-or-us
 secund@adj%us-a-um
 semen@fem%x-is
 sement@neut%is-is
+semin@fem%x-is
 sempitern@adj%us-a-um
 senat@masc%us-us
 sequen@adj%s-s-s
@@ -857,3 +861,4 @@ volum@neut%en-inis
 volupt@fem%as-atis
 vot@adj%us-a-um
 vo@fem%x-cis
+zizani@neut%um-i
