@@ -33,10 +33,11 @@ adjuvo@verb!norm%1(verb)=aider
 adhuc@prep%1(prep)=jusqu'à maintenant
 adorand@adj!us-a-um%1(adj)=adoré
 adoro@verb!norm%1(verb)=admirer%2(verb)=adorer%3(verb)=accuser%4(verb)=negocier
+advers@adj!us-a-um%1(adj)=adverse
 adult@adj!us-a-um%1(adj)=brûlé%2(adj)=sacrifié
 advenio@verb!norm%1(verb)=arriver
-advers@adj!us-a-um%1(adj)=adverse
 adyt@noun!um-i%1(noun)=saint des saints
+aedifici@noun!um-i%1(noun)=édifice
 aegypt@noun!us-i%1(noun)=egypte
 aegypti@adj!us-a-um%1(adj)=egyptien
 aemili@noun!a-ae%1(noun)=aemilia
@@ -103,6 +104,7 @@ arbitror@verb!norm%1(verb)=observer%2(verb)=juger
 ascendo@verb!norm%1(verb)=jaillir%2(verb)=grimper%3(verb)=monter
 assumo@verb!norm%1(verb)=accepter%2(verb)=adopter%3(verb)=recevoir
 arabi@noun!a-ae%1(noun)=arabie
+arbitrat@adj!us-a-um%1(noun)=observé%2(adj)=jugé
 archangel@noun!us-i%1(noun)=archange
 ardor@noun!x-is%1(noun)=ardeur%2(noun)=flamme
 argument@noun!um-i%1(noun)=preuve%2(noun)=la chose qui est montree%3(noun)=matiere,sujet,objet%4(noun)=argument
@@ -220,6 +222,7 @@ collaudo@verb!norm%1(verb)=prier ensemble%2(verb)=prier excessivement%3(verb)=pr
 collect@noun!a-ae%1(noun)=collecte
 colo@verb!norm%1(verb)=habiter%2(verb)=cultiver
 column@noun!a-ae%1(noun)=colonne
+comedo@verb!norm%1(verb)=consommer
 commeo@verb!norm%1(verb)=voyager%2(verb)=fréquenter%3(verb)=visiter
 comparo@verb!norm%1(verb)=comparer%2(verb)=assembler
 compleo@verb!norm%1(verb)=accomplir
@@ -283,6 +286,7 @@ cresco@verb!norm%1(verb)=croitre
 cret@noun!a-ae%1(noun)=crète
 cristat@adj!us-a-um%1(adj)=avec crête
 criteri@noun!on-i%1(noun)=critère
+crudel@adj!is-is-e%1(adj)=cruel
 cruor@noun!x-is%1(noun)=sang
 crustat@noun!a-ae%1(noun)=langouste
 cubicul@noun!um-i%1(noun)=pièce
@@ -313,6 +317,7 @@ debeo@verb!norm%1(verb)=devoir
 debit@noun!um-i%1(noun)=dette
 decem@noun!inv%1(noun)=dix
 deficio@verb!norm%1(verb)=gaspiller%2(verb)=perdre
+definiti@noun!o-onis%1(noun)=définition
 deinde@prep%1(prep)=après%2(prep)=ensuite%3(prep)=à partir de là
 delecto@verb!norm%1(verb)=serejouir
 deleo@verb!norm%1(verb)=détruire%2(verb)=effacer
@@ -422,6 +427,7 @@ ereb@noun!us-i%1(noun)=démon érébus
 ergo@prep%1(prep)=parce que%2(prep)=donc
 erigo@verb!norl%1(verb)=stimuler%2(verb)=construire,ériger%3(verb)=elever
 eripio@verb!norl%1(verb)=secourir
+erran@adj!s-s-s%1(adj)=égaré
 error@noun!x-is2%1(noun)=erreur
 erudio@verb!norl%1(verb)=cultiver%2(verb)=eduquer%3(verb)=instruire
 esc@noun!a-ae%1(noun)=nourriture
@@ -446,6 +452,7 @@ excus@adj!us-a-um%1(adj)=falsifié
 exerceo@verb!norm%1(verb)=exercer
 exercit@adj!us-a-um%1(adj)=exercé%2(adj)=occupé
 exercit@noun!us-us%1(noun)=entrainé
+exitios@adj!us-a-um%1(noun)=mortel%2(adj)=pernicieux
 explicati@noun!o-onis%1(noun)=explication
 expositi@noun!o-onis%1(noun)=exposition
 expugnator@noun!x-is%1(noun)=conquérant
@@ -545,6 +552,7 @@ habeo@verb!norm%1(noun)=posséder%2(noun)=retenir%3(noun)=conduire%4(noun)=prés
 haben@adj!s-tis%1(adj)=portant%2(adj)=possédant%3(adj)=ayant
 habito@verb!norm%1(verb)=habiter
 hac@prep%1(prep)=cette
+haec@prep%1(prep)=ces
 haeres@noun!is-is%1(noun)=hérésie
 hebrae@adj!us-a-um%1(adj)=judeen%2(adj)=hebreu
 helveti@adj!us-a-um%1(adj)=helvète
@@ -606,7 +614,9 @@ importo@verb!norm%1(verb)=importer
 improb@noun!us-a-um%1(noun)=mauvais
 in@prep%1(prep+acc)=dans, en, sur : (sens local aboutissement d'un mouvement)%2(prep+acc)=jusqu'a : (temporel aboutissement d'un mouvement)%3(prep+acc)=a la maniere de%4(prep+acc)=pour, en faveur de%5(prep+abl)=dans,en,sur (sens local sans mouvement)%6(prep+abl)=dans (temporel indiquant une date ou un laps de temps)%7(prep+abl)=dans,parmi%8(prep+abl)=dans
 inan@adj!is-is-e%1(adj)=vide
+incarnat@noun!us-a-um%1(noun)=incarné
 incarnati@noun!o-onis%1(noun)=incarnation
+incendo@verb!norm%1(verb)=incendier
 incens@noun!um-i%1(noun)=encens
 incitat@adj!us-a-um%1(adj)=incité
 inclino@verb!norm%1(verb)=incliner
@@ -915,6 +925,7 @@ paradis@noun!us-i%1(noun)=jardin%2(noun)=paradis
 pareo@verb!norm%1(verb)=obeir
 pario@verb!norm%1(verb)=donnernaissance
 paro@verb!norm%1(verb)=preparer
+parat@adj!us-a-um%1(adj)=préparé
 parv@adj!us-a-um%1(adj)=insignifiant%2(adj)=petit
 parvul@adj!us-a-um%1(adj)=insignifiant%2(adj)=petit
 pasch@noun!a-ae%1(noun)=pâque
@@ -951,6 +962,7 @@ perfect@adj!us-a-um%1(adj)=accompli
 permot@adj!us-a-um%1(adj)=excité%2(adj)=agité
 pernici@noun!es-ei%1(noun)=désastre%2(noun)=ruine
 perpetu@adj!us-a-um%1(adj)=perpétuel
+persecutor@noun!x-is2%1(noun)=persécuteur
 persuadeo@verb!norm%1(verb)=persuader
 persuas@adj!us-a-um%1(adj)=convaincu
 pertineo@verb!norm%1(verb)=être la proriété de,appartenir à%2(verb)=avoir tendance à%3(verb)=rejoindre
@@ -986,6 +998,7 @@ post@prep%1(prep)=derrière%2(prep)=après
 postea@prep%1(prep)=ensuite
 postquam@prep%1(prep)=après
 port@noun!a-ae%1(noun)=porte
+portent@adj!us-a-um%1(adj)=prédit%2(adj)=indiqué
 potenti@noun!a-ae%1(noun)=puissance (force, action, efficacité, vertu agissante)%2(noun)=puissance (politique), pouvoir, autorite, credit, influence%3(noun)=puissance
 potentissim@adj!us-a-um%1(noun)=le plus puissante
 potissim@adj!us-a-um%1(noun)=principal%2(adj)=plus puissant
@@ -1010,6 +1023,7 @@ principi@noun!um-i%1(noun)=ce qui commence%2(noun)=fondement,origine%3(noun)=com
 principat@noun!us-us%1(noun)=suprématie%2(noun)=leadership%3(noun)=règle%4(noun)=première place
 prius@prep%1(prep)=précédemment
 priusquam@prep%1(prep)=jusqu'à%2(prep)=avant
+privat@adj!us-a-um%1(adj)=démuni
 pro@prep%1(prep+abl)=en avant,devant%2(prep+abl)=du haut%3(prep+abl)=en faveur,a la place,au lieu de%4(prep+abl)=en raison de,en vertu de%5(prep)=oh !,ah !%6(prep+acc)=que%7(prep+abl)=pour
 prob@noun!us-a-um%1(noun)=noble%2(noun)=bon
 probo@verb!norm%1(verb)=acquitter%2(verb)=démontrer%3(verb)=tester,inspecter%4(verb)=approuver
@@ -1050,6 +1064,7 @@ quaelibet@prep%1(prep)=n'importe où
 quam@prep%1(prep)=combien, a quel point (exclamatif)%2(prep)= autant que (avec tam : tam... quam... : autant... que...)%3(prep)=aussi... aussi... (construction quam... sic...)%4(prep)=comparaison avec un comparatif : <exp>magis quam</exp><trad>plus que</trad>%5(prep)=correlation avec un nom de nombre ou un nom multiplicatif%6(prep)=combien
 quamvis@prep%1(prep)=toutefois
 qu@adj!i-ae-od-cuius%1(rel)=qui
+quadringent@adj!e-a-ud%1(adj)=quatre cent
 quando@prep%1(prep)=parce que%2(prep)=quand
 quantumvis@prep%1(prep)=autant que vous le souhaitez
 quare@prep%1(prep)=comment
@@ -1354,6 +1369,7 @@ vest@adj!er-ra-rum%1(adj)=votre
 vestigi@noun!um-i%1(noun)=trace de pas
 vet@adj!adj-us-eris%1(adj)=de vieille date,qui remonte loin%2(adj)=d'autrefois,des temps anciens%3(adj)=les anciens,les gens d'autrefois%4(adj)=ancien
 vi@noun!a-ae%1(noun)=chemin,route,voie%2(noun)=voie,rue%3(noun)=route,voyage,trajet,course%4(noun)=passage,conduit,canal%5(noun)=moyen,procede,methode%6(noun)=chemin
+vic@noun!us-i%1(noun)=village
 victori@noun!a-ae%1(noun)=victoire
 video@verb!norm%1(verb)=observer,noter%2(verb)=voir
 vill@noun!a-ae%1(noun)=demeure%2(noun)=propriété

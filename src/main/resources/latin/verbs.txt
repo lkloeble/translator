@@ -50,6 +50,7 @@ coerc,eo,es,ere,,,[eo-es]
 cog,o,is,ere,,,[o-is],(AIP*cog*coeg*0)
 col,o,is,ere,,,[o-is]
 collaud,o,as,are,avi,atum,[o-as]
+comed,o,is,ere,,,[o-is]
 comme,o,as,are,avi,atum,[o-as]
 compar,o,as,are,avi,atum,[o-as]
 compl,eo,es,ere,ui,itum,[eo-es]
@@ -141,12 +142,13 @@ imper,o,as,are,avi,atus,[o-as]
 impl,eo,es,ere,,,[eo-es]
 impon,o,is,ere,,,[o-is]
 import,o,as,are,,,[o-as]
+incend,o,is,ere,,,[o-is]
+incip,io,is,ere,,,[io-is],(AIP*incip*incep*0)
 inclin,o,as,are,,,[o-as]
 incol,o,is,ere,,,[o-is]
 indig,eo,es,ere,,,[eo-es],(AIP*indig*indigu*0)
-incip,io,is,ere,,,[io-is],(AIP*incip*incep*0)
 induc,o,is,ere,duxi,ductum,[o-is],(AIP*induc*indux*0)
-infer,o,s,re,tuli,latum,[o-s]
+infer,o,s,re,tuli,latum,[o-s],(AIP*infer*intul*0)
 inform,o,as,are,,,[o-as]
 infig,o,is,ere,,,[o-is]
 inlumin,o,as,are,,,[o-as]
