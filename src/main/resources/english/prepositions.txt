@@ -198,6 +198,7 @@ thereof@prep()
 these@prep()
 they@prep()%[electPluralForFollowingVerb(6)]
 this@prep()
+thither@prep()
 those@prep()
 thou@prep()
 though@prep()

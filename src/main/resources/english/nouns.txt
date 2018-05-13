@@ -148,6 +148,7 @@ catherine@fem%normfem
 cathy@fem%invfem
 cattle@neut%normmasc
 caution@fem%normfem
+cave@neut%normmasc
 center@neut%invmasc
 censure@neut%normmasc
 century@neut%invmasc
@@ -190,6 +191,7 @@ comment@masc%normmasc
 commentar@masc%endy
 commentator@masc%normmasc
 common@adj%normmasc
+compan@fem%endy
 comparable@adj%normmasc
 comparison@fem%normfem
 compilation@fem%normfem
@@ -349,6 +351,7 @@ execution@neut%normmasc
 exclusive@adj%normmasc
 experience@neut%normmasc
 expression@neut%normmasc
+extension@neut%normmasc
 extensive@adj%normmasc
 external@adj%normmasc
 extremit@fem%endy
@@ -924,6 +927,7 @@ simon@masc%invmasc
 sin@masc%normmasc
 sion@masc%invmasc
 sir@masc%invmasc
+sister@masc%normmasc
 six@neut%invmasc
 sixth@neut%invmasc
 sixty@neut%invmasc
@@ -977,6 +981,7 @@ suburb@fem%normfem
 sugar@neut%normmasc
 suggestion@fem%normfem
 summer@neut%invmasc
+sun@neut%normmasc
 sunday@neut%normmasc
 sunny@adj%invmasc
 super@neut%invmasc

@@ -12,6 +12,7 @@ appear,[call]
 append,[call]
 apply,[live],(PAP*apply*applie*0)
 appoint,[call]
+apprehend,[call]
 ask,[call]
 assert,[call]
 attain,[call]
@@ -111,6 +112,7 @@ emulate,[live]
 encourage,[live]
 end,[call]
 endure,[live],(PAPR*endurei*enduri*0)
+enter,[call]
 establish,[teach]
 exclude,[live]
 expect,[call]
@@ -159,7 +161,7 @@ interpret,[live]
 invade,[live]
 hover,[live]
 join,[call]
-keep,[call]
+keep,[call],(PAP*keeped*kept*0)
 kill,[call]
 knock,[call]
 know,[live],(AIP*knowd*knew*0@PAP*knowd*known*0)
@@ -228,7 +230,7 @@ respect,[call]
 rest,[call]
 retain,[live]
 return,[call]
-rise,[live],(AIP*rised*rose*0@PAPR*rise*ris*0)
+rise,[live],(AIP*rised*rose*0@PAPR*rise*ris*0@PAP*rised*risen*0)
 root,[call]
 rule,[live]
 sail,[call]
