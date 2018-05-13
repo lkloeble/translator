@@ -68,10 +68,11 @@ dank,en,[leben]
 darbiet,en,[mochten](AIP*darbiet*darbot*0)
 darf,en,[wollen]
 darleg,en,[leben]
-denk,en,[leben]
+denk,en,[leben],(AII*denk*dach*0)
 denunzier,en,[leben]
 dien,en,[leben]
 diskutier,en,[leben]
+drang,en,[leben],(PAP*drang*gedrangt*0)
 dreh,en,[leben]
 druck,en,[leben],(PAP*dru*gedru*0)
 durf,en,[wollen],(IPR012*durf*darf*0@AIP*durf*durft*0)
@@ -110,7 +111,7 @@ fass,en,[leben],(PAP*fass*gefasst*0)
 feststeh,en,[stehen]
 feststell,en,[leben]
 feucht,en,[leben],(AII*feucht*feuchte*0)
-find,en,[leben],(PAP*find*gefunden*0)
+find,en,[mochten],(PAP*find*gefunden*0@AIP*find*fand*0)
 fixier,en,[leben]
 flieg,en,[leben]
 folg,en,[leben]
@@ -123,6 +124,7 @@ full,en,[leben]
 garantier,en,[leben]
 geb,en,[rufen],(IPR124*geb*gib*0@AII*geb*gab*0@ASI*geb*gab*0@AIP*geb*gab*0)
 gebar,en,[leben],(IPR12*gebar*gebier*0@PAP*gebar*geboren*0)
+gebrauch,en,[leben]
 geh,en,[lassen],(AIP*geh*ging*0@PAP*geh*gegang*0)
 gehor,en,[leben]
 gelt,en,[gelten],(AIP*gel*gal*0@IPR12*gelt*gilt*0)
@@ -135,6 +137,7 @@ gewinn,en,[leben]
 glaub,en,[leben]
 haben@IRREGULAR%[IPR]=[habe,hast,hat,haben,habt,haben]%[AIP]=[hatte,hattest,hatte,hatten,hattet,hatten]%[INFINITIVE]=[haben]
 halt,en,[halten],(AII*halt*hielt*0)
+hand,eln,[sammeln]
 hang,en,[leben]
 heilig,en,[leben]
 heirat,en,[mochten],(PAP*heirat*geheiratet*0)
@@ -280,6 +283,7 @@ verschreib,en,[rufen]
 versteh,en,[leben]
 verschweig,en,[lassen],(PAP*verschweig*verschwieg*0)
 versteck,en,[leben],(PAP*versteck*versteckt*0)
+versteh,en,[rufen],(AIP*versteh*verstand*0)
 versterb,en,[leben],(PAP*versterb*verstorben*0)
 verstoss,en,[genesen],(PAP*verstoss*verstossen*0)
 versuch,en,[leben]
@@ -298,6 +302,7 @@ wachs,en,[genesen],(PAP*wa*gewa*0)
 wag,en,[leben],(PAP*wag*gewagt*0)
 web,en,[leben]
 weggeh,en,[rufen],(AIP*weggeh*wegging*0)
+weich,en,[rufen]
 weis,en,[genesen]
 wend,en,[wenden]
 werd,en,[werden],(AIP*werd*wurd*0@PAP*werden*geworden*0)

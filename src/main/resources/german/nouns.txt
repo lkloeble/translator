@@ -4,6 +4,7 @@ abendessen@neut%inv
 abends@neut%inv
 aber@neut%inv
 abhandlung@fem%meinfem
+abkommling@masc%phanomen
 abkurzung@fem%meinfem
 abneigung@fem%meinfem
 absicht@fem%meinfem
@@ -362,6 +363,7 @@ geflugel@neut%arbeiter
 gefuhl@neut%phanomen
 gefuhlsam@neut%inv
 gegeben@adj%ausreichend
+gegensatz@masc%phanomen
 gegenwart@fem%inv
 gegenwartig@adj%ausreichend
 geheim@adj%ausreichend
@@ -411,6 +413,7 @@ glaubwurdiger@adj%ausreichend
 gleich@adj%ausreichend
 gleichzeitig@adj%ausreichend
 gluck@fem%flasche
+gold@neut%phanomen
 gotisch@adj%ausreichend
 gott@masc%inv
 gottes@masc%inv
@@ -422,6 +425,7 @@ griechentum@neut%arbeiter
 griechisch@adj%ausreichend
 gross@adj%ausreichend
 grosser@adj%ausreichend
+grosst@adj%ausreichend
 grubler@masc%burger
 grun@adj%ausreichend
 grund@neut%jahrzehnt
@@ -769,6 +773,8 @@ pinchas@neut%inv
 pizza@neut%meinmasc
 pflanze@fem%flasche
 plan@masc%ausreichend
+plato@masc%inv
+platos@masc%inv
 platz@masc%phanomen
 politik@fem%inv
 politiker@masc%arbeiter
@@ -891,6 +897,7 @@ schwerfallig@adj%ausreichend
 sechst@adj%ausreichend
 sechzehn@neut%inv
 seele@fem%flasche
+segnung@fem%meinfem
 sekretarin@fem%inv
 selbstandig@adj%ausreichend
 seltne@adj%inv
@@ -905,6 +912,7 @@ situation@fem%norm
 sitzung@fem%meinfem
 sklave@neut%flasche
 sklavin@fem%sangerin
+sm@neut%inv
 smarkt@neut%inv
 sohn@masc%norm
 sokrates@neut%inv
@@ -1169,6 +1177,7 @@ zeichen@neut%zeichen
 zeit@neut%meinmasc
 zeitraum@masc%phanomen
 zeitschrift@fem%meinfem
+zepter@neut%burger
 zeremonie@fem%flasche
 zerspalten@fem%angst
 zeugnis@neut%erkenntnis

@@ -7,6 +7,7 @@ abends@noun!inv%1(noun)=le soir
 aber@noun!inv%1(noun)=mais
 abhandlung@noun!meinfem%1(noun)=traité
 abhang@verb!norm%1(verb)=dependre
+abkommling@noun!phanomen%1(noun)=descendant
 abkurzung@noun!meinfem%1(noun)=abbréviation
 abneigung@noun!meinfem%1(noun)=aversion
 abschliess@verb!norm%1(verb)=terminer
@@ -358,6 +359,7 @@ doppelt@adj!ausreichend%1(adj)=double
 dorn@noun!autor%1(noun)=épine
 dort@prep%1(prep)=là
 drang@noun!jahrzehnt%1(noun)=pression
+drang@verb!norm%1(verb)=presser
 dreh@verb!norm%1(verb)=tourner
 drei@noun!inv%1(noun)=trois
 dritt@adj!ausreichend%1(adj)=troisième
@@ -580,6 +582,7 @@ gebiet@noun!phanomen%1(noun)=zone%2(noun)=territoire
 gebildet@adj!ausreichend%1(adj)=constitué
 geblieben@adj!ausreichend%1(adj)=resté
 gebracht@adj!ausreichend%1(adj)=amené
+gebrauch@verb!norm%1(verb)=utiliser
 geburt@noun!meinfem%1(noun)=naissance
 geburtstag@noun!inv%1(noun)=anniversaire
 gedachtnis@noun!phanomen%1(noun)=souvenir%2(noun)=mémoire
@@ -594,6 +597,7 @@ gefuhl@noun!phanomen%1(noun)=sentiment
 gefuhlsam@noun!inv%1(noun)=sentimental
 gegeben@adj!ausreichend%1(adj)=factuel%2(noun)=préexistant%3(noun)=donné
 gegen@prep%1(prep)=contre
+gegensatz@noun!phanomen%1(noun)=contradiction
 gegenwart@noun!inv%1(noun)=présence%2(noun)=temps présent
 gegenwartig@adj!ausreichend%1(adj)=existant%2(adj)=présent%3(adj)=contemporain%4(adj)=courant
 geh@verb!norm%1(verb)=aller
@@ -656,6 +660,7 @@ glaubwurdiger@adj!ausreichend%1(adj)=plus crédible
 gleich@adj!ausreichend%1(adj)=identique%(adj)=égal
 gleichzeitig@adj!ausreichend%1(adj)=simultané
 gluck@noun!flasche%1(noun)=chance
+gold@noun!phanomen%1(noun)=or
 gotisch@adj!ausreichend%1(adj)=gothique
 gott@noun!inv%1(noun)=dieu
 gottes@noun!inv%1(noun)=de dieu
@@ -667,6 +672,7 @@ griechentum@noun!arbeiter%1(noun)=hellénisme
 griechisch@adj!ausreichend%1(adj)=grec
 gross@adj!ausreichend%1(adj)=grand
 grosser@adj!ausreichend%1(adj)=plus grand
+grosst@adj!ausreichend%1(adj)=le plus grand
 grubler@noun!burger%1(noun)=éleveur
 grun@adj!ausreichend%1(adj)=vert
 grund@noun!jahrzehnt%1(noun)=sol%2(noun)=raison
@@ -683,6 +689,7 @@ halle@noun!inv%1(noun)=halle
 hallo@noun!inv%1(noun)=allo
 halluzination@noun!meinfem%1(noun)=hallucination
 halt@verb!norm%1(verb)=arrêter%2(verb)=tenir
+hand@verb!norm%1(verb)=agir
 hand@noun!rest%1(noun)=main
 hang@noun!reis%1(noun)=inclinaison
 hang@verb!norm%1(verb)=etreattache
@@ -737,6 +744,7 @@ hinsicht@noun!meinfem%1(noun)=point de vue
 hinstell@verb!norm%1(verb)=poser%2(verb)=decrire
 hinter@prep%1(prep)=derrière
 hintersinn@noun!inv%1(noun)=arrière-pensée
+hinweg@prep%1(prep)=tout au long
 hinzu@prep%1(prep)=en plus
 hoch@adj!inv%1(adj)=haut
 hochmutig@adj!ausreichend%1(adj)=arrogant
@@ -1043,6 +1051,7 @@ muss@verb!norm%1(verb)=devoir
 mut@noun!inv%1(noun)=courage
 mutter@noun!inv%1(noun)=mère
 mutterlich@adj!ausreichend%1(adj)=maternel
+mutterlichseits@prep%1(prep)=maternel
 mutterlicherseits@prep%1(prep)=maternel
 mystisch@adj!ausreichend%1(adj)=mystique
 mythus@noun!inv%1(noun)=mythe
@@ -1147,6 +1156,8 @@ pinchas@noun!inv%1(noun)=pinhas
 pizza@noun!meinmasc%1(noun)=pizza
 plan@noun!ausreichend%1(noun)=projet
 plan@verb!norm%1(verb)=prevoir
+plato@noun!inv%1(noun)=platon
+platos@noun!inv%1(noun)=de platon
 platz@noun!phanomen%1(noun)=lieu%2(noun)=place
 politik@noun!inv%1(noun)=politique
 politiker@noun!arbeiter%1(noun)=politicien
@@ -1301,6 +1312,7 @@ sechst@adj!ausreichend%1(adj)=sixième
 sechzehn@noun!inv%1(noun)=seize
 seele@noun!flasche%1(noun)=esprit%2(noun)=âme
 segn@verb!irrg%1(verb)=benir
+segnung@noun!meinfem%1(noun)=bénédiction
 seh@verb!irrg%1(verb)=voir
 sehr@prep%1(prep)=très
 sein@prep%1(prep)=son
@@ -1338,6 +1350,7 @@ sitzung@noun!meinfem%1(noun)=réunion
 skizzier@verb!norm%1(verb)=dessiner
 sklave@noun!flasche%1(noun)=esclave
 sklavin@noun!sangerin%1(noun)=esclave
+sm@noun!inv%1(noun)=sm
 smarkt@noun!inv%1(noun)=marché de
 so@prep%1(prep)=à ce point%2(prep)=alors
 sofort@prep%1(prep)=tout de suite
@@ -1660,6 +1673,7 @@ weder@prep%1(prep)=ni%2(prep)=aucun
 weg@noun!phanomen%1(noun)=voie%2(noun)=chemin
 weggeh@verb!norm%1(verb)=partir
 weib@noun!ort%1(noun)=épouse%2(noun)=femme
+weich@verb!norm%1(verb)=quitter
 wein@noun!inv%1(noun)=vin
 weis@verb!norm%1(verb)=indiquer
 weit@adj!ausreichend%1(adj)=large%2(adj)=loin
@@ -1732,6 +1746,7 @@ zeig@verb!norm%1(verb)=montrer
 zeit@noun!meinmasc%1(noun)=temps
 zeitraum@noun!phanomen%1(noun)=période
 zeitschrift@noun!meinfem%1(noun)=magazine%2(noun)=périodique
+zepter@noun!burger%1(noun)=sceptre
 zeremonie@noun!flasche%1(noun)=cérémonie
 zerspalten@noun!angst%1(noun)=scission
 zerstor@verb!norm%1(verb)=detruire
