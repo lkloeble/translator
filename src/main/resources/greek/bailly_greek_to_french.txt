@@ -18,9 +18,11 @@
 αγορ@noun!α-ας%1(noun)=marché%2(noun)=harangue,discours%3(noun)=assemblée
 αγρ@noun!ος-ου%1(noun)=champ
 αδελφ@noun!ος-ου%1(noun)=frère
+αδελφοτ@noun!ης-ητος%(noun)=fraternité
 αδικε@verb!norm%1(verb)=pecher
 αδικι@noun!α-ας%1(noun)=injustice
 αε@noun!ρ-ρος%1(noun)=air
+αει@prep%1(prep)=toujours
 αηρ@noun!inv%1(noun)=air
 αζωρ@noun!inv%1(noun)=azor
 αθην@noun!α-ας%1(noun)=athéna
@@ -62,6 +64,7 @@
 αναξιμανδρ@noun!ος-ου%1(noun)=anaximandre
 ανατολ@noun!η-ης%1(noun)=est
 ανεμ@noun!ος-ου%1(noun)=agitation de l'âme,passion tumultueuse%2(noun)=vent
+ανευ@prep%1(prep)=sans
 ανθρωπ@noun!ος-ου%1(noun)=être humain%2(noun)=homme
 αυθαδη@noun!inv%1(noun)=égoïste%2(noun)=têtu
 ανοιγ@verb!norm%1(verb)=ouvrir
@@ -95,6 +98,7 @@
 αρα@prep%1(prep)=c'est pourquoi
 αραμ@noun!inv%1(noun)=aram
 αργυρι@noun!ον-ου%1(noun)=monnaie%2(noun)=argent
+αριθμ@noun!ος-ου%1(noun)=somme
 αρτ@noun!ος-ου%1(noun)=pain
 αρχ@noun!η-ης%1(noun)=principe,origine%2(noun)=point de depart%3(noun)=extremite finale,recapitulation,total%4(noun)=commandement,pouvoir,autorite%5(noun)=commencement
 αρκε@verb!norm%1(verb)=assister%2(verb)=ecarter
@@ -227,6 +231,7 @@
 ελεαζαρ@noun!inv%1(noun)=éléazar
 ελιακιμ@noun!inv%1(noun)=éliakim
 ελιουδ@noun!inv%1(noun)=éliud
+ελε@noun!ος-ου%1(noun)=pitié%2(noun)=miséricorde
 ελλην@noun!x-ος%1(noun)=grec
 ελληνικ@noun!ος-η-ον%1(adj)=grec
 εμμανουηλ@noun!inv%1(noun)=emmanuel
@@ -241,6 +246,7 @@
 εντολ@noun!η-ης%1(noun)=précepte%2(noun)=commandement
 ενωπιον@prep%1(prep)=face à face
 εξ@prep%1(prep)=hors de
+εξω@prep%1(prep)=hors de
 εξαγ@verb!norm%1(verb)=faireemerger%2(verb)=bannir%3(verb)=enlever%4(verb)=emmener
 εξουσι@noun!α-ας%1(noun)=autorité
 επ@prep%1(prep)=au temps de%2(prep)=sur
@@ -403,6 +409,7 @@
 κριτ@noun!ης-ου%1(noun)=juge
 κροκοδειλ@noun!ος-ου%1(noun)=crocodile
 κρον@noun!ος-ου%1(noun)=temps
+κτην@noun!ος-ους%1(noun)=animal domestique
 κυλινδροειδ@noun!ης-ου%1(noun)=cylindre
 κυκλ@noun!ος-ου%1(noun)=roue%2(noun)=cercle%3(noun)=anneau
 κυρι@noun!ος-ου%1(noun)=Dieu%2(noun)=seigneur
@@ -466,6 +473,7 @@
 μισθ@noun!ος-ου%1(noun)=salaire%2(noun)=récompense
 μνηστ@verb!norm%1(verb)=epouser%2(verb)=sefiancer
 μοι@prep%1(prep)=moi
+μου@prep%1(prep)=mon
 μνημει@noun!ον-ου%1(noun)=tombeau
 μυ@noun!inv%1(noun)=mu
 μυστηρι@noun!ον-ου%1(noun)=sacrement%2(noun)=mystère
@@ -555,6 +563,7 @@
 πασα@noun!inv%1(noun)=toute
 πασαι@noun!inv%1(noun)=toutes
 πασαν@noun!inv%1(noun)=toute
+πασης@prep%1(prep)=toute
 πασιν@prep%1(prep)=tous
 πατ@noun!ηρ-ρος%1(noun)=père
 παυλ@noun!ος-ου%1(noun)=paul
@@ -771,6 +780,7 @@
 φερ@verb!norm%1(verb)=transporter%2(verb)=porter
 φημι@verb!irrg%1(verb)=dire
 φθειρ@verb!norm%1(verb)=detruire
+φθορ@noun!α-ας%1(noun)=destruction
 φιλ@verb!norm%1(verb)=éprouver de l'amitié,triater en ami%2(verb)=donner un signe d'amitié%3(verb)=rechercher,poursuivre%4(verb)=aimer
 φιλ@noun!ος-ου%1(noun)=ami
 φιλλ@noun!ος-ου%1(noun)=phillos

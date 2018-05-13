@@ -32,3 +32,4 @@ PIP=>ωμαι,α,αται,ωμεθα,ασθε,ωνται
 PERFMIDPASSINDI=>μμαι,ψαι,πται,μμεθα,φθε,φαται
 MIDPASSPLUPERFIND=>μην,σο,το,μεθα,θε,ατο
 PRMIDPASSPART=>[ος-η-ον]
+PRESPASSINF=>εσθαι

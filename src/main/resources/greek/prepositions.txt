@@ -1,4 +1,5 @@
 α@prep()
+αει@prep()
 αι@prep()
 αλλ@prep()
 αλληλα@prep(nom)
@@ -8,6 +9,7 @@
 αν@prep()
 ανα@prep()%[findAvaMesov]
 αναμεσον@prep()
+ανευ@prep()
 ανω@prep()
 ανωτατω@prep()
 απο@prep()
@@ -35,6 +37,7 @@
 επ@prep()
 επι@prep()
 εξ@prep()
+εξω@prep()
 εως@prep()
 επανω@prep()
 επι@prep%[electGenitiveForFollowingNoun(επιgen),electDativeForFollowingNoun(επιdat),electAccusativeForFollowingNoun(επιacc)]
@@ -73,6 +76,7 @@
 μην@prep()
 μητε@prep()
 μοι@prep()
+μου@prep()
 νυν@prep()
 οδε@prep()
 οιον@prep()
@@ -101,6 +105,7 @@
 παραacc@prep()
 παραdat@prep()
 παραgen@prep()
+πασης@prep(gen)
 πασιν@prep(dat)
 περι@prep%[electAccusativeForFollowingNoun(περιacc),electGenitiveForFollowingNoun(περιgen)]
 περιacc@prep()

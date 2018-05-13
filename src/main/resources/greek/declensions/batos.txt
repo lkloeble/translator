@@ -3,7 +3,8 @@ nom%plr%masc%εα
 gen%sing%masc%ους
 gen%plr%masc%εων
 acc%sing%masc%ος
-acc%plr%masc%εα
+acca%plr%masc%εα
+accb%plr%masc%η
 voc%sing%masc%ος
 voc%plr%masc%εα
 dat%sing%masc%ει
