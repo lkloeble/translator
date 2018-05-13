@@ -690,7 +690,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("filocalia1W2", translatorBridge);
         checkInMaps("filocalia1X", translatorBridge);
         checkInMaps("filocalia1Y", translatorBridge);
-        checkInMaps("filocalia1Z", translatorBridge);
+        //checkInMaps("filocalia1Z", translatorBridge);
     }
 
     @Test

@@ -177,5 +177,5 @@ van,,[vinde],(IPR1234*van*vin*0@PSP1234*van*vin*0)
 vin@IRREGULAR%[IPR]=[vin,vii,vine,venim,venitsi,vin]%[AII]=[veneam,veneai,venea,veneam,veneatsi,veneau]%[PAPR]=[venind]%[PAP]=[venit]%[INFINITIVE]=[veni]
 vorb,i,[aciti]
 vr,,[vrea],(AIF*vr*v*0)
-zbor,,[incerca],(PAPR*zbor*zbur*0)
+zbor,,[incerca],(PAPR*zbor*zbur*0@AII*zbor*zbur*0)
 zic,,[merg],(AIP*zic*zis*0@AII*zic*zice*0@PAP*zics*zis*0)

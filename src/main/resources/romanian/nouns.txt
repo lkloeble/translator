@@ -155,6 +155,8 @@ cuprins@masc%ul
 curajos@adj%adj
 curind@neut%inv
 curs@masc%ul
+cuvant@masc%ul
+cuvint@masc%ul
 dadac@fem%fem
 dan@neut%inv
 dat@adj%adjts
@@ -289,6 +291,7 @@ incredintsar@fem%berea
 indrazneal@fem%fem
 indreptar@fem%berea
 inexplicabil@adj%adj
+inferi@adj%adjor
 influent@fem%femts
 inger@masc%ul
 inrudiri@neut%inv
@@ -304,6 +307,8 @@ intreaga@fem%inv
 intreg@adj%adj
 intretsinut@adj%adj
 intseleasa@adj%inv
+intselept@adj%adjts
+intseleapta@adj%inv
 intunecare@neut%inv
 intunecat@adj%adj
 invatsat@adj%adjts
@@ -347,7 +352,7 @@ lup@masc%ul
 m@neut%inv
 macrocosmos@masc%ul
 magazin@neut%inv
-mainile@neut%inv
+main@fem%berea
 mal@masc%ul
 mam@fem%fem
 manuscris@neut%inv
@@ -432,10 +437,13 @@ och@masc%copil
 ocupat@adj%adj
 odata@neut%inv
 odihn@fem%fem
+odrasl@fem%fem
 om@masc%ul
 oper@fem%fem
+opt@neut%inv
 ora@fem%inv
 oras@masc%ul
+organic@adj%adj
 original@adj%adj
 originare@neut%inv
 origine@fem%ereditate
@@ -511,6 +519,7 @@ purtar@fem%berea
 pusti@fem%ratsiune
 puter@fem%berea
 puternic@adj%adj
+ra@masc%fiul
 radacin@fem%fem
 radu@neut%inv
 ragusit@adj%adj
@@ -520,6 +529,7 @@ ratsional@adj%adj
 ratsionalita@fem%capacitate
 ratsiun@fem%ratsiune
 rau@adj%inv
+rauri@masc%inv
 raz@fem%fem
 realita@fem%capacitate
 rece@adj%adj
@@ -631,6 +641,8 @@ tirziu@neut%inv
 totul@neut%inv
 traducer@fem%berea
 treab@fem%treaba
+treapt@fem%fem
+trept@fem%fem
 trebuint@fem%femts
 trei@neut%inv
 treisprezece@neut%inv
@@ -673,6 +685,7 @@ vampir@masc%ul
 vanatoare@fem%inv
 vazut@adj%adj
 veac@neut%ul
+vech@adj%adj
 vecin@masc%ul
 veder@fem%berea
 ver@adj%adjverde

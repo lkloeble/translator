@@ -1,2 +1,3 @@
 nom%sing%fem%sa
-nom%plr%fem%se
+noma%plr%fem%se
+nomb%plr%fem%sele

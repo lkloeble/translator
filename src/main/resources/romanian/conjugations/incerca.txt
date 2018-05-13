@@ -1,4 +1,5 @@
 IPR=>,i,a,am,atsi,a
+AII=>am,ai,a,am,atsi,au
 ASP=>,i,e,am,atsi,e
 PAP=>at
 PAPR=>and|andu
