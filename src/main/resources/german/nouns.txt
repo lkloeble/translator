@@ -31,14 +31,15 @@ altest@adj%ausreichend
 amerikanisch@adj%ausreichend
 analytisch@adj%ausreichend
 anarchisch@adj%ausreichend
-angeblich@adj%ausreichend
 ander@adj%ausreichend
 andre@adj%masc
 andrer@adj%masc
 anfang@masc%norm
 angabe@fem%flasche
+angeblich@adj%ausreichend
 angesehn@neut%inv
 angst@fem%angst
+anhanglichkeit@fem%meinfem
 anlehnung@masc%meinmasc
 anm@neut%inv
 anrufung@fem%meinfem
@@ -75,6 +76,7 @@ auge@neut%flasche
 augenblick@neut%inv
 ausdruck@masc%jahrzehnt
 ausflucht@fem%angst
+ausfuhrung@fem%meinfem
 ausgabe@fem%flasche
 ausgezeichnet@neut%norm
 ausland@neut%jahrzehnt
@@ -86,13 +88,16 @@ ausserung@neut%meinmasc
 ausspruche@fem%flasche
 ausziehens@neut%inv
 auszugraben@neut%inv
-autor@masc%autor
 auto@fem%tipp
+autonom@adj%ausreichend
+autor@masc%autor
 b@neut%inv
 bab@neut%inv
 babel@neut%inv
+babyl@neut%inv
 babylon@neut%inv
 babylonien@neut%jahrzehnt
+babylonisch@adj%ausreichend
 bad@neut%licht
 bahn@fem%meinfem
 bahnhof@fem%meinfem
@@ -337,11 +342,13 @@ frucht@fem%tipp
 fruchtbar@adj%ausreichend
 fruh@adj%ausreichend
 fruher@adj%ausreichend
+fuhrer@masc%arbeiter
 funf@neut%inv
 funft@adj%ausreichend
 furcht@fem%angst
 furchtbar@adj%ausreichend
 furchten@neut%inv
+fuss@masc%phanomen
 fussganger@masc%meinmasc
 ganz@adj%ausreichend
 garten@masc%inv
@@ -387,6 +394,8 @@ geratenst@adj%ausreichend
 gerechtfertigt@adj%ausreichend
 gerechtsame@fem%flasche
 gericht@neut%autor
+gering@adj%ausreichend
+geringer@adj%ausreichend
 geruhmt@adj%ausreichend
 gesamt@adj%ausreichend
 gesammelt@adj%ausreichend
@@ -403,6 +412,7 @@ gesundheit@fem%norm
 getier@neut%inv
 getrank@neut%rest
 gevogel@neut%inv
+gewalt@fem%meinfem
 gewesen@neut%inv
 gewiss@adj%ausreichend
 geworden@adj%ausreichend
@@ -413,6 +423,7 @@ glaubwurdiger@adj%ausreichend
 gleich@adj%ausreichend
 gleichzeitig@adj%ausreichend
 gluck@fem%flasche
+gn@neut%inv
 gold@neut%phanomen
 gotisch@adj%ausreichend
 gott@masc%inv
@@ -459,6 +470,7 @@ herberge@fem%flasche
 herkunft@fem%norm
 herr@neut%meinmasc
 herrlichkeit@fem%meinfem
+herrscher@masc%arbeiter
 herstellung@fem%meinfem
 herzlich@masc%meinmasc
 heute@neut%inv
@@ -730,6 +742,7 @@ nieder@adj%ausreichend
 niedergang@masc%arbeiter
 nihilismus@neut%inv
 norm@fem%meinfem
+not@fem%kunst
 notig@adj%ausreichend
 notwehr@neut%inv
 notwendig@adj%ausreichend
@@ -749,7 +762,9 @@ ort@masc%ort
 ostern@neut%inv
 ostlich@adj%ausreichend
 paare@neut%inv
+palast@masc%phanomen
 palastina@neut%inv
+palastinisch@adj%ausreichend
 park@neut%inv
 parallel@adj%ausreichend
 partei@masc%meinmasc
@@ -930,6 +945,7 @@ spekulant@masc%meinmasc
 spekulation@fem%norm
 sportlich@adj%inv
 sprache@fem%flasche
+stab@masc%phanomen
 stadt@fem%meinfem
 stadtrat@neut%inv
 stadtverwaltung@neut%inv
@@ -1068,6 +1084,7 @@ verehelichung@fem%meinfem
 verfall@masc%arbeiter
 verfasser@masc%norm
 verfuhrendst@adj%ausreichend
+verfuhrerei@neut%inv
 vergrubelt@neut%inv
 verhaltnis@neut%erkenntnis
 verhangnisvoll@adj%ausreichend
@@ -1143,6 +1160,7 @@ wert@masc%jahrzehnt
 wetter@neut%inv
 wichtig@neut%inv
 wichtigst@adj%ausreichend
+widerspruch@masc%phanomen
 widrig@adj%ausreichend
 wiederholung@fem%meinfem
 wien@neut%inv

@@ -308,6 +308,7 @@ eastward@neut%invmasc
 eden@neut%invmasc
 edition@fem%normfem
 edomite@neut%normmasc
+education@neut%normmasc
 effort@neut%normmasc
 egg@masc%normmasc
 egypt@neut%invmasc
@@ -517,12 +518,14 @@ incense@neut%normmasc
 inferior@adj%normmasc
 infinite@adj%normmasc
 inheritance@neut%normmasc
+inn@neut%normmasc
 instruction@neut%normmasc
 intended@adj%invmasc
 interest@masc%normmasc
 interesting@neut%invmasc
 interpretation@fem%normfem
 invention@neut%normmasc
+iron@neut%invmasc
 isle@fem%normfem
 israel@neut%invmasc
 israelite@neut%normmasc
@@ -584,6 +587,7 @@ lesser@adj%invmasc
 letter@neut%normmasc
 level@neut%normmasc
 leviathan@neut%normmasc
+levite@neut%normmasc
 life@fem%invfem
 lifetime@fem%invfem
 light@fem%normfem
@@ -732,6 +736,7 @@ page@fem%normfem
 pain@masc%normmasc
 palestine@neut%invmasc
 palestinian@adj%normmasc
+palm@neut%normmasc
 paragraph@masc%normmasc
 parallel@neut%normmasc
 parliament@masc%normmasc

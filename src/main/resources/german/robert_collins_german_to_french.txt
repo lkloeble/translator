@@ -56,6 +56,7 @@ angeblich@adj!ausreichend%1(adj)=prétendu
 angehor@verb!norm%1(verb)=appartenir
 angesehn@noun!inv%1(noun)=considéré
 angst@noun!angst%1(noun)=peur
+anhanglichkeit@noun!meinfem%1(noun)=attachement
 anlehnung@noun!meinmasc%1(noun)=dépendance%2(noun)=modèle
 anm@noun!inv%1(noun)=nb
 anruf@verb!norm%1(verb)=appeler
@@ -112,6 +113,7 @@ aus@prep%1(prep)=de
 ausdruck@noun!jahrzehnt%1(noun)=expression
 ausdrucklich@prep%1(prep)=explicitement
 ausflucht@noun!angst%1(noun)=excuse
+ausfuhrung@noun!meinfem%1(noun)=mise en oeuvre
 ausgabe@noun!flasche%1(noun)=édition
 ausgezeichnet@noun!norm%1(adj)=superbe%2(adj)=excellent
 ausland@noun!jahrzehnt%1(noun)=pays étranger
@@ -130,12 +132,15 @@ ausziehens@noun!inv%1(noun)=enlèvement
 auszudruck@verb!norm%1(verb)=exprimer
 auszugraben@noun!inv%1(noun)=exhumer
 auto@noun!tipp%1(noun)=voiture
+autonom@adj!ausreichend%1(adj)=autonome
 autor@noun!autor%1(noun)=auteur
 b@noun!inv%1(noun)=b
 bab@noun!inv%1(noun)=bab
 babel@noun!inv%1(noun)=babylone
+babyl@noun!inv%1(noun)=babyl
 babylon@noun!inv%1(noun)=babylone
 babylonien@noun!jahrzehnt%1(noun)=babylonien
+babylonisch@adj!ausreichend%1(adj)=babylonien
 bad@noun!licht%1(noun)=bain
 bahn@noun!meinfem%1(noun)=route
 bahnhof@noun!meinfem%1(noun)=station de métro
@@ -164,6 +169,7 @@ behaft@verb!norm%1(verb)=entacher
 behalt@verb!norm%1(verb)=garder
 behand@verb!norm%1(verb)=traiter
 behaupt@verb!norm%1(verb)=affirmer
+beherrsch@verb!norm%1(verb)=gouverner
 behorde@noun!flasche%1(noun)=autorité
 bei@prep%1(prep)=par
 beibring@verb!norm%1(verb)=enseigner
@@ -199,6 +205,7 @@ berlin@noun!inv%1(noun)=berlin
 beruh@verb!norm%1(verb)=reposer
 besam@verb!norm%1(verb)=fertiliser
 bescheiden@noun!ausreichend%1(adj)=humble%2(adj)=modeste
+besitz@verb!norm%1(verb)=posseder
 besonder@noun!ausreichend%1(adj)=extraordinaire%2(adj)=particulier%3(adj)=spécial
 besonders@prep%1(prep)=particulièrement
 best@adj!mein%1(adj)=le meilleur
@@ -280,6 +287,7 @@ dadurch@prep%1(prep)=ainsi%2(prep)=donc
 dafur@prep%1(prep)=au moins
 dagegen@prep%1(prep)=contre
 daher@prep%1(prep)=à partir de là%2(prep)=d'où
+dahin@prep%1(prep)=là-bas
 damals@prep%1(prep)=à ce moment
 dame@noun!flasche%1(noun)=dame
 damit@prep%1(prep)=de façon que
@@ -292,11 +300,13 @@ daraufhin@prep%1(prep)=ensuite
 daraus@prep%1(prep)=ainsi
 darbiet@verb!norm%1(verb)=offrir
 darf@verb!norm%1(verb)=avoirledroit
+darin@prep%1(prep)=dedans
 darleg@verb!norm%1(verb)=presenter
 daruber@prep%1(prep)=au-dessus
 darum@prep%1(prep)=donc%2(prep)=dès lors
 das@prep%1(prep)=ceci[le]
 dasein@noun!rest%1(noun)=être là
+daselbst@prep%1(prep)=là
 dass@prep%1(prep)=que
 dasselbe@prep%1(prep)=identique
 david@noun!inv%1(noun)=david
@@ -374,6 +384,7 @@ durch@prep%1(prep)=via%2(prep)=par
 durchsicht@noun!meinfem%1(noun)=examen
 durf@verb!norm%1(verb)=etreautorisea
 durst@noun!inv%1(noun)=soif
+eben@prep%1(prep)=également
 ebenfalls@prep%1(prep)=également
 ebenso@prep%1(prep)=aussi
 egoistisch@noun!inv%1(noun)=egoiste
@@ -560,6 +571,7 @@ fruh@adj!ausreichend%1(adj)=libre
 fruher@adj!ausreichend%1(adj)=plus libre
 fug@verb!norm%1(verb)=ajouter
 fuhl@verb!norm%1(verb)=sentir
+fuhrer@noun!arbeiter%1(noun)=dirigeant
 full@verb!norm%1(verb)=remplir
 funf@noun!inv%1(noun)=cinq
 funft@adj!ausreichend%1(adj)=cinquième
@@ -567,6 +579,7 @@ fur@prep%1(prep)=pour
 furcht@noun!angst%1(noun)=crainte
 furchtbar@adj!ausreichend%1(adj)=terrible
 furchten@noun!inv%1(noun)=crainte
+fuss@noun!phanomen%1(noun)=pied
 fussganger@noun!meinmasc%1(noun)=piéton
 ganz@noun!ausreichend%1(adj)=entier
 ganz@prep%1(prep)=complètement
@@ -628,6 +641,8 @@ gerechtfertigt@adj!ausreichend%1(adj)=justifié
 gerechtsame@noun!flasche%1(noun)=droit
 gericht@noun!autor%1(noun)=cour de justice
 gernhaben@verb!irrg%1(verb)=aimer
+gering@adj!ausreichend%1(adj)=petit
+geringer@adj!ausreichend%1(adj)=plus petit
 geruhmt@adj!ausreichend%1(adj)=vanté
 gesammelt@adj!ausreichend%1(adj)=réuni%2(adj)=assemblé
 gesamt@adj!ausreichend%1(adj)=total%2(adj)=complet%3(adj)=entier
@@ -647,6 +662,7 @@ gesundheit@noun!norm%1(noun)=santé
 getier@noun!inv%1(noun)=animaux
 getrank@noun!rest%1(noun)=boisson
 gevogel@noun!inv%1(noun)=volaille
+gewalt@noun!meinfem%1(noun)=violence%2(noun)=autorité
 gewesen@noun!inv%1(noun)=été
 gewinn@verb!norm%1(verb)=gagner
 gewiss@adj!ausreichend%1(adj)=certain
@@ -660,6 +676,7 @@ glaubwurdiger@adj!ausreichend%1(adj)=plus crédible
 gleich@adj!ausreichend%1(adj)=identique%(adj)=égal
 gleichzeitig@adj!ausreichend%1(adj)=simultané
 gluck@noun!flasche%1(noun)=chance
+gn@noun!inv%1(noun)=gn
 gold@noun!phanomen%1(noun)=or
 gotisch@adj!ausreichend%1(adj)=gothique
 gott@noun!inv%1(noun)=dieu
@@ -723,6 +740,7 @@ herleit@verb!norm%1(verb)=deduire
 herr@noun!meinmasc%1(noun)=seigneur%2(noun)=monsieur
 herrlichkeit@noun!meinfem%1(noun)=gloire
 herrsch@verb!norm%1(verb)=gouverner
+herrscher@noun!arbeiter%1(noun)=souverain
 herstamm@verb!norm%1(verb)=provenir
 herstellung@noun!meinfem%1(noun)=production
 hervor@prep%1(prep)=en avant
@@ -926,6 +944,7 @@ leg@verb!norm%1(verb)=reposer
 legitim@adj!ausreichend%1(adj)=légitime
 legitimitat@noun!inv%1(noun)=légitimité
 lehr@noun!inv%1(noun)=apprentissage
+lehr@verb!norm%1(verb)=enseigner
 leib@noun!licht%1(noun)=corps
 leiblichen@noun!mein%1(adj)=corporel%2(adj)=biologique%3(adj)=charnel
 leiche@noun!flasche%1(noun)=cadavre
@@ -1102,6 +1121,7 @@ nihilismus@noun!inv%1(noun)=nihilisme
 noch@prep%1(prep)=encore
 nochmals@prep%1(prep)=une fois encore
 norm@noun!meinfem%1(noun)=norme
+not@noun!kunst%1(noun)=détresse
 notig@adj!ausreichend%1(adj)=nécessaire
 notwehr@noun!inv%1(noun)=défense
 notwendig@adj!ausreichend%1(adj)=indispensable%2(adj)=essentiel%3(adj)=nécessaire
@@ -1128,7 +1148,9 @@ ort@noun!ort%1(noun)=village%2(noun)=lieu%3(noun)=place
 ostern@noun!inv%1(noun)=pour Pâques
 ostlich@adj!ausreichend%&(adj)=oriental
 paare@noun!inv%1(noun)=les couples
+palast@noun!phanomen%1(noun)=palais
 palastina@noun!inv%1(noun)=palestine
+palastinisch@adj!ausreichend%1(adj)=palestinien
 parallel@adj!ausreichend%1(adj)=parallèle
 park@noun!inv%1(noun)=parc
 partei@noun!meinmasc%1(noun)=parti politique
@@ -1381,6 +1403,7 @@ spiel@verb!norm%1(verb)=jouer
 sportlich@adj!inv%1(adj)=sportif
 sprache@noun!flasche%1(noun)=discours%2(noun)=langage
 sprech@verb!norm%1(verb)=dire
+stab@noun!phanomen%1(noun)=bâton
 stadt@noun!meinfem%1(noun)=ville
 stadtrat@noun!inv%1(noun)=conseil municipal
 stadtverwaltung@noun!inv%1(noun)=administration municipale
@@ -1563,6 +1586,7 @@ verehelichung@noun!meinfem%1(noun)=fiançaille
 verfall@noun!arbeiter%1(noun)=décadence
 verfasser@noun!norm%1(noun)=auteur
 verfuhrendst@adj!ausreichend%1(adj)=plus séduisant
+verfuhrerei@noun!inv%1(noun)=séduction
 vergess@verb!norm%1(verb)=oublier
 vergrubelt@noun!inv%1(noun)=couvé
 verhalt@verb!norm%1(verb)=agir
@@ -1694,6 +1718,7 @@ wertschatzung@noun!meinfem%1(noun)=appréciation
 wetter@noun!inv%1(noun)=temps
 wichtig@noun!inv%1(noun)=important
 wichtigst@adj!ausreichend%1(adj)=le plus important
+widerspruch@noun!phanomen%1(noun)=contradiction
 widm@verb!norm%1(verb)=consacrer
 widrig@adj!ausreichend%1(adj)=adverse
 wie@prep%1(prep)=comme

@@ -34,6 +34,7 @@ behaft,en,[mochten]
 behalt,en,[entstehen],(SPA*behal*behiel*0)
 behand,eln,[sammeln]
 behaupt,en,[mochten]
+beherrsch,en,[leben]
 beibring,en,[leben]
 beischreib,en,[rufen],(AIP*beischreib*beischrieb*0@PAP*beischrei*beigeschrie*0)
 beitrag,en,[lassen],(AIP*beitrag*beitrug*0)
@@ -47,6 +48,7 @@ bereit,en,[leben]
 bericht,en,[mochten]
 beruh,en,[leben]
 besam,en,[leben]
+besitz,en,[genesen]
 bestatig,en,[leben]
 bestell,en,[leben]
 betracht,en,[mochten]
@@ -171,6 +173,7 @@ lauf,en,[rufen],(AIP*lauf*lief*0)
 laut,en,[wenden]
 leb,en,[leben]
 leg,en,[leben]
+lehr,en,[leben]
 lern,en,[leben]
 les,en,[leben],(IPR124*les*lies*0@PAP*les*geles*0)
 lieb,en,[leben]

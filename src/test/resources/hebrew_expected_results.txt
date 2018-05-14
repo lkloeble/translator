@@ -400,8 +400,8 @@ wein33S1=>saint(e) à moi la ville(e) cette, que en elle choisis à nom de moi
 wein33S2=>saint(e) à moi la ville(e) cette, que en elle choisis à nom de moi
 wein35A1=>voix appela dans désert
 wein35A2=>voix appela dans désert
-wein35B1=>le dieu demeura dans ciels et dirigea dans fils(s) de homme
-wein35B2=>le dieu demeura dans ciels et dirigea dans fils(s) de homme
+wein35B1=>le dieu demeura dans ciels et dirigera dans fils(s) de homme
+wein35B2=>le dieu demeura dans ciels et dirigera dans fils(s) de homme
 wein35C1=>nous appelons vers YHVH et lui entendit COD voix à nous
 wein35C2=>nous appelons vers YHVH et lui entendit COD voix à nous
 wein35D1=>juste toi YHVH donne pain à tout chair
@@ -633,4 +633,4 @@ midrashrabahebcom1E=>foobar
 midrashrabahebcom1F=>foobar
 
 toto=>que ainsi chemin
-totoacc=>tête de lui et dans voix
+totoacc=>dans fils(s) de homme
