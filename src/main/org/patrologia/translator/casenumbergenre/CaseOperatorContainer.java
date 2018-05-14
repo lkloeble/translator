@@ -134,13 +134,32 @@ public class CaseOperatorContainer {
         startPrepositions.add("w");
         for(String preposition : startPrepositions) {
             if(initialValue.startsWith(preposition)) {
-                matchingLeadingPrepositionMap.put(position,preposition);
-                String tempInitialValue = initialValue.substring(1);
+                String accentuedPreposition = getAccentuedPreposition(preposition, initialValue);
+                matchingLeadingPrepositionMap.put(position, accentuedPreposition);
+                String tempInitialValue = initialValue.substring(accentuedPreposition.length());
                 Collection<Noun> noun = nounRepository.getNoun(tempInitialValue);
                 return noun;
             }
         }
         return null;
+    }
+
+    private String getAccentuedPreposition(String preposition, String initialValue) {
+        StringBuilder prepositionWithAccentuation = new StringBuilder();
+        prepositionWithAccentuation.append(preposition);
+        char[] letters = initialValue.toCharArray();
+        for(int i=1;i<letters.length;i++) {
+            if(!isANumber(letters[i])) {
+                break;
+            }
+            prepositionWithAccentuation.append(letters[i]);
+        }
+        return prepositionWithAccentuation.toString();
+    }
+
+    private boolean isANumber(char letter) {
+        int letterInt = Character.getNumericValue(letter);
+        return (letterInt >= 0) && (letterInt <= 9);
     }
 
 

@@ -79,6 +79,9 @@ public class HebrewAnalyzer implements Analizer {
                 case 59://;
                     sb.append(" ; ");
                     break;
+                case 63://?
+                    sb.append("?");
+                    break;
                 case 64://@
                     sb.append("@");
                     break;
