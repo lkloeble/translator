@@ -16,6 +16,7 @@ advantage@masc%normmasc
 affection@fem%normfem
 afraid@fem%invfem
 afternoon@masc%normmasc
+age@neut%normmasc
 agreement@masc%normmasc
 air@neut%invmasc
 airport@masc%normmasc
@@ -526,6 +527,7 @@ interesting@neut%invmasc
 interpretation@fem%normfem
 invention@neut%normmasc
 iron@neut%invmasc
+isaiah@neut%invmasc
 isle@fem%normfem
 israel@neut%invmasc
 israelite@neut%normmasc
@@ -625,6 +627,7 @@ manner@masc%normmasc
 manuscript@neut%normmasc
 map@neut%normmasc
 march@neut%invmasc
+margin@neut%normmasc
 mark@neut%invmasc
 mary@fem%invfem
 masculine@adj%normmasc
@@ -655,6 +658,8 @@ mind@neut%invmasc
 mishna@neut%invmasc
 mishnaic@adj%invmasc
 mist@neut%normmasc
+moab@neut%invmasc
+moabite@neut%normmasc
 moment@neut%invmasc
 money@neut%normmasc
 month@neut%normmasc

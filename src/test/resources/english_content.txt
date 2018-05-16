@@ -749,7 +749,7 @@ lightfoot_ch5A37=>-- "There is a story (say they) of some Levites, who travelled
 lightfoot_ch5A38=>and one of them fell sick, whom they brought to an inn, and there he died."
 lightfoot_ch5A39=>But I should sooner believe, that there were two |Zoars|, than I should believe,
 lightfoot_ch5A40=>that the father of the Moabites were not conceived and born near |Zoar| of the land of Moab. See Isaiah 15:5.
-lightfoot_ch5A41=>Concerning the age of Sodom, when it perished, see the places in the margin, and weigh them well.
+lightfoot_ch5A41=>Concerning the age@1 of Sodom, when it perished, see the places in the margin@1, and weigh them well.
 
 lightfootbase=>http://biblehub.com/library/lightfoot/from_the_talmud_and_hebraica/index.html
 

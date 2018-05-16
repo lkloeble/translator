@@ -27,7 +27,7 @@ bearbeit,en,[mochten]
 bedarf,en,[wollen]
 bedau,ern,[bedauern]
 bedeut,en,[mochten]
-befass,en,[genesen]
+befass,en,[pflanzen]
 befind,en,[mochten],(AIP*befi*befa*0)
 beginn,en,[leben]
 behaft,en,[mochten]
@@ -150,6 +150,7 @@ herleit,en,[mochten]
 herstamm,en,[leben]
 herrsch,en,[leben]
 hervortret,en,[leben],(PAP*hervortret*hervortrat*0)
+hinder,n,[leben]
 hinstell,en,[leben],(PAP*hinstell*hingestellt*0)
 hor,en,[leben],(PAP*hor*gehort*0)
 informier,en,[leben]

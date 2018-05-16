@@ -27,6 +27,7 @@
 αζωρ@noun!inv%1(noun)=azor
 αθην@noun!α-ας%1(noun)=athéna
 ακαθαρτ@adj!ος-η-ον%1(adj)=impur
+ακεραι@adj!ος-η-ον%1(adj)=innocent
 ακορεστ@adj!ος-η-ον%1(adj)=insatiable
 αι@prep%1(prep)=les
 αιγυπτ@noun!ος-ου%1(noun)=égypte
@@ -52,6 +53,7 @@
 αμαρτι@noun!α-ας%1(noun)=faute%2(noun)=péché
 αμαρτωλ@noun!ος-ου%1(noun)=pêcheur
 αμιναδαβ@noun!inv%1(noun)=aminadab
+αμνησικακ@adj!ος-η-ον%1(adj)=sans rancune
 αμωμ@adj!ος-η-ον%1(adj)=immaculé
 αμως@noun!inv%1(noun)=amon
 αν@prep%1(prep)=si
@@ -208,6 +210,7 @@
 δυο@noun!inv%1(noun)=deux
 εαυτων@prep%1(prep)=à nous-mêmes%2(prep)=à vous-mêmes%3(prep)=à eux-mêmes
 εγειρ@verb!norm%1(verb)=faire lever,ériger,dresser,mettre debout%2(verb)=s'éveiller%3(verb)=lever
+ειλικριν@adj!ης-ης-ες%1(adj)=sincère
 εζεκι@noun!ας-ου%1(noun)=ezechias
 ειμι@verb!irrg%1(verb)=etre
 ειρ@verb!norm%1(verb)=appeler
@@ -262,7 +265,7 @@
 επιμελως@prep%1(prep)=avec soin
 επιπεδ@noun!ος-ου%1(noun)=niveau%2(noun)=plan
 επιεικ@adj!ης-ης-ες%1(adj)=raisonnable
-επικουρ@adj!ος-ος-ον%1(adj)=assistant
+επικουρ@adj!ος-ος-ον%1(adj)=épicure
 επιτελ@verb!norm%1(verb)=completer%2(verb)=accomplir
 επιστολ@noun!η-ης%1(noun)=lettre
 επιστροφ@noun!η-ης%1(noun)=retour
@@ -275,6 +278,7 @@
 εργ@noun!ον-ου%1(noun)=travail%2(noun)=oeuvre
 εργατ@noun!ης-ου%1(noun)=travailleur%2(noun)=ouvrier
 ερημ@adj!ος-η-ον%1(adj)=solitaire%2(adj)=désolé%3(adj)=désert
+ερπ@verb!norm%1(verb)=ramper
 ερχ@verb!norm%1(verb)=venir
 ερωτ@verb!norm%1(verb)=interroger%2(verb)=demander
 εσθι@verb!norm%1(verb)=dévorer,consumer%2(verb)=manger

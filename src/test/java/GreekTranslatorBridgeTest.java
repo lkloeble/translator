@@ -104,7 +104,7 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "φαιν,ειν,[ω-εις],(AORPASIND*φαιν*εφαν*0@PPP*φαιν*φαινομεν*0@PPP*φαινομενxxchange*φαινεσθαι*0)"
+                "ερπ,ειν,[ω-εις],(PRESACTPART*ερπ*ερποντ*0)"
         });
         */
         return getFileContentForRepository(verbFileDescription);
@@ -691,7 +691,9 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("clement2D1", translatorBridge);
         checkInMaps("clement2D2", translatorBridge);
         checkInMaps("clement2E", translatorBridge);
-        checkInMaps("clement2F", translatorBridge);
+        checkInMaps("clement2F1", translatorBridge);
+        checkInMaps("clement2F2", translatorBridge);
+        checkInMaps("clement2F3", translatorBridge);
         checkInMaps("clement2G", translatorBridge);
         checkInMaps("clement2H", translatorBridge);
 

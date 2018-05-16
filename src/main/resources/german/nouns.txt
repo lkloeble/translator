@@ -164,6 +164,7 @@ bretter@neut%inv
 brief@masc%norm
 brigitte@fem%inv
 brot@neut%wurst
+bruder@masc%arbeiter
 buch@fem%ort
 buhlerin@fem%sangerin
 burger@masc%burger
@@ -190,6 +191,7 @@ deckung@fem%meinfem
 demokrat@masc%meinmasc
 demokratie@fem%flasche
 der@masc%inv
+dessentwillen@neut%inv
 deutsch@adj%ausreichend
 deutschland@fem%inv
 dezember@neut%inv
@@ -639,6 +641,7 @@ lust@fem%angst
 lustbarkeit@fem%meinfem
 lustig@adj%ausreichend
 lv@neut%inv
+madchen@fem%original
 magazin@masc%norm
 makel@masc%zeichen
 makellos@adj%ausreichend
@@ -1009,6 +1012,7 @@ tier@masc%meer
 tisch@masc%meer
 tipp@masc%tipp!agenitive
 tochter@fem%invfem[genplr:tochtern]
+tod@masc%phanomen
 tomate@fem%flasche
 tora@neut%inv
 tos@neut%inv
@@ -1088,6 +1092,8 @@ verfuhrerei@neut%inv
 vergrubelt@neut%inv
 verhaltnis@neut%erkenntnis
 verhangnisvoll@adj%ausreichend
+verheiratung@fem%meinfem
+verhute@neut%inv
 verkauf@neut%norm
 verlobt@adj%meinmasc
 verlobung@fem%meinfem
@@ -1098,6 +1104,8 @@ versailles@neut%inv
 versammlung@fem%meinfem
 versand@fem%norm
 versaumt@adj%meinmasc
+verschied@neut%inv
+verschreibung@fem%meinfem
 verstandnis@fem%inv
 versuch@neut%meinmasc
 versucherisch@adj%ausreichend

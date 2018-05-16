@@ -33,6 +33,7 @@ afternoon@noun!normmasc%1(noun)=après-midi
 after@prep%1(prep)=après
 again@prep%1(prep)=encore%2(prep)=à nouveau
 against@prep%1(prep)=contre
+age@noun!normmasc%1(noun)=époque%2(noun)=âge
 agreement@noun!normmasc%1(noun)=accord
 ah@prep%1(prep)=ah
 air@noun!invmasc%1(noun)=air
@@ -786,6 +787,7 @@ into@prep%1(prep)=vers
 invade@verb!norm%1(verb)=envahir
 invention@noun!normmasc%1(noun)=invention
 iron@noun!invmasc%1(noun)=fer
+isaiah@noun!invmasc%1(noun)=isaie
 isle@noun!normfem%1(noun)=île
 israel@noun!invmasc%1(noun)=israel
 israelite@noun!normmasc%1(noun)=israélite
@@ -918,6 +920,7 @@ manuscript@noun!normmasc%1(noun)=manuscript
 many@prep%1(prep)=beaucoup
 map@noun!normmasc%1(noun)=carte
 march@noun!invmasc%1(noun)=mars
+margin@noun!normmasc%1(noun)=bordure%2(noun)=marge
 mark@noun!invmasc%1(noun)=mark
 mary@noun!invfem%1(noun)=marie
 masculine@adj!normmasc%1(adj)=masculin
@@ -957,6 +960,8 @@ mishna@noun!invmasc%1(noun)=mishna
 mishnaic@noun!invmasc%1(noun)=mishnaïque
 mist@noun!normmasc%1(noun)=brouillard%2(noun)=brume
 mix@verb!norm%1(verb)=melanger2
+moab@noun!invmasc%1(noun)=moab
+moabite@noun!normmasc%1(noun)=moabite
 moment@noun!invmasc%1(noun)=moment
 money@noun!normmasc%1(noun)=argent
 month@noun!normmasc%1(noun)=mois
@@ -1114,6 +1119,7 @@ pentateuch@noun!invmasc%1(noun)=pentateuque
 people@noun!normmasc%1(noun)=gens%2(noun)=peuple
 performe@noun!invmasc%1(noun)=réaliser
 perhaps@prep%1(prep)=peut-être
+perish@verb!norm%1(verb)=perir
 persecution@noun!normfem%1(noun)=persécution
 person@noun!normmasc%1(noun)=personne
 personal@adj!invmasc%1(adj)=personnel

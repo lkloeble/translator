@@ -199,6 +199,7 @@ overrun,[live],(AIP*overrund*overran*0)
 own,[live]
 part,[call]
 pass,[call]
+perish,[call]
 place,[live]
 plant,[call]
 play,[live]

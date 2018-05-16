@@ -94,6 +94,7 @@ es@prep()[esGibtReplace,esBeforeVerb,gibtEsReplace,esGabReplace,gabEsReplace]
 esgab@prep()
 esgibt@prep()
 etliche@prep()
+etwa@prep()
 etwas@prep()
 euch@prep()
 eure@prep()
