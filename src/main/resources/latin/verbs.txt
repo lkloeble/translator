@@ -50,6 +50,7 @@ coerc,eo,es,ere,,,[eo-es]
 cog,o,is,ere,,,[o-is],(AIP*cog*coeg*0)
 col,o,is,ere,,,[o-is]
 collaud,o,as,are,avi,atum,[o-as]
+combur,o,is,ere,,,[o-is]
 comed,o,is,ere,,,[o-is]
 comme,o,as,are,avi,atum,[o-as]
 compar,o,as,are,avi,atum,[o-as]
@@ -83,6 +84,7 @@ cred,o,is,ere,,,[o-is],(AIP*cred*credid*0)
 custod,io,is,ire,,,[io-is],(ASI*custode*custodi*0)
 d,o,as,are,edi,atum,[o-as],(AIP*dav*ded*0@AIPP*dav*ded*0)
 deb,eo,es,ere,-,-,[eo-es]
+decert,o,as,are,,,[o-as]
 defic,io,is,ire,-,-,[io-is]
 del,eo,es,ere,-,-,[eo-es]
 delig,o,is,ere,,,[o-is]
@@ -215,6 +217,7 @@ port,o,as,are,,,[o-as]
 possum@IRREGULAR%[INFINITIVE]=[posse]%[IPR]=[possum,potes,potest,possumus,potestis,possunt]%[AIP]=[potui,potuisti,potuit,potuimus,potuistis,potuerunt]%[AIF]=[potero,poteris,poterit,poterimus,poteritis,poterunt]%[ASI]=[possem,posses,posset,possemus,possetis,possent]
 poti,or,ris,ri,,,[or-ris]
 praeced,o,is,ere,,,[o-is]
+praecip,io,is,ere,,,[io-is],(AIP*praecip*praecep*0)
 praepar,o,as,are,,,[o-as]
 praest,o,as,are,,,[o-as],(ASI*praest*praestar*0@AIP*praestav*praestit*0)
 praesum@IRREGULAR%[IPR]=[praesum,praees,praeest,praesumus,praeestis,praesunt]%[AII]=[praeeram,praeeras,praeerat,praeeramus,praeeratis,praeerant]%[AIF]=[praeero,praeeris,praeerit,praeerimus,praeeritis,praeerunt]%[INFINITIVE]=[praesse]%[ASP]=[praesim,praesis,praesit,praesimus,praesitis,praesint]%[ASI]=[praeessem,praeesses,praeesset,praeessemus,praeessetis,praeessent]%[AIP]=[praefui,praefuisti,praefuit,praefuimus,praefuistis,praefuerunt]

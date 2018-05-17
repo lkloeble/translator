@@ -127,6 +127,7 @@
 βαρβαρ@noun!ος-ου%1(noun)=barbare
 βασιλε@noun!υς-ως%1(noun)=roi
 βασιλει@noun!α-ας%1(noun)=règne%2(noun)=royaume
+βδελυκτ@adj!ος-η-ο%1(adj)=abominable
 βε@noun!inv%1(noun)=be
 βεβαι@adj!ος-α-ον%1(adj)=solide
 βη@noun!inv%1(noun)=be
@@ -225,6 +226,7 @@
 εκκλησι@noun!α-ας%1(noun)=assemblée%2(noun)=église
 εκλειψ@noun!inv%1(noun)=éclipse
 εκλεκτ@adj!ος-η-ον%1(adj)=choisi%2(adj)=élu
+εκπνε@verb!norm%1(verb)=respirer%2(verb)=expirer
 εκπνο@noun!η-ης%1(noun)=expiration
 εκτειν@verb!norm%1(verb)=lever%2(verb)=tendre
 εκφερ@verb!norm%1(verb)=produire%2(verb)=effectuer
@@ -238,6 +240,7 @@
 ελλην@noun!x-ος%1(noun)=grec
 ελληνικ@noun!ος-η-ον%1(adj)=grec
 εμμανουηλ@noun!inv%1(noun)=emmanuel
+εμπλε@adj!ος-α-ον%1(adj)=plein
 εμπροσθεν@prep%1(prep)=devant
 εν@prep%1(prep)=dans
 εναντιωσ@noun!ις-εως%1(noun)=opposition
@@ -251,11 +254,13 @@
 εξ@prep%1(prep)=hors de
 εξω@prep%1(prep)=hors de
 εξαγ@verb!norm%1(verb)=faireemerger%2(verb)=bannir%3(verb)=enlever%4(verb)=emmener
+επεντιθη@verb!norm%1(verb)=
 εξουσι@noun!α-ας%1(noun)=autorité
 επ@prep%1(prep)=au temps de%2(prep)=sur
 επαγγελι@noun!α-ας%1(noun)=promesse
 επαλληλ@noun!ος-ου%1(noun)=se suit rapidement
 επανω@prep%1(prep)=au dessus
+επεντιθη@verb!norm%1(verb)=ajouter
 επι@prep%1(prep)=au temps de%2(prep)=sur
 επιβαιν@verb!norm%1(verb)=etresur
 επιgen@prep%1(prep)=au temps de%2(prep)=à côté%3(prep)=dans le cas où%4(prep)=sous l'autorité de%5(prep)=sur
@@ -452,6 +457,7 @@
 μεν@verb!norm%1(verb)=être fixe,stable,rester de pied ferme,tenir bon%2(verb)=demeurer,habiter%3(verb)=rester
 μεν@noun!inv%1(noun)=d'une part
 μενουσ@adj!ος-α-ον%1(adj)=resté
+μερ@noun!ος-εος%1(noun)=portion%2(noun)=part
 μεσ@adj!ος-η-ον%1(adj)=milieu
 μεστ@adj!ος-η-ον%1(adj)=plein
 μετα@prep%1(prep)=après
@@ -560,6 +566,7 @@
 παρακαλ@verb!norm%1(verb)=demander%2(verb)=encourager%3(verb)=envoyer
 παραλαμβαν@verb!norm%1(verb)=recevoir
 παραπλησι@noun!ος-ου%1(noun)=ressemblant
+παραπτωμ@noun!α-ατος%1(noun)=transgression
 παρεπιδημ@verb!norm%1(verb)=rester
 παρθεν@noun!ος-ου%1(noun)=jeune fille, demoiselle%2(noun)=vierge
 παροικ@verb!norm%1(verb)=resider
@@ -576,6 +583,7 @@
 πειρασμ@noun!ος-ου%1(noun)=preuve%2(noun)=tentation%3(noun)=épreuve
 πεμπ@verb!norm%1(verb)=renvoyer,congédier%2(verb)=envoyer
 πεμπτ@noun!ος-η-ον%1(noun)=cinquième
+πενθε@verb!norm%1(verb)=pleurer
 πεποιθησ@noun!ις-εως%1(noun)=confiance
 περιβοητ@noun!ος-η-ον%1(noun)=célèbre
 περιacc@prep%1(prep)=autour de
@@ -591,11 +599,13 @@
 πετ@verb!norm%1(verb)=voler
 πετειν@noun!ον-ου%1(noun)=oiseau
 πετρ@noun!ος-ου%1(noun)=pierre
+πιλημ@noun!α-ατος%1(noun)=mèche
 πιστ@noun!ις-εως%1(noun)=foi%2(noun)=confiance
 πιστ@noun!η-ης%1(noun)=foi%2(noun)=confiance
 πιστευ@verb!norm%1(verb)=avoir foi%2(verb)=croire
 πληκτρ@noun!ον-ου%1(noun)=plectre
 πληρ@adj!ης-ης-ες%1(adj)=accompli
+πλησιον@noun!inv%1(adj)=proche
 πληθ@verb!norm%1(verb)=gonfler
 πληθυν@verb!norm%1(verb)=multiplier
 πληρ@verb!norm%1(verb)=accomplir
@@ -672,6 +682,7 @@
 στερεωμ@noun!α-ατος%1(noun)=fondation%2(noun)=firmament
 στοιχει@noun!ος-ου%1(noun)=élément%2(noun)=cause%3(noun)=principe
 στοιχει@noun!ον-ου%1(noun)=élément
+στομι@noun!ο-ου%1(noun)=orifice
 σπερμ@noun!α-ατος%1(noun)=semence
 σπλαγχν@noun!ον-ου%1(noun)=entraille
 στασ@noun!ις-εως%1(noun)=lieu%2(noun)=construction%3(noun)=position
@@ -690,6 +701,7 @@
 συνεχ@verb!norm%1(verb)=assembler
 συνερχ@verb!norm%1(verb)=voyager%2(verb)=sassembler%3(verb)=avoirdesrelationssexuelles
 συστημα@noun!inv%1(noun)=système
+σχισμ@noun!α-ατος%1(noun)=schisme%2(noun)=division
 σχημ@noun!α-ατος%1(noun)=nature%2(noun)=forme%3(noun)=apparence
 σωμ@noun!α-ατος%1(noun)=corps
 σωζ@verb!norm%1(verb)=préserver,mettre à l'abri%2(verb)=laisser vivre,épargner%3(verb)=conserver%4(verb)=sauver
@@ -743,6 +755,7 @@
 τουτω@prep%1(prep)=à ce
 τουτων@prep%1(prep)=de ces
 τριτ@adj!ος-η-ον%1(adj)=trois
+τροχοειδ@adj!ης-ης-ες%1(noun)=rond
 τυφλ@adj!ος-η-ον%1(adj)=aveugle
 τω@prep%1(prep)=au
 των@prep%1(prep)=aux
@@ -773,6 +786,7 @@
 υποτιθη@verb!norm%1(verb)=voie moyenne:suggérer,ordonner,apprendre%2(verb)=placersous
 υστατ@adj!ος-η-ον%1(adj)=dernier
 υστερ@adj!ος-α-ον%1(adj)=tardif
+υστερημ@noun!α-ατος%1(noun)=déficience
 υφgen@prep%1(prep)=par
 υφacc@prep%1(prep)=au dessous
 υφιστη@verb!norm%1(verb)=promettre%2(verb)=entreprendre%3(verb)=setenirdebout%4(verb)=rester%5(verb)=resister

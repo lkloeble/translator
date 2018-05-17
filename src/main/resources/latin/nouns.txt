@@ -276,6 +276,7 @@ except@adj%us-a-um
 excus@adj%us-a-um
 exercit@adj%us-a-um
 exercit@masc%us-us
+existen@adj%s-tis
 exitios@adj%us-a-um
 explicati@fem%o-onis
 expositi@fem%o-onis
@@ -374,6 +375,7 @@ ignati@masc%us-i2
 ign@masc%is-is
 ill@adj%e-a-ud
 imag@fem%o-inis
+immutat@adj%us-a-um
 imperi@masc%um-i
 impi@adj%us-a-um
 impluvi@neut%um-i
@@ -561,6 +563,7 @@ observat@adj%us-a-um
 obtentur@adj%us-a-um
 occas@masc%us-us
 occasi@fem%o-onis
+occulti@adj%or-or-us
 occupat@adj%us-a-um
 occupati@fem%o-onis
 ocean@masc%us-i
@@ -595,6 +598,7 @@ pap@fem%a-ae
 par@fem%s-tis2
 paradis@masc%us-i
 parat@adj%us-a-um
+parati@adj%or-or-us
 parv@adj%us-a-um
 parvul@adj%us-a-um
 pasch@fem%a-ae
@@ -641,6 +645,7 @@ poet@fem%a-ae
 pomif@adj%er-era-erum
 popul@masc%us-i
 port@fem%a-ae
+portatur@adj%us-a-um
 portent@adj%us-a-um
 potenti@fem%a-ae
 potentissim@adj%us-a-um
@@ -785,6 +790,7 @@ successor@masc%x-is2
 superfici@fem%es-ei
 supern@adj%us-a-um
 su@adj%us-a-um
+subeund@adj%us-a-um
 supplici@neut%um-i
 supposititi@adj%us-a-um
 suscept@adj%us-a-um
@@ -796,6 +802,7 @@ syri@fem%a-ae
 tabern@fem%a-ae
 tant@adj%us-a-um
 tect@neut%um-i
+tecti@adj%or-or-us
 temp@neut%us-oris
 templ@neut%um-i
 tenebr@fem%a-ae

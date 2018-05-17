@@ -390,6 +390,7 @@ genau@adj%ausreichend
 genealogie@fem%inv
 genealogisch@adj%ausreichend
 generation@fem%meinfem
+gennant@neut%inv
 genues@adj%ausreichend
 genugsamkeit@neut%inv
 geratenst@adj%ausreichend

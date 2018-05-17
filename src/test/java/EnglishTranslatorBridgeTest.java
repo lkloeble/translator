@@ -1070,7 +1070,63 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("lightfoot_ch5A41", translatorBridge);
     }
 
-        @Test
+    @Test
+    public void test_lightfoot_chap6() {
+        checkInMaps("lightfoot_ch601", translatorBridge);
+        checkInMaps("lightfoot_ch602", translatorBridge);
+        checkInMaps("lightfoot_ch603", translatorBridge);
+        checkInMaps("lightfoot_ch604", translatorBridge);
+        checkInMaps("lightfoot_ch605", translatorBridge);
+        checkInMaps("lightfoot_ch606", translatorBridge);
+        checkInMaps("lightfoot_ch607", translatorBridge);
+        checkInMaps("lightfoot_ch608", translatorBridge);
+        checkInMaps("lightfoot_ch609", translatorBridge);
+        checkInMaps("lightfoot_ch610", translatorBridge);
+        checkInMaps("lightfoot_ch611", translatorBridge);
+        checkInMaps("lightfoot_ch612", translatorBridge);
+        checkInMaps("lightfoot_ch613", translatorBridge);
+        checkInMaps("lightfoot_ch614", translatorBridge);
+        checkInMaps("lightfoot_ch615", translatorBridge);
+        checkInMaps("lightfoot_ch616", translatorBridge);
+        checkInMaps("lightfoot_ch617", translatorBridge);
+        checkInMaps("lightfoot_ch618", translatorBridge);
+        checkInMaps("lightfoot_ch619", translatorBridge);
+        checkInMaps("lightfoot_ch620", translatorBridge);
+        checkInMaps("lightfoot_ch621", translatorBridge);
+        checkInMaps("lightfoot_ch622", translatorBridge);
+        checkInMaps("lightfoot_ch623", translatorBridge);
+        checkInMaps("lightfoot_ch624", translatorBridge);
+        checkInMaps("lightfoot_ch625", translatorBridge);
+        checkInMaps("lightfoot_ch626", translatorBridge);
+        checkInMaps("lightfoot_ch627", translatorBridge);
+        checkInMaps("lightfoot_ch628", translatorBridge);
+        checkInMaps("lightfoot_ch629", translatorBridge);
+        checkInMaps("lightfoot_ch630", translatorBridge);
+        checkInMaps("lightfoot_ch631", translatorBridge);
+        checkInMaps("lightfoot_ch632", translatorBridge);
+        checkInMaps("lightfoot_ch633", translatorBridge);
+        checkInMaps("lightfoot_ch634", translatorBridge);
+        checkInMaps("lightfoot_ch635", translatorBridge);
+        checkInMaps("lightfoot_ch636", translatorBridge);
+        checkInMaps("lightfoot_ch637", translatorBridge);
+        checkInMaps("lightfoot_ch638", translatorBridge);
+        checkInMaps("lightfoot_ch639", translatorBridge);
+        checkInMaps("lightfoot_ch640", translatorBridge);
+        checkInMaps("lightfoot_ch641", translatorBridge);
+        checkInMaps("lightfoot_ch642", translatorBridge);
+        checkInMaps("lightfoot_ch643", translatorBridge);
+        checkInMaps("lightfoot_ch644", translatorBridge);
+        checkInMaps("lightfoot_ch645", translatorBridge);
+        checkInMaps("lightfoot_ch646", translatorBridge);
+        checkInMaps("lightfoot_ch647", translatorBridge);
+        checkInMaps("lightfoot_ch648", translatorBridge);
+        checkInMaps("lightfoot_ch649", translatorBridge);
+        checkInMaps("lightfoot_ch650", translatorBridge);
+        checkInMaps("lightfoot_ch651", translatorBridge);
+        checkInMaps("lightfoot_ch652", translatorBridge);
+    }
+
+    @Test
     public void test_failedones() {
         assertTrue(true);
         checkInMaps("toto", translatorBridge);

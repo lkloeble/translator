@@ -1,0 +1,11 @@
+nom%sing%masc%ος
+nom%plr%masc%εα
+gen%sing%masc%εος
+gen%plr%masc%εων
+acc%sing%masc%ος
+acca%plr%masc%εα
+accb%plr%masc%η
+voc%sing%masc%ος
+voc%plr%masc%εα
+dat%sing%masc%ει
+dat%plr%masc%εσιν

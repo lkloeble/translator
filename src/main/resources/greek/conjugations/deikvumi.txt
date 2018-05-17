@@ -4,3 +4,4 @@ AORMIDDIND=>μεν,ου,το,μεθα,σθε,ντο
 PAP=>[ους-ουσα-ον]
 MIDPASSPLUPERFIND=>μην,σο,το,μεθα,σθε,ντο
 AORPASSPART=>οι
+ACAOOP=>ην,ης,η,μεν,τε,εν

@@ -222,6 +222,7 @@ collaudo@verb!norm%1(verb)=prier ensemble%2(verb)=prier excessivement%3(verb)=pr
 collect@noun!a-ae%1(noun)=collecte
 colo@verb!norm%1(verb)=habiter%2(verb)=cultiver
 column@noun!a-ae%1(noun)=colonne
+comburo@verb!norm%1(verb)=consumer
 comedo@verb!norm%1(verb)=consommer
 commeo@verb!norm%1(verb)=voyager%2(verb)=fréquenter%3(verb)=visiter
 comparo@verb!norm%1(verb)=comparer%2(verb)=assembler
@@ -316,6 +317,7 @@ de@noun!us-i%1(noun)=dieu, divinite%2(noun)=un dieu%3(noun)=le dieu des chretien
 debeo@verb!norm%1(verb)=devoir
 debit@noun!um-i%1(noun)=dette
 decem@noun!inv%1(noun)=dix
+decerto@verb!norm%1(verb)=combattre
 deficio@verb!norm%1(verb)=gaspiller%2(verb)=perdre
 definiti@noun!o-onis%1(noun)=définition
 deinde@prep%1(prep)=après%2(prep)=ensuite%3(prep)=à partir de là
@@ -452,6 +454,7 @@ excus@adj!us-a-um%1(adj)=falsifié
 exerceo@verb!norm%1(verb)=exercer
 exercit@adj!us-a-um%1(adj)=exercé%2(adj)=occupé
 exercit@noun!us-us%1(noun)=entrainé
+existen@adj!s-tis%1(noun)=existant%2(noun)=étant
 exitios@adj!us-a-um%1(noun)=mortel%2(adj)=pernicieux
 explicati@noun!o-onis%1(noun)=explication
 expositi@noun!o-onis%1(noun)=exposition
@@ -604,6 +607,7 @@ ign@noun!is-is%1(noun)=feu
 ill@adj!e-a-ud%1(pro dem)=celui la
 imag@noun!o-inis%1(noun)=image
 imbuo@verb!norm%1(verb)=humidifer%2(verb)=tremper%3(verb)=mouiller
+immutat@adj!us-a-um%1(adj)=transformé
 imperi@noun!um-i%1(noun)=empire
 impero@verb!norm%1(verb)=commander
 impi@adj!us-a-um%1(noun)=maudit%2(noun)=impie
@@ -881,6 +885,7 @@ observo@verb!norm%1(verb)=observer
 obtentur@adj!us-a-um%1(adj)=sur le point de posséder
 obtineo@verb!norm%1(verb)=posseder
 occasi@noun!o-onis%1(noun)=opportunité%2(noun)=occasion
+occulti@adj!or-or-us%1(adj)=mieux caché
 occupat@adj!us-a-um%1(adj)=occupé
 occupati@noun!o-onis%1(noun)=devoir%2(noun)=occupation
 occupo@verb!norm%1(verb)=occuper
@@ -919,6 +924,7 @@ pa@noun!x-cis%1(noun)=paix
 pad@noun!us-i%1(noun)=po
 pagan@adj!us-a-um%1(adj)=paien%2(adj)=rural
 pap@noun!a-ae%1(noun)=pape
+palam@prep%1(prep)=ouvertement
 palm@noun!a-ae%1(noun)=paume
 par@noun!s-tis2%1(noun)direction%2(noun)=pièce%3(noun)=part
 paradis@noun!us-i%1(noun)=jardin%2(noun)=paradis
@@ -926,6 +932,7 @@ pareo@verb!norm%1(verb)=obeir
 pario@verb!norm%1(verb)=donnernaissance
 paro@verb!norm%1(verb)=preparer
 parat@adj!us-a-um%1(adj)=préparé
+parati@adj!or-or-us%1(adj)=mieux préparé
 parv@adj!us-a-um%1(adj)=insignifiant%2(adj)=petit
 parvul@adj!us-a-um%1(adj)=insignifiant%2(adj)=petit
 pasch@noun!a-ae%1(noun)=pâque
@@ -998,15 +1005,18 @@ post@prep%1(prep)=derrière%2(prep)=après
 postea@prep%1(prep)=ensuite
 postquam@prep%1(prep)=après
 port@noun!a-ae%1(noun)=porte
+portatur@adj!us-a-um%1(adj)=qui va être porté
 portent@adj!us-a-um%1(adj)=prédit%2(adj)=indiqué
 potenti@noun!a-ae%1(noun)=puissance (force, action, efficacité, vertu agissante)%2(noun)=puissance (politique), pouvoir, autorite, credit, influence%3(noun)=puissance
 potentissim@adj!us-a-um%1(noun)=le plus puissante
 potissim@adj!us-a-um%1(noun)=principal%2(adj)=plus puissant
 potior@verb!norm%1(verb)=controler%2(verb)=capturer%3(verb)=obtenir
 prae@prep%1(prep)=a l'avant,en avant,devant%2(prep)=au regard de,en comparaison de%3(prep)=en raison de (phrases negatives)%4(prep)=a cause de
-praesertim@prep%1(prep)=particulièrement
 praecedo@verb!norm%1(verb)=surpasser
+praecipio@verb!norm%1(verb)=ordonner
+praesertim@prep%1(prep)=particulièrement
 praesum@verb!irrg%1(verb)=être devant%2(verb)=commander%3(verb)=presider
+praeter@prep%1(prep)=excepté
 praecept@noun!um-i%1(noun)=leçon%2(noun)=commandement%3(noun)=précepte
 praeconcept@adj!us-a-um%1(adj)=préconçu
 praedicati@noun!o-onis%1(noun)=prédication
@@ -1177,6 +1187,7 @@ scriptur@noun!us-a-um%1(noun)=écriture
 se@prep%1(conj)=se
 secreti@adj!or-or-us%1(adj)=séparé
 secund@adj!us-a-um%1(adj)=suivant
+secum@prep%1(conj)=lui-même
 sed@prep%1(conj)=mais
 sedeo@verb!norm%1(verb)=se repose%2(verb)=etreassis
 seduco@verb!norm%1(verb)=séduire%2(verb)=tromper
@@ -1244,6 +1255,7 @@ studiose@prep%1(prep)=studieusement
 su@adj!us-a-um%1(adj)=son
 suav@adj!is-is-e%1(adj)=plaisant
 sub@prep%1(prep)=sous
+subeund@adj!us-a-um%1(adj)=qui va être approché
 subicio@verb!norm%1(verb)=soumettre
 subito@prep%1(prep)=subitement
 successor@noun!x-is2%1(noun)=successeur
@@ -1277,6 +1289,7 @@ tanquam@prep%1(prep)=pour ainsi dire
 tant@adj!us-a-um%1(dem de grandeur)=dec ette quantite,de cette grandeur%2(en correl.)=aussi ??? que%3(dem)=aussi grand
 te@prep%1(prep)=te
 tect@noun!um-i%1(noun)=toit
+tecti@adj!or-or-us%1(adj)=mieux caché
 temp@noun!us-oris%1(noun)=âge%2(noun)=période%3(noun)=temps
 templ@noun!um-i%1(noun)=temple
 tenebr@noun!a-ae%1(noun)=obscurite%2(noun)=nuit%3(noun)=tenebre

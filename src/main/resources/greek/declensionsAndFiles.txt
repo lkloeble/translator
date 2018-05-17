@@ -1,6 +1,7 @@
 ος-ου%secondOs.txt
 ος-ους%batos.txt
 ος-ους2%genos.txt
+ος-εος%mepos.txt
 inv%invariable.txt
 α-ας%agora.txt
 α-ης%talassa.txt

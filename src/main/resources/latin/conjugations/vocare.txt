@@ -1,5 +1,5 @@
 IPR=>o,as,at,amus,atis,ant
-AIP=>avi,avisti,avit,avimus,avistis,averunt
+AIP=>avi,avisti,avit,avimus,avistis,averunt|arunt
 PSP=>er,eris,etur,emur,emini,entur
 PIP=>or,aris,atur,amur,amini,antur
 PII=>abar,abaris,abatur,abamur,abamini,abantur

@@ -323,6 +323,7 @@ demokratie@noun!flasche%1(noun)=démocratie
 demselben@prep%1(prep)=du même
 den@prep%1(prep)=le
 denen@prep%1(prep)=où%2(prep)=qui%3(prep)=dont%4(prep)=auxquels%5(prep)=lesquels
+denjenigen@prep%1(prep)=ceux-qui
 denk@verb!norm%1(verb)=penser
 denn@prep%1(prep)=car
 denunzier@verb!norm%1(verb)=denoncer
@@ -635,6 +636,7 @@ genealogie@noun!inv%1(noun)=généalogie
 genealogisch@adj!ausreichend%1(adj)=généalogique
 generation@noun!meinfem%1(noun)=génération
 genes@verb!norm%1(verb)=recuperer
+gennant@noun!inv%1(noun)=appelé
 genues@adj!ausreichend%1(adj)=génois
 genug@prep%1(prep)=suffisant
 genugsamkeit@noun!inv%1(noun)=austérité
