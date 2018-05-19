@@ -7,6 +7,7 @@ abhandlung@fem%meinfem
 abkommling@masc%phanomen
 abkurzung@fem%meinfem
 abneigung@fem%meinfem
+abrede@fem%flasche
 absicht@fem%meinfem
 abstammung@fem%meinfem
 abteilung@neut%norm
@@ -230,6 +231,7 @@ ehrenamter@neut%burger
 eigen@adj%ausreichend
 eigentlich@adj%ausreichend
 ein@adj%ausreichend
+einfach@adj%ausreichend
 eingeweiht@adj%ausreichend
 einl@neut%inv
 eins@masc%inv
@@ -334,6 +336,7 @@ frau@fem%meinfem
 fraulein@fem%inv
 freigelassen@neut%bastard
 freitag@neut%inv
+freiwillig@adj%ausreichend
 fremd@adj%ausreichend
 fremde@fem%inv
 freundin@fem%inv
@@ -516,6 +519,7 @@ international@adj%ausreichend
 ironie@fem%inv
 ironiker@neut%inv
 irrenarzte@neut%inv
+irrtum@masc%licht
 isr@neut%inv
 israel@neut%inv
 israelit@neut%meinmasc
@@ -631,6 +635,7 @@ levit@neut%meinmasc
 levitenschaft@neut%inv
 licht@fem%licht
 liebling@adj%rest
+lieferung@fem%meinfem
 limonade@neut%inv
 literatur@neut%inv
 lk@neut%inv
@@ -654,6 +659,7 @@ manch@adj%ausreichend
 mangel@masc%arbeiter
 manier@fem%meinfem
 mann@masc%ort
+mannlicherseits@neut%inv
 marke@fem%flasche
 markus@masc%inv
 martin@neut%inv
@@ -949,10 +955,12 @@ spekulant@masc%meinmasc
 spekulation@fem%norm
 sportlich@adj%inv
 sprache@fem%flasche
+spross@masc%phanomen
 stab@masc%phanomen
 stadt@fem%meinfem
 stadtrat@neut%inv
 stadtverwaltung@neut%inv
+stamm@masc%phanomen
 stammbaum@masc%jahrzehnt
 stammvater@masc%arbeiter
 starke@fem%flasche
@@ -1055,6 +1063,7 @@ unfruchtbar@adj%ausreichend
 ungarisch@adj%ausreichend
 ungeheuerlich@adj%ausreichend
 ungeheur@adj%ausreichend
+ungewissheit@fem%meinfem
 ungleich@adj%ausreichend
 unlustigkeit@neut%inv
 unmoglich@neut%meinmasc

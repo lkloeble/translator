@@ -122,6 +122,7 @@ complicat@adj%adj
 concentrat@adj%adj
 concomitent@adj%adj
 concret@neut%inv
+conditsi@fem%fem
 conducere@fem%ereditate
 confortabil@adj%adj
 coniac@masc%ul
@@ -254,6 +255,7 @@ frumos@masc%ul
 frun@fem%capacitate
 gand@masc%locul
 gar@fem%fem
+gard@masc%ul
 gared@neut%inv
 gen@masc%ul
 general@neut%inv
@@ -365,6 +367,7 @@ marturisitor@masc%ul
 mas@fem%fem
 masin@fem%fem
 masur@fem%fem
+material@adj%adj
 matus@fem%fem
 maxim@masc%inv
 medic@masc%ul

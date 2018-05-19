@@ -1,2 +1,3 @@
 IPR=>ez,ezi,aza,em,atsi,aza
+AIP=>ai,asi,e,aram,aratsi,ara
 PAP=>ezat
