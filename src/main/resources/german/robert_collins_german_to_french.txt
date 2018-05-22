@@ -9,6 +9,7 @@ abhandlung@noun!meinfem%1(noun)=traité
 abhang@verb!norm%1(verb)=dependre
 abkommling@noun!phanomen%1(noun)=descendant
 abkurzung@noun!meinfem%1(noun)=abbréviation
+ablieferung@noun!meinfem%1(noun)=livraison
 abneigung@noun!meinfem%1(noun)=aversion
 abrede@noun!flasche%1(noun)=contradiction
 abschliess@verb!norm%1(verb)=terminer
@@ -46,6 +47,7 @@ analytisch@adj!ausreichend%1(adj)=analytique
 anarchisch@adj!ausreichend%1(adj)=anarchique
 ander@noun!ausreichend%1(noun)=autre
 ander@verb!norm%1(verb)=modifier
+andererseits@prep%1(prep)=d'un autre côté
 andre@noun!masc%1(noun)=autre
 andrer@noun!masc%1(noun)=autre
 andrerseits@prep%1(prep)=d'un autre côté
@@ -88,6 +90,7 @@ artikel@noun!inv%1(noun)=article
 artist@noun!artist%1(noun)=artiste
 asiatisch@adj!ausreichend%1(adj)=asiatique
 asthetisch@adj!ausreichend%1(adj)=esthétique
+au@prep%1(noun)=aussi
 auch@prep%1(noun)=aussi
 auf@prep%1(prep)=de%2(prep)=sur%3(prep)=au dessus de
 aufbau@verb!norm%1(verb)=construire
@@ -98,6 +101,7 @@ aufgewendet@adj!ausreichend%1(adj)=utilisé%2(adj)=épuisé%3(adj)=dépensé
 aufgrund@prep%1(prep)=sur la base de
 aufhor@verb!norm%1(verb)=arreter
 aufles@verb!norm%1(verb)=ramasser
+auflosung@noun!meinfem%1(noun)=dissolution
 aufregend@adj!ausreichend%1(adj)=excitant
 aufstell@verb!norm%1(verb)=preparer
 aufstellung@noun!meinfem%1(noun)=relevé%2(noun)=inventaire%3(noun)=liste
@@ -165,6 +169,7 @@ bedurfnis@noun!erkenntnis%1(noun)=besoin
 befass@verb!norm%1(verb)=envisager
 befind@verb!norm%1(verb)=setrouver
 befinlichen@noun!inv%1(noun)=situé
+begeh@verb!norm%1(verb)=celebrer
 beginn@verb!norm%1(verb)=commencer
 behaft@verb!norm%1(verb)=entacher
 behalt@verb!norm%1(verb)=garder
@@ -505,12 +510,15 @@ explosiv@noun!norm%1(noun)=explosif
 fahigkeit@noun!meinfem%1(noun)=aptitude
 fahr@verb!norm%1(verb)=aller
 faktor@noun!autor%1(noun)=facteur
+fall@verb!norm%1(verb)=tomber
 falls@prep%1(prep)=si
 falschheit@noun!meinfem%1(noun)=hypocrisie
 familie@noun!flasche%1(noun)=famille
 fang@verb!norm%1(verb)=commencer
 fass@verb!norm%1(verb)=comprendre%2(verb)=saisir
+fast@verb!norm%1(verb)=jeuner
 fast@prep%1(prep)=quasiment
+fast@noun!inv%1(noun)=jeûne
 fax@noun!inv%1(noun)=fax
 fehler@noun!arbeiter%1(noun)=erreur
 fehlerhaft@adj!ausreichend%1(noun)=imparfait%2(adj)=défectueux
@@ -729,6 +737,7 @@ haus@noun!licht%1(noun)=maison
 heb@verb!norm%1(verb)=elever
 hebraisch@adj!ausreichend%1(adj)=hébreu
 heer@noun!meer%1(noun)=armée
+heg@verb!norm%1(verb)=former
 heilig@verb!norm%1(verb)=justifier%2(verb)=sanctifier
 heiligkeit@noun!meinfem%1(noun)=sainteté
 heiligtum@noun!heiligtum%1(noun)=sanctuaire
@@ -895,11 +904,13 @@ keine@prep%1(prep)=aucune
 keinen@prep%1(prep)=aucune
 keineswegs@prep%1(prep)=nullement
 kenn@verb!norm%1(verb)=connaitre
+kenntnis@noun!angst%1(noun)=connaissance
 kenntniss@noun!angst%1(noun)=connaissance
 kern@noun!meer%1(noun)=noyau
 kinder@noun!inv%1(noun)=enfant
 kirche@noun!flasche%1(noun)=église
 kirsche@noun!flasche%1(noun)=cerise
+klar@adj!ausreichend%1(adj)=clair
 klasse@noun!flasche%1(noun)=classe
 klaus@noun!inv%1(noun)=klaus
 klein@adj!ausreichend%1(adj)=petit
@@ -929,6 +940,7 @@ kuche@noun!flasche%1(noun)=cuisine
 kuchen@noun!inv%1(noun)=tarte
 kult@noun!reis%1(noun)=culte
 kultur@noun!inv%1(noun)=culture
+kultus@noun!inv%1(noun)=culte
 kumme@verb!norm%1(verb)=sesoucier
 kunst@noun!kunst%1(noun)=art
 kunstler@noun!arbeiter%1(noun)=artiste
@@ -979,6 +991,7 @@ lieb@verb!norm%1(verb)=aimer
 lieber@prep%1(prep)=davantage
 liebling@noun!rest%1(noun)=favori
 lieg@verb!norm%1(verb)=reposer
+lieferant@noun!meinmasc%1(noun)=livreur
 lieferung@noun!meinfem%1(noun)=livraison
 limonade@noun!inv%1(noun)=limonade
 literatur@noun!inv%1(noun)=littérature
@@ -1158,6 +1171,7 @@ ohne@prep%1(prep)=sans
 okolog@noun!meinmasc%1(noun)=écologiste
 oper@noun!flasche%1(noun)=opéra
 optik@noun!meinmasc%1(noun)=optique
+optimistischer@adj!ausreichend%1(adj)=plus optimiste
 original@noun!original%1(noun)=original
 ort@noun!ort%1(noun)=village%2(noun)=lieu%3(noun)=place
 ostern@noun!inv%1(noun)=pour Pâques
@@ -1279,6 +1293,7 @@ ruhig@prep%1(prep)=calme%2(prep)=tranquille
 rund@prep%1(prep)=environ
 ruhr@verb!norm%1(verb)=bouger
 s@noun!inv%1(noun)=s
+sabbat@noun!inv%1(noun)=sabbat
 sabine@noun!inv%1(noun)=sabine
 sag@verb!norm%1(noun)=dire
 salat@noun!jahrzehnt%1(noun)=salade
@@ -1336,6 +1351,7 @@ schubert@noun!inv%1(noun)=schubert
 schuh@noun!phanomen%1(noun)=chaussure
 schuler@noun!arbeiter%1(noun)=élève%2(noun)=disciple
 schutz@verb!norm%1(verb)=proteger
+schwache@noun!flasche%1(noun)=faiblesse
 schwager@noun!arbeiter%1(noun)=beau-frère
 schwarmer@noun!arbeiter%1(noun)=illuminé%2(noun)=utopiste
 schwarmerisch@adj!ausreichend%1(adj)=exalté
@@ -1512,6 +1528,7 @@ tragisch@adj!ausreichend%1(adj)=tragique
 tragodie@noun!flasche%1(noun)=tragédie
 traktat@noun!angst%1(noun)=traité
 trau@verb!norm%1(verb)=faireconfiance
+trauertag@noun!inv%1(noun)=jour de deuil
 traurig@noun!inv%1(adj)=triste
 treib@verb!norm%1(verb)=pousser%2(verb)=conduire
 trenn@verb!norm%1(verb)=separer
@@ -1542,6 +1559,7 @@ ubrig@adj!ausreichend%1(adj)=restant
 ubrigens@prep%1(prep)=du reste
 uhr@noun!inv%1(noun)=heure
 um@prep%1(prep)=autour%2(prep)=autour
+umgekehrt@prep%1(prep)=inversement
 umfang@noun!meinmasc%1(noun)=étendue
 umfangreich@adj!ausreichend%1(adj)=considérable
 umfangreichst@adj!ausreichend%2(adj)=le plus considérable
@@ -1610,6 +1628,7 @@ vergess@verb!norm%1(verb)=oublier
 vergrubelt@noun!inv%1(noun)=couvé
 verhalt@verb!norm%1(verb)=agir
 verhaltnis@noun!erkenntnis%1(noun)=relation adultère%2(noun)=relation
+verhaltnismassig@noun!inv%1(noun)=proportionné
 verhangnisvoll@adj!ausreichend%1(adj)=désastreux
 verheirat@verb!norm%1(verb)=marier
 verheiratung@noun!meinfem%1(noun)=mariage
@@ -1630,6 +1649,7 @@ versailles@noun!inv%1(noun)=versailles
 versammlung@noun!meinfem%1(noun)=assemblée
 versand@noun!norm%1(noun)=vente par correspondance
 versaumt@adj!meinmasc%1(adj)=manqué
+verschieb@verb!norm%1(verb)=deplacer
 verschied@noun!inv%1(noun)=meurt
 verschreib@verb!norm%1(verb)=prescrire
 verschreibung@noun!meinfem%1(noun)=prescription
@@ -1722,6 +1742,7 @@ weg@noun!phanomen%1(noun)=voie%2(noun)=chemin
 weggeh@verb!norm%1(verb)=partir
 weib@noun!ort%1(noun)=épouse%2(noun)=femme
 weich@verb!norm%1(verb)=quitter
+weil@prep%1(prep)=parce que
 wein@noun!inv%1(noun)=vin
 weis@verb!norm%1(verb)=indiquer
 weit@adj!ausreichend%1(adj)=large%2(adj)=loin
@@ -1730,6 +1751,7 @@ welch@adj!ausreichend%1(adj)=quel
 wenAAAAAAg@prep%1(prep)=assez
 welt@noun!meinfem%1(noun)=monde
 wen@prep%1(prep)=qui
+wenige@prep%1(prep)=quelques
 wend@verb!norm%1(verb)=consacrer
 wenig@noun!meinmasc%1(noun)=peu
 wenn@prep%1(prep)=si%2(prep)=quand
@@ -1799,6 +1821,7 @@ zepter@noun!burger%1(noun)=sceptre
 zeremonie@noun!flasche%1(noun)=cérémonie
 zerspalten@noun!angst%1(noun)=scission
 zerstor@verb!norm%1(verb)=detruire
+zerstorung@noun!meinfem%1(noun)=destruction
 zerstreu@verb!norm%1(verb)=preoccuper
 zeug@verb!norm%1(verb)=engendrer
 zeugnis@noun!erkenntnis%1(noun)=témoignage
@@ -1810,6 +1833,7 @@ zone@noun!flasche%1(noun)=zone
 zu@prep%1(prep)=avec%2(prep)=à propos de%3(prep)=vers
 zuerst@prep%1(prep)=d'abord
 zuganglich@noun!meinmasc%1(adj)=acceptable
+zugehorigkeit@noun!meinfem%1(noun)=appartenance
 zugleich@prep%1(prep)=au même moment
 zugrunde@noun!flasche%1(noun)=base
 zulass@verb!norm%1(verb)=permettre

@@ -6,6 +6,7 @@ aber@neut%inv
 abhandlung@fem%meinfem
 abkommling@masc%phanomen
 abkurzung@fem%meinfem
+ablieferung@fem%meinfem
 abneigung@fem%meinfem
 abrede@fem%flasche
 absicht@fem%meinfem
@@ -68,6 +69,7 @@ asiatisch@adj%ausreichend
 asthetisch@adj%ausreichend
 aufgabe@fem%flasche
 aufgewendet@adj%ausreichend
+auflosung@fem%meinfem
 aufregend@adj%ausreichend
 aufstellung@fem%meinfem
 aufwiedersehen@neut%inv
@@ -292,6 +294,7 @@ fahigkeit@fem%meinfem
 faktor@masc%autor
 falschheit@fem%meinfem
 familie@fem%flasche
+fast@neut%inv
 fax@neut%inv
 fehler@masc%arbeiter
 fehlerhaft@adj%ausreichend
@@ -572,12 +575,14 @@ kassette@fem%flasche
 katalog@masc%norm
 katze@fem%flasche
 kaufmann@masc%burger
+kenntnis@fem%angst
 kenntniss@fem%angst
 kern@masc%meer
 kinder@masc%inv
 kirche@fem%flasche
 kirsche@fem%flasche
 klasse@fem%flasche
+klar@adj%ausreichend
 klaus@neut%inv
 klein@adj%ausreichend
 klima@neut%inv
@@ -600,6 +605,7 @@ kuche@fem%flasche
 kuchen@neut%inv
 kult@masc%reis
 kultur@fem%inv
+kultus@neut%inv
 kunst@masc%kunst
 kunstler@masc%arbeiter
 kur@fem%flasche
@@ -635,6 +641,7 @@ levit@neut%meinmasc
 levitenschaft@neut%inv
 licht@fem%licht
 liebling@adj%rest
+lieferant@masc%meinmasc
 lieferung@fem%meinfem
 limonade@neut%inv
 literatur@neut%inv
@@ -767,6 +774,7 @@ offentlich@adj%ausreichend
 okolog@neut%meinmasc
 oper@neut%flasche
 optik@neut%meinmasc
+optimistischer@adj%ausreichend
 original@neut%original
 ort@masc%ort
 ostern@neut%inv
@@ -868,6 +876,7 @@ rot@adj%ausreichend
 rucksicht@fem%meinfem
 ruhelager@neut%inv
 s@neut%inv
+sabbat@neut%inv
 sabine@fem%inv
 sanh@neut%inv
 salat@fem%jahrzehnt
@@ -911,6 +920,7 @@ schrift@fem%meinfem
 schubert@neut%inv
 schuh@masc%phanomen
 schuler@masc%arbeiter
+schwache@fem%flasche
 schwager@masc%arbeiter
 schwarmer@masc%arbeiter
 schwarmerisch@adj%ausreichend
@@ -1030,6 +1040,7 @@ tot@neut%inv
 tragisch@adj%ausreichend
 tragodie@fem%flasche
 traktat@neut%angst
+trauertag@neut%inv
 traurig@adj%inv
 treu@adj%ausreichend
 trotz@masc%meer
@@ -1101,6 +1112,7 @@ verfuhrendst@adj%ausreichend
 verfuhrerei@neut%inv
 vergrubelt@neut%inv
 verhaltnis@neut%erkenntnis
+verhaltnismassig@neut%inv
 verhangnisvoll@adj%ausreichend
 verheiratung@fem%meinfem
 verhute@neut%inv
@@ -1216,12 +1228,14 @@ zeitschrift@fem%meinfem
 zepter@neut%burger
 zeremonie@fem%flasche
 zerspalten@fem%angst
+zerstorung@fem%meinfem
 zeugnis@neut%erkenntnis
 zigarette@fem%flasche
 zimmer@fem%inv
 zitate@fem%jahrzehnt
 zone@fem%flasche
 zuganglich@adj%meinmasc
+zugehorigkeit@fem%meinfem
 zugrunde@fem%flasche
 zunge@fem%flasche
 zusammenhang@masc%meer

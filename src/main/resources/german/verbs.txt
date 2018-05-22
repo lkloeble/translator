@@ -29,6 +29,7 @@ bedau,ern,[bedauern]
 bedeut,en,[mochten]
 befass,en,[pflanzen]
 befind,en,[mochten],(AIP*befi*befa*0)
+begeh,en,[leben]
 beginn,en,[leben]
 behaft,en,[mochten]
 behalt,en,[entstehen],(SPA*behal*behiel*0)
@@ -107,9 +108,11 @@ erwahn,en,[leben]
 erwerb,en,[rufen],(AIP*erwe*erwa*0)
 erzeug,en,[leben]
 ess,en,[leben],(IPR1*ess*is*0)
+fall,en,[rufen],(AIP*fall*fiel*0)
 fahr,en,[leben],(AIP*fahr*fuhr*0)
 fang,en,[leben]
 fass,en,[leben],(PAP*fass*gefasst*0)
+fast,en,[segnen]
 feststeh,en,[stehen]
 feststell,en,[leben]
 feucht,en,[leben],(AII*feucht*feuchte*0)
@@ -145,6 +148,7 @@ heb,en,[leben],(PAP*heb*gehoben*0)
 heilig,en,[leben]
 heirat,en,[mochten],(PAP*heirat*geheiratet*0)
 helf,en,[leben],(IPR*helft*hilft*0)
+heg,en,[leben]
 heiss,en,[genesen]
 heranzuzieh,en,[leben]
 herleit,en,[mochten]
@@ -285,7 +289,7 @@ vermeid,en,[mochten]
 verpflicht,en,[mochten],(PAP*verpflicht*verpflichtet*0)
 verrats,eln,[sammeln]
 verschreib,en,[rufen]
-versteh,en,[leben]
+verschieb,en,[rufen],(AIP*verschieb*verschob*0)
 verschweig,en,[lassen],(PAP*verschweig*verschwieg*0)
 versteck,en,[leben],(PAP*versteck*versteckt*0)
 versteh,en,[rufen],(AIP*versteh*verstand*0)
