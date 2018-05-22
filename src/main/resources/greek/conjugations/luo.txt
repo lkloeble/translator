@@ -34,3 +34,4 @@ MIDPASSPLUPERFIND=>μην,σο,το,μεθα,θε,ατο
 PRMIDPASSPART=>[ος-η-ον]
 PRESPASSINF=>εσθαι
 PRESACTPART=>[ος-η-ον]
+PERMIDPASINF=>θαι

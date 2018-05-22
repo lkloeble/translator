@@ -52,6 +52,7 @@
 αμαρταν@verb!norm%1(verb)=pecher
 αμαρτι@noun!α-ας%1(noun)=faute%2(noun)=péché
 αμαρτωλ@noun!ος-ου%1(noun)=pêcheur
+αμεταμελητ@adj!ος-η-ον%1(adj)=non repentant
 αμιναδαβ@noun!inv%1(noun)=aminadab
 αμνησικακ@adj!ος-η-ον%1(adj)=sans rancune
 αμωμ@adj!ος-η-ον%1(adj)=immaculé
@@ -291,6 +292,7 @@
 εσρωμ@noun!inv%1(noun)=esrom
 εσχατ@noun!ος-η-ον%1(adj)=dernier
 ετερ@adj!ος-α-ον%1(adj)=autre
+ετοιμ@noun!ος-ος-ον%1(adj)=prêt
 ευ@noun!inv%1(noun)=bien
 ευαγγελι@noun!ον-ου%1(noun)=bonne nouvelle%2(noun)=évangile
 ευλογ@verb!norm%1(verb)=parler avec bienveillance%2(verb)=dire du bien,célébrer%3(verb)=honorer%4(verb)=benir
@@ -574,6 +576,7 @@
 πασα@noun!inv%1(noun)=toute
 πασαι@noun!inv%1(noun)=toutes
 πασαν@noun!inv%1(noun)=toute
+παση@prep%1(prep)=toute
 πασης@prep%1(prep)=toute
 πασιν@prep%1(prep)=tous
 πατ@noun!ηρ-ρος%1(noun)=père
@@ -708,6 +711,7 @@
 σωφρον@verb!norm%1(verb)=etresaindesprit
 ταπεινοφρον@verb!norm%1(verb)=etremodeste
 ταρασσ@verb!norm%1(verb)=agiter%2(verb)=deranger
+τασσ@verb!norm%1(verb)=arranger
 σωτηρι@noun!α-ας%1(noun)=salut
 σωφρον@adj!ων-ων-ον%1(adj)=modéré
 τα@noun!inv%1(noun)=le

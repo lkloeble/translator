@@ -611,7 +611,8 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("anaxH5", translatorBridge);
         checkInMaps("anaxI1A", translatorBridge);
         checkInMaps("anaxI1B", translatorBridge);
-        checkInMaps("anaxI2", translatorBridge);
+        checkInMaps("anaxI2A", translatorBridge);
+        checkInMaps("anaxI2B", translatorBridge);
         checkInMaps("anaxI3", translatorBridge);
         checkInMaps("anaxJ", translatorBridge);
         checkInMaps("anaxK", translatorBridge);
@@ -694,10 +695,10 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("clement2E", translatorBridge);
         checkInMaps("clement2F1", translatorBridge);
         checkInMaps("clement2F2", translatorBridge);
-        checkInMaps("clement2F3", translatorBridge);
+        //checkInMaps("clement2F3", translatorBridge);
         checkInMaps("clement2G", translatorBridge);
         checkInMaps("clement2H", translatorBridge);
-
+        checkInMaps("clement2I", translatorBridge);
     }
 
     @Test

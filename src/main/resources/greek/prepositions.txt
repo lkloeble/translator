@@ -105,6 +105,7 @@
 παραacc@prep()
 παραdat@prep()
 παραgen@prep()
+παση@prep(dat)
 πασης@prep(gen)
 πασιν@prep(dat)
 περι@prep%[electAccusativeForFollowingNoun(περιacc),electGenitiveForFollowingNoun(περιgen)]

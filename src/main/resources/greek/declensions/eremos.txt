@@ -19,7 +19,7 @@ gen%plr%masc%ων
 gen%plr%fem%ων
 gen%plr%neut%ων
 acc%plr%masc%ους
-acc%plr%fem%ες
+acc%plr%fem%ας
 acc%plr%neut%α
 voc%plr%masc%οι
 voc%plr%fem%ες
