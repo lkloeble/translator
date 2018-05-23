@@ -559,6 +559,8 @@ numm@masc%us-i
 o@neut%s-ris
 obaerat@adj%us-a-um
 obscenit@fem%as-atis
+obscuri@adj%or-or-us
+obscur@adj%us-a-um
 observat@adj%us-a-um
 obtentur@adj%us-a-um
 occas@masc%us-us

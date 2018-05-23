@@ -616,6 +616,7 @@ impluvi@noun!um-i%1(noun)=bassin
 impono@verb!norm%1(verb)=poser
 importo@verb!norm%1(verb)=importer
 improb@noun!us-a-um%1(noun)=mauvais
+impugno@verb!norm%1(verb)=combattre
 in@prep%1(prep+acc)=dans, en, sur : (sens local aboutissement d'un mouvement)%2(prep+acc)=jusqu'a : (temporel aboutissement d'un mouvement)%3(prep+acc)=a la maniere de%4(prep+acc)=pour, en faveur de%5(prep+abl)=dans,en,sur (sens local sans mouvement)%6(prep+abl)=dans (temporel indiquant une date ou un laps de temps)%7(prep+abl)=dans,parmi%8(prep+abl)=dans
 inan@adj!is-is-e%1(adj)=vide
 incarnat@noun!us-a-um%1(noun)=incarné
@@ -861,6 +862,7 @@ nobilitat@adj!us-a-um%1(adj)=noble
 nobis@prep%1(prep)=nous
 nolo@verb!irrg%1(verb)=refuser
 non@prep%1(prep)=ne...pas...%2(prep)=non
+nonnumquam@prep%1(prep)=parfois
 nonnull@noun!us-a-um%1(noun)=quelque
 nos@prep%1(prep)=nous
 nost@adj!er-ra-rum%1(adj)=notre
@@ -880,6 +882,8 @@ o@noun!s-ris%1(noun)=parole
 ob@prep%1(prep)=contre%2(prep)=à cause de%3(prep)=vers
 obaerat@adj!us-a-um%1(adj)=endetté
 obscenit@noun!as-atis%1(noun)=défavorable
+obscur@adj!us-a-um%1(adj)=sombre
+obscuri@adj!or-or-us%1(adj)=plus sombre
 observat@adj!us-a-um%1(adj)=observé
 observo@verb!norm%1(verb)=observer
 obtentur@adj!us-a-um%1(adj)=sur le point de posséder

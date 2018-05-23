@@ -119,6 +119,7 @@ feucht,en,[leben],(AII*feucht*feuchte*0)
 find,en,[mochten],(PAP*find*gefunden*0@AIP*find*fand*0)
 fixier,en,[leben]
 flieg,en,[leben]
+fliess,en,[genesen]
 folg,en,[leben]
 ford,ern,[fordern]
 frag,en,[leben],(PAP*frag*gefragt*0)
@@ -323,6 +324,7 @@ wohn,en,[leben]
 wunsch,en,[leben]
 zeig,en,[leben]
 zeug,en,[leben]
+zerreiss,en,[genesen],(PAP*zerreiss*zerrissen*0)
 zerstor,en,[leben]
 zerstreu,en,[leben]
 zieh,en,[rufen],(PAP*ziehen*gezogen*0@AIP*zieh*zog*0)

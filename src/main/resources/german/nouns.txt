@@ -19,6 +19,7 @@ adresse@fem%flasche
 agypten@neut%inv
 ah@neut%inv
 ahn@masc%schmerz
+ahroniden@neut%inv
 ailonith@neut%inv
 alkohol@neut%inv
 all@adj%ausreichend
@@ -143,6 +144,7 @@ bett@neut%schmerz
 bewahrt@adj%ausreichend
 beweis@masc%meer
 bewiesen@adj%ausreichend
+beziehung@fem%meinfem
 bezug@masc%jahrzehnt
 bier@neut%inv
 bikkurim@neut%inv
@@ -168,6 +170,7 @@ brief@masc%norm
 brigitte@fem%inv
 brot@neut%wurst
 bruder@masc%arbeiter
+brunstig@adj%ausreichend
 buch@fem%ort
 buhlerin@fem%sangerin
 burger@masc%burger
@@ -403,6 +406,7 @@ geratenst@adj%ausreichend
 gerechtfertigt@adj%ausreichend
 gerechtsame@fem%flasche
 gericht@neut%autor
+gerichtsbeschluss@neut%inv
 gering@adj%ausreichend
 geringer@adj%ausreichend
 geruhmt@adj%ausreichend
@@ -411,6 +415,7 @@ gesammelt@adj%ausreichend
 gesamtheit@fem%meinfem
 geschlecht@neut%licht
 geschmacke@masc%licht
+geschutzt@adj%ausreichend
 geschwacht@adj%ausreichend
 geschichte@fem%flasche
 gesetz@neut%meer
@@ -437,6 +442,7 @@ gold@neut%phanomen
 gotisch@adj%ausreichend
 gott@masc%inv
 gottes@masc%inv
+gottlich@adj%ausreichend
 grad@neut%jahrzehnt
 gras@fem%inv
 greisenhaft@adj%ausreichend
@@ -548,6 +554,7 @@ jischmael@neut%inv
 joga@neut%inv
 joh@neut%inv
 johannes@masc%inv
+jonathan@masc%inv
 jorg@neut%inv
 jos@neut%inv
 jose@neut%inv
@@ -646,7 +653,9 @@ lieferung@fem%meinfem
 limonade@neut%inv
 literatur@neut%inv
 lk@neut%inv
+logik@fem%meinfem
 logisch@adj%ausreichend
+logisierung@fem%inv
 losend@adj%ausreichend
 lucke@fem%flasche
 lukas@masc%inv
@@ -716,6 +725,7 @@ muhe@fem%flasche
 muhsal@fem%inv
 muhselig@adj%ausreichend
 multikulturell@adj%ausreichend
+mundlich@adj%ausreichend
 murmeltier@neut%arbeiter
 musee@fem%flasche
 museum@neut%zeichen
@@ -765,6 +775,7 @@ notwehr@neut%inv
 notwendig@adj%ausreichend
 nr@neut%inv
 nummer@neut%inv
+oberflachlich@adj%ausreichend
 objektiv@neut%norm
 obst@neut%inv
 odem@neut%inv
@@ -890,6 +901,7 @@ sauberkeit@neut%inv
 schade@neut%inv
 scharfst@adj%ausreichend
 schauerlich@adj%ausreichend
+schauspielerisch@adj%ausreichend
 scheck@fem%meinfem
 schenk@masc%meinmasc
 schicklichkeit@fem%meinfem
@@ -917,6 +929,7 @@ schopenhauer@neut%zeichen
 schopenhauerisch@adj%meinmasc
 schopfern@masc%arbeiter
 schrift@fem%meinfem
+schriftlich@adj%ausreichend
 schubert@neut%inv
 schuh@masc%phanomen
 schuler@masc%arbeiter
@@ -929,6 +942,7 @@ schweigsamkeit@neut%inv
 schwelle@fem%flasche
 schwer@adj%ausreichend
 schwerfallig@adj%ausreichend
+schwur@masc%phanomen
 sechst@adj%ausreichend
 sechzehn@neut%inv
 seele@fem%flasche
@@ -1037,6 +1051,7 @@ tora@neut%inv
 tos@neut%inv
 tosephta@neut%inv
 tot@neut%inv
+tradition@fem%meinfem
 tragisch@adj%ausreichend
 tragodie@fem%flasche
 traktat@neut%angst
@@ -1132,6 +1147,7 @@ verstandnis@fem%inv
 versuch@neut%meinmasc
 versucherisch@adj%ausreichend
 verwandt@adj%ausreichend
+verwandtschaftich@neut%meinmasc
 verwohnter@adj%ausreichend
 verwegen@adj%ausreichend
 verzeichnis@neut%erkenntnis
