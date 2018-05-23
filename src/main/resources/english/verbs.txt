@@ -91,6 +91,7 @@ depart,[live]
 derive,[live]
 describe,[live]
 desire,[live]
+destroy,[call]
 determine,[live]
 devote,[live]
 die,[live]
@@ -175,6 +176,7 @@ like,[live]
 limit,[call]
 live,[live]
 locate,[live]
+look,[live]
 love,[live]
 make,[live],(AIP*maked*made*0@PAPR*make*mak*0@PAP*maked*made*0)
 maintain,[call]
@@ -264,6 +266,7 @@ smooth,[teach]
 soften,[live]
 speak,[live],(AII*spea*spo*0@PAP*speakd*spoken*0)
 sprinkle,[live]
+stand,[live]
 starve,[live],(PAPR*starvei*starvi*0)
 stretch,[call]
 strike,[live],(PAP*striked*struck*0)

@@ -439,6 +439,7 @@ gihon@neut%invmasc
 girdle@neut%normmasc
 girl@fem%normfem
 gloom@neut%invmasc
+glor@fem%endy
 gloss@neut%invmasc
 god@masc%normmasc
 gold@masc%normmasc
@@ -526,6 +527,7 @@ inferior@adj%normmasc
 infinite@adj%normmasc
 inheritance@neut%normmasc
 inn@neut%normmasc
+inner@adj%normmasc
 instruction@neut%normmasc
 intended@adj%invmasc
 interest@masc%normmasc
@@ -868,6 +870,7 @@ rite@masc%normmasc
 river@fem%normfem
 riverhead@fem%normfem
 ro@neut%invmasc
+rock@neut%normmasc
 roger@neut%invmasc
 romans@neut%invmasc
 room@fem%normfem
