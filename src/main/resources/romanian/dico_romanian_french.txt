@@ -298,6 +298,7 @@ dependents@noun!fem%1(noun)=dépendance
 depinde@noun!inv%1(noun)=ça dépend
 deplin@prep%1(prep)=pleinement%2(prep)=plein
 deranj@verb!norm%1(verb)=deranger
+deschi@verb!norm%1(verb)=ouvrir
 descop@verb!norm%1(verb)=reveler%2(verb)=decouvrir
 descoperir@noun!berea%1(noun)=découverte
 descoperit@adj!adj%1(adj)=découvert
@@ -529,6 +530,7 @@ intru@prep%1(prep)=dans
 intrucat@prep%1(prep)=depuis%2(prep)=parce que
 intseleasa@adj!inv%1(noun)=comprise
 intseleg@verb!norm%1(verb)=comprendre
+intseleger@noun!berea%1(noun)=compréhension
 intselept@adj!adjts%1(adj)=sage
 intseleapta@adj!inv%1(adj)=sage
 intunec@verb!norm%1(verb)=obscurcir
@@ -722,6 +724,7 @@ opri@verb!norm%1(verb)=arreter
 opt@noun!inv%1(noun)=huit
 ora@noun!inv%1(noun)=heure
 oras@noun!ul%1(noun)=ville
+ordin@noun!berea%1(noun)=ordre
 organic@adj!adj%1(adj)=organique
 organiz@verb!norm%1(verb)=organiser
 orice@prep%1(prep)=n'importe quel
@@ -901,7 +904,7 @@ sau@prep%1(prep)=ou
 scandal@noun!ul%1(noun)=scandal
 scandalos@noun!adj%1(noun)=scandaleux
 scoal@noun!fem%1(noun)=école
-scop@noun!ul%1(noun)=but
+scop@noun!locul%1(noun)=but
 scri@verb!norm%1(verb)=ecrire
 scrier@noun!berea%1(noun)=écrit
 scrisoar@noun!berea%1(noun)=lettre

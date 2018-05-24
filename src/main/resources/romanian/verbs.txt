@@ -51,11 +51,12 @@ da,,[da]
 deoseb,,[primi]
 depart,,[fumez]
 deranj,,[fumez]
+deschi,,[vinde]
 descop,,[descopar]
 desfasoar,,[incerca]
 deven,i,[deveni],(PAP*devinat*devenit*0@IPR0125*deven*devin*0@AIP01*deven*devi*0@AIP25*deven*devin*0)
 doar,,[dorm],(IPR0*doar*dor*0)
-dor,,[aciti]
+dor,,[aciti],(PAP*dor*dorit*0)
 dorm,,[dorm]
 dot,,[fumez]
 doved,,[aciti]
@@ -71,7 +72,7 @@ form,,[fumez]
 fum,,[fumez]
 gas,,[locuiesc]
 gol,i,[aciti]
-gon,i,[aciti]
+gon,i,[aciti],(PAP*gon*gonit*0)
 hotar,i,[hotarasc]
 ies,,[dorm]
 impart,,[impart]
@@ -119,7 +120,7 @@ pierd,e,[merg],(AII*pie*pia*0)
 plac,,[merg]
 pleaca@IRREGULAR%[IPR]=[plec,pleci,pleaca,plecam,plecatsi,pleaca]%[PAP]=[plecat]%[PAPR]=[plecand]%[INFINITIVE]=[pleca]
 pomen,,[aciti]
-porunc,,[aciti]
+porunc,,[aciti],(PAP*porunc*poruncit*0)
 pot@IRREGULAR%[INFINITIVE]=[putea]%[IPR]=[pot,potsi,poate,putem,putetsi,pot]%[PAP]=[putut]
 povest,,[locuiesc]
 prefer,,[incerca]
@@ -128,7 +129,7 @@ prin,,[crede],(PAP*prin*prins*0)
 produc,,[face]
 pun,,[merg]
 rama,,[ramane]
-rasad,,[aciti]
+rasad,,[aciti],(PAP*rasad*rasadit*0)
 raspun,,[raspund]
 realiz,a,[fumez]
 remarc,a,[cauta],(PAP*remarc*remarcat*0)
@@ -168,7 +169,7 @@ tax,,[fumez]
 termin,,[cauta]
 traduc,,[merg],(PAP*traduc*tradu*0)
 trag,,[merg]
-trai,,[aciti],(PAP*trai*tra*0)
+trai,,[aciti],(PAP*trai*trait*0)
 transmit,,[merg]
 trebui,,[trebui],(ACP*trebui*artrebui*0)
 trec,,[merg],(PAP*trecs*trecut*0)
@@ -177,7 +178,7 @@ umaniz,,[fumez]
 umpl,,[scrie],(PAP*umpls*umplut*0)
 urc,,[cauta]
 urm,,[fumez]
-urmar,,[aciti]
+urmar,,[aciti],(PAP*urmar*urmarit*0)
 vad@IRREGULAR%[IPR]=[vad,vezi,vede,vedem,vedetsi,vad]%[AIPP]=[vazusem,vazusesi,vazuse,vazuseram,vazuseratsi,vazusera]%[INFINITIVE]=[vedea]%[PAP]=[vazut]
 van,,[vinde],(IPR1234*van*vin*0@PSP1234*van*vin*0)
 vin@IRREGULAR%[IPR]=[vin,vii,vine,venim,venitsi,vin]%[AII]=[veneam,veneai,venea,veneam,veneatsi,veneau]%[PAPR]=[venind]%[PAP]=[venit]%[INFINITIVE]=[veni]

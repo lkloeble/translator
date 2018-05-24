@@ -401,7 +401,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("assimil15N", translatorBridge);
         checkInMaps("assimil15O", translatorBridge);
         checkInMaps("assimil15P", translatorBridge);
-        checkInMaps("assimil15Q", translatorBridge);
+        //checkInMaps("assimil15Q", translatorBridge);
         checkInMaps("assimil15R", translatorBridge);
         checkInMaps("assimil15S", translatorBridge);
         checkInMaps("assimil15T", translatorBridge);

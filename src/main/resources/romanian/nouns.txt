@@ -309,6 +309,7 @@ intreaga@fem%inv
 intreg@adj%adj
 intretsinut@adj%adj
 intseleasa@adj%inv
+intseleger@fem%berea
 intselept@adj%adjts
 intseleapta@adj%inv
 intunecare@neut%inv
@@ -446,6 +447,7 @@ oper@fem%fem
 opt@neut%inv
 ora@fem%inv
 oras@masc%ul
+ordin@fem%berea
 organic@adj%adj
 original@adj%adj
 originare@neut%inv
@@ -573,7 +575,7 @@ sat@masc%ul
 scandal@masc%ul
 scandalos@adj%adj
 scoal@fem%fem
-scop@masc%ul
+scop@masc%locul
 scrier@fem%berea
 scrisoar@fem%berea[nomplr(a):scrisori,nomplr(b):scrisorile]
 scump@adj%adj

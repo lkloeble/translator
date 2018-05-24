@@ -6,6 +6,7 @@ nomnounfemsge%sing%fem%e
 gennounmascsga%sing%masc%ui
 gennounfemsg%sing%masc%ei
 gennounmascsgb%plr%masc%ilor
+gennounmascsgc%plr%masc%or
 nommascplri%plr%masc%i
 nomfemplre%plr%fem%e
 nomfemplreart%plr%fem%ele

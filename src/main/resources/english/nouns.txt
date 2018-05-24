@@ -263,6 +263,7 @@ delicious@adj%invmasc
 delight@adj%normmasc
 depth@neut%church
 description@neut%normmasc
+desert@neut%normmasc
 designation@fem%normfem
 desirable@adj%normmasc
 desire@neut%normmasc
@@ -278,6 +279,7 @@ diffused@adj%invmasc
 dinner@neut%normmasc
 disciple@neut%normmasc
 discussion@neut%normmasc
+disparagement@neut%invmasc
 dispensation@neut%normmasc
 dissolveth@neut%invmasc
 distance@fem%normfem
@@ -558,12 +560,15 @@ jones@neut%invmasc
 jos@neut%invmasc
 joseph@masc%invmasc
 jubal@masc%invmasc
+judah@masc%invmasc
 judaism@masc%invmasc
 judas@masc%invmasc
 judea@neut%invmasc
+judge@neut%normmasc
 judicature@neut%invmasc
 karen@neut%invmasc!agenitive
 keeper@neut%normmasc
+kenite@neut%normmasc
 key@neut%normmasc
 kid@masc%normmasc
 kind@masc%normmasc
@@ -613,6 +618,7 @@ living@neut%invmasc
 liz@fem%invfem
 loave@neut%normmasc
 locust@neut%normmasc
+lofty@neut%invmasc
 london@neut%invmasc
 long@adj%invmasc
 longer@adj%invmasc
@@ -675,6 +681,7 @@ month@neut%normmasc
 moon@neut%normmasc
 morning@neut%normmasc
 moses@neut%invmasc
+moses'@neut%invmasc
 mother@fem%normfem
 motion@neut%normmasc
 mount@neut%invmasc
@@ -849,6 +856,7 @@ red@adj%invmasc
 reference@fem%normfem
 reflected@adj%invmasc
 reformation@neut%normmasc
+regard@neut%normmasc
 region@neut%normmasc
 rejection@neut%normmasc
 related@masc%invmasc
@@ -1142,6 +1150,7 @@ wise@adj%normmasc
 wisdom@fem%invfem
 wisedome@fem%invfem
 witness@neut%church
+wood@neut%normmasc
 word@neut%normmasc
 work@neut%normmasc
 worke@neut%normmasc

@@ -5,3 +5,4 @@ data%sing%fem%ei
 noma%plr%fem%e
 nomb%plr%fem%ele
 nomc%plr%fem%ile
+gen%plr%fem%elor
