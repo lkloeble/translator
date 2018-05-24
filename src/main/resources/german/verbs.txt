@@ -232,6 +232,7 @@ schliess,en,[schliessen],(AIP*schliess*schloss*0)
 schreib,en,[rufen],(AIP*schreib*schrieb*0@PAP*schrei*geschrie*0)
 schutz,en,[leben],(IPR*schutzst*schutzt*0)
 schweb,en,[leben]
+schwor,en,[leben],(PAP*schwor*geschworen*0)
 sein@IRREGULAR%[INFINITIVE]=[sein]%[IPR]=[bin,bist,ist,sind,seid,sind]%[AII]=[war,warst,war,waren,wart,waren]%[AIF]=[werde,wirst,wird,werden,werdet,werden]%[AIMP]=[sei,sei]%[ASP]=[sei,seist,sei,seien,seiet,seien]
 seinold@IRREGULAR%[AII]=[ward,ward,ward,ward,ward,warden]
 segn,en,[segnen]
@@ -260,6 +261,7 @@ stimm,en,[leben]
 stor,en,[leben]
 studier,en,[leben]
 such,en,[leben],(AIP*such*sucht*0)
+suhn,en,[leben],(PAP*suhn*gesuhnt*0)
 surf,en,[leben]
 tauf,en,[leben],(PAP*tauf*getauft*0)
 teil,en,[werden],(AIP*teil*teilt*0)

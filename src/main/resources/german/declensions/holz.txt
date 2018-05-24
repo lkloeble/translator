@@ -1,3 +1,4 @@
 nom%sing%neut%
 nom%plr%neut%er
 gen%sing%neut%es
+dat%sing%neut%e
