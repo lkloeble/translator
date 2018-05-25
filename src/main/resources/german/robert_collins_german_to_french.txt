@@ -1,5 +1,6 @@
 a@noun!inv%1(noun)=a
 ab@prep%1(prep)=de
+abaje@noun!inv%1(noun)=abaje
 abdruck@verb!norm%1(verb)=inserer
 abend@noun!inv%1(noun)=soir
 abendessen@noun!inv%1(noun)=souper
@@ -212,6 +213,7 @@ berlin@noun!inv%1(noun)=berlin
 beschaftigung@noun!meinfem%1(noun)=occupation
 beruh@verb!norm%1(verb)=reposer
 besam@verb!norm%1(verb)=fertiliser
+beschaftig@verb!norm%1(verb)=soccuper
 bescheiden@noun!ausreichend%1(adj)=humble%2(adj)=modeste
 besitz@verb!norm%1(verb)=posseder
 besonder@noun!ausreichend%1(adj)=extraordinaire%2(adj)=particulier%3(adj)=spécial
@@ -1002,6 +1004,7 @@ levitenschaft@noun!inv%1(noun)=lévit(isme)
 licht@noun!licht%1(noun)=lumière
 lieb@verb!norm%1(verb)=aimer
 lieber@prep%1(prep)=davantage
+liebeserweisungen@noun!meinfem%1(noun)=déclaration d'amour
 liebling@noun!rest%1(noun)=favori
 lieg@verb!norm%1(verb)=reposer
 lieferant@noun!meinmasc%1(noun)=livreur

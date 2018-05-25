@@ -49,6 +49,7 @@ bereit,en,[leben]
 bericht,en,[mochten]
 beruh,en,[leben]
 besam,en,[leben]
+beschaftig,en,[leben]
 besitz,en,[genesen],(PAP*besitz*besessen*0)
 bestatig,en,[leben]
 bestell,en,[leben]

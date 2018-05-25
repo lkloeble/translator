@@ -1,4 +1,5 @@
 a@neut%inv
+abaje@neut%inv
 abend@neut%inv
 abendessen@neut%inv
 abends@neut%inv
@@ -651,6 +652,7 @@ levirat@neut%inv
 levit@neut%meinmasc
 levitenschaft@neut%inv
 licht@fem%licht
+liebeserweisungen@fem%meinfem
 liebling@adj%rest
 lieferant@masc%meinmasc
 lieferung@fem%meinfem
