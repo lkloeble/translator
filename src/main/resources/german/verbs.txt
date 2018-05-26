@@ -53,6 +53,7 @@ beschaftig,en,[leben]
 besitz,en,[genesen],(PAP*besitz*besessen*0)
 bestatig,en,[leben]
 bestell,en,[leben]
+bet,en,[wenden]
 betracht,en,[mochten]
 betreff,en,[leben],(IPR12*betreff*betriff*0)
 beug,en,[leben]

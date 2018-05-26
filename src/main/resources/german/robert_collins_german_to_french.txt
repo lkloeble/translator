@@ -215,6 +215,7 @@ beruh@verb!norm%1(verb)=reposer
 besam@verb!norm%1(verb)=fertiliser
 beschaftig@verb!norm%1(verb)=soccuper
 bescheiden@noun!ausreichend%1(adj)=humble%2(adj)=modeste
+beseitigung@noun!meinfem%1(noun)=élimination
 besitz@verb!norm%1(verb)=posseder
 besonder@noun!ausreichend%1(adj)=extraordinaire%2(adj)=particulier%3(adj)=spécial
 besonders@prep%1(prep)=particulièrement
@@ -225,6 +226,7 @@ bestell@verb!norm%1(verb)=commander
 bestellung@noun!meinfem%1(noun)=commande
 bestimmt@adj!ausreichend%1(adj)=certain
 bestimmung@noun!meinfem%1(noun)=règle
+bet@verb!norm%1(verb)=prier
 betracht@verb!norm%1(verb)=considerer
 betragt@adj!meinmasc%1(adj)=égal à
 betreff@verb!norm%1(verb)=concerner
@@ -295,6 +297,7 @@ chor@noun!phanomen%1(noun)=choeur
 christ@noun!christ%1(noun)=christ
 christel@noun!inv%1(noun)=christel
 christenheit@noun!inv%1(noun)=chrétienté
+chronologisch@adj!ausreichend%1(adj)=chronologique
 da@prep%1(prep)=parce que%2(prep)=et
 dabei@prep%1(prep)=à cet égard
 dadurch@prep%1(prep)=ainsi%2(prep)=donc
@@ -1151,6 +1154,7 @@ neh@noun!inv%1(noun)=neh
 nehm@verb!norm%1(verb)=prendre
 nein@noun!inv%1(noun)=non
 nenn@verb!norm%1(verb)=nommer
+nennung@noun!meinfem%1(noun)=mention
 neu@noun!mein%1(noun)=nouveau
 neuer@noun!ausreichend%1(noun)=davantage nouveau
 neuerung@noun!meinfem%1(noun)=innovation
@@ -1385,6 +1389,7 @@ schweigsamkeit@noun!inv%1(noun)=réticence
 schwelle@noun!flasche%1(noun)=seuil
 schwer@noun!ausreichend%1(noun)=difficile
 schwerfallig@noun!ausreichend%1(noun)=lourd
+schwierigkeit@noun!meinfem%1(noun)=difficulté
 schwor@verb!norm%1(verb)=jurer
 schwur@noun!phanomen%1(noun)=serment
 sechst@adj!ausreichend%1(adj)=sixième
@@ -1641,6 +1646,7 @@ vaterlich@adj!ausreichend%1(adj)=paternel
 vaterlicherseits@prep%1(prep)=paternel
 vaterschaft@noun!meinfem%1(noun)=paternité
 verabredung@noun!meinmasc%1(noun)=rendez-vous
+verandert@adj!ausreichend%1(adj)=modifié
 verberg@verb!norm%1(verb)=cacher
 verbind@verb!norm%1(verb)=relier
 verbindung@noun!meinmasc%1(noun)=mélange%2(noun)=connexion

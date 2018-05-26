@@ -133,6 +133,7 @@ bergpredigt@fem%inv
 berlin@neut%inv
 beschaftigung@fem%meinfem
 bescheiden@adj%ausreichend
+beseitigung@fem%meinfem
 besonder@adj%ausreichend
 best@adj%mein
 bestatten@neut%inv
@@ -190,6 +191,7 @@ chr@neut%inv
 christ@masc%christ
 christel@fem%inv
 christenheit@fem%inv
+chronologisch@adj%ausreichend
 dame@fem%flasche
 dank@fem%norm
 dasein@neut%rest
@@ -762,6 +764,7 @@ nathanael@neut%inv
 nebel@neut%arbeiter
 neh@neut%inv
 nein@neut%inv
+nennung@fem%meinfem
 neu@adj%mein
 neuer@adj%ausreichend
 neuerung@fem%meinfem
@@ -950,6 +953,7 @@ schweigsamkeit@neut%inv
 schwelle@fem%flasche
 schwer@adj%ausreichend
 schwerfallig@adj%ausreichend
+schwierigkeit@fem%meinfem
 schwur@masc%phanomen
 sechst@adj%ausreichend
 sechzehn@neut%inv
@@ -1124,6 +1128,7 @@ vater@masc%arbeiter
 vaterlich@adj%ausreichend
 vaterschaft@fem%meinfem
 verabredung@masc%meinmasc
+verandert@adj%ausreichend
 verbindung@masc%meinmasc
 verborgenheit@masc%meinmasc
 verbot@neut%phanomen
