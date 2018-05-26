@@ -38,6 +38,7 @@ beyond@prep()
 briefly@prep()
 but@prep()
 by@prep()%[electRuleByAnyChance,electRuleByTheWay]
+certainly@prep()
 close@prep()
 commonly@prep()
 confidently@prep()

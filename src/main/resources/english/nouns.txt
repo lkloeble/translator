@@ -47,6 +47,7 @@ arabic@neut%normmasc
 aramaic@neut%normmasc
 archbishop@neut%invmasc
 area@fem%normfem
+argument@neut%normmasc
 arm@neut%normmasc
 arm@neut%endy
 art@neut%invmasc
@@ -182,7 +183,7 @@ clause@fem%normfem
 clean@adj%invmasc
 cloudy@neut%invmasc
 club@neut%normmasc
-coast@neut%invmasc
+coast@neut%normmasc
 coat@neut%normmasc
 coffee@neut%invmasc
 col@neut%invmasc
@@ -719,6 +720,7 @@ nod@neut%normmasc
 norman@adj%normmasc
 north@masc%invmasc
 northern@adj%invmasc
+northward@masc%invmasc
 nostril@neut%normmasc
 nothing@masc%invmasc
 notice@neut%normmasc
@@ -749,6 +751,7 @@ order@neut%normmasc
 original@adj%invmasc
 originally@neut%invmasc
 other@neut%normmasc
+ought@neut%invmasc
 outer@neut%invmasc
 owner@neut%normmasc
 p@neut%invmasc
@@ -786,6 +789,7 @@ piano@neut%invmasc
 pint@fem%normfem
 pishon@neut%invmasc
 place@fem%normfem
+placing@neut%invmasc
 plain@adj%invmasc
 plain@fem%normmasc
 plant@fem%normfem
@@ -996,6 +1000,7 @@ statute@fem%normfem
 steak@neut%invmasc
 steve@neut%invmasc
 steve@neut%invmasc
+stock@neut%normmasc
 strabo@neut%invmasc
 strength@fem%church
 string@fem%normfem
@@ -1075,6 +1080,7 @@ translation@fem%normfem
 translator@neut%normmasc
 traveler@neut%normmasc
 tree@masc%normmasc
+true@adj%invmasc
 truth@neut%church
 tube@masc%normmasc
 tunic@fem%normfem

@@ -16,7 +16,7 @@ adoucir@NORM%[INFINITIVE]=[adoucir]%[IPR]=[adoucis,adoucis,adoucit,adoucissons,a
 adresser@NORM%[IPR]=[adresse,adresses,adresse,adressons,adressez,adressent]%[INFINITIVE]=[adresser]
 advenir@NORM%[INFINITIVE]=[advenir]%[PSP]=[sois advenu,soies advenu,soit advenu,soyons advenus,soyez advenus,soient advenus]%[VENO]=[advenir,,,,,,]
 affecter@NORM%[IPR]=[affecte,affectes,affecte,affectons,affectez,affectent]%[PII]=[suis affecté,es affecté,est affecté,sommes affectés,êtes affectés,sont affectés]%[INFINITIVE]=[affecter]
-affirmer@NORM%[INFINITIVE]=[affirmer]%[IPR]=[affirme,affirmes,affirme,affirmons,affirmez,affirment]
+affirmer@NORM%[INFINITIVE]=[affirmer]%[IPR]=[affirme,affirmes,affirme,affirmons,affirmez,affirment]%[PAP]=[affirmé]%[AII]=[affirmais,affirmais,affirmait,affirmions,affirmiez,affirmaient]
 agir@NORM%[INFINITIVE]=[agir]%[IPR]=[agis,agis,agit,agissons,agissez,agissent]%[AII]=[agissais,agissais,agissait,agissions,agissiez,agissaient]
 agiter@NORM%[INFINITIVE]=[agiter]%[IPR]=[agite,agites,agite,agitons,agitez,agitent]%[AORPASIND]=[fus agité,fus agité,fut agité,fûmes agités,fûtes agités,furent agités]
 aider@NORM%[INFINITIVE]=[aider]%[IPR]=[aide,aides,aide,aidons,aidez,aident]%[AIF]=[aiderai,aideras,aidera,aiderons,aiderez,aideront]%[PIP]=[suis aidé,es aidé,est aidé,sommes aidés,êtes aidés,sont aidés]%[PAPR]=[aidant]%[PAP]=[aidé]

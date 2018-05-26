@@ -54,6 +54,7 @@ check,[call]
 choose,[live],(PAP*choosed*chosen*0)
 circumcise,[live]
 circumscribe,[live]
+cite,[live]
 claim,[call]
 climb,[live]
 close,[live]
