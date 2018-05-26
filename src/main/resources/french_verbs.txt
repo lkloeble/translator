@@ -142,7 +142,7 @@ corrompre@NORM%[INFINITIVE]=[corrompre]%[IPR]=[corromps,corromps,corrompt,corrom
 corriger@NORM%[INFINITIVE]=[corriger]%[IPR]=[corrige,corriges,corrige,corrigeons,corrigez,corrigent]%[PII]=[a été corrigé,as été corrigé,a été corrigé,avons été corrigé,avez été corrigé,ont été corrigé]%[AII]=[corrigeais,corrigeais,corrigeait,corrigions,corrigiez,corrigeaient]
 couler@NORM%[INFINITIVE]=[couler]%[IPR]=[coule,coules,coule,coulons,coulez,coulent]%[AIF]=[coulerai,couleras,coulera,coulerons,coulerez,couleront]
 coudre@NORM%[INFINITIVE]=[coudre]%[IPR]=[couds,couds,coud,cousons,cousez,cousent]%[AIP]=[cousis,cousis,cousit,cousîmes,cousîtes,cousirent]
-couper@NORM%[IPR]=[coupe,coupes,coupe,coupons,coupez,coupent]%[AIP]=[coupai,coupais,coupa,coupâmes,coupâtes,coupèrent]%[INFINITIVE]=[couper]
+couper@NORM%[INFINITIVE]=[couper]%[IPR]=[coupe,coupes,coupe,coupons,coupez,coupent]%[AIP]=[coupai,coupais,coupa,coupâmes,coupâtes,coupèrent]%[ARAIPR]=[coupe,coupes,coupe,coupons,coupez,coupent]
 courir@NORM%[INFINITIVE]=[courir]%[IPR]=[cours,cours,court,courons,courez,courent]%[AII]=[courais,courais,courait,courions,couriez,couraient]
 coûter@NORM%[IPR]=[coûte,coûtes,coûte,coûtons,coûtez,coûtent]%[INFINITIVE]=[coûter]
 couvrir@NORM%[INFINITIVE]=[couvrir]%[IPR]=[couvre,couvres,couvre,couvrons,couvrez,couvrent]%[AIP]=[couvris,couvris,couvrit,couvrîmes,couvrîtes,couvrirent]%[PAP]=[couvert]%[BINPART]=[couvert,couverte,couverts,couvertes]
