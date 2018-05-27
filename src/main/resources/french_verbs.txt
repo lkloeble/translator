@@ -160,7 +160,7 @@ debuter@NORM%[INFINITIVE]=[débuter]%[IPR]=[débute,débutes,débute,débutons,d
 decapiter@NORM%[INFINITIVE]=[décapiter]%[IPR]=[décapite,décapites,décapite,décapitons,décapitez,décapitent]%[AII]=[décapitais,décapitais,décapitait,décapitions,décapitiez,décapitaient]%[AIP]=[décapitai,décapitas,décapita,décapitâmes,décapitâtes,décapitèrent]%[PAP]=[décapité]%[PAPR]=[décapitant]
 dechirer@NORM%[INFINITIVE]=[déchirer]%[IPR]=[déchire,déchires,déchire,déchirons,déchirez,déchirent]%[PASANT]=[eus été déchiré,eus été déchiré,eut été déchiré,eûmes été déchirés,eûtes été déchirés,eurent été déchirés]%[PAP]=[déchiré]
 decider@NORM%[INFINITIVE]=[décider]%[IPR]=[décide,décides,décide,décidons,décidez,décident]%[PAP]=[décidé]
-declarer@NORM%[INFINITIVE]=[déclarer]%[IPR]=[déclare,déclares,déclare,déclarons,déclarez,déclarent]%[ARAIPR]=[déclare,déclares,déclare,déclarons,déclarez,déclarent]
+declarer@NORM%[INFINITIVE]=[déclarer]%[IPR]=[déclare,déclares,déclare,déclarons,déclarez,déclarent]%[ARAIPR]=[déclare,déclares,déclare,déclarons,déclarez,déclarent]%[AII]=[déclarais,déclarais,déclarait,déclarions,déclariez,déclaraient]
 decouvrir@NORM%[INFINITIVE]=[découvrir]%[IPR]=[découvre,découvres,découvre,découvrons,découvrez,découvrent]%[PAP]=[découvert]%[ASP]=[découvre,découvres,découvre,découvrions,découvriez,découvrent]
 decreter@NORM%[INFINITIVE]=[décréter]%[IPR]=[décrète,décrètes,décrète,décrètons,décrètez,décrètent]%[PAP]=[décrété]%[PAPR]=[décrétant]]%[AIP]=[décrétai,décrétas,décréta,décrétâmes,décrétâtes,décrétèrent]
 decrire@NORM%[INFINITIVE]=[décrire]%[IPR]=[décris,décris,décrit,décrivons,décrivez,décrivent]%[PAP]=[décris]%[PAPR]=[décrivant]

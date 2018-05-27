@@ -170,6 +170,7 @@ chip@neut%normmasc
 chore@neut%invmasc
 christ@masc%invmasc
 christian@masc%normmasc
+chronicle@masc%normmasc
 church@fem%church
 cinema@neut%normmasc
 circumcision@neut%invmasc
@@ -364,6 +365,7 @@ extensive@adj%normmasc
 external@adj%normmasc
 extremit@fem%endy
 eye@masc%normmasc
+ezekiel@masc%invmasc
 face@masc%normmasc
 facing@neut%invmasc
 famous@adj%invmasc

@@ -84,6 +84,7 @@ cut,[live]
 cycle,[live],(PAPR*cyclei*cycli*0)
 dare,[live]
 deceive,[live]
+declare,[live]
 decree,[live]
 define,[live]
 demand,[call]
