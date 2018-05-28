@@ -765,6 +765,7 @@ palestinian@adj%normmasc
 palm@neut%normmasc
 paragraph@masc%normmasc
 parallel@neut%normmasc
+paraphrast@neut%normmasc
 parliament@masc%normmasc
 part@fem%normfem
 particular@adj%normmasc

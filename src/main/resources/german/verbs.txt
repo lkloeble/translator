@@ -7,6 +7,7 @@ anerkenn,en,[leben],(PAP*anerke*anerka*0)
 anfang,en,[leben]
 angehor,en,[leben]
 anruf,en,[leben]
+antwort,en,[wenden]
 anzuseh,en,[leben]
 anzustell,en,[leben]
 anzuzweif,eln,[sammeln]
@@ -142,6 +143,7 @@ gescheh,en,[rufen],(AIP*gescheh*geschah*0)
 gestatt,en,[segnen]
 gesteh,en,[entstehen],(AIP*gesteh*gestand*0)
 gewinn,en,[leben]
+gewohn,en,[leben]
 glaub,en,[leben]
 haben@IRREGULAR%[IPR]=[habe,hast,hat,haben,habt,haben]%[AIP]=[hatte,hattest,hatte,hatten,hattet,hatten]%[INFINITIVE]=[haben]
 halt,en,[halten],(AII*halt*hielt*0)
@@ -191,6 +193,7 @@ lock,en,[leben]
 los,en,[leben]
 loskomm,en,[leben],(AIP*loskomm*loskam*0@PAP*loskomm*losgekommen*0)
 mach,en,[leben],(AIP*mach*macht*0@PAP*mach*gemacht*0)
+mart,ern,[bedauern]
 mehr,en,[leben]
 mein,en,[leben],(PAP*mein*gemeint*0)
 miet,en,[leben]
@@ -313,6 +316,7 @@ vorbereit,en,[leben]
 vorhaben@IRREGULAR%[IPR]=[vorhabe,vorhast,vorhat,vorhaben,vorhabt,vorhaben]%[INFINITIVE]=[vorhaben]
 vorleg,en,[leben]
 vorstell,en,[leben]
+vorubergeh,en,[rufen],(PAP*vorubergeh*voruberzugehen*0)
 wachs,en,[genesen],(PAP*wa*gewa*0)
 wag,en,[leben],(PAP*wag*gewagt*0)
 web,en,[leben]

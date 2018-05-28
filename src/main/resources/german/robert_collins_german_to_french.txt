@@ -71,6 +71,7 @@ anschein@noun!arbeiter%1(noun)=apparence
 ansicht@noun!meinfem%1(noun)=opinion
 antiq@noun!inv%1(noun)=antiquités
 antwort@noun!meinfem%1(noun)=réponse
+antwort@verb!norm%1(verb)=repondre
 anzuglich@adj!ausreichend%1(adj)=suggestive
 anzuseh@verb!norm%1(verb)=voir
 anzustell@verb!norm%1(verb)=embaucher%2(verb)=réfléchir%3(verb)=effectuer
@@ -542,6 +543,7 @@ femininischen@noun!inv%1(noun)=effémination
 fenster@noun!inv%1(noun)=fenêtre
 ferie@noun!flasche%1(noun)=vacance
 fern@adj!ausreichend%1(noun)=éloigné
+fertig@adj!ausreichend%1(noun)=terminé
 fest@adj!ausreichend%1(noun)=solide
 feste@noun!flasche%1(noun)=place forte%2(noun)=étendue
 feststeh@verb!norm%1(verb)=etreclair
@@ -619,6 +621,7 @@ garten@noun!inv%1(noun)=jardin
 gast@noun!meer%1(noun)=invité
 geb@verb!norm%1(verb)=donner
 gebar@verb!norm%1(verb)=naitre
+gebet@noun!phanomen%1(noun)=prière
 gebiet@noun!phanomen%1(noun)=zone%2(noun)=territoire
 gebildet@adj!ausreichend%1(adj)=constitué
 geblieben@adj!ausreichend%1(adj)=resté
@@ -697,6 +700,7 @@ gewalt@noun!meinfem%1(noun)=violence%2(noun)=autorité
 gewesen@noun!inv%1(noun)=été
 gewinn@verb!norm%1(verb)=gagner
 gewiss@adj!ausreichend%1(adj)=certain
+gewohn@verb!norm%1(verb)=habituer
 gewohnlich@prep%1(prep)=d'habitude
 geworden@adj!ausreichend%1(adj)=devenu
 gewurm@noun!inv%1(noun)=chose rampante
@@ -1029,8 +1033,8 @@ lustbarkeit@noun!meinfem%1(noun)=réjouissance
 lustig@adj!ausreichend%&(adj)=drole%2(adj)=agréable
 lv@noun!inv%1(noun)=Lev
 mach@verb!norm%1(noun)=faire
-madchen@noun!original%1(noun)=demoiselle
 magazin@noun!norm%1(noun)=magasin
+madchen@noun!original%1(noun)=demoiselle
 makel@noun!zeichen%1(noun)=défaut
 makellos@adj!ausreichend%1(adj)=parfait
 mal@noun!meer%1(noun)=occasion%2(noun)=fois
@@ -1046,6 +1050,7 @@ mann@noun!ort%1(noun)=époux%2(noun)=homme
 mannlicherseits@noun!inv%1(noun)=masculin
 marke@noun!flasche%1(noun)=marque
 markus@noun!inv%1(noun)=marc
+mart@verb!norm%1(noun)=torturer%2(verb)=martyriser
 martin@noun!inv%1(noun)=martin
 massgebend@adj!ausreichend%1(adj)=déterminant
 material@noun!meinmasc%1(noun)=matériau
@@ -1377,6 +1382,7 @@ schrift@noun!meinfem%1(noun)=écriture
 schriftlich@adj!ausreichend%1(adj)=par écrit
 schubert@noun!inv%1(noun)=schubert
 schuh@noun!phanomen%1(noun)=chaussure
+schuld@noun!meinfem%1(noun)=dette
 schuler@noun!arbeiter%1(noun)=élève%2(noun)=disciple
 schutz@verb!norm%1(verb)=proteger
 schwache@noun!flasche%1(noun)=faiblesse
@@ -1750,6 +1756,7 @@ vorrede@noun!flasche%1(noun)=préface
 vorsicht@noun!inv%1(noun)=prudence
 vorsichtig@adj!ausreichend%1(adj)=prudent
 vorstell@verb!norm%1(verb)=presenter2
+vorubergeh@verb!norm%1(verb)=negliger
 vorwort@noun!licht%1(noun)=préface
 vorzug@noun!phanomen%1(noun)=avantage
 vorzeitig@adj!ausreichend%1(adj)=précoce

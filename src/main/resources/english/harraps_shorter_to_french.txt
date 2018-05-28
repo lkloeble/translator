@@ -155,6 +155,7 @@ beneath@prep%1(prep)=sous
 bend@verb!norm%1(verb)=incliner
 benefit@noun!normmasc%1(noun)=bénéfice
 besides@prep%1(prep)=à part
+beseech@verb!norm%1(verb)=implorer
 betters@noun!invmasc%1(noun)=supérieurs
 between@prep%1(prep)=entre
 beyond@prep%1(prep)=au-delà
@@ -1129,6 +1130,7 @@ palestinian@adj!normmasc%1(adj)=palestinien
 palm@noun!normmasc%1(noun)=paume%2(noun)=palmier
 paragraph@noun!normmasc%1(noun)=paragraphe
 parallel@noun!normmasc%1(noun)=parallèle
+paraphrast@noun!normmasc%1(noun)=qui paraphrase
 parliament@noun!normmasc%1(noun)=parlement
 part@verb!norm%1(verb)=separer
 part@noun!normmasc%1(noun)=partie

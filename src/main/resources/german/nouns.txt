@@ -315,6 +315,7 @@ femininischen@neut%inv
 fenster@neut%inv
 ferie@fem%flasche
 fern@adj%ausreichend
+fertig@adj%ausreichend
 fest@adj%ausreichend
 feste@fem%flasche
 feststellung@fem%meinfem
@@ -369,6 +370,7 @@ fussganger@masc%meinmasc
 ganz@adj%ausreichend
 garten@masc%inv
 gast@neut%meer
+gebet@neut%phanomen
 gebiet@neut%phanomen
 gebildet@adj%ausreichend
 geblieben@adj%ausreichend
@@ -943,6 +945,7 @@ schrift@fem%meinfem
 schriftlich@adj%ausreichend
 schubert@neut%inv
 schuh@masc%phanomen
+schuld@fem%meinfem
 schuler@masc%arbeiter
 schwache@fem%flasche
 schwager@masc%arbeiter

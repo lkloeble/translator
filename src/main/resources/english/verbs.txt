@@ -32,6 +32,7 @@ behold,[call]
 believe,[live]
 belong,[call]
 bend,[live],(PAP*bendd*bent*0)
+beseech,[teach]
 bless,[call]
 boast,[call]
 book,[call]
