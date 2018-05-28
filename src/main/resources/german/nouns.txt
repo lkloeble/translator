@@ -406,7 +406,6 @@ genau@adj%ausreichend
 genealogie@fem%inv
 genealogisch@adj%ausreichend
 generation@fem%meinfem
-gennant@neut%inv
 genues@adj%ausreichend
 genugsamkeit@neut%inv
 geratenst@adj%ausreichend
@@ -594,7 +593,7 @@ kaufmann@masc%burger
 kenntnis@fem%angst
 kenntniss@fem%angst
 kern@masc%meer
-kinder@masc%inv
+kind@masc%ort
 kirche@fem%flasche
 kirsche@fem%flasche
 klasse@fem%flasche
@@ -755,6 +754,7 @@ nachricht@fem%inv
 nachst@adj%norm
 nacht@fem%meinfem
 nachrede@fem%flasche
+nagel@masc%arbeiter
 naher@adj%ausreichend
 name@masc%flasche
 namenlos@adj%ausreichend
@@ -1022,6 +1022,7 @@ stuck@neut%inv
 sturm@masc%jahrzehnt
 sud@neut%inv
 suden@neut%burger
+suhnung@fem%meinfem
 sunde@fem%flasche
 suppe@fem%flasche
 surf@neut%inv

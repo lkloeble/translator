@@ -1,0 +1,12 @@
+nomadjmascsga%sing%masc%r
+nomnounmascsg%sing%masc%rul
+nomnounfemsga%sing%fem%ara
+nomnounfemsge%sing%fem%are
+gennounmascsga%sing%masc%rului
+gennounfemsg%sing%masc%arei
+nommascplri%plr%masc%ri
+nomfemplre%plr%fem%e
+nomfemplreart%plr%fem%arele
+nomfemplrii%plr%fem%rii
+gennounmascsga%sing%masc%rilor
+gennounmascsga%sing%masc%arelor

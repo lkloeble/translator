@@ -145,7 +145,7 @@ gesteh,en,[entstehen],(AIP*gesteh*gestand*0)
 gewinn,en,[leben]
 gewohn,en,[leben]
 glaub,en,[leben]
-haben@IRREGULAR%[IPR]=[habe,hast,hat,haben,habt,haben]%[AIP]=[hatte,hattest,hatte,hatten,hattet,hatten]%[INFINITIVE]=[haben]
+haben@IRREGULAR%[INFINITIVE]=[haben]%[IPR]=[habe,hast,hat,haben,habt,haben]%[AIP]=[hatte,hattest,hatte,hatten,hattet,hatten]%[PAP]=[gehabt]
 halt,en,[halten],(AII*halt*hielt*0)
 hand,eln,[sammeln]
 hang,en,[leben]
@@ -206,7 +206,7 @@ muss,en,[leben]
 nachlauf,en,[rufen],(AIP*lauf*lief*0)
 nachsinn,en,[rufen],(AIP*nachsin*nachsan*0)
 nehm,en,[leben],(IPR12*nehm*nimm*0@AIP*nehm*nahm*0)
-nenn,en,[leben],(AII*nenn*nann*0)
+nenn,en,[leben],(AII*nenn*nann*0@PAP*nenn*gennant*0)
 pass,en,[leben]
 pflanz,en,[pflanzen]
 pfleg,en,[leben]
@@ -296,6 +296,7 @@ verlier,en,[leben],(PAP*verlier*verloren*0)
 vermeid,en,[mochten]
 verpflicht,en,[mochten],(PAP*verpflicht*verpflichtet*0)
 verrats,eln,[sammeln]
+verschaff,en,[leben]
 verschreib,en,[rufen]
 verschieb,en,[rufen],(AIP*verschieb*verschob*0)
 verschweig,en,[lassen],(PAP*verschweig*verschwieg*0)
@@ -330,6 +331,7 @@ widm,en,[mochten],(PAP*widm*gewidmet*0)
 woll,en,[wollen],(IPR012*woll*will*0@AII*will*woll*0)
 wohn,en,[leben]
 wunsch,en,[leben]
+wurdig,en,[leben],(PAP*wurdig*gewurdigt*0)
 zeig,en,[leben]
 zeug,en,[leben]
 zerreiss,en,[genesen],(PAP*zerreiss*zerrissen*0)

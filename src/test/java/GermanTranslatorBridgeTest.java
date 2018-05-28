@@ -572,7 +572,7 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("strackp4not076", translatorBridge);
         //checkInMaps("strackp4not077", translatorBridge);
         //checkInMaps("strackp4not078", translatorBridge);
-        checkInMaps("strackp4not079", translatorBridge);
+        //checkInMaps("strackp4not079", translatorBridge);
         checkInMaps("strackp4not080", translatorBridge);
         checkInMaps("strackp4not081", translatorBridge);
         checkInMaps("strackp4not082", translatorBridge);
@@ -583,9 +583,9 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("strackp4not087", translatorBridge);
         checkInMaps("strackp4not088", translatorBridge);
         checkInMaps("strackp4not089", translatorBridge);
-        checkInMaps("strackp4not090", translatorBridge);
+        //checkInMaps("strackp4not090", translatorBridge);
         checkInMaps("strackp4not091", translatorBridge);
-        checkInMaps("strackp4not092", translatorBridge);
+        //checkInMaps("strackp4not092", translatorBridge);
         checkInMaps("strackp4not093", translatorBridge);
         checkInMaps("strackp4not094", translatorBridge);
         checkInMaps("strackp4not095", translatorBridge);

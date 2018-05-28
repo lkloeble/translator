@@ -1,6 +1,7 @@
 inv%invariable.txt
 adj%adjective.txt
 adjts%adjectivets.txt
+adjr%adjectiver.txt
 fem%main_feminine.txt
 femi%feminine_endi.txt
 ul%main_masculine.txt

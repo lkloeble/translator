@@ -4,7 +4,7 @@ adorm,,[dorm]
 aduc,,[face],(PAP*aducut*adus*0)
 afirm,,[incerca]
 afl,,[intampla]
-ajung,,[merg],(AII*ajung*ajunge*0)
+ajung,,[merg],(AII*ajung*ajunge*0@PAP*ajung*ajuns*0)
 ajut,,[cauta]
 alerg,,[merg]
 am@IRREGULAR%[INFINITIVE]=[avea]%[IPR]=[am,ai,are,avem,avetsi,au]%[CONJ]=[x,x,aiba,x,x,aiba]%[PAPR]=[avand]
@@ -21,6 +21,7 @@ autoform,are,[aciti]
 auz,,[dorm],(IPR025*auz*aud*0)
 bat,e,[merg]
 be,,[bea]
+bolt,,[primi]
 cad,,[merg],(AII*cad*cade*0)
 calator,i,[locuiesc]
 cant,,[cauta]
@@ -60,12 +61,13 @@ dor,,[aciti],(PAP*dor*dorit*0)
 dorm,,[dorm]
 dot,,[fumez]
 doved,,[aciti]
-duc,,[merg],(PAP*ducs*dus*0)
+duc,,[merg],(PAP*duc*dus*0)
 evit,,[cauta]
 exist,,[incerca]
 exprim,,[incerca]
 extind,,[merg]
 fac,,[face],(AIMP*fac*fa*0)
+fer,,[primi]
 fierb,,[merg]
 folos,,[aciti]
 form,,[fumez]
@@ -92,7 +94,7 @@ interv,,[mentsin]
 intorc,,[face],(IPR234*intor*intoar*0)
 intovaras,,[locuiesc],(PAP*intovaras*intovarasit*0)
 intreb,,[cauta],(IPR25*intreba*intreaba*0@AIMP*intreba*intreaba*0)
-intseleg,,[merg],(PAP*intselegs*intseles*0)
+intseleg,,[merg],(PAP*intseleg*intseles*0)
 intunec,,[cauta]
 inva,,[invata],(IPR*atsi*etsi*1)
 istoris,,[locuiesc],(PAP*istoris*istorisit*0)
@@ -136,7 +138,7 @@ remarc,a,[cauta],(PAP*remarc*remarcat*0)
 renunts,,[cauta]
 reprezent,a,[cauta],(IPR0125*repreze*reprezi*0)
 restabil,i,[locuiesc]
-retrag,,[merg],(PAP*retrags*retras*0)
+retrag,,[merg],(PAP*retrag*retras*0)
 reverber,,[fumez]
 revin,,[face]
 rezult,,[incerca]
@@ -167,12 +169,12 @@ surp,,[incerca]
 tangui,,[trebui]
 tax,,[fumez]
 termin,,[cauta]
-traduc,,[merg],(PAP*traduc*tradu*0)
+traduc,,[merg],(PAP*traduc*tradus*0)
 trag,,[merg]
 trai,,[aciti],(PAP*trai*trait*0)
 transmit,,[merg]
 trebui,,[trebui],(ACP*trebui*artrebui*0)
-trec,,[merg],(PAP*trecs*trecut*0)
+trec,,[merg],(PAP*trec*trecut*0)
 trim,,[trimite]
 umaniz,,[fumez]
 umpl,,[scrie],(PAP*umpls*umplut*0)
@@ -185,4 +187,4 @@ vin@IRREGULAR%[IPR]=[vin,vii,vine,venim,venitsi,vin]%[AII]=[veneam,veneai,venea,
 vorb,i,[aciti]
 vr,,[vrea],(AIF*vr*v*0)
 zbor,,[incerca],(PAPR*zbor*zbur*0@AII*zbor*zbur*0)
-zic,,[merg],(AIP*zic*zis*0@AII*zic*zice*0@PAP*zics*zis*0)
+zic,,[merg],(AIP*zic*zis*0@AII*zic*zice*0@PAP*zic*zis*0)

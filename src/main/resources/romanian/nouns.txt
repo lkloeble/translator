@@ -243,6 +243,7 @@ filocali@fem%fem
 filtr@masc%filtru
 fizic@adj%adj
 foc@masc%ul
+folosito@adj%adjr
 formar@fem%berea
 fran@fem%fem
 frat@masc%frate
@@ -268,6 +269,7 @@ gol@adj%adj
 grabit@adj%adj
 grec@adj%adj
 greu@adj%inv
+grij@fem%femi
 harnic@adj%adj
 hots@masc%ul
 hristos@masc%inv
@@ -540,6 +542,8 @@ realita@fem%capacitate
 rece@adj%adj
 reciproc@adj%adj
 redactsi@fem%tigara
+referints@fem%fem
+rele@adj%inv
 relief@masc%ul
 reportaj@fem%fem
 restaurant@neut%inv
@@ -624,8 +628,10 @@ subordonat@adj%adj
 suficient@neut%inv
 suflet@masc%capul
 sufragerie@fem%inv
+superio@adj%adjr
 superioritat@fem%berea
 supranatural@adj%adj
+suprem@adj%adj
 sut@fem%fem
 tacimuri@neut%inv
 tacimurile@neut%inv
@@ -688,6 +694,7 @@ valor@adj%pacatos
 valorificare@neut%inv
 vampir@masc%ul
 vanatoare@fem%inv
+vatamato@adj%adjr
 vazut@adj%adj
 veac@neut%ul
 vech@adj%adj
