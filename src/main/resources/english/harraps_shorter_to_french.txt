@@ -788,6 +788,7 @@ improperly@prep%1(prep)=improprement
 improve@verb!norm%1(verb)=ameliorer
 in@prep%1(prep)=dans
 incense@noun!normmasc%1(noun)=encens
+inch@noun!church%1(noun)=pouce
 include@verb!norm%1(verb)=inclure
 indeed@prep%1(prep)=vraiment
 inferior@adj!normmasc%1(adj)=inférieur
@@ -1209,6 +1210,7 @@ prize@noun!normmasc%1(noun)=récompense%2(noun)=prix
 probably@prep%1(prep)=probablement
 problem@noun!normmasc%1(noun)=problème
 process@noun!church%1(noun)=processus
+produce@verb!norm%1(verb)=produire
 productive@noun!normmasc%1(noun)=productif
 profess@verb!norm%1(verb)=professer
 promise@verb!norm%1(verb)=promettre

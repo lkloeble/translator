@@ -213,6 +213,7 @@ play,[live]
 possess,[teach]
 preach,[teach]
 prefer,[live],(PAP*preferd*preferred*0)
+produce,[live]
 profess,[teach]
 promise,[live],(PAPR*promise*promis*0)
 pronounce,[live]

@@ -528,6 +528,7 @@ ill@adj%normmasc
 image@fem%normfem
 important@adj%normmasc
 incense@neut%normmasc
+inch@neut%church
 inferior@adj%normmasc
 infinite@adj%normmasc
 inheritance@neut%normmasc
