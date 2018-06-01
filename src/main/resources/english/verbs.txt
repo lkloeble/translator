@@ -285,7 +285,7 @@ swallow,[call]
 swim,[swim]
 take,[live],(AIP*taked*took*0@PAP*taked*taken*0@AII*take*took*0@PAPR*take*tak*0)
 talk,[live],(AII*talkd*talked*0)
-teach,[teach]
+teach,[teach],(AIP*teach*taught*0)
 tell,[live],(AIP*tell*tol*0)
 tend,[call]
 testify,[live],(IPR*testifys*testifies*0)

@@ -115,6 +115,7 @@ baum@neut%jahrzehnt
 bauamt@neut%inv
 beamt@masc%artist
 bedeutung@fem%meinfem
+bedeutungslos@adj%ausreichend
 bedurfnis@neut%erkenntnis
 befinlichen@neut%inv
 behorde@fem%flasche
@@ -188,6 +189,7 @@ chef@neut%inv
 chinesisch@adj%ausreichend
 chor@neut%phanomen
 chr@neut%inv
+chronica@neut%inv
 christ@masc%christ
 christel@fem%inv
 christenheit@fem%inv
@@ -200,6 +202,7 @@ davids@masc%inv
 deckung@fem%meinfem
 demokrat@masc%meinmasc
 demokratie@fem%flasche
+demokratisch@adj%ausreichend
 der@masc%inv
 dessentwillen@neut%inv
 deutsch@adj%ausreichend
@@ -420,7 +423,7 @@ gesamt@adj%ausreichend
 gesammelt@adj%ausreichend
 gesamtheit@fem%meinfem
 geschlecht@neut%licht
-geschmacke@masc%licht
+geschmack@masc%licht
 geschutzt@adj%ausreichend
 geschwacht@adj%ausreichend
 geschichte@fem%flasche
@@ -582,6 +585,7 @@ jungsfrauschaft@fem%inv
 juni@neut%inv
 kaffee@neut%inv
 kalter@neut%inv
+kanonisch@adj%ausreichend
 kantens@neut%inv
 kantischen@adj%meinmasc
 kapuze@fem%flasche
@@ -608,6 +612,7 @@ kongress@neut%inv
 konstanz@neut%inv
 konzert@neut%inv
 kosten@neut%inv
+kostlich@adj%ausreichend
 kraft@fem%angst
 krank@adj%mein
 krankheit@fem%meinfem
@@ -793,6 +798,7 @@ odem@neut%inv
 offb@neut%inv
 offenbarung@fem%inv
 offentlich@adj%ausreichend
+ohr@neut%schmerz
 okolog@neut%meinmasc
 oper@neut%flasche
 opfergabe@neut%flasche
@@ -1194,6 +1200,7 @@ vorneigung@fem%inv
 vorrede@fem%flasche
 vorsicht@neut%inv
 vorsichtig@adj%ausreichend
+vorurteil@neut%rest
 vorzeitig@adj%ausreichend
 vorzug@masc%phanomen
 vorwort@neut%licht

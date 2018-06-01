@@ -3,3 +3,4 @@ AIP=>,st,,en,t,en
 ASI=>e,est,e,en,et,en
 PAP=>[ausreichend]
 AIMP=>-,|e,-,-,t,-
+PAPR=>end

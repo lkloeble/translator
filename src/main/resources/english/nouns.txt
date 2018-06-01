@@ -207,10 +207,12 @@ concert@neut%normmasc
 concord@neut%invmasc
 condition@neut%normmasc
 congratulation@neut%normmasc
+congregation@neut%normmasc
 conjecture@neut%normmasc
 conscious@adj%invmasc
 consequence@fem%normfem
 conservative@adj%normmasc
+consideration@neut%normmasc
 considereth@neut%invmasc
 consonant@masc%normmasc
 contemporar@adj%endy
@@ -467,6 +469,7 @@ guttural@adj%invmasc
 guy@neut%invmasc
 gym@neut%invmasc
 habitation@neut%normmasc
+haggai@masc%invmasc
 hagigah@neut%invmasc
 hall@neut%normmasc
 hampstead@neut%invmasc
@@ -603,6 +606,7 @@ legal@adj%invmasc
 length@neut%church
 lenny@neut%invmasc!agenitive
 lesser@adj%invmasc
+lesson@neut%normmasc
 letter@neut%normmasc
 level@neut%normmasc
 leviathan@neut%normmasc
@@ -835,6 +839,7 @@ proof@neut%invmasc
 proper@adj%normmasc
 propert@fem%endy
 prophec@fem%endy
+prophet@neut%normmasc
 proscription@fem%normfem
 proselyte@neut%normmasc
 protection@neut%normmasc
@@ -846,6 +851,7 @@ queen@fem%normfem
 question@neut%normmasc
 quotation@fem%normfem
 r@neut%invmasc
+rab@neut%normmasc
 rabbi@neut%normmasc
 railway@neut%normmasc
 rainy@neut%invmasc
