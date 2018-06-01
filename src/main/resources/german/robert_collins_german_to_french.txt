@@ -471,6 +471,7 @@ erforderlich@adj!ausreichend%1(adj)=essentiel%2(adj)=nécessaire
 erfreulich@adj!ausreichend%1(noun)=plaisant
 erfull@verb!norm%1(verb)=remplir
 erhalt@verb!norm%1(verb)=recevoir
+erhebung@noun!meinfem%1(noun)=enquête%2(noun)=élévation
 erhol@verb!norm%1(verb)=récupérer%2(verb)=reposer
 erinner@verb!norm%1(verb)=souvenir
 erkenn@verb!norm%1(verb)=identifier
@@ -949,6 +950,7 @@ kommunikation@noun!meinfem%1(noun)=communication
 kongress@noun!inv%1(noun)=congrès
 konn@verb!norm%1(verb)=pouvoir
 konstanz@noun!inv%1(noun)=constance
+kontrapunktischen@adj!inv%1(adj)=contrapunctique
 konzert@noun!inv%1(noun)=concert
 kost@verb!norm%1(verb)=coûter
 kosten@noun!inv%1(noun)=coûts
@@ -1208,6 +1210,7 @@ okolog@noun!meinmasc%1(noun)=écologiste
 oper@noun!flasche%1(noun)=opéra
 opfergabe@noun!flasche%1(noun)=offrande%2(noun)=sacrifice
 optik@noun!meinmasc%1(noun)=optique
+optimismus@noun!inv%1(noun)=optimisme
 optimistischer@adj!ausreichend%1(adj)=plus optimiste
 original@noun!original%1(noun)=original
 ort@noun!ort%1(noun)=village%2(noun)=lieu%3(noun)=place
@@ -1436,6 +1439,7 @@ sicherlicht@prep%1(prep)=certainement
 sicht@verb!norm%1(verb)=trier%2(verb)=classifier%3(verb)=organiser
 sie@prep%1(prep)=vous%2(prep)=eux%3(prep)=elle[ils]
 siebenten@noun!inv%1(noun)=septième
+sieg@noun!phanomen%1(noun)=victoire
 sing@verb!norm%1(verb)=chanter
 singer@noun!masc%1(noun)=chanteur
 sinn@verb!norm%1(verb)=reflechir
@@ -1654,6 +1658,7 @@ urmensch@adj!ausreichend%1(adj)=primitif
 ursache@noun!flasche%1(noun)=raison
 ursprung@noun!meer%1(noun)=origine
 usw@prep%1(prep)=etc
+utilitarismus@noun!inv%1(noun)=utilitarisme
 v@noun!inv%1(noun)=avant
 vater@noun!arbeiter%1(noun)=père
 vaterlich@adj!ausreichend%1(adj)=paternel
@@ -1691,6 +1696,7 @@ verlobung@noun!meinfem%1(noun)=fiançailles
 vermeid@verb!norm%1(verb)=eviter
 vermischung@noun!norm%1(noun)=mélange
 vernichtend@adj!ausreichend%1(adj)=cinglant
+vernunftigkeit@noun!inv%1(noun)=rationalité
 verpflicht@verb!norm%1(verb)=obliger
 verrats@verb!norm%1(verb)=resoudre
 verruckt@noun!norm%1(noun)=fou
@@ -1761,6 +1767,7 @@ vorhandensein@noun!zeichen%1(noun)=disponibilité
 vorleg@verb!norm%1(verb)=presenter
 vorneigung@noun!inv%1(noun)=inclinaison
 vornherein@prep%1(prep)=tout d'abord
+vorherrschend@noun!zeichen%1(noun)=prédominant
 vorrede@noun!flasche%1(noun)=préface
 vorsicht@noun!inv%1(noun)=prudence
 vorsichtig@adj!ausreichend%1(adj)=prudent
@@ -1798,6 +1805,7 @@ weich@verb!norm%1(verb)=quitter
 weil@prep%1(prep)=parce que
 wein@noun!inv%1(noun)=vin
 weis@verb!norm%1(verb)=indiquer
+weiss@adj!ausreichend%1(adj)=blanc
 weit@adj!ausreichend%1(adj)=large%2(adj)=loin
 weiter@adj!ausreichend%1(adj)=plus large%2(adj)=plus loin
 welch@adj!ausreichend%1(adj)=quel
@@ -1833,6 +1841,7 @@ wirklich@prep%1(prep)=vraiment
 wirklichkeit@noun!meinfem%1(noun)=réalité
 wirkung@noun!meinfem%1(noun)=effet%2(noun)=action
 wirtschaft@noun!inv%1(noun)=économie
+wiss@verb!norm%1(verb)=connaitre
 wissender@noun!inv%1(noun)=connaisseur
 wissenschaft@noun!meinfem%1(noun)=science
 wissenschaftlich@adj!ausreichend%1(adj)=scientifique

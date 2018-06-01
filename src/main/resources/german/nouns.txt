@@ -276,6 +276,7 @@ erfahrung@fem%meinfem
 erfolg@masc%jahrzehnt
 erforderlich@adj%ausreichend
 erfreulich@adj%ausreichend
+erhebung@fem%meinfem
 erkenntnis@fem%erkenntnis
 erkennungszeichen@neut%inv
 erklarung@fem%meinfem
@@ -610,6 +611,7 @@ komisch@adj%ausreichend
 kommunikation@fem%meinfem
 kongress@neut%inv
 konstanz@neut%inv
+kontrapunktischen@neut%inv
 konzert@neut%inv
 kosten@neut%inv
 kostlich@adj%ausreichend
@@ -803,6 +805,7 @@ okolog@neut%meinmasc
 oper@neut%flasche
 opfergabe@neut%flasche
 optik@neut%meinmasc
+optimismus@neut%inv
 optimistischer@adj%ausreichend
 original@neut%original
 ort@masc%ort
@@ -975,6 +978,7 @@ sensibilitat@fem%inv
 sephorris@neut%inv
 sicher@adj%ausreichend
 siebenten@neut%inv
+sieg@masc%phanomen
 singer@masc%masc
 siphra@neut%inv
 sittenlehre@fem%flasche
@@ -1133,6 +1137,7 @@ urlaub@masc%norm
 urmensch@adj%ausreichend
 ursache@fem%flasche
 ursprung@masc%meer
+utilitarismus@neut%inv
 v@neut%inv
 vater@masc%arbeiter
 vaterlich@adj%ausreichend
@@ -1160,6 +1165,7 @@ verlobt@adj%meinmasc
 verlobung@fem%meinfem
 vermischung@neut%norm
 vernichtend@adj%ausreichend
+vernunftigkeit@fem%inv
 verruckt@adj%norm
 versailles@neut%inv
 versammlung@fem%meinfem
@@ -1197,6 +1203,7 @@ vorgelegt@adj%ausreichend
 vorhanden@adj%ausreichend
 vorhandensein@neut%zeichen
 vorneigung@fem%inv
+vorherrschend@adj%ausreichend
 vorrede@fem%flasche
 vorsicht@neut%inv
 vorsichtig@adj%ausreichend
@@ -1220,6 +1227,7 @@ webend@fem%meinfem
 weg@masc%phanomen
 weib@fem%ort
 wein@neut%inv
+weiss@adj%ausreichend
 weit@adj%ausreichend
 weiter@adj%ausreichend
 welch@adj%ausreichend
