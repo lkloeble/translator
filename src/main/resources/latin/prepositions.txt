@@ -22,7 +22,8 @@ continenter@prep()
 contra@prep()
 coram@adv%prep(abl)%[electAblativeForFollowingNoun]
 cui@prep()%[electDativeForFollowingNoun]
-cuius@prep()
+cuius@prep(gen)
+cujus@prep(gen)
 cum@adv%prep(abl)%[electAblativeForFollowingNoun]
 cur@adv()
 de@adv()
@@ -174,6 +175,7 @@ quippe@prep()
 quis@prep()
 quoniam@prep()
 quoque@prep()
+quocumque@prep()
 quorum@prep(gen)
 quorumdam@prep(gen)
 quosdam@prep()

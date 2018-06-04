@@ -58,7 +58,7 @@ public class WordAnalyzer {
             for(Word unknownYet : wordSet) {
                 if(unknownYet == null) continue;
                 String initialValue = unknownYet.getInitialValue();
-                    if(unknownYet.isPreposition() || ((prepositionRepository.hasPreposition(initialValue) && (unknownYet.isTypeUnknow())))) {
+                if(unknownYet.isPreposition() || ((prepositionRepository.hasPreposition(initialValue) && (unknownYet.isTypeUnknow())))) {
                     Preposition preposition = prepositionRepository.getPreposition(initialValue);
                     preposition.addRules(unknownYet.getRules());
                     preposition.setPreferedTranslation(unknownYet.getPreferedTranslation());

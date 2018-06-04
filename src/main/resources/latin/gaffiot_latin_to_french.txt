@@ -149,6 +149,7 @@ bibliothec@noun!a-ae%1(noun)=bibliotheque
 bibo@verb!norm%1(verb)=boire
 bienni@noun!um-i%1(noun)=biennale
 bon@adj!us-a-um%1(adj)=bon (personne)%2(adj)=bien, de bonne qualite (chose)%3(adj)=bon pour, propre a (+dat)%4(adj)=bon
+brachi@noun!um-i%1(noun)=avant-bras
 britanni@noun!a-ae%1(noun)=bretagne
 brundisi@noun!um-i%1(noun)=brindisi
 cael@noun!us-i%1(noun)=climat%2(noun)=ciel
@@ -293,6 +294,7 @@ crustat@noun!a-ae%1(noun)=langouste
 cubicul@noun!um-i%1(noun)=pièce
 cui@prep%1(prep)=à qui
 cuius@prep%1(prep)=de qui
+cujus@prep%1(prep)=de qui
 culin@noun!a-ae%1(noun)=nourriture%2(noun)=cuisine
 culp@noun!a-ae%1(noun)=faute
 cult@adj!us-a-um%1(adj)=habillé%2(adj)=honoré%3(adj)=protégé%4(adj)=cultivé
@@ -553,6 +555,7 @@ gustati@noun!o-onis%1(noun)=hors d'oeuvre
 gutt@noun!a-ae%1(noun)=goutte
 habeo@verb!norm%1(noun)=posséder%2(noun)=retenir%3(noun)=conduire%4(noun)=présider%5(noun)=accepter,endurer%6(noun)=avoir
 haben@adj!s-tis%1(adj)=portant%2(adj)=possédant%3(adj)=ayant
+habit@adj!us-a-um%1(adj)=maintenu
 habito@verb!norm%1(verb)=habiter
 hac@prep%1(prep)=cette
 haec@prep%1(prep)=ces
@@ -821,8 +824,9 @@ moneo@verb!norm%1(verb)=avertir%2(verb)=conseiller%3(verb)=enseigner
 monit@adj!us-a-um%1(adj)=averti
 monstr@noun!um-i%1(noun)=malédiction
 monument@noun!um-i%1(noun)=tombe%2(noun)=monument%3(noun)=rappel
-mor@noun!s-tis%1(noun)=mort
+mor@noun!s-tis2%1(noun)=mort
 morien@adj!s-s-s%1(adj)=mourant
+morior@verb!norm%1(verb)=mourir
 moritur@adj!us-a-um%1(noun)=sur le point de mourir
 mortu@adj!us-a-um%1(noun)=mort
 mo@noun!s-ris%1(noun)=manière
@@ -1102,6 +1106,7 @@ qint@noun!us-i%1(noun)=quintus
 quint@noun!us-a-um%1(noun)=cinquième
 quippe@prep%1(prep)=bien sur,oui certes%2(prep)=de fait,le fait est que%3(prep)=puisque%4(prep)=certainement
 quis@prep%1(prep)=qui
+quocumque@prep%1(adv)=quoi que vous fassiez
 quoniam@prep%1(prep)=puisque%2(prep)=depuis que
 quosdam@prep%1(prep)=quelques uns
 quoque@prep%1(adv)=aussi
@@ -1114,6 +1119,7 @@ recipio@verb!norm%1(verb)=recevoir
 recitati@noun!o-onis%1(noun)=lecture
 rect@adj!us-a-um%1(adj)=droit
 redimo@verb!norm%1(verb)=racheter
+rediti@noun!o-onis%1(noun)=retour
 regin@noun!a-ae%1(noun)=reine
 regenerati@noun!o-onis%1(noun)=régénération
 regio@noun!x-nis%1(noun)=sol%2(noun)=région%3(noun)=frontière%4(noun)=direction
@@ -1237,6 +1243,7 @@ solid@adj!us-a-um%1(adj)=solide
 solut@adj!us-a-um%1(adj)=libéré
 solvo@verb!norm%1(verb)=payer%2(verb)=résoudre%3(verb)=enlever%4(verb)=dissoudre%5(verb)=acquitter
 sono@verb!norm%1(verb)=sonner%2(verb)=resonner
+sp@noun!es-ei%1(noun)=espoir
 spargo@verb!norm%1(verb)=disperser
 spart@noun!a-ae%1(noun)=sparte
 spati@noun!um-i%1(noun)=espace
@@ -1262,6 +1269,7 @@ sub@prep%1(prep)=sous
 subeund@adj!us-a-um%1(adj)=qui va être approché
 subicio@verb!norm%1(verb)=soumettre
 subito@prep%1(prep)=subitement
+sublat@adj!us-a-um%1(adj)=détruit%2(adj)=enlevé
 successor@noun!x-is2%1(noun)=successeur
 sum@verb!irrg%1(verb substantif)=etre%2(verb substantif)=etre dans un lieu%3(verb substantif)=etre reellement%4(verb substantif + datif)=appartenir a, s'appliquer a%5(verbe)=etre
 sumo@verb!norm%1(verb)=charmer%2(verb)=adopter%3(verb)=utiliser%4(verb)=obtenir%5(verb)=sélectionner%6(verb)=commencer%7(verb)=prendre

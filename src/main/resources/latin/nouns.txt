@@ -99,6 +99,7 @@ besti@fem%a-ae
 bibliothec@fem%a-ae
 bienni@neut%um-i
 bon@adj%us-a-um
+brachi@neut%um-i
 britanni@fem%a-ae
 brundisi@masc%um-i
 cael@neut%us-i
@@ -348,6 +349,7 @@ gravi@adj%or-or-us
 gustati@fem%o-onis
 gutt@fem%a-ae
 haben@adj%s-tis
+habit@adj%us-a-um
 haeres@fem%is-is
 hebrae@adj%us-a-um
 helveti@adj%us-a-um
@@ -520,7 +522,7 @@ mon@masc%s-tis2
 monit@adj%us-a-um
 monstr@neut%um-i
 monument@neut%um-i
-mor@fem%s-tis
+mor@fem%s-tis2
 morien@adj%s-s-s
 moritur@adj%us-a-um
 mortu@adj%us-a-um
@@ -697,6 +699,7 @@ ratio@fem%x-nis
 recen@neut%s-tis
 recitati@fem%o-onis
 rect@adj%us-a-um
+rediti@fem%o-onis
 regenerati@fem%o-onis
 regin@fem%a-ae
 regio@fem%x-nis
@@ -775,6 +778,7 @@ sol@adj%us-a-um
 sol@masc%x-is2
 solid@adj%us-a-um
 solut@adj%us-a-um
+sp@fem%es-ei
 spart@fem%a-ae
 spati@neut%um-i
 speci@fem%es-ei
@@ -793,6 +797,7 @@ superfici@fem%es-ei
 supern@adj%us-a-um
 su@adj%us-a-um
 subeund@adj%us-a-um
+sublat@adj%us-a-um
 supplici@neut%um-i
 supposititi@adj%us-a-um
 suscept@adj%us-a-um

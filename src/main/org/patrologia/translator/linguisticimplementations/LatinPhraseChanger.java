@@ -18,6 +18,7 @@ public class LatinPhraseChanger extends CustomLanguageRulePhraseChanger {
     private static final String QUOQUE = "quoque";
     private static final String ITAQUE = "itaque";
     private static final String UNUMQUODQUE = "unumquodque";
+    private static final String QUOCUMQUE = "quocumque";
     private static final String UNDIQUE = "undique";
     private static final String DENIQUE = "denique";
     private static final String BENE = "bene";
