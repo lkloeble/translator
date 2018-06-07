@@ -199,6 +199,7 @@ statim@prep()
 studiose@prep()
 sub@prep()%[electAblativeForFollowingNoun]
 subito@prep()
+sui@prep(genitive)
 super@prep%prep(acc)%[electAccusativeForFollowingNoun]
 tam@prep()
 tamdiu@prep()

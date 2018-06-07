@@ -28,6 +28,7 @@ adfor@verb!norm%1(verb)=apporter
 adimpleo@verb!norm%1(verb)=accomplir%2(verb)=remplir
 adimplet@adj!us-a-um%1(adj)=accompli
 adipat@noun!um-i%1(noun)=pâtisserie
+adiutori@noun!um-i%1(noun)=aide
 adjugo@verb!norm%1(verb)=reunir
 adjuvo@verb!norm%1(verb)=aider
 adhuc@prep%1(prep)=jusqu'à maintenant
@@ -203,6 +204,7 @@ chor@noun!us-i%1(noun)=choeur
 christ@noun!us-i%1(noun)=christ
 christian@adj!us-a-um%1(adj)=chrétien
 cib@noun!us-i%1(noun)=nourriture
+cibari@adj!us-a-um%1(adj)=relatif à la nourriture
 circa@prep%1(prep)=autour
 circueo@verb!norm%1(verb)=circuler
 circum@prep%1(prep)=autour
@@ -673,6 +675,7 @@ invenio@verb!norm%1(verb)=découvrir%2(verb)=trouver
 invict@adj!us-a-um%1(adj)=invaincu
 invictissim@adj!us-a-um%1(adj)=le plus invaincu
 invoco@verb!norm%1(verb)=invoquer,appeler%2(verb)=appeler,nommer%3(verb)=invoquer
+involvo@verb!norm%1(verb)=entourer%2(verb)=mettre en oeuvre%3(verb)=enrouler
 ips@adj!e-a-um%1(adj)=lui-même
 ipsimet@noun!inv%1(noun)=opposant
 irat@noun!us-a-um%1(noun)=en colère
@@ -687,6 +690,7 @@ item@prep%1(prep)=même
 itero@verb!norm%1(verb)=repeter
 iterum@prep%1(prep)=de nouveau
 itin@noun!us-eris%1(noun)=chemin%2(noun)=voyage
+iubeo@verb!norm%1(verb)=ordonner
 iucund@adj!us-a-um%1(adj)=agréable
 iudici@noun!um-i%1(noun)=procès%2(noun)=opinion%3(noun)=décision
 iuli@noun!us-i%1(noun)=julius
@@ -797,6 +801,7 @@ medi@adj!us-a-um%1(noun)=milieu
 mei@prep%1(prep)=mes
 melit@noun!a-ae%1(noun)=malte
 mens@noun!a-ae%1(noun)=autel%2(noun)=table
+mens@adj!us-a-um%1(noun)=mois
 meo@prep%1(prep)=mon
 meorum@prep%1(prep)=mes
 mercator@noun!x-is2%1(noun)=marchand
@@ -819,6 +824,7 @@ miss@adj!us-a-um%1(adj)=envoyé
 miss@noun!a-ae%1(noun)=messe
 mitto@verb!norm%1(verb)=envoyer
 mod@noun!us-i%1(noun)=manière%2(noun)=façon
+molit@adj!us-a-um%1(adj)=tenté
 mon@noun!s-tis2%1(noun)=montagne
 moneo@verb!norm%1(verb)=avertir%2(verb)=conseiller%3(verb)=enseigner
 monit@adj!us-a-um%1(adj)=averti
@@ -1231,6 +1237,7 @@ sibi@prep%1(prep)=à eux
 sicili@noun!a-ae%1(noun)=sicile
 sign@noun!um-i%1(noun)=signe
 silenti@noun!um-i%1(noun)=obscurité%2(noun)=inactivité%3(noun)=silence
+simil@adj!is-is-e%1(adj)=similaire
 similitud@noun!o-inis%1(noun)=similitude%2(noun)=ressemblance
 simplici@adj!or-or-us%1(adj)=plus simple
 sine@prep%1(prep)=sans
@@ -1271,6 +1278,7 @@ subicio@verb!norm%1(verb)=soumettre
 subito@prep%1(prep)=subitement
 sublat@adj!us-a-um%1(adj)=détruit%2(adj)=enlevé
 successor@noun!x-is2%1(noun)=successeur
+sui@prep%1(prep)=lui-même
 sum@verb!irrg%1(verb substantif)=etre%2(verb substantif)=etre dans un lieu%3(verb substantif)=etre reellement%4(verb substantif + datif)=appartenir a, s'appliquer a%5(verbe)=etre
 sumo@verb!norm%1(verb)=charmer%2(verb)=adopter%3(verb)=utiliser%4(verb)=obtenir%5(verb)=sélectionner%6(verb)=commencer%7(verb)=prendre
 super@prep%1(adv)=par dessus,en plus%2(prep + acc)=au dessus%3(prep + abl)=sur%4(prep)=sur
@@ -1325,6 +1333,7 @@ tot@prep%1(prep)=si nombreux
 torment@noun!um-i%1(noun)=canon%2(noun)=torture
 tot@adj!us-a-um%1(adj)=tout
 totius@adj!inv%1(adj)=de tout
+tr@adj!es-es-ia%1(adj)=trois
 tractand@adj!us-a-um%1(noun)=transporté
 tractat@noun!us-us%1(noun)=sermon%2(noun)=traité
 tracto@verb!%1(verb)=trainer avec violence, maltraiter%2(verb)=toucher, palper%3(verb)=manier, prendre soin, gerer, administrer%4(verb)=se comporter, se conduire avec quelqu'un%5(verb)=traiter une question, exposer un sujet%6(verb)=traiter
@@ -1333,8 +1342,6 @@ traditio@noun!x-nis%1(noun)=instruction%2(noun)=abandon
 trado@verb!norm%1(verb)=abandonner
 trans@prep%1(prep)=au travers de
 transmitto@verb!norm%1(verb)=transmettre
-tres@noun!inv%1(noun)=trois
-tria@noun!inv%1(noun)=trois
 triclini@noun!um-i%1(noun)=salle-à-manger
 trinit@noun!as-atis%1(noun)=trinité
 tu@prep%1(prep)=toi

@@ -11,6 +11,7 @@ adam@masc%inv
 adduct@adj%us-a-um
 adimplet@adj%us-a-um
 adipat@neut%um-i
+adiutori@neut%um-i
 adferen@masc%s-tis
 adorand@adj%us-a-um
 adult@adj%us-a-um
@@ -143,6 +144,7 @@ christ@masc%us-i2
 christian@adj%us-a-um
 chios@neut%inv
 cib@masc%us-i
+cibari@adj%us-a-um
 civit@fem%as-atis
 clar@adj%us-a-um
 claudia@fem%inv
@@ -504,6 +506,7 @@ med@masc%us-i
 medi@adj%us-a-um
 melit@fem%a-ae
 mens@fem%a-ae
+mens@adj%us-a-um
 mercator@masc%x-is2
 merit@neut%um-i
 messi@masc%as-ae
@@ -519,6 +522,7 @@ miss@adj%us-a-um
 miss@fem%a-ae
 mod@masc%us-i
 mon@masc%s-tis2
+molit@adj%us-a-um
 monit@adj%us-a-um
 monstr@neut%um-i
 monument@neut%um-i
@@ -770,6 +774,7 @@ sext@adj%us-a-um
 sicili@fem%a-ae
 sign@masc%um-i
 silenti@neut%um-i
+simil@adj%is-is-e
 similitud@fem%o-inis
 simplici@adj%or-or-us
 singul@adj%us-a-um
@@ -828,12 +833,11 @@ tolerand@adj%us-a-um
 torment@neut%um-i
 tot@adj%us-a-um
 totius@adj%inv
+tr@adj%es-es-ia
 tractand@adj%us-a-um
 tractat@masc%us-us
 tradit@adj%us-a-um
 traditio@fem%x-nis
-tres@neut%inv
-tria@neut%inv
 triclini@neut%um-i
 trinit@fem%as-atis
 tub@fem%a-ae

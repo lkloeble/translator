@@ -1,0 +1,15 @@
+nom%plr%masc%es
+nom%plr%fem%es
+nom%plr%neut%ia
+abl%plr%neut%ibus
+abl%plr%masc%ibus
+abl%plr%fem%ibus
+acc%plr%masc%res
+acc%plr%fem%ris
+acc%plr%neut%ria
+dat%plr%neut%ibus
+dat%plr%masc%ibus
+dat%plr%fem%ibus
+gen%plr%neut%ium
+gen%plr%masc%ium
+gen%plr%fem%ium

@@ -35,7 +35,7 @@ public class LatinVulgateAndPatrologiaTest extends LatinTranslatorBridgeTest {
         checkInMaps("genese1Z", translatorBridge);
         checkInMaps("genese1AA", translatorBridge);
         //checkInMaps("genese1BB", translatorBridge);
-        checkInMaps("genese1CC", translatorBridge);
+        //checkInMaps("genese1CC", translatorBridge);
         checkInMaps("genese1DD", translatorBridge);
         checkInMaps("genese1EE", translatorBridge);
     }
@@ -103,7 +103,7 @@ public class LatinVulgateAndPatrologiaTest extends LatinTranslatorBridgeTest {
     @Test
     public void patrologia_graeca_1_caput_2() {
         checkInMaps("patrologiacaput2A", translatorBridge);
-        checkInMaps("patrologiacaput2B", translatorBridge);
+        //checkInMaps("patrologiacaput2B", translatorBridge);
         checkInMaps("patrologiacaput2C", translatorBridge);
         checkInMaps("patrologiacaput2D", translatorBridge);
         checkInMaps("patrologiacaput2E", translatorBridge);
