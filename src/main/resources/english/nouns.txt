@@ -26,6 +26,7 @@ allusion@neut%normmasc
 alone@neut%normmasc
 alternative@fem%normfem
 amber@neut%invmasc
+ammonite@neut%normmasc
 amoraim@neut%invmasc
 ancestr@fem%endy
 ancient@neut%normmasc
@@ -573,6 +574,7 @@ judas@masc%invmasc
 judea@neut%invmasc
 judge@neut%normmasc
 judicature@neut%invmasc
+juncture@neut%normmasc
 karen@neut%invmasc!agenitive
 keeper@neut%normmasc
 kenite@neut%normmasc
@@ -826,6 +828,7 @@ pretence@neut%normmasc
 pretty@adj%invmasc
 previous@adj%invmasc
 price@neut%normmasc
+priest@neut%normmasc
 priesthood@neut%invmasc
 primary@adj%invmasc
 primate@masc%invmasc
@@ -889,6 +892,7 @@ riches@neut%invmasc
 right@neut%normmasc!agenitive
 righteousness@neut%invmasc
 rite@masc%normmasc
+rival@masc%normmasc
 river@fem%normfem
 riverhead@fem%normfem
 ro@neut%invmasc
@@ -1072,6 +1076,7 @@ ticket@neut%normmasc
 tiller@neut%normmasc
 time@neut%normmasc
 tiny@adj%invmasc
+tithe@masc%invmasc
 title@masc%normmasc
 tm@neut%invmasc
 today@neut%invmasc

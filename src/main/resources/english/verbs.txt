@@ -184,6 +184,7 @@ love,[live]
 make,[live],(AIP*maked*made*0@PAPR*make*mak*0@PAP*maked*made*0)
 maintain,[call]
 may,[live],(IPR*mays*may*0@AIP*mayd*might*0)
+marry,[live],(PAP*marryd*married*0)
 mean,[live],(PAP*meand*meant*0)
 meet,[live]
 melt,[call]
@@ -219,11 +220,13 @@ promise,[live],(PAPR*promise*promis*0)
 pronounce,[live]
 protect,[live]
 publish,[teach]
+purify,[live],(PAP*purifyd*purified*0)
 put,[live]
 quote,[live]
 rain,[call]
 read,[live]
 receive,[live]
+recite,[live]
 reckon,[call]
 refer,[call]
 reflect,[call]

@@ -42,6 +42,7 @@ beischreib,en,[rufen],(AIP*beischreib*beischrieb*0@PAP*beischrei*beigeschrie*0)
 beitrag,en,[lassen],(AIP*beitrag*beitrug*0)
 beiwohn,en,[leben]
 bekomm,en,[rufen],(AIP*bekomm*bekam*0)
+belast,en,[wenden]
 belohn,en,[leben]
 benutz,en,[setzen]
 beobacht,en,[mochten]

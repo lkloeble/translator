@@ -11,6 +11,7 @@ ablieferung@fem%meinfem
 abneigung@fem%meinfem
 abrede@fem%flasche
 absicht@fem%meinfem
+absinkend@adj%ausreichend
 abstammung@fem%meinfem
 abteilung@neut%norm
 abweichung@fem%meinfem
@@ -177,6 +178,7 @@ bruder@masc%arbeiter
 brunstig@adj%ausreichend
 buch@fem%ort
 buhlerin@fem%sangerin
+bundel@neut%zeichen
 burger@masc%burger
 burgermeister@masc%masc
 buro@neut%inv
@@ -269,6 +271,7 @@ entbehrung@fem%meinfem
 entgegengesetzt@adj%ausreichend
 entweihter@masc%arbeiter
 entzuckung@fem%meinfem
+epikur@neut%inv
 epikurisch@adj%ausreichend
 erde@fem%flasche
 erdgeschoss@masc%inv
@@ -762,6 +765,7 @@ nachst@adj%norm
 nacht@fem%meinfem
 nachrede@fem%flasche
 nagel@masc%arbeiter
+nahenden@neut%inv
 naher@adj%ausreichend
 name@masc%flasche
 namenlos@adj%ausreichend
@@ -805,6 +809,7 @@ okolog@neut%meinmasc
 oper@neut%flasche
 opfergabe@neut%flasche
 optik@neut%meinmasc
+optimist@neut%meinmasc
 optimismus@neut%inv
 optimistischer@adj%ausreichend
 original@neut%original
@@ -965,6 +970,7 @@ schweigsamkeit@neut%inv
 schwelle@fem%flasche
 schwer@adj%ausreichend
 schwerfallig@adj%ausreichend
+schwerst@adj%ausreichend
 schwierigkeit@fem%meinfem
 schwur@masc%phanomen
 sechst@adj%ausreichend

@@ -15,6 +15,7 @@ abneigung@noun!meinfem%1(noun)=aversion
 abrede@noun!flasche%1(noun)=contradiction
 abschliess@verb!norm%1(verb)=terminer
 absicht@noun!meinfem%1(noun)=objectif
+absinkend@adj!ausreichend%1(adj)=déclinant
 abstamm@verb!norm%1(verb)=provenir
 abstammung@noun!meinfem%1(noun)=lignée
 abteilung@noun!norm%1(noun)=service
@@ -194,6 +195,7 @@ beiwohn@verb!norm%1(verb)=avoirdesrelationssexuelles
 beiwohnung@noun!inv%1(noun)=présence%2(noun)=rapports sexuels
 bekomm@verb!norm%1(noun)=recevoir
 bekummert@noun!inv%1(noun)=concerné
+belast@verb!norm%1(noun)=incriminer
 beleg@noun!jahrzehnt%1(noun)=référence%2(noun)=évidence
 belohn@verb!norm%1(noun)=recompenser
 bemuh@noun!meinmasc%1(noun)=effort
@@ -285,6 +287,7 @@ buch@noun!ort%1(noun)=livre
 buchstabe@noun!flasche%1(noun)=lettre
 buhl@verb!norm%1(verb)=tomber
 buhlerin@noun!sangerin%1(noun)=prostituée
+bundel@noun!zeichen%1(noun)=fardeau%2(noun)=ensemble
 burger@noun!masc%1(noun)=citoyen
 burgermeister@noun!masc%1(noun)=maire
 buro@noun!inv%1(noun)=bureau
@@ -461,6 +464,7 @@ entsteh@verb!norm%1(verb)=naitre
 entweih@verb!norm%1(verb)=profaner
 entweihter@noun!arbeiter%1(noun)=profanateur
 entzuckung@noun!meinfem%1(noun)=découverte%2(noun)=joie
+epikur@noun!inv%1(noun)=épicure
 epikurisch@adj!ausreichend%1(adj)=épicurien
 er@prep%1(prep)=il
 erde@noun!flasche%1(noun)=terre
@@ -1150,6 +1154,7 @@ nachsinn@verb!norm%1(verb)=reflechir
 nachst@noun!norm%1(noun)=prochain
 nacht@noun!meinfem%1(noun)=nuit
 nagel@noun!arbeiter%1(noun)=ongle
+nahenden@noun!inv%1(noun)=approchant
 naher@adj!ausreichend%1(adj)=plus proche
 name@noun!flasche%1(noun)=nom
 namenlos@adj!ausreichend%1(adj)=anonyme%2(adj)=inconnu
@@ -1210,6 +1215,7 @@ okolog@noun!meinmasc%1(noun)=écologiste
 oper@noun!flasche%1(noun)=opéra
 opfergabe@noun!flasche%1(noun)=offrande%2(noun)=sacrifice
 optik@noun!meinmasc%1(noun)=optique
+optimist@noun!meinmasc%1(noun)=optimiste
 optimismus@noun!inv%1(noun)=optimisme
 optimistischer@adj!ausreichend%1(adj)=plus optimiste
 original@noun!original%1(noun)=original
@@ -1405,6 +1411,7 @@ schweigsamkeit@noun!inv%1(noun)=réticence
 schwelle@noun!flasche%1(noun)=seuil
 schwer@noun!ausreichend%1(noun)=difficile
 schwerfallig@noun!ausreichend%1(noun)=lourd
+schwerst@noun!ausreichend%1(noun)=le plus difficile
 schwierigkeit@noun!meinfem%1(noun)=difficulté
 schwor@verb!norm%1(verb)=jurer
 schwur@noun!phanomen%1(noun)=serment
