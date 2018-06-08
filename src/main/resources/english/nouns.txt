@@ -47,6 +47,7 @@ apt@adj%invmasc
 arabic@neut%normmasc
 aramaic@neut%normmasc
 archbishop@neut%invmasc
+archer@masc%normmasc
 area@fem%normfem
 argument@neut%normmasc
 arm@neut%normmasc
@@ -274,6 +275,7 @@ desirable@adj%normmasc
 desire@neut%normmasc
 desperate@adj%normmasc
 destined@neut%invmasc
+destruction@neut%normmasc
 deut@neut%invmasc
 dialect@neut%normmasc
 diet@neut%normmasc
@@ -623,6 +625,7 @@ limit@neut%normmasc
 line@neut%normmasc
 lip@neut%normmasc
 little@adj%normmasc
+livelihood@neut%normmasc
 livestock@neut%invmasc
 living@neut%invmasc
 liz@fem%invfem

@@ -796,11 +796,11 @@ lightfoot_ch642=>The Moabites and Ammonites ought to tithe the poor's tithe the 
 lightfoot_ch643=>And the proselytes of |Tadmor| are fit to enter into the congregation."
 lightfoot_ch644=>This story is recited, in the Jerusalem |Misna|: hebrew "Mary, of |Tadmor|,
 lightfoot_ch645=>having part of the blood sprinkled upon her" (whereby she was to be purified), "heard in that very juncture of time,
-lightfoot_ch646=>that her daughter was dead," &c. But the Babylonian calls her  תדמורית "of Tarmod."
-lightfoot_ch647=>-- "From the place Tarmud," saith the Gloss.
-lightfoot_ch648=>-- The 'Tarmudeans,' תדמוראי are said, by those of the Babylonian Talmud,
+lightfoot_ch646=>that her daughter was dead," |&c|. But the Babylonian calls her  hebrew "of |Tarmod|."
+lightfoot_ch647=>-- "From the place |Tarmud|," saith the Gloss.
+lightfoot_ch648=>-- The '|Tarmudeans|,' hebrew are said, by those of the Babylonian Talmud,
 lightfoot_ch649=>to be certain poor people, who got themselves a livelihood by gathering up wood, and selling it.
-lightfoot_ch650=>R. Jochanan said, "Blessed is he, who shall see the destruction of Tadmor:
+lightfoot_ch650=>R. |Jochanan| said, "Blessed is he, who shall see the destruction of |Tadmor|:
 lightfoot_ch651=>for she communicated in the destruction of the first and second Temple.
 lightfoot_ch652=>In the destruction of the first, she brought eighty thousand archers: and so she did, in the destruction of the second."
 

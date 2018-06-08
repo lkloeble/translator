@@ -62,6 +62,7 @@ close,[live]
 cloth,[teach]
 come,[see],(AIP*come*came*0@PAPR*come*com*0)
 command,[call]
+communicate,[live]
 compare,[live]
 compass,[call]
 complete,[live]
@@ -253,6 +254,7 @@ seat,[call]
 see,[see],(PAP*seed*seen*0@AIP*see*saw*0)
 seek,[call]
 seem,[call]
+sell,[live]
 send,[live],(AIP*sendd*sent*0)
 set,[live]
 sew,[call]
