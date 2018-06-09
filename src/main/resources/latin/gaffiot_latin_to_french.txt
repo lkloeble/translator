@@ -116,6 +116,7 @@ arm@noun!a-ae%1(noun)=armes
 asi@noun!a-ae%1(noun)=asie
 assequor@verb!norm%1(verb)=comprendre%2(verb)=rivaliser%3(verb)=atteindre,achever%4(verb)=poursuivre
 assertor@noun!x-is2%1(noun)=déclarant
+assisto@verb!norm%1(verb)=etre jugé%2(verb)=defendre%3(verb)=seplacer
 assyri@noun!us-i%1(noun)=assyrien
 atlantic@adj!us-a-um%1(adj)=atlantique
 at@prep%1(conj)=au contraire%2(conj)=quant a%3(conj)=et pourtant,et qui plus est%4(conj)=mais
@@ -151,6 +152,7 @@ bibo@verb!norm%1(verb)=boire
 bienni@noun!um-i%1(noun)=biennale
 bon@adj!us-a-um%1(adj)=bon (personne)%2(adj)=bien, de bonne qualite (chose)%3(adj)=bon pour, propre a (+dat)%4(adj)=bon
 brachi@noun!um-i%1(noun)=avant-bras
+breviter@prep%1(prep)=bref
 britanni@noun!a-ae%1(noun)=bretagne
 brundisi@noun!um-i%1(noun)=brindisi
 cael@noun!us-i%1(noun)=climat%2(noun)=ciel
@@ -236,6 +238,7 @@ conciliatur@adj!us-a-um%1(adj)=sur le point de s'unir
 concilio@verb!norm%1(verb)=acquerir%2(verb)=recommander%3(verb)=rassembler
 confirmo@verb!norm%1(verb)=confirmer
 concipio@verb!norm%1(noun)=recevoir
+condo@verb!norm%1(noun)=assembler
 conduco@verb!norm%1(noun)=conduire
 conglorifico@verb!norm%1(verb)=glorifier
 conficiend@adj!us-a-um%1(adj)=qui doit être préparé
@@ -359,6 +362,7 @@ dimiss@adj!us-a-um%1(adj)=banni%2(adj)=envoyé
 dimitto@verb!norm%1(verb)=renvoyer%2(verb)=remettre
 discedo@verb!norm%1(verb)=partir
 discerno@verb!norm%1(verb)=separer
+dissemino@verb!norm%1(verb)=repandre
 dissertati@noun!o-onis%1(noun)=dissertation
 discipul@noun!us-i%1(noun)=eleve%2(noun)=disciple
 disco@verb!norm%1(verb)=apprendre
@@ -426,6 +430,7 @@ eo@verb!irrg%1(verb)=aller
 eodem@prep%1(adv)=le même
 eorum@prep%1(prep)=leur
 eos@prep%1(prep)=les
+epiphani@noun!us-i%1(noun)=épiphane
 episcop@noun!us-i%1(noun)=inspecteur des marches%2(noun)=eveque
 epistol@noun!a-ae%1(noun)=courrier,missive,depeche%2(noun)=lettre
 equ@noun!us-i%1(noun)=cheval
@@ -446,6 +451,7 @@ eucharisti@noun!a-ae%1(noun)=eucharistie
 eufrates@noun!inv%1(noun)=euphrate
 eum@prep%1(prep)=le
 europ@noun!a-ae%1(noun)=europe
+eusebi@noun!us-i%1(noun)=eusèbe
 ev@noun!a-ae%1(noun)=ève
 evangeli@noun!um-i%1(noun)=evangile
 evoco@verb!norm%1(verb)=appeler
@@ -456,10 +462,12 @@ excels@adj!us-a-um%1(adj)=lieu très haut
 except@adj!us-a-um%1(adj)=excepté
 excus@adj!us-a-um%1(adj)=falsifié
 exerceo@verb!norm%1(verb)=exercer
+excogito@verb!norm%1(verb)=inventer
 exercit@adj!us-a-um%1(adj)=exercé%2(adj)=occupé
 exercit@noun!us-us%1(noun)=entrainé
 existen@adj!s-tis%1(noun)=existant%2(noun)=étant
 exitios@adj!us-a-um%1(noun)=mortel%2(adj)=pernicieux
+explicand@adj!us-a-um%1(noun)=expliqué
 explicati@noun!o-onis%1(noun)=explication
 expositi@noun!o-onis%1(noun)=exposition
 expugnator@noun!x-is%1(noun)=conquérant
@@ -680,6 +688,7 @@ ips@adj!e-a-um%1(adj)=lui-même
 ipsimet@noun!inv%1(noun)=opposant
 irat@noun!us-a-um%1(noun)=en colère
 ire@verb!irrg%1(verb)=aller
+irenae@noun!us-i%1(noun)=irénée
 irruen@adj!s-s-s%1(adj)=pressé
 isntit@prep%1(prep)=est-ce que
 istae@prep%1(prep)=celles-ci
@@ -724,6 +733,7 @@ late@prep%1(prep)=largement
 latin@adj!us-a-um%1(noun)=latin
 latissim@adj!us-a-um%1(noun)=le plus large
 latitud@noun!o-inis%1(noun)=largeur
+latobrig@noun!us-i%1(noun)=latobrige
 laudat@adj!us-a-um%1(noun)=loué
 laudo@verb!norm%1(verb)=louer, approuver, proner, vanter%2(verb)=vanter, faire valoir%3(verb)=faire une deposition elogieuse envers quelqu'un%4(verb)=prononcer un eloge funebre%5(verb)=louer
 leander@noun!inv%1(noun)=leander
@@ -800,6 +810,7 @@ med@noun!us-i%1(noun)=medus
 medi@adj!us-a-um%1(noun)=milieu
 mei@prep%1(prep)=mes
 melit@noun!a-ae%1(noun)=malte
+memoro@verb!o-as%1(verb)=sesouvenir
 mens@noun!a-ae%1(noun)=autel%2(noun)=table
 mens@adj!us-a-um%1(noun)=mois
 meo@prep%1(prep)=mon
@@ -966,6 +977,7 @@ pecuni@noun!a-ae%1(noun)=argent
 pene@noun!inv%1(noun)=[pene trad non trouvée]
 penit@adj!us-a-um%1(noun)=intérieur
 per@prep%1(prep)=au moyen de%2(prep)=par
+perdo@verb!norm%1(verb)=perdre%2(verb)=detruire
 perduco@verb!norm%1(verb)=détruire%2(verb)=perdre
 perduell@noun!is-is%1(noun)=ennemi
 perenniter@prep%1(prep)=toujours%2(prep)=de façon permanente
@@ -1120,6 +1132,7 @@ quorum@prep%1(adv)=qui
 quorumdam@prep%1(adv)=quelques uns
 quot@prep%1(quot)=combien
 ratio@noun!x-nis%1(noun)=raison%2(noun)=explication
+raurac@noun!us-i%1(noun)=rauraque
 recen@noun!s-tis%1(noun)=récent
 recipio@verb!norm%1(verb)=recevoir
 recitati@noun!o-onis%1(noun)=lecture
@@ -1239,6 +1252,7 @@ sign@noun!um-i%1(noun)=signe
 silenti@noun!um-i%1(noun)=obscurité%2(noun)=inactivité%3(noun)=silence
 simil@adj!is-is-e%1(adj)=similaire
 similitud@noun!o-inis%1(noun)=similitude%2(noun)=ressemblance
+simon@noun!inv%1(noun)=simon
 simplici@adj!or-or-us%1(adj)=plus simple
 sine@prep%1(prep)=sans
 singul@adj!us-a-um%1(adj)=tous%2(adj)=chaque
@@ -1321,7 +1335,7 @@ terti@noun!us-a-um%1(adj)=troisième
 tessel@noun!a-ae%1(noun)=mosaïque
 testament@noun!um-i%1(noun)=alliance%2(noun)=testament
 testimoni@noun!um-i%1(noun)=évidence,preuve%2(noun)=témoignage
-theoderet@noun!us-i%1(noun)=Théodoret
+theodoret@noun!us-i%1(noun)=Théodoret
 tiberis@noun!inv%1(noun)=tibre
 tigri@noun!s-dis%1(noun)=tigre
 tibi@prep%1(prep)=à toi
@@ -1349,6 +1363,7 @@ tua@prep%1(prep)=ta
 tuam@prep%1(prep)=ta
 tub@noun!a-ae%1(noun)=trompe
 tuend@adj!us-a-um%1(noun)=défenseur
+tuling@noun!us-i%1(noun)=tulinge
 tum@prep%1(prep)=alors
 tunc@prep%1(prep)=en ce temps%2(prep)=alors
 tuo@prep%1(prep)=ton

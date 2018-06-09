@@ -260,6 +260,7 @@ effeminand@adj%us-a-um
 effus@adj%us-a-um
 elect@adj%us-a-um
 enuntiat@adj%us-a-um
+epiphani@masc%us-i
 episcop@masc%us-i
 epistol@fem%a-ae
 equ@masc%us-i
@@ -272,6 +273,7 @@ euboe@fem%a-ae
 eucharisti@fem%a-ae
 eufrates@neut%inv
 europ@fem%a-ae
+eusebi@masc%us-i
 evangeli@neut%um-i
 exempl@neut%um-i
 excels@adj%us-a-um
@@ -281,6 +283,7 @@ exercit@adj%us-a-um
 exercit@masc%us-us
 existen@adj%s-tis
 exitios@adj%us-a-um
+explicand@adj%us-a-um
 explicati@fem%o-onis
 expositi@fem%o-onis
 expugnator@masc%x-is
@@ -414,6 +417,7 @@ invictissim@adj%us-a-um
 ips@adj%e-a-um
 ipsimet@neut%inv
 irat@adj%us-a-um
+irenae@masc%us-i
 irruen@adj%s-s-s
 itali@fem%a-ae
 itin@neut%us-eris[nomsing:iter,accsing:iter]
@@ -446,6 +450,7 @@ latin@adj%us-a-um
 lapid@neut%x-is2[nomsing:lapis]
 latissim@adj%us-a-um
 latitud@fem%o-inis
+latobrig@masc%us-i
 laudat@adj%us-a-um
 leander@neut%inv
 leandr@neut%x-ri
@@ -700,6 +705,7 @@ qint@masc%us-i
 querimoni@fem%a-ae
 quint@masc%us-a-um
 ratio@fem%x-nis
+raurac@masc%us-i
 recen@neut%s-tis
 recitati@fem%o-onis
 rect@adj%us-a-um
@@ -776,6 +782,7 @@ sign@masc%um-i
 silenti@neut%um-i
 simil@adj%is-is-e
 similitud@fem%o-inis
+simon@neut%inv
 simplici@adj%or-or-us
 singul@adj%us-a-um
 soci@adj%us-a-um
@@ -825,7 +832,7 @@ terti@adj%us-a-um
 tessel@fem%a-ae
 testament@neut%um-i
 testimoni@neut%um-i
-theoderet@masc%us-i
+theodoret@masc%us-i
 tiberis@neut%inv
 tigri@neut%s-dis
 tit@masc%us-i
@@ -842,6 +849,7 @@ triclini@neut%um-i
 trinit@fem%as-atis
 tub@fem%a-ae
 tuend@adj%us-a-um
+tuling@masc%us-i
 turb@fem%a-ae
 tuscul@masc%um-i
 tyrann@masc%us-i

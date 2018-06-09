@@ -28,6 +28,7 @@ appon,o,is,ere,,,[o-is]
 arbitr,or,aris,ari,,,[or-aris]
 ascend,o,is,ere,,,[o-is]
 assequ,or,eris,ere,,,[or-eris]
+assist,o,is,ere,,,[o-is],(AIP*assist*astit*0)
 assum,o,is,ere,,,[o-is],(IAP*assum*assumps*0)
 atting,o,is,ere,,,[o-is]
 aud,io,is,ire,veni,ventum,[io-is],(AIP*audi*audiv*0)
@@ -58,6 +59,7 @@ compl,eo,es,ere,ui,itum,[eo-es]
 con,or,aris,ari,,,[or-aris]
 concili,o,as,are,,,[o-as]
 concip,io,is,ere,,,[io-is],(AIPP*concip*concep*0)
+cond,o,is,ere,,,[o-is],(AIP*cond*condid*0)
 conduc,o,is,ere,,,[o-is],(AIP*conduc*condux*0)
 confirm,o,as,are,,,[o-as]
 conglorific,o,as,are,,,[o-as]
@@ -99,6 +101,7 @@ dimitt,o,is,ere,foobar,foobar,[o-is]
 disc,o,is,ere,didici,discitum,[o-is],(AIFP*discs*didic*0)
 disced,o,is,ere,,,[o-is],(AIP*disced*discess*0)
 discern,o,is,ere,,,[o-is]
+dissemin,o,as,are,,,[o-as]
 divid,o,is,ere,,,[o-is],(AIP*divid*divis*0)
 doc,eo,es,ere,,,[eo-es]
 domin,or,aris,ari,,,[or-aris]
@@ -120,6 +123,7 @@ ex,eo,is,ire,,,[eo-is]
 examin,o,as,are,,,[o-as]
 exaud,io,is,ire,veni,ventum,[io-is]
 exerc,eo,es,ere,,,[eo-es]
+excogit,o,as,are,,,[o-as]
 exsequ,or,eris,i,,,[or-eris]
 exspect,o,as,are,,,[o-as]
 exst,o,as,are,-,-,[o-as]
@@ -180,6 +184,7 @@ mal,o,is,ere,,,[o-is],(IPR124*mal*mav*0)
 maledic,o,is,ere,,,[o-is]
 man,eo,es,ere,ui,itum,[eo-es]
 mand,o,as,are,,,[o-as]
+memor,o,as,are,,,[o-as]
 misc,eo,es,ere,ui,itum,[eo-es]
 mitt,o,is,ere,,,[o-is]
 mon,eo,es,ere,ui,itus,[eo-es]
@@ -204,6 +209,7 @@ par,eo,es,ere,,,[eo-es]
 par,io,is,ere,,,[io-is],(AIP*par*peper*0)
 pat,eo,es,ere,,,[eo-es]
 patr,o,as,are,,,[o-as],(ASI*patr*patrar*0)
+perd,o,is,ere,,,[o-is],(AIP*perd*perdid*0)
 perduc,o,is,ere,,,[o-is]
 perfer,o,s,re,,,[o-s]
 perfic,io,is,ere,,,[io-is]
@@ -301,5 +307,5 @@ vesc,or,eris,ere,,,[or-eris]
 vid,eo,es,ere,foo,bar,[eo-es2],(PSP*vid*visus*0@AIFP*vidue*vide*0)
 vinc,o,is,ere,,,[o-is],(AIP*vinc*vic*0)
 viv,o,is,ere,,,[o-is]
-voc,o,as,are,avi,atus,[o-as]
+voc,o,as,are,avi,atus,[o-as],(ASI*voc*vocar*0)
 volo@IRREGULAR%[IPR]=[volo,vis,v?,v?,v?,volunt]%[INFINITIVE]=[volire]
