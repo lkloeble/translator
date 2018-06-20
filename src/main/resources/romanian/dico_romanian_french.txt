@@ -889,6 +889,7 @@ ros@adj!adj%1(adj)=rouge
 roscat@noun!adj%1(adj)=roux
 rost@noun!ul%1(noun)=intérêt
 royce@noun!inv%1(noun)=royce
+roz@adj!adj%1(adj)=rose
 rud@noun!fem%1(noun)=parent
 rug@verb!irrg%1(verb)=prier
 rugaciun@noun!caine%1(noun)=prière

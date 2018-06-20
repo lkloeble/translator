@@ -121,6 +121,7 @@ brethren@neut%invmasc
 bridge@masc%normmasc
 britain@neut%invmasc
 british@neut%invmasc
+bronze@neut%invmasc
 brother@masc%normmasc
 bronwen@neut%invmasc
 brunch@neut%invmasc
@@ -217,6 +218,7 @@ conservative@adj%normmasc
 consideration@neut%normmasc
 considereth@neut%invmasc
 consonant@masc%normmasc
+constitution@masc%normmasc
 contemporar@adj%endy
 contradiction@fem%normfem
 contribution@fem%normfem
@@ -235,6 +237,7 @@ course@neut%normmasc
 covenant@neut%normmasc
 covering@neut%normmasc
 cow@neut%normmasc
+craftsman@neut%normmasc
 creation@fem%normfem
 creature@neut%normmasc
 crime@neut%normmasc
@@ -313,6 +316,7 @@ dut@masc%endy
 ear@fem%normfem
 earnest@adj%invmasc
 earth@fem%invfem
+easie@neut%invmasc
 east@neut%invmasc
 easy@neut%invmasc
 eastern@neut%invmasc
@@ -541,6 +545,7 @@ inheritance@neut%normmasc
 inn@neut%normmasc
 inner@adj%normmasc
 instruction@neut%normmasc
+instructor@neut%normmasc
 intended@adj%invmasc
 interest@masc%normmasc
 interesting@neut%invmasc
@@ -1100,6 +1105,7 @@ traveler@neut%normmasc
 tree@masc%normmasc
 true@adj%invmasc
 truth@neut%church
+tubal@masc%invmasc
 tube@masc%normmasc
 tunic@fem%normfem
 turbulent@adj%normmasc

@@ -566,6 +566,7 @@ ros@adj%adj
 roscat@adj%adj
 rost@neut%ul
 royce@neut%inv
+roz@adj%adj
 rud@fem%fem
 rugaciun@fem%caine
 salbatic@adj%adj
