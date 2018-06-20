@@ -286,6 +286,7 @@ erklarung@fem%meinfem
 erkrankung@fem%meinfem
 erlauterung@fem%meinfem
 erlebnis@fem%erkenntnis
+erlosung@fem%meinfem
 ermudet@adj%ausreichend
 ermudung@fem%meinfem
 erneut@adj%ausreichend
@@ -396,6 +397,7 @@ gefuhl@neut%phanomen
 gefuhlsam@neut%inv
 gegeben@adj%ausreichend
 gegensatz@masc%phanomen
+gegensatzlichst@adj%ausreichend
 gegenwart@fem%inv
 gegenwartig@adj%ausreichend
 geheim@adj%ausreichend
@@ -654,6 +656,7 @@ leiblichen@adj%mein
 leiche@fem%flasche
 leicht@adj%ausreichend
 leiden@neut%inv[ablsg:leidens]
+leidendsten@neut%inv
 leider@neut%inv
 leipzig@neut%inv
 leser@neut%inv
@@ -730,6 +733,7 @@ mk@neut%inv
 modern@adj%ausreichend
 moglich@neut%meinmasc
 moglichkeit@fem%meinfem
+mohrenland@neut%inv
 moment@masc%norm
 monat@masc%jahrzehnt
 montag@neut%inv
@@ -889,6 +893,7 @@ rechts@neut%inv
 rechten@neut%inv
 register@neut%inv
 reich@adj%ausreichend
+reichst@adj%ausreichend
 reichtum@masc%heiligtum
 reinheit@fem%meinfem
 reis@masc%reis
@@ -1171,6 +1176,7 @@ verlobt@adj%meinmasc
 verlobung@fem%meinfem
 vermischung@neut%norm
 vernichtend@adj%ausreichend
+vernichtung@fem%meinfem
 vernunftigkeit@fem%inv
 verruckt@adj%norm
 versailles@neut%inv
@@ -1213,6 +1219,7 @@ vorherrschend@adj%ausreichend
 vorrede@fem%flasche
 vorsicht@neut%inv
 vorsichtig@adj%ausreichend
+vorstellung@fem%meinfem
 vorurteil@neut%rest
 vorzeitig@adj%ausreichend
 vorzug@masc%phanomen
@@ -1230,6 +1237,7 @@ walfisch@masc%meer
 ware@fem%flasche
 wasser@fem%masc
 webend@fem%meinfem
+wechselnd@adj%ausreichend
 weg@masc%phanomen
 weib@fem%ort
 wein@neut%inv
@@ -1249,6 +1257,7 @@ widerspruch@masc%phanomen
 widrig@adj%ausreichend
 wiederholung@fem%meinfem
 wien@neut%inv
+widerspruch@masc%phanomen
 wille@fem%wille
 willkurlich@adj%ausreichend
 winkel@masc%arbeiter

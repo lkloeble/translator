@@ -431,6 +431,20 @@ strackp4not099=>aus denen sie ihre abstammung von |Eli| glaubten beweisen zu kö
 strackp4not100=>Mit dem |P’s| 62b zweimal erwähnten "buch der genealogien" hebraisch sind die kanonischen bücher der chronica gemeint;
 strackp4not101=>die stellen sind für den vorliegenden zushang bedeutungslos.
 
+strackp6par11A=>grec artikellos gebraucht (in Mt noch 1,16.18;27,12.22) hat den Charakter eines Eigennamens,
+strackp6par11B=>während grec appellative Bedeutung („der gesalbte“) festhält u. so zur Amtsbezeichnung
+strackp6par11C=>oder zum Titel des im AT verheißenen u. in Jesu erschienenen Königs der Heilszeit wird.
+strackp6par11D=>Daher übersetzte grec : Jesus Christus , grec : Jesus der Messias (Gesalbte), oder : der Messias Jesus.
+strackp6par11E=>Grec ist hebräisch hrebeu, aramäisch hebreu; determiniert hebreu;
+strackp6par11F=>aus der aramäischen Form ist das gräzisierte grec (John 1,41;4,25) geflossen, das häufiger bezeugt ist als das zunächst zu erwartende grec.
+strackp6par11G=>– In der rabbinischen Literatur ist M. durchgängig Titel des endgeschichtlichten Heilskönigs.
+strackp6par11H=>Dabei läßt sich beobachten, daß bT meist das artikellose  hebreu, bezw das nichtdeterminierte hebreu gebraucht,
+strackp6par11I=>doch findet sich auch hebreu u. hbreu. Regelmäßig wird hebreu gesagt in der Verbindung hebreu « die Tage des Messias » = messiaszeit.
+strackp6par11J=>– In den palästin. Schriftwerken überwiegt hebreu, bezw das determinierte hebreu.
+strackp6par11K=>Artikelloses hebreu liest man zB Siphre Dt 1,1 $ 1 (65a); pesiq 149a (2mal); Midr Ps 43$1 (134a); 29$2 (116b);
+strackp6par11L=>Nu R 13 170A (3mal); 14 (172B); Tanch hebreu 120B; Midr Spr 19$21 (44A); Aggad Beresch 63 (44B, 2 mal); Tanch hebreu 35A;
+strackp6par11M=>Midr Ps 18$5 (69A); Seder Ellij R18 (98) || Eine Vollere Amtsbezeichnung des Messias ist das ungemein häufige hebreu, aräm. hebreu
+strackp6par11N=>„Der König, Der Messias“ = der Messianische König, nicht „der König Messias“ – belege bei Dalman, Worte Jesu 1,239 ff.
 
 
 
@@ -606,7 +620,7 @@ nietzscheBookGTversuchCha6A=>Man versteht, an welche Aufgabe ich bereits mit die
 nietzscheBookGTversuchCha6B=>Wie sehr bedauere ich es jetzt, daß ich damals noch nicht den Mut (oder die Unbescheidenheit ?) hatte, um mir in jedem Betrachte für so eigne Anschauungen und Wagnisse auch eine eigne Sprache zu erlauben,
 nietzscheBookGTversuchCha6C=>– daß ich mühselig mit Schopenhauerischen und Kantischen Formeln fremde und neue Wertschätzungen auszudrücken suchte, welche dem Geiste Kantens und Schopenhauers, ebenso wie ihrem Geschmacke, von Grund aus entgegen gingen !
 nietzscheBookGTversuchCha6D=>Wie dachte doch Schopenhauer über die Tragödie?
-nietzscheBookGTversuchCha6E=>"Was allem Tragischen den eigentümlichen Schwung zur Erhebung gibt" – sagt er, Welt als Wille und Vorstellung |II|, 495 – "ist das Aufgehen der Erkenntnis, daß die Welt, das Leben kein rechtes Genügen geben könne, mithin unsrer Anhänglichkeit nicht wert sei:
+nietzscheBookGTversuchCha6E=>"Was allem Tragischen den eigentümlichen Schwung zur Erhebung gibt" – sagt er, Welt als Wille und Vorstellung@1 |II|, 495 – "ist das Aufgehen der Erkenntnis, daß die Welt, das Leben kein rechtes Genügen geben könne, mithin unsrer Anhänglichkeit nicht wert sei:
 nietzscheBookGTversuchCha6F=>darin besteht der tragische Geist –, er leitet demnach zur Resignation hin." O wie anders redete Dionysos zu mir! O wie ferne war mir damals gerade dieser ganze Resignationismus!
 nietzscheBookGTversuchCha6G=>– Aber es gibt etwas viel Schlimmeres an dem Buche, das ich jetzt noch mehr bedauere, als mit Schopenhauerischen Formeln dionysische Ahnungen verdunkelt und verdorben zu haben:
 nietzscheBookGTversuchCha6H=>daß ich mir nämlich überhaupt das grandiose griechische Problem, wie mir es aufgegangen war, durch Einmischung der modernsten Dinge verdarb!

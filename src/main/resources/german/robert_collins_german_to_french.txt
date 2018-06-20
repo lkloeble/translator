@@ -486,6 +486,8 @@ erkrankung@noun!meinfem%1(noun)=maladie
 erlaub@verb!norm%1(verb)=permettre
 erlauterung@noun!meinfem%1(noun)=explication
 erlebnis@noun!erkenntnis%1(noun)=expérience
+erlos@verb!norm%1(verb)=racheter
+erlosung@noun!meinfem%1(noun)=délivrance
 ermang@verb!norm%1(verb)=manquer
 ermudet@adj!ausreichend%1(adj)=fatigué
 ermudung@noun!meinfem%1(noun)=fatigue
@@ -650,6 +652,7 @@ gefuhlsam@noun!inv%1(noun)=sentimental
 gegeben@adj!ausreichend%1(adj)=factuel%2(noun)=préexistant%3(noun)=donné
 gegen@prep%1(prep)=contre
 gegensatz@noun!phanomen%1(noun)=contradiction
+gegensatzlichst@adj!ausreichend%1(adj)=le plus contradictoire
 gegenwart@noun!inv%1(noun)=présence%2(noun)=temps présent
 gegenwartig@adj!ausreichend%1(adj)=existant%2(adj)=présent%3(adj)=contemporain%4(adj)=courant
 geh@verb!norm%1(verb)=aller
@@ -1007,6 +1010,7 @@ leiblichen@noun!mein%1(adj)=corporel%2(adj)=biologique%3(adj)=charnel
 leiche@noun!flasche%1(noun)=cadavre
 leicht@adj!ausreichend%1(adj)=léger%2(adj)=simple
 leiden@noun!inv%1(noun)=maladie%2(noun)=souffrance
+leidendsten@noun!inv%1(noun)=les plus grandes souffrances
 leider@noun!inv%1(noun)=malheureusement
 leipzig@noun!inv%1(noun)=leipzig
 lern@verb!norm%1(verb)=apprendre
@@ -1113,6 +1117,7 @@ modern@adj!ausreichend%1(adj)=moderne
 mog@verb!norm%1(verb)=vouloir%2(verb)=hesiter%3(verb)=apprecier
 moglich@noun!meinmasc%1(noun)=possible
 moglichkeit@noun!meinfem%1(noun)=possibilité
+mohrenland@noun!inv%1(noun)=éthiopie
 moment@noun!norm%1(noun)=moment
 monat@noun!jahrzehnt%1(noun)=mois
 montag@noun!inv%1(noun)=lundi
@@ -1308,6 +1313,7 @@ register@noun!inv%1(noun)=registre
 regn@verb!norm%1(verb)=pleuvoir
 reich@adj!ausreichend%1(adj)=riche
 reich@verb!norm%1(verb)=atteindre
+reichst@adj!ausreichend%1(adj)=le plus riche
 reichtum@noun!heiligtum%1(noun)=richesse
 reinheit@noun!meinfem%1(noun)=pureté
 reis@noun!reis%1(noun)=riz
@@ -1703,6 +1709,7 @@ verlobung@noun!meinfem%1(noun)=fiançailles
 vermeid@verb!norm%1(verb)=eviter
 vermischung@noun!norm%1(noun)=mélange
 vernichtend@adj!ausreichend%1(adj)=cinglant
+vernichtung@noun!meinfem%1(noun)=destruction
 vernunftigkeit@noun!inv%1(noun)=rationalité
 verpflicht@verb!norm%1(verb)=obliger
 verrats@verb!norm%1(verb)=resoudre
@@ -1779,6 +1786,7 @@ vorrede@noun!flasche%1(noun)=préface
 vorsicht@noun!inv%1(noun)=prudence
 vorsichtig@adj!ausreichend%1(adj)=prudent
 vorstell@verb!norm%1(verb)=presenter2
+vorstellung@noun!meinfem%1(noun)=représentation%2(noun)=concept%2(noun)=spectacle
 vorubergeh@verb!norm%1(verb)=negliger
 vorurteil@noun!rest%1(noun)=préjugé
 vorwort@noun!licht%1(noun)=préface
@@ -1804,6 +1812,7 @@ was@prep%1(prep)=quoi
 wasser@noun!masc%1(noun)=eau
 web@verb!norm%1(verb)=tisser
 webend@noun!meinfem%1(noun)=tissage
+wechselnd@adj!ausreichend%1(adj)=changeant
 weder@prep%1(prep)=ni%2(prep)=aucun
 weg@noun!phanomen%1(noun)=voie%2(noun)=chemin
 weggeh@verb!norm%1(verb)=partir
