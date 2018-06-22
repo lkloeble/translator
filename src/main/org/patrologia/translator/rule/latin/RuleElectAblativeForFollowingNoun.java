@@ -7,6 +7,7 @@ import org.patrologia.translator.basicelements.WordType;
 import org.patrologia.translator.casenumbergenre.CaseNumberGenre;
 import org.patrologia.translator.casenumbergenre.Gender;
 import org.patrologia.translator.casenumbergenre.Number;
+import org.patrologia.translator.casenumbergenre.latin.AblativeLatinCase;
 import org.patrologia.translator.casenumbergenre.latin.LatinCaseFactory;
 import org.patrologia.translator.rule.Rule;
 
@@ -26,8 +27,8 @@ public class RuleElectAblativeForFollowingNoun extends Rule {
     }
 
     private void checkByGender(Gender gender, Word nextWord) {
-        CaseNumberGenre ablativeSingular = new CaseNumberGenre(LatinCaseFactory.getAblative(), Number.SINGULAR, gender);
-        CaseNumberGenre ablativePlural = new CaseNumberGenre(LatinCaseFactory.getAblative(), Number.PLURAL, gender);
+        CaseNumberGenre ablativeSingular = new CaseNumberGenre(new AblativeLatinCase(null), Number.SINGULAR, gender);
+        CaseNumberGenre ablativePlural = new CaseNumberGenre(new AblativeLatinCase(null), Number.PLURAL, gender);
         if (nextWord.hasType(WordType.NOUN) && ((Noun) nextWord).hasPossibleCaseNumber(ablativeSingular)) {
             ((Noun) nextWord).setElectedCaseNumber(ablativeSingular);
         } else if (nextWord.hasType(WordType.NOUN) && ((Noun) nextWord).hasPossibleCaseNumber(ablativePlural)) {

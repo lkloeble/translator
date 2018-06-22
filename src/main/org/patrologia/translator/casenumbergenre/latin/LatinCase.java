@@ -7,17 +7,20 @@ import org.patrologia.translator.casenumbergenre.Case;
  */
 public abstract class LatinCase extends Case {
 
+    protected String differentier;
+
+
     public static Case getCaseByName(String caseName) {
         if("abl".equals(caseName)) {
-            return AblativeLatinCase.getInstance();
+            return new AblativeLatinCase(null);
         } else if("dat".equals(caseName)) {
-            return DativeLatinCase.getInstance();
+            return new DativeLatinCase(null);
         } else if("acc".equals(caseName)) {
-            return AccusativeLatinCase.getInstance();
+            return new AccusativeLatinCase(null);
         } else if("gen".equals(caseName)) {
-            return GenitiveLatinCase.getInstance();
+            return new GenitiveLatinCase(null);
         } else if("nom".equals(caseName)) {
-            return NominativeLatinCase.getInstance();
+            return new NominativeLatinCase(null);
         }
         return null;
     }

@@ -102,7 +102,7 @@ public class LatinTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getNouns(String nounFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "orgetorix@neut%inv[gensing:orgetorigis,accsing:orgetoricem]"
+                "sement@neut%is-is"
         });
         */
         return getFileContentForRepository(nounFileDescription);
@@ -110,7 +110,7 @@ public class LatinTranslatorBridgeTest extends TranslatorBridgeTest {
 
     @Test
     public void test_failing_one() {
-        checkInMaps("genesis2Q", translatorBridge);
+        checkInMaps("genese1L", translatorBridge);
     }
 
 

@@ -277,11 +277,11 @@ public class Noun extends Word {
     }
 
     public boolean IsNotPrecededByADativeNoun() {
-        return IsNotPrecededByADeclinedNoun(DativeLatinCase.getInstance());
+        return IsNotPrecededByADeclinedNoun(new DativeLatinCase(null));
     }
 
     public boolean IsNotPrecededByAnAblativeNoun() {
-        return IsNotPrecededByADeclinedNoun(AblativeLatinCase.getInstance());
+        return IsNotPrecededByADeclinedNoun(new AblativeLatinCase(null));
     }
 
     private boolean IsNotPrecededByADeclinedNoun(Case aCase) {

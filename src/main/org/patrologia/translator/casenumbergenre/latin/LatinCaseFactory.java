@@ -14,43 +14,19 @@ public class LatinCaseFactory extends CaseFactory {
             return null;
         }
         if("abl".equals(pattern.toLowerCase())) {
-            return getAblative();
+            return new AblativeLatinCase(differentier);
         } else if("nom".equals(pattern.toLowerCase())) {
-            return getNominative();
+            return new NominativeLatinCase(differentier);
         } else if("gen".equals(pattern.toLowerCase())) {
-            return getGenitive();
+            return new GenitiveLatinCase(differentier);
         } else if("acc".equals(pattern.toLowerCase())) {
-            return getAccusative();
+            return new AccusativeLatinCase(differentier);
         } else if("dat".equals(pattern.toLowerCase())) {
-            return getDative();
+            return new DativeLatinCase(differentier);
         } else if("voc".equals(pattern.toLowerCase())) {
-            return getVocative();
+            return new VocativeLatinCase(differentier);
         }
         return null;
-    }
-
-    public static NominativeLatinCase getNominative() {
-        return NominativeLatinCase.getInstance();
-    }
-
-    public static AccusativeLatinCase getAccusative() {
-        return AccusativeLatinCase.getInstance();
-    }
-
-    public static GenitiveLatinCase getGenitive() {
-        return GenitiveLatinCase.getInstance();
-    }
-
-    public static DativeLatinCase getDative() {
-        return DativeLatinCase.getInstance();
-    }
-
-    public static AblativeLatinCase getAblative() {
-        return AblativeLatinCase.getInstance();
-    }
-
-    public static VocativeLatinCase getVocative() {
-        return VocativeLatinCase.getInstance();
     }
 
 

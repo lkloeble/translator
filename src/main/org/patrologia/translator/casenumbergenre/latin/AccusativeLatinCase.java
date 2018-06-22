@@ -5,27 +5,33 @@ package org.patrologia.translator.casenumbergenre.latin;
  */
 public class AccusativeLatinCase extends LatinCase {
 
-    private static AccusativeLatinCase singleton;
-
-    private AccusativeLatinCase() {}
-
-    public static AccusativeLatinCase getInstance() {
-        if(singleton == null) {
-            singleton = new AccusativeLatinCase();
+    public AccusativeLatinCase(String differentier) {
+        this.differentier = differentier;
+        if(this.differentier == null || this.differentier.length() == 0) {
+            this.differentier = "foobar";
         }
-        return singleton;
     }
 
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
-        if (!(o instanceof AccusativeLatinCase)) return false;
+        if (o == null || getClass() != o.getClass()) return false;
 
-        return  true;//accusatives are equal each others if singleton is doomed
+        AccusativeLatinCase that = (AccusativeLatinCase) o;
+
+        return differentier.equals(that.differentier);
+
+    }
+
+    @Override
+    public int hashCode() {
+        return differentier.hashCode();
     }
 
     @Override
     public String toString() {
-        return "AccusativeLatinCase{}";
+        return "AccusativeLatinCase{" +
+                "differentier='" + differentier + '\'' +
+                '}';
     }
 }

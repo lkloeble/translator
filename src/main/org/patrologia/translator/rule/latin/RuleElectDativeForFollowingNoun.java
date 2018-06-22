@@ -6,6 +6,7 @@ import org.patrologia.translator.basicelements.Word;
 import org.patrologia.translator.basicelements.WordType;
 import org.patrologia.translator.casenumbergenre.*;
 import org.patrologia.translator.casenumbergenre.Number;
+import org.patrologia.translator.casenumbergenre.latin.DativeLatinCase;
 import org.patrologia.translator.casenumbergenre.latin.LatinCaseFactory;
 import org.patrologia.translator.rule.Rule;
 
@@ -17,8 +18,8 @@ public class RuleElectDativeForFollowingNoun  extends Rule {
     @Override
     public void apply(Word word, Phrase phrase, int position) {
         Word nextWord = phrase.getWordContainerAtPosition(position + 1).getUniqueWord();
-        CaseNumberGenre dativeSingular = new CaseNumberGenre(LatinCaseFactory.getDative(), Number.SINGULAR, new Gender(Gender.NEUTRAL));
-        CaseNumberGenre dativePlural = new CaseNumberGenre(LatinCaseFactory.getDative(), Number.PLURAL, new Gender(Gender.NEUTRAL));
+        CaseNumberGenre dativeSingular = new CaseNumberGenre(new DativeLatinCase(null), Number.SINGULAR, new Gender(Gender.NEUTRAL));
+        CaseNumberGenre dativePlural = new CaseNumberGenre(new DativeLatinCase(null), Number.PLURAL, new Gender(Gender.NEUTRAL));
         if (nextWord.hasType(WordType.NOUN) && ((Noun) nextWord).hasPossibleCaseNumber(dativeSingular)) {
             ((Noun) nextWord).setElectedCaseNumber(dativeSingular);
         } else if (nextWord.hasType(WordType.NOUN) && ((Noun) nextWord).hasPossibleCaseNumber(dativePlural)) {
