@@ -1,7 +1,8 @@
 nom%sing%masc%ος
 nom%plr%masc%εα
 gen%sing%masc%εος
-gen%plr%masc%εων
+gena%plr%masc%εων
+genb%plr%masc%ων
 acc%sing%masc%ος
 acca%plr%masc%εα
 accb%plr%masc%η

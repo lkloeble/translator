@@ -431,7 +431,7 @@ strackp4not099=>aus denen sie ihre abstammung von |Eli| glaubten beweisen zu kö
 strackp4not100=>Mit dem |P’s| 62b zweimal erwähnten "buch der genealogien" hebraisch sind die kanonischen bücher der chronica gemeint;
 strackp4not101=>die stellen sind für den vorliegenden zushang bedeutungslos.
 
-strackp6par11A=>grec artikellos gebraucht (in Mt noch 1,16.18;27,12.22) hat den Charakter eines Eigennamens,
+strackp6par11A=>|grec| artikellos gebraucht (in Mt noch 1,16.18;27,12.22) hat den Charakter eines Eigennamens,
 strackp6par11B=>während grec appellative Bedeutung („der gesalbte“) festhält u. so zur Amtsbezeichnung
 strackp6par11C=>oder zum Titel des im AT verheißenen u. in Jesu erschienenen Königs der Heilszeit wird.
 strackp6par11D=>Daher übersetzte grec : Jesus Christus , grec : Jesus der Messias (Gesalbte), oder : der Messias Jesus.

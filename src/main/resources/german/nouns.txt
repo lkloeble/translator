@@ -67,6 +67,7 @@ architekt@masc%norm
 argwohn@neut%jahrzehnt
 art@neut%inv
 artikel@neut%inv
+artikellos@neut%inv
 artist@masc%artist
 asiatisch@adj%ausreichend
 asthetisch@adj%ausreichend
@@ -187,6 +188,7 @@ cafe@neut%inv
 chalapta@neut%inv
 chanina@neut%inv
 chama@neut%inv
+charakter@masc%phanomen
 chef@neut%inv
 chinesisch@adj%ausreichend
 chor@neut%phanomen

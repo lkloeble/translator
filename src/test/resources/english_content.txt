@@ -804,7 +804,7 @@ lightfoot_ch650=>R. |Jochanan| said, "Blessed is he, who shall see the destructi
 lightfoot_ch651=>for she communicated in the destruction of the first and second Temple.
 lightfoot_ch652=>In the destruction of the first, she brought eighty thousand archers: and so she did, in the destruction of the second."
 
-lightfoot_ch701=>I. Of Kadesh, or Rekam, in the south part, there is no doubt.
+lightfoot_ch701=>|I|. Of |Kadesh|, or |Rekam|, in the south part, there is no doubt.
 lightfoot_ch702=>II. Of it, in the eastern part, there is this mention:
 lightfoot_ch703=>"From Rekam to the east, and Rekam is as the east": that is, R. Nissim interpreting,
 lightfoot_ch704=>"Rekam itself is reckoned for the east of the world" (that is, for the land of the heathen),

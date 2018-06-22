@@ -484,7 +484,8 @@ public abstract class LanguageToFrench implements TranslatorRepository {
         int indiceOfPreferedTranslation = 1;
         for(String mostCommonTranslation : mostCommonTranslations) {
             //allFormsForTheVerbRoot.allForms().stream().forEach(eachForm -> formRepository.addForm(new Form(eachForm, allFormsForTheVerbRoot.getRoot(), WordType.VERB, null,indiceOfPreferedTranslation), new Form(mostCommonTranslation, mostCommonTranslation, WordType.VERB, null,indiceOfPreferedTranslation)));
-            for(String form : allFormsForTheVerbRoot.allForms()) {
+            List<String> allForms = allFormsForTheVerbRoot.allForms();
+            for(String form : allForms) {
                 formRepository.addForm(new Form(form, allFormsForTheVerbRoot.getRoot(), WordType.VERB, null,indiceOfPreferedTranslation), new Form(mostCommonTranslation, mostCommonTranslation, WordType.VERB, null,indiceOfPreferedTranslation));
             }
             if (!originLanguageVerbFormConstruction.containsKey(mostCommonTranslation)) {

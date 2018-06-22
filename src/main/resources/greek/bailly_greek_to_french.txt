@@ -105,7 +105,8 @@
 αρτ@noun!ος-ου%1(noun)=pain
 αρχ@noun!η-ης%1(noun)=principe,origine%2(noun)=point de depart%3(noun)=extremite finale,recapitulation,total%4(noun)=commandement,pouvoir,autorite%5(noun)=commencement
 αρκε@verb!norm%1(verb)=assister%2(verb)=ecarter
-αρχ@verb!norm%1(verb)=commencer
+αρχ@verb!norm%1(verb)=gouverner%2(verb)=commencer
+αρχετωσαν@noun!inv%1(noun)=qu'ils gouvernent
 αρχιερε@noun!υς-ως%1(noun)=grand prêtre
 ασαφ@noun!inv%1(noun)=asa
 ασθεν@verb!norm%1(verb)=etrefaible
@@ -410,9 +411,11 @@
 κιονι@noun!inv%1(noun)=colonne
 κλαι@verb!norm%1(verb)=pleurer
 κλητ@noun!ος-ου%1(noun)=invoqué%2(noun)=choisi%3(noun)=appelé
+πολιτει@noun!α-ας%1(noun)=façon d'être%2(noun)=citoyenneté
 κομισας@noun!inv%1(noun)=pris en compte
 κορινθ@noun!ος-ου%1(noun)=corinthe
 κοσμ@noun!ος-ου%1(noun)=monde
+κοσμε@verb!norm%1(verb)=arranger
 κοτταλ@noun!ος-ου%1(noun)=kottalos
 κρατ@verb!norm%1(verb)=dominer
 κρατουμεν@noun!η-ης%1(noun)=prisonnier
@@ -420,7 +423,7 @@
 κριτ@noun!ης-ου%1(noun)=juge
 κροκοδειλ@noun!ος-ου%1(noun)=crocodile
 κρον@noun!ος-ου%1(noun)=temps
-κτην@noun!ος-ους%1(noun)=animal domestique
+κτην@noun!ος-εος%1(noun)=animal domestique
 κυλινδροειδ@noun!ης-ου%1(noun)=cylindre
 κυκλ@noun!ος-ου%1(noun)=roue%2(noun)=cercle%3(noun)=anneau
 κυρι@noun!ος-ου%1(noun)=Dieu%2(noun)=seigneur
@@ -671,6 +674,7 @@
 σαταν@noun!ας-ου%1(noun)=satan
 σαφως@prep%1(prep)=de façon sûre
 σεμνως@prep%1(prep)=respectueusement
+σεβασμι@noun!ος-ου%1(noun)=honorable
 σελην@noun!η-ης%1(noun)=mois%2(noun)=lune
 σεμν@noun!ος-η-ον%1(noun)=saint
 σημει@noun!ον-ου%1(noun)=signe

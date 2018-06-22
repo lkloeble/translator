@@ -705,6 +705,6 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
     public void test_failed_ones() {
         assertTrue(true);
         //checkInMaps("clement2G", translatorBridge);
-        checkInMaps("toto", translatorBridge);
+        checkInMaps("clement2H", translatorBridge);
     }
 }
