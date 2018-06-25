@@ -215,7 +215,7 @@ ecarter@NORM%[INFINITIVE]=[écarter]%[IPR]=[écarte,écartes,écarte,écartons,�
 echanger@NORM%[INFINITIVE]=[échanger]%[IPR]=[échange,échanges,échange,échangeons,échangez,échangent]%[PAP]=[échangé]
 ecouter@NORM%[IPR]=[écoute,écoutes,écoute,écoutons,écoutez,écoutent]%[PAP]=[écouté]%[INFINITIVE]=[écouter]
 ecraser@NORM%[INFINITIVE]=[écraser]%[IPR]=[écrase,écrases,écrase,écrasons,écrasez,écrasent]
-ecrire@NORM%[INFINITIVE]=[écrire]%[IPR]=[écris,écris,écrit,écrivons,écrivez,écrivent]%[PAP]=[écrit]%[AIP]=[écrivis,écrivis,écrivit,écrivîmes,écrivîtes,écrivirent]%[AII]=[écrivais,écrivais,écrivait,écrivions,écriviez,écrivaient]%[PERFMIDPASSINDI]=[ai été écrit,as été écrit,a été écrit,avons été écrits,avez été écrits,ont été écrits]
+ecrire@NORM%[INFINITIVE]=[écrire]%[IPR]=[écris,écris,écrit,écrivons,écrivez,écrivent]%[PAP]=[écrit]%[AIP]=[écrivis,écrivis,écrivit,écrivîmes,écrivîtes,écrivirent]%[AII]=[écrivais,écrivais,écrivait,écrivions,écriviez,écrivaient]%[PERFMIDPASSINDI]=[ai été écrit,as été écrit,a été écrit,avons été écrits,avez été écrits,ont été écrits]%[MIDPASSPLUPERFIND]=[avais été écrit,avais été écrit,avait été écrit,avions été écrits,aviez été écrits,avaient été écrits]
 editer@NORM%[INFINITIVE]=[éditer]%[IPR]=[édite,édites,édite,éditons,éditez,éditent]%[PAP]=[édité]%[AIP]=[éditai,éditas,édita,éditâmes,éditâtes,éditèrent]
 effacer@NORM%[IPR]=[efface,effaces,efface,effaçons,effacez,effacent]%[INFINITIVE]=[effacer]
 effectuer@NORM%[INFINITIVE]=[effectuer]%[IPR]=[effectue,effectues,effectue,effectuons,effectuez,effectuent]

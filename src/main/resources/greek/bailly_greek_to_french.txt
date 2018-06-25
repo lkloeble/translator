@@ -203,6 +203,7 @@
 διδασκαλ@noun!ος-ου%1(noun)=maître
 διδω@verb!norm%1(verb)=offrir
 δικαι@adj!ος-α-ον%1(adj)=équitable%2(adj)=juste
+δικαιωμ@noun!α-ατος%1(noun)=précepte
 δικαιοσυν@noun!η-ης%1(noun)=justice
 διο@prep%1(prep)=par quoi
 διωκ@verb!norm%1(verb)=poursuivre%2(verb)=persecuter
@@ -265,6 +266,7 @@
 επεντιθη@verb!norm%1(verb)=ajouter
 επι@prep%1(prep)=au temps de%2(prep)=sur
 επιβαιν@verb!norm%1(verb)=etresur
+επιacc@prep%1(prep)=au temps de%2(prep)=à côté%3(prep)=dans le cas où%4(prep)=sous l'autorité de%5(prep)=sur
 επιgen@prep%1(prep)=au temps de%2(prep)=à côté%3(prep)=dans le cas où%4(prep)=sous l'autorité de%5(prep)=sur
 επιdat@prep%1(prep)=au temps de%2(prep)=à côté%3(prep)=dans le cas où%4(prep)=sous l'autorité de%5(prep)=sur
 επιγινωσκ@verb!norm%1(verb)=reconnaitre
@@ -650,6 +652,7 @@
 προσεχ@verb!norm%1(verb)=amener
 προσκυν@verb!norm%1(verb)=adorer
 προσφερ@verb!norm%1(verb)=apporter%2(verb)=offrir
+προσταγμ@noun!α-ατος%1(noun)=commandement
 πυνθαν@verb!norm%1(verb)=apprendre%2(verb)=demander
 πρωι@prep%1(prep)=tôt le matin
 πρωτ@adj!ος-η-ον%1(adj)=premier
