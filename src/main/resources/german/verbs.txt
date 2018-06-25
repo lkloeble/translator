@@ -118,6 +118,7 @@ fahr,en,[leben],(AIP*fahr*fuhr*0)
 fang,en,[leben]
 fass,en,[leben],(PAP*fass*gefasst*0)
 fast,en,[segnen]
+festhalt,en,[gelten]
 feststeh,en,[stehen]
 feststell,en,[leben]
 feucht,en,[leben],(AII*feucht*feuchte*0)

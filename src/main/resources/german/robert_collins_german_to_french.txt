@@ -45,6 +45,7 @@ alter@noun!ausreichend%1(adj)=plus vieux
 altest@adj!ausreichend%1(adj)=le plus vieux
 am@prep%1(prep)=au
 amerikanisch@adj!ausreichend%1(adj)=américain
+amtsbezeichnung@noun!inv%1(noun)=qualité%2(noun)=titre
 an@prep%1(noun)=sur
 analytisch@adj!ausreichend%1(adj)=analytique
 anarchisch@adj!ausreichend%1(adj)=anarchique
@@ -558,6 +559,7 @@ fern@adj!ausreichend%1(noun)=éloigné
 fertig@adj!ausreichend%1(noun)=terminé
 fest@adj!ausreichend%1(noun)=solide
 feste@noun!flasche%1(noun)=place forte%2(noun)=étendue
+festhalt@verb!norm%1(verb)=tenir%2(verb)=retenir
 feststeh@verb!norm%1(verb)=etreclair
 feststell@verb!norm%1(verb)=declarer%2(verb)=determiner
 feststellung@noun!meinfem%1(noun)=détermination
@@ -690,6 +692,7 @@ gernhaben@verb!irrg%1(verb)=aimer
 gering@adj!ausreichend%1(adj)=petit
 geringer@adj!ausreichend%1(adj)=plus petit
 geruhmt@adj!ausreichend%1(adj)=vanté
+gesalbte@adj!inv%1(adj)=oint
 gesammelt@adj!ausreichend%1(adj)=réuni%2(adj)=assemblé
 gesamt@adj!ausreichend%1(adj)=total%2(adj)=complet%3(adj)=entier
 gesamtheit@noun!meinfem%1(noun)=totalité
@@ -770,6 +773,7 @@ heb@verb!norm%1(verb)=elever
 hebraisch@adj!ausreichend%1(adj)=hébreu
 heer@noun!meer%1(noun)=armée
 heg@verb!norm%1(verb)=former
+heil@noun!jahrzehnt%1(noun)=chance%2(noun)=salut
 heilig@verb!norm%1(verb)=justifier%2(verb)=sanctifier
 heiligkeit@noun!meinfem%1(noun)=sainteté
 heiligtum@noun!heiligtum%1(noun)=sanctuaire

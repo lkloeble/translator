@@ -806,10 +806,10 @@ lightfoot_ch652=>In the destruction of the first, she brought eighty thousand ar
 
 lightfoot_ch701=>|I|. Of |Kadesh|, or |Rekam|, in the south part, there is no doubt.
 lightfoot_ch702=>II. Of it, in the eastern part, there is this mention:
-lightfoot_ch703=>"From Rekam to the east, and Rekam is as the east": that is, R. Nissim interpreting,
-lightfoot_ch704=>"Rekam itself is reckoned for the east of the world" (that is, for the land of the heathen),
-lightfoot_ch705=>"not for the land of Israel." Behold! a Rekam, or a Kadesh, also, on the east.
-lightfoot_ch706=>But the maps have feigned to themselves another Kadesh, besides Barnea, and this eastern Rekam;
+lightfoot_ch703=>"From |Rekam| to the east, and |Rekam| is as the east": that is, R. Nissim interpreting,
+lightfoot_ch704=>"|Rekam| itself is reckoned for the east of the world" (that is, for the land of the heathen),
+lightfoot_ch705=>"not for the land of Israel." Behold! a |Rekam|, or a |Kadesh|, also, on the east.
+lightfoot_ch706=>But the maps have feigned to themselves another |Kadesh|, besides |Barnea|, and this eastern |Rekam|;
 lightfoot_ch707=>whither, they think, the people of Israel came in the fortieth year of their travel, Numbers 20.
 lightfoot_ch708=>These, we suppose, were some of the reasons, whereby the authors of them were drawn to it.
 lightfoot_ch709=>I. Because Kadesh-barnea was in the desert of Paran, Numbers 12:16, 14:1.

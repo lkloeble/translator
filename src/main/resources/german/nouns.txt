@@ -34,6 +34,7 @@ alter@adj%ausreichend
 altar@masc%phanomen
 altest@adj%ausreichend
 amerikanisch@adj%ausreichend
+amtsbezeichnung@fem%inv
 analytisch@adj%ausreichend
 anarchisch@adj%ausreichend
 ander@adj%ausreichend
@@ -427,6 +428,7 @@ gerichtsbeschluss@neut%inv
 gering@adj%ausreichend
 geringer@adj%ausreichend
 geruhmt@adj%ausreichend
+gesalbte@adj%inv
 gesamt@adj%ausreichend
 gesammelt@adj%ausreichend
 gesamtheit@fem%meinfem
@@ -490,6 +492,7 @@ hauptwasser@neut%inv
 haus@neut%licht
 hebraisch@adj%ausreichend
 heer@neut%meer
+heil@neut%jahrzehnt
 heiligkeit@fem%meinfem
 heiligtum@neut%heiligtum
 heim@neut%meer

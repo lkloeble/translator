@@ -806,9 +806,9 @@ lightfoot_ch652=>dans le destruction de le premier, elle apporta quatre-vingt mi
 
 lightfoot_ch701=>i. de kadesh, ou rekam, dans le sud partie(e)@sépare@, il y a non doute.
 lightfoot_ch702=>II. de cela, dans le oriental partie(e)@sépare@, il y a ce mentionne :
-lightfoot_ch703=>foobar
-lightfoot_ch704=>foobar
-lightfoot_ch705=>foobar
+lightfoot_ch703=>de rekam  le est, et rekam est en tant que le est : ce est, r. nissim interprètant,
+lightfoot_ch704=>rekam lui-même est compté pour le est de le monde ( ce est, pour le terre de le païen ),
+lightfoot_ch705=>pas pour le terre de israel. regarde un rekam, ou un kadesh, aussi, sur le est.
 lightfoot_ch706=>foobar
 lightfoot_ch707=>foobar
 lightfoot_ch708=>foobar
