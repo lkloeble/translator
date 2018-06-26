@@ -256,6 +256,7 @@ duodecim@adj%inv
 duos@adj%inv
 edit@adj%us-a-um
 ecclesi@fem%a-ae
+effect@adj%us-a-um
 effeminand@adj%us-a-um
 effus@adj%us-a-um
 elect@adj%us-a-um
@@ -412,6 +413,7 @@ instituend@adj%us-a-um
 institut@neut%um-i
 insul@fem%a-ae
 interit@masc%us-us
+invent@adj%us-a-um
 invict@adj%us-a-um
 invictissim@adj%us-a-um
 ips@adj%e-a-um
@@ -751,6 +753,7 @@ sanctissim@adj%us-a-um
 sangui@masc%s-nis
 sanguine@adj%us-a-um
 sardini@fem%a-ae
+satiat@adj%us-a-um
 scel@neut%us-eris
 scienti@fem%a-ae
 schisma@neut%x-tis

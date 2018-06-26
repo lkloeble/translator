@@ -211,6 +211,7 @@ circa@prep%1(prep)=autour
 circueo@verb!norm%1(verb)=circuler
 circum@prep%1(prep)=autour
 circumspicio@verb!norm%1(verb)=regarder
+circumsto@verb!norm%1(verb)=entourer
 cito@prep%1(prep)=bientôt%2(prep)=rapidement
 civit@noun!as-atis%1(noun)=citoyen
 clar@adj!us-a-um%1(adj)=clair,brillant%2(adj)=glorieux,fameux%3(adj)=célèbre
@@ -411,6 +412,7 @@ ecclesi@noun!a-ae%1(noun)=assemblee cultuelle des premiers chretiens%2(noun)=egl
 edit@adj!us-a-um%1(adj)=edite
 edo@verb!norm%1(verb)=publier
 edoceo@verb!norm%1(verb)=instruire
+effect@adj!us-a-um%1(adj)=complété%2(adj)=terminé
 effeminand@adj!us-a-um%1(adj)=enervé%2(adj)=emasculé%3(adj)=féminisé
 effero@verb!norm%1(verb)=apporter
 efficio@verb!norm%1(verb)=devenir
@@ -669,6 +671,7 @@ inscribo@verb!norm%1(verb)=inscrire
 inspiro@verb!norm%1(verb)=souffler
 instituend@adj!us-a-um%1(adj)=institué
 institut@noun!um-i%1(noun)=habitude%2(noun)=institution%3(noun)=coutûme
+insto@verb!norm%1(verb)=poursuivre
 insul@noun!a-ae%1(noun)=immeuble%2(noun)=île
 intelligo@verb!norm%1(verb)=comprendre
 inter@prep%1(prep)=durant%2(prep)=entre
@@ -680,6 +683,7 @@ interrogo@verb!norm%1(verb)=interroger
 intro@verb!norm%1(verb)=pénéter%2(verb)=entrer
 invalesco@verb!norm%1(verb)=serenforcer
 invenio@verb!norm%1(verb)=découvrir%2(verb)=trouver
+invent@adj!us-a-um%1(adj)=découvert
 invict@adj!us-a-um%1(adj)=invaincu
 invictissim@adj!us-a-um%1(adj)=le plus invaincu
 invoco@verb!norm%1(verb)=invoquer,appeler%2(verb)=appeler,nommer%3(verb)=invoquer
@@ -1201,6 +1205,7 @@ sanctissim@adj!us-a-um%1(adj)=le plus saint
 sangui@noun!s-nis%1(noun)=sang
 sanguine@adj!us-a-um%1(noun)=sanglant
 sardini@noun!a-ae%1(noun)=sardaigne
+satiat@adj!us-a-um%1(noun)=satisfait
 satio@verb!norm%1(verb)=satisfaire
 satis@prep%1(prep)=suffisament
 scel@noun!us-eris%1(noun)=crime
@@ -1374,6 +1379,7 @@ tuscul@noun!um-i%1(noun)=grain d'encens%2(noun)=tusculane
 tyrann@noun!us-i%1(noun)=tyran
 tuus@prep%1(prep)=ton
 ubi@prep%1(adv)=ou%2(adv)=dans lequel%3(conj)=quand, lorsque4(conj + subj)=du moment que%5(adv)=où
+ubique@prep%1(adv)=partout
 umbr@noun!a-ae%1(noun)=ombre
 umer@noun!us-i%1(noun)=dos%2(noun)=umérus (os)%3(noun)=épaule
 un@adj!us-a-um%1(adj)=un
