@@ -417,6 +417,7 @@ footnote@neut%normmasc
 footstep@neut%normmasc
 foreign@adj%invmasc
 form@fem%normfem
+fortieth@neut%invmasc
 forty@neut%invmasc
 four@neut%invmasc
 fourth@neut%invmasc

@@ -128,6 +128,7 @@ extend,[call]
 face,[live]
 fall,[live],(AIP*falld*fell*0@PAP*falld*fallen*0)
 fear,[call]
+feign,[call]
 fight,[live]
 fill,[live]
 finish,[call]

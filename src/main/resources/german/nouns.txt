@@ -620,6 +620,7 @@ kloss@neut%inv
 komisch@adj%ausreichend
 kommunikation@fem%meinfem
 kongress@neut%inv
+konig@masc%phanomen
 konstanz@neut%inv
 kontrapunktischen@neut%inv
 konzert@neut%inv
@@ -1086,6 +1087,7 @@ tiefst@adj%ausreichend
 tiefe@fem%norm
 tier@masc%meer
 tisch@masc%meer
+titel@masc%arbeiter
 tipp@masc%tipp!agenitive
 tochter@fem%invfem[genplr:tochtern]
 tod@masc%phanomen

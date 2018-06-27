@@ -107,7 +107,7 @@ errat,en,[werden]
 erreg,en,[leben]
 erreich,en,[leben]
 erprob,en,[leben]
-erschein,en,[leben]
+erschein,en,[leben],(PAP*erschein*erschienen*0)
 erwachs,en,[genesen],(AII*erwachs*erwuchs*0)
 erwahn,en,[leben]
 erwerb,en,[rufen],(AIP*erwe*erwa*0)
@@ -294,6 +294,7 @@ verbind,en,[mochten],(AIP*verbind*verband*0)
 vergess,en,[wollen]
 verhalt,en,[halten]
 verheirat,en,[segnen],(PAP*verheirat*verheiratet*0)
+verheiss,en,[leben],(PAP*verheiss*verheissen*0)
 verlang,en,[leben]
 verletz,en,[pflanzen]
 verlier,en,[leben],(PAP*verlier*verloren*0)

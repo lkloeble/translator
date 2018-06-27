@@ -580,6 +580,7 @@ favourite@noun!normmasc%1(noun)=favori
 fear@noun!normmasc%1(noun)=peur
 fear@verb!norm%1(verb)=craindre
 feare@noun!normmasc%1(noun)=peur
+feign@verb!norm%1(verb)=feindre%2(verb)=simuler
 female@noun!normmasc%1(noun)=femelle
 few@prep%1(prep)=peu
 fiction@noun!normfem%1(noun)=fiction
@@ -627,6 +628,7 @@ form@noun!normmasc%1(noun)=forme
 form@verb!norm%1(verb)=former
 fortunately@prep%1(prep)=heureusement
 forward@prep%1(prep)=avant
+fortieth@noun!invmasc%1(noun)=quarantième
 forty@noun!invmasc%1(noun)=quarante
 four@noun!invmasc%1(noun)=quatre
 fourth@noun!invmasc%1(noun)=quatrième
@@ -1738,6 +1740,8 @@ whole@noun!invmasc%1(noun)=entier
 wholly@prep%1(prep)=entièrement
 whom@prep%1(prep)=que
 whose@prep%1(prep)=duquel
+without@prep%1(prep)=sans
+whither@prep%1(prep)=dans quel but
 whosoever@prep%1(prep)=quiconque
 why@prep%1(prep)=pourquoi
 wife@noun!normfem%1(noun)=femme%2(noun)=épouse
@@ -1748,7 +1752,6 @@ win@verb!norm%1(verb)=gagner
 wit@prep%1(prep)=à savoir
 with@prep%1(prep)=avec
 within@prep%1(prep)=à l'intérieur de%2(prep)=dans
-without@prep%1(prep)=sans
 widely@prep%1(prep)=largement
 wine@noun!normmasc%1(noun)=vin
 wink@noun!normmasc%1(noun)=clin d'oeil
