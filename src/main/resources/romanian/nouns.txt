@@ -200,6 +200,7 @@ dreapta@neut%inv
 drept@adj%adjts
 drept@masc%ul
 dreptate@neut%inv
+drum@masc%ul
 dumneavoastra@neut%inv
 dumnezeu@neut%inv
 dumnezeul@neut%inv
@@ -353,6 +354,7 @@ lucrator@masc%ul
 lum@fem%berea
 lumin@fem%fem
 lun@fem%fem
+lung@adj%adj
 lup@masc%ul
 m@neut%inv
 macrocosmos@masc%ul
@@ -407,6 +409,7 @@ mostenire@fem%fem
 motiv@masc%ul
 mult@adj%adjts
 multsumesc@neut%inv
+multsumir@fem%ratsiune
 mun@fem%capacitate
 munt@masc%frate
 muscat@fem%fem
@@ -500,6 +503,7 @@ poft@fem%fem
 politic@adj%adj
 politsist@adj%adj
 popescu@masc%inv
+porc@masc%ul
 portocal@fem%fem
 post@fem%fem
 potrivit@neut%inv
@@ -695,6 +699,7 @@ valor@adj%pacatos
 valorificare@neut%inv
 vampir@masc%ul
 vanatoare@fem%inv
+varietate@fem%ereditate
 vatamato@adj%adjr
 vazut@adj%adj
 veac@neut%ul
@@ -706,6 +711,7 @@ vesel@adj%adj
 veterinar@masc%ul
 viats@fem%fem
 vie@fem%fem[nomsing(a):vie,nomsing(b):via,nomplr(a):vii,nomplr(b):viile,gensing(a):viei]
+vier@masc%ul
 vin@masc%ul
 vinatoare@fem%inv
 virst@fem%fem

@@ -4,3 +4,4 @@ gen%sing%masc%ului
 noma%plr%masc%ete
 nomb%plr%masc%etele
 nomc%plr%masc%e
+nomd%plr%masc%ele

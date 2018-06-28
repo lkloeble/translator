@@ -71,6 +71,7 @@ consecr,o,as,are,,,[o-as]
 conserv,o,as,are,,,[o-as]
 consign,o,as,are,,,[o-as]
 consisc,o,is,ere,,,[o-is],(AIFP*consiscs*consciv*0)
+consist,o,is,ere,,,[o-is]
 constitu,o,is,ere,,,[o-is],(IAP*constituidi*constitui*0)
 consum,o,is,ere,,,[o-is],(IAP*consum*consumps*0)
 contend,o,is,ere,,,[o-is]

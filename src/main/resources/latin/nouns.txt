@@ -1,4 +1,5 @@
 abject@adj%us-a-um
+admirabil@adj%is-is-e
 abominand@adj%us-a-um
 abrogat@adj%us-a-um
 abus@adj%us-a-um
@@ -16,6 +17,7 @@ adferen@masc%s-tis
 adorand@adj%us-a-um
 adult@adj%us-a-um
 advers@adj%us-a-um
+adversari@masc%us-i
 adyt@neut%um-i
 aedifici@neut%um-i
 aegypt@fem%us-i
@@ -30,6 +32,7 @@ afric@fem%a-ae
 ag@masc%er-ri
 agn@masc%us-i
 ale@fem%a-ae
+alexandrin@adj%us-a-um
 ali@adj%us-a-um
 ali@adj%us-a-ud
 alter@adj%us-a-um
@@ -610,7 +613,7 @@ pad@masc%us-i
 pagan@adj%us-a-um
 palm@fem%a-ae
 pap@fem%a-ae
-par@fem%s-tis2
+par@adj%is-is-e[nomsing:par]
 paradis@masc%us-i
 parat@adj%us-a-um
 parati@adj%or-or-us
@@ -776,6 +779,7 @@ septim@adj%us-a-um
 sequan@masc%us-i
 sequan@fem%a-ae
 serv@masc%us-i
+servator@masc%x-is2
 serviend@adj%us-a-um
 severi@adj%or-or-us
 sex@neut%inv

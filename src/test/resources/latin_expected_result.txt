@@ -739,8 +739,8 @@ patrologiacaput3A10=>plus facile puissent compris, earumdem haereswn ( [XXX] [XX
 patrologiacaput3A11=>avancée et ruine bref, mais célèbre et bien préparé (du) expliqué@expliqué(s)@ sont.
 patrologiacaput3A12=>simon magicien premier(e) entre chrétien(s), comme irénée, eusèbe, épiphane et Théodoret se souviennent,
 patrologiacaput3A13=>hérésie inventa, et répandit :
-patrologiacaput3A14=>foobar
-patrologiacaput3A15=>foobar
+patrologiacaput3A14=>comme (aux) grand(s)@(par) grand(s)(e)@grand@, dit eusèbe, et (par) admirable(s)@admirable@admirable(e)@, (du) observateur notre(s) apotre(s) semblable adversaire stoppe.
+patrologiacaput3A15=>(par) qui(e) donc (par) explication clément alexandrien ce hérésie non avant sacrifié siècle suivant,
 patrologiacaput3A16=>foobar
 patrologiacaput3A17=>foobar
 patrologiacaput3A18=>foobar
@@ -970,4 +970,4 @@ spinozaethi1F=>foobar
 spinozaethi1G=>foobar
 spinozaethi1H=>foobar
 
-toto=>n'importe où souffrissent
+toto=>semblable

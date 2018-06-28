@@ -130,6 +130,7 @@ public class NounRepository {
         if(!form.contains("[")) {
             return Collections.EMPTY_MAP;
         }
+        if(gender.equals(new Gender(Gender.ADJECTIVE))) gender = new Gender(Gender.MASCULINE);
         String exceptionsListed = form.split("\\[")[1];
         exceptionsListed = exceptionsListed.replace("]","");
         String[] exceptionsSplitted = exceptionsListed.split("\\,");

@@ -1,6 +1,7 @@
 ﻿a@prep%1(prep + abl)=de (avec point de départ et idee de mouvement)%2(prep + abl)=de (avec eloignement, separation)%3(prep + abl)=du cote de,a partir de%4(prep + abl)=jugement d'apres,du fait que%5(prep + abl)=depuis,aussitot apres%6(prep + abl)=en raison de,sous l'action de%7(prep + abl)=en provenance de
 ab@prep%1(prep + abl)=de (avec point de départ et idee de mouvement)%2(prep + abl)=de (avec eloignement, separation)%3(prep + abl)=du cote de,a partir de%4(prep + abl)=jugement d'apres,du fait que%5(prep + abl)=depuis,aussitot apres%6(prep + abl)=en raison de,sous l'action de%7(prep + abl)=en provenance de
 abject@adj!us-a-um%1(adj)=rejetté
+admirabil@adj!is-is-e%1(adj)=admirable
 abominand@adj!us-a-um%1(adj)=détesté
 abrogat@adj!us-a-um%1(adj)=abrogé
 abus@adj!us-a-um%1(adj)=détourné%2(adj)=gaspillé%3(noun)=consommé
@@ -35,6 +36,7 @@ adhuc@prep%1(prep)=jusqu'à maintenant
 adorand@adj!us-a-um%1(adj)=adoré
 adoro@verb!norm%1(verb)=admirer%2(verb)=adorer%3(verb)=accuser%4(verb)=negocier
 advers@adj!us-a-um%1(adj)=adverse
+adversari@noun!us-i%1(noun)=adversaire
 adult@adj!us-a-um%1(adj)=brûlé%2(adj)=sacrifié
 advenio@verb!norm%1(verb)=arriver
 adyt@noun!um-i%1(noun)=saint des saints
@@ -54,6 +56,7 @@ ag@noun!er-ri%1(noun)=champ
 agn@noun!us-i%1(noun)=agneau
 aio@verb!irrg%1(verbe)=dire
 ale@noun!a-ae%1(noun)=dé
+alexandrin@adj!us-a-um%1(adj)=alexandrien
 ali@adj!us-a-um%1(adj)=un
 ali@adj!us-a-ud%1(adj)=autre
 aliquando@prep%1(prep)=finalement%2(prep)=quelques fois
@@ -257,6 +260,7 @@ consecro@verb!norm%1(verb)=sanctifier%2(verb)=consacrer
 conservo@verb!norm%1(verb)=preserver%2(noun)=garder
 consigno@verb!norm%1(verb)=signer
 consisco@verb!norm%1(verb)=resoudre%2(verb)=approuver
+consisto@verb!norm%1(verb)=stopper
 consili@noun!um-i%1(noun)=conseil%2(noun)=plan
 constan@adj!s-s-s%1(adj)=constant
 constitut@noun!um-i%1(noun)=accord%2(noun)=arrangement
@@ -572,6 +576,7 @@ habito@verb!norm%1(verb)=habiter
 hac@prep%1(prep)=cette
 haec@prep%1(prep)=ces
 haeres@noun!is-is%1(noun)=hérésie
+hanc@prep%1(prep)=ce
 hebrae@adj!us-a-um%1(adj)=judeen%2(adj)=hebreu
 helveti@adj!us-a-um%1(adj)=helvète
 herb@noun!a-ae%1(noun)=herbe
@@ -952,9 +957,10 @@ ov@noun!um-i%1(noun)=oeuf
 pa@noun!x-cis%1(noun)=paix
 pad@noun!us-i%1(noun)=po
 pagan@adj!us-a-um%1(adj)=paien%2(adj)=rural
-pap@noun!a-ae%1(noun)=pape
 palam@prep%1(prep)=ouvertement
 palm@noun!a-ae%1(noun)=paume
+pap@noun!a-ae%1(noun)=pape
+par@adj!is-is-e%1(adj)=semblable
 par@noun!s-tis2%1(noun)direction%2(noun)=pièce%3(noun)=part
 paradis@noun!us-i%1(noun)=jardin%2(noun)=paradis
 pareo@verb!norm%1(verb)=obeir
@@ -1243,6 +1249,7 @@ sequan@noun!a-ae%1(noun)=seine
 sequen@adj!s-s-s%1(noun)=suivant
 sequor@verb!norm%1(verb)=suivre
 serv@noun!us-i%1(noun)=esclave
+servator@noun!x-is2%1(noun)=observateur
 serviend@adj!us-a-um%1(adj)=qui doit être servi
 servo@verb!norm%1(verb)=préserver%2(verb)=garder
 sese@prep%1(num)=lui-même

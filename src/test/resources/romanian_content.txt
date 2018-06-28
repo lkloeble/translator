@@ -542,7 +542,7 @@ patericulegyptantonia2E=>Și am văzut suflete zburând ca niște păsări.
 patericulegyptantonia2F=>Cele ce zburau deasupra mâinilor și capului uriașului se mântuiau.
 patericulegyptantonia2G=>Dimpotrivă, cele ce erau prinse de mâinile lui cădeau în lac.
 patericulegyptantonia2H=>Și a ajuns la mine un glas care a zis :
-patericulegyptantonia2I=>"aceste suflete, pe care le vzei zburând mai sus de acela, sunt sufletele drepților care se mântuiesc în rai.
+patericulegyptantonia2I=>"aceste suflete, pe care le vezi zburând mai sus de acela, sunt sufletele drepților care se mântuiesc în rai.
 patericulegyptantonia2J=>Iar celelalte sunt atrase în iad, urmând voilor trupului și ținerii de minte a răului.
 
 ana=>eu am un ziar roz

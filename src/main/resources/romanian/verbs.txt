@@ -12,6 +12,7 @@ amuz,,[bea]
 apar,,[face]
 apreci,,[aprecia]
 aprind,,[merg],(IPR1*di*zi*1)
+apropri,,[aprecia]
 arat,,[incerca]
 arunc,,[incerca]
 as,,[aprecia]
@@ -28,6 +29,7 @@ cant,,[cauta]
 castig,,[incerca]
 caut,,[cauta]
 cer,,[face],(CONJ25*cer*cear*0)
+cercet,,[fumez]
 chem,a,[cauta],(PAP*chem*chemat*0)
 cint,,[cauta]
 cit,,[aciti]
@@ -116,6 +118,7 @@ obos,,[locuiesc]
 omor,i,[merg]
 opr,i,[aciti]
 organiz,,[fumez]
+pas,,[cresc],(PAP*pas*pascut*0)
 pastr,a,[fumez]
 pedeps,i,[locuiesc]
 pierd,e,[merg],(AII*pie*pia*0)
@@ -146,6 +149,7 @@ rezum,,[incerca]
 rod,,[locuiesc]
 rug@IRREGULAR%[PAPR]=[rugandu]%[PAP]=[rugat]
 sad,,[locuiesc],(PAP*sad*sadit*0)
+savirs,,[primi]
 scri,,[scrie]
 scul@IRREGULAR%[PAPR]=[sculandu]
 serv,,[mantui]
@@ -159,6 +163,7 @@ sparg,,[merg]
 spun,,[face],(IPR1*uni*ui*1@PAP*spunut*spus*0)
 sta,,[stiu]
 sti,,[stiu],(AIPP*sti*stius*0)
+stric,,[incerca]
 strig,,[incerca]
 string,,[merg],(MMCP*string*strins*0)
 studi,a,[fumez]
