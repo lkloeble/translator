@@ -486,6 +486,7 @@
 μην@prep%1(prep)=absolument
 μητ@noun!ηρ-ερος%1(noun)=terre nourricière%2(noun)=femme âgée%3(noun)=mère
 μητε@prep%1(prep)=ni
+μητροδωρ@noun!ος-ου%1(noun)=métrodore
 μισ@verb!norm%1(verb)=hair
 μισθ@noun!ος-ου%1(noun)=salaire%2(noun)=récompense
 μνηστ@verb!norm%1(verb)=epouser%2(verb)=sefiancer
@@ -611,6 +612,7 @@
 πιστ@noun!ις-εως%1(noun)=foi%2(noun)=confiance
 πιστ@noun!η-ης%1(noun)=foi%2(noun)=confiance
 πιστευ@verb!norm%1(verb)=avoir foi%2(verb)=croire
+πλανητ@noun!ης-ου%1(noun)=vagabond%2(noun)=planète
 πληκτρ@noun!ον-ου%1(noun)=plectre
 πληρ@adj!ης-ης-ες%1(adj)=accompli
 πλησιον@noun!inv%1(adj)=proche
@@ -833,6 +835,7 @@
 χαρι@noun!ς-τος%1(noun)=grâce
 χειρ@noun!x-ος2%1(noun)=main
 χηρ@noun!α-ας%1(noun)=veuve
+χι@noun!ος-ου%1(noun)=chio
 χορτ@noun!ος-ου%1(noun)=nourriture%2(noun)=foin%3(noun)=pâturage
 χρει@noun!α-ας%1(noun)=besoin
 χριστ@noun!ος-ου%1(noun)=Christ
