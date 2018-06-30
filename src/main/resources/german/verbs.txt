@@ -63,6 +63,7 @@ beurteil,en,[leben]
 beweis,en,[genesen],(AII*beweis*bewies*0)
 bewund,ern,[fordern]
 bezahl,en,[leben]
+bezeug,en,[leben]
 biet,en,[leben]
 blas,en,[genesen],(AII*bla*blie*0)
 bleib,en,[rufen],(AIP*blei*blie*0)
@@ -125,7 +126,7 @@ feucht,en,[leben],(AII*feucht*feuchte*0)
 find,en,[mochten],(PAP*find*gefunden*0@AIP*find*fand*0)
 fixier,en,[leben]
 flieg,en,[leben]
-fliess,en,[genesen]
+fliess,en,[genesen],(PAP*fliess*geflossen*0)
 folg,en,[leben]
 ford,ern,[fordern]
 frag,en,[leben],(PAP*frag*gefragt*0)

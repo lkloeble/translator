@@ -1358,6 +1358,7 @@ scrape@verb!norm%1(verb)=gratter
 scripture@noun!normfem%1(noun)=écriture
 sea@noun!normmasc%1(noun)=mer
 seaman@noun!normmasc%1(noun)=pêcheur%2(noun)=marin
+searcher@noun!normmasc%1(noun)=explorateur%2(noun)=chercheur
 seat@verb!norm%1(verb)=sasseoir
 sedgy@adj!invmasc%1(adj)=énervé
 sedition@noun!normmasc%1(noun)=sédition

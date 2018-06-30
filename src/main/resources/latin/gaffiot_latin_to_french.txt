@@ -960,8 +960,8 @@ pagan@adj!us-a-um%1(adj)=paien%2(adj)=rural
 palam@prep%1(prep)=ouvertement
 palm@noun!a-ae%1(noun)=paume
 pap@noun!a-ae%1(noun)=pape
-par@adj!is-is-e%1(adj)=semblable
 par@noun!s-tis2%1(noun)direction%2(noun)=pièce%3(noun)=part
+par@adj!is-is-e%1(adj)=semblable
 paradis@noun!us-i%1(noun)=jardin%2(noun)=paradis
 pareo@verb!norm%1(verb)=obeir
 pario@verb!norm%1(verb)=donnernaissance

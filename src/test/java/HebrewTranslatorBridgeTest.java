@@ -130,31 +130,6 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     }
 
     @Test
-    public void test_weingreen_chapter_38() {
-        checkInMaps("wein38A", translatorBridge);
-        checkInMaps("wein38B", translatorBridge);
-        checkInMaps("wein38C", translatorBridge);
-        checkInMaps("wein38D", translatorBridge);
-        checkInMaps("wein38E", translatorBridge);
-        checkInMaps("wein38F", translatorBridge);
-        checkInMaps("wein38G", translatorBridge);
-        checkInMaps("wein38H", translatorBridge);
-        checkInMaps("wein38I", translatorBridge);
-        checkInMaps("wein38J", translatorBridge);
-        checkInMaps("wein38K", translatorBridge);
-        checkInMaps("wein38L", translatorBridge);
-        checkInMaps("wein38M", translatorBridge);
-        checkInMaps("wein38N", translatorBridge);
-        checkInMaps("wein38O", translatorBridge);
-        checkInMaps("wein38P", translatorBridge);
-        checkInMaps("wein38Q", translatorBridge);
-        checkInMaps("wein38R", translatorBridge);
-        checkInMaps("wein38S", translatorBridge);
-        checkInMaps("wein38T", translatorBridge);
-        checkInMaps("wein38U", translatorBridge);
-    }
-
-    @Test
     public void test_weingreen_chapter_41() {
         checkInMaps("wein41A", translatorBridge);
         checkInMaps("wein41B", translatorBridge);

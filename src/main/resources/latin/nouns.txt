@@ -614,6 +614,7 @@ pagan@adj%us-a-um
 palm@fem%a-ae
 pap@fem%a-ae
 par@adj%is-is-e[nomsing:par]
+par@noun%s-tis2
 paradis@masc%us-i
 parat@adj%us-a-um
 parati@adj%or-or-us

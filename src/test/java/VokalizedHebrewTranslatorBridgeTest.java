@@ -394,8 +394,9 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "msth@masc%invmasc",
                 "m63t56'h60il@neut%invpur",
                 "nakl@masc%im",
-                "n56h63r@masc%mascot",
                 "n64b60ia@masc%im-ot",
+                "n56h63r@masc%mascot",
+                "n64y63r@masc%im",
                 "nts@masc%im",
                 "ybir@fem%ot",
                 "ywlm@masc%im",
@@ -765,6 +766,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "mtsa@verb!norm%1(verb)=etretrouve",
                 "nakl@noun!im%1(noun)=destiné à être mangé",
                 "n56h63r@noun!mascot%1(noun)=rivière",
+                "n64y63r@noun!im%1(noun)=jeune homme%2(noun)=garçon",
                 "nw@prep%1(prep)=nous",
                 "n64b60ia@noun!im-ot%1(noun)=prophète",
                 "ngd@verb!norm%1(verb)=dire",
@@ -773,6 +775,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "nkns@verb!norm%1(verb)=entrer",
                 "nxh@verb!norm%1(verb)=incliner",
                 "nxh2@verb!norm%1(verb)=incliner",
+                "nyr@verb!norm%1(verb)=braire",
                 "ntn@verb!norm%1(verb)=donner",
                 "ntn2@verb!norm%1(verb)=donner",
                 "nts@noun!im%1(noun)=faucon%2(noun)=floraison",
@@ -954,6 +957,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "nxh2,,[binyanhifil],(BINHIPER%substitute(1:2:3:6:7:8)%nxh2*xi*0@BINHIPER%substitute(4:5:9)%nxh2*x*0)",
                 "ntn,tt,[paal],(AIP%leadingrootletter%n*n64@AIP%secondletterroot%t*t63@AIP%sofitrootletter%n3*n000@AIP%alternateaccentuation(5:9)%t63*t56@AIP%alternateaccentuation(5)%56n*56n64@IPR%substitute%nt*nwt*0)",
                 "ntn2,,[nifal],(AIMP%substitute%ntn2*ntn*0)",
+                "nyr,,[paal]",
                 "ybr,,[paal]",
                 "ylh,,[paal],(IPR%substitute%yl*ywl*0)",
                 "ymd,,[paal],(ARAIPR%substitute%ym*ywm*0@AIF%substitute%ymd*ymwd*0)",
@@ -1736,6 +1740,51 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("wein35W2", translatorBridge);
     }
 
+    @Test
+    public void test_weingreen_chapter_38() {
+        checkInMaps("wein38A1", translatorBridge);
+        checkInMaps("wein38A2", translatorBridge);
+        checkInMaps("wein38B1", translatorBridge);
+        checkInMaps("wein38B2", translatorBridge);
+        checkInMaps("wein38C1", translatorBridge);
+        checkInMaps("wein38C2", translatorBridge);
+        checkInMaps("wein38D1", translatorBridge);
+        checkInMaps("wein38D2", translatorBridge);
+        checkInMaps("wein38E1", translatorBridge);
+        checkInMaps("wein38E2", translatorBridge);
+        checkInMaps("wein38F1", translatorBridge);
+        checkInMaps("wein38F2", translatorBridge);
+        checkInMaps("wein38G1", translatorBridge);
+        checkInMaps("wein38G2", translatorBridge);
+        checkInMaps("wein38H1", translatorBridge);
+        checkInMaps("wein38H2", translatorBridge);
+        checkInMaps("wein38I1", translatorBridge);
+        checkInMaps("wein38I2", translatorBridge);
+        checkInMaps("wein38J1", translatorBridge);
+        checkInMaps("wein38J2", translatorBridge);
+        checkInMaps("wein38K1", translatorBridge);
+        checkInMaps("wein38K2", translatorBridge);
+        checkInMaps("wein38L1", translatorBridge);
+        checkInMaps("wein38L2", translatorBridge);
+        checkInMaps("wein38M1", translatorBridge);
+        checkInMaps("wein38M2", translatorBridge);
+        checkInMaps("wein38N1", translatorBridge);
+        checkInMaps("wein38N2", translatorBridge);
+        checkInMaps("wein38O1", translatorBridge);
+        checkInMaps("wein38O2", translatorBridge);
+        checkInMaps("wein38P1", translatorBridge);
+        checkInMaps("wein38P2", translatorBridge);
+        checkInMaps("wein38Q1", translatorBridge);
+        checkInMaps("wein38Q2", translatorBridge);
+        checkInMaps("wein38R1", translatorBridge);
+        checkInMaps("wein38R2", translatorBridge);
+        checkInMaps("wein38S1", translatorBridge);
+        checkInMaps("wein38S2", translatorBridge);
+        checkInMaps("wein38T1", translatorBridge);
+        checkInMaps("wein38T2", translatorBridge);
+        checkInMaps("wein38U1", translatorBridge);
+        checkInMaps("wein38U2", translatorBridge);
+    }
 
     @Test
     public void test_bereshit_chapter1() {
@@ -1912,7 +1961,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failed_ones() {
         assertTrue(true);
-        checkInMaps("wein20G1", translatorBridge);
+        //checkInMaps("wein20G1", translatorBridge);
         checkInMaps("totoacc", translatorBridge);
         checkInMaps("toto", translatorBridge);
     }

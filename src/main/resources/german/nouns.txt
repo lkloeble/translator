@@ -210,6 +210,7 @@ demokratie@fem%flasche
 demokratisch@adj%ausreichend
 der@masc%inv
 dessentwillen@neut%inv
+determiniert@neut%inv
 deutsch@adj%ausreichend
 deutschland@fem%inv
 dezember@neut%inv
@@ -295,6 +296,7 @@ ermudung@fem%meinfem
 erneut@adj%ausreichend
 erste@neut%masc
 erstling@neut%inv
+erwartende@adj%ausreichend
 esra@neut%inv
 esras@neut%inv
 estrade@fem%flasche
@@ -347,6 +349,7 @@ flug@neut%meinmasc
 flugzeug@neut%meinmasc
 folge@fem%flasche
 folgerichtig@adj%ausreichend
+form@fem%meinfem
 formel@neut%masc
 fortfuhrung@fem%meinfem
 frage@fem%flasche
@@ -464,6 +467,7 @@ gottes@masc%inv
 gottlich@adj%ausreichend
 grad@neut%jahrzehnt
 gras@fem%inv
+grazisierte@adj%inv
 greisenhaft@adj%ausreichend
 grieche@masc%flasche
 griechentum@neut%arbeiter
@@ -487,6 +491,8 @@ hart@adj%ausreichend
 harte@fem%inv
 hass@masc%ort
 hasslich@adj%ausreichend
+haufig@adj%ausreichend
+haufiger@adj%ausreichend
 hauptstadt@fem%flasche
 hauptwasser@neut%inv
 haus@neut%licht
@@ -719,6 +725,7 @@ mein@adj%mein
 meister@masc%masc
 melancholie@neut%inv
 mensch@masc%meinmasc
+messias@masc%inv
 metaphysik@neut%inv
 metaphysisch@adj%ausreichend
 mid@neut%inv

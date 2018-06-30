@@ -939,6 +939,7 @@ scottish@neut%invmasc
 scripture@fem%normfem
 sea@fem%normfem
 seaman@masc%normmasc[nomplr:seamen]
+searcher@masc%normmasc
 season@fem%normfem
 seat@neut%normmasc
 section@fem%normfem

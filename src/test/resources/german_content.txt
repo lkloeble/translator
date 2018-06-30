@@ -435,8 +435,9 @@ strackp6par11A=>|grec| artikellos gebraucht (in Mt noch 1,16.18;27,12.22) hat de
 strackp6par11B=>während grec appellative Bedeutung ("der gesalbte") festhält u. so zur Amtsbezeichnung
 strackp6par11C=>oder zum Titel des im |AT| verheißenen u. in Jesu erschienenen@1 Königs der Heilszeit wird.
 strackp6par11D=>Daher übersetzte grec : Jesus Christus , grec : Jesus der Messias (Gesalbte), oder : der Messias Jesus.
-strackp6par11E=>Grec ist hebräisch hrebeu, aramäisch hebreu; determiniert hebreu;
-strackp6par11F=>aus der aramäischen Form ist das gräzisierte grec (John 1,41;4,25) geflossen, das häufiger bezeugt ist als das zunächst zu erwartende grec.
+strackp6par11E=>Grec ist hebräisch hebreu, aramäisch hebreu; determiniert hebreu;
+strackp6par11F1=>aus der aramäischen Form ist das gräzisierte grec (John 1,41;4,25) geflossen,
+strackp6par11F2=>das häufiger bezeugt ist als das zunächst zu erwartende grec.
 strackp6par11G=>– In der rabbinischen Literatur ist M. durchgängig Titel des endgeschichtlichten Heilskönigs.
 strackp6par11H=>Dabei läßt sich beobachten, daß bT meist das artikellose  hebreu, bezw das nichtdeterminierte hebreu gebraucht,
 strackp6par11I=>doch findet sich auch hebreu u. hbreu. Regelmäßig wird hebreu gesagt in der Verbindung hebreu « die Tage des Messias » = messiaszeit.
