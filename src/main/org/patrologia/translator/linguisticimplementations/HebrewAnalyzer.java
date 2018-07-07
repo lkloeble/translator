@@ -38,7 +38,8 @@ public class HebrewAnalyzer implements Analizer {
     }
 
     private String replaceExpressions(String sentence) {
-        return sentence.replace("hqb \" h", "hqbh");
+        String replace1 = sentence.replace("hqb \" h", "hqbh");
+        return replace1.replace("hqb?h", "hqbh");
     }
 
 

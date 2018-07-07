@@ -18,6 +18,7 @@ ask,[call]
 assert,[call]
 attain,[call]
 attempt,[call]
+avenge,[live]
 avoid,[call]
 backcome,[see],(AIP*backcome*backcame*0@PAPR*backcome*backcom*0)
 banish,[call]
@@ -65,6 +66,7 @@ command,[call]
 communicate,[live]
 compare,[live]
 compass,[call]
+complain,[call]
 complete,[live]
 compose,[live]
 comprehend,[call]
@@ -116,6 +118,7 @@ eat,[see],(AIP*eat*ate*0@PAP*eatd*eaten*0)
 edit,[call]
 embrace,[live]
 emulate,[live]
+encamp,[call]
 encourage,[live]
 end,[call]
 endure,[live],(PAPR*endurei*enduri*0)
@@ -160,6 +163,7 @@ heed,[call]
 help,[live]
 hide,[live],(AIP*hided*hid*0@PAP*hided*hidden*0)
 hope,[live]
+hurt,[call]
 imitate,[live],(PAPR*imitatei*imitati*0)
 improve,[live]
 include,[live]
@@ -179,6 +183,7 @@ leave,[live],(AIP*leaved*left*0)
 lie,[live],(PAPR*lie*ly*0)
 like,[live]
 limit,[call]
+listen,[call]
 live,[live]
 locate,[live]
 look,[live]
@@ -287,6 +292,7 @@ supplant,[call]
 support,[live]
 suppose,[live]
 survive,[live]
+sustain,[call]
 swallow,[call]
 swim,[swim]
 take,[live],(AIP*taked*took*0@PAP*taked*taken*0@AII*take*took*0@PAPR*take*tak*0)
@@ -314,6 +320,7 @@ upfollow,[live]
 uplay,[live],(AIP*uplayd*uplaid*0)
 uprise,[live],(AIP*uprised*uprose*0@PAPR*uprise*upris*0)
 use,[live]
+vary,[live]
 walk,[live]
 water,[call]
 want,[live]
@@ -321,6 +328,7 @@ wear,[live]
 weigh,[live]
 will,[live],(IPR*wills*will*0)
 would,[live],(IPR*woulds*would*0)
+wound,[call]
 win,[call]
 work,[call]
 write,[live],(PAP*writed*written*0)

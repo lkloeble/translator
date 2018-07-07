@@ -242,6 +242,7 @@ dukhan@neut%inv
 durchsicht@fem%meinfem
 durst@neut%inv
 dumm@neut%inv
+durchgangig@adj%ausreichend
 egoistisch@adj%inv
 ehe@fem%flasche
 ehelich@adj%ausreichend
@@ -269,6 +270,7 @@ eintragung@fem%meinfem
 einzeln@adj%ausreichend
 einzuraumen@neut%inv
 eltern@neut%inv
+end@neut%inv
 endemisch@adj%ausreichend
 entartung@neut%inv
 entbehrung@fem%meinfem
@@ -435,6 +437,7 @@ gesalbte@adj%inv
 gesamt@adj%ausreichend
 gesammelt@adj%ausreichend
 gesamtheit@fem%meinfem
+geschichtlich@adj%ausreichend
 geschlecht@neut%licht
 geschmack@masc%licht
 geschutzt@adj%ausreichend
@@ -895,6 +898,7 @@ rab@neut%inv
 rabbi@masc%inv[nomplr:rabbis]
 rabbinen@masc%inv
 rabbiner@masc%burger
+rabbinisch@adj%meinmasc
 rang@masc%meer
 rassismus@neut%inv
 rathaus@masc%norm

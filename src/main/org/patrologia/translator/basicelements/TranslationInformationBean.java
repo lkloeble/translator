@@ -1,5 +1,6 @@
 package org.patrologia.translator.basicelements;
 
+import org.patrologia.translator.basicelements.verb.InfinitiveBuilder;
 import org.patrologia.translator.basicelements.verb.Verb;
 import org.patrologia.translator.conjugation.RootedConjugation;
 import org.patrologia.translator.linguisticimplementations.DefaultLanguageSelector;
@@ -84,7 +85,7 @@ public class TranslationInformationBean {
                 '}';
     }
 
-    public Set<String> getConstructionName(String toTranslate, SpecificLanguageSelector specificLanguageSelector, Verb verb) {
+    public Set<String> getConstructionName(String toTranslate, Verb verb) {
 
         /*
         Map<String, String> result = nameForms.entrySet().
@@ -189,14 +190,14 @@ public class TranslationInformationBean {
     }
 
     //TODO : I lost the defaultLanguageSelector here. It wasn't useless
-    public List<String> getConstructionNameForInitialValue(String initialValue, DefaultLanguageSelector defaultLanguageSelector) {
+    public List<String> getConstructionNameForInitialValue(String initialValue, InfinitiveBuilder infinitiveBuilder) {
         /*
         Set<String> allConstructions = getConstructionName(initialValue, defaultLanguageSelector);
         return allConstructions.toArray()[0].toString().split("@")[1];
         */
         List<String> results = new ArrayList<>();
         for(RootedConjugation rootedConjugation : nameForms.values()) {
-            if(rootedConjugation.contains(initialValue)) results.add(rootedConjugation.getConstructionName());
+            if(rootedConjugation.contains(infinitiveBuilder.getInfinitiveFromInitialValue(initialValue))) results.add(rootedConjugation.getConstructionName());
         }
         return results;
     }

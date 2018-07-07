@@ -411,7 +411,7 @@ staniloae6L=>căci în lume nu există unele ca acestea.
 staniloae6M=>El își urmărește propriile sale scopuri.
 staniloae6N=>Iar în aceasta există o mare varietate de la om la om.
 staniloae6O=>Fiecare om, datorită conștiinței și libertății sale,
-staniloae6P=>se servește altfel de treptele inferiorare lui.
+staniloae6P=>se servește altfel de treptele inferioare lui.
 staniloae6Q=>Iar pentru a se servi de ele, omul organizează și prelucrează datele lumii,
 staniloae6R=>punând pecetea sa pe ele. Această adaptare a lumii la trebuințele omului,
 staniloae6S=>mereu sporite și mai rafinate, are nevoie în primul rând de cunoașterea lucrurilor de către om.
@@ -545,7 +545,7 @@ patericulegyptantonia2H=>Și a ajuns la mine un glas care a zis :
 patericulegyptantonia2I=>"aceste suflete, pe care le vezi zburând mai sus de acela, sunt sufletele drepților care se mântuiesc în rai.
 patericulegyptantonia2J=>Iar celelalte sunt atrase în iad, urmând voilor trupului și ținerii de minte a răului.
 
-ana=>eu am un ziar roz
+toto=>așezat
 
 ă
 ș

@@ -209,7 +209,7 @@ public class EnglishAnalyzer implements Analizer {
         WordContainer otherVerbWordContainer = phrase.getWordContainerAtPosition(otherVerbPositionToCorrect);
         Verb otherVerb = (Verb)otherVerbWordContainer.getWordByType(WordType.VERB);
         otherVerb.setPositionInTranslationTable(verbTranslationPosition);
-        String newInitialValue = verbRepository.getEquivalentForOtherRoot(otherVerb.getRoot(), formerInitialValue, rootVerb, verbTranslationPosition ,new DefaultLanguageSelector());
+        String newInitialValue = verbRepository.getEquivalentForOtherRoot(otherVerb.getRoot(), formerInitialValue, rootVerb, verbTranslationPosition);
         if(endConjugationModifier.length() == 0) {
             //phrase.modifyWordContenAndRootAtPosition(newInitialValue + endConjugationModifier, verbPosition);
             phrase.modifyOnlyRootAtPosition(otherVerb.getRoot(), verbPosition);
@@ -239,14 +239,14 @@ public class EnglishAnalyzer implements Analizer {
                 Verb followingVerb = (Verb)followingWord;
                 Verb currentVerb = (Verb)currentWord;
                 TranslationInformationBean translationInformationBean = verbRepository.getAllFormsForTheVerbRoot("be");
-                List<String> constructionNameForInitialValueList = translationInformationBean.getConstructionNameForInitialValue(currentVerb.getInitialValue(), new DefaultLanguageSelector());
+                List<String> constructionNameForInitialValueList = translationInformationBean.getConstructionNameForInitialValue(currentVerb.getInitialValue(), verbRepository.getInfinitiveBuilder());
                 Collections.sort(constructionNameForInitialValueList);
                 String constructionName = constructionNameForInitialValueList.get(0);
                 List<Integer> possibleTranlationPositions = translationInformationBean.getPossibleTranslationPositions(currentVerb.getInitialValue(),constructionName, "be");
                 int correctPosition = possibleTranlationPositions.size() == 1 ? possibleTranlationPositions.get(0) :  Language.ENGLISH.getDefaultPositionInTranslationTableVerb();
                 followingVerb.setConjugation(constructionName);
                 followingVerb.setPositionInTranslationTable(correctPosition);
-                followingVerb.updateInitialValue(verbRepository.getEquivalentForOtherRoot(followingVerb.getRoot(), currentVerb.getInitialValue(), "be", correctPosition,new DefaultLanguageSelector()));
+                followingVerb.updateInitialValue(verbRepository.getEquivalentForOtherRoot(followingVerb.getRoot(), currentVerb.getInitialValue(), "be", correctPosition));
                 currentWord.updateInitialValue(Word.WORD_TO_REMOVE);
             }
         }

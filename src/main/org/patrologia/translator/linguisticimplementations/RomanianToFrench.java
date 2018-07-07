@@ -26,11 +26,6 @@ public class RomanianToFrench extends LanguageToFrench {
         populateAllForms();
     }
 
-    @Override
-    protected SpecificLanguageSelector getLanguageSelector() {
-        return new RomanianLanguageSelector();
-    }
-
     protected String numberCaseDecorate(String translationRoot, Word word) {
         String basicTranslation = super.numberCaseDecorate(translationRoot, word);
         if(!word.isNoun() || !((Noun)word).isNotAnAdjective()) {
@@ -45,4 +40,10 @@ public class RomanianToFrench extends LanguageToFrench {
         }
         return basicTranslation;
     }
+
+    @Override
+    protected SpecificLanguageSelector getLanguageSelector() {
+        return new RomanianLanguageSelector();
+    }
+
 }

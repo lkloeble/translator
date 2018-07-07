@@ -280,6 +280,7 @@ desperate@adj%normmasc
 destined@neut%invmasc
 destruction@neut%normmasc
 deut@neut%invmasc
+deuteronomy@neut%invmasc
 dialect@neut%normmasc
 diet@neut%normmasc
 difference@fem%normfem
@@ -443,6 +444,7 @@ gaza@neut%invmasc
 gemara@fem%normmasc
 gemarist@neut%normmasc
 genealog@neut%endy
+general@adj%invmasc
 generation@fem%normmasc
 genesis@neut%invmasc
 gentile@neut%normmasc
@@ -540,6 +542,7 @@ image@fem%normfem
 important@adj%normmasc
 incense@neut%normmasc
 inch@neut%church
+individuall@adj%invmasc
 inferior@adj%normmasc
 infinite@adj%normmasc
 inheritance@neut%normmasc
@@ -857,6 +860,7 @@ proselyte@neut%normmasc
 protection@neut%normmasc
 protestant@neut%normmasc
 providence@neut%invmasc
+provision@neut%normmasc
 punishment@neut%normmasc
 purpose@neut%normmasc
 queen@fem%normfem
@@ -1010,6 +1014,7 @@ soveraigne@neut%invmasc
 soveraignt@fem%endy
 sp@neut%invmasc
 space@neut%normmasc
+speech@neut%church
 spice@neut%normmasc
 spirit@neut%normmasc
 sport@neut%normmasc
@@ -1035,6 +1040,7 @@ street@neut%normmasc
 stud@fem%endy
 style@eut%normmasc
 suburb@fem%normfem
+sufficient@adj%normmasc
 sugar@neut%normmasc
 suggestion@fem%normfem
 summer@neut%invmasc

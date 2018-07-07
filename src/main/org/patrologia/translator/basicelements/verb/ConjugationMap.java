@@ -8,8 +8,10 @@ public class ConjugationMap {
 
     private HashMap<String, Set<String>> internalMap = new HashMap<>();
     private Accentuer accentuer;
+    private InfinitiveBuilder infinitiveBuilder;
 
-    public ConjugationMap(Accentuer accentuer) {
+    public ConjugationMap(Accentuer accentuer, InfinitiveBuilder infinitiveBuilder) {
+        this.infinitiveBuilder = infinitiveBuilder;
         this.accentuer = accentuer;
     }
 
@@ -29,7 +31,9 @@ public class ConjugationMap {
     }
 
     public Set<String> get(String key) {
-        return internalMap.get(key) != null ? internalMap.get(key) : internalMap.get(accentuer.unaccentued(key));
+        Set<String> firstResults = internalMap.get(key) != null ? internalMap.get(key) : internalMap.get(accentuer.unaccentued(key));
+        if(firstResults != null) return firstResults;
+        return internalMap.get(infinitiveBuilder.getInfinitiveFromInitialValue(key));
     }
 
     public List<String> keySet() {

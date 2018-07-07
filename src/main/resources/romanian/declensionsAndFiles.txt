@@ -30,3 +30,4 @@ capul%capul.txt
 pacatos%pacatos.txt
 esc%bisericesc.txt
 adjor%exterior.txt
+bereats%bereats.txt

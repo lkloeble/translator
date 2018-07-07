@@ -66,6 +66,8 @@ public class RomanianRuleFactory extends RuleFactory {
             return new RuleComposeVaVerb();
         } else if("electGenitiveForFollowingNoun".equals(ruleName)) {
             return new RuleElectGenitiveForFollowingNoun();
+        } else if("aSeInfinitiveHandler".equals(ruleName)) {
+            return new RuleASeInfinitiveHandler(verbRepository);
         }
         return null;
     }

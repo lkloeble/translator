@@ -15,7 +15,7 @@ aprind,,[merg],(IPR1*di*zi*1)
 apropri,,[aprecia]
 arat,,[incerca]
 arunc,,[incerca]
-as,,[aprecia]
+as,aseza,[aprecia]
 astept,,[cauta],(AIMP*astepta*asteapta*1)
 atrag,,[merg]
 autoform,are,[aciti]
@@ -50,7 +50,7 @@ cuget,,[incerca]
 culeg,,[face]
 cun,,[cunosc]
 cuprin,d,[crede]
-da,,[da]
+da,,[da],(PAP*da*dat*0)
 deoseb,,[primi]
 depart,,[fumez]
 deranj,,[fumez]
@@ -68,7 +68,7 @@ evit,,[cauta]
 exist,,[incerca]
 exprim,,[incerca]
 extind,,[merg]
-fac,,[face],(AIMP*fac*fa*0)
+fac,,[face],(AIMP*fac*fa*0@PAP*fac*facut*0)
 fer,,[primi]
 fierb,,[merg]
 folos,,[aciti]
@@ -83,7 +83,7 @@ impart,,[impart]
 implic,,[cauta],(PAP*implic*implicat*0)
 implin,,[locuiesc]
 incarc,,[incerca]
-incep,,[face]
+incep,,[face],(PAP*incep*inceput*0)
 incerc,,[incerca]
 inchin,,[cauta]
 indic,,[incerca]
@@ -129,6 +129,7 @@ porunc,,[aciti],(PAP*porunc*poruncit*0)
 pot@IRREGULAR%[INFINITIVE]=[putea]%[IPR]=[pot,potsi,poate,putem,putetsi,pot]%[PAP]=[putut]
 povest,,[locuiesc]
 prefer,,[incerca]
+prelucr,,[fumez]
 prim,,[primi]
 prin,,[crede],(PAP*prin*prins*0)
 produc,,[face]
@@ -152,7 +153,7 @@ sad,,[locuiesc],(PAP*sad*sadit*0)
 savirs,,[primi]
 scri,,[scrie]
 scul@IRREGULAR%[PAPR]=[sculandu]
-serv,,[mantui]
+serv,i,[mantui]
 simt,,[impart]
 sint@IRREGULAR%[IPR]=[sint,esti,este,sintem|suntem,sintetsi,sint|sunt]%[AII]=[eram,erai,era,eram,eratsi,erau]%[PAPR]=[fiind]%[ASP]=[fiu,fii,fie,fim,fitsi,fie]%[ACP]=[asfi,aifi,arfi,amfi,atsifi,arfi]%[PAP]=[fost]%[INFINITIVE]=[fi]
 sluj,,[locuiesc],(PAP*sluj*slujit*0)
@@ -160,7 +161,7 @@ smulg,,[merg]
 socot,,[mantui]
 spal,,[incerca]
 sparg,,[merg]
-spun,,[face],(IPR1*uni*ui*1@PAP*spunut*spus*0)
+spun,,[face],(IPR1*uni*ui*1@PAP*spun*spus*0)
 sta,,[stiu]
 sti,,[stiu],(AIPP*sti*stius*0)
 stric,,[incerca]

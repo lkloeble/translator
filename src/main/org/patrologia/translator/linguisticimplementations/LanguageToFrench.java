@@ -144,7 +144,7 @@ public abstract class LanguageToFrench implements TranslatorRepository {
                 System.out.println(word + " " + frenchRoot + " : pas de construction trouvée");
                 return "XXX";
             }
-            Set<String> constructionNames = construction.getConstructionName(toTranslate, getLanguageSelector(), verb);
+            Set<String> constructionNames = construction.getConstructionName(toTranslate, verb);
             constructionNames = filterPastParticipleForVerbalNoun(constructionNames);
             Map<String, Integer> formPositionByConstructionName = construction.getFormPosition(constructionNames, toTranslate, (Verb)word);
             List<String> possibleVerbs = extractTranslation(formPositionByConstructionName, frenchVerbs.get(frenchRoot), verb.getPositionInTranslationTable(), verb);

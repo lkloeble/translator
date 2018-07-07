@@ -62,7 +62,7 @@ public class RomanianAnalyzer implements Analizer {
             if(!verbRepository.hasVerb(possibleMasculinePastParticiple)) continue;
             Verb verb = verbRepository.getVerb(possibleMasculinePastParticiple);
             TranslationInformationBean allFormsForTheVerbRoot = verbRepository.getAllFormsForTheVerbRoot(verb.getRoot());
-            List<String> constructionNameForInitialValue = allFormsForTheVerbRoot.getConstructionNameForInitialValue(possibleMasculinePastParticiple, new DefaultLanguageSelector());
+            List<String> constructionNameForInitialValue = allFormsForTheVerbRoot.getConstructionNameForInitialValue(possibleMasculinePastParticiple, verbRepository.getInfinitiveBuilder());
             if(!constructionNameForInitialValue.contains("PAP")) continue;
             verb.updateInitialValue(possibleMasculinePastParticiple);
             verb.setGender(new Gender(Gender.FEMININE));

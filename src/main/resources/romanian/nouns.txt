@@ -160,7 +160,7 @@ cuvant@masc%ul
 cuvint@masc%ul
 dadac@fem%fem
 dan@neut%inv
-dat@adj%adjts
+dat@fem%fem
 datat@adj%adjor
 deosebire@fem%ereditate
 deosebit@adj%adj
@@ -340,7 +340,7 @@ le@masc%fiul
 legat@adj%adj
 legum@fem%fem
 liber@adj%adj
-libertat@fem%berea
+libertat@fem%bereats
 limb@fem%fem
 limit@fem%fem
 limitat@adj%adj

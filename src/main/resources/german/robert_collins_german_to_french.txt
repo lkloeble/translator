@@ -413,6 +413,7 @@ du@prep%1(noun)=tu
 dukhan@noun!inv%1(noun)=dukhanen (birkat kohanim)
 dumm@noun!inv%1(noun)=stupide
 durch@prep%1(prep)=via%2(prep)=par
+durchgangig@adj!ausreichend%1(adj)=systématique
 durchsicht@noun!meinfem%1(noun)=examen
 durf@verb!norm%1(verb)=etreautorisea
 durst@noun!inv%1(noun)=soif
@@ -453,6 +454,7 @@ eltern@noun!inv%1(noun)=parents
 empfang@verb!norm%1(verb)=concevoir%2(verb)=accueillir%3(verb)=recevoir
 empfehl@verb!norm%1(verb)=recommander
 endemisch@adj!ausreichend%1(adj)=endémique
+end@noun!inv%1(noun)=final
 endlich@noun!inv%1(noun)=enfin
 england@noun!inv%1(noun)=angleterre
 entartung@noun!inv%1(noun)=dégénérescence
@@ -698,10 +700,11 @@ geringer@adj!ausreichend%1(adj)=plus petit
 geruhmt@adj!ausreichend%1(adj)=vanté
 gesalbte@adj!inv%1(adj)=oint
 gesammelt@adj!ausreichend%1(adj)=réuni%2(adj)=assemblé
-gesamt@adj!ausreichend%1(adj)=total%2(adj)=complet%3(adj)=entier
 gesamtheit@noun!meinfem%1(noun)=totalité
+gesamt@adj!ausreichend%1(adj)=total%2(adj)=complet%3(adj)=entier
 gescheh@verb!norm%1(verb)=seproduire
 geschichte@noun!flasche%1(noun)=histoire
+geschichtlich@adj!ausreichend%1(adj)=historique
 geschlecht@noun!licht%1(noun)=sexe
 geschmack@noun!licht%1(noun)=goût
 geschutzt@adj!ausreichend%1(adj)=protégé
@@ -1310,6 +1313,7 @@ rab@noun!inv%1(noun)=rab
 rabbi@noun!inv%1(noun)=rabbin
 rabbinen@noun!inv%1(noun)=rabbins
 rabbiner@noun!burger%1(noun)=rabbi
+rabbinisch@adj!meinmasc%1(adj)=rabbinique
 rang@noun!meer%1(noun)=rang
 rassismus@noun!inv%1(noun)=racisme
 rathaus@noun!norm%1(noun)=hôtel de ville

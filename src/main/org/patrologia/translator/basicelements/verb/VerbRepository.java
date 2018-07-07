@@ -3,7 +3,9 @@ package org.patrologia.translator.basicelements.verb;
 import org.patrologia.translator.basicelements.*;
 import org.patrologia.translator.conjugation.*;
 import org.patrologia.translator.linguisticimplementations.DefaultLanguageSelector;
+import org.patrologia.translator.linguisticimplementations.SpecificLanguageSelector;
 
+import javax.xml.transform.Result;
 import java.util.*;
 
 /**
@@ -22,12 +24,16 @@ public class VerbRepository {
     private ConjugationComparator conjugationComparator;
     private Accentuer accentuer;
 
+    private SpecificLanguageSelector specificLanguageSelector;
+    private InfinitiveBuilder infinitiveBuilder;
+
     public VerbRepository(ConjugationFactory conjugationFactory, Language language, Accentuer accentuer, List<String> definitionList) {
         this.conjugationFactory = conjugationFactory;
         this.language = language;
         conjugationComparator = conjugationFactory.getComparator();
         this.accentuer = accentuer;
-        this.conjugationsMap =  new ConjugationMap(accentuer);
+        this.infinitiveBuilder = InfinitiveBuilderFactory.getInfinitiveBuilder(language);
+        this.conjugationsMap =  new ConjugationMap(accentuer, infinitiveBuilder);
         this.verbMap = new VerbMap(conjugationsMap);
         definitionList.stream().forEach(definition -> addVerb(definition));
     }
@@ -109,7 +115,8 @@ public class VerbRepository {
             if(s.startsWith("auto")) System.out.println(s);
         }
         */
-        return conjugationsMap.containsKey(accentuer.unaccentued(initialValue));
+        boolean firstResult = conjugationsMap.containsKey(accentuer.unaccentued(initialValue));
+        return (firstResult) ? firstResult : conjugationsMap.containsKey(accentuer.unaccentued(infinitiveBuilder.getInfinitiveFromInitialValue(initialValue)));
     }
 
     public Verb getVerb(String initialValue) {
@@ -194,9 +201,9 @@ public class VerbRepository {
         return numberOfInitialValuesKnown;
     }
 
-    public String getEquivalentForOtherRoot(String otherVerbRoot, String formerInitialValue, String formerRoot, int positionTranslation, DefaultLanguageSelector languageSelector) {
+    public String getEquivalentForOtherRoot(String otherVerbRoot, String formerInitialValue, String formerRoot, int positionTranslation) {
         TranslationInformationBean allFormsForTheFormerVerbRoot = getAllFormsForTheVerbRoot(formerRoot);
-        List<String> constructionNameForInitialValueList = allFormsForTheFormerVerbRoot.getConstructionNameForInitialValue(formerInitialValue, languageSelector);
+        List<String> constructionNameForInitialValueList = allFormsForTheFormerVerbRoot.getConstructionNameForInitialValue(formerInitialValue, infinitiveBuilder);
         Collections.sort(constructionNameForInitialValueList,conjugationComparator);
         for (String constructionNameForInitialValue : constructionNameForInitialValueList) {
             int positionFound = positionTranslation;
@@ -212,13 +219,13 @@ public class VerbRepository {
 
     public boolean isPossibleInfinitive(Verb verb) {
         TranslationInformationBean allFormsForTheVerbRoot = getAllFormsForTheVerbRoot(verb.getRoot());
-        List<String> constructionNameForInitialValueList = allFormsForTheVerbRoot.getConstructionNameForInitialValue(verb.getInitialValue(), new DefaultLanguageSelector());
+        List<String> constructionNameForInitialValueList = allFormsForTheVerbRoot.getConstructionNameForInitialValue(verb.getInitialValue(), infinitiveBuilder);
         return constructionNameForInitialValueList.contains(Conjugation.INFINITIVE);
     }
 
     public String isOnlyInThisTime(Verb verb, List<String> times) {
         TranslationInformationBean allFormsForTheVerbRoot = getAllFormsForTheVerbRoot(verb.getRoot());
-        List<String> constructionNamesForInitialValue = allFormsForTheVerbRoot.getConstructionNameForInitialValue(verb.getInitialValue(), null);
+        List<String> constructionNamesForInitialValue = allFormsForTheVerbRoot.getConstructionNameForInitialValue(verb.getInitialValue(), infinitiveBuilder);
         if (constructionNamesForInitialValue.size() == 1 && times.contains(constructionNamesForInitialValue.get(0)))
             return constructionNamesForInitialValue.get(0);
         Collections.sort(times);
@@ -263,5 +270,13 @@ public class VerbRepository {
     public boolean isConjugation(Verb verb, String conjugationName) {
         RootedConjugation rootedConjugation = rootedConjugationMap.get(verb.getRoot() + "@PAP");
         return rootedConjugation != null && rootedConjugation.contains(verb.getInitialValue());
+    }
+
+    public void decorateWithLanguage(SpecificLanguageSelector languageSelector) {
+        this.specificLanguageSelector = languageSelector;
+    }
+
+    public InfinitiveBuilder getInfinitiveBuilder() {
+        return infinitiveBuilder;
     }
 }

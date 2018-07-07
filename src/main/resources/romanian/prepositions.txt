@@ -1,4 +1,4 @@
-a@prep()%[findInfinitiveConstruction,findGenitive,recomposeALui,recomposeAFost]
+a@prep()%[findInfinitiveConstruction,findGenitive,recomposeALui,recomposeAFost,aSeInfinitiveHandler]
 aaxxaa@prep()
 acea@prep()
 aceasta@prep()
@@ -72,6 +72,7 @@ cum@prep()
 da@prep()
 daca@prep()
 dar@prep()
+datorita@prep()
 de@prep()%[recomposeDece]
 deasupra@prep()
 decat@prep()

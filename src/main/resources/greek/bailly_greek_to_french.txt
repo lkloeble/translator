@@ -124,6 +124,7 @@
 βαβυλων@noun!x-ος%1(noun)=babylone
 βαθ@noun!ος-ους%1(noun)=profondeur%2(noun)=hauteur
 βαθ@adj!υς-εια-υ%1(adj)=profond
+βαιν@verb!norm%1(verb)=avancer
 βαλλ@verb!norm%1(verb)=lancer,jeter,renverser,laisser tomber%2(verb)=frapper à distance%3(verb)=jeter
 βαπτιστ@noun!ης-ου%1(noun)=baptiste
 βαρβαρ@noun!ος-ου%1(noun)=barbare

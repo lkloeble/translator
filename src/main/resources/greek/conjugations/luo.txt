@@ -36,3 +36,4 @@ PRESPASSINF=>εσθαι
 PRESACTPART=>[ος-η-ον]
 PERMIDPASINF=>θαι
 PERFMIDPASSSUBJ=>ος,οι
+PERFACTIND=>α,ας,ε,αμεν,ατε,ασι

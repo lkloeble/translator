@@ -438,7 +438,7 @@ strackp6par11D=>Daher übersetzte grec : Jesus Christus , grec : Jesus der Messi
 strackp6par11E=>Grec ist hebräisch hebreu, aramäisch hebreu; determiniert hebreu;
 strackp6par11F1=>aus der aramäischen Form ist das gräzisierte grec (John 1,41;4,25) geflossen,
 strackp6par11F2=>das häufiger bezeugt ist als das zunächst zu erwartende grec.
-strackp6par11G=>– In der rabbinischen Literatur ist M. durchgängig Titel des endgeschichtlichten Heilskönigs.
+strackp6par11G=>– In der rabbinischen Literatur ist |M|. durchgängig Titel des endgeschichtlichen Heilskönigs.
 strackp6par11H=>Dabei läßt sich beobachten, daß bT meist das artikellose  hebreu, bezw das nichtdeterminierte hebreu gebraucht,
 strackp6par11I=>doch findet sich auch hebreu u. hbreu. Regelmäßig wird hebreu gesagt in der Verbindung hebreu « die Tage des Messias » = messiaszeit.
 strackp6par11J=>– In den palästin. Schriftwerken überwiegt hebreu, bezw das determinierte hebreu.

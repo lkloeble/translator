@@ -45,5 +45,4 @@ public class EnglishToFrench extends LanguageToFrench {
         }
         return defaultTranslation;
     }
-
 }

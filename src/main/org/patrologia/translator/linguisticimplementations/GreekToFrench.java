@@ -33,6 +33,4 @@ public class GreekToFrench extends LanguageToFrench {
         if(";".equals(initialValue)) return "?";
         return initialValue;
     }
-
-
 }
