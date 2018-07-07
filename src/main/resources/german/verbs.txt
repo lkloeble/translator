@@ -288,6 +288,7 @@ uberrasch,en,[leben]
 uberschaum,en,[leben]
 ubersetz,en,[leben]
 uberwach,en,[leben]
+uberwieg,en,[leben]
 unterzeichn,en,[mochten]
 unterzieh,en,[rufen],(AIP*unterzieh*unterzog*0@PAP*unterzieh*unterzog*0)
 verberg,en,[leben],(IPR12*verbe*verbi*0)

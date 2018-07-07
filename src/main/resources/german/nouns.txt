@@ -69,6 +69,7 @@ argwohn@neut%jahrzehnt
 art@neut%inv
 artikel@neut%inv
 artikellos@neut%inv
+artikellose@neut%autor
 artist@masc%artist
 asiatisch@adj%ausreichend
 asthetisch@adj%ausreichend
@@ -178,6 +179,7 @@ brigitte@fem%inv
 brot@neut%wurst
 bruder@masc%arbeiter
 brunstig@adj%ausreichend
+br@neut%inv
 buch@fem%ort
 buhlerin@fem%sangerin
 bundel@neut%zeichen
@@ -210,7 +212,7 @@ demokratie@fem%flasche
 demokratisch@adj%ausreichend
 der@masc%inv
 dessentwillen@neut%inv
-determiniert@neut%inv
+determiniert@adj%ausreichend
 deutsch@adj%ausreichend
 deutschland@fem%inv
 dezember@neut%inv
@@ -728,6 +730,7 @@ mein@adj%mein
 meister@masc%masc
 melancholie@neut%inv
 mensch@masc%meinmasc
+messia@masc%inv
 messias@masc%inv
 metaphysik@neut%inv
 metaphysisch@adj%ausreichend
@@ -807,6 +810,7 @@ neurose@fem%flasche
 neutest@neut%inv
 neutestamentlich@adj%mein
 neutral@adj%ausreichend
+nichtdeterminiert@adj%ausreichend
 nieder@adj%ausreichend
 niedergang@masc%arbeiter
 nihilismus@neut%inv
