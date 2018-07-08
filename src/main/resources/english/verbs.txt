@@ -14,6 +14,7 @@ append,[call]
 apply,[live],(PAP*apply*applie*0)
 appoint,[call]
 apprehend,[call]
+arise,[live],(AIP*arised*arose*0)
 ask,[call]
 assert,[call]
 attain,[call]
@@ -131,6 +132,7 @@ extend,[call]
 face,[live]
 fall,[live],(AIP*falld*fell*0@PAP*falld*fallen*0)
 fear,[call]
+feed,[live],(PAP*feedd*fed*0)
 feign,[call]
 fight,[live]
 fill,[live]
@@ -206,6 +208,7 @@ note,[live]
 observe,[live],(PAPR*observe*observ*0)
 occur,[call]
 offer,[live]
+omit,[live],(PAPR*omit*omitt*0)
 open,[call]
 operate,[live],(PAPR*operateing*operating*0)
 opine,[live]

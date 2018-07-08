@@ -105,6 +105,7 @@ blue@adj%invmasc
 boastfulness@neut%invmasc
 bob@neut%invmasc
 bod@neut%endy
+boding@neut%invmasc
 bondage@neut%invmasc
 bone@neut%normmasc
 book@neut%normmasc
@@ -202,6 +203,7 @@ compan@fem%endy
 comparable@adj%normmasc
 comparison@fem%normfem
 compilation@fem%normfem
+complaint@fem%normfem
 complete@adj%normmasc
 compound@neut%invmasc
 computer@neut%normmasc
@@ -278,6 +280,7 @@ desirable@adj%normmasc
 desire@neut%normmasc
 desperate@adj%normmasc
 destined@neut%invmasc
+destitute@adj%normmasc
 destruction@neut%normmasc
 deut@neut%invmasc
 deuteronomy@neut%invmasc
@@ -660,6 +663,7 @@ majestic@neut%normmasc
 male@masc%normmasc
 man@masc%custom(plr=men)
 manchester@neut%invmasc
+manna@neut%invmasc
 manner@masc%normmasc
 manuscript@neut%normmasc
 map@neut%normmasc
@@ -822,6 +826,7 @@ plural@masc%normmasc
 pocket@fem%normfem
 point@neut%normmasc
 pollution@fem%normfem
+pomegranate@neut%normmasc
 poor@adj%invmasc
 popular@adj%invmasc
 portion@fem%normfem
@@ -832,6 +837,7 @@ powerful@adj%invmasc
 practice@neut%normmasc
 prayer@fem%normfem
 precedent@neut%normmasc
+prejudice@neut%normmasc
 preposition@fem%normfem
 presence@fem%normfem
 present@masc%normmasc
@@ -1145,6 +1151,7 @@ verse@neut%normmasc
 version@neut%normmasc
 view@fem%normfem
 video@neut%normmasc
+vine@neut%normmasc
 vinegar@masc%normmasc
 virtue@fem%normfem
 voice@neut%normmasc

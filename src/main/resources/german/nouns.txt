@@ -731,6 +731,7 @@ meister@masc%masc
 melancholie@neut%inv
 mensch@masc%meinmasc
 messia@masc%inv
+messianisch@adj%ausreichend
 messias@masc%inv
 metaphysik@neut%inv
 metaphysisch@adj%ausreichend
@@ -1149,6 +1150,7 @@ unfruchtbar@adj%ausreichend
 ungarisch@adj%ausreichend
 ungeheuerlich@adj%ausreichend
 ungeheur@adj%ausreichend
+ungemein@adj%ausreichend
 ungewissheit@fem%meinfem
 ungleich@adj%ausreichend
 unlustigkeit@neut%inv
@@ -1227,7 +1229,9 @@ viertel@neut%inv
 vision@fem%meinfem
 vogel@masc%arbeiter
 volk@masc%licht
+voll@adj%ausreichend
 vollburtig@adj%ausreichend
+voller@adj%ausreichend
 vollendet@adj%ausreichend
 vorausstezung@fem%meinfem
 vorbild@neut%meer
