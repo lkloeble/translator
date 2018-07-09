@@ -74,6 +74,7 @@ argument@neut%um-i
 arid@adj%us-a-um
 arimin@neut%um-i
 arm@fem%a-ae
+ar@fem%s-tis
 asi@fem%a-ae
 assertor@masc%x-is2
 assyri@masc%us-i
@@ -292,6 +293,7 @@ explicati@fem%o-onis
 expositi@fem%o-onis
 expugnator@masc%x-is
 exspectat@adj%us-a-um
+exstinct@adj%us-a-um
 extrem@adj%us-a-um
 fabi@fem%a-ae
 fabul@fem%a-ae
@@ -491,6 +493,7 @@ luminar@fem%e-is
 lydi@fem%a-ae
 maest@adj%us-a-um
 mag@masc%us-i
+magic@adj%us-a-um
 magist@neut%er-ri
 magistrat@masc%us-us
 magn@adj%us-a-um
@@ -504,6 +507,7 @@ man@fem%us-us
 mane@neut%inv
 marc@masc%us-i
 mar@neut%e-is
+marcion@masc%is-is2
 mari@fem%a-ae
 martyr@masc%x-ys
 martyri@masc%um-i
@@ -602,6 +606,7 @@ oracul@neut%um-i
 oratio@fem%x-nis
 orgetorix@neut%inv[gensing:orgetorigis,accsing:orgetoricem]
 orien@adj%s-s-s
+oriund@adj%us-a-um
 ornat@masc%us-us
 ort@adj%us-us
 osti@masc%um-i
@@ -646,6 +651,7 @@ persecuti@fem%o-onis
 persuas@adj%us-a-um
 pervers@adj%us-a-um
 petr@masc%us-i
+philipp@masc%us-i
 pi@adj%us-a-um
 piet@fem%as-atis
 pil@fem%a-ae
@@ -671,6 +677,7 @@ potentissim@adj%us-a-um
 potissim@adj%us-a-um
 praecept@neut%um-i
 praeconcept@adj%us-a-um
+praedicand@adj%us-a-um
 praedicati@fem%o-onis
 praestanti@adj%or-or-us
 praemi@neut%um-i
@@ -683,6 +690,7 @@ principat@masc%us-us
 principi@neut%um-i
 privat@adj%us-a-um
 prob@adj%us-a-um
+prodigi@neut%um-i
 proeli@neut%um-i
 profect@adj%us-a-um
 profecti@fem%o-onis
@@ -749,6 +757,7 @@ saecul@neut%um-i
 saevien@masc%s-tis
 salutif@adj%er-era-erum
 salve@neut%inv
+samari@fem%a-ae
 samos@neut%inv
 sancit@adj%us-a-um
 sanct@adj%us-a-um
@@ -807,6 +816,7 @@ spirit@masc%us-i
 spuri@adj%us-a-um
 statut@adj%us-a-um
 stell@fem%a-ae
+stephan@masc%us-i
 stil@masc%us-i
 stupend@adj%us-a-um
 styl@masc%us-i

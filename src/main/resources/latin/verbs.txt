@@ -62,6 +62,7 @@ concili,o,as,are,,,[o-as]
 concip,io,is,ere,,,[io-is],(AIPP*concip*concep*0)
 cond,o,is,ere,,,[o-is],(AIP*cond*condid*0)
 conduc,o,is,ere,,,[o-is],(AIP*conduc*condux*0)
+confer,o,s,re,tuli,latum,[o-s],(AIP*confer*contul*0)
 confirm,o,as,are,,,[o-as]
 conglorific,o,as,are,,,[o-as]
 congreg,o,as,are,,,[o-as]
@@ -96,13 +97,14 @@ delect,o,as,are,avi,atum,[o-as]
 demonstr,o,as,are,avi,atum,[o-as]
 depon,o,is,ere,,,[o-is]
 desin,o,is,ere,,,[o-is],(AIP*desin*desi*0)
-dic,o,is,ere,foobar,foobar,[o-is],(AIP*dic*dix*0@AIPP*dic*dix*0)
+dic,o,is,ere,foobar,foobar,[o-is],(AIP*dic*dix*0@AIPP*dic*dix*0@AIFP*dics*dix*0)
 dict,o,as,are,,,[o-as]
 differ,o,s,re,tuli,latum,[o-s]
 dimitt,o,is,ere,foobar,foobar,[o-is]
 disc,o,is,ere,didici,discitum,[o-is],(AIFP*discs*didic*0)
 disced,o,is,ere,,,[o-is],(AIP*disced*discess*0)
 discern,o,is,ere,,,[o-is]
+disput,o,as,are,,,[o-as]
 dissemin,o,as,are,,,[o-as]
 divid,o,is,ere,,,[o-is],(AIP*divid*divis*0)
 doc,eo,es,ere,,,[eo-es]
@@ -110,7 +112,7 @@ domin,or,aris,ari,,,[or-aris]
 don,o,as,are,edi,atum,[o-as]
 dorm,io,is,ire,,,[io-is]
 duc,o,is,ere,foobar,foobar,[o-is],(AIP*duc*dux*0)
-ed,o,is,ere,foobar,foobar,[o-is],(IAP*ed*edid*0@AIPP*ed*edid*0)
+ed,o,is,ere,foobar,foobar,[o-is],(IAP*ed*edid*0@AIP*ed*edid*0@AIPP*ed*edid*0)
 edoc,eo,es,ere,,,[eo-es]
 effer,o,s,re,tuli,latum,[o-s],(AIP*effer*extul*0)
 effic,io,is,ere,,,[io-is],[AIP=effec]

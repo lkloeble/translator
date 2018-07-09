@@ -9,3 +9,4 @@ PII=>ebar,ebaris,ebatur,ebamur,ebamini,ebantur
 AIMP=>xxx,e,xxx,xxx,ete,xxx
 PIP=>eor,eris,etur,emur,emini,entur
 PIF=>ebor,eberis,ebitur,ebimur,ebimini,ebuntur
+IAP=>uisse

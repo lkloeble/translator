@@ -59,6 +59,7 @@ ale@noun!a-ae%1(noun)=dé
 alexandrin@adj!us-a-um%1(adj)=alexandrien
 ali@adj!us-a-um%1(adj)=un
 ali@adj!us-a-ud%1(adj)=autre
+alibi@prep%1(prep)=partout
 aliquando@prep%1(prep)=finalement%2(prep)=quelques fois
 aliunde@prep%1(prep)=d'un autre endroit
 alleluja@prep%1(prep)=Alléluia
@@ -116,6 +117,7 @@ arid@adj!us-a-um%1(noun)=sec
 arimin@noun!um-i%1(noun)=ariminum
 ascendo@verb!norm%1(verb)=jaillir%2(verb)=grimper%3(verb)=monter
 arm@noun!a-ae%1(noun)=armes
+ar@noun!s-tis%1(noun)=puissance%2(noun)=art
 asi@noun!a-ae%1(noun)=asie
 assequor@verb!norm%1(verb)=comprendre%2(verb)=rivaliser%3(verb)=atteindre,achever%4(verb)=poursuivre
 assertor@noun!x-is2%1(noun)=déclarant
@@ -244,6 +246,7 @@ confirmo@verb!norm%1(verb)=confirmer
 concipio@verb!norm%1(noun)=recevoir
 condo@verb!norm%1(noun)=assembler
 conduco@verb!norm%1(noun)=conduire
+confero@verb!norm%1(noun)=reunir%2(verb)=apporter
 conglorifico@verb!norm%1(verb)=glorifier
 conficiend@adj!us-a-um%1(adj)=qui doit être préparé
 confirmat@adj!us-a-um%1(adj)=confirmé
@@ -367,6 +370,7 @@ dimiss@adj!us-a-um%1(adj)=banni%2(adj)=envoyé
 dimitto@verb!norm%1(verb)=renvoyer%2(verb)=remettre
 discedo@verb!norm%1(verb)=partir
 discerno@verb!norm%1(verb)=separer
+disputo@verb!norm%1(verb)=debattre
 dissemino@verb!norm%1(verb)=repandre
 dissertati@noun!o-onis%1(noun)=dissertation
 discipul@noun!us-i%1(noun)=eleve%2(noun)=disciple
@@ -480,6 +484,7 @@ expugnator@noun!x-is%1(noun)=conquérant
 exsequor@verb!norm%1(verb)=accompagner
 exspectat@adj!us-a-um%1(adj)=attendu
 exspecto@verb!norm%1(verb)=attendre
+exstinct@adj!us-a-um%1(adj)=tué
 extrem@adj!us-a-um%1(adj)=extrême
 exempl@noun!um-i%1(noun)=exemple
 exeo@verb!norm%1(verb)=sortir
@@ -784,6 +789,7 @@ lydi@noun!a-ae%1(noun)=lydia
 m@prep%1(prep)=m
 maest@adj!us-a-um%1(adj)=triste
 mag@noun!us-i%1(noun)=magicien
+magic@adj!us-a-um%1(adj)=magique
 magis@prep%1(prep)=mieux
 magist@noun!er-ri%1(noun)=maître%2(noun)=rabbin%3(noun)=professeur
 magistrat@noun!us-us%1(noun)=magistrat
@@ -802,6 +808,7 @@ maneo@verb!eo-es%1(verb)=attendre, espérer%2(verb)=demeurer
 mane@noun!inv%1(noun)=matin
 marc@noun!us-i%1(noun)=marcus
 mar@noun!e-is%1(noun)=mer
+marcion@noun!is-is2%1(noun)=marcion
 mari@noun!a-ae%1(noun)=marie
 martyr@noun!x-ys%1(noun)=martyr
 martyri@noun!um-i%1(noun)=martyr
@@ -931,6 +938,7 @@ octo@noun!inv%1(noun)=huit
 odi@noun!um-i%1(noun)=haine
 ole@noun!a-ae%1(noun)=olive
 omn@adj!is-is-e%1(adj)=tous
+omnino@prep%1(prep)=entièrement
 onychin@adj!us-a-um%1(noun)=onyx
 oper@noun!a-ae%1(noun)=travail, activite%2(noun)=service, journee de travail%3(noun)=soin, attention, peine%4(noun)=oeuvre
 opero@verb!norm%1(verb)=travailler
@@ -946,6 +954,7 @@ orgetorix@noun!inv%1(noun)=orgetorix
 oro@verb!norm%1(verb)=adorer
 orien@adj!s-s-s%1(adj)=levant
 orior@verb!norm%1(verb)=apparaitre
+oriund@adj!us-a-um%1(adj)=originaire de
 ornat@noun!us-us%1(noun)=décoration%2(noun)=appareillage
 ort@adj!us-us%1(adj)=lever de soleil
 orno@verb!norm%1(verb)=orner
@@ -1012,6 +1021,7 @@ pertineo@verb!norm%1(verb)=être la proriété de,appartenir à%2(verb)=avoir te
 pervenio@verb!norm%1(verb)=atteindre%2(verb)=arriver%3(verb)=parvenir
 pervers@adj!us-a-um%1(adj)=pervers
 petr@noun!us-i%1(noun)=Pierre
+philipp@noun!us-i%1(noun)=Philippe
 pi@adj!us-a-um%1(adj)=aimant%2(adj)=tendre%3(adj)=saint
 piet@noun!as-atis%1(noun)=sens du devoir
 pil@noun!a-ae%1(noun)=balle
@@ -1055,6 +1065,7 @@ praesum@verb!irrg%1(verb)=être devant%2(verb)=commander%3(verb)=presider
 praeter@prep%1(prep)=excepté
 praecept@noun!um-i%1(noun)=leçon%2(noun)=commandement%3(noun)=précepte
 praeconcept@adj!us-a-um%1(adj)=préconçu
+praedicand@adj!us-a-um%1(adj)=qui va être proclamé
 praedicati@noun!o-onis%1(noun)=prédication
 praestanti@adj!or-or-us%1(adj)=plus excellent
 praemi@noun!um-i%1(noun)=récompense
@@ -1076,6 +1087,7 @@ probo@verb!norm%1(verb)=acquitter%2(verb)=démontrer%3(verb)=tester,inspecter%4(
 procul@prep%1(prep)=loin
 produco@verb!norm%1(verb)=placer%2(verb)=étaler%3(verb)=exposer%4(verb)=présenter%5(verb)=produire
 prodeo@verb!norm%1(verb)=sortir,pousser(plantes)%2(verb)=s'avancer%3(verb)=apparaitre
+prodigi@noun!um-i%1(noun)=prodige
 proeli@noun!um-i%1(noun)=guerrier%2(noun)=bataille
 profect@adj!us-a-um%1(adj)=avance
 profecti@noun!o-onis%1(noun)=voyage%2(noun)=départ
@@ -1200,7 +1212,7 @@ salto@verb!norm%1(verb)=danser
 salutif@adj!er-era-erum%1(adj)=salutaire
 saluto@verb!norm%1(verb)=saluer
 salve@noun!inv%1(noun)=salut
-sane@prep%1(prep)=vraiment
+samari@noun!a-ae%1(noun)=samarie
 samos@noun!inv%1(noun)=samos
 sano@verb!norm%1(verb)=soigner
 sancit@adj!us-a-um%1(adj)=rendu saint
@@ -1208,6 +1220,7 @@ sanct@adj!us-a-um%1(adj)=saint
 sancti@adj!or-or-us%1(adj)=plus sacré
 sanctifico@verb!norm%1(verb)=purifier%2(verb)=consacrer%3(verb)=sanctifier
 sanctissim@adj!us-a-um%1(adj)=le plus saint
+sane@prep%1(prep)=vraiment
 sangui@noun!s-nis%1(noun)=sang
 sanguine@adj!us-a-um%1(noun)=sanglant
 sardini@noun!a-ae%1(noun)=sardaigne
@@ -1290,6 +1303,7 @@ spuri@adj!us-a-um%1(adj)=faux%2(adj)=illégitime
 statut@adj!us-a-um%1(adj)=établi
 stell@noun!a-ae%1(noun)=planète%2(noun)=étoile
 statim@prep%1(prep)=soudain%2(prep)=immédiatement
+stephan@noun!us-i%1(noun)=étienne
 stil@noun!us-i%1(noun)=stylo
 stupend@adj!us-a-um%1(adj)=stupéfiant
 styl@noun!us-i%1(noun)=stylo
