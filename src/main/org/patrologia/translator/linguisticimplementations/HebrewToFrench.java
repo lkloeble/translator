@@ -19,6 +19,7 @@ import java.util.Map;
 public class HebrewToFrench extends LanguageToFrench {
 
     public HebrewToFrench(List<String> dictionarydefinitions, List<String> frenchVerbsDefinitions, VerbRepository verbRepository, NounRepository nounRepository, DeclensionFactory declensionFactory, FinalModifier finalModifier) {
+        super(verbRepository);
         this.dictionaryDefinitions = dictionarydefinitions;
         this.frenchVerbsDefinitions = frenchVerbsDefinitions;
         this.verbRepository = verbRepository;

@@ -133,7 +133,7 @@ public class VerbRepository {
     }
 
     public TranslationInformationBean getAllFormsForTheVerbRoot(String root) {
-        TranslationInformationBean allFormsForThisRoot = new TranslationInformationBean(root);
+        TranslationInformationBean allFormsForThisRoot = new TranslationInformationBean(root, infinitiveBuilder);
         List<String> times = translationBeansMap.getAllTimes(root);
         for (String constructionName : times) {
             String key = root + "@" + constructionName;

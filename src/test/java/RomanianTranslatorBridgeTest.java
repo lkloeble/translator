@@ -56,7 +56,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getRomanianDico(String romanianFrenchDataFile) {
         /*
         return Arrays.asList(new String[]{
-                        "a@noun!invpur%1(noun)=un",
+                        "autoformare@verb!norm%1(verb)=autoformer",
                 });
                 */
         return getFileContentForRepository(romanianFrenchDataFile);
@@ -112,7 +112,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "serv,i,[mantui]"
+                "autoform,are,[aciti]"
         });
         */
         return getFileContentForRepository(verbFileDescription);
@@ -576,7 +576,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         //checkInMaps("staniloae4F", translatorBridge);
         //checkInMaps("staniloae4G", translatorBridge);
         //checkInMaps("staniloae4H", translatorBridge);
-        checkInMaps("staniloae4I1", translatorBridge);
+        //checkInMaps("staniloae4I1", translatorBridge);
         checkInMaps("staniloae4I2", translatorBridge);
         checkInMaps("staniloae4J1", translatorBridge);
         checkInMaps("staniloae4J2", translatorBridge);
@@ -595,7 +595,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("staniloae5D", translatorBridge);
         checkInMaps("staniloae5E", translatorBridge);
         checkInMaps("staniloae5F", translatorBridge);
-        checkInMaps("staniloae5G", translatorBridge);
+        //checkInMaps("staniloae5G", translatorBridge);
         checkInMaps("staniloae5H", translatorBridge);
         checkInMaps("staniloae5I", translatorBridge);
         //checkInMaps("staniloae5J", translatorBridge);
@@ -770,7 +770,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failedones() {
         assertTrue(true);
-        //checkInMaps("toto", translatorBridge);
+        checkInMaps("toto", translatorBridge);
     }
     
 }

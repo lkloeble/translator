@@ -19,9 +19,11 @@ public class TranslationInformationBean {
     private String root;
     private Map<String, RootedConjugation> nameForms = new HashMap<String, RootedConjugation>();
     private TranslationReplacements customReplacements;
+    private InfinitiveBuilder infinitiveBuilder;
 
-    public TranslationInformationBean(String root, TranslationInformationReplacement... customReplacements) {
+    public TranslationInformationBean(String root, InfinitiveBuilder infinitiveBuilder, TranslationInformationReplacement... customReplacements) {
         this.root = root;
+        this.infinitiveBuilder = infinitiveBuilder;
         this.customReplacements = new TranslationReplacements(Arrays.asList(customReplacements));
     }
 
@@ -98,7 +100,7 @@ public class TranslationInformationBean {
         List<RootedConjugation> values = new ArrayList<>(nameForms.values());
         for(RootedConjugation rootedConjugation :  values) {
             if(verb.isOnlyFormKnown() && !rootedConjugation.getConstructionName().equals(verb.getOnlyFormKnown())) continue;
-            if(rootedConjugation.contains(toTranslate) || rootedConjugation.contains(unaccentued(toTranslate))) {
+            if(rootedConjugation.contains(toTranslate) || rootedConjugation.contains(unaccentued(toTranslate)) || rootedConjugation.contains(infinitiveBuilder.getInfinitiveFromInitialValue(toTranslate))) {
                 constructionNames.add(rootedConjugation.getConstructionName());
             }
         }

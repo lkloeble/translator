@@ -16,6 +16,7 @@ import java.util.Map;
 public class GermanToFrench extends LanguageToFrench {
 
     public GermanToFrench(List<String> dictionarydefinitions, List<String> frenchVerbsDefinitions, VerbRepository verbRepository, NounRepository nounRepository, DeclensionFactory declensionFactory, LanguageDecorator languageDecorator, FinalModifier finalModifier) {
+        super(verbRepository);
         this.dictionaryDefinitions = dictionarydefinitions;
         this.frenchVerbsDefinitions = frenchVerbsDefinitions;
         this.verbRepository = verbRepository;

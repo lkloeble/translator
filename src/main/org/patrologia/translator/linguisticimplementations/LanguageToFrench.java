@@ -6,6 +6,7 @@ import org.patrologia.translator.basicelements.modifier.FinalModifier;
 import org.patrologia.translator.basicelements.noun.Noun;
 import org.patrologia.translator.basicelements.noun.NounRepository;
 import org.patrologia.translator.basicelements.preposition.Preposition;
+import org.patrologia.translator.basicelements.verb.InfinitiveBuilder;
 import org.patrologia.translator.basicelements.verb.Verb;
 import org.patrologia.translator.basicelements.verb.VerbRepository;
 import org.patrologia.translator.casenumbergenre.CaseNumberGenre;
@@ -26,11 +27,11 @@ public abstract class LanguageToFrench implements TranslatorRepository {
 
     protected List<String> dictionaryDefinitions;
     protected List<String> frenchVerbsDefinitions;
-    protected FormRepository formRepository = new FormRepository();
     protected Map<String, String> allTranslationMap = new HashMap<String, String>();
     protected Map<String, String> mainTranslationMap = new HashMap<String, String>();
     protected Map<String, String> frenchVerbs = new HashMap<>();
     protected VerbRepository verbRepository;
+    protected FormRepository formRepository;
     protected NounRepository nounRepository;
 
     protected Map<String, List<TranslationInformationBean>> originLanguageVerbFormConstruction = new HashMap<>();
@@ -39,6 +40,13 @@ public abstract class LanguageToFrench implements TranslatorRepository {
     protected ConjugationGenderAnalyser conjugationGenderAnalyser;
     protected LanguageDecorator languageDecorator;
     protected FinalModifier finalModifier;
+    protected InfinitiveBuilder infinitiveBuilder;
+
+    public LanguageToFrench(VerbRepository verbRepository) {
+        this.verbRepository = verbRepository;
+        this.infinitiveBuilder = verbRepository.getInfinitiveBuilder();
+        this.formRepository =  new FormRepository(infinitiveBuilder);
+    }
 
     public Translation computeReaderTranslation(Analysis analysis) {
         return computeTranslationWithCustomMap(analysis, mainTranslationMap);
@@ -138,7 +146,7 @@ public abstract class LanguageToFrench implements TranslatorRepository {
             String toTranslate = word.getInitialValue();
             Verb verb = (Verb)word;
             verb = verbRepository.updatePreferedTranslation(verb);
-            String frenchRoot = formRepository.getValueByForm(new Form(toTranslate, verb.getRoot(), WordType.VERB, verb.getConjugation(),verb.getPreferedTranslation()));
+            String frenchRoot = formRepository.getValueByForm(new Form(toTranslate, verb.getRoot(), WordType.VERB, verb.getConjugation(),verb.getPreferedTranslation(), infinitiveBuilder));
             TranslationInformationBean construction = getTranslationbean(word, frenchRoot);
             if(construction == null) {
                 System.out.println(word + " " + frenchRoot + " : pas de construction trouvée");
@@ -386,8 +394,8 @@ public abstract class LanguageToFrench implements TranslatorRepository {
         Set<Map.Entry<CaseNumberGenre, String>> entrySet = declension.getAllEndings().entrySet();
         for(Map.Entry entry : entrySet) {
             String value = declension.isCustom() ? (String)entry.getValue() : root + entry.getValue();
-            Form firstForm = new Form(value, root, WordType.NOUN, declensionStr,0);
-            Form secondForm = new Form(root, root, WordType.NOUN, declensionStr,0);
+            Form firstForm = new Form(value, root, WordType.NOUN, declensionStr,0, infinitiveBuilder);
+            Form secondForm = new Form(root, root, WordType.NOUN, declensionStr,0, infinitiveBuilder);
             formRepository.addForm(firstForm, secondForm, exceptions, (CaseNumberGenre)entry.getKey());
         }
     }
@@ -417,7 +425,7 @@ public abstract class LanguageToFrench implements TranslatorRepository {
         } else if(type.contains("verb")) {
             computeVerb(origin, mostCommonFrenchTranslation(frenchs));
         } else if(type.contains("prep")) {
-            formRepository.addForm(new Form(origin, origin, WordType.PREPOSITION, origin,0), new Form(origin, origin, WordType.PREPOSITION, origin,0));
+            formRepository.addForm(new Form(origin, origin, WordType.PREPOSITION, origin,0, infinitiveBuilder), new Form(origin, origin, WordType.PREPOSITION, origin,0, infinitiveBuilder));
             allTranslationMap.put(origin, getTranslations(frenchs));
             String mainTranslation = getMainTranslation(frenchs, lineInDictionaryData);
             if(hasDoubleTranslation(mainTranslation)) {
@@ -486,7 +494,7 @@ public abstract class LanguageToFrench implements TranslatorRepository {
             //allFormsForTheVerbRoot.allForms().stream().forEach(eachForm -> formRepository.addForm(new Form(eachForm, allFormsForTheVerbRoot.getRoot(), WordType.VERB, null,indiceOfPreferedTranslation), new Form(mostCommonTranslation, mostCommonTranslation, WordType.VERB, null,indiceOfPreferedTranslation)));
             List<String> allForms = allFormsForTheVerbRoot.allForms();
             for(String form : allForms) {
-                formRepository.addForm(new Form(form, allFormsForTheVerbRoot.getRoot(), WordType.VERB, null,indiceOfPreferedTranslation), new Form(mostCommonTranslation, mostCommonTranslation, WordType.VERB, null,indiceOfPreferedTranslation));
+                formRepository.addForm(new Form(form, allFormsForTheVerbRoot.getRoot(), WordType.VERB, null,indiceOfPreferedTranslation,infinitiveBuilder), new Form(mostCommonTranslation, mostCommonTranslation, WordType.VERB, null,indiceOfPreferedTranslation,infinitiveBuilder));
             }
             if (!originLanguageVerbFormConstruction.containsKey(mostCommonTranslation)) {
                 List allFormsInList = new ArrayList<TranslationInformationBean>();

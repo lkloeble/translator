@@ -1,5 +1,7 @@
 package org.patrologia.translator.basicelements;
 
+import org.patrologia.translator.basicelements.verb.InfinitiveBuilder;
+
 /**
  * Created by lkloeble on 29/12/2015.
  */
@@ -11,13 +13,15 @@ public class Form {
     private String declension;
     private int preferedTranslation;
     private Accentuer accentuer = new Accentuer();
+    private InfinitiveBuilder infinitiveBuilder;
 
-    public Form(String value, String originValue, WordType type, String declension, int preferedTranslation) {
+    public Form(String value, String originValue, WordType type, String declension, int preferedTranslation, InfinitiveBuilder infinitiveBuilder) {
         this.value = value;
         this.originValue = originValue;
         this.type = type;
         this.declension = declension;
         this.preferedTranslation = preferedTranslation;
+        this.infinitiveBuilder = infinitiveBuilder;
     }
 
     public String getValue() {
@@ -68,23 +72,25 @@ public class Form {
     }
 
     public Form updateToDefaultPreferedTranslation() {
-        return new Form(value, originValue,type, declension, 1);
+        return new Form(value, originValue,type, declension, 1, infinitiveBuilder);
     }
 
     public Form updateForMinusEndingForm() {
-        return new Form(value + "-", originValue, type, declension, 1);
+        return new Form(value + "-", originValue, type, declension, 1, infinitiveBuilder);
     }
 
     public Form updateToAvoidNounAndVerbConfusion() {
-        return new Form(value,value,type,declension,1);
+        return new Form(value,value,type,declension,1, infinitiveBuilder);
     }
 
     public Form updateToUnaccentued() {
-        return new Form(unaccentued(value),value,type,declension,1);
+        return new Form(unaccentued(value),value,type,declension,1, infinitiveBuilder);
     }
 
+    public Form updateToAlternateInfinitiveForm() {return new Form(infinitiveBuilder.getInfinitiveFromInitialValue(value), value, type,declension,1, infinitiveBuilder);}
+
     public Form updateToUnaccentuedOriginValue() {
-        return new Form(unaccentued(value),unaccentued(value),type,declension,1);
+        return new Form(unaccentued(value),unaccentued(value),type,declension,1,infinitiveBuilder);
     }
 
     private String unaccentued(String value) {
