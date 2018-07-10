@@ -773,10 +773,11 @@ murmeltier@neut%arbeiter
 musee@fem%flasche
 museum@neut%zeichen
 musik@fem%inv
-mystisch@adj%ausreichend
+mussig@adj%ausreichend
 mut@masc%inv
 mutter@fem%inv
 mutterlich@adj%ausreichend
+mystisch@adj%ausreichend
 mythus@neut%inv
 n@neut%inv
 nachdrucklich@adj%ausreichend
@@ -863,6 +864,7 @@ petrus@masc%inv
 physiologisch@adj%ausreichend
 pfleger@masc%arbeiter
 phanomen@neut%phanomen
+phantastisch@adj%ausreichend
 philologe@masc%flasche
 pinchas@neut%inv
 pizza@neut%meinmasc

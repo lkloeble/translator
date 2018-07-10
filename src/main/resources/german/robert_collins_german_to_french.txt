@@ -1160,6 +1160,7 @@ musee@noun!flasche%1(noun)=musée
 museum@noun!zeichen%1(noun)=musée
 musik@noun!inv%1(noun)=musique
 muss@verb!norm%1(verb)=devoir
+mussig@adj!ausreichend%1(adj)=vain%2(adj)=inutile
 mut@noun!inv%1(noun)=courage
 mutter@noun!inv%1(noun)=mère
 mutterlich@adj!ausreichend%1(adj)=maternel
@@ -1276,6 +1277,7 @@ pflanze@noun!flasche%1(noun)=plante
 pfleg@verb!norm%1(verb)=avoirhabitude
 pfleger@noun!arbeiter%1(noun)=infirmier
 phanomen@noun!phanomen%1(noun)=phénomène
+phantastisch@adj!ausreichend%1(adj)=fantastique
 philologe@noun!flasche%1(noun)=philologue
 pinchas@noun!inv%1(noun)=pinhas
 pizza@noun!meinmasc%1(noun)=pizza

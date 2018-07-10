@@ -787,7 +787,8 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
         //checkInMaps("nietzscheBookGTversuchCha5E", translatorBridge);
         checkInMaps("nietzscheBookGTversuchCha5F", translatorBridge);
         checkInMaps("nietzscheBookGTversuchCha5G", translatorBridge);
-        checkInMaps("nietzscheBookGTversuchCha5H", translatorBridge);
+        checkInMaps("nietzscheBookGTversuchCha5H1", translatorBridge);
+        checkInMaps("nietzscheBookGTversuchCha5H2", translatorBridge);
         checkInMaps("nietzscheBookGTversuchCha5I", translatorBridge);
         checkInMaps("nietzscheBookGTversuchCha5J", translatorBridge);
         checkInMaps("nietzscheBookGTversuchCha5K", translatorBridge);
