@@ -727,7 +727,7 @@ patrologiacaput2Y=>ou plus lourd(s)@plus lourd(s)(e)@ quelques uns péché(s), o
 patrologiacaput2Z=>(au) un(e)@(du) un@autre@un@un(s)@ finalement ne plus simple@plus simple(s)@plus simple(s)(e)@ quelques uns âme(s) furent corrompus, dans pervers(s)(e) doctrine(s)(e), et erreur(s) néfaste(s), et naissant(s)@naissant(s)(e)@ hérésie(s) stylo tournèrent
 
 patrologiacaput3A01=>de [XXX] (du) premier (du) siècle (par) lever de soleil, (par) avancée, et (par) ruine, et leur (aux) conquérant(s);
-patrologiacaput3A02=>et premier de (au) hérésie [XXX] magicien(s).
+patrologiacaput3A02=>et premier de (au) hérésie (du) simon(e) (du) magicien.
 patrologiacaput3A03=>vrai bien sûr adverse divin(s) chrétien(s)(e) (du) foi déclarant(s) en provenance de lui-même levant(e) église(s)(e) (au) commencement en dehors démon érébus(s) (aux) gorge(s)(e) émergèrent stupéfiant(e) (des) varié(s)(e) [XXX] malédiction(s) :
 patrologiacaput3A04=>et mais comme sagement enseigne Théodoret :
 patrologiacaput3A05=>avec Diable (des) humain(s) ruine eut soif, non attendit, comme (des) apotre(s) prédication(e) se renforçat;
@@ -747,7 +747,7 @@ patrologiacaput3A18=>vas à partir de cela simon gythis (au) village (du) samari
 patrologiacaput3A19=>plus(s)(e) qui(s) miracle(s) et (aux) prodige(s) entièrement similaire(s) sont vus, (par) magique(s) art(s) accomplissait.
 patrologiacaput3A20=>mais après tué martyr étienne, Philippe samarie(e) (du) evangile (du) qui va être proclamé grace(e) se apporta,
 patrologiacaput3A21=>et là non trompé(e)@trompé(s)@, comme simon, mais vrai(e)@vrai(s)@ publia miracle(s).
-patrologiacaput3A22=>foobar
+patrologiacaput3A22=>(par) qui(s)@qui@qui(e)@ mais le même (par) simon(e) (au) magicien (aux) connu(s)@(par) connu(s)(e)@connu@, chrétien(e) observance(e) celui la professé est,
 patrologiacaput3A23=>foobar
 
 

@@ -547,7 +547,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("staniloae1Q", translatorBridge);
         checkInMaps("staniloae1R", translatorBridge);
         checkInMaps("staniloae1S", translatorBridge);
-        checkInMaps("staniloae1T", translatorBridge);
+        //checkInMaps("staniloae1T", translatorBridge);
         //checkInMaps("staniloae1U", translatorBridge);
         checkInMaps("staniloae1V", translatorBridge);
         checkInMaps("staniloae1W", translatorBridge);

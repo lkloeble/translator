@@ -17,7 +17,7 @@ arat,,[incerca]
 arunc,,[incerca]
 as,eza,[aprecia],(PAP*asat*asezat*0)
 astept,a,[cauta],(AIMP*astepta*asteapta*1)
-atrag,,[merg]
+atrag,e,[merg],(PAP*atrag*atras*0)
 autoform,are,[aciti]
 auz,,[dorm],(IPR025*auz*aud*0)
 bat,e,[merg]
@@ -114,6 +114,7 @@ mosten,,[locuiesc]
 munc,,[aciti]
 mus,,[musca]
 mut,,[cauta],(PAP*mut*mutat*0)
+num,i,[primi],(AII*num*nume*0)
 obos,,[locuiesc]
 omor,i,[merg]
 opr,i,[aciti]

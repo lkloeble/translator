@@ -225,6 +225,7 @@ clemen@noun!s-tis%1(noun)=clément
 cler@noun!us-i%1(noun)=clergé
 clien@noun!s-tis2%1(noun)=client
 coct@adj!us-a-um%1(noun)=roti%2(noun)=cuisiné
+cognit@adj!us-a-um%1(noun)=connu
 coemo@verb!norm%1(verb)=acheter
 coepi@verb!norm%1(verb)=commencer
 coerceo@verb!norm%1(verb)=entourer%2(verb)=enfermer
@@ -1092,6 +1093,7 @@ proeli@noun!um-i%1(noun)=guerrier%2(noun)=bataille
 profect@adj!us-a-um%1(adj)=avance
 profecti@noun!o-onis%1(noun)=voyage%2(noun)=départ
 profero@verb!norm%1(verb)=apparaitre2
+profess@adj!us-a-um%1(adj)=confessé%2(adj)=professé
 proficiscor@verb!norm%1(verb)=partir
 progress@adj!us-us%1(adj)=avancée
 prohibeo@verb!norm%1(verb)=preserver%2(verb)=defendre%3(verb)=proteger%4(verb)=garder
@@ -1277,6 +1279,7 @@ sign@noun!um-i%1(noun)=signe
 silenti@noun!um-i%1(noun)=obscurité%2(noun)=inactivité%3(noun)=silence
 simil@adj!is-is-e%1(adj)=similaire
 similitud@noun!o-inis%1(noun)=similitude%2(noun)=ressemblance
+sim@noun!o-onis%1(noun)=simon
 simon@noun!inv%1(noun)=simon
 simplici@adj!or-or-us%1(adj)=plus simple
 sine@prep%1(prep)=sans

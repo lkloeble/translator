@@ -2,3 +2,4 @@ noma%sing%masc%u
 nomb%sing%masc%ul
 noma%plr%masc%i
 nomb%plr%masc%ii
+gen%sing%masc%ului

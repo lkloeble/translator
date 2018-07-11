@@ -156,6 +156,7 @@ clemen@masc%s-tis
 cler@masc%us-i
 clien@masc%s-tis2
 coct@adj%us-a-um
+cognit@adj%us-a-um
 collect@fem%a-ae
 column@fem%a-ae
 complet@adj%us-a-um
@@ -694,6 +695,7 @@ prodigi@neut%um-i
 proeli@neut%um-i
 profect@adj%us-a-um
 profecti@fem%o-onis
+profess@adj%us-a-um
 progress@masc%us-us
 promiscu@adj%us-a-um
 propagand@adj%us-a-um
@@ -799,7 +801,8 @@ sign@masc%um-i
 silenti@neut%um-i
 simil@adj%is-is-e
 similitud@fem%o-inis
-simon@neut%inv
+sim@masc%o-onis
+simon@masc%inv
 simplici@adj%or-or-us
 singul@adj%us-a-um
 soci@adj%us-a-um

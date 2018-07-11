@@ -10,6 +10,7 @@ actsiune@fem%ereditate
 actual@adj%adj
 adancim@fem%berea
 adancir@fem%berea
+adaptare@fem%inv
 adapost@masc%locul
 adevarat@adj%adj
 afirmatsi@fem%fem
@@ -274,6 +275,7 @@ grij@fem%femi
 harnic@adj%adj
 hots@masc%ul
 hristos@masc%inv
+iad@masc%ul
 iarba@fem%inv
 ide@fem%parinte
 identic@adj%adj
@@ -390,6 +392,7 @@ milioan@fem%fem
 militsien@masc%ul
 mincare@neut%inv
 mineral@adj%adj
+mint@fem%berea
 minut@fem%fem
 miscar@fem%berea
 mladits@fem%fem
@@ -534,12 +537,14 @@ ra@masc%fiul
 radacin@fem%fem
 radu@neut%inv
 ragusit@adj%adj
+rand@masc%ul
 ras@fem%fem
 rastimp@masc%locul
 ratsional@adj%adj
 ratsionalita@fem%capacitate
 ratsiun@fem%ratsiune
 rau@adj%inv
+ra@adj%adj
 rauri@masc%inv
 raz@fem%fem
 realita@fem%capacitate
@@ -641,6 +646,7 @@ sut@fem%fem
 tacimuri@neut%inv
 tacimurile@neut%inv
 talentat@adj%adjts
+tanar@masc%ul
 tare@neut%inv
 tarziu@neut%inv
 tata@masc%inv
@@ -652,6 +658,7 @@ termen@masc%ul
 text@neut%ul
 timp@masc%ul
 tinar@adj%adj
+tsiner@fem%berea
 tiparit@adj%adj
 tirziu@neut%inv
 totul@neut%inv
@@ -664,6 +671,7 @@ trei@neut%inv
 treisprezece@neut%inv
 treizeci@neut%inv
 tren@masc%ul
+trup@masc%ul
 tsaran@masc%ul
 tsigar@fem%tigara
 tsint@fem%fem
@@ -722,6 +730,7 @@ vizavi@masc%inv
 vizit@fem%fem
 voc@fem%berea
 voi@neut%inv
+voilor@neut%inv
 vrem@fem%berea
 will@neut%inv
 zahar@neut%inv
