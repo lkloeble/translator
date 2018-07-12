@@ -855,6 +855,7 @@ putsin@prep%1(prep)=peu
 ra@noun!fiul%1(noun)=mal%2(noun)=rivière
 radacin@noun!fem%1(noun)=racine
 radu@noun!inv%1(noun)=radu
+rafinat@noun!adj%1(noun)=raffiné
 ragusit@noun!adj%1(noun)=enroué
 rama@verb!norm%1(verb)=rester
 rand@noun!ul%1(noun)=rang
@@ -979,6 +980,7 @@ spal@verb!norm%1(verb)=laver
 sparg@verb!norm%1(verb)=casser
 spital@noun!ul%1(noun)=hôpital
 splendid@noun!adj%1(adj)=splendide
+sporit@noun!adj%1(adj)=accru
 sportiv@noun!adj%1(adj)=sportif
 spre@prep%1(prep)=en direction de
 sprecare@prep%1(prep)=en raison duquel

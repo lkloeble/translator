@@ -536,6 +536,7 @@ puternic@adj%adj
 ra@masc%fiul
 radacin@fem%fem
 radu@neut%inv
+rafinat@adj%adj
 ragusit@adj%adj
 rand@masc%ul
 ras@fem%fem
@@ -625,6 +626,7 @@ sots@masc%ul
 sotsi@fem%fem
 spital@masc%ul
 splendid@adj%adj
+sporit@adj%adj
 sportiv@adj%adj
 stabilit@adj%adj
 stapan@masc%ul

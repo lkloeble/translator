@@ -78,6 +78,7 @@ baptism@neut%invmasc
 bar@neut%normmasc
 barbarous@adj%invmasc
 barren@neut%invmasc
+barrenness@neut%invmasc
 bay@neut%invmasc
 bdellium@neut%invmasc
 beast@neut%normmasc
@@ -829,6 +830,7 @@ pollution@fem%normfem
 pomegranate@neut%normmasc
 poor@adj%invmasc
 popular@adj%invmasc
+porch@neut%church
 portion@fem%normfem
 possession@fem%normfem
 possible@adj%normmasc

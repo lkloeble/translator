@@ -89,6 +89,7 @@ him@prep()
 himself@prep()
 himselfe@prep()
 his@prep()
+hither@prep()
 how@prep()%[searchHowMany,searchHowMuch]
 however@prep()
 howmany@prep()

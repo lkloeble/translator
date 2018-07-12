@@ -302,6 +302,7 @@ verletz,en,[pflanzen]
 verlier,en,[leben],(PAP*verlier*verloren*0)
 vermeid,en,[mochten]
 verpflicht,en,[mochten],(PAP*verpflicht*verpflichtet*0)
+verrat,en,[gelten]
 verrats,eln,[sammeln]
 verschaff,en,[leben]
 verschreib,en,[rufen]

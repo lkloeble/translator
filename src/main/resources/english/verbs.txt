@@ -224,6 +224,7 @@ play,[live]
 possess,[teach]
 preach,[teach]
 prefer,[live],(PAP*preferd*preferred*0)
+prejudge,[live]
 produce,[live]
 profess,[teach]
 promise,[live],(PAPR*promise*promis*0)

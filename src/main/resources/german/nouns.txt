@@ -1278,6 +1278,8 @@ wenig@neut%meinmasc
 werk@neut%meer
 wertschatzung@fem%meinfem
 wert@masc%jahrzehnt
+Wesentlich@adj%ausreichend
+Wesentliche@fem%flasche
 wetter@neut%inv
 wichtig@neut%inv
 wichtigst@adj%ausreichend
