@@ -28,6 +28,7 @@ alternative@fem%normfem
 amber@neut%invmasc
 ammonite@neut%normmasc
 amoraim@neut%invmasc
+amorite@neut%normmasc
 ancestr@fem%endy
 ancient@neut%normmasc
 anciently@neut%invmasc
@@ -90,6 +91,7 @@ beginning@masc%normmasc
 behaviour@neut%normmasc
 bell@neut%endy
 benefit@neut%normmasc
+better@neut%invmasc
 betters@neut%invmasc
 bible@neut%normmasc
 big@adj%normmasc
@@ -225,6 +227,7 @@ constitution@masc%normmasc
 contemporar@adj%endy
 contradiction@fem%normfem
 contribution@fem%normfem
+convenient@neut%invmasc
 cooking@neut%invmasc
 cool@adj%invmasc
 cor@neut%invmasc
@@ -459,6 +462,7 @@ gift@neut%normmasc
 gihon@neut%invmasc
 girdle@neut%normmasc
 girl@fem%normfem
+giveth@neut%invmasc
 gloom@neut%invmasc
 glor@fem%endy
 gloss@neut%invmasc
@@ -1020,7 +1024,7 @@ soul@fem%normfem
 southern@neut%invmasc
 soveraigne@neut%invmasc
 soveraignt@fem%endy
-sp@neut%invmasc
+sp@masc%endy
 space@neut%normmasc
 speech@neut%church
 spice@neut%normmasc

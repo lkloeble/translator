@@ -259,6 +259,7 @@ without@prep()
 who@prep()
 whose@prep()
 why@prep()
+ye@prep()%[electPersonInFollowingVerb(1)]
 yea@prep()
 yet@prep()
 you@prep()%[electPersonInFollowingVerb(1)]
