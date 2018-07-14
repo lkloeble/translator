@@ -83,6 +83,7 @@ aufwiederhoren@neut%inv
 aufzeichnungen@fem%meinfem
 auge@neut%flasche
 augenblick@neut%inv
+ausdeutung@fem%meinfem
 ausdruck@masc%jahrzehnt
 ausflucht@fem%angst
 ausfuhrung@fem%meinfem
@@ -118,6 +119,7 @@ bastard@neut%bastard
 baum@neut%jahrzehnt
 bauamt@neut%inv
 beamt@masc%artist
+bedeutsamkeit@fem%meinfem
 bedeutung@fem%meinfem
 bedeutungslos@adj%ausreichend
 bedurfnis@neut%erkenntnis
@@ -349,6 +351,7 @@ fleischlich@adj%ausreichend
 fleiss@masc%inv
 florenz@fem%inv
 flote@fem%norm
+fluche@fem%flasche
 flug@neut%meinmasc
 flugzeug@neut%meinmasc
 folge@fem%flasche
@@ -447,6 +450,7 @@ geschwacht@adj%ausreichend
 geschichte@fem%flasche
 gesetz@neut%meer
 gesetzlich@adj%ausreichend
+gesinnung@fem%meinfem
 gestiegen@adj%ausreichend
 gesund@neut%inv
 gesundheit@fem%norm
@@ -616,6 +620,7 @@ kassette@fem%flasche
 katalog@masc%norm
 katze@fem%flasche
 kaufmann@masc%burger
+keil@masc%phanomen
 kenntnis@fem%angst
 kenntniss@fem%angst
 kern@masc%meer
@@ -857,6 +862,7 @@ pause@fem%inv
 personlich@adj%ausreichend
 peinlich@adj%ausreichend
 perikles@neut%inv
+perversitat@neut%inv
 pessimismus@neut%inv
 pessimist@adj%meinmasc
 peter@neut%inv
@@ -1267,6 +1273,7 @@ wasser@fem%masc
 webend@fem%meinfem
 wechselnd@adj%ausreichend
 weg@masc%phanomen
+wehr@masc%schmerz
 weib@fem%ort
 wein@neut%inv
 weiss@adj%ausreichend
@@ -1329,6 +1336,7 @@ zigarette@fem%flasche
 zimmer@fem%inv
 zitate@fem%jahrzehnt
 zone@fem%flasche
+zornigst@adj%ausreichend
 zuganglich@adj%meinmasc
 zugehorigkeit@fem%meinfem
 zugrunde@fem%flasche

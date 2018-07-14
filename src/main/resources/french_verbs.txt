@@ -295,6 +295,7 @@ fairefuir@NORM%[IPR]=[fais fuir,fais fuir,fait fuir,faisons fuir,faites fuir,fon
 faireduvelo@NORM%[IPR]=[fais du vélo,fais du vélo,fait du vélo,faisons du vélo,faîtes du vélo,font du vélo]%[PAPR]=[faisant du vélo]%[INFINITIVE]=[faire du vélo]
 fairemal@NORM%[IPR]=[fais mal,fais mal,fait mal,faisons mal,faîtes mal,font mal]%[INFINITIVE]=[faire mal]
 fairesavoir@NORM%[faire savoir]%[IPR]=[fais savoir,fais savoir,fait savoir,faisons savoir,faites savoir,font savoir]
+fairetourner@NORM%[INFINITIVE]=[faire tourner]%[IPR]=[fais tourner,fais tourner,fait tourner,faisons tourner,faites tourner,font tourner]
 falloirque@NORM%[INFINITIVE]=[falloir que]%[ACP]=[,,il faudrait que,,,]%[IPR]=[,,il faut que,,,]
 favoriser@NORM%[INFINITIVE]=[favoriser]%[IPR]=[favorise,favorises,favorise,favorisons,favorisez,favorisent]
 fermer@NORM%[IPR]=[ferme,fermes,ferme,fermons,fermez,ferment]%[AIP]=[fermai,fermas,ferma,fermâmes,fermâtes,fermèrent]%[INFINITIVE]=[fermer]

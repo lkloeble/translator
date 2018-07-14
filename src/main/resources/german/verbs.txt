@@ -183,6 +183,7 @@ kost,en,[leben]
 kriech,en,[leben]
 kritisier,en,[leben]
 kumme,rn,[leben]
+kundig,en,[leben]
 lad,en,[leben]
 lass,en,[lassen],(AIP*lass*liess*0@PAP*la*gela*0)
 lauf,en,[rufen],(AIP*lauf*lief*0)
@@ -238,6 +239,7 @@ schein,en,[rufen],(AIP*schein*schien*0)
 schlacht,en,[mochten]
 schlaf,en,[leben]
 schleich,en,[leben]
+schleud,ern,[fordern]
 schliess,en,[schliessen],(AIP*schliess*schloss*0)
 schreib,en,[rufen],(AIP*schreib*schrieb*0@PAP*schrei*geschrie*0)
 schutz,en,[leben],(IPR*schutzst*schutzt*0)
