@@ -142,6 +142,7 @@ ave@noun!inv%1(noun)=bonjour
 bacul@noun!um-i%1(noun)=support%2(noun)=sceptre%3(noun)=bâton
 baptism@noun!um-i%1(noun)=baptême
 baptist@noun!a-ae%1(noun)=baptiste
+baptizat@adj!us-a-um%1(adj)=baptisé
 barnabe@noun!inv%1(noun)=barnabé
 bdelli@noun!um-i%1(noun)=bdellium
 beat@adj!us-a-um%1(adj)=bienheureux, heureux%2(adj)=comble de tous les biens, riche, opulent%3(adj)=bienheureux, beni, saint (christianisme)%5(adj)=heureux
@@ -641,6 +642,7 @@ impleo@verb!norm%1(verb)=satisfaire%2(noun)=rendre enceinte%3(noun)=couvrir%4(no
 impluvi@noun!um-i%1(noun)=bassin
 impono@verb!norm%1(verb)=poser
 importo@verb!norm%1(verb)=importer
+impositio@noun!x-nis%1(noun)=application%2(noun)=imposition
 improb@noun!us-a-um%1(noun)=mauvais
 impugno@verb!norm%1(verb)=combattre
 in@prep%1(prep+acc)=dans, en, sur : (sens local aboutissement d'un mouvement)%2(prep+acc)=jusqu'a : (temporel aboutissement d'un mouvement)%3(prep+acc)=a la maniere de%4(prep+acc)=pour, en faveur de%5(prep+abl)=dans,en,sur (sens local sans mouvement)%6(prep+abl)=dans (temporel indiquant une date ou un laps de temps)%7(prep+abl)=dans,parmi%8(prep+abl)=dans
@@ -1095,6 +1097,7 @@ profecti@noun!o-onis%1(noun)=voyage%2(noun)=départ
 profero@verb!norm%1(verb)=apparaitre2
 profess@adj!us-a-um%1(adj)=confessé%2(adj)=professé
 proficiscor@verb!norm%1(verb)=partir
+profiteor@verb!norm%1(verb)=professer
 progress@adj!us-us%1(adj)=avancée
 prohibeo@verb!norm%1(verb)=preserver%2(verb)=defendre%3(verb)=proteger%4(verb)=garder
 promiscu@adj!us-a-um%1(adj)=mele,indistinct,commun%2(adj)=confondu,indifferent%3(adj)=melange
@@ -1282,6 +1285,7 @@ similitud@noun!o-inis%1(noun)=similitude%2(noun)=ressemblance
 sim@noun!o-onis%1(noun)=simon
 simon@noun!inv%1(noun)=simon
 simplici@adj!or-or-us%1(adj)=plus simple
+simulo@verb!norm%1(verb)=simuler
 sine@prep%1(prep)=sans
 singul@adj!us-a-um%1(adj)=tous%2(adj)=chaque
 sitio@verb!norm%1(verb)=avoirsoif

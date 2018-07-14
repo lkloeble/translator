@@ -241,6 +241,7 @@ prod,eo,is,ire,ii,itum,[eo-is]
 produc,o,is,ere,,,[o-is],(AIPP*produc*produx*0@AIFP*producs*produx*0@AIP*produc*produx*0)
 profer,o,s,re,,,[o-s],(AIP*profer*protul*0)
 proficisc,or,eris,i,,,[or-eris]
+profite,or,ris,ri,,,[or-ris]
 prohib,eo,es,ere,,,[eo-es]
 prostern,o,is,ere,,,[o-is],(AIFP*prosterns*prostrav*0)
 public,o,as,are,,,[o-as]
@@ -275,6 +276,7 @@ semin,o,as,are,,,[o-as]
 separ,o,as,are,,,[o-as],(ASP*separe*separaveri*0)
 sequ,or,eris,i,,,[or-eris]
 serv,o,as,are,,,[o-as]
+simul,o,as,are,,,[o-as]
 sit,io,is,ire,,,[io-is],(ASI*site*siti*0)
 solv,o,is,ere,,,[o-is]
 son,o,as,are,,,[o-as]

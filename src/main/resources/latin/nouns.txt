@@ -92,6 +92,7 @@ ave@neut%inv
 bacul@neut%um-i
 baptism@neut%um-i
 baptist@masc%a-ae
+baptizat@adj%us-a-um
 barnabe@masc%inv
 bdelli@neut%um-i
 beat@adj%us-a-um
@@ -393,6 +394,7 @@ immutat@adj%us-a-um
 imperi@masc%um-i
 impi@adj%us-a-um
 impluvi@neut%um-i
+impositio@fem%x-nis
 improb@adj%us-a-um
 inan@adj%is-is-e
 incarnat@adj%us-a-um

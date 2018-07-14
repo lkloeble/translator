@@ -748,7 +748,10 @@ patrologiacaput3A19=>plus(s)(e) qui(s) miracle(s) et (aux) prodige(s) entièreme
 patrologiacaput3A20=>mais après tué martyr étienne, Philippe samarie(e) (du) evangile (du) qui va être proclamé grace(e) se apporta,
 patrologiacaput3A21=>et là non trompé(e)@trompé(s)@, comme simon, mais vrai(e)@vrai(s)@ publia miracle(s).
 patrologiacaput3A22=>(par) qui(s)@qui@qui(e)@ mais le même (par) simon(e) (au) magicien (aux) connu(s)@(par) connu(s)(e)@connu@, chrétien(e) observance(e) celui la professé est,
-patrologiacaput3A23=>foobar
+patrologiacaput3A23=>ou, comme dit eusèbe, simula se professer.
+patrologiacaput3A24=>avec mais@vrai@ dans baptisé(s) sacré(e)@sacré(s)@ Pierre(s) et (du) jean (des) main(s) (par) imposition souffle saint,
+patrologiacaput3A25=>foobar
+patrologiacaput3A26=>foobar
 
 
 genese1A=>dans commencement créa dieu ciel et terre(e)

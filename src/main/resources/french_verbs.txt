@@ -613,7 +613,7 @@ setaire@NORM%[INFINITIVE]=[se taire]%[IPR]=[me tais,te tais,se tait,nous taisons
 sieger@NORM%[INFINITIVE]=[siéger]%[IPR]=[siège,sièges,siège,siègeons,siègez,siègent]%[AII]=[siègeais,siègeais,siègeait,siègions,siègiez,siègeaient]%[AIP]=[siégeai,siégeas,siégea,siégeâmes,siégeâtes,siégèrent]
 signer@NORM%[INFINITIVE]=[signer]%[IPR]=[signe,signes,signe,signons,signez,signent]%[AIPP]=[ai signé,as signé,a signé,avons signés,avez signés,ont signés]%[AII]=[signais,signais,signait,signions,signiez,signaient]
 signifier@NORM%[INFINITIVE]=[signifier]%[IPR]=[signifie,signifies,signifie,signifions,signifiez,signifient]%[PAP]=[signifié]%[PAPR]=[signifiant]
-simuler@NORM%[INFINITIVE]=[simuler]%[IPR]=[simule,simules,simule,simulons,simulez,simulent]%[PAP]=[simulé]%[PAPR]=[simulant]
+simuler@NORM%[INFINITIVE]=[simuler]%[IPR]=[simule,simules,simule,simulons,simulez,simulent]%[PAP]=[simulé]%[PAPR]=[simulant]%[AIP]=[simulai,simulas,simula,simulâmes,simulâtes,simulèrent]
 skier@NORM%[IPR]=[skie,skies,skie,skions,skiez,skient]%[PAPR]=[skiant]%[INFINITIVE]=[skier]
 soccuper@NORM%[INFINITIVE]=[s'occuper]%[IPR]=[m'occupe,t'occupes,s'occupe,nous occupons,vous occupez,s'occupent]%[AII]=[m'occupais,t'occupais,s'occupait,nous occupions,vous occupiez,s'occupaient]
 soigner@NORM%[IPR]=[soigne,soignes,soigne,soignons,soignez,soignent]%[PIP]=[suis soigné,es soigné,est soigné,sommes soignés,êtes soignés,sont soignés]%[INFINITIVE]=[soigner]%[PII]=[ai été soigné,as été soigné,a été soigné,avons été soignés,avez été soignés,ont été soignés]

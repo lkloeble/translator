@@ -1,2 +1,3 @@
 IPR=>or,ris,tur,mur,mini,ntur
 ASI=>er,eris,etur,emus,emini,entur
+IAPP=>ri,us,urus
