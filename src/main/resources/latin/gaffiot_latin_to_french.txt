@@ -119,6 +119,7 @@ ascendo@verb!norm%1(verb)=jaillir%2(verb)=grimper%3(verb)=monter
 arm@noun!a-ae%1(noun)=armes
 ar@noun!s-tis%1(noun)=puissance%2(noun)=art
 asi@noun!a-ae%1(noun)=asie
+aspectabil@adj!is-is-e%1(adj)=visible
 assequor@verb!norm%1(verb)=comprendre%2(verb)=rivaliser%3(verb)=atteindre,achever%4(verb)=poursuivre
 assertor@noun!x-is2%1(noun)=déclarant
 assisto@verb!norm%1(verb)=etre jugé%2(verb)=defendre%3(verb)=seplacer
@@ -266,6 +267,7 @@ conservo@verb!norm%1(verb)=preserver%2(noun)=garder
 consigno@verb!norm%1(verb)=signer
 consisco@verb!norm%1(verb)=resoudre%2(verb)=approuver
 consisto@verb!norm%1(verb)=stopper
+conspicio@verb!norm%1(verb)=regarder
 consili@noun!um-i%1(noun)=conseil%2(noun)=plan
 constan@adj!s-s-s%1(adj)=constant
 constitut@noun!um-i%1(noun)=accord%2(noun)=arrangement
@@ -348,6 +350,7 @@ demonstrati@noun!o-onis%1(noun)=indication%2(noun)=preuve
 demonstro@verb!nom%1(verb)=montrer,faire voir,designer,indiquer%2(verb)=exposer,decrire,mentionner%3(verb)=montrer
 denique@prep%1(prep)=à côté de cela%2(prep)=finalement
 depono@verb!norm%1(verb)=placer
+descendo@verb!norm%1(verb)=descendre
 desert@adj!us-a-um%1(adj)=désert
 desino@verb!norm%1(verb)=cesser%2(noun)=stopper
 despect@adj!us-a-um%1(adj)=dédaigné%2(adj)=méprisé
@@ -454,6 +457,7 @@ erran@adj!s-s-s%1(adj)=égaré
 error@noun!x-is2%1(noun)=erreur
 erudio@verb!norl%1(verb)=cultiver%2(verb)=eduquer%3(verb)=instruire
 esc@noun!a-ae%1(noun)=nourriture
+essenti@noun!a-ae%1(noun)=essence
 et@prep%1(prep)=et
 etenim@prep%1(prep)=parce  que
 etiam@prep%1(prep)=bien plus%2(prep)=même
@@ -478,6 +482,7 @@ excogito@verb!norm%1(verb)=inventer
 exercit@adj!us-a-um%1(adj)=exercé%2(adj)=occupé
 exercit@noun!us-us%1(noun)=entrainé
 existen@adj!s-tis%1(noun)=existant%2(noun)=étant
+existenti@noun!a-ae%1(noun)=existence
 exitios@adj!us-a-um%1(noun)=mortel%2(adj)=pernicieux
 explicand@adj!us-a-um%1(noun)=expliqué
 explicati@noun!o-onis%1(noun)=explication
@@ -494,6 +499,7 @@ exsto@verb!norm%1(verb)=se tenir audessus,etre eleve au dessus,depasser%2(verb)=
 exsulto@verb!norm%1(verb)=exulter
 extendo@verb!norm%1(verb)=etendre
 extra@prep%1(prep)=au delà%2(prep)=en dehors
+exust@adj!us-a-um%1(adj)=brûlé
 fabi@noun!a-ae%1(noun)=fabia
 fabul@noun!a-ae%1(noun)=poême%2(noun)=fable%3(noun)=histoire
 facio@verb!norm%1(verb)=faire
@@ -623,6 +629,7 @@ idem@prep%1(prep)=même
 ii@prep%1(prep)=ils
 iidem@prep%1(prep)=ils
 iis@prep%1(prep)=à/de ceux
+iisdem@prep%1(prep)=même
 iii@prep%1(prep)=iii
 iam@prep%1(noun)=déjà%2(noun)=maintenant%3(noun)=plus
 ibi@prep%1(noun)=là
@@ -939,6 +946,7 @@ occas@noun!us-us%1(noun)=ouest
 octav@adj!us-a-um%1(adj)=huitieme
 octo@noun!inv%1(noun)=huit
 odi@noun!um-i%1(noun)=haine
+offero@verb!norm%1(verb)=offrir%2(verb)=presenter
 ole@noun!a-ae%1(noun)=olive
 omn@adj!is-is-e%1(adj)=tous
 omnino@prep%1(prep)=entièrement
@@ -1032,6 +1040,7 @@ pir@noun!um-i%1(noun)=poire
 pisc@noun!is-is%1(noun)=poisson
 pistor@noun!x-is%1(noun)=boulanger
 placenti@noun!a-ae%1(noun)=placentia
+plane@prep%1(prep)=distinctement
 planto@verb!norm%1(verb)=planter
 pleb@noun!s-is%1(noun)=plèbe
 plen@adj!us-a-um%1(adj)=plein
@@ -1422,6 +1431,7 @@ unquam@prep%1(prep)=toujours
 unumquodque@noun!inv%1(noun)=chaque
 urb@noun!s-is%1(noun)=ville
 urs@noun!us-i%1(noun)=ursus
+us@adj!us-a-um%1(adj)=utilisé
 ut@prep%1(adv)=comme%2(adv)=de quelle maniere%3(adv)=quand,aussitot que,depuis que%4(adv+subj)=afin que,pour que,de telle sorte que%4(adv)=comme
 uti@prep%1(adv)=comme%2(adv)=de quelle maniere%3(adv)=quand,aussitot que,depuis que%4(adv+subj)=afin que,pour que,de telle sorte que%4(adv)=comme
 vacu@adj!us-a-um%1(adj)=desert

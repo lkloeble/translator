@@ -36,6 +36,7 @@ import java.util.*;
  * PEACIN => Perfect Active Indicative
  * PRPARPASS => Present Participle Middle/Passive
  * PASANT => passé antérieur
+ * ASPP => Active Subjonctive PluPerfect
  */
 public abstract class Conjugation {
 

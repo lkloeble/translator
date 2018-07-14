@@ -3,3 +3,4 @@ AII=>ebar,ebaris|ebare,ebatur,ebamur,ebamini,ebantur
 VENO=>ere,endi,endo,endum,xxx,xxx
 ASI=>er,eris|ere,etur,emur,emini,entur
 PIF=>ar,eris,etur,emur,emini,entur
+ASP=>ar,aris|are,atur,amur,amini,antur

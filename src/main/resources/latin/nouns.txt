@@ -76,6 +76,7 @@ arimin@neut%um-i
 arm@fem%a-ae
 ar@fem%s-tis
 asi@fem%a-ae
+aspectabil@adj%is-is-e
 assertor@masc%x-is2
 assyri@masc%us-i
 atlantic@adj%us-a-um
@@ -275,6 +276,7 @@ ereb@masc%us-i
 erran@adj%s-s-s
 error@masc%x-is2
 esc@fem%a-ae
+essenti@fem%a-ae
 ev@fem%a-ae
 euboe@fem%a-ae
 eucharisti@fem%a-ae
@@ -289,6 +291,7 @@ excus@adj%us-a-um
 exercit@adj%us-a-um
 exercit@masc%us-us
 existen@adj%s-tis
+existenti@fem%a-ae
 exitios@adj%us-a-um
 explicand@adj%us-a-um
 explicati@fem%o-onis
@@ -297,6 +300,7 @@ expugnator@masc%x-is
 exspectat@adj%us-a-um
 exstinct@adj%us-a-um
 extrem@adj%us-a-um
+exust@adj%us-a-um
 fabi@fem%a-ae
 fabul@fem%a-ae
 faci@fem%es-ei
@@ -887,6 +891,7 @@ univers@adj%us-a-um
 unumquodque@neut%inv
 urb@fem%s-is
 urs@masc%us-i
+us@adj%us-a-um
 vacu@adj%us-a-um
 vari@adj%us-a-um
 vas@neut%x-is

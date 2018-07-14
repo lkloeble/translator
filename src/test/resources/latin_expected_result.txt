@@ -750,8 +750,10 @@ patrologiacaput3A21=>et là non trompé(e)@trompé(s)@, comme simon, mais vrai(e
 patrologiacaput3A22=>(par) qui(s)@qui@qui(e)@ mais le même (par) simon(e) (au) magicien (aux) connu(s)@(par) connu(s)(e)@connu@, chrétien(e) observance(e) celui la professé est,
 patrologiacaput3A23=>ou, comme dit eusèbe, simula se professer.
 patrologiacaput3A24=>avec mais@vrai@ dans baptisé(s) sacré(e)@sacré(s)@ Pierre(s) et (du) jean (des) main(s) (par) imposition souffle saint,
-patrologiacaput3A25=>foobar
+patrologiacaput3A25=>(par) tous(s)@tous@tous(e)@ distinctement visible@visible(e)@, descendre eut regardé, argent(e) même (aux) apotre(s) présenta,
 patrologiacaput3A26=>foobar
+patrologiacaput3A27=>foobar
+patrologiacaput3A28=>foobar
 
 
 genese1A=>dans commencement créa dieu ciel et terre(e)
@@ -883,7 +885,7 @@ caesar1E32=>comme maison (du) retour(e) (par) espoir enlevé(e)@enlevé(s)@ mieu
 caesar1E33=>(des) trois(s) table tenté(e) relatif à la nourriture(e) à eux et qui (au) maison apporter/es apporté ordonnent.
 caesar1E41'=>Ils persuadent aux Rauraques, aux Tulinges et aux Latobriges, leurs voisins, de partir avec eux, après avoir, à leur exemple, brûlé leurs villes et leurs bourgs, et s’associent un peuple d’au delà du Rhin, les Boïens, qui s’étaient jetés dans la Norique, et avaient donné l’assaut à Noréia.
 caesar1E41=>persuadent (aux) rauraque(s) et (aux) tulinge(s) et (aux) latobrige(s) (aux) voisin(s),
-caesar1E42=>Ils persuadent aux Rauraques, aux Tulinges et aux Latobriges, leurs voisins, de partir avec eux, après avoir, à leur exemple, brûlé leurs villes et leurs bourgs, et s’associent un peuple d’au delà du Rhin, les Boïens, qui s’étaient jetés dans la Norique, et avaient donné l’assaut à Noréia.
+caesar1E42=>comme le même (du) utilisé plan (aux) ville(s) (par) son(s) et (aux) village(s) (par) brûlé(s)(e) un(e)@un(s)@ avec à/de ceux partent,
 caesar1E43=>Ils persuadent aux Rauraques, aux Tulinges et aux Latobriges, leurs voisins, de partir avec eux, après avoir, à leur exemple, brûlé leurs villes et leurs bourgs, et s’associent un peuple d’au delà du Rhin, les Boïens, qui s’étaient jetés dans la Norique, et avaient donné l’assaut à Noréia.
 caesar1E44=>Ils persuadent aux Rauraques, aux Tulinges et aux Latobriges, leurs voisins, de partir avec eux, après avoir, à leur exemple, brûlé leurs villes et leurs bourgs, et s’associent un peuple d’au delà du Rhin, les Boïens, qui s’étaient jetés dans la Norique, et avaient donné l’assaut à Noréia.
 traduction=>https://fr.wikisource.org/wiki/La_Guerre_des_Gaules/Livre_I#5
@@ -968,7 +970,7 @@ caesar1T4=>foo
 caesar1T5=>foo
 
 
-spinozaethi1A=>foobar
+spinozaethi1A=>définition(e) 1 : par raison(e) (du) son@lui-même@son(s)@ comprends ce de qui essence(e) enroule existence(e) ou si ce de qui nature(e) non peut reçus à l'exception de étant.
 spinozaethi1B=>foobar
 spinozaethi1C=>foobar
 spinozaethi1D=>foobar
