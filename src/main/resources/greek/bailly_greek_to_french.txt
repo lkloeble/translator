@@ -102,6 +102,7 @@
 αραμ@noun!inv%1(noun)=aram
 αργυρι@noun!ον-ου%1(noun)=monnaie%2(noun)=argent
 αριθμ@noun!ος-ου%1(noun)=somme
+αρματει@noun!ος-ου%1(noun)=char
 αρτ@noun!ος-ου%1(noun)=pain
 αρχ@noun!η-ης%1(noun)=principe,origine%2(noun)=point de depart%3(noun)=extremite finale,recapitulation,total%4(noun)=commandement,pouvoir,autorite%5(noun)=commencement
 αρκε@verb!norm%1(verb)=assister%2(verb)=ecarter
@@ -213,6 +214,7 @@
 δοξ@noun!α-ης%1(noun)=gloire
 δουλ@noun!ος-ου%1(noun)=esclave%2(noun)=serviteur
 δυο@noun!inv%1(noun)=deux
+εικοσαπλασιονα@noun!inv%1(noun)=vingt fois
 εαυτων@prep%1(prep)=à nous-mêmes%2(prep)=à vous-mêmes%3(prep)=à eux-mêmes
 εγειρ@verb!norm%1(verb)=faire lever,ériger,dresser,mettre debout%2(verb)=s'éveiller%3(verb)=lever
 ειλικριν@adj!ης-ης-ες%1(adj)=sincère
@@ -553,6 +555,7 @@
 ουτως@prep%1(prep)=de cette façon
 οχλ@noun!ος-ου%1(noun)=foule
 ουχ@prep%1(prep)=ne
+οκτω@noun!inv%1(noun)=huit
 παθημ@noun!α-ατος%1(noun)=malchance%2(noun)=souffrance
 παι@noun!ς-δος%1(noun)=enfant
 παιδι@noun!ον-ου%1(noun)=enfant
@@ -769,6 +772,7 @@
 τουτω@prep%1(prep)=à ce
 τουτων@prep%1(prep)=de ces
 τριτ@adj!ος-η-ον%1(adj)=trois
+τροχ@noun!ος-ου%1(noun)=roue
 τροχοειδ@adj!ης-ης-ες%1(noun)=rond
 τυφλ@adj!ος-η-ον%1(adj)=aveugle
 τω@prep%1(prep)=au
