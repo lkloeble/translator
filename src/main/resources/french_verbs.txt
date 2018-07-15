@@ -533,7 +533,7 @@ remplacer@NORM%[INFINITIVE]=[remplacer]%[IPR]=[remplace,remplaces,remplace,rempl
 remplir@NORM%[INFINITIVE]=[remplir]%[IPR]=[remplis,remplis,remplit,remplisson,remplissez,remplissent]%[PII]=[étais rempli,étais rempli,était rempli,étions remplis,étiez remplis,étaient remplis]%[PIF]=[serai rempli,seras rempli,sera rempli,serons remplis,serez remplis,seront remplis]%[AIMP]=[remplis,remplis,remplis,remplissons,remplissez,,]%[PAP]=[rempli]%[PAPR]=[remplissant]%[AIFP]=[aurai rempli,auras rempli,aurait rempli,aurons remplis,aurez rempli]%[ACAOIM]=[remplis,remplis,remplissons,remplissez]
 rencontrer@NORM%[INFINITIVE]=[rencontrer]%[IPR]=[rencontre,rencontres,rencontre,rencontrons,rencontrez,rencontrent]
 rendre@NORM%[INFINITIVE]=[rendre]%[IPR]=[rends,rends,rend,rendons,rendez,rendent]%[PAP]=[rendu]
-renforcer@NORM%[INFINITIVE]=[renforcer]%[IPR]=[renforce,renforces,renforce,renforçons,renforcez,renforcent]%[AIP]=[renforçai,renforças,renforça,renforçâmes,renforçâtes,renforcèrent]
+renforcer@NORM%[INFINITIVE]=[renforcer]%[IPR]=[renforce,renforces,renforce,renforçons,renforcez,renforcent]%[AIP]=[renforçai,renforças,renforça,renforçâmes,renforçâtes,renforcèrent]%[PAP]=[renforcé]
 renoncer@NORM%[IPR]=[renonce,renonces,renonce,renonçons,renoncez,renoncent]%[INFINITIVE]=[renoncer]
 renvoyer@NORM%[INFINITIVE]=[renvoyer]%[IPR]=[renvoie,renvoies,renvoit,renvoyons,renvoyez,renvoient]%[PAP]=[renvoyé]
 repandre@NORM%[IPR]=[répandre]%[IPR]=[répands,répands,répand,répandons,répandez,répandent]%[AIP]=[répandis,répandis,répandit,répandîmes,répandites,répandirent]

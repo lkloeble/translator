@@ -92,6 +92,7 @@ insemn,,[incerca],(IPR25*insem*inseam*0)
 insist,a,[incerca]
 inspaimant,,[cauta]
 intampl,,[intampla]
+intar,i,[aciti],(PAP*intar*intarit*0)
 interv,,[mentsin]
 intorc,,[face],(IPR234*intor*intoar*0)
 intovaras,,[locuiesc],(PAP*intovaras*intovarasit*0)
@@ -133,6 +134,7 @@ prefer,a,[incerca]
 prelucr,,[fumez]
 prim,,[primi]
 prin,de,[crede],(PAP*prin*prins*0)
+priv,i,[primi]
 produc,,[face]
 pun,e,[merg]
 rama,,[ramane]
@@ -151,6 +153,7 @@ rezum,,[incerca]
 rod,,[locuiesc]
 rug@IRREGULAR%[PAPR]=[rugandu]%[PAP]=[rugat]
 sad,,[locuiesc],(PAP*sad*sadit*0)
+savars,i,[aciti]
 savirs,,[primi]
 scri,,[scrie]
 scul@IRREGULAR%[PAPR]=[sculandu]
@@ -183,6 +186,7 @@ transmit,,[merg]
 trebui,,[trebui],(ACP*trebui*artrebui*0)
 trec,e,[merg],(PAP*trec*trecut*0)
 trim,,[trimite]
+tsi,ne,[ramane]
 umaniz,,[fumez]
 umpl,,[scrie],(PAP*umpls*umplut*0)
 urc,,[cauta]

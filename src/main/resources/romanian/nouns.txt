@@ -99,6 +99,7 @@ cartier@masc%ul
 cartof@masc%ul
 cas@fem%fem
 casatorit@adj%adj
+cautar@fem%berea
 caz@masc%ul
 ceai@masc%ul
 ceas@masc%ul
@@ -127,6 +128,7 @@ conditsi@fem%fem
 conducere@fem%ereditate
 confortabil@adj%adj
 coniac@masc%ul
+consens@masc%ul
 conservar@fem%berea
 conservatoare@neut%inv
 considerat@adj%adjts
@@ -216,6 +218,7 @@ ereditate@fem%ereditate
 esents@fem%fem
 esentsial@adj%adj
 etern@adj%adj
+eternitat@fem%ereditate
 eu@neut%inv
 eventual@adj%adj
 exact@adj%adj
@@ -451,6 +454,7 @@ odata@neut%inv
 odihn@fem%fem
 odrasl@fem%fem
 om@masc%ul
+omenesc@neut%inv
 oper@fem%fem
 opt@neut%inv
 ora@fem%inv
@@ -487,6 +491,7 @@ pere@masc%capacitate
 perfect@neut%inv
 periculos@neut%inv
 persoan@fem%fem
+perspectiv@fem%fem
 petrecere@fem%inv
 pg@neut%inv
 pian@masc%ul
