@@ -33,7 +33,7 @@ public class RuleWawConversiveForVerbTime extends Rule {
             followingVerb = verbRepository.affectTime(followingVerb, verbRepository.isOnlyInThisTime(followingVerb,pastTimes), futureTimes);
         }
         WordContainer followingWordContainer = phrase.getWordContainerAtPosition(position+1);
-        followingWordContainer.clearAll();
+        followingWordContainer.deleteWordByWordType(WordType.VERB);
         followingWordContainer.putOtherPossibleWord(followingWordVerb);
     }
 }
