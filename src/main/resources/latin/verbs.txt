@@ -12,8 +12,9 @@ adimpl,eo,es,ere,,,[eo-es]
 adfer,o,s,re,tuli,latum,[o-s]
 adjug,o,as,are,,,[o-as]
 adjuv,o,as,are,,,[o-as]
+adscisc,o,is,ere,,,[o-is]
 ador,o,as,are,,,[o-as]
-adduc,o,is,ere,,,[o-is],(AIPP*adduc*addux*0)
+adduc,o,is,ere,,,[o-is],(AIPP*adduc*addux*0@AIP*adduc*addux*0)
 adven,io,is,ere,,,[io-is]
 affic,io,is,ere,,,[io-is]
 ag,o,is,ere,egi,actum,[o-is],(AIP*ag*eg*0)
@@ -124,7 +125,7 @@ eo@IRREGULAR%[IPR]=[eo,is,it,imus,itis,eunt]%[AIP]=[ibam,ibas,ibat,ibamus,ibatis
 erig,o,is,ere,,,[o-is]
 erip,io,is,ere,,,[io-is],(AIP*erip*eripu*0)
 erud,io,is,ire,,,[io-is]
-evoc,o,as,are,avi,atus,[o-as]
+evoc,o,as,are,avi,atus,[o-as],(AIP*evoc*evocav*0@ASI*evoc*evocar*0)
 ex,eo,is,ire,,,[eo-is]
 examin,o,as,are,,,[o-as]
 exaud,io,is,ire,veni,ventum,[io-is]
@@ -158,7 +159,7 @@ import,o,as,are,,,[o-as]
 incend,o,is,ere,,,[o-is]
 incip,io,is,ere,,,[io-is],(AIP*incip*incep*0)
 inclin,o,as,are,,,[o-as]
-incol,o,is,ere,,,[o-is]
+incol,o,is,ere,,,[o-is],(AIPP*incol*incolu*0)
 indig,eo,es,ere,,,[eo-es],(AIP*indig*indigu*0)
 induc,o,is,ere,duxi,ductum,[o-is],(AIP*induc*indux*0)
 infer,o,s,re,tuli,latum,[o-s],(AIP*infer*intul*0)
@@ -207,6 +208,7 @@ obtin,eo,es,ere,,,[eo-es]
 occup,o,as,are,,,[o-as],(ASI*occup*occupar*0)
 offer,o,s,re,tuli,latum,[o-s],(AIP*offer*obtul*0)
 oper,o,as,are,,,[o-as],(PSI*oper*operar*0)
+oppugn,o,as,are,,,[o-as]
 oport,eo,es,ere,,,[eo-es]
 or,o,as,are,,,[o-as]
 ori,or,ris,ri,,,[or-ris],(IPR*orint*oriunt*0@ASI*ori*orir*0@ASI2*ori*ore*0)
@@ -302,6 +304,8 @@ tim,eo,es,ere,,,[eo-es]
 toll,o,is,ere,,,[o-is]
 tract,o,as,are,avi,atum,[o-as],(VENO*tract*xxx*0)
 trad,o,is,ere,,,[o-is],(AIP*trad*tradid*0)
+trans,eo,is,ire,,,[eo-is],(AIPP*trans*transi*0)
+transfund,o,is,ere,,,[o-is]
 transmitt,o,is,ere,,,[o-is]
 vad,o,is,ere,,,[o-is]
 vag,or,aris,ari,,,[or-aris]
@@ -314,7 +318,7 @@ vere,or,ris,re,,,[or-ris]
 verg,o,is,ere,,,[o-is],(AIP*verg*xxxxx*0)
 vert,o,is,ere,,,[o-is]
 vesc,or,eris,ere,,,[or-eris]
-vid,eo,es,ere,foo,bar,[eo-es2],(PSP*vid*visus*0@AIFP*vidue*vide*0)
+vid,eo,es,ere,foo,bar,[eo-es2],(PSP*vid*visus*0@AIFP*vidue*vide*0@ASI*vid*vider*0)
 vinc,o,is,ere,,,[o-is],(AIP*vinc*vic*0)
 viv,o,is,ere,,,[o-is]
 voc,o,as,are,avi,atus,[o-as],(ASI*voc*vocar*0)

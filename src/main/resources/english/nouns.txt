@@ -500,6 +500,7 @@ hardly@neut%invmasc
 harp@fem%normfem
 hatred@neut%invmasc
 havilah@neut%invmasc
+hazard@neut%normmasc
 head@neut%normfem
 health@neut%invmasc
 heart@neut%normmasc
@@ -527,6 +528,7 @@ holiness@neut%church
 holy@adj%invmasc
 home@fem%normfem
 hope@neut%normmasc
+horrid@adj%invmasc
 host@neut%normmasc
 hot@neut%invmasc
 hotel@neut%invmasc
@@ -551,6 +553,7 @@ important@adj%normmasc
 incense@neut%normmasc
 inch@neut%church
 individuall@adj%invmasc
+inducement@neut%normmasc
 inferior@adj%normmasc
 infinite@adj%normmasc
 inheritance@neut%normmasc
@@ -722,6 +725,7 @@ mouth@neut%church
 movement@masc%normmasc
 mt@neut%invmasc
 muddy@neut%invmasc
+multitude@neut%normmasc
 museum@masc%normmasc
 music@fem%normfem
 my@neut%invmasc
@@ -1008,6 +1012,7 @@ sleep@masc%invmasc
 small@adj%invmasc
 sodom@neut%invmasc
 software@neut%normmasc
+soil@neut%normmasc
 solomon@neut%invmasc
 someone@neut%invmasc
 something@neut%invmasc
@@ -1060,6 +1065,7 @@ sun@neut%normmasc
 sunday@neut%normmasc
 sunny@adj%invmasc
 super@neut%invmasc
+suppl@fem%endy
 sure@neut%invmasc
 sweat@neut%invmasc
 sword@fem%normfem
@@ -1135,6 +1141,7 @@ twining@fem%normfem
 twisting@fem%normfem
 two@neut%invmasc
 uk@neut%invmasc
+unanimous@adj%invmasc
 unanswered@neut%normmasc
 unanswerable@neut%normmasc
 unbelieving@neut%invmasc
@@ -1142,6 +1149,7 @@ uncertain@adj%normmasc
 uncharitable@adj%normmasc
 unclean@adj%invmasc
 underemphasis@neut%invmasc
+unhappy@adj%invmasc
 university@fem%invfem
 unknown@neut%invmasc
 unsatisfactory@neut%invmasc
@@ -1164,6 +1172,7 @@ voice@neut%normmasc
 void@neut%invmasc
 vol@neut%invmasc
 volume@neut%normmasc
+vote@neut%normmasc
 voyage@neut%normmasc
 waiter@masc%normmasc
 wales@neut%invmasc

@@ -388,6 +388,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "m60ts56r63i60m000@masc%invmasc",
                 "mlak@masc%im",
                 "m62l62k00056@masc%im",
+                "mqwh@neut%invpur",
                 "mqr@masc%mascendingh",
                 "mrgl@masc%im",
                 "mys@masc%endingh",
@@ -434,7 +435,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "qw331l@masc%mascot",
                 "qrwa@neut%invpur",
                 "qwra@neut%invpur",
-                "qm@masc%im",
+                "qm@masc%invpur",
                 "qriat@neut%invpur",
                 "qwm@neut%invmasc",
                 "qwra@masc%invmasc",
@@ -489,6 +490,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "t65hw@neut%invpur",
                 "tna@neut%im",
                 "trwm@fem%ot",
+                "tsan@masc%im",
                 "xw331b@noun%im-ot"
         });
     }
@@ -766,6 +768,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "mn@prep%1(prep)=de",
                 "m60n000@prep%1(prep)=de",
                 "m00060n000@prep%1(prep)=de",
+                "mqwh@noun!invpur%1(noun)=rassemblement des eaux",
                 "mqr@noun!mascendingh%1(noun)=accident%2(noun)=occurence",
                 "mrgl@noun!im%1(noun)=explorateur%2(noun)=espion",
                 "mys@noun!endingh%1(noun)=acte%2(noun)=oeuvre",
@@ -817,7 +820,8 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "qwm@noun!invmasc%1(noun)=lever",
                 "qrwa@noun!invmasc%1(noun)=lecture",
                 "qwra@noun!invpur%1(noun)=lecteur",
-                "qm@noun!im%1(noun)=ennemi",
+                "qm@noun!invpur%1(noun)=ennemi",
+                "qmn000@prep%1(prep)=avant",
                 "qmn@prep%1(prep)=avant",
                 "qra@verb!norm%1(verb)=crier%2(verb)=lire%3(verb)=appeler",
                 "qriat@noun!invpur%1(noun)=appel de",
@@ -846,6 +850,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "y64m000@noun!im%1(noun)=peuple",
                 "ymnw@prep%1(prep)=avec nous",
                 "ynin@noun!im%1(noun)=sujet",
+                "ypprep@prep%1(prep)=selon",
                 "yrbit@noun!invmasc%1(noun)=prière du soir",
                 "y62r62b@noun!im%1(noun)=soir",
                 "yrib@noun!invpur%1(noun)=soir",
@@ -920,6 +925,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "tklt@adj!invmasc%1(adj)=bleu",
                 "tna@noun!im%1(noun)=tannah",
                 "trwm@noun!ot%1(noun)=térouma",
+                "tsan@noun!im%1(noun)=troupeau",
                 "xw331b@noun!im-ot%1(noun)=bon",
                 "xbl@verb!norm%1(verb)=immerger",
                 "xma@verb!norm%1(verb)=profaner",
@@ -1249,8 +1255,10 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "ymm000@prep()",
                 "ymnw@prep()",
                 "y60m64m000@prep()",
+                "ypprep@prep()",
                 "ytsmi@prep()",
                 "qai@prep()",
+                "qmn000@prep()",
                 "qmn@prep()",
                 "rwb@prep()",
                 "s@prep()",
@@ -1988,7 +1996,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failed_ones() {
         assertTrue(true);
-        checkInMaps("wein38B1", translatorBridge);
+        checkInMaps("sheilamoreiE", translatorBridge);
         checkInMaps("totoacc", translatorBridge);
         checkInMaps("toto", translatorBridge);
     }

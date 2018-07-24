@@ -20,6 +20,7 @@ certe@prep()
 circa@prep()%[electAccusativeForFollowingNoun]
 circum@prep()%[electAccusativeForFollowingNoun]
 cito@prep()
+confestim@prep()
 continenter@prep()
 contra@prep()
 coram@adv%prep(abl)%[electAblativeForFollowingNoun]
@@ -59,6 +60,7 @@ etenim@prep()
 etiam@prep()
 etsi@prep()
 eum@prep()
+eumdem@prep()
 ex@prep()%[electAblativeForFollowingNoun]
 extra@prep()
 facile@prep()

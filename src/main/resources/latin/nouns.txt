@@ -4,6 +4,7 @@ abominand@adj%us-a-um
 abrogat@adj%us-a-um
 abus@adj%us-a-um
 abyss@masc%us-i
+ac@adj%er-ris-re
 accept@adj%us-a-um
 accurat@adj%us-a-um
 act@neut%a-orum
@@ -105,6 +106,7 @@ benedict@adj%us-a-um
 besti@fem%a-ae
 bibliothec@fem%a-ae
 bienni@neut%um-i
+boios@neut%inv
 bon@adj%us-a-um
 brachi@neut%um-i
 britanni@fem%a-ae
@@ -578,6 +580,8 @@ nost@adj%er-ra-rum
 no@neut%x-es
 nobilitat@adj%us-a-um
 nom@neut%en-inis
+norei@fem%a-ae
+noric@neut%um-i
 nov@adj%us-a-um
 novem@neut%inv
 null@adj%us-a-um
@@ -585,6 +589,7 @@ numer@masc%us-i
 numm@masc%us-i
 o@neut%s-ris
 obaerat@adj%us-a-um
+oblati@fem%o-onis
 obscenit@fem%as-atis
 obscuri@adj%or-or-us
 obscur@adj%us-a-um
@@ -681,6 +686,7 @@ portatur@adj%us-a-um
 portent@adj%us-a-um
 potenti@fem%a-ae
 potentissim@adj%us-a-um
+potest@fem%as-atis
 potissim@adj%us-a-um
 praecept@neut%um-i
 praeconcept@adj%us-a-um
@@ -729,6 +735,7 @@ quint@masc%us-a-um
 ratio@fem%x-nis
 raurac@masc%us-i
 recen@neut%s-tis
+recept@adj%us-a-um
 recitati@fem%o-onis
 rect@adj%us-a-um
 rediti@fem%o-onis
@@ -737,6 +744,7 @@ regin@fem%a-ae
 regio@fem%x-nis
 regn@neut%um-i
 regul@fem%a-ae
+reject@adj%us-a-um
 relict@adj%us-a-um
 religi@fem%o-onis
 reliqu@adj%us-a-um

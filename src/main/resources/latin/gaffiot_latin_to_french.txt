@@ -8,6 +8,7 @@ abus@adj!us-a-um%1(adj)=détourné%2(adj)=gaspillé%3(noun)=consommé
 absolvo@verb!norm%1(verb)=delier
 abyss@noun!us-i%1(noun)=abysse,enfer%2(noun)=abime
 ac@prep%1(prep)=et
+ac@adj!er-ris-re%1(adj)=amer%2(adj)=aigre
 accendo@verb!norm%1(verb)=allumer%2(verb)=enflammer
 acerbius@prep%1(prep)=aussi sévère que
 accept@adj!us-a-um%1(adj)=accepté
@@ -35,6 +36,7 @@ adjuvo@verb!norm%1(verb)=aider
 adhuc@prep%1(prep)=jusqu'à maintenant
 adorand@adj!us-a-um%1(adj)=adoré
 adoro@verb!norm%1(verb)=admirer%2(verb)=adorer%3(verb)=accuser%4(verb)=negocier
+adscisco@verb!norm%1(verb)=persuader
 advers@adj!us-a-um%1(adj)=adverse
 adversari@noun!us-i%1(noun)=adversaire
 adult@adj!us-a-um%1(adj)=brûlé%2(adj)=sacrifié
@@ -157,6 +159,7 @@ besti@noun!a-ae%1(noun)=bête
 bibliothec@noun!a-ae%1(noun)=bibliotheque
 bibo@verb!norm%1(verb)=boire
 bienni@noun!um-i%1(noun)=biennale
+boios@noun!inv%1(noun)=boïens
 bon@adj!us-a-um%1(adj)=bon (personne)%2(adj)=bien, de bonne qualite (chose)%3(adj)=bon pour, propre a (+dat)%4(adj)=bon
 brachi@noun!um-i%1(noun)=avant-bras
 breviter@prep%1(prep)=bref
@@ -250,6 +253,7 @@ concipio@verb!norm%1(noun)=recevoir
 condo@verb!norm%1(noun)=assembler
 conduco@verb!norm%1(noun)=conduire
 confero@verb!norm%1(noun)=reunir%2(verb)=apporter
+confestim@prep%1(prep)=immédiatement
 conglorifico@verb!norm%1(verb)=glorifier
 conficiend@adj!us-a-um%1(adj)=qui doit être préparé
 confirmat@adj!us-a-um%1(adj)=confirmé
@@ -466,6 +470,7 @@ euboe@noun!a-ae%1(noun)=eubée
 eucharisti@noun!a-ae%1(noun)=eucharistie
 eufrates@noun!inv%1(noun)=euphrate
 eum@prep%1(prep)=le
+eumdem@prep%1(prep)=en même temps
 europ@noun!a-ae%1(noun)=europe
 eusebi@noun!us-i%1(noun)=eusèbe
 ev@noun!a-ae%1(noun)=ève
@@ -915,6 +920,8 @@ nos@prep%1(prep)=nous
 nost@adj!er-ra-rum%1(adj)=notre
 no@noun!x-es%1(noun)=nuit
 nom@noun!en-inis%1(noun)=titre%2(noun)=nom
+norei@noun!a-ae%1(noun)=noréia
+noric@noun!um-i%1(noun)=norique
 nov@adj!us-a-um%1(noun)=nouveau
 novem@noun!inv%1(noun)=neuf
 null@adj!us-a-um%1(adj)=non%2(adj)=non existant%3(adj)=sans importance%4(adj)=aucun
@@ -928,6 +935,7 @@ o@prep%1(prep)=ô
 o@noun!s-ris%1(noun)=parole
 ob@prep%1(prep)=contre%2(prep)=à cause de%3(prep)=vers
 obaerat@adj!us-a-um%1(adj)=endetté
+oblati@noun!o-onis%1(noun)=offrande
 obscenit@noun!as-atis%1(noun)=défavorable
 obscur@adj!us-a-um%1(adj)=sombre
 obscuri@adj!or-or-us%1(adj)=plus sombre
@@ -957,6 +965,7 @@ op@noun!us-eris%1(noun)=besoin%2(noun)=accomplissement%3(noun)=travail
 opini@noun!o-onis%1(noun)=rumeur%2(noun)=opinion
 oporteo@verb!norm%1(verb)=ilfaut
 oppid@noun!um-i%1(noun)=ville
+oppugno@verb!norm%1(verb)=attaquer
 optim@adj!us-a-um%1(noun)=meilleur
 opuscul@noun!um-i%1(noun)=très petit ouvrage
 oracul@noun!um-i%1(noun)=oracle%2(noun)=prophétie
@@ -1067,6 +1076,7 @@ portatur@adj!us-a-um%1(adj)=qui va être porté
 portent@adj!us-a-um%1(adj)=prédit%2(adj)=indiqué
 potenti@noun!a-ae%1(noun)=puissance (force, action, efficacité, vertu agissante)%2(noun)=puissance (politique), pouvoir, autorite, credit, influence%3(noun)=puissance
 potentissim@adj!us-a-um%1(noun)=le plus puissante
+potest@noun!as-atis%1(noun)=contrôle%2(noun)=autorité%3(noun)=pouvoir
 potissim@adj!us-a-um%1(noun)=principal%2(adj)=plus puissant
 potior@verb!norm%1(verb)=controler%2(verb)=capturer%3(verb)=obtenir
 prae@prep%1(prep)=a l'avant,en avant,devant%2(prep)=au regard de,en comparaison de%3(prep)=en raison de (phrases negatives)%4(prep)=a cause de
@@ -1170,6 +1180,7 @@ quot@prep%1(quot)=combien
 ratio@noun!x-nis%1(noun)=raison%2(noun)=explication
 raurac@noun!us-i%1(noun)=rauraque
 recen@noun!s-tis%1(noun)=récent
+recept@adj!us-a-um%1(adj)=repris
 recipio@verb!norm%1(verb)=recevoir
 recitati@noun!o-onis%1(noun)=lecture
 rect@adj!us-a-um%1(adj)=droit
@@ -1182,6 +1193,7 @@ regn@noun!um-i%1(noun)=autorite royale, royaute, monarchie, trone%2(noun)=souver
 regno@verb!norm%1(verb)=regner
 rego@verb!norm%1(verb)=guider%2(verb)=diriger%3(verb)=gouverner
 regul@noun!a-ae%1(noun)=règle
+reject@adj!us-a-um%1(adj)=rejetté
 relict@adj!us-a-um%1(adj)=abandonné%2(adj)=veuf
 religi@noun!o-onis%1(noun)=piété%2(noun)=observance
 relinquo@verb!norm%1(verb)=abandonner%2(verb)=quitter
@@ -1397,6 +1409,8 @@ tradit@adj!us-a-um%1(noun)=dispensé
 traditio@noun!x-nis%1(noun)=instruction%2(noun)=abandon
 trado@verb!norm%1(verb)=abandonner
 trans@prep%1(prep)=au travers de
+transeo@verb!norm%1(verb)=traverser
+transfundo@verb!norm%1(verb)=transfuser
 transmitto@verb!norm%1(verb)=transmettre
 triclini@noun!um-i%1(noun)=salle-à-manger
 trinit@noun!as-atis%1(noun)=trinité

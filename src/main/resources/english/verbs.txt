@@ -74,6 +74,7 @@ comprehend,[call]
 comprise,[live],(PAPR*compriseing*comprising*0)
 conceive,[live]
 concern,[live],(PAP*concernd*concerned*0)
+conclude,[live]
 confirm,[live]
 conform,[call]
 confound,[call]
@@ -107,6 +108,7 @@ discuss,[call]
 dispose,[live]
 dissolve,[live]
 distinguish,[teach]
+distrust,[live]
 divide,[live],(PAPR*divide*divid*0)
 divorce,[live]
 do,[live],(AIP*dod*did*0@IPR2*dos*does*0@AII*do*did*0@PAP*dod*done*0)
@@ -249,6 +251,7 @@ remind,[call]
 render,[call]
 require,[live]
 resemble,[live]
+resolve,[live]
 respect,[call]
 rest,[call]
 retain,[live]
@@ -306,6 +309,7 @@ tell,[live],(AIP*tell*tol*0)
 tend,[call]
 testify,[live],(IPR*testifys*testifies*0)
 till,[call]
+tire,[live]
 think,[call],(PAP*thinked*thought*0)
 touch,[teach]
 turn,[call]

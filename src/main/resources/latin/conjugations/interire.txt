@@ -4,3 +4,4 @@ AIFP=>ierim,ieris,ierit,ierimus,ieritis,ierint
 ASP=>eam,eas,eat,eamus,eatis,eant
 AIMP=>xxx,i,xxx,xxx,ite,xxx,
 ASI=>irem,ires,iret,iremus,iretis,irent
+AIPP=>eram,eras,erat,eramus,eratis,erant
