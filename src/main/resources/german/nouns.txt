@@ -300,6 +300,7 @@ erlosung@fem%meinfem
 ermudet@adj%ausreichend
 ermudung@fem%meinfem
 erneut@adj%ausreichend
+erscheinung@fem%meinfem
 erste@neut%masc
 erstling@neut%inv
 erwartende@adj%ausreichend
@@ -518,6 +519,7 @@ heiterer@adj%ausreichend
 heiterkeit@fem%norm
 hellene@masc%flasche
 helles@neut%inv
+herabzusetzen@neut%inv
 herberge@fem%flasche
 herkunft@fem%norm
 herr@neut%meinmasc
@@ -551,6 +553,7 @@ hure@fem%flasche
 hurerei@fem%inv
 hurerische@adj%inv
 ideal@adj%inv
+idealistisch@adj%ausreichend
 idee@fem%invfem[nomplr:ideen]
 illegitim@adj%ausreichend
 illegitimitat@neut%inv
@@ -872,6 +875,7 @@ pfleger@masc%arbeiter
 phanomen@neut%phanomen
 phantastisch@adj%ausreichend
 philologe@masc%flasche
+philosophie@masc%flasche
 pinchas@neut%inv
 pizza@neut%meinmasc
 pflanze@fem%flasche
@@ -964,6 +968,7 @@ scharfst@adj%ausreichend
 schauerlich@adj%ausreichend
 schauspielerisch@adj%ausreichend
 scheck@fem%meinfem
+schein@neut%phanomen
 schenk@masc%meinmasc
 schicklichkeit@fem%meinfem
 schimson@neut%inv
@@ -1007,6 +1012,7 @@ schwer@adj%ausreichend
 schwerfallig@adj%ausreichend
 schwerst@adj%ausreichend
 schwierigkeit@fem%meinfem
+schwung@masc%phanomen
 schwur@masc%phanomen
 sechst@adj%ausreichend
 sechzehn@neut%inv
@@ -1091,6 +1097,7 @@ tat@neut%inv
 tatigkeit@fem%meinfem
 tauglich@adj%ausreichend
 tauglichkeit@fem%meinfem
+tauschung@fem%meinfem
 technik@fem%meinfem
 tee@neut%inv
 teig@masc%jahrzehnt
@@ -1262,6 +1269,7 @@ wagen@neut%inv
 wagner@neut%inv
 wagnerianer@neut%arbeiter
 wagnisse@neut%inv
+wahn@masc%phanomen
 wahnsinn@masc%phanomen
 wahr@adj%ausreichend
 wahrheit@fem%norm
@@ -1336,11 +1344,13 @@ zigarette@fem%flasche
 zimmer@fem%inv
 zitate@fem%jahrzehnt
 zone@fem%flasche
+zorn@masc%phanomen
 zornigst@adj%ausreichend
 zuganglich@adj%meinmasc
 zugehorigkeit@fem%meinfem
 zugrunde@fem%flasche
 zunge@fem%flasche
+zurechtmachung@fem%inv
 zusammenhang@masc%meer
 zusatz@masc%phanomen
 zuverlassig@adj%ausreichend
