@@ -2,3 +2,7 @@ nom%sing%masc%ων
 acc%sing%masc%ονα
 dat%sing%masc%ονι
 gen%sing%masc%ονος
+nom%plr%masc%ονες
+acc%plr%masc%ονας
+dat%plr%masc%οσιν
+gen%plr%masc%ονων

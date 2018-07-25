@@ -1,3 +1,4 @@
+acc%sing%masc%αν
 acc%sing%fem%ην
 acc%sing%adj%x
 acc%plr%masc%ους

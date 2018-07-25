@@ -615,7 +615,8 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("anaxI2B", translatorBridge);
         checkInMaps("anaxI3", translatorBridge);
         checkInMaps("anaxJ1", translatorBridge);
-        checkInMaps("anaxJ2", translatorBridge);
+        checkInMaps("anaxJ2A", translatorBridge);
+        checkInMaps("anaxJ2B", translatorBridge);
         checkInMaps("anaxJ3", translatorBridge);
         checkInMaps("anaxK", translatorBridge);
         checkInMaps("anaxL", translatorBridge);

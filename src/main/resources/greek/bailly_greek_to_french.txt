@@ -118,6 +118,7 @@
 αυξαν@verb!norm%1(verb)=croitre
 αυται@prep%1(prep)=ces(e)
 αυτ@adj!αυτος%1(adj)=le
+αψιδ@noun!α-ας%1(noun)=arche
 αχας@noun!inv%1(noun)=achaz
 αχιμ@noun!inv%1(noun)=achim
 αφ@prep%1(prep)=loin de%2(prep)=à partir de
@@ -217,6 +218,7 @@
 εικοσαπλασιονα@noun!inv%1(noun)=vingt fois
 εαυτων@prep%1(prep)=à nous-mêmes%2(prep)=à vous-mêmes%3(prep)=à eux-mêmes
 εγειρ@verb!norm%1(verb)=faire lever,ériger,dresser,mettre debout%2(verb)=s'éveiller%3(verb)=lever
+εικ@noun!ων-ονος%1(noun)=image
 ειλικριν@adj!ης-ης-ες%1(adj)=sincère
 εζεκι@noun!ας-ου%1(noun)=ezechias
 ειμι@verb!irrg%1(verb)=etre
@@ -238,6 +240,7 @@
 εκφερ@verb!norm%1(verb)=produire%2(verb)=effectuer
 εκχυσ@noun!ις-εως%1(noun)=effusion%2(noun)=sortie
 ελασσω@noun!inv%1(noun)=plus petit
+ελαχιστ@adj!ος-η-ο%1(adj)=plus petit
 ελε@verb!norm%1(verb)=avoirpitie
 ελεαζαρ@noun!inv%1(noun)=éléazar
 ελιακιμ@noun!inv%1(noun)=éliakim
@@ -260,6 +263,7 @@
 εξ@prep%1(prep)=hors de
 εξω@prep%1(prep)=hors de
 εξαγ@verb!norm%1(verb)=faireemerger%2(verb)=bannir%3(verb)=enlever%4(verb)=emmener
+εξερχ@verb!norm%1(verb)=passer%2(verb)=seterminer%3(verb)=sortir
 επεντιθη@verb!norm%1(verb)=
 εξουσι@noun!α-ας%1(noun)=autorité
 επ@prep%1(prep)=au temps de%2(prep)=sur
@@ -318,6 +322,8 @@
 ζω@noun!η-ης%1(noun)=vie
 η@noun!inv%1(noun)=la
 ηγε@verb!norm%1(verb)=preceder%2(verb)=diriger%3(verb)=commander
+ηγεμ@noun!ων-ονος%1(noun)=gouverneur%2(noun)=prince
+ηγουμεν@noun!ος-ου%1(noun)=dirigeant
 ηδ@adj!υς-εια-υ%1(adj)=doux%2(adj)=plaisant
 ηδη@prep%1(prep)=déjà%2(prep)=maintenant
 ηι@prep%1(prep)=lequel
@@ -416,6 +422,7 @@
 κιονι@noun!inv%1(noun)=colonne
 κλαι@verb!norm%1(verb)=pleurer
 κλητ@noun!ος-ου%1(noun)=invoqué%2(noun)=choisi%3(noun)=appelé
+κοιλ@adj!ος-η-ον%1(adj)=creux
 πολιτει@noun!α-ας%1(noun)=façon d'être%2(noun)=citoyenneté
 κομισας@noun!inv%1(noun)=pris en compte
 κορινθ@noun!ος-ου%1(noun)=corinthe
@@ -459,6 +466,8 @@
 μαρτυρι@noun!α-ας%1(noun)=témoignage
 ματθαν@noun!inv%1(noun)=matthan
 ματηρ@noun!inv%1(noun)=mère
+μεγ@adj!ας-η-α%1(noun)=grand
+μεγαλ@adj!ας-η-α%1(noun)=grand
 μεγαλοπρεπ@adj!ης-ης-ες%1(noun)=splendide
 μεγαλως@prep%1(prep)=grandement
 μεθερμηνευ@verb!norm%1(verb)=traduire
@@ -486,6 +495,7 @@
 μη@prep%1(prep)=non
 μηδεν@prep%1(prep)=pas un
 μηδενος@prep%1(prep)=rien
+ημετερ@adj!ος-α-ον%1(adj)=notre
 μην@prep%1(prep)=absolument
 μητ@noun!ηρ-ερος%1(noun)=terre nourricière%2(noun)=femme âgée%3(noun)=mère
 μητε@prep%1(prep)=ni
@@ -529,6 +539,7 @@
 ολιγ@noun!ος-η-ον%1(noun)=peu
 ομηρ@noun!ος-ου%1(noun)=homère
 ομοι@adj!ος-α-ον%1(adj)=égal%2(adj)=comme%3(adj)=semblable
+ομοιωσ@noun!ις-εως%1(noun)=ressemblance
 ομοιοτ@noun!ης-ητος%1(noun)=similitude%2(noun)=ressemblance
 ομικρον@noun!inv%1(noun)=omicron
 οναρ@noun!inv%1(noun)=rêve
@@ -539,8 +550,10 @@
 οργ@noun!η-ης%1(noun)=colère
 οσ@adj!ος-η-ον%1(adj)=et aussi grand
 οσι@adj!ος-α-ον%1(adj)=pieux
+οστις@prep%1(prep)=quiconque%2(prep)=qui
 οτι@prep%1(prep)=que
 ου@prep%1(prep)=qui%2(prep)=ne
+ουδαμως@prep%1(prep)=en aucune façon
 ουδε@prep%1(prep)=non plus%2(prep)=ni
 ουθ@prep%1(prep)=et pas
 ουκ@prep%1(prep)=ne
@@ -591,7 +604,6 @@
 πασιν@prep%1(prep)=tous
 πατ@noun!ηρ-ρος%1(noun)=père
 παυλ@noun!ος-ου%1(noun)=paul
-μεγαλ@adj!ας-η-α%1(noun)=grand
 πειθ@verb!norm%1(verb)=persuader
 πειρασμ@noun!ος-ου%1(noun)=preuve%2(noun)=tentation%3(noun)=épreuve
 πεμπ@verb!norm%1(verb)=renvoyer,congédier%2(verb)=envoyer
@@ -631,6 +643,7 @@
 πνευμ@noun!α-ατος%1(noun)=génie%2(noun)=esprit%3(noun)=vie%4(noun)=respiration%5(noun)=souffle%6(noun)=vent%7(noun)=air
 ποθ@noun!ος-ου%1(noun)=désir
 ποι@verb!norm%1(verb)=fabriquer,exécuter,confectionner%2(verb)=créer,produire,enfanter%3(verb)=imaginer,inventer%4(verb)=faire
+ποιμαιν@verb!norm%1(verb)=diriger%2(verb)=mener%3(verb)=rassembler
 ποιητικ@noun!ος-ου%1(noun)=poétique
 ποιουν@noun!inv%1(noun)=qui fait
 πολεμ@noun!ος-ου%1(noun)=guerre
@@ -708,6 +721,7 @@
 συμβαιν@verb!norm%1(verb)=saccomplir
 σφαιρ@noun!α-ας%1(noun)=boule%2(noun)=sphère
 σφιγξ@noun!inv%1(noun)=sphynx
+συ@prep%1(prep)=toi
 συμφορ@noun!α-ας%1(noun)=événement malheureux
 συν@prep%1(prep)=plus
 συναγ@verb!norm%1(verb)=rassembler

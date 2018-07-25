@@ -81,9 +81,11 @@
 οδε@prep()
 οιον@prep()
 οντων@prep()
+οστις@prep()
 οπισω@prep()
 οτι@prep()
 ου@prep()
+ουδαμως@prep()
 ουδε@prep()
 ουθ@prep()
 ουκ@prep()
@@ -120,6 +122,7 @@
 σαφως@prep()
 σεμνως@prep()
 σου@prep(gen)
+συ@prep()
 συν@prep(acc)
 τας@prep%prep(acc)%[electAccusativeForFollowingNoun]
 ταις@prep%prep(acc)%[electDativeForFollowingNoun]
