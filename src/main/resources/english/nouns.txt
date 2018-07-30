@@ -1,6 +1,7 @@
 abel@masc%invmasc
 absent@adj%invmasc
 abundance@fem%normfem
+access@neut%church
 according@neut%invmasc
 account@neut%normmasc
 act@neut%normmasc
@@ -225,6 +226,7 @@ considereth@neut%invmasc
 consonant@masc%normmasc
 constitution@masc%normmasc
 contemporar@adj%endy
+contiguous@adj%invmasc
 contradiction@fem%normfem
 contribution@fem%normfem
 convenient@neut%invmasc
@@ -325,12 +327,14 @@ ear@fem%normfem
 earnest@adj%invmasc
 earth@fem%invfem
 easie@neut%invmasc
+easiness@neut%invmasc
 east@neut%invmasc
 easy@neut%invmasc
 eastern@neut%invmasc
 eastward@neut%invmasc
 eden@neut%invmasc
 edition@fem%normfem
+edom@neut%invmasc
 edomite@neut%normmasc
 education@neut%normmasc
 effort@neut%normmasc
@@ -344,6 +348,7 @@ eldership@neut%normmasc
 eleventh@adj%invmasc
 elizabeth@fem%invfem
 elucidating@neut%invmasc
+encamping@neut%normmasc
 end@fem%normfem
 enem@neut%endy
 energetic@adj%invmasc
@@ -723,6 +728,7 @@ mountain@neut%normmasc
 mountainous@adj%invmasc
 mouth@neut%church
 movement@masc%normmasc
+moving@masc%normmasc
 mt@neut%invmasc
 muddy@neut%invmasc
 multitude@neut%normmasc
@@ -891,6 +897,7 @@ rational@neut%normmasc
 rationall@neut%normmasc
 reader@masc%normmasc
 reading@fem%normfem
+ready@neut%invmasc
 real@adj%invmasc
 realit@fem%endy
 really@neut%invmasc
@@ -1203,7 +1210,9 @@ white@adj%normmasc
 whole@adj%invmasc
 wife@fem%normfem[nomplr:wives]
 will@fem%invmasc
+wilderness@fem%invmasc
 wine@neut%normmasc
+winding@neut%invmasc
 winged@neut%invmasc
 wink@neut%normmasc
 wise@adj%normmasc

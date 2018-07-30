@@ -156,6 +156,7 @@ cunoscatoar@adj%adj
 cunoscator@adj%adj
 cunoscut@adj%adj
 cuprins@masc%ul
+curaj@masc%ul
 curajos@adj%adj
 curind@neut%inv
 curs@masc%ul
@@ -298,6 +299,7 @@ inconstient@adj%adjts
 incorporare@fem%fem
 increder@fem%berea
 incredintsar@fem%berea
+indelungar@fem%berea
 indrazneal@fem%fem
 indreptar@fem%berea
 inexplicabil@adj%adj
@@ -322,6 +324,7 @@ intselept@adj%adjts
 intseleapta@adj%inv
 intunecare@neut%inv
 intunecat@adj%adj
+intuneric@masc%ul
 invatsat@adj%adjts
 invatsatur@fem%femi
 invers@neut%inv
@@ -431,6 +434,7 @@ necunoscut@adj%adj
 nedrept@adj%adj
 negr@adj%adj
 nehotarit@adj%adjts
+nesfarsit@masc%ul
 nevast@fem%fem
 nici@neut%inv
 niciodata@neut%inv
@@ -594,6 +598,7 @@ sarac@adj%adj
 sat@masc%ul
 scandal@masc%ul
 scandalos@adj%adj
+scaun@masc%ul
 scoal@fem%fem
 scop@masc%locul
 scrier@fem%berea
@@ -612,6 +617,7 @@ sev@fem%fem
 sezand@adj%adj
 sfad@fem%fem
 sfant@adj%adj
+sfarsit@masc%ul
 sfat@masc%locul
 sfert@neut%inv
 sfint@masc%ul
@@ -738,6 +744,7 @@ vizit@fem%fem
 voc@fem%berea
 voi@neut%inv
 voilor@neut%inv
+voints@fem%fem
 vrem@fem%berea
 will@neut%inv
 zahar@neut%inv

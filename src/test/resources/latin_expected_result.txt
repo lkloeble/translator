@@ -78,7 +78,7 @@ collins6C=>(par) éternel(s) précepte(s) seigneur peuple enseigne
 collins6D=>marie(e)@mer(s)@ né@âge@ dans temple trouva/trouve
 collins6E=>eveque peuple dans église(e) conduit
 collins6F=>Pierre avec disciple(s) vers maison arrive
-collins6G=>avec joie vin buvons vie(s)(e)
+collins6G=>avec joie vin buvons/bûmes vie(s)(e)
 collins6H=>comment apotre christ (aux) mauvais(s)@(par) mauvais(s)(e)@mauvais@ abandonne ?
 collins6I=>esclave mauvais enfant (par) or trompe
 collins6J=>dans gloire(e) christ peuple s'unit
@@ -753,10 +753,12 @@ patrologiacaput3A24=>avec mais@vrai@ dans baptisé(s) sacré(e)@sacré(s)@ Pierr
 patrologiacaput3A25=>(par) tous(s)@tous@tous(e)@ distinctement visible@visible(e)@, descendre eut regardé, argent(e) même (aux) apotre(s) présenta,
 patrologiacaput3A26=>comme en même temps souffle saint dans un@un(s)@ transfusé à eux fissent pouvoir(e).
 patrologiacaput3A27=>vrai cette impie(e) offrande(e) en provenance de apotre(s) (au) aigre@(par) aigre(e)@aigre@ et (au) grand@(par) grand@, comme part était, (au) âme immédiatement rejetté(e)@rejetté(s)@,
-patrologiacaput3A28=>foobar
-patrologiacaput3A29=>foobar
+patrologiacaput3A28=>simon dans les enragé, à nouveau (par) magique(s) art(s), et (aux) erreur(s) (aux) son(s) dispersé(s) la@vais@ plus destructif@plus destructif(e)@ donna oeuvre(e),
+patrologiacaput3A29=>(par) qui@qui@ elle tous(s) chose(e) (du) chrétien (du) nom (par) apparence plus audacieux vendait.
 patrologiacaput3A30=>foobar
 patrologiacaput3A31=>foobar
+patrologiacaput3A32=>foobar
+patrologiacaput3A33=>foobar
 
 
 genese1A=>dans commencement créa dieu ciel et terre(e)

@@ -114,7 +114,7 @@ divorce,[live]
 do,[live],(AIP*dod*did*0@IPR2*dos*does*0@AII*do*did*0@PAP*dod*done*0)
 doubt,[call]
 draw,[live],(PAP*drawd*drawn*0)
-drink,[call]
+drink,[call],(AIP*drinked*drank*0)
 drive,[live],(AIP*drived*drove*0@PAP*drived*driven*0)
 dwell,[live],(AII*dwelld*dwelt*0)
 eat,[see],(AIP*eat*ate*0@PAP*eatd*eaten*0)
@@ -166,6 +166,7 @@ hear,[live]
 heed,[call]
 help,[live]
 hide,[live],(AIP*hided*hid*0@PAP*hided*hidden*0)
+hinder,[live]
 hope,[live]
 hurt,[call]
 imitate,[live],(PAPR*imitatei*imitati*0)
@@ -208,12 +209,14 @@ must,[live]
 neglect,[call]
 note,[live]
 observe,[live],(PAPR*observe*observ*0)
+obtain,[call]
 occur,[call]
 offer,[live]
 omit,[live],(PAPR*omit*omitt*0)
 open,[call]
 operate,[live],(PAPR*operateing*operating*0)
 opine,[live]
+order,[live]
 outroot,[call]
 overrun,[live],(AIP*overrund*overran*0)
 own,[live]
@@ -241,6 +244,7 @@ read,[live]
 receive,[live]
 recite,[live]
 reckon,[call]
+reduce,[live]
 refer,[call]
 reflect,[call]
 reject,[call]
@@ -275,6 +279,7 @@ shall,[live],(IPR*shalls*shall*0@AII*shall*ddddddd*0)
 shallbe,[live],(IPR*shallsbe*shallbe*0)
 shew,[live]
 should,[live],(IPR*shoulds*should*0)
+show,[teach]
 shut,[live]
 signify,[live],(IPR2*signifys*signifies*0)
 simulate,[live],(PAPR*simulateing*simulating*0)
@@ -286,7 +291,7 @@ sleep,[live],(AIP*sleepd*slept*0)
 smoke,[live],(PAPR*smoke*smok*0)
 smooth,[teach]
 soften,[live]
-speak,[live],(AII*spea*spo*0@PAP*speakd*spoken*0)
+speak,[live],(AII*spea*spo*0@PAP*speakd*spoken*0@AIP*speakd*spoke*0)
 sprinkle,[live]
 stand,[live]
 starve,[live],(PAPR*starvei*starvi*0)
@@ -297,7 +302,7 @@ suffer,[call]
 suggest,[call]
 supplant,[call]
 support,[live]
-suppose,[live]
+suppose,[live],(PAPR*suppose*suppos*0)
 survive,[live]
 sustain,[call]
 swallow,[call]

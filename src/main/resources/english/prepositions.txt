@@ -39,6 +39,7 @@ briefly@prep()
 but@prep()
 by@prep()%[electRuleByAnyChance,electRuleByTheWay]
 certainly@prep()
+chiefly@prep()
 close@prep()
 commonly@prep()
 confidently@prep()

@@ -133,6 +133,7 @@ atri@noun!um-i%1(noun)=entrée romaine
 attingo@verb!norm%1(verb)=concerner%2(verb)=affecter%3(verb)=approcher%4(verb)=toucher
 auctor@noun!x-is%1(noun)=auteur
 auctorita@noun!s-tis2%1(noun)=pouvoir%2(noun)=autorité
+audaci@adj!or-or-us%1(adj)=plus audacieux
 audio@verb!norm%1(verb)=entendre
 audit@adj!us-a-um%1(noun)=entendu
 aul@noun!a-ae%1(noun)=cour
@@ -337,6 +338,7 @@ dav@noun!us-i%1(noun)=davus
 david@noun!inv%1(noun)=david
 de@prep%1(prep)=de
 de@noun!us-i%1(noun)=dieu, divinite%2(noun)=un dieu%3(noun)=le dieu des chretiens%4(noun)=dieu
+debacchat@adj!us-a-um%1(adj)=enragé
 debeo@verb!norm%1(verb)=devoir
 debit@noun!um-i%1(noun)=dette
 decem@noun!inv%1(noun)=dix
@@ -526,6 +528,7 @@ fero@verb!norm%1(verb)=déplacer%2(verb)=supporter%3(verb)=presenter%4(verb)=com
 feris@prep%1(prep)=dehors
 fess@adj!us-a-um%1(adj)=fatigué
 fest@noun!um-i%1(noun)=jour de fete%2(noun)=fete
+fici@noun!a-ae%1(noun)=chose
 fid@noun!es-ei%1(noun)=confiance%2(noun)=foi
 fio@verb!norm%1(verb)=advenir
 fili@noun!us-i%1(noun)=fils
@@ -1033,6 +1036,7 @@ permitto@verb!o-is%1(verb)=lancer d'un point a un autre, jusqu'a un but%2(verb)=
 perfect@adj!us-a-um%1(adj)=accompli
 permot@adj!us-a-um%1(adj)=excité%2(adj)=agité
 pernici@noun!es-ei%1(noun)=désastre%2(noun)=ruine
+perniciosi@adj!or-or-us%1(adj)=plus destructif
 perpetu@adj!us-a-um%1(adj)=perpétuel
 persecutor@noun!x-is2%1(noun)=persécuteur
 persuadeo@verb!norm%1(verb)=persuader
@@ -1222,6 +1226,7 @@ rom@noun!a-ae%1(noun)=rome
 roman@adj!us-a-um%1(adj)=romain
 ros@noun!a-ae%1(noun)=rose
 ru@noun!s-ris%1(noun)=pays%2(noun)=ferme%3(noun)=village%4(noun)=campagne
+rursum@prep%1(prep)=à nouveau
 rursus@prep%1(prep)=à nouveau%2(prep)=au contraire%3(prep)=en sens inverse
 sabaoth@noun!inv%1(noun)=armées
 sabbat@noun!um-i%1(noun)=sabbat
@@ -1318,6 +1323,7 @@ solut@adj!us-a-um%1(adj)=libéré
 solvo@verb!norm%1(verb)=payer%2(verb)=résoudre%3(verb)=enlever%4(verb)=dissoudre%5(verb)=acquitter
 sono@verb!norm%1(verb)=sonner%2(verb)=resonner
 sp@noun!es-ei%1(noun)=espoir
+spargend@adj!us-a-um%1(adj)=dispersé
 spargo@verb!norm%1(verb)=disperser
 spart@noun!a-ae%1(noun)=sparte
 spati@noun!um-i%1(noun)=espace
@@ -1457,6 +1463,7 @@ vari@adj!us-a-um%1(adj)=divers%2(adj)=varié
 vas@noun!x-is%1(noun)=ustensile%2(noun)=vase%3(noun)=plat
 veho@verb!norm%1(verb)=monter%2(verb)=porter
 vel@prep%1(prep)=ou
+vendito@verb!norm%1(verb)=vendre
 vendo@verb!norm%1(verb)=vendre
 venio@verb!nom%1(verb)=venir
 ver@adj!us-a-um%1(adj)=vrai,veritable,reel%2(adj)=conforme a la morale,juste%3(adj)=veridique,sincere,consciencieux%4(adj)=vrai

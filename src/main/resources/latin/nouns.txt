@@ -85,6 +85,7 @@ atrament@neut%um-i
 atri@neut%um-i
 auctor@masc%x-is
 auctorita@fem%s-tis2
+audaci@adj%or-or-us
 audit@adj%us-a-um
 aul@fem%a-ae
 aur@neut%um-i
@@ -215,6 +216,7 @@ dat@adj%us-a-um
 dav@masc%us-i
 david@masc%inv
 de@masc%us-i[nomplr:dii]
+debacchat@adj%us-a-um
 debit@neut%um-i
 decem@neut%inv
 definiti@fem%o-onis
@@ -318,6 +320,7 @@ femin@fem%a-ae
 fenestr@fem%a-ae
 fess@adj%us-a-um
 fest@neut%um-i
+fici@fem%a-ae
 fid@fem%es-ei
 fili@masc%us-i
 fili@fem%a-ae
@@ -657,6 +660,7 @@ pericul@masc%um-i
 peristyl@masc%um-i
 permot@adj%us-a-um
 pernici@fem%es-ei
+perniciosi@adj%or-or-us
 perpetu@adj%us-a-um
 persecutor@masc%x-is2
 persecuti@fem%o-onis
@@ -825,6 +829,7 @@ sol@masc%x-is2
 solid@adj%us-a-um
 solut@adj%us-a-um
 sp@fem%es-ei
+spargend@adj%us-a-um
 spart@fem%a-ae
 spati@neut%um-i
 speci@fem%es-ei

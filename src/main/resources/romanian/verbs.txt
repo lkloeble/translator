@@ -1,5 +1,6 @@
 acoper,,[suferi],(PAP*acoper*acoperit*0)
 actualiz,,[fumez]
+adanc,i,[aciti]
 adorm,i,[dorm]
 aduc,,[face],(PAP*aduc*adus*0)
 afirm,,[incerca]
@@ -13,7 +14,7 @@ apar,,[face]
 apreci,,[aprecia]
 aprind,e,[merg],(IPR1*di*zi*1)
 apropri,,[aprecia]
-arat,,[incerca]
+arat,,[incerca],(AII*arat*aratar*0)
 arunc,,[incerca]
 as,eza,[aprecia],(PAP*asat*asezat*0)
 astept,a,[cauta],(AIMP*astepta*asteapta*1)
@@ -120,10 +121,13 @@ obos,,[locuiesc]
 omor,i,[merg]
 opr,i,[aciti]
 organiz,,[fumez]
+paras,i,[mantui]
 pas,,[cresc],(PAP*pas*pascut*0)
 pastr,a,[fumez]
 pedeps,i,[locuiesc]
-pierd,e,[merg],(AII*pie*pia*0)
+persist,a,[incerca]
+pier,i,[pieri]
+pierd,e,[vinde],(AII*pie*pia*0@CONJ0134*pierd*pier*0@CONJ25*pierd*piard*0)
 plac,,[merg]
 pleaca@IRREGULAR%[IPR]=[plec,pleci,pleaca,plecam,plecatsi,pleaca]%[PAP]=[plecat]%[PAPR]=[plecand]%[INFINITIVE]=[pleca]
 pomen,,[aciti]
@@ -137,7 +141,7 @@ prin,de,[crede],(PAP*prin*prins*0)
 priv,i,[primi]
 produc,,[face]
 pun,e,[merg]
-rama,,[ramane]
+rama,nea,[ramane]
 rasad,,[aciti],(PAP*rasad*rasadit*0)
 raspun,,[raspund]
 realiz,a,[fumez]
@@ -187,6 +191,7 @@ trebui,,[trebui],(ACP*trebui*artrebui*0)
 trec,e,[merg],(PAP*trec*trecut*0)
 trim,,[trimite]
 tsi,ne,[ramane]
+uit,a,[cauta]
 umaniz,,[fumez]
 umpl,,[scrie],(PAP*umpls*umplut*0)
 urc,,[cauta]

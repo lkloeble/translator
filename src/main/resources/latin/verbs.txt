@@ -313,6 +313,7 @@ val,eo,es,ere,ui,itum,[eo-es]
 veh,o,is,ere,,,[o-is]
 vend,o,is,ere,,,[o-is]
 ven,io,is,ire,veni,ventum,[io-is]
+vendit,o,as,are,,,[o-as]
 verber,o,as,are,,,[o-as]
 vere,or,ris,re,,,[or-ris]
 verg,o,is,ere,,,[o-is],(AIP*verg*xxxxx*0)
