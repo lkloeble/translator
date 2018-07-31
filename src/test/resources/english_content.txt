@@ -853,10 +853,10 @@ lightfoot_ch746=>-- I answer, There will be the same easiness of ordering them,
 lightfoot_ch747=>if you do but reduce the sixth and seventh verses of Deuteronomy 10, into a true sense,
 lightfoot_ch748=>and into agreement with Numbers 33 from verses 31 to 41;
 lightfoot_ch749=>which is not hard to do. But let these things suffice, for the present, to have spoke besides our scope.
-lightfoot_ch750=>That that Kadesh, to which they came in the fortieth year (which is called Meribah, Numbers 20:13),
-lightfoot_ch751=>is the same with Kadesh-barnea, is clear enough from hence,
-lightfoot_ch752=>-- that Meribah in Kadesh is assigned for the southern border of the land, Ezekiel 47:19;
-lightfoot_ch753=>which border of old was Kadesh-barnea, Numbers 34:4; Joshua 15:3.
+lightfoot_ch750=>That that |Kadesh|, to which they came in the fortieth year (which is called |Meribah|, Numbers 20:13),
+lightfoot_ch751=>is the same with |Kadesh|-|barnea|, is clear enough from hence,
+lightfoot_ch752=>-- that |Meribah| in |Kadesh| is assigned for the southern border of the land, Ezekiel 47:19;
+lightfoot_ch753=>which border of old was |Kadesh|-|barnea|, Numbers 34:4; Joshua 15:3.
 
 
 lightfootbase=>http://biblehub.com/library/lightfoot/from_the_talmud_and_hebraica/index.html

@@ -862,12 +862,14 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("leviathan_prefaceV1", translatorBridge);
         checkInMaps("leviathan_prefaceV2", translatorBridge);
         checkInMaps("leviathan_prefaceW1", translatorBridge);
+        /*
         checkInMaps("leviathan_prefaceW2", translatorBridge);
         checkInMaps("leviathan_prefaceX", translatorBridge);
         checkInMaps("leviathan_prefaceY", translatorBridge);
         checkInMaps("leviathan_prefaceZ", translatorBridge);
         checkInMaps("leviathan_prefaceAA", translatorBridge);
         checkInMaps("leviathan_prefaceBB", translatorBridge);
+        */
     }
 
     @Test
