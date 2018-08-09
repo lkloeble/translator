@@ -45,6 +45,7 @@ public abstract class LanguageToFrench implements TranslatorRepository {
     public LanguageToFrench(VerbRepository verbRepository) {
         this.verbRepository = verbRepository;
         this.infinitiveBuilder = verbRepository.getInfinitiveBuilder();
+        this.conjugationGenderAnalyser = new DefaultConjugationAnalyzer();
         this.formRepository =  new FormRepository(infinitiveBuilder);
     }
 
@@ -332,6 +333,10 @@ public abstract class LanguageToFrench implements TranslatorRepository {
     protected String numberCaseDecorate(String translationRoot, Word word) {
         Noun noun = (Noun)word;
         CaseNumberGenre caseNumber = noun.getElectedCaseNumber();
+        return numberCaseDecorateWithElectedCaseNumberGenre(noun, translationRoot, caseNumber);
+    }
+
+    protected String numberCaseDecorateWithElectedCaseNumberGenre(Noun noun, String translationRoot, CaseNumberGenre caseNumber) {
         String genitiveArticle = "du";
         String dativeArticle = "au";
         String ablativeArticle = "par";

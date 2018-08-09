@@ -37,6 +37,7 @@ adhuc@prep%1(prep)=jusqu'à maintenant
 adorand@adj!us-a-um%1(adj)=adoré
 adoro@verb!norm%1(verb)=admirer%2(verb)=adorer%3(verb)=accuser%4(verb)=negocier
 adscisco@verb!norm%1(verb)=persuader
+adventarit@noun!inv%1(verb)=sera venu
 advers@adj!us-a-um%1(adj)=adverse
 adversari@noun!us-i%1(noun)=adversaire
 adult@adj!us-a-um%1(adj)=brûlé%2(adj)=sacrifié
@@ -92,6 +93,7 @@ ante@prep%1(prep)=devant,en face%2(prep)=avant,auparavant,anterieurement%3(prep 
 antequam@prep%1(prep)=jusqu'à%2(prep)=avant
 antiochen@adj!us-a-um%1(adj)=antiochien
 antiqu@adj!us-a-um%1(adj)=antique%2(adj)=ancien
+antiquissim@adj!us-a-um%1(adj)=le plus antique%2(adj)=le plus ancien
 antiquit@noun!as-atis%1(noun)=temps d'autrefois,antiquite%2(noun)=anciennete%3(noun)=antiquite
 aperio@verb!norm%1(verb)=découvrir%2(verb)=ouvrir
 apert@adj!us-a-um%1(adj)=ouvert
@@ -566,6 +568,7 @@ galli@noun!a-ae%1(noun)=gaule
 garumn@noun!a-ae%1(noun)=garonne
 gaudi@noun!um-i%1(noun)=joie
 gen@noun!adj-us-eris%1(noun)=genre%2(noun)=groupe%3(noun)=origine%4(noun)=type%5(noun)=espèce
+gen@noun!s-tis%1(noun)=peuple
 generatim@prep%1(prep)=par type%2(prep)=généralement
 generati@noun!o-onis%1(noun)=génération
 genit@adj!us-a-um%1(adj)=engendré
@@ -1157,6 +1160,7 @@ quare@prep%1(prep)=comment
 quapropter@prep%1(prep interrogative)=pourquoi
 quarum@prep%1(prep)=de qui(s)
 quart@adj!us-a-um%1(adj)=quatre
+quasi@prep%1(adj)=comme si
 quattuor@noun!inv%1(noun)=quatre
 queis@prep%1(prep)=à qui
 quem@prep%1(prep)=qui
@@ -1278,6 +1282,7 @@ seduco@verb!norm%1(verb)=séduire%2(verb)=tromper
 semen@noun!x-is%1(noun)=descendance%2(noun)=semence
 sement@noun!is-is%1(noun)=semence
 semet@prep%1(prep)=lui-même
+semetipsum@prep%1(prep)=lui-même
 semin@noun!x-is%1(noun)=descendance%2(noun)=semence
 semino@verb!norm%1(verb)=semer
 semper@prep%1(adv)=une fois pour toutes%2(adv)=tout le temps,sans cesse%3(adv)=toujours

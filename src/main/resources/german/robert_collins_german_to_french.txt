@@ -75,6 +75,7 @@ antiq@noun!inv%1(noun)=antiquités
 antwort@noun!meinfem%1(noun)=réponse
 antwort@verb!norm%1(verb)=repondre
 anzuglich@adj!ausreichend%1(adj)=suggestive
+anzuhor@verb!norm%1(verb)=entendre
 anzuseh@verb!norm%1(verb)=voir
 anzustell@verb!norm%1(verb)=embaucher%2(verb)=réfléchir%3(verb)=effectuer
 anzuzweif@verb!norm%1(vern)=douter
@@ -96,6 +97,7 @@ artikellos@noun!inv%1(noun)=sans article
 artikellose@noun!autor%1(noun)=sans article
 artist@noun!artist%1(noun)=artiste
 asiatisch@adj!ausreichend%1(adj)=asiatique
+assyrien@noun!inv%1(noun)=assyrie
 asthetisch@adj!ausreichend%1(adj)=esthétique
 au@prep%1(noun)=aussi
 auch@prep%1(noun)=aussi
@@ -135,6 +137,8 @@ auslegung@noun!meinfem%1(noun)=interprétation%2(noun)=exégèse
 ausnahme@noun!flasche%1(noun)=exception
 ausreichend@adj!ausreichend%1(adj)=satisfaisant%2(adj)=suffisant
 ausrottung@noun!meinmasc%1(noun)=extermination
+ausschweifend@adj!ausreichend%1(adj)=dissolu%2(adj)=débauché
+ausschweifendst@adj!ausreichend%1(adj)=le plus dissolu%2(adj)=le plus débauché
 ausseh@verb!norm%1(verb)=avoirlair
 ausser@prep%1(prep)=sauf
 ausserdem@prep%1(prep)=en outre
@@ -187,6 +191,7 @@ behand@verb!norm%1(verb)=traiter
 behaupt@verb!norm%1(verb)=affirmer
 beherrsch@verb!norm%1(verb)=gouverner
 behorde@noun!flasche%1(noun)=autorité
+behutsam@adj!ausreichend%1(adj)=délicat
 bei@prep%1(prep)=par
 beibring@verb!norm%1(verb)=enseigner
 beide@prep%1(prep)=tous deux
@@ -265,6 +270,7 @@ billerbeck@noun!inv%1(noun)=billerbeck
 bindend@adj!ausreichend%1(adj)=obligatoire
 birne@noun!flasche%1(noun)=poire
 bis@prep%1(prep)=jusque
+bisher@prep%1(prep)=jusqu'à présent
 bisherig@adj!ausreichend%1(noun)=précédent
 bitte@prep%1(prep)=s'il vous plait
 blas@verb!norm%1(verb)=souffler
@@ -288,6 +294,7 @@ brigitte@noun!inv%1(noun)=brigitte
 bring@verb!norm%1(verb)=apporter
 brot@noun!wurst%1(noun)=pain
 bruder@noun!arbeiter%1(noun)=frère
+brumm@verb!norm%1(verb)=gronder
 brunstig@adj!ausreichend%1(adj)=en chaleur
 bt@noun!inv%1(noun)=Bab. Talmud
 buch@noun!ort%1(noun)=livre
@@ -311,6 +318,7 @@ chor@noun!phanomen%1(noun)=choeur
 christ@noun!christ%1(noun)=christ
 christel@noun!inv%1(noun)=christel
 christenheit@noun!inv%1(noun)=chrétienté
+christentum@noun!inv%1(noun)=christianisme
 chronologisch@adj!ausreichend%1(adj)=chronologique
 da@prep%1(prep)=parce que%2(prep)=et
 dabei@prep%1(prep)=à cet égard
@@ -418,6 +426,7 @@ du@prep%1(noun)=tu
 dukhan@noun!inv%1(noun)=dukhanen (birkat kohanim)
 dumm@noun!inv%1(noun)=stupide
 durch@prep%1(prep)=via%2(prep)=par
+durchfigurierung@noun!inv%1(noun)=variation
 durchgangig@adj!ausreichend%1(adj)=systématique
 durchsicht@noun!meinfem%1(noun)=examen
 durf@verb!norm%1(verb)=etreautorisea
@@ -440,6 +449,7 @@ ein@prep%1(prep)=un
 einfach@adj!ausreichend%1(adj)=simple
 eingang@noun!meinfem%1(noun)=entrée
 eingehung@noun!meinmasc%1(noun)=accord
+eigentumlich@adj!ausreichend%1(adj)=spécifique
 eingewandert@adj!ausreichend%1(adj)=immigré
 eingeweiht@adj!ausreichend%1(adj)=caché%2(adj)=secret
 einig@adj!ausreichend%1(adj)=quelque
@@ -501,6 +511,7 @@ erlebnis@noun!erkenntnis%1(noun)=expérience
 erlos@verb!norm%1(verb)=racheter
 erlosung@noun!meinfem%1(noun)=délivrance
 ermang@verb!norm%1(verb)=manquer
+ermess@verb!norm%1(verb)=decider
 ermudet@adj!ausreichend%1(adj)=fatigué
 ermudung@noun!meinfem%1(noun)=fatigue
 erneut@adj!ausreichend%1(adj)=renouvelé
@@ -562,6 +573,7 @@ feierlicher@adj!ausreichend%1(noun)=cérémonial%2(adj)=solennel
 feig@noun!inv%1(noun)=lâcheté
 fein@adj!ausreichend%1(adj)=fin
 feind@noun!ort%1(noun)=ennemi
+feindselig@adj!ausreichend%1(adj)=hostile
 feld@noun!meer%1(noun)=champ
 femininischen@noun!inv%1(noun)=effémination
 fenster@noun!inv%1(noun)=fenêtre
@@ -761,6 +773,7 @@ grosst@adj!ausreichend%1(adj)=le plus grand
 grubler@noun!burger%1(noun)=éleveur
 grun@adj!ausreichend%1(adj)=vert
 grund@noun!jahrzehnt%1(noun)=sol%2(noun)=raison
+grundbass@noun!inv%1(noun)=motif
 grundsatz@noun!jahrzehnt%1(noun)=dogme%2(noun)=principe
 gulasch@noun!inv%1(noun)=goulash
 gut@adj!mein%1(adj)=bon
@@ -1114,6 +1127,7 @@ meist@prep%1(prep)=principalement
 meister@noun!masc%1(noun)=maître
 melancholie@noun!inv%1(noun)=mélancolie
 mensch@noun!meinmasc%1(noun)=humain
+menschheit@noun!inv%1(noun)=humanité
 messia@noun!inv%1(noun)=messie
 messianisch@adj!ausreichend%1(adj)=messianique
 messias@noun!inv%1(noun)=messie
@@ -1454,6 +1468,7 @@ schwarmer@noun!arbeiter%1(noun)=illuminé%2(noun)=utopiste
 schwarmerisch@adj!ausreichend%1(adj)=exalté
 schwarz@adj!ausreichend%1(adj)=noir
 schweb@verb!norm%1(verb)=planer
+schweigen@noun!burger%1(noun)=silence
 schweigsamkeit@noun!inv%1(noun)=réticence
 schwelle@noun!flasche%1(noun)=seuil
 schwer@noun!ausreichend%1(noun)=difficile
@@ -1613,6 +1628,8 @@ testament@noun!norm%1(noun)=testament
 teuer@noun!inv%1(noun)=cher
 teufel@noun!inv%1(noun)=diable
 text@verb!norm%1(verb)=ecrire
+thema@noun!autor%1(noun)=thème
+themen@noun!inv%1(noun)=thèmes
 theologie@noun!inv%1(noun)=théologie
 theoretisch@adj!ausreichend%1(adj)=théorique
 thukydides@noun!inv%1(noun)=thucydide
@@ -1903,6 +1920,7 @@ wieder@prep%1(prep)=à nouveau
 wiederholung@noun!meinfem%1(noun)=répétition
 wien@noun!inv%1(noun)=vienne
 wieviel@prep%1(prep)=combien
+wider@prep%1(prep)=contre
 wille@noun!wille%1(noun)=volonté
 willkurlich@adj!ausreichend%1(adj)=aléatoire
 winkel@noun!arbeiter%1(noun)=endroit%2(noun)=angle

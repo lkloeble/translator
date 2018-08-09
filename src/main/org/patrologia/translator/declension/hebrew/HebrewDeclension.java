@@ -29,4 +29,10 @@ public class HebrewDeclension extends Declension {
         allEndings = declensionLoader.getEndings(declensionElements, hebrewCaseFactory);
     }
 
+    @Override
+    public String toString() {
+        return "HebrewDeclension{" +
+                "allEndings=" + allEndings +
+                '}';
+    }
 }

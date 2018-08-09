@@ -394,7 +394,7 @@ public class HebrewPhraseChanger extends CustomLanguageRulePhraseChanger {
                 newPhrase.addWordAtPosition(newPhraseIndice+1, preposition);
                 newPhraseIndice+=2;
             } else {
-                newPhrase.addWordAtPosition(newPhraseIndice, wordContainerAtPosition.getUniqueWord());
+                newPhrase.addWordContainerAtPosition(newPhraseIndice, wordContainerAtPosition, newPhrase);
                 newPhraseIndice++;
             }
         }
@@ -420,7 +420,25 @@ public class HebrewPhraseChanger extends CustomLanguageRulePhraseChanger {
     }
 
 
+    private List<Word> wordsWithoutBeginningPattern(WordContainer wordContainer, String leadingPattern) {
+        Word modifiedWord = wordContainer.getUniqueWord();
+        String newValue  = eraseLeadingAccentuedPattern(wordContainer.getInitialValue(), leadingPattern);
+        modifiedWord.updateInitialValue(newValue);
+        List<Word> modifiedWords = new ArrayList<>();
+        if(nounRepository.hasNoun(modifiedWord.getInitialValue())) {
+            modifiedWords.add(new Noun(Language.HEBREW,modifiedWord.getInitialValue(), newValue, Collections.EMPTY_LIST, null, null, null, null));
+        }
+        if(prepositionRepository.hasPreposition(modifiedWord.getInitialValue())) {
+            modifiedWords.add(new Preposition(Language.HEBREW,modifiedWord.getInitialValue(),null));
+        }
+        if(modifiedWords.isEmpty()) {
+            modifiedWords.add(modifiedWord);
+        }
+        return modifiedWords;
 
+    }
+
+    /*
     private Word nounWithoutBeginningPattern(WordContainer wordContainer, String leadingPattern) {
         Word modifiedWord = wordContainer.getUniqueWord();
         String newValue  = eraseLeadingAccentuedPattern(wordContainer.getInitialValue(), leadingPattern);
@@ -432,6 +450,7 @@ public class HebrewPhraseChanger extends CustomLanguageRulePhraseChanger {
         }
         return modifiedWord;
     }
+    */
 
     private String eraseLeadingAccentuedPattern(String initialValue, String leadingPattern) {
         String possibleSubstring = initialValue.substring(leadingPattern.length());
@@ -479,10 +498,10 @@ public class HebrewPhraseChanger extends CustomLanguageRulePhraseChanger {
                     leadingLetter.addRule(ruleFactory.getRuleByName(ruleName,leadingLetter.getInitialValue()));
                 }
                 newPhrase.addWordAtPosition(newPhraseIndice, leadingLetter);
-                newPhrase.addWordAtPosition(newPhraseIndice+1, nounWithoutBeginningPattern(phrase.getWordContainerAtPosition(indice), letter));
+                newPhrase.addWordsAtPosition(newPhraseIndice+1, wordsWithoutBeginningPattern(phrase.getWordContainerAtPosition(indice), letter));
                 newPhraseIndice+=2;
             } else {
-                newPhrase.addWordAtPosition(newPhraseIndice,phrase.getWordContainerAtPosition(indice).getUniqueWord());
+                newPhrase.addWordContainerAtPosition(newPhraseIndice,phrase.getWordContainerAtPosition(indice), newPhrase);
                 newPhraseIndice++;
             }
         }

@@ -72,6 +72,7 @@ artikellos@neut%inv
 artikellose@neut%autor
 artist@masc%artist
 asiatisch@adj%ausreichend
+assyrien@neut%inv
 asthetisch@adj%ausreichend
 aufgabe@fem%flasche
 aufgewendet@adj%ausreichend
@@ -94,6 +95,8 @@ auslegung@fem%meinfem
 ausnahme@fem%flasche
 ausreichend@adj%ausreichend
 ausrottung@neut%meinmasc
+ausschweifend@adj%ausreichend
+ausschweifendst@adj%ausreichend
 ausserung@neut%meinmasc
 ausspruche@fem%flasche
 ausziehens@neut%inv
@@ -125,6 +128,7 @@ bedeutungslos@adj%ausreichend
 bedurfnis@neut%erkenntnis
 befinlichen@neut%inv
 behorde@fem%flasche
+behutsam@adj%ausreichend
 beigefugt@adj%ausreichend
 beiwohnung@fem%inv
 bekummert@neut%inv
@@ -202,6 +206,7 @@ chronica@neut%inv
 christ@masc%christ
 christel@fem%inv
 christenheit@fem%inv
+christentum@neut%inv
 chronologisch@adj%ausreichend
 dame@fem%flasche
 dank@fem%norm
@@ -243,6 +248,7 @@ druck@masc%meinmasc
 druckerei@fem%meinfem
 dt@neut%inv
 dukhan@neut%inv
+durchfigurierung@fem%inv
 durchsicht@fem%meinfem
 durst@neut%inv
 dumm@neut%inv
@@ -268,6 +274,7 @@ eigne@adj%inv
 eingehung@masc%meinmasc
 einig@adj%ausreichend
 eingang@fem%meinfem
+eigentumlich@adj%ausreichend
 eingewandert@adj%ausreichend
 einleitung@fem%norm
 eintragung@fem%meinfem
@@ -330,6 +337,7 @@ feierlicher@adj%ausreichend
 feig@fem%inv
 fein@adj%ausreichend
 feind@masc%ort
+feindselig@adj%ausreichend
 feld@neut%meer
 femininischen@neut%inv
 fenster@neut%inv
@@ -488,6 +496,7 @@ grosst@adj%ausreichend
 grubler@masc%burger
 grun@adj%ausreichend
 grund@neut%jahrzehnt
+grundbass@neut%inv
 grundsatz@masc%jahrzehnt
 gulasch@neut%inv
 gut@adj%mein
@@ -738,6 +747,7 @@ mein@adj%mein
 meister@masc%masc
 melancholie@neut%inv
 mensch@masc%meinmasc
+menschheit@fem%inv
 messia@masc%inv
 messianisch@adj%ausreichend
 messias@masc%inv
@@ -1006,6 +1016,7 @@ schwager@masc%arbeiter
 schwarmer@masc%arbeiter
 schwarmerisch@adj%ausreichend
 schwarz@adj%ausreichend
+schweigen@masc%burger
 schweigsamkeit@neut%inv
 schwelle@fem%flasche
 schwer@adj%ausreichend
@@ -1110,6 +1121,8 @@ termin@neut%inv
 testament@neut%norm
 teuer@neut%inv
 teufel@neut%inv
+thema@neut%autor
+themen@neut%inv
 theologie@fem%inv
 theoretisch@adj%ausreichend
 thukydides@neut%inv

@@ -121,7 +121,7 @@ obos,,[locuiesc]
 omor,i,[merg]
 opr,i,[aciti]
 organiz,,[fumez]
-paras,i,[mantui]
+paras,i,[mantui],(AIF*par*vapar*0)
 pas,,[cresc],(PAP*pas*pascut*0)
 pastr,a,[fumez]
 pedeps,i,[locuiesc]

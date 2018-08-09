@@ -23,7 +23,7 @@ ambul,o,as,are,avi,atum,[o-as]
 am,o,as,are,avi,atum,[o-as]
 annunti,o,as,are,avi,atum,[o-as],(ASI*annunti*annuntiar*0)
 aper,io,is,ire,,,[io-is]
-appar,eo,es,ere,,,[eo-es]
+appar,eo,es,ere,,,[eo-es2],(ASP*appar*appare*0)
 appell,o,as,are,,,[o-as]
 appon,o,is,ere,,,[o-is]
 arbitr,or,aris,ari,,,[or-aris]
@@ -98,7 +98,7 @@ delig,o,is,ere,,,[o-is]
 delect,o,as,are,avi,atum,[o-as]
 demonstr,o,as,are,avi,atum,[o-as]
 depon,o,is,ere,,,[o-is]
-descend,o,is,ere,,,[o-is]
+descend,o,is,ere,,,[o-is],(AIFP*descends*descend*0)
 desin,o,is,ere,,,[o-is],(AIP*desin*desi*0)
 dic,o,is,ere,foobar,foobar,[o-is],(AIP*dic*dix*0@AIPP*dic*dix*0@AIFP*dics*dix*0)
 dict,o,as,are,,,[o-as]
@@ -110,7 +110,7 @@ discern,o,is,ere,,,[o-is]
 disput,o,as,are,,,[o-as]
 dissemin,o,as,are,,,[o-as]
 divid,o,is,ere,,,[o-is],(AIP*divid*divis*0)
-doc,eo,es,ere,,,[eo-es]
+doc,eo,es,ere,,,[eo-es],(AIP*doc*docu*0)
 domin,or,aris,ari,,,[or-aris]
 don,o,as,are,edi,atum,[o-as]
 dorm,io,is,ire,,,[io-is]

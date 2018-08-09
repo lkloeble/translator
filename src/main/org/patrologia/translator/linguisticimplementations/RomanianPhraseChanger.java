@@ -234,8 +234,11 @@ public class RomanianPhraseChanger extends CustomLanguageRulePhraseChanger {
                 String content = word.getInitialValue();
                 String[] splittedContent = content.split("_");
                 newPhrase.addWordAtPosition(newPhraseIndice, new Word(WordType.UNKNOWN, splittedContent[0], Language.ROMANIAN));
-                newPhrase.addWordAtPosition(newPhraseIndice+1, new Word(WordType.UNKNOWN, splittedContent[1], Language.ROMANIAN));
-                newPhraseIndice+=2;
+                int numberOfOtherWords = splittedContent.length-1;
+                for(int indiceOtherWords = 0;indiceOtherWords<numberOfOtherWords;indiceOtherWords++) {
+                    newPhrase.addWordAtPosition(newPhraseIndice + indiceOtherWords + 1, new Word(WordType.UNKNOWN, splittedContent[indiceOtherWords+1], Language.ROMANIAN));
+                }
+                newPhraseIndice+=splittedContent.length;
             } else {
                 newPhrase.addWordAtPosition(newPhraseIndice,phrase.getWordContainerAtPosition(indice).getUniqueWord());
                 newPhraseIndice++;

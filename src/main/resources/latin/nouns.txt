@@ -17,6 +17,7 @@ adiutori@neut%um-i
 adferen@masc%s-tis
 adorand@adj%us-a-um
 adult@adj%us-a-um
+adventarit@neut%inv
 advers@adj%us-a-um
 adversari@masc%us-i
 adyt@neut%um-i
@@ -57,6 +58,7 @@ animan@masc%s-tis
 ann@masc%us-i
 antiochen@adj%us-a-um
 antiqu@adj%us-a-um
+antiquissim@adj%us-a-um
 antiquit@fem%as-atis
 apert@adj%us-a-um
 apocalyps@fem%is-is2
@@ -350,6 +352,7 @@ galli@fem%a-ae
 garumn@fem%a-ae
 gaudi@neut%um-i
 gen@neut%adj-us-eris
+gen@fem%s-tis
 generati@fem%o-onis
 genit@adj%us-a-um
 genital@adj%is-is-e

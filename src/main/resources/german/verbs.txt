@@ -8,6 +8,7 @@ anfang,en,[leben]
 angehor,en,[leben]
 anruf,en,[leben]
 antwort,en,[wenden]
+anzuhor,en,[leben]
 anzuseh,en,[leben]
 anzustell,en,[leben]
 anzuzweif,eln,[sammeln]
@@ -72,6 +73,7 @@ brauch,en,[leben]
 brech,en,[leben],(IPR*brecht*bricht*0@IPR*brechst*brichst*0)
 buhl,en,[leben]
 bring,en,[leben],(AII*bring*brach*0)
+brumm,en,[leben]
 dank,en,[leben]
 darbiet,en,[mochten](AIP*darbiet*darbot*0)
 darf,en,[wollen]
@@ -103,6 +105,7 @@ erkenn,en,[leben],(PAP*erke*erka*0)
 erlaub,en,[leben]
 erlos,en,[leben]
 ermang,en,[sammeln]
+ermess,en,[leben]
 ernenn,en,[leben],(AII*ernenn*ernann*0)
 errat,en,[werden]
 erreg,en,[leben]
@@ -211,7 +214,7 @@ mog,en,[wollen],(IPR012*mo*ma*0)
 muss,en,[leben]
 nachlauf,en,[rufen],(AIP*lauf*lief*0)
 nachsinn,en,[rufen],(AIP*nachsin*nachsan*0)
-nehm,en,[leben],(IPR12*nehm*nimm*0@AIP*nehm*nahm*0)
+nehm,en,[rufen],(IPR12*nehm*nimm*0@AIP*nehm*nahm*0)
 nenn,en,[leben],(AII*nenn*nann*0@PAP*nenn*gennant*0)
 pass,en,[leben]
 pflanz,en,[pflanzen]

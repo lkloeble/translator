@@ -26,6 +26,7 @@ public class HebrewToFrench extends LanguageToFrench {
         this.originLanguageDeclensionFactory = declensionFactory;
         this.nounRepository = nounRepository;
         this.finalModifier = finalModifier;
+        this.conjugationGenderAnalyser = new HebrewConjugationAnalyzer();
         populateAllForms();
     }
 
