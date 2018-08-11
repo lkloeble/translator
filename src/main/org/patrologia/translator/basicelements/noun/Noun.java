@@ -373,4 +373,9 @@ public class Noun extends Word {
     public boolean isInvariable() {
         return declension.equals("inv");
     }
+
+
+    public boolean hasPossibleCaseNumbers() {
+        return possibleCaseNumbers.size() > 0;
+    }
 }
