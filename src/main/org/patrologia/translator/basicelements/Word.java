@@ -279,4 +279,8 @@ public class Word {
     public Language getLanguage() {
         return language;
     }
+
+    public boolean isAbsoluteNoun() {
+        return WordType.NOUN.equals(this.wordType);
+    }
 }

@@ -72,7 +72,7 @@ public class WordAnalyzer {
                         noun.addRules(unknownYet.getRules());
                         noun.setPreferedTranslation(unknownYet.getPreferedTranslation());
                         noun.setPreferedElected(unknownYet.getPreferedElected());
-                        if(unknownYet.isNoun() && ((Noun)unknownYet).hasPossibleCaseNumbers()) noun.setPossibleCaseNumbers(((Noun)unknownYet).getPossibleCaseNumbers());
+                        if(unknownYet.isAbsoluteNoun() && ((Noun)unknownYet).hasPossibleCaseNumbers()) noun.setPossibleCaseNumbers(((Noun)unknownYet).getPossibleCaseNumbers());
                         wordsToAdd.add((Word) noun);
                     }
                     result.addWordsAtPosition(indice, wordsToAdd);
