@@ -82,6 +82,7 @@ contin,eo,es,ere,,,[eo-es]
 conting,o,is,ere,,,[o-is],(AIPP*conting*contig*0)
 conven,io,is,ire,veni,ventum,[io-is]
 convinc,o,is,ere,,,[o-is]
+copul,o,as,are,,,[o-as]
 corrig,o,is,ere,,,[o-is]
 corrump,o,is,ere,,,[o-is]
 cre,o,as,are,avi,atum,[o-as]
@@ -249,6 +250,7 @@ proficisc,or,eris,i,,,[or-eris]
 profite,or,ris,ri,,,[or-ris]
 prohib,eo,es,ere,,,[eo-es]
 prostern,o,is,ere,,,[o-is],(AIFP*prosterns*prostrav*0)
+prost,o,as,are,,,[o-as],(AIPP*prostav*prostit*0)
 public,o,as,are,,,[o-as]
 puls,o,as,are,,,[o-as]
 qu,eo,is,ire,,,[eo-is],(AIP*qu*zzz*0@AIMP*qu*zzz*0)
@@ -260,6 +262,7 @@ relinqu,o,is,ere,,,[o-is],(AIP*relin*reli*0)
 renasc,or,eris,i,,,[or-eris],(ASI*renasc*renascer*0)
 repl,eo,es,ere,,,[eo-es]
 repudi,o,as,are,,,[o-as]
+repugn,o,as,are,,,[o-as]
 requiesc,o,is,ere,,,[o-is],(AIP*requiesc*requiev*0)
 reser,o,as,are,,,[o-as]
 respect,o,as,are,,,[o-as]

@@ -53,7 +53,7 @@ public class LatinTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "mori,or,eris,,,,[or-eris]"
+                "prost,o,as,are,,,[o-as],(AIPP*prostav*prostit*0)"
         });
         */
         return getFileContentForRepository(verbFileDescription);
@@ -110,7 +110,7 @@ public class LatinTranslatorBridgeTest extends TranslatorBridgeTest {
 
     @Test
     public void test_failing_one() {
-        //checkInMaps("toto", translatorBridge);
+        checkInMaps("patrologiacaput3A37", translatorBridge);
     }
 
 

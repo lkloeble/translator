@@ -51,7 +51,6 @@ amplexand@adj%us-a-um
 ancill@fem%a-ae
 angel@masc%us-i
 angelic@adj%us-a-um
-angust@adj%us-a-um
 anim@masc%us-i
 anim@fem%a-ae[ablplr:animabus,datplr:animabus]
 animan@masc%s-tis
@@ -89,6 +88,8 @@ auctor@masc%x-is
 auctorita@fem%s-tis2
 audaci@adj%or-or-us
 audit@adj%us-a-um
+august@adj%us-a-um
+augustin@masc%us-i
 aul@fem%a-ae
 aur@neut%um-i
 aureli@fem%a-ae
@@ -269,10 +270,12 @@ duodecim@adj%inv
 duos@adj%inv
 edit@adj%us-a-um
 ecclesi@fem%a-ae
+editi@fem%o-onis
 effect@adj%us-a-um
 effeminand@adj%us-a-um
 effus@adj%us-a-um
 elect@adj%us-a-um
+emendat@adj%us-a-um
 enuntiat@adj%us-a-um
 epiphani@masc%us-i
 episcop@masc%us-i
@@ -377,6 +380,7 @@ haben@adj%s-tis
 habit@adj%us-a-um
 haeres@fem%is-is
 hebrae@adj%us-a-um
+helen@fem%a-ae
 helveti@adj%us-a-um
 herb@fem%a-ae
 heri@neut%inv
@@ -505,6 +509,7 @@ lud@masc%us-i
 lugdunens@adj%is-is-e
 lugend@adj%us-a-um
 luminar@fem%e-is
+lupanar@neut%x-is
 lydi@fem%a-ae
 maest@adj%us-a-um
 mag@masc%us-i
@@ -568,6 +573,7 @@ mult@adj%us-a-um
 multitud@fem%o-inis
 mur@masc%us-i
 mysteri@neut%um-i
+narrati@fem%o-onis
 nas@masc%us-i
 nascen@masc%s-s-s
 nat@adj%us-a-um
@@ -670,7 +676,9 @@ persecuti@fem%o-onis
 persuas@adj%us-a-um
 pervers@adj%us-a-um
 petr@masc%us-i
+philastri@masc%us-i
 philipp@masc%us-i
+phoeni@fem%x-cis
 pi@adj%us-a-um
 piet@fem%as-atis
 pil@fem%a-ae
@@ -895,6 +903,7 @@ tuend@adj%us-a-um
 tuling@masc%us-i
 turb@fem%a-ae
 tuscul@masc%um-i
+tyr@masc%us-i
 tyrann@masc%us-i
 umbr@fem%a-ae
 umer@masc%us-i

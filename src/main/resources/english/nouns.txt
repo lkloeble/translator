@@ -571,6 +571,7 @@ intended@adj%invmasc
 interest@masc%normmasc
 interesting@neut%invmasc
 interpretation@fem%normfem
+intrenchment@neut%normmasc
 invention@neut%normmasc
 iron@neut%invmasc
 isaiah@neut%invmasc
@@ -1124,6 +1125,7 @@ title@masc%normmasc
 tm@neut%invmasc
 today@neut%invmasc
 toil@neut%invmasc
+tomb@neut%normmasc
 tongue@neut%normmasc
 torment@neut%normmasc
 tower@neut%normmasc

@@ -913,6 +913,7 @@ programm@masc%norm
 projekt@neut%meinmasc
 proselyt@neut%meinmasc
 prufung@fem%meinfem
+ps@neut%inv
 pseudepigraphe@fem%flasche
 psychologisch@adj%ausreichend
 punktlich@neut%inv

@@ -1334,6 +1334,7 @@ projekt@noun!meinmasc%1(noun)=projet
 proselyt@noun!meinmasc%1(noun)=prosélyte
 pruf@verb!norm%1(verb)=examiner
 prufung@noun!meinfem%1(noun)=examen%2(noun)=test
+ps@noun!inv%1(noun)=ps
 pseudepigraphe@noun!flasche%1(noun)=pseudépigraphique
 psychologisch@adj!ausreichend%1(adj)=psychologique
 punktlich@noun!inv%1(noun)=ponctuel

@@ -413,6 +413,17 @@ strackp6par11L=>[XXX] r 13 a ( fois@voilà@ ); 14 ( b ); [XXX] [XXX] b; mid r [X
 strackp6par11M=>mid r [XXX] [XXX] ( a ); [XXX] [XXX] r ( 98 )  un(e)@un(s)@ plus complet(e)@plus complet(s)@ titre du messie est le énormément fréquent(e)@fréquent(s)@ [XXX], aram. [XXX]
 strackp6par11N=>le roi, le messie = le messianique(e)@messianique(s)@ roi, pas le roi messie – évidence(s) par dalman, mot (du) jésus 1, 239 [XXX].
 
+strackp6par201=>foobar
+strackp6par202=>foobar
+strackp6par203=>foobar
+strackp6par204=>foobar
+strackp6par205=>foobar
+strackp6par206=>foobar
+strackp6par207=>foobar
+strackp6par208=>foobar
+strackp6par209=>foobar
+strackp6par210=>foobar
+
 genesis1A=>au commencement créa dieu (des) ciel(s) et terre(e).
 genesis1B=>et la terre(e) était informe et vide, et cela était obscurité au dessus de le profonde(e)@profonde(s)@profondeur@; et le esprit de dieu plana/planait au dessus de du eau.
 genesis1C=>et dieu dit : cela deviens@serai@ lumière ! et il était lumière.

@@ -83,7 +83,6 @@ amplius@prep%1(prep)=en outre
 ancill@noun!a-ae%1(noun)=servante, esclave%2(noun)=devote, servante%3(noun()=moniale%4(noun)=servante
 angel@noun!us-i%1(noun)=ange
 angelic@adj!us-a-um%1(adj)=angélique
-angust@adj!us-a-um%1(adj)=étroit
 anim@noun!us-i%1(noun)=principe vital distinct du corps%2(noun)=siege de la pensee, ensemble des facultes de l'ame%3(noun)=siege du desir et de la volonte%4(noun)=siege du sentiment et des passions%5(noun)=terme de cajolerie : <exp>mi anime</exp><trad>moncoeur</trad>%6(noun)=caractere, nature (poesie)%7(noun)=âme
 anim@noun!a-ae%1(noun)=âme
 animan@noun!s-tis%1(noun)=animé
@@ -138,6 +137,8 @@ auctorita@noun!s-tis2%1(noun)=pouvoir%2(noun)=autorité
 audaci@adj!or-or-us%1(adj)=plus audacieux
 audio@verb!norm%1(verb)=entendre
 audit@adj!us-a-um%1(noun)=entendu
+august@adj!us-a-um%1(adj)=étroit
+augustin@noun!us-i%1(noun)=augustin
 aul@noun!a-ae%1(noun)=cour
 aur@noun!um-i%1(noun)=or
 aureli@noun!a-ae%1(noun)=aurelia
@@ -298,6 +299,7 @@ conviv@noun!a-ae%1(noun)=invité
 copi@noun!a-ae%1(noun)=renfort%2(noun)=troupe
 coram@prep%1(adv)=en face, devant, en présence : <exp>coram videre</exp><trad>voir sur place (personnellement)</trad>%2(prep avec abl)= en présence de, devant : <exp>senatu coram</exp><trad>devant le sénat</trad>%3(prep)=devant
 corneli@noun!us-i%1(noun)=cornelius
+copulo@verb!norm%1(verb)=connecter%2(verb)=unir
 corrigo@verb!norm%1(verb)=corriger
 corrumpo@verb!norm%1(verb)=corrompre
 corsic@noun!a-ae%1(noun)=corse
@@ -431,6 +433,7 @@ eas@prep%1(prep)=les
 ecce@prep%1(prep)=voici
 ecclesi@noun!a-ae%1(noun)=assemblee cultuelle des premiers chretiens%2(noun)=eglise(edifice),temple%3(noun)=église
 edit@adj!us-a-um%1(adj)=edite
+editi@noun!o-onis%1(noun)=édition
 edo@verb!norm%1(verb)=publier
 edoceo@verb!norm%1(verb)=instruire
 effect@adj!us-a-um%1(adj)=complété%2(adj)=terminé
@@ -444,6 +447,7 @@ eis@prep%1(prep)=eux
 eius@prep%1(prep)=son
 ejus@prep%1(prep)=son
 elect@adj!us-a-um%1(adj)=élu
+emendat@adj!us-a-um%1(adj)=corrigé
 emergo@verb!norm%1(verb)=emerger
 enim@prep%1(prep)=en effet
 enimvero@prep%1(prep)=bien sûr
@@ -602,6 +606,7 @@ haec@prep%1(prep)=ces
 haeres@noun!is-is%1(noun)=hérésie
 hanc@prep%1(prep)=ce
 hebrae@adj!us-a-um%1(adj)=judeen%2(adj)=hebreu
+helen@noun!a-ae%1(noun)=hélène
 helveti@adj!us-a-um%1(adj)=helvète
 herb@noun!a-ae%1(noun)=herbe
 heri@noun!inv%1(noun)=hier
@@ -806,6 +811,7 @@ ludo@verb!norm%1(verb)=jouer
 lugdunens@adj!is-is-e%1(adj)=lyonnais
 lugend@adj!us-a-um%1(adj)=qui doit être plaint
 luminar@noun!e-is%1(noun)=luminaire
+lupanar@noun!x-is%1(noun)=lupanar
 lydi@noun!a-ae%1(noun)=lydia
 m@prep%1(prep)=m
 maest@adj!us-a-um%1(adj)=triste
@@ -896,6 +902,7 @@ mund@noun!us-i%1(noun)=monde
 mur@noun!us-i%1(noun)=mur
 mysteri@noun!um-i%1(noun)=mystère
 nam@prep%1(prep)=car
+narrati@noun!o-onis%1(noun)=narration
 narro@verb!norm%1(verb)=raconter
 nas@noun!us-i%1(noun)=nez
 nascen@noun!s-s-s%1(noun)=né%2(noun)=naissant
@@ -1048,7 +1055,9 @@ pertineo@verb!norm%1(verb)=être la proriété de,appartenir à%2(verb)=avoir te
 pervenio@verb!norm%1(verb)=atteindre%2(verb)=arriver%3(verb)=parvenir
 pervers@adj!us-a-um%1(adj)=pervers
 petr@noun!us-i%1(noun)=Pierre
+philastri@noun!us-i%1(noun)=Philastrius
 philipp@noun!us-i%1(noun)=Philippe
+phoeni@noun!x-cis%1(noun)=phénicien
 pi@adj!us-a-um%1(adj)=aimant%2(adj)=tendre%3(adj)=saint
 piet@noun!as-atis%1(noun)=sens du devoir
 pil@noun!a-ae%1(noun)=balle
@@ -1133,6 +1142,7 @@ prophet@noun!a-ae%1(noun)=prophète
 propter@prep%1(prep)=à cause de%2(prep)=proche
 propterea@prep%1(prep)=pour cette raison
 prosterno@verb!norm%1(verb)=seprosterner
+prosto@verb!norm%1(verb)=projetter%2(verb)=offrir
 providenti@noun!a-ae%1(noun)=providence
 provinci@noun!a-ae%1(noun)=province
 proxim@adj!us-a-um%1(adj)=proche
@@ -1210,6 +1220,7 @@ renascor@verb!norm%1(verb)=naitredenouveau
 repleo@verb!norm%1(verb)=remplir
 reptil@adj!is-is-e%1(adj)=reptile
 repudio@verb!norm%1(verb)=repudier
+repugno@verb!norm%1(verb)=resister%2(verb)=combattre
 requiesco@verb!norm%1(verb)=stopper%2(verb)=sereposer
 res@noun!a-ae%1(noun)=chose
 resarcitum@noun!inv%1(noun)=rangs
@@ -1438,6 +1449,7 @@ tuorum@prep%1(prep)=tes
 tuum@prep%1(prep)=ton
 turb@noun!a-ae%1(noun)=foule%2(noun)=tumulte%3(noun)=multitude
 tuscul@noun!um-i%1(noun)=grain d'encens%2(noun)=tusculane
+tyr@noun!us-i%1(noun)=tyr
 tyrann@noun!us-i%1(noun)=tyran
 tuus@prep%1(prep)=ton
 ubi@prep%1(adv)=ou%2(adv)=dans lequel%3(conj)=quand, lorsque4(conj + subj)=du moment que%5(adv)=où
