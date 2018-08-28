@@ -86,6 +86,7 @@ approach@noun!church%1(noun)=approche
 apprehend@verb!norm%1(verb)=apprehender
 april@noun!invmasc%1(noun)=avril
 apt@adj!invmasc%1(adj)=approprié%2(adj)=apte
+arabia@noun!invmasc%1(noun)=arabie
 arabic@noun!normmasc%1(noun)=arabe
 aramaic@noun!normmasc%1(noun)=araméen
 archbishop@noun!invmasc%1(noun)=archevêque
@@ -193,6 +194,7 @@ book@noun!normmasc%1(noun)=livre
 born@verb!norm%1(verb)=naitre
 both@noun!invmasc%1(noun)=les-deux
 border@noun!normmasc%1(noun)=frontière
+bound@verb!norm%1(verb)=limiter
 boy@noun!normmasc%1(noun)=garçon
 bound@noun!normmasc%1(noun)=borne%2(noun)=limite
 bread@noun!normmasc%1(noun)=pain

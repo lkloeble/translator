@@ -860,10 +860,10 @@ lightfoot_ch753=>which border of old was |Kadesh|-|barnea|, Numbers 34:4; Joshua
 
 lightfoot_ch801=>Pliny writes, "From |Pelusium| are the intrenchments of |Chabrias| : mount |Casius| :
 lightfoot_ch802=>the temple of |Jupiter| |Casius| : the tomb of |Pompey| the Great: |Ostracine|:
-lightfoot_ch803=>Arabia is bounded sixty-five miles from Pelusium:
-lightfoot_ch804=>soon after begins Idumea and Palestine from the rising up of the Sirbon lake.
+lightfoot_ch803=>Arabia is bounded sixty-five miles from |Pelusium|:
+lightfoot_ch804=>soon after begins Idumea and Palestine from the rising up of the |Sirbon| lake.
 lightfoot_ch805=>" Either my eyes deceive me, while I read these things,
-lightfoot_ch806=>-- or mount Casius lies nearer Pelusium, than the lake of Sirbon.
+lightfoot_ch806=>-- or mount |Casius| lies nearer |Pelusium|, than the lake of |Sirbon|.
 lightfoot_ch807=>The maps have ill placed the Sirbon between mount Casius and Pelusium.
 lightfoot_ch808=>Sirbon implies burning; the name of the lake being derived from its nature, which is fiery and bituminous.
 lightfoot_ch809=>It is described by Diodorus Siculus, Strabo, and others, whom you may look upon.

@@ -46,6 +46,7 @@ appointment@neut%normmasc
 approach@fem%church
 april@neut%invmasc
 apt@adj%invmasc
+arabia@neut%invmasc
 arabic@neut%normmasc
 aramaic@neut%normmasc
 archbishop@neut%invmasc

@@ -860,9 +860,9 @@ lightfoot_ch753=>quel frontière de vieux était kadesh barnea, nombre(s) 34 : 4
 
 lightfoot_ch801=>pline écrit, de pelusium sont les renforcement(s) de chabrias : mont casius :
 lightfoot_ch802=>le temple de jupiter casius : le tombe de pompey le important : ostracine :
-lightfoot_ch803=>foobar
-lightfoot_ch804=>foobar
-lightfoot_ch805=>foobar
+lightfoot_ch803=>arabie est limité soixante cinq mile(s) de pelusium :
+lightfoot_ch804=>bientôt après commence idumée et palestine de le montant de le sirbon lac.
+lightfoot_ch805=>non plus mon oeil(s) trompe moi, pendant que je lis ces chose(s),
 lightfoot_ch806=>foobar
 lightfoot_ch807=>foobar
 lightfoot_ch808=>foobar
