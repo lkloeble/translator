@@ -16,6 +16,7 @@ abrede@noun!flasche%1(noun)=contradiction
 abschliess@verb!norm%1(verb)=terminer
 absicht@noun!meinfem%1(noun)=objectif
 absinkend@adj!ausreichend%1(adj)=déclinant
+absolut@adj!ausreichend%1(adj)=absolu
 abstamm@verb!norm%1(verb)=provenir
 abstammung@noun!meinfem%1(noun)=lignée
 abteilung@noun!norm%1(noun)=service
@@ -257,6 +258,7 @@ bewiesen@adj!ausreichend%1(adj)=prouvé
 bewund@verb!norm%1(verb)=admirer
 bezahl@verb!norm%1(verb)=payer
 bezeug@verb!norm%1(verb)=temoigner
+bezeichnung@noun!meinfem%1(noun)=dénomination
 beziehung@noun!meinfem%1(noun)=relation
 bezug@noun!jahrzehnt%1(noun)=référence
 bezw@prep%1(prep)=plus précisément
@@ -319,6 +321,7 @@ christ@noun!christ%1(noun)=christ
 christel@noun!inv%1(noun)=christel
 christenheit@noun!inv%1(noun)=chrétienté
 christentum@noun!inv%1(noun)=christianisme
+christlich@adj!ausreichend%1(adj)=chrétien
 chronologisch@adj!ausreichend%1(adj)=chronologique
 da@prep%1(prep)=parce que%2(prep)=et
 dabei@prep%1(prep)=à cet égard
@@ -378,6 +381,7 @@ des@prep%1(prep)=du
 dessen@prep%1(prep)=dont le
 dessentwillen@noun!inv%1(noun)=occasionnel
 determiniert@adj!ausreichend%1(adj)=déterminé
+deut@verb!norm%1(verb)=interpreter
 deutsch@adj!ausreichend%1(adj)=allemand
 deutschland@noun!inv%1(noun)=allemagne
 dezember@noun!inv%1(noun)=décembre
@@ -431,6 +435,7 @@ durchgangig@adj!ausreichend%1(adj)=systématique
 durchsicht@noun!meinfem%1(noun)=examen
 durf@verb!norm%1(verb)=etreautorisea
 durst@noun!inv%1(noun)=soif
+dionysos@noun!inv%1(noun)=dionysos
 eben@prep%1(prep)=également
 ebenfalls@prep%1(prep)=également
 ebenso@prep%1(prep)=aussi
@@ -664,6 +669,7 @@ gebet@noun!phanomen%1(noun)=prière
 gebiet@noun!phanomen%1(noun)=zone%2(noun)=territoire
 gebildet@adj!ausreichend%1(adj)=constitué
 geblieben@adj!ausreichend%1(adj)=resté
+gebot@noun!jahrzehnt%1(noun)=ordre%2(noun)=commandement
 gebracht@adj!ausreichend%1(adj)=amené
 gebrauch@verb!norm%1(verb)=utiliser
 geburt@noun!meinfem%1(noun)=naissance
@@ -688,6 +694,7 @@ geh@verb!norm%1(verb)=aller
 geheim@adj!ausreichend%1(adj)=secret
 geheimnis@noun!erkenntnis%1(noun)=secret
 geheimnisvoller@noun!ausreichend%1(adj)=mystérieux
+gehilfin@noun!meinfem%1(noun)=aide
 gehor@verb!norm%1(noun)=appartenir
 geist@noun!norm%1(noun)=esprit
 geld@noun!inv%1(noun)=argent
@@ -989,6 +996,7 @@ klasse@noun!flasche%1(noun)=classe
 klaus@noun!inv%1(noun)=klaus
 klein@adj!ausreichend%1(adj)=petit
 klima@noun!inv%1(noun)=climat
+kling@verb!norm%1(verb)=paraitre
 kloss@noun!inv%1(noun)=boule
 koch@verb!norm%1(verb)=bouillir%2(verb)=preparer
 komisch@adj!ausreichend%1(adj)=comique
@@ -1109,6 +1117,7 @@ marke@noun!flasche%1(noun)=marque
 markus@noun!inv%1(noun)=marc
 mart@verb!norm%1(noun)=torturer%2(verb)=martyriser
 martin@noun!inv%1(noun)=martin
+mass@noun!mass%1(noun)=taille%2(noun)=mesure%3(noun)=matière
 massgebend@adj!ausreichend%1(adj)=déterminant
 material@noun!meinmasc%1(noun)=matériau
 matthaus@noun!inv%1(noun)=matthieu
@@ -1357,6 +1366,7 @@ ratsel@noun!arbeiter%1(noun)=énigme
 ratselhaft@adj!ausreichend%1(adj)=mystérieux
 rauch@verb!norm%1(verb)=fumer
 recht@noun!inv%1(noun)=légal%2(noun)=correct%3(noun)=véritable%4(noun)=droit
+rechtfertigung@noun!meinfem%1(noun)=justification
 rechten@noun!inv%1(noun)=légal%2(noun)=correct%3(noun)=véritable%4(noun)=droit
 rechts@noun!inv%1(noun)=à droite
 red@verb!norm%1(verb)=dire
@@ -1369,6 +1379,7 @@ reich@adj!ausreichend%1(adj)=riche
 reich@verb!norm%1(verb)=atteindre
 reichst@adj!ausreichend%1(adj)=le plus riche
 reichtum@noun!heiligtum%1(noun)=richesse
+rein@adj!ausreichend%1(adj)=pur
 reinheit@noun!meinfem%1(noun)=pureté
 reis@noun!reis%1(noun)=riz
 reise@noun!flasche%1(noun)=voyage

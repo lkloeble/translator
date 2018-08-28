@@ -437,6 +437,7 @@ oser@NORM%[INFINITIVE]=[oser]%[IPR]=[ose,oses,ose,osons,osez,osent]%[AII]=[osai,
 oublier@NORM%[INFINITIVE]=[oublier]%[IPR]=[oublie,oublies,oublie,oublions,oubliez,oublient]
 ouvrir@NORM%[INFINITIVE]=[ouvrir]%[IPR]=[ouvre,ouvres,ouvre,ouvrons,ouvrez,ouvrent]%[AII]=[ouvrais,ouvrais,ouvrait,ouvrions,ouvriez,ouvraient]%[PII]=[étais ouvert,étais ouvert,était ouvert,étions ouverts,étiez ouverts,étaient ouverts]%[AIF]=[ouvrirai,ouvriras,ouvrira,ouvrirons,ouvrirez,ouvriront]%[PAP]=[ouvert]%[FUTPARTACT]=[ouvrir,ouvert,ouverte,ouvert]%[AIP]=[ouvris,ouvris,ouvrit,ouvrîmes,ouvrîtes,ouvrirent]
 paitre@NORM%[INFINITIVE]=[paître]%[IPR]=[pais,pais,pais,paissons,paissez,paissent]%[PAP]=[paturé]
+paraitre@NORM%[INFINITIVE]=[paraître]%[IPR]=[parais,parais,parait,paraissons,paraissez,paraissent]
 parfaire@NORM%[INFINITIVE]=[parfaire]%[IPR]=[parfais,parfais,parfait,parfaisons,parfaites,parfaitent]
 pardonner@NORM%[INFINITIVE]=[pardonner]%[IPR]=[pardonne,pardonnes,pardonne,pardonnons,pardonnez,pardonnent]%[PIP]=[suis pardonné,es pardonné,est pardonné,sommes pardonnés,êtes pardonnés,sont pardonnés]
 parler@NORM%[INFINITIVE]=[parler]%[IPR]=[parle,parles,parle,parlons,parlez,parlent]%[AIP]=[parlais,parlais,parla,parlâmes,parlâtes,parlèrent]%[PAP]=[parlé]%[PAPR]=[parlant]%[AII]=[parlais,parlais,parlait,parlions,parliez,parlaient]%[MPII]=[étais parlé,étais parlé,était parlé,étions parlés,étiez parlés,étaient parlés]%[PIEPER]=[parlais (avec intensité),parlais (avec intensité),parla (avec intensité),parlâmes (avec intensité),parlâtes (avec intensité),parlèrent (avec intensité)]

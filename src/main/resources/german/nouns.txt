@@ -12,6 +12,7 @@ abneigung@fem%meinfem
 abrede@fem%flasche
 absicht@fem%meinfem
 absinkend@adj%ausreichend
+absolut@adj%ausreichend
 abstammung@fem%meinfem
 abteilung@neut%norm
 abweichung@fem%meinfem
@@ -158,6 +159,7 @@ bett@neut%schmerz
 bewahrt@adj%ausreichend
 beweis@masc%meer
 bewiesen@adj%ausreichend
+bezeichnung@fem%meinfem
 beziehung@fem%meinfem
 bezug@masc%jahrzehnt
 bier@neut%inv
@@ -207,6 +209,7 @@ christ@masc%christ
 christel@fem%inv
 christenheit@fem%inv
 christentum@neut%inv
+christlich@adj%ausreichend
 chronologisch@adj%ausreichend
 dame@fem%flasche
 dank@fem%norm
@@ -253,6 +256,7 @@ durchsicht@fem%meinfem
 durst@neut%inv
 dumm@neut%inv
 durchgangig@adj%ausreichend
+dionysos@masc%inv
 egoistisch@adj%inv
 ehe@fem%flasche
 ehelich@adj%ausreichend
@@ -404,6 +408,7 @@ gebet@neut%phanomen
 gebiet@neut%phanomen
 gebildet@adj%ausreichend
 geblieben@adj%ausreichend
+gebot@neut%jahrzehnt
 gebracht@adj%ausreichend
 geburt@fem%meinfem
 geburtstag@masc%inv
@@ -425,6 +430,7 @@ gegenwartig@adj%ausreichend
 geheim@adj%ausreichend
 geheimnis@neut%erkenntnis
 geheimnisvoller@adj%ausreichend
+gehilfin@fem%meinfem
 geist@neut%norm
 geld@neut%inv
 gelehrt@adj%ausreichend
@@ -735,6 +741,7 @@ mannlicherseits@neut%inv
 marke@fem%flasche
 markus@masc%inv
 martin@neut%inv
+mass@neut%mass
 massgebend@adj%ausreichend
 material@neut%meinmasc
 matthaus@masc%inv
@@ -934,12 +941,14 @@ ratschlag@masc%norm
 ratsel@neut%arbeiter
 ratselhaft@adj%ausreichend
 recht@neut%inv
+rechtfertigung@fem%meinfem
 rechts@neut%inv
 rechten@neut%inv
 register@neut%inv
 reich@adj%ausreichend
 reichst@adj%ausreichend
 reichtum@masc%heiligtum
+rein@adj%ausreichend
 reinheit@fem%meinfem
 reis@masc%reis
 reise@fem%flasche

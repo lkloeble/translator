@@ -1,0 +1,9 @@
+nom%sing%fem%
+nom%plr%fem%e
+gen%sing%fem%es
+gen%plr%fem%e
+data%sing%fem%
+datb%sing%fem%e
+dat%plr%fem%en
+acc%sing%fem%
+acc%plr%fem%e

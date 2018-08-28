@@ -80,6 +80,7 @@ darf,en,[wollen]
 darleg,en,[leben]
 denk,en,[leben],(AII*denk*dach*0)
 denunzier,en,[leben]
+deut,en,[mochten],(PAP*deut*gedeutet*0)
 dien,en,[leben]
 diskutier,en,[leben]
 drang,en,[leben],(PAP*drang*gedrangt*0)
@@ -179,6 +180,7 @@ kampf,en,[leben]
 kauf,en,[leben]
 kehr,en,[starken]
 kenn,en,[leben],(AIP*kenn*kannt*0)
+kling,en,[leben]
 koch,en,[leben]
 komm,en,[rufen],(AIP*komm*kam*0@PAP*kom*gekom*0@ASI*komm*kam*0)
 konn,en,[wollen],(IPR012*kon*kan*0@PAP*konn*gekonnt*0)
