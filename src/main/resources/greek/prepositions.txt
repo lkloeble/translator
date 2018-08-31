@@ -142,8 +142,10 @@
 τοιγαρουν@prep()
 τοις@prep()prep(dat)%[electDativeForFollowingNoun]
 τον@prep%prep(acc)%[electAccusativeForFollowingNoun]
+τοτε@prep()
 του@prep%prep(gen)%[electGenitiveForFollowingNoun]
 τουδε@prep()
+τουτ@prep()
 τουτεστι@prep()
 τουτεστιν@prep()
 τουτο@prep()
@@ -169,4 +171,5 @@
 χωριςgen@prep()
 ω@prep()
 ως@prep()
+ωσπερ@prep()
 ωστε@prep()

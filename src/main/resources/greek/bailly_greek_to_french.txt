@@ -29,6 +29,7 @@
 ακαθαρτ@adj!ος-η-ον%1(adj)=impur
 ακεραι@adj!ος-η-ον%1(adj)=innocent
 ακορεστ@adj!ος-η-ον%1(adj)=insatiable
+ακριβο@verb!norm%1(verb)=verifier%2(verb)=enqueter
 αι@prep%1(prep)=les
 αιγυπτ@noun!ος-ου%1(noun)=égypte
 αιδης@noun!inv%1(noun)=hades
@@ -103,6 +104,9 @@
 αργυρι@noun!ον-ου%1(noun)=monnaie%2(noun)=argent
 αριθμ@noun!ος-ου%1(noun)=somme
 αρματει@noun!ος-ου%1(noun)=char
+αρσ@adj!ων-ων-ον%1(adj)=mâle
+αρσην@noun!inv%1(adj)=mâle
+αρσεν@noun!inv%1(adj)=mâle
 αρτ@noun!ος-ου%1(noun)=pain
 αρχ@noun!η-ης%1(noun)=principe,origine%2(noun)=point de depart%3(noun)=extremite finale,recapitulation,total%4(noun)=commandement,pouvoir,autorite%5(noun)=commencement
 αρκε@verb!norm%1(verb)=assister%2(verb)=ecarter
@@ -115,6 +119,7 @@
 αστ@noun!ηρ-ερος%1(noun)=étoile
 αστρ@noun!ον-ου%1(noun)=astre
 ατμιδ@noun!ος-ου%1(noun)=vapeur%2(noun)=humidité
+αυλ@noun!ος-ου%1(noun)=conduit%2(noun)=flûte
 αυξαν@verb!norm%1(verb)=croitre
 αυται@prep%1(prep)=ces(e)
 αυτ@adj!αυτος%1(adj)=le
@@ -237,6 +242,7 @@
 εκπνε@verb!norm%1(verb)=respirer%2(verb)=expirer
 εκπνο@noun!η-ης%1(noun)=expiration
 εκτειν@verb!norm%1(verb)=lever%2(verb)=tendre
+εκφαιν@verb!norm%1(verb)=reveler
 εκφερ@verb!norm%1(verb)=produire%2(verb)=effectuer
 εκχυσ@noun!ις-εως%1(noun)=effusion%2(noun)=sortie
 ελασσω@noun!inv%1(noun)=plus petit
@@ -351,6 +357,7 @@
 θεραπευ@verb!norm%1(verb)=servir,s'occuper de%2(verb)=soigner
 θερμ@noun!ος-ου%1(noun)=chaud
 θεωρ@verb!norm%1(verb)=observer,examiner,contempler%2(verb)=regarder
+θηλ@adj!υς-εια-υ%1(adj)=femelle
 θηρι@noun!ον-ου%1(noun)=animal sauvage
 θρον@noun!ος-ου%1(noun)=trône
 θυρ@noun!α-ας%1(noun)=porte
@@ -657,6 +664,7 @@
 πραγμ@noun!α-ατος%1(noun)=chose
 πραξιαδ@noun!ης-ου%1(noun)=praxiades
 πρεσβυτερ@noun!ος-ου%1(noun)=ancien
+πρηστηρ@noun!x-ος2%1(noun)=tourbillon%2(noun)=tonnerre
 πριν@prep%1(prep)=avant
 προβατ@noun!ον-ου%1(noun)=piscine%2(noun)=brebis
 προθυμι@noun!α-ας%1(noun)=disponibilité
@@ -776,9 +784,11 @@
 τουνομα@noun!inv%1(noun)=nommé
 τοπ@noun!ος-ου%1(noun)=place%2(noun)=lieu
 τοσουτ@adj!ος-η-ον%1(adj)=si grand
+τοτε@prep%1(prep)=en ce temps là
 του@prep%1(prep)=de
 τουδε@prep%1(prep)=de lui
 τους@prep%1(prep)=les
+τουτ@prep%1(prep)=ce
 τουτεστι@prep%1(prep)=c'est à dire
 τουτεστιν@prep%1(prep)=c'est à dire
 τουτο@prep%1(prep)=ce
@@ -858,6 +868,7 @@
 χορτ@noun!ος-ου%1(noun)=nourriture%2(noun)=foin%3(noun)=pâturage
 χρει@noun!α-ας%1(noun)=besoin
 χριστ@noun!ος-ου%1(noun)=Christ
+χρον@noun!ος-ου%1(noun)=époque%2(noun)=temps
 χωμ@noun!η-ης%1(noun)=village
 χωριςgen@prep%1(prep)=sans
 ψυχρ@noun!ος-ου%1(noun)=froid
@@ -868,4 +879,5 @@
 ων@noun!inv%1(noun)=étant
 ωρ@noun!α-ας%1(noun)=heure
 ως@prep%1(prep)=comme
+ωσπερ@prep%1(prep)=juste comme
 ωστε@prep%1(prep)=de sorte que

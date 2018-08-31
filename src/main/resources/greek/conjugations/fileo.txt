@@ -10,3 +10,4 @@ IMPMIDPASSIND=>ουμην,ου,ειτο,ουμεθα,εισθε,ουντο
 PRESACTPART=>ουσας
 AORACTINF=>αι,ας,ασα,αν
 AORACTSUBJ=>ω,ης,η,ωμεν,ητε,ωσιν|ωσι
+AORACTPART=>[ας-ου]
