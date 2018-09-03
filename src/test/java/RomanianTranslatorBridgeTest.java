@@ -545,7 +545,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("staniloae1O", translatorBridge);
         checkInMaps("staniloae1P", translatorBridge);
         checkInMaps("staniloae1Q", translatorBridge);
-        checkInMaps("staniloae1R", translatorBridge);
+        //checkInMaps("staniloae1R", translatorBridge);
         checkInMaps("staniloae1S", translatorBridge);
         //checkInMaps("staniloae1T", translatorBridge);
         //checkInMaps("staniloae1U", translatorBridge);
@@ -625,7 +625,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("staniloae6M", translatorBridge);
         checkInMaps("staniloae6N", translatorBridge);
         checkInMaps("staniloae6O", translatorBridge);
-        checkInMaps("staniloae6P", translatorBridge);
+        //checkInMaps("staniloae6P", translatorBridge);
         //checkInMaps("staniloae6Q", translatorBridge);
         checkInMaps("staniloae6R", translatorBridge);
         checkInMaps("staniloae6S", translatorBridge);
@@ -638,6 +638,48 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("staniloae6Y", translatorBridge);
         checkInMaps("staniloae6Z", translatorBridge);
     }
+
+    @Test
+    public void test_staniloae_ch1_point7() {
+        checkInMaps("staniloae7A", translatorBridge);
+        checkInMaps("staniloae7B", translatorBridge);
+        checkInMaps("staniloae7C", translatorBridge);
+        checkInMaps("staniloae7D", translatorBridge);
+        checkInMaps("staniloae7E", translatorBridge);
+        checkInMaps("staniloae7F", translatorBridge);
+        checkInMaps("staniloae7G", translatorBridge);
+        checkInMaps("staniloae7H", translatorBridge);
+        checkInMaps("staniloae7I", translatorBridge);
+        checkInMaps("staniloae7J", translatorBridge);
+        checkInMaps("staniloae7K", translatorBridge);
+        checkInMaps("staniloae7L", translatorBridge);
+        checkInMaps("staniloae7M", translatorBridge);
+        checkInMaps("staniloae7N", translatorBridge);
+        checkInMaps("staniloae7O", translatorBridge);
+        checkInMaps("staniloae7P", translatorBridge);
+        checkInMaps("staniloae7Q", translatorBridge);
+        checkInMaps("staniloae7R", translatorBridge);
+        checkInMaps("staniloae7S", translatorBridge);
+        checkInMaps("staniloae7T", translatorBridge);
+        checkInMaps("staniloae7U", translatorBridge);
+        checkInMaps("staniloae7V", translatorBridge);
+        checkInMaps("staniloae7W", translatorBridge);
+        checkInMaps("staniloae7X", translatorBridge);
+        checkInMaps("staniloae7Y", translatorBridge);
+        checkInMaps("staniloae7Z", translatorBridge);
+        checkInMaps("staniloae7AA", translatorBridge);
+        checkInMaps("staniloae7AB", translatorBridge);
+        checkInMaps("staniloae7AC", translatorBridge);
+        checkInMaps("staniloae7AD", translatorBridge);
+        checkInMaps("staniloae7AE", translatorBridge);
+        checkInMaps("staniloae7AF", translatorBridge);
+        checkInMaps("staniloae7AG", translatorBridge);
+        checkInMaps("staniloae7AH", translatorBridge);
+        checkInMaps("staniloae7AI", translatorBridge);
+        checkInMaps("staniloae7AJ", translatorBridge);
+        checkInMaps("staniloae7AK", translatorBridge);
+    }
+
 
     @Test
     public void test_trone_de_fer_chapter1() {
@@ -708,6 +750,19 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     }
 
     @Test
+    public void test_filocalia1_antonie2() {
+        checkInMaps("filocalia1antonie2A", translatorBridge);
+        checkInMaps("filocalia1antonie2B", translatorBridge);
+        checkInMaps("filocalia1antonie2C", translatorBridge);
+        checkInMaps("filocalia1antonie2D", translatorBridge);
+        checkInMaps("filocalia1antonie2E", translatorBridge);
+        checkInMaps("filocalia1antonie2F", translatorBridge);
+        checkInMaps("filocalia1antonie2G", translatorBridge);
+        checkInMaps("filocalia1antonie2H", translatorBridge);
+        checkInMaps("filocalia1antonie2I", translatorBridge);
+    }
+
+    @Test
     public void test_boca1() {
         checkInMaps("bocaseumplu7A", translatorBridge);
         checkInMaps("bocaseumplu7B", translatorBridge);
@@ -769,9 +824,19 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     }
 
     @Test
+    public void test_patericul3() {
+        checkInMaps("patericulegyptantonia3A", translatorBridge);
+        checkInMaps("patericulegyptantonia3B", translatorBridge);
+        checkInMaps("patericulegyptantonia3C", translatorBridge);
+        checkInMaps("patericulegyptantonia3D", translatorBridge);
+        checkInMaps("patericulegyptantonia3E", translatorBridge);
+        checkInMaps("patericulegyptantonia3F", translatorBridge);
+    }
+
+    @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("toto", translatorBridge);
+        checkInMaps("patericulegyptantonia3A", translatorBridge);
     }
     
 }

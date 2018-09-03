@@ -405,7 +405,7 @@ strackp6par11E=>[XXX] est hébreu [XXX], araméen [XXX]; déterminé [XXX];
 strackp6par11F1=>de le (du) araméen@araméen@araméen(s)(e)@ forme(e) est le grécisé [XXX] ( jn après 1, 41; 4, 25 ) écoulé(s),
 strackp6par11F2=>le (des) fréquent(s)@(du) fréquent(e)@fréquent@ témoigne est que ceci premièrement vers attendant [XXX].
 strackp6par11G=>– dans le rabbinique(s) littérature est m. systématique (des) titre(s) du final (du) historique salut (du) roi.
-strackp6par11H=>à cet égard laisse se observent/observer/observèrent, que  principalement le sans article hebreu, plus précisément le indéterminé(e)@indéterminé(s)@ hebreu utilise,
+strackp6par11H=>à cet égard laisse@lus@ se observent/observer/observèrent, que  principalement le sans article hebreu, plus précisément le indéterminé(e)@indéterminé(s)@ hebreu utilise,
 strackp6par11I=>bien trouve se aussi hebreu et. hebreu. régulièrement sera hebreu dit dans le connexion hebreu la (des) jour(s) du messie = messie temps.
 strackp6par11J=>– dans le palais dans. écriture(e) travail(s) domine/dominez hebreu, plus précisément le déterminé(e)@déterminé(s)@ hebreu.
 strackp6par11K=>(du) sans article [XXX] lit on par exemple [XXX] dt 1, 1 [XXX] 1 ( a ); [XXX] a ( fois@voilà@ ); mid r ps [XXX] ( a ); [XXX] ( b );
@@ -414,15 +414,17 @@ strackp6par11M=>mid r ps [XXX] ( a ); [XXX] [XXX] r ( 98 )  un(e)@un(s)@ plus co
 strackp6par11N=>le roi, le messie = le messianique(e)@messianique(s)@ roi, pas le roi messie – évidence(s) par dalman, mot (du) jésus 1, 239 [XXX].
 
 strackp6par201=>2 la dénomination(e) le oint, le messie descend de messianique interprèté(s) poser comme ps 2, 2; 18, 51; 20, 7; 89, 52; 132, 17; 1 sm 2, 10; 2 sm 22, 51;
-strackp6par202=>foobar
-strackp6par203=>foobar
-strackp6par204=>foobar
+strackp6par202=>quand la vieux juif(e) communauté(e) ici de du oint après (du) jahve lut,
+strackp6par203=>contre le la (des) peuple(s) se regrouper devenons@seront@, et dont le aide(e) dieu son@être@ sera –
+strackp6par204=>sur qui devait elle à cet égard pensent/penser, quand pas sur du roi le salut (du) historique final temps ?
 strackp6par205=>foobar
 strackp6par206=>foobar
 strackp6par207=>foobar
 strackp6par208=>foobar
 strackp6par209=>foobar
 strackp6par210=>foobar
+strackp6par211=>foobar
+strackp6par212=>foobar
 
 genesis1A=>au commencement créa dieu (des) ciel(s) et terre(e).
 genesis1B=>et la terre(e) était informe et vide, et cela était obscurité au dessus de le profonde(e)@profonde(s)@profondeur@; et le esprit de dieu plana/planait au dessus de du eau.
@@ -449,7 +451,7 @@ genesis1V=>et dieu bénit elle et dit : êtes fruitier et augmente vous et rempl
 genesis1W=>et était de soir et demain le cinquième(e)@cinquième(s)@ jour.
 genesis1X=>et dieu dit : la terre(e) apporte en avant vivant(e)@vivant(s)@ animal(s), un chaque à son style : bétail(e), chose rampante et animal(s) au dessus de terre(s)(e), un chaque à son style. et il se produisit aussi.
 genesis1Y=>et dieu faisait la (des) animal(s) au dessus de terre(s)(e), un chaque à son style, et le bétail(e) à son style, et toute sorte de chose rampante au dessus de terre(s)(e) à son style. et dieu vit, que cela bon était.
-genesis1Z=>et dieu dit : laisse nous humain(s) faire/fassent/font, un image, ceci nous égal sois/soit, la et gouvernent/gouverner sur la poisson(s)(e) dans mer et sur la (des) oiseau(s) sous du ciel et sur le bétail(e) et sur la entier(e)@entier(s)@ terre(e) et sur tout chose rampante, ceci au dessus de terre(s)(e) rampe.
+genesis1Z=>et dieu dit : laisse@lus@ nous humain(s) faire/fassent/font, un image, ceci nous égal sois/soit, la et gouvernent/gouverner sur la poisson(s)(e) dans mer et sur la (des) oiseau(s) sous du ciel et sur le bétail(e) et sur la entier(e)@entier(s)@ terre(e) et sur tout chose rampante, ceci au dessus de terre(s)(e) rampe.
 genesis1AA=>et dieu créa le humain(s) le pour image, pour image de dieu créa il la; et créa elle (du) un@un@un(s)(e)@ homme et un femme.
 genesis1BB=>et dieu bénit elle et dit vers à eux : êtes fruitier et augmente vous et remplissez/remplit la terre(e) et fait/faîtes elle vous sujet et gouverne sur la poisson(s)(e) dans mer et sur la (des) oiseau(s) sous du ciel et sur tout animaux, ceci au dessus de terre(s)(e) rampe.
 genesis1CC=>et dieu dit : voit/voyez et, je ai vous donné toute sorte de plante(e), ceci se fertilise, au dessus de le (du) entier@entier@entier(s)(e)@ terre(e) et toute sorte de fruitier(e)@fruitier(s)@ arbre(s), la se fertilisent/fertiliser, vers leurs nourriture(e),

@@ -51,6 +51,7 @@ amplexand@adj%us-a-um
 ancill@fem%a-ae
 angel@masc%us-i
 angelic@adj%us-a-um
+angust@adj%us-a-um
 anim@masc%us-i
 anim@fem%a-ae[ablplr:animabus,datplr:animabus]
 animan@masc%s-tis
@@ -88,7 +89,6 @@ auctor@masc%x-is
 auctorita@fem%s-tis2
 audaci@adj%or-or-us
 audit@adj%us-a-um
-august@adj%us-a-um
 augustin@masc%us-i
 aul@fem%a-ae
 aur@neut%um-i
@@ -452,7 +452,7 @@ iudici@neut%um-i
 iuli@masc%us-i
 iuli@fem%a-ae
 iument@neut%um-i
-iura@neut%inv
+iur@neut%a-ae
 iurand@neut%um-i
 iu@neut%s-ris
 jactur@adj%us-a-um

@@ -89,6 +89,7 @@ arunc@verb!norm%1(verb)=lancer
 aseza@verb!norm%1(verb)=sasseoir
 asa@prep%1(prep)=comme ceci
 ascet@noun!ul%1(noun)=ascète
+ascult@verb!norm%1(verb)=ecouter
 ascuns@adj!adj%1(adj)=caché
 asemenea@prep%1(prep)=également
 asimilare@noun!ereditate%1(noun)=assimilation

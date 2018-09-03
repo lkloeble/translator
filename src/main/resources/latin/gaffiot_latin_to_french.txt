@@ -83,6 +83,7 @@ amplius@prep%1(prep)=en outre
 ancill@noun!a-ae%1(noun)=servante, esclave%2(noun)=devote, servante%3(noun()=moniale%4(noun)=servante
 angel@noun!us-i%1(noun)=ange
 angelic@adj!us-a-um%1(adj)=angélique
+angust@adj!us-a-um%1(adj)=étroit
 anim@noun!us-i%1(noun)=principe vital distinct du corps%2(noun)=siege de la pensee, ensemble des facultes de l'ame%3(noun)=siege du desir et de la volonte%4(noun)=siege du sentiment et des passions%5(noun)=terme de cajolerie : <exp>mi anime</exp><trad>moncoeur</trad>%6(noun)=caractere, nature (poesie)%7(noun)=âme
 anim@noun!a-ae%1(noun)=âme
 animan@noun!s-tis%1(noun)=animé
@@ -137,7 +138,6 @@ auctorita@noun!s-tis2%1(noun)=pouvoir%2(noun)=autorité
 audaci@adj!or-or-us%1(adj)=plus audacieux
 audio@verb!norm%1(verb)=entendre
 audit@adj!us-a-um%1(noun)=entendu
-august@adj!us-a-um%1(adj)=étroit
 augustin@noun!us-i%1(noun)=augustin
 aul@noun!a-ae%1(noun)=cour
 aur@noun!um-i%1(noun)=or
@@ -745,7 +745,7 @@ iudici@noun!um-i%1(noun)=procès%2(noun)=opinion%3(noun)=décision
 iuli@noun!us-i%1(noun)=julius
 iuli@noun!a-ae%1(noun)=iulia
 iument@noun!um-i%1(noun)=animal domestique
-iura@noun!inv%1(noun)=jura
+iur@noun!a-ae%1(noun)=jura
 iurand@noun!um-i%1(noun)=serment
 iu@noun!s-ris%1(noun)=devoir%2(noun)=loi
 iuxta@prep%1(prep)=à côté de%2(prep)=selon

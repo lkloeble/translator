@@ -197,7 +197,7 @@ leb,en,[leben]
 leg,en,[leben]
 lehr,en,[leben]
 lern,en,[leben]
-les,en,[leben],(IPR124*les*lies*0@PAP*les*geles*0)
+les,en,[rufen],(IPR124*les*lies*0@PAP*les*geles*0@AIP*les*las*0)
 lieb,en,[leben]
 lieg,en,[rufen],(AIP*lieg*lag*0)
 lock,en,[leben]

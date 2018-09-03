@@ -133,6 +133,9 @@ public class RomanianAnalyzer implements Analizer {
                 case 537://ș
                     sb.append("s");
                     break;
+                case 355://ț
+                    sb.append("ts");
+                    break;
                 case 539://ț
                     sb.append("ts");
                     break;

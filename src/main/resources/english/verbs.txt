@@ -172,6 +172,7 @@ hinder,[live]
 hope,[live]
 hurt,[call]
 imitate,[live],(PAPR*imitatei*imitati*0)
+impl,[imply]
 improve,[live]
 include,[live]
 inhabit,[call]

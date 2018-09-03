@@ -863,9 +863,13 @@ lightfoot_ch802=>le temple de jupiter casius : le tombe de pompey le important :
 lightfoot_ch803=>arabie est limité soixante cinq mile(s) de pelusium :
 lightfoot_ch804=>bientôt après commence idumée et palestine de le montant de le sirbon lac.
 lightfoot_ch805=>non plus mon oeil(s) trompe moi, pendant que je lis ces chose(s),
-lightfoot_ch806=>foobar
-lightfoot_ch807=>foobar
-lightfoot_ch808=>foobar
+lightfoot_ch806=>ou mont casius demeure plus près de pelusium, que le lac de sirbon.
+lightfoot_ch807=>les carte(s) ai/ayez malade plaça le sirbon entre mont casius et pelusium.
+lightfoot_ch808=>sirbon implique brûlant@incendie@; le nom de le lac étant dérivé de son nature(e), quel est enflammé et bitumineux.
 lightfoot_ch809=>foobar
+lightfoot_ch810=>foobar
+lightfoot_ch811=>foobar
+lightfoot_ch812=>foobar
+lightfoot_ch813=>foobar
 
 toto=>accompagner flotte(e) de salomon.

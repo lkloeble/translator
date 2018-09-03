@@ -405,6 +405,7 @@ feare@neut%normmasc
 female@fem%normfem
 fiction@fem%normfem
 field@neut%normmasc
+fiery@adj%invmasc
 fifth@neut%invmasc
 fifty@neut%invmasc
 fig@neut%normmasc

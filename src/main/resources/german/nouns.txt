@@ -544,6 +544,7 @@ herstellung@fem%meinfem
 herzlich@masc%meinmasc
 heute@neut%inv
 heutzutage@neut%inv
+hilfe@fem%flasche
 hillel@neut%inv
 himmel@neut%arbeiter
 hinausgehend@adj%ausreichend
@@ -594,6 +595,7 @@ jahr@neut%jahrzehnt
 jahrhundert@neut%rest
 jahrig@adj%ausreichend
 jahrzehnt@neut%jahrzehnt
+jahve@neut%autor
 januar@neut%inv
 japanisch@adj%ausreichend
 jeb@neut%inv
@@ -1375,6 +1377,7 @@ zugrunde@fem%flasche
 zunge@fem%flasche
 zurechtmachung@fem%inv
 zusammenhang@masc%meer
+zusammenrotten@neut%inv
 zusatz@masc%phanomen
 zuverlassig@adj%ausreichend
 zuteil@neut%inv

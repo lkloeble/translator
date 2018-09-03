@@ -17,6 +17,7 @@ apropri,,[aprecia]
 arat,,[incerca],(AII*arat*aratar*0)
 arunc,,[incerca]
 as,eza,[aprecia],(PAP*asat*asezat*0)
+ascult,,[cauta]
 astept,a,[cauta],(AIMP*astepta*asteapta*1)
 atrag,e,[merg],(PAP*atrag*atras*0)
 autoform,are,[aciti]
@@ -110,7 +111,7 @@ lumin,,[fumez]
 maninc@IRREGULAR%[IPR]=[maninc,maninci,maninca,mancam,mancati,mananca]%[INFINITIVE]=[maninca]
 mantui,,[mantui],(AIF*man*vaman*0)
 ments,,[mentsin]
-merg,e,[merg],(AIP*merg*mers*0)
+merg,e,[merg],(AIP*merg*mers*0@AII*merg*merge*0)
 mor,,[dorm],(IPR2*mor*moar*0@IPR34*mor*mur*0@PAP*mor*mur*0)
 mosten,,[locuiesc]
 munc,,[aciti]
