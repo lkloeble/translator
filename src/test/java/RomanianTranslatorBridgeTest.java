@@ -112,7 +112,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "autoform,are,[aciti]"
+                "aspir,a,[incerca]"
         });
         */
         return getFileContentForRepository(verbFileDescription);
@@ -836,7 +836,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("patericulegyptantonia3A", translatorBridge);
+        checkInMaps("patericulegyptantonie1D", translatorBridge);
     }
     
 }

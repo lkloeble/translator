@@ -12,6 +12,7 @@ import java.util.List;
 /**
  * CONJ => Conjuntiv prezent
  * MMCP =>  Mai Mult Ca Perfect
+ * AIFINF => Infinitive Plural
  *
  * Created by Laurent KLOEBLE on 19/10/2015.
  */
@@ -20,7 +21,7 @@ public class RomanianConjugation extends Conjugation {
     private String conjugationFilePath;
     private ConjugationLoader conjugationLoader = new ConjugationLoader();
 
-    protected static List<String> times = Arrays.asList(new String[]{"IPR","AIMP","CONJ","MMCP","AIF","ACP"});
+    protected static List<String> times = Arrays.asList(new String[]{"IPR","AIMP","CONJ","MMCP","AIF","ACP","AIFINF"});
 
     public RomanianConjugation(List<String> conjugationElements, VerbDefinition verbDefinition, NounRepository nounRepository) {
         this.verbDefinition = verbDefinition;

@@ -1,0 +1,9 @@
+nom%sing%masc%os
+nom%sing%fem%oasa
+nom%sing%neut%os
+gen%sing%masc%os
+gen%sing%fem%oase
+gen%sing%neut%oase
+nom%plr%masc%si
+nom%plr%fem%oase
+nom%plr%neut%oase

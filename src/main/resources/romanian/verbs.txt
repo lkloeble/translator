@@ -18,6 +18,7 @@ arat,,[incerca],(AII*arat*aratar*0)
 arunc,,[incerca]
 as,eza,[aprecia],(PAP*asat*asezat*0)
 ascult,,[cauta]
+aspir,a,[incerca]
 astept,a,[cauta],(AIMP*astepta*asteapta*1)
 atrag,e,[merg],(PAP*atrag*atras*0)
 autoform,are,[aciti]
@@ -55,6 +56,7 @@ cuprin,de,[crede]
 da,,[da],(PAP*da*dat*0)
 deoseb,,[primi]
 depart,,[fumez]
+deprind,e,[vinde]
 deranj,,[fumez]
 deschi,,[vinde]
 descop,,[descopar]
@@ -84,6 +86,7 @@ ies,,[dorm]
 impart,,[impart]
 implic,,[cauta],(PAP*implic*implicat*0)
 implin,,[locuiesc]
+inabus,,[aciti]
 incarc,,[incerca]
 incep,,[face],(PAP*incep*inceput*0)
 incerc,a,[incerca]
@@ -109,7 +112,7 @@ lua@IRREGULAR%[IPR]=[iau,iei,ia,luam,luatsi,iau]%[PAP]=[luat]%[PAPR]=[luand]%[IN
 lucr,,[fumez]
 lumin,,[fumez]
 maninc@IRREGULAR%[IPR]=[maninc,maninci,maninca,mancam,mancati,mananca]%[INFINITIVE]=[maninca]
-mantui,,[mantui],(AIF*man*vaman*0)
+mantui,,[mantui]
 ments,,[mentsin]
 merg,e,[merg],(AIP*merg*mers*0@AII*merg*merge*0)
 mor,,[dorm],(IPR2*mor*moar*0@IPR34*mor*mur*0@PAP*mor*mur*0)

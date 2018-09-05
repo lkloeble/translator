@@ -1,3 +1,4 @@
+absolut@adj%adjts
 abstracti@fem%berea
 absurd@adj%adj
 acasa@neut%inv
@@ -122,6 +123,7 @@ col@neut%inv
 coleg@masc%ul
 complicat@adj%adj
 concentrat@adj%adj
+concepts@fem%conceptie
 concomitent@adj%adj
 concret@neut%inv
 conditsi@fem%fem
@@ -276,6 +278,7 @@ grabit@adj%adj
 grec@adj%adj
 greu@adj%inv
 grij@fem%femi
+gr@adj%adjos
 harnic@adj%adj
 hots@masc%ul
 hristos@masc%inv
@@ -304,6 +307,7 @@ indrazneal@fem%fem
 indreptar@fem%berea
 inexplicabil@adj%adj
 inferi@adj%adjor
+infinitate@fem%ereditate
 influent@fem%femts
 inger@masc%ul
 inrudiri@neut%inv

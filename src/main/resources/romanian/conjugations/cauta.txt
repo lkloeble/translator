@@ -3,5 +3,6 @@ AIMP=>x,a,x,x,atsi,x
 PSP=>,i,e,am,atsi,e
 CONJ=>,i,e,am,atsi,e
 AIP=>ai,asi,a,aram,aratsi,ara
+AIF=>va,siva,ava,amva,atsiva,ava,
 PAPR=>and
 PAP=>[adj]

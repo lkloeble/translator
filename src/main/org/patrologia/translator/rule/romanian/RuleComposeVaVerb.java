@@ -9,7 +9,7 @@ public class RuleComposeVaVerb extends Rule {
     public void apply(Word word, Phrase phrase, int position) {
         Word followingWord = phrase.getWordContainerAtPosition(position+1).getUniqueWord();
         if(followingWord.isVerb()) {
-            followingWord.setInitialValue("va" + followingWord.getInitialValue());
+            followingWord.setInitialValue(followingWord.getInitialValue() + "va");
             word.setInitialValue("xxtoremovexx");
         }
     }

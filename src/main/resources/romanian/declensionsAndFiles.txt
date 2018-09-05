@@ -31,3 +31,5 @@ pacatos%pacatos.txt
 esc%bisericesc.txt
 adjor%exterior.txt
 bereats%bereats.txt
+conceptie%conceptie.txt
+adjos%gros.txt
