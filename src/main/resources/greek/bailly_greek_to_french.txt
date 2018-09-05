@@ -645,6 +645,7 @@
 πληρο@verb!norm%1(verb)=remplir
 πλασιονα@noun!inv%1(noun)=plus grand
 πλατ@noun!ος-ους%1(noun)=largeur
+πλατυσμ@noun!ος-ου%1(noun)=expansion%2(noun)=dilatation%3(noun)=élargissement
 πλοι@noun!ον-ου%1(noun)=bateau%2(noun)=barque
 πλουσι@adj!ος-α-ον%1(adj)=riche
 πνευμ@noun!α-ατος%1(noun)=génie%2(noun)=esprit%3(noun)=vie%4(noun)=respiration%5(noun)=souffle%6(noun)=vent%7(noun)=air

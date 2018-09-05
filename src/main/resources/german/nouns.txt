@@ -131,6 +131,7 @@ befinlichen@neut%inv
 behorde@fem%flasche
 behutsam@adj%ausreichend
 beigefugt@adj%ausreichend
+beispiel@neut%jahrzehnt
 beiwohnung@fem%inv
 bekummert@neut%inv
 beleg@masc%jahrzehnt
@@ -281,6 +282,7 @@ eingang@fem%meinfem
 eigentumlich@adj%ausreichend
 eingewandert@adj%ausreichend
 einleitung@fem%norm
+einmutig@adj%ausreichend
 eintragung@fem%meinfem
 einzeln@adj%ausreichend
 einzuraumen@neut%inv
@@ -307,6 +309,7 @@ erklarung@fem%meinfem
 erkrankung@fem%meinfem
 erlauterung@fem%meinfem
 erlebnis@fem%erkenntnis
+erloser@masc%burger
 erlosung@fem%meinfem
 ermudet@adj%ausreichend
 ermudung@fem%meinfem
@@ -541,6 +544,7 @@ herr@neut%meinmasc
 herrlichkeit@fem%meinfem
 herrscher@masc%arbeiter
 herstellung@fem%meinfem
+herz@neut%herz
 herzlich@masc%meinmasc
 heute@neut%inv
 heutzutage@neut%inv
@@ -679,6 +683,7 @@ kunst@masc%kunst
 kunstler@masc%arbeiter
 kur@fem%flasche
 kurz@adj%ausreichend
+kurzest@adj%ausreichend
 lage@fem%flasche
 land@neut%ort
 lang@adj%ausreichend
@@ -722,6 +727,7 @@ logisch@adj%ausreichend
 logisierung@fem%inv
 losend@adj%ausreichend
 lucke@fem%flasche
+luge@fem%flasche
 lukas@masc%inv
 lust@fem%angst
 lustbarkeit@fem%meinfem
@@ -947,6 +953,7 @@ rechtfertigung@fem%meinfem
 rechts@neut%inv
 rechten@neut%inv
 register@neut%inv
+reich@neut%jahrzehnt
 reich@adj%ausreichend
 reichst@adj%ausreichend
 reichtum@masc%heiligtum
@@ -958,6 +965,7 @@ reiz@masc%meer
 renaissance@neut%inv
 rente@fem%flasche
 rentner@masc%arbeiter
+resignation@fem%inv
 rest@masc%rest
 restaurant@neut%inv
 retrospektiv@adj%ausreichend
@@ -1297,6 +1305,8 @@ wagnisse@neut%inv
 wahn@masc%phanomen
 wahnsinn@masc%phanomen
 wahr@adj%ausreichend
+wahrhaftig@adj%ausreichend
+wahrhaftigkeit@fem%meinfem
 wahrheit@fem%norm
 wahrscheinlich@adj%ausreichend
 wahrscheinlicher@adj%ausreichend

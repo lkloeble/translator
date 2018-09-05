@@ -11,3 +11,4 @@ PRESACTPART=>ουσας
 AORACTINF=>αι,ας,ασα,αν
 AORACTSUBJ=>ω,ης,η,ωμεν,ητε,ωσιν|ωσι
 AORACTPART=>[ας-ου]
+AORPASIND=>ην,ης,η,ημεν,ητε,ησαν

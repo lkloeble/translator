@@ -37,6 +37,7 @@ adhuc@prep%1(prep)=jusqu'à maintenant
 adorand@adj!us-a-um%1(adj)=adoré
 adoro@verb!norm%1(verb)=admirer%2(verb)=adorer%3(verb)=accuser%4(verb)=negocier
 adscisco@verb!norm%1(verb)=persuader
+adiutor@noun!x-is2%1(noun)=aide
 adventarit@noun!inv%1(verb)=sera venu
 advers@adj!us-a-um%1(adj)=adverse
 adversari@noun!us-i%1(noun)=adversaire
@@ -53,6 +54,7 @@ aetern@adj!us-a-um%1(adj)=éternel
 aethiopi@noun!a-ae%1(noun)=éthiopie
 afficiend@adj!us-a-um%1(adj)=qui doit être affecté
 afficio@verb!norm%1(verb)=affecter
+affirmo@verb!norm%1(verb)=renforcer%2(verb)=affermir
 afric@noun!a-ae%1(noun)=afrique
 ago@verb!norm%1(verb)=mettre en mouvement,pousser,emmener,faire sortir,mener%2(verb)=exprimer,jouer,soutenir une action%4(verb)=passer (la vie,le temps)%5(verb)=faire
 ag@noun!er-ri%1(noun)=champ
@@ -127,6 +129,7 @@ aspectabil@adj!is-is-e%1(adj)=visible
 assequor@verb!norm%1(verb)=comprendre%2(verb)=rivaliser%3(verb)=atteindre,achever%4(verb)=poursuivre
 assertor@noun!x-is2%1(noun)=déclarant
 assisto@verb!norm%1(verb)=etre jugé%2(verb)=defendre%3(verb)=seplacer
+assevero@verb!norm%1(verb)=demontrer%2(verb)=affirmer
 assyri@noun!us-i%1(noun)=assyrien
 atlantic@adj!us-a-um%1(adj)=atlantique
 at@prep%1(conj)=au contraire%2(conj)=quant a%3(conj)=et pourtant,et qui plus est%4(conj)=mais
@@ -142,6 +145,7 @@ augustin@noun!us-i%1(noun)=augustin
 aul@noun!a-ae%1(noun)=cour
 aur@noun!um-i%1(noun)=or
 aureli@noun!a-ae%1(noun)=aurelia
+aus@adj!us-a-um%1(adj)=aventuré%2(adj)=osé
 aut@prep%1(prep)=ou
 autem@prep%1(prep)=mais%2(prep)=d'autre part%3(prep)=et puis,en outre%4(prep)=or
 av@noun!is-is%1(noun)=volaille%2(noun)=oiseau
@@ -250,6 +254,7 @@ comparo@verb!norm%1(verb)=comparer%2(verb)=assembler
 compleo@verb!norm%1(verb)=accomplir
 complet@adj!us-a-um%1(adj)=rassasié%2(adj)=complété%3(adj)=terminé
 conat@adj!us-a-um%1(adj)=essayé
+concepti@noun!o-onis%1(noun)=idée%2(noun)=notion%3(noun)=concept
 conciliatur@adj!us-a-um%1(adj)=sur le point de s'unir
 concilio@verb!norm%1(verb)=acquerir%2(verb)=recommander%3(verb)=rassembler
 confirmo@verb!norm%1(verb)=confirmer
@@ -289,6 +294,7 @@ continenter@prep%1(prep)=continuellement
 contingo@verb!norm%1(verb)=polluer%2(verb)=affecter%3(verb)=atteindre%4(verb)=toucher
 contineo@verb!norm%1(verb)=entourer
 contra@prep%1(prep)=contre
+contract@adj!us-a-um%1(adj)=contracté%2(adj)=accompli%3(adj)=collecté
 contrit@adj!us-a-um%1(adj)=contrit
 controversi@noun!a-ae%1(noun)=contradiction%2(noun)=procès%3(noun)=dispute
 convent@adj!us-a-um%1(adj)=réuni
@@ -658,6 +664,7 @@ ill@adj!e-a-ud%1(pro dem)=celui la
 imag@noun!o-inis%1(noun)=image
 imbuo@verb!norm%1(verb)=humidifer%2(verb)=tremper%3(verb)=mouiller
 immutat@adj!us-a-um%1(adj)=transformé
+impendo@verb!norm%1(verb)=depenser
 imperi@noun!um-i%1(noun)=empire
 impero@verb!norm%1(verb)=commander
 impi@adj!us-a-um%1(noun)=maudit%2(noun)=impie
@@ -801,6 +808,7 @@ loc@noun!us-i%1(noun)=endroit
 long@adj!us-a-um%1(adj)=long
 longissim@adj!us-a-um%1(adj)=plus long
 longitud@noun!o-inis%1(noun)=longueur
+loquor@verb!norm%1(verb)=declarer
 lu@noun!x-cis%1(noun)=lumiere
 luceo@verb!norm%1(verb)=apparaitre%2(verb)=devenir visible%3(verb)=briller
 luci@noun!us-i%1(noun)=lucius
@@ -840,7 +848,7 @@ mari@noun!a-ae%1(noun)=marie
 martyr@noun!x-ys%1(noun)=martyr
 martyri@noun!um-i%1(noun)=martyr
 mascul@adj!us-a-um%1(adj)=male
-mat@noun!er-eris%1(noun)=mère
+mat@noun!er-ris%1(noun)=mère
 matrimoni@noun!um-i%1(noun)=mariage
 matron@noun!a-ae%1(noun)=marne%2(noun)=matronne
 maxim@adj!us-a-um%1(adj)=grande
@@ -854,6 +862,7 @@ medi@adj!us-a-um%1(noun)=milieu
 mei@prep%1(prep)=mes
 melit@noun!a-ae%1(noun)=malte
 memoro@verb!o-as%1(verb)=sesouvenir
+men@noun!s-tis2%1(noun)=esprit
 mens@noun!a-ae%1(noun)=autel%2(noun)=table
 mens@adj!us-a-um%1(noun)=mois
 meo@prep%1(prep)=mon
@@ -1047,6 +1056,7 @@ perfect@adj!us-a-um%1(adj)=accompli
 permot@adj!us-a-um%1(adj)=excité%2(adj)=agité
 pernici@noun!es-ei%1(noun)=désastre%2(noun)=ruine
 perniciosi@adj!or-or-us%1(adj)=plus destructif
+perpauc@adj!us-a-um%1(adj)=très peu
 perpetu@adj!us-a-um%1(adj)=perpétuel
 persecutor@noun!x-is2%1(noun)=persécuteur
 persuadeo@verb!norm%1(verb)=persuader
@@ -1278,6 +1288,7 @@ schol@noun!a-ae%1(noun)=secte%2(noun)=ensemble de disciples%3(noun)=école%4(nou
 scienti@noun!a-ae%1(noun)=savoir
 scio@verb!nom%1(verb)=savoir
 schisma@noun!x-tis%1(noun)=schisme
+scort@noun!um-i%1(noun)=prostituée%2(noun)=masque%3(noun)=peau
 scribend@adj!us-a-um%1(adj)=qui doit être écrit
 scribo@verb!nom%1(verb)=ecrire
 script@noun!um-i%1(noun)=ligne%2(noun)=ecrit%3(noun)=la lettre, le texte (de la loi)%4(noun)=ecrit
@@ -1370,6 +1381,7 @@ sublat@adj!us-a-um%1(adj)=détruit%2(adj)=enlevé
 successor@noun!x-is2%1(noun)=successeur
 sui@prep%1(prep)=lui-même
 sum@verb!irrg%1(verb substantif)=etre%2(verb substantif)=etre dans un lieu%3(verb substantif)=etre reellement%4(verb substantif + datif)=appartenir a, s'appliquer a%5(verbe)=etre
+summ@noun!a-ae%1(noun)=sommet
 sumo@verb!norm%1(verb)=charmer%2(verb)=adopter%3(verb)=utiliser%4(verb)=obtenir%5(verb)=sélectionner%6(verb)=commencer%7(verb)=prendre
 super@prep%1(adv)=par dessus,en plus%2(prep + acc)=au dessus%3(prep + abl)=sur%4(prep)=sur
 superfici@noun!es-ei%1(fem)=à la surface
@@ -1409,6 +1421,7 @@ terren@adj!us-a-um%1(adj)=terrestre
 terenti@noun!a-ae%1(noun)=terentia
 terti@noun!us-a-um%1(adj)=troisième
 tessel@noun!a-ae%1(noun)=mosaïque
+test@noun!is-is%1(noun)=témoin
 testament@noun!um-i%1(noun)=alliance%2(noun)=testament
 testimoni@noun!um-i%1(noun)=évidence,preuve%2(noun)=témoignage
 theodoret@noun!us-i%1(noun)=Théodoret
@@ -1436,6 +1449,7 @@ transfundo@verb!norm%1(verb)=transfuser
 transmitto@verb!norm%1(verb)=transmettre
 triclini@noun!um-i%1(noun)=salle-à-manger
 trinit@noun!as-atis%1(noun)=trinité
+trojan@noun!us-i%1(noun)=troien
 tu@prep%1(prep)=toi
 tua@prep%1(prep)=ta
 tuam@prep%1(prep)=ta
@@ -1510,6 +1524,8 @@ viren@noun!s-tis%1(noun)=verdure
 virgili@noun!us-i%1(noun)=virgile
 virgult@noun!um-i%1(noun)=plante%2(noun)=buisson
 virtu@noun!s-tis2%1(noun)=excellence%2(noun)=caractère%3(noun)=vertu%4(noun)=bonté%5(noun)=courage%6(noun)=virilité
+v@noun!is-is%1(noun)=force
+vir@noun!is-is%1(noun)=forces
 vis@noun!us-us%1(noun)=vue%2(noun)=apparition
 vis@adj!us-a-um%1(adj)=vu
 vit@noun!a-ae%1(noun)=vie
@@ -1517,6 +1533,7 @@ viti@noun!um-i%1(noun)=vice%2(noun)=péché%3(noun)=faute
 viv@adj!us-a-um%1(noun)=vivant
 vivo@verb!norm%1(verb)=vivre
 viven@adj!s-s-s%1(adj)=vivant
+vix@prep%1(prep)=difficilement
 vo@noun!x-cis%1(noun)=voix
 vobis@prep%1(prep)=à vous%2(prep)=par vous
 vocabul@noun!um-i%1(noun)=expression%2(noun)=mot

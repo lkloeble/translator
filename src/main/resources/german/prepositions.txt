@@ -2,6 +2,7 @@ ab@prep()%[verbLeadingPreposition]
 ahnlich@prep()
 allerlei@prep()
 alles@prep()
+allzumal@prep()
 als@prep()
 also@prep()
 am@prep()

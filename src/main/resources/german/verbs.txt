@@ -115,6 +115,7 @@ erprob,en,[leben]
 erschein,en,[leben],(PAP*erschein*erschienen*0)
 erwachs,en,[genesen],(AII*erwachs*erwuchs*0)
 erwahn,en,[leben]
+erwart,en,[segnen],(PAP*erwart*erwartet*0)
 erwerb,en,[rufen],(AIP*erwe*erwa*0)
 erzeug,en,[leben]
 ess,en,[leben],(IPR1*ess*is*0)
@@ -253,7 +254,7 @@ schwor,en,[leben],(PAP*schwor*geschworen*0)
 sein@IRREGULAR%[INFINITIVE]=[sein]%[IPR]=[bin,bist,ist,sind,seid,sind]%[AII]=[war,warst,war,waren,wart,waren]%[AIF]=[werde,wirst,wird,werden,werdet,werden]%[AIMP]=[sei,sei]%[ASP]=[sei,seist,sei,seien,seiet,seien]
 seinold@IRREGULAR%[AII]=[ward,ward,ward,ward,ward,warden]
 segn,en,[segnen]
-seh,en,[rufen],(IPR14*seh*sieh*0@AIP*seh*sah*0@PAP*seh*geseh*0@AIMP1*seh*sieh*0)
+seh,en,[rufen],(IPR14*seh*sieh*0@AIP*seh*sah*0@PAP*seh*geseh*0@AIMP1*seh*sieh*0@ASI*seh*sah*0)
 send,en,[mochten]
 servier,en,[leben]
 setz,en,[setzen],(PAP*set*geset*0)
@@ -289,7 +290,7 @@ trau,en,[leben]
 treib,en,[leben]
 trenn,en,[leben]
 trink,en,[leben]
-tu,n,[leben],(PAP*tu*getan*0@IPR35*tuen*tun*0)
+tu,n,[leben],(PAP*tu*getan*0@IPR35*tuen*tun*0@AIP*tu*ta*0)
 ubereinstimm,en,[leben]
 uberrasch,en,[leben]
 uberschaum,en,[leben]
@@ -300,6 +301,7 @@ unterzeichn,en,[mochten]
 unterzieh,en,[rufen],(AIP*unterzieh*unterzog*0@PAP*unterzieh*unterzog*0)
 verberg,en,[leben],(IPR12*verbe*verbi*0)
 verbind,en,[mochten],(AIP*verbind*verband*0)
+verdamm,en,[leben],(PAP*verdamm*verdammt*0)
 vergess,en,[wollen]
 verhalt,en,[halten]
 verheirat,en,[segnen],(PAP*verheirat*verheiratet*0)
@@ -308,6 +310,7 @@ verlang,en,[leben]
 verletz,en,[pflanzen]
 verlier,en,[leben],(PAP*verlier*verloren*0)
 vermeid,en,[mochten]
+vernein,en,[leben],(PAP*vernein*verneint*0)
 verpflicht,en,[mochten],(PAP*verpflicht*verpflichtet*0)
 verrat,en,[gelten]
 verrats,eln,[sammeln]
@@ -327,6 +330,7 @@ vertrau,en,[leben]
 verurteil,en,[leben]
 verwahr,en,[leben]
 verwehr,en,[leben]
+verweis,en,[leben],(PAP*verweis*verweist*0)
 vollzieh,en,[rufen],(PAP*vollziehen*vollzogen*0)
 vorbereit,en,[leben]
 vorhaben@IRREGULAR%[IPR]=[vorhabe,vorhast,vorhat,vorhaben,vorhabt,vorhaben]%[INFINITIVE]=[vorhaben]

@@ -32,7 +32,7 @@ public class LatinLinguaLatinaTest extends LatinTranslatorBridgeTest {
     @Test
     public void test_lingua_latina_02() {
         checkInMaps("latina2A", translatorBridge);
-        checkInMaps("latina2B", translatorBridge);
+        //checkInMaps("latina2B", translatorBridge);
         checkInMaps("latina2C", translatorBridge);
         checkInMaps("latina2D", translatorBridge);
         checkInMaps("latina2E", translatorBridge);

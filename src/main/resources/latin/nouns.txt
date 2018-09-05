@@ -17,6 +17,7 @@ adiutori@neut%um-i
 adferen@masc%s-tis
 adorand@adj%us-a-um
 adult@adj%us-a-um
+adiutor@masc%x-is2
 adventarit@neut%inv
 advers@adj%us-a-um
 adversari@masc%us-i
@@ -93,6 +94,7 @@ augustin@masc%us-i
 aul@fem%a-ae
 aur@neut%um-i
 aureli@fem%a-ae
+aus@adj%us-a-um
 av@fem%is-is
 ave@neut%inv
 bacul@neut%um-i
@@ -169,6 +171,7 @@ collect@fem%a-ae
 column@fem%a-ae
 complet@adj%us-a-um
 conat@adj%us-a-um
+concepti@fem%o-onis
 conciliatur@adj%us-a-um
 conficiend@adj%us-a-um
 confirmat@adj%us-a-um
@@ -183,6 +186,7 @@ constan@adj%s-s-s
 constitut@neut%um-i
 consuetud@fem%o-inis
 consul@masc%x-is
+contract@adj%us-a-um
 contrit@adj%us-a-um
 controversi@fem%a-ae
 conviv@fem%a-ae
@@ -532,13 +536,14 @@ mari@fem%a-ae
 martyr@masc%x-ys
 martyri@masc%um-i
 mascul@adj%us-a-um
-mat@fem%er-eris
+mat@fem%er-ris
 matrimoni@neut%um-i
 matron@fem%a-ae
 maxim@adj%us-a-um
 med@masc%us-i
 medi@adj%us-a-um
 melit@fem%a-ae
+men@fem%s-tis2
 mens@fem%a-ae
 mens@adj%us-a-um
 mercator@masc%x-is2
@@ -667,6 +672,7 @@ perduell@fem%is-is
 perfect@adj%us-a-um
 pericul@masc%um-i
 peristyl@masc%um-i
+perpauc@adj%us-a-um
 permot@adj%us-a-um
 pernici@fem%es-ei
 perniciosi@adj%or-or-us
@@ -802,6 +808,7 @@ scel@neut%us-eris
 scienti@fem%a-ae
 schisma@neut%x-tis
 schol@fem%a-ae
+scort@neut%um-i
 scribend@adj%us-a-um
 scriptor@masc%scriptor
 script@neut%um-i
@@ -856,6 +863,7 @@ styl@masc%us-i
 studi@neut%um-i
 suav@adj%is-is-e
 successor@masc%x-is2
+summ@fem%a-ae
 superfici@fem%es-ei
 supern@adj%us-a-um
 su@adj%us-a-um
@@ -881,6 +889,7 @@ terr@fem%a-ae
 terren@adj%us-a-um
 terti@adj%us-a-um
 tessel@fem%a-ae
+test@masc%is-is
 testament@neut%um-i
 testimoni@neut%um-i
 theodoret@masc%us-i
@@ -898,6 +907,7 @@ tradit@adj%us-a-um
 traditio@fem%x-nis
 triclini@neut%um-i
 trinit@fem%as-atis
+trojan@masc%us-i
 tub@fem%a-ae
 tuend@adj%us-a-um
 tuling@masc%us-i
@@ -939,6 +949,8 @@ viren@neut%s-tis
 virgili@masc%us-i
 virgult@neut%um-i
 virtu@fem%s-tis2
+v@fem%is-is
+vir@fem%is-is
 vis@masc%us-us
 vis@adj%us-a-um
 vit@fem%a-ae
