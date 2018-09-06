@@ -93,6 +93,7 @@ ebenfalls@prep()
 ebenso@prep()
 eilends@prep()
 ein@prep()%[verbLeadingPreposition]
+einerlei@prep()
 einpaar@prep()
 einstweilen@prep()
 entgegen@prep()

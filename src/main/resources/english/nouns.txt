@@ -30,6 +30,7 @@ amber@neut%invmasc
 ammonite@neut%normmasc
 amoraim@neut%invmasc
 amorite@neut%normmasc
+amos@neut%normmasc
 ancestr@fem%endy
 ancient@neut%normmasc
 anciently@neut%invmasc
@@ -1245,4 +1246,5 @@ year@neut%normmasc
 yes@neut%invmasc
 young@masc%normmasc
 your@neut%invmasc
+zechariah@masc%invmasc
 zillah@fem%invfem

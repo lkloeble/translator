@@ -2,3 +2,4 @@ IPR=>d,zi,de,dem,detsi,d
 PSP=>d,zi,da,dem,detsi,d
 CONJ=>z,zi,da,em,etsi,a
 ACP=>arcond,iarcond,earcond,emarcond,etsiarcond,arcond
+PAPR=>zand

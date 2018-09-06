@@ -66,6 +66,7 @@ bewund,ern,[fordern]
 bezahl,en,[leben]
 bezeug,en,[leben]
 biet,en,[leben]
+bild,en,[segnen]
 blas,en,[genesen],(AII*bla*blie*0)
 bleib,en,[rufen],(AIP*blei*blie*0)
 bluh,en,[leben]

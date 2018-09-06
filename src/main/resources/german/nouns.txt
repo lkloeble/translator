@@ -296,6 +296,7 @@ entweihter@masc%arbeiter
 entzuckung@fem%meinfem
 epikur@neut%inv
 epikurisch@adj%ausreichend
+erdbevolkerung@neut%inv
 erde@fem%flasche
 erdgeschoss@masc%inv
 erfahrung@fem%meinfem
@@ -402,6 +403,7 @@ funft@adj%ausreichend
 furcht@fem%angst
 furchtbar@adj%ausreichend
 furchten@neut%inv
+furst@masc%artist
 fuss@masc%phanomen
 fussganger@masc%meinmasc
 ganz@adj%ausreichend
@@ -487,6 +489,7 @@ gleich@adj%ausreichend
 gleichzeitig@adj%ausreichend
 gluck@fem%flasche
 gn@neut%inv
+gog@neut%autor
 gold@neut%phanomen
 gotisch@adj%ausreichend
 gott@masc%inv
@@ -735,6 +738,7 @@ lustig@adj%ausreichend
 lv@neut%inv
 madchen@fem%original
 magazin@masc%norm
+magog@neut%autor
 makel@masc%zeichen
 makellos@adj%ausreichend
 mal@neut%meer

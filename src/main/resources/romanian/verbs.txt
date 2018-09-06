@@ -8,7 +8,7 @@ afl,,[intampla]
 ajung,,[merg],(AII*ajung*ajunge*0@PAP*ajung*ajuns*0)
 ajut,,[cauta]
 alerg,a,[merg]
-am@IRREGULAR%[INFINITIVE]=[avea]%[IPR]=[am,ai,are,avem,avetsi,au]%[CONJ]=[x,x,aiba,x,x,aiba]%[PAPR]=[avand]
+am@IRREGULAR%[INFINITIVE]=[avea]%[IPR]=[am,ai,are,avem,avetsi,au]%[CONJ]=[x,x,aiba,x,x,aiba]%[PAPR]=[avand]%[ACPINF]=[aravea]
 amuz,,[bea]
 apar,,[face]
 apreci,,[aprecia]
@@ -117,6 +117,7 @@ ments,,[mentsin]
 merg,e,[merg],(AIP*merg*mers*0@AII*merg*merge*0)
 mor,,[dorm],(IPR2*mor*moar*0@IPR34*mor*mur*0@PAP*mor*mur*0)
 mosten,,[locuiesc]
+multsum,,[locuiesc]
 munc,,[aciti]
 mus,,[musca]
 mut,,[cauta],(PAP*mut*mutat*0)
@@ -187,6 +188,7 @@ surp,,[incerca]
 tangui,,[trebui]
 tax,,[fumez]
 termin,a,[cauta]
+tin,de,[vinde]
 traduc,,[merg],(PAP*traduc*tradus*0)
 trag,e,[merg]
 trai,,[aciti],(PAP*trai*trait*0)

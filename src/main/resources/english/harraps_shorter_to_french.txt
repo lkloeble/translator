@@ -54,6 +54,7 @@ amber@noun!invmasc%1(noun)=ambre
 ammonite@noun!normmasc%1(noun)=ammonite
 amoraim@noun!invmasc%1(noun)=amoraïm
 amorite@noun!normmasc%1(noun)=amorite
+amos@noun!invmasc%1(noun)=amos
 always@prep%1(prep)=toujours
 although@prep%1(prep)=même si%2(prep)=bien que
 altogether@prep%1(prep)=en tout%2(prep)=au total%3(prep)=complètement
@@ -356,6 +357,7 @@ consonant@noun!normmasc%1(noun)=consonnance%2(noun)=consonne
 constitution@noun!normmasc%1(noun)=constitution
 constrain@verb!norm%1(verb)=contraindre
 consult@verb!norm%1(verb)=consulter
+contend@verb!norm%1(verb)=soutenir
 contemporar@noun!endy%1(noun)=contemporain
 contiguous@adj!invmasc%1(adj)=contigu
 contradiction@noun!normfem%1(noun)=contradiction
@@ -1859,4 +1861,5 @@ yield@verb!norm%1(verb)=produire
 you@prep%1(prep)=tu
 young@noun!normmasc%1(noun)=jeune
 your@noun!invmasc%1(noun)=ton
+zechariah@noun!invmasc%1(noun)=zacharie
 zillah@noun!invfem%1(noun)=zillah

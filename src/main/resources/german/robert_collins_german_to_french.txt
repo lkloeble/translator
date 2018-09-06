@@ -267,6 +267,7 @@ bezw@prep%1(prep)=plus précisément
 bier@noun!inv%1(noun)=bière
 biet@verb!norm%1(verb)=offrir
 bikkurim@noun!inv%1(noun)=bikkurim
+bild@verb!norm%1(verb)=constituer
 bild@noun!licht%1(noun)=image%2(noun)=toile
 bilderwirrig@noun!inv%1(noun)=image incohérent
 bilderwutig@noun!inv%1(noun)=image forcé
@@ -454,6 +455,7 @@ eilends@prep%1(prep)=rapidement
 ein@adj!ausreichend%1(adj)=un
 ein@prep%1(prep)=un
 einfach@adj!ausreichend%1(adj)=simple
+einerlei@prep()%1(prep)=semblable
 eingang@noun!meinfem%1(noun)=entrée
 eingehung@noun!meinmasc%1(noun)=accord
 eigentumlich@adj!ausreichend%1(adj)=spécifique
@@ -497,6 +499,7 @@ entzuckung@noun!meinfem%1(noun)=découverte%2(noun)=joie
 epikur@noun!inv%1(noun)=épicure
 epikurisch@adj!ausreichend%1(adj)=épicurien
 er@prep%1(prep)=il
+erdbevolkerung@noun!inv%1(noun)=population mondiale
 erde@noun!flasche%1(noun)=terre
 erdgeschoss@noun!inv%1(noun)=rez de chaussée
 erfahrung@noun!meinfem%1(noun)=expérience
@@ -658,6 +661,7 @@ fur@prep%1(prep)=pour
 furcht@noun!angst%1(noun)=crainte
 furchtbar@adj!ausreichend%1(adj)=terrible
 furchten@noun!inv%1(noun)=crainte
+furst@noun!artist%1(noun)=prince
 fuss@noun!phanomen%1(noun)=pied
 fussganger@noun!meinmasc%1(noun)=piéton
 ganz@noun!ausreichend%1(adj)=entier
@@ -767,6 +771,7 @@ gleich@adj!ausreichend%1(adj)=identique%(adj)=égal
 gleichzeitig@adj!ausreichend%1(adj)=simultané
 gluck@noun!flasche%1(noun)=chance
 gn@noun!inv%1(noun)=gn
+gog@noun!autor%1(noun)=gog
 gold@noun!phanomen%1(noun)=or
 gotisch@adj!ausreichend%1(adj)=gothique
 gott@noun!inv%1(noun)=dieu
@@ -1110,6 +1115,7 @@ lv@noun!inv%1(noun)=Lev
 mach@verb!norm%1(noun)=faire
 magazin@noun!norm%1(noun)=magasin
 madchen@noun!original%1(noun)=demoiselle
+magog@noun!autor%1(noun)=magog
 makel@noun!zeichen%1(noun)=défaut
 makellos@adj!ausreichend%1(adj)=parfait
 mal@noun!meer%1(noun)=occasion%2(noun)=fois
@@ -1300,7 +1306,7 @@ palastina@noun!inv%1(noun)=palestine
 palastinisch@adj!ausreichend%1(adj)=palestinien
 parallel@adj!ausreichend%1(adj)=parallèle
 park@noun!inv%1(noun)=parc
-partei@noun!meinmasc%1(noun)=parti politique
+partei@noun!meinmasc%1(noun)=parti%2(noun)=parti politique
 pass@verb!norm%1(verb)=convenir
 pastor@noun!inv%1(noun)=pasteur
 patriarch@noun!meinmasc%1(noun)=patriarche

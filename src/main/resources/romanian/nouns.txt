@@ -116,6 +116,7 @@ ciine@masc%inv
 cinci@neut%inv
 cincizeci@neut%inv
 circulatsi@fem%fem
+cirmuir@fem%berea
 clar@adj%adj
 coborat@adj%adj
 cofetarie@neut%inv
@@ -307,6 +308,7 @@ indrazneal@fem%fem
 indreptar@fem%berea
 inexplicabil@adj%adj
 inferi@adj%adjor
+infinit@adj%adj
 infinitate@fem%ereditate
 influent@fem%femts
 inger@masc%ul
@@ -338,6 +340,7 @@ istori@fem%fem
 istoric@adj%adj
 italia@fem%inv
 italian@adj%adj
+iubir@fem%berea
 jandarm@masc%ul
 joc@masc%ul
 jug@masc%ul
@@ -513,6 +516,7 @@ piperat@adj%adj
 placere@neut%inv
 plan@masc%ul
 plant@fem%fem
+pleonasm@masc%ul
 plin@adj%adj
 plus@neut%inv
 poft@fem%fem
@@ -566,6 +570,7 @@ rece@adj%adj
 reciproc@adj%adj
 redactsi@fem%tigara
 referints@fem%fem
+relatsi@fem%fem
 rele@adj%inv
 relief@masc%ul
 reportaj@fem%fem
@@ -634,6 +639,7 @@ simplu@adj%adj
 sincer@adj%adj
 singur@adj%adj
 singuratate@fem%ereditate
+soart@fem%fem[nomplr:sortsi]
 sofer@masc%ul
 soi@neut%inv
 somn@masc%ul
