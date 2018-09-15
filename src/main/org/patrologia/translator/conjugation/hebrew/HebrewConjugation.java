@@ -20,6 +20,8 @@ import java.util.List;
  * HITAIP => HITpael AIP (imperfect)
  * CONVFUT => CONVersive FUTure
  * SUBST => SUBSTantive
+ * BINHUPER => Binyan hufal Perfect
+ * BINHUFUT => Binyan hufal Futur
  * Created by Laurent KLOEBLE on 15/10/2015.
  */
 public class HebrewConjugation extends Conjugation {
@@ -27,7 +29,7 @@ public class HebrewConjugation extends Conjugation {
     private String conjugationFilePath;
     private ConjugationLoader conjugationLoader = new ConjugationLoader();
 
-    protected static List<String> times = Arrays.asList(new String[]{"AIP","AIF","PSP","ARAIPR","PALINF","PALFUT","HIFPER","HIFIPR","AIMP","HITAIP","CONVFUT","SUBST"});
+    protected static List<String> times = Arrays.asList(new String[]{"AIP","AIF","PSP","ARAIPR","PALINF","PALFUT","HIFPER","HIFIPR","AIMP","HITAIP","CONVFUT","SUBST","BINHUFUT","BINHUPER"});
 
     public HebrewConjugation(List<String> conjugationElements, VerbDefinition verbDefinition, NounRepository nounRepository) {
         this.verbDefinition = verbDefinition;

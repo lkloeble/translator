@@ -259,6 +259,7 @@ cup@fem%normfem
 curiosit@fem%endy
 curry@neut%invmasc
 cursing@neut%invmasc
+cutting@neut%invmasc
 cush@neut%invmasc
 damascus@neut%invmasc
 dan@neut%invmasc
@@ -577,6 +578,7 @@ intended@adj%invmasc
 interest@masc%normmasc
 interesting@neut%invmasc
 interpretation@fem%normfem
+interpreter@neut%normmasc
 intrenchment@neut%normmasc
 invention@neut%normmasc
 iron@neut%invmasc
@@ -587,6 +589,7 @@ israelite@neut%normmasc
 jabal@masc%invmasc
 james@masc%invmasc
 jealous@neut%invmasc
+jeremiah@masc%invmasc
 jerusalem@neut%invmasc
 jesus@masc%invmasc
 jew@neut%normmasc
@@ -764,6 +767,7 @@ next@adj%normmasc
 new@adj%invmasc
 nice@adj%invmasc
 night@fem%normfem
+nile@neut%invmasc
 nissim@neut%invmasc
 nod@neut%normmasc
 norman@adj%normmasc
@@ -1070,6 +1074,7 @@ string@fem%normfem
 stone@fem%normfem
 storehouse@neut%normmasc
 stor@fem%endy
+stream@neut%normmasc
 street@neut%normmasc
 stud@fem%endy
 style@eut%normmasc
@@ -1177,6 +1182,7 @@ usually@neut%invmasc
 usurped@neut%invmasc
 v@neut%invmasc
 vagabond@neut%normmasc
+vale@neut%normmasc
 valid@adj%normmasc
 vengeance@neut%normmasc
 verse@neut%normmasc

@@ -632,6 +632,14 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("strackp6par212", translatorBridge);
         checkInMaps("strackp6par213", translatorBridge);
         checkInMaps("strackp6par214", translatorBridge);
+        //checkInMaps("strackp6par215", translatorBridge);
+        checkInMaps("strackp6par216", translatorBridge);
+        checkInMaps("strackp6par217", translatorBridge);
+        checkInMaps("strackp6par218", translatorBridge);
+        checkInMaps("strackp6par219", translatorBridge);
+        checkInMaps("strackp6par220", translatorBridge);
+        checkInMaps("strackp6par221", translatorBridge);
+        checkInMaps("strackp6par222", translatorBridge);
     }
 
     @Test
@@ -805,7 +813,7 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
         //checkInMaps("nietzscheBookGTversuchCha5E", translatorBridge);
         checkInMaps("nietzscheBookGTversuchCha5F", translatorBridge);
         checkInMaps("nietzscheBookGTversuchCha5G", translatorBridge);
-        checkInMaps("nietzscheBookGTversuchCha5H1", translatorBridge);
+        //checkInMaps("nietzscheBookGTversuchCha5H1", translatorBridge);
         checkInMaps("nietzscheBookGTversuchCha5H2", translatorBridge);
         checkInMaps("nietzscheBookGTversuchCha5I1", translatorBridge);
         checkInMaps("nietzscheBookGTversuchCha5I2", translatorBridge);
@@ -820,7 +828,9 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("nietzscheBookGTversuchCha5M3", translatorBridge);
         checkInMaps("nietzscheBookGTversuchCha5N1", translatorBridge);
         checkInMaps("nietzscheBookGTversuchCha5N2", translatorBridge);
-        checkInMaps("nietzscheBookGTversuchCha5O", translatorBridge);
+        checkInMaps("nietzscheBookGTversuchCha5O1", translatorBridge);
+        checkInMaps("nietzscheBookGTversuchCha5O2", translatorBridge);
+        checkInMaps("nietzscheBookGTversuchCha5O3", translatorBridge);
         checkInMaps("nietzscheBookGTversuchCha5P", translatorBridge);
         checkInMaps("nietzscheBookGTversuchCha5Q", translatorBridge);
         checkInMaps("nietzscheBookGTversuchCha5R", translatorBridge);

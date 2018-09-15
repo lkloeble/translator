@@ -91,6 +91,7 @@ durf,en,[wollen],(IPR012*durf*darf*0@AIP*durf*durft*0)
 ehr,en,[leben]
 einlad,en,[leben]
 eintret,en,[leben],(IPR12*tret*trit*0)
+empfand,en,[mochten]
 empfang,en,[leben]
 empfehl,en,[leben]
 entdeck,en,[leben]
@@ -132,6 +133,7 @@ feucht,en,[leben],(AII*feucht*feuchte*0)
 find,en,[mochten],(PAP*find*gefunden*0@AIP*find*fand*0)
 fixier,en,[leben]
 flieg,en,[leben]
+flieh,en,[rufen],(AIP*flieh*floh*0)
 fliess,en,[genesen],(PAP*fliess*geflossen*0)
 folg,en,[leben]
 ford,ern,[fordern]
@@ -198,6 +200,7 @@ laut,en,[wenden]
 leb,en,[leben]
 leg,en,[leben]
 lehr,en,[leben]
+leit,en,[wenden]
 lern,en,[leben]
 les,en,[rufen],(IPR124*les*lies*0@PAP*les*geles*0@AIP*les*las*0)
 lieb,en,[leben]
@@ -286,6 +289,7 @@ tauf,en,[leben],(PAP*tauf*getauft*0)
 teil,en,[werden],(AIP*teil*teilt*0)
 text,en,[mochten]
 tipp,en,[leben]
+tob,en,[leben]
 trag,en,[lassen],(AIP*trag*trug*0)
 trau,en,[leben]
 treib,en,[leben]

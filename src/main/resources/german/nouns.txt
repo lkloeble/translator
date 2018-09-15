@@ -10,6 +10,7 @@ abkurzung@fem%meinfem
 ablieferung@fem%meinfem
 abneigung@fem%meinfem
 abrede@fem%flasche
+absalom@masc%inv
 absicht@fem%meinfem
 absinkend@adj%ausreichend
 absolut@adj%ausreichend
@@ -222,6 +223,7 @@ demokrat@masc%meinmasc
 demokratie@fem%flasche
 demokratisch@adj%ausreichend
 der@masc%inv
+derartig@adj%ausreichend
 dessentwillen@neut%inv
 determiniert@adj%ausreichend
 deutsch@adj%ausreichend
@@ -337,6 +339,7 @@ fahigkeit@fem%meinfem
 faktor@masc%autor
 falschheit@fem%meinfem
 familie@fem%flasche
+fangerisch@adj%inv
 fast@neut%inv
 fax@neut%inv
 fehler@masc%arbeiter
@@ -345,6 +348,7 @@ feierlicher@adj%ausreichend
 feig@fem%inv
 fein@adj%ausreichend
 feind@masc%ort
+feindlich@adj%ausreichend
 feindselig@adj%ausreichend
 feld@neut%meer
 femininischen@neut%inv
@@ -529,6 +533,7 @@ hauptwasser@neut%inv
 haus@neut%licht
 hebraisch@adj%ausreichend
 heer@neut%meer
+heide@fem%flasche
 heil@neut%jahrzehnt
 heiligkeit@fem%meinfem
 heiligtum@neut%heiligtum
@@ -582,6 +587,7 @@ illegitim@adj%ausreichend
 illegitimitat@neut%inv
 inder@masc%arbeiter
 indisch@adj%ausreichend
+ingrimmig@adj%ausreichend
 instinkt@masc%jahrzehnt
 integration@neut%inv
 intellektuell@adj%ausreichend
@@ -720,6 +726,7 @@ levitenschaft@neut%inv
 licht@fem%licht
 liebeserweisungen@fem%meinfem
 liebling@adj%rest
+lied@neut%licht
 lieferant@masc%meinmasc
 lieferung@fem%meinfem
 limonade@neut%inv
@@ -946,12 +953,14 @@ rabbi@masc%inv[nomplr:rabbis]
 rabbinen@masc%inv
 rabbiner@masc%burger
 rabbinisch@adj%meinmasc
+rachsuchtig@adj%ausreichend
 rang@masc%meer
 rassismus@neut%inv
 rathaus@masc%norm
 ratschlag@masc%norm
 ratsel@neut%arbeiter
 ratselhaft@adj%ausreichend
+ratte@fem%flasche
 recht@neut%inv
 rechtfertigung@fem%meinfem
 rechts@neut%inv
@@ -1098,6 +1107,7 @@ starke@fem%flasche
 starker@adj%ausreichend
 starkst@adj%ausreichend
 statt@fem%inv
+statte@fem%flasche
 statthalter@masc%arbeiter
 stelle@fem%meinfem
 stern@masc%meer
@@ -1238,6 +1248,7 @@ verboten@adj%ausreichend
 verbunden@adj%ausreichend
 verehelichung@fem%meinfem
 verfall@masc%arbeiter
+verfanglich@adj%ausreichend
 verfasser@masc%norm
 verfuhrendst@adj%ausreichend
 verfuhrerei@neut%inv
@@ -1255,6 +1266,7 @@ vernichtend@adj%ausreichend
 vernichtung@fem%meinfem
 vernunftigkeit@fem%inv
 verruckt@adj%norm
+vers@neut%inv
 versailles@neut%inv
 versammlung@fem%meinfem
 versand@fem%norm
@@ -1323,6 +1335,7 @@ weg@masc%phanomen
 wehr@masc%schmerz
 weib@fem%ort
 wein@neut%inv
+weise@fem%flasche
 weiss@adj%ausreichend
 weit@adj%ausreichend
 weiter@adj%ausreichend
@@ -1332,8 +1345,9 @@ wenig@neut%meinmasc
 werk@neut%meer
 wertschatzung@fem%meinfem
 wert@masc%jahrzehnt
-Wesentlich@adj%ausreichend
-Wesentliche@fem%flasche
+wertung@masc%meinmasc
+wesentlich@adj%ausreichend
+wesentliche@fem%flasche
 wetter@neut%inv
 wichtig@neut%inv
 wichtigst@adj%ausreichend
@@ -1344,6 +1358,7 @@ wien@neut%inv
 widerspruch@masc%phanomen
 wille@fem%wille
 willkurlich@adj%ausreichend
+wind@masc%phanomen
 winkel@masc%arbeiter
 wirklichkeit@fem%meinfem
 wirkung@fem%meinfem
@@ -1385,6 +1400,7 @@ zitate@fem%jahrzehnt
 zone@fem%flasche
 zorn@masc%phanomen
 zornigst@adj%ausreichend
+zucht@fem%meinfem
 zuganglich@adj%meinmasc
 zugehorigkeit@fem%meinfem
 zugrunde@fem%flasche

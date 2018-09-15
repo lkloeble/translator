@@ -1208,6 +1208,33 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
     }
 
     @Test
+    public void test_lightfoot_chap9() {
+        checkInMaps("lightfoot_ch900", translatorBridge);
+        checkInMaps("lightfoot_ch901", translatorBridge);
+        checkInMaps("lightfoot_ch902", translatorBridge);
+        checkInMaps("lightfoot_ch903", translatorBridge);
+        checkInMaps("lightfoot_ch904", translatorBridge);
+        checkInMaps("lightfoot_ch905", translatorBridge);
+        checkInMaps("lightfoot_ch906", translatorBridge);
+        checkInMaps("lightfoot_ch907", translatorBridge);
+        checkInMaps("lightfoot_ch908", translatorBridge);
+        checkInMaps("lightfoot_ch909", translatorBridge);
+        checkInMaps("lightfoot_ch910", translatorBridge);
+        checkInMaps("lightfoot_ch911", translatorBridge);
+        checkInMaps("lightfoot_ch912", translatorBridge);
+        checkInMaps("lightfoot_ch913", translatorBridge);
+        checkInMaps("lightfoot_ch914", translatorBridge);
+        checkInMaps("lightfoot_ch915", translatorBridge);
+        checkInMaps("lightfoot_ch916", translatorBridge);
+        checkInMaps("lightfoot_ch917", translatorBridge);
+        checkInMaps("lightfoot_ch918", translatorBridge);
+        checkInMaps("lightfoot_ch919", translatorBridge);
+        checkInMaps("lightfoot_ch920", translatorBridge);
+        checkInMaps("lightfoot_ch921", translatorBridge);
+
+    }
+
+    @Test
     public void test_failedones() {
         assertTrue(true);
         checkInMaps("assimil2B", translatorBridge);

@@ -872,10 +872,36 @@ lightfoot_ch811=>to wit, an example of divine indignation.
 lightfoot_ch812=>What if it be the monument of that dreadful earthquake in the days of |Uzziah|,
 lightfoot_ch813=>Amos 1:1, Zechariah 14:5 ? when God contended also in fire, Amos 7:4:
 lightfoot_ch814=>so that some cities perished after the manner of Sodom and Gomorrha, Amos 4:11; Isaiah 1:9.
-lightfoot_ch815=>The farthest border of the land of Israel southward is not Nile in Egypt, but Shihor in the way to Egypt,
-lightfoot_ch816=>Joshua 13:3; Jeremiah 2:18. In the Seventy interpreters, it is Rhinocorura;
-lightfoot_ch817=>for they render that in Isaiah 27:12, "unto the stream of Egypt." "Unto Rhinocorura."
-lightfoot_ch818=>Of which place and name, derived from the 'cutting of nostrils,' see Diodorus Siculus, lib.1. [60.]
+lightfoot_ch815=>The farthest border of the land of Israel southward is not Nile in Egypt, but |Shihor| in the way to Egypt,
+lightfoot_ch816=>Joshua 13:3; Jeremiah 2:18. In the Seventy interpreters, it is |Rhinocorura|;
+lightfoot_ch817=>for they render that in Isaiah 27:12, "unto the stream of Egypt." "Unto |Rhinocorura|."
+lightfoot_ch818=>Of which place and name, derived from the "cutting of nostrils", see |Diodorus| |Siculus|, lib.1. [60.]
+
+
+lightfoot_ch900=>a sight of Judea
+lightfoot_ch901=>"In Judea is the mountainous country, the plain, and the vale. What is the mountainous country of Judea?
+lightfoot_ch902=>It is the king's mountain. The plain of it is the plain of the south. The vale is from En-gedi to Jericho.
+lightfoot_ch903=>The plain of Lydda is as the plain of the south: and its mountainous country is as the king's mountainous country.
+lightfoot_ch904=>From Beth-horon to the sea is one circumjacent region. Rabbi Jochanan saith, Yet it hath a mountainous part, a plain, and a vale.
+lightfoot_ch905=>From Beth-horon to Emmaus is mountainous, -- from Emmaus to Lydda is plain, -- from Lydda to the sea is valley."
+lightfoot_ch906=>Judea is not divided amiss into four parts: -- namely, into the country, which formerly was the Philistines',
+lightfoot_ch907=>which takes up the western part. To this joins, on the east, the mountainous country of Judea,
+lightfoot_ch908=>which is also called "The king's mount." To the mountainous country, on the east, joins a plain,
+lightfoot_ch909=>a country more low and level than the mountains, which nevertheless here and there hath its hills...
+lightfoot_ch910=>"A valley, lying between mountains, is reckoned with the mountains, and mountains in a valley are numbered with the valley."
+lightfoot_ch911=>To the plain eastwardly joins a valley, lower than the plain, -- namely, the coast of the sea of Sodom, and at length of Jordan.
+lightfoot_ch912=>The land of Benjamin, in like manner, which is numbered with Judea, in respect of its superficies, was of the same nature;
+lightfoot_ch913=>which, although "it was a portion of the narrowest limits, by reason of the goodness of the soil," yet had its mountainous part,
+lightfoot_ch914=>its plain, and vale: and that, not only towards Lydda, and the great sea, but towards Jericho and Jordan.
+lightfoot_ch915=>Judea did excel all the other parts of the land of Israel in very many privileges.
+lightfoot_ch916=>For, besides that in it was seated Jerusalem, the metropolis of the whole nation, and in Jerusalem stood the Temple,
+lightfoot_ch917=>and in the Temple sat the Sanhedrim: -- this was also peculiar to it out of the Canons,
+lightfoot_ch918=>that "it was not lawful to intercalate the year out of Judea, while they might do it in Judea."
+lightfoot_ch919=>Maimonides gives the reason of the thing, "Because there dwelt the divine glory." --
+lightfoot_ch920=>"Nor was the sheaf of the first-fruits of the barley to be fetched elsewhere, than from Judea, and as near as might be to Jerusalem."
+lightfoot_ch921=>Once it was fetched a great way off, &c.
+
+chapter 8 the river of
 
 lightfootbase=>http://biblehub.com/library/lightfoot/from_the_talmud_and_hebraica/index.html
 
