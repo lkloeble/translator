@@ -493,6 +493,7 @@ gleich@adj%ausreichend
 gleichzeitig@adj%ausreichend
 gluck@fem%flasche
 gn@neut%inv
+gnade@fem%flasche
 gog@neut%autor
 gold@neut%phanomen
 gotisch@adj%ausreichend
@@ -865,6 +866,7 @@ not@fem%kunst
 notig@adj%ausreichend
 notwehr@neut%inv
 notwendig@adj%ausreichend
+notwendigkeit@fem%meinfem
 nr@neut%inv
 nummer@neut%inv
 oberflachlich@adj%ausreichend
@@ -1044,6 +1046,7 @@ schubert@neut%inv
 schuh@masc%phanomen
 schuld@fem%meinfem
 schuler@masc%arbeiter
+schutzherrn@masc%inv
 schwache@fem%flasche
 schwager@masc%arbeiter
 schwarmer@masc%arbeiter
@@ -1173,6 +1176,7 @@ tomate@fem%flasche
 tora@neut%inv
 tos@neut%inv
 tosephta@neut%inv
+toricht@adj%ausreichend
 tot@neut%inv
 tradition@fem%meinfem
 tragisch@adj%ausreichend

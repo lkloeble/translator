@@ -52,6 +52,7 @@
 ιδου@prep()
 ιλεως@prep()
 ινα@prep()
+καγω@prep()
 και@prep()
 καθ@prep()%[findFollowindEmerav]
 καθηκοντως@prep()
@@ -81,6 +82,7 @@
 οδε@prep()
 οιον@prep()
 οντων@prep()
+οπως@prep()
 οστις@prep()
 οπισω@prep()
 οτι@prep()

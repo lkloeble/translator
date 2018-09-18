@@ -7,6 +7,7 @@
 αγαθ@adj!ος-η-ον%1(adj)=bon
 αγαθοποιι@noun!α-ας%1(noun)=acte de vertu
 αγαπ@noun!η-ης%1(noun)=amour
+αγαπα@verb!norm%1(verb)=aimer
 αγαπητ@adj!ος-η-ον%1(adj)=bien-aimé
 αγγελ@verb!norm%1(verb)=annoncer
 αγγελ@noun!ος-ου%1(noun)=messager%2(noun)=ange
@@ -91,6 +92,7 @@
 αποκλει@verb!norm%1(verb)=verouiller%2(verb)=eteindre%3(verb)=exclure%4(verb)=enfermer
 αποκριν@verb!norm%1(verb)=separer%2(verb)=choisir%3(verb)=repondre
 αποκριθεντ@adj!ος-α-ον%1(adj)=séparé
+απολακτιζ@verb!norm%1(verb)=frapper
 απολυ@verb!norm%1(verb)=être séparé,annulé%2(verb)=vendre%3(verb)=payer une dette%4(verb)=divorcer%5(verb)=acquitter%6(verb)=liberer
 απονεμ@verb!norm%1(verb)=montrer%2(verb)=payer%3(verb)=donner%4(verb)=assigner
 απονοι@noun!α-ας%1(noun)=folie
@@ -396,6 +398,7 @@
 ιωραμ@noun!inv%1(noun)=joram
 ιωσαφατ@noun!inv%1(noun)=josaphat
 ιωτα@noun!inv%1(noun)=iota
+καγω@prep%1(prep)=et que moi aussi
 καθαρ@adj!ος-α-ον%1(adj)=pur
 καθηκ@verb!norm%1(verb)=atteindre%2(verb)=appartenir%3(verb)=etrenecessaire
 καθ@prep%1(prep)=selon
@@ -418,6 +421,7 @@
 κατα@prep%1(prep)=selon
 καταgen@prep%1(prep)=contre
 καταacc@prep%1(prep)=selon
+κατακυριευ@verb!norm%1(verb)=dominer
 κατοικε@verb!norm%1(verb)=habiter
 κατω@prep%1(prep)=bas
 κατωτατω@prep%1(prep)=le plus bas
@@ -552,6 +556,7 @@
 οναρ@noun!inv%1(noun)=rêve
 ονομ@noun!α-ατος%1(noun)=nom
 οντων@prep%1(prep)=chose%2(prep)=étant
+οπως@prep%1(prep)=de telle façon que
 οπισω@prep%1(prep)=derrière%2(prep)=à nouveau
 ορα@verb!norm%1(verb)=voir
 οργ@noun!η-ης%1(noun)=colère
@@ -611,6 +616,7 @@
 πασιν@prep%1(prep)=tous
 πατ@noun!ηρ-ρος%1(noun)=père
 παυλ@noun!ος-ου%1(noun)=paul
+παχυν@verb!norm%1(verb)=engraisser
 πειθ@verb!norm%1(verb)=persuader
 πειρασμ@noun!ος-ου%1(noun)=preuve%2(noun)=tentation%3(noun)=épreuve
 πεμπ@verb!norm%1(verb)=renvoyer,congédier%2(verb)=envoyer
@@ -632,6 +638,7 @@
 πετειν@noun!ον-ου%1(noun)=oiseau
 πετρ@noun!ος-ου%1(noun)=pierre
 πιλημ@noun!α-ατος%1(noun)=mèche
+πιν@verb!norm%1(verb)=boire
 πιστ@noun!ις-εως%1(noun)=foi%2(noun)=confiance
 πιστ@noun!η-ης%1(noun)=foi%2(noun)=confiance
 πιστευ@verb!norm%1(verb)=avoir foi%2(verb)=croire
@@ -645,6 +652,7 @@
 πληρο@verb!norm%1(verb)=remplir
 πλασιονα@noun!inv%1(noun)=plus grand
 πλατ@noun!ος-ους%1(noun)=largeur
+πλατυν@verb!norm%1(verb)=elargir
 πλατυσμ@noun!ος-ου%1(noun)=expansion%2(noun)=dilatation%3(noun)=élargissement
 πλοι@noun!ον-ου%1(noun)=bateau%2(noun)=barque
 πλουσι@adj!ος-α-ον%1(adj)=riche

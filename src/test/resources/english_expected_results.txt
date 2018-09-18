@@ -879,10 +879,10 @@ lightfoot_ch818=>de quel lieu(e)@place@ et nom, dérivait de le découpage de na
 
 lightfoot_ch900=>une vue(e) de judée
 lightfoot_ch901=>dans judée est le montagneux pays(e), le ouvert, et le vallée. quel est le montagneux pays(e) de judée
-lightfoot_ch902=>foobar
-lightfoot_ch903=>foobar
-lightfoot_ch904=>foobar
-lightfoot_ch905=>foobar
+lightfoot_ch902=>cela est le montagne de roi. le ouvert de cela est le ouvert de le sud. le vallée est de en gedi  jericho.
+lightfoot_ch903=>le ouvert de lydda est en tant que le ouvert de le sud : et son montagneux pays(e) est en tant que le roi est montagneux pays(e).
+lightfoot_ch904=>de beth horon  la mer(e) est un environnant région. rabbi jochanan dit, encore cela a@avait@ un montagneux partie(e)@sépare@, un ouvert, et un vallée.
+lightfoot_ch905=>de beth horon  emmaus est montagneux, de emmaus  lod est ouvert, de lod  la mer(e) est vallée.
 lightfoot_ch906=>foobar
 lightfoot_ch907=>foobar
 lightfoot_ch908=>foobar

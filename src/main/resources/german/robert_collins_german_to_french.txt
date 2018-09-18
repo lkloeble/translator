@@ -178,6 +178,7 @@ beamt@noun!artist%1(noun)=fonctionnaire
 bearbeit@verb!norm%1(verb)=editer
 bedarf@verb!norm%1(verb)=avoirbesoin
 bedau@verb!norm%1(verb)=regretter
+bedenk@verb!norm%1(verb)=considerer
 bedeut@verb!norm%1(verb)=signifier
 bedeutsamkeit@noun!meinfem%1(noun)=importance
 bedeutung@noun!meinfem%1(noun)=signification
@@ -241,6 +242,7 @@ besonders@prep%1(prep)=particulièrement
 best@adj!mein%1(adj)=le meilleur
 bestatig@verb!norm%1(verb)=confirmer
 bestatten@noun!inv%1(noun)=enterrer
+besteh@verb!norm%1(verb)=commander
 bestell@verb!norm%1(verb)=commander
 bestellung@noun!meinfem%1(noun)=commande
 bestimmt@adj!ausreichend%1(adj)=certain
@@ -496,6 +498,7 @@ entgegengesetzt@adj!ausreichend%1(adj)=opposé
 enthalt@verb!norm%1(verb)=contenir
 entlass@verb!norm%1(verb)=liberer
 entnehm@verb!norm%1(verb)=deduire%2(verb)=extraire%3(verb)=retirer
+entschlaf@verb!norm%1(verb)=sendormir
 entschlossenheit@noun!inv%1(noun)=détermination
 entschuldigung@prep%1(prep)=excuse
 entsteh@verb!norm%1(verb)=naitre
@@ -514,6 +517,7 @@ erforderlich@adj!ausreichend%1(adj)=essentiel%2(adj)=nécessaire
 erfreulich@adj!ausreichend%1(noun)=plaisant
 erfull@verb!norm%1(verb)=remplir
 erhalt@verb!norm%1(verb)=recevoir
+erheb@verb!norm%1(verb)=prelever%2(verb)=monter
 erhebung@noun!meinfem%1(noun)=enquête%2(noun)=élévation
 erhol@verb!norm%1(verb)=récupérer%2(verb)=reposer
 erinner@verb!norm%1(verb)=souvenir
@@ -547,6 +551,7 @@ erwahn@verb!norm%1(verb)=mentionner
 erwart@verb!norm%1(verb)=attendre
 erwartende@adj!ausreichend%1(adj)=attendant
 erwerb@verb!norm%1(verb)=acquerir
+erzeig@verb!norm%1(verb)=montrer
 erzeug@verb!norm%1(verb)=produire
 es@prep%1(prep)=la%2(prep)=cela[il]
 esgab@prep%1(prep)=il y avait
@@ -780,6 +785,7 @@ gleich@adj!ausreichend%1(adj)=identique%(adj)=égal
 gleichzeitig@adj!ausreichend%1(adj)=simultané
 gluck@noun!flasche%1(noun)=chance
 gn@noun!inv%1(noun)=gn
+gnade@noun!flasche%1(noun)=miséricorde
 gog@noun!autor%1(noun)=gog
 gold@noun!phanomen%1(noun)=or
 gotisch@adj!ausreichend%1(adj)=gothique
@@ -1286,6 +1292,7 @@ not@noun!kunst%1(noun)=détresse
 notig@adj!ausreichend%1(adj)=nécessaire
 notwehr@noun!inv%1(noun)=défense
 notwendig@adj!ausreichend%1(adj)=indispensable%2(adj)=essentiel%3(adj)=nécessaire
+notwendigkeit@noun!meinfem%1(noun)=nécessité
 nr@noun!inv%1(noun)=nbr
 nummer@noun!inv%1(noun)=numéro
 nun@prep%1(prep)=maintenant
@@ -1330,6 +1337,7 @@ pause@noun!inv%1(noun)=pause
 peinlich@adj!ausreichend%1(adj)=pénible
 perikles@noun!inv%1(noun)=Périclès
 personlich@adj!ausreichend%1(adj)=personnel
+perspektivischen@prep%1(prep)=en perspective
 perversitat@noun!inv%1(noun)=perversité
 pessimismus@noun!inv%1(noun)=pessimisme
 pessimist@noun!meinmasc%1(noun)=pessimiste
@@ -1508,6 +1516,7 @@ schuh@noun!phanomen%1(noun)=chaussure
 schuld@noun!meinfem%1(noun)=dette
 schuler@noun!arbeiter%1(noun)=élève%2(noun)=disciple
 schutz@verb!norm%1(verb)=proteger
+schutzherrn@noun!inv%1(noun)=protecteur
 schwache@noun!flasche%1(noun)=faiblesse
 schwager@noun!arbeiter%1(noun)=beau-frère
 schwarmer@noun!arbeiter%1(noun)=illuminé%2(noun)=utopiste
@@ -1694,6 +1703,7 @@ tochter@noun!invfem%1(noun)=fille
 tod@noun!phanomen%1(noun)=mort
 tomate@noun!flasche%1(noun)=tomate
 tora@noun!inv%1(noun)=tora
+toricht@adj!ausreichend%1(adj)=idiot%2(adj)=stupide
 tos@noun!inv%1(noun)=tos
 tosephta@noun!inv%1(noun)=tosefta
 tot@noun!inv%1(noun)=mort

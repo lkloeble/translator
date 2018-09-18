@@ -125,6 +125,9 @@ public class GermanAnalyzer implements Analizer {
                 case 228:
                     sb.append("a");
                     break;
+                case 235:
+                    sb.append("e");
+                    break;
                 case 252:
                     sb.append("u");
                     break;
