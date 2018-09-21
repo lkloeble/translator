@@ -1961,6 +1961,32 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     }
 
     @Test
+    public void test_weingreen_chapter_41() {
+        checkInMaps("wein41A", translatorBridge);
+        checkInMaps("wein41B", translatorBridge);
+        checkInMaps("wein41C", translatorBridge);
+        checkInMaps("wein41D", translatorBridge);
+        checkInMaps("wein41E", translatorBridge);
+        checkInMaps("wein41F", translatorBridge);
+        checkInMaps("wein41G", translatorBridge);
+        checkInMaps("wein41H", translatorBridge);
+        checkInMaps("wein41I", translatorBridge);
+        checkInMaps("wein41J", translatorBridge);
+        checkInMaps("wein41K", translatorBridge);
+        checkInMaps("wein41L", translatorBridge);
+        checkInMaps("wein41M", translatorBridge);
+        checkInMaps("wein41N", translatorBridge);
+        checkInMaps("wein41O", translatorBridge);
+        checkInMaps("wein41P", translatorBridge);
+        checkInMaps("wein41Q", translatorBridge);
+        checkInMaps("wein41R", translatorBridge);
+        checkInMaps("wein41S", translatorBridge);
+        checkInMaps("wein41T", translatorBridge);
+        checkInMaps("wein41U", translatorBridge);
+        checkInMaps("wein41V", translatorBridge);
+    }
+
+    @Test
     public void test_bereshit_chapter1() {
         checkInMaps("bereshit1A1", translatorBridge);
         checkInMaps("bereshit1A2", translatorBridge);

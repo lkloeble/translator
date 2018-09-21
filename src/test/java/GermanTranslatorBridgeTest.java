@@ -637,7 +637,7 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("strackp6par217", translatorBridge);
         //checkInMaps("strackp6par218", translatorBridge);
         //checkInMaps("strackp6par219", translatorBridge);
-        checkInMaps("strackp6par220", translatorBridge);
+        //checkInMaps("strackp6par220", translatorBridge);
         //checkInMaps("strackp6par221", translatorBridge);
         checkInMaps("strackp6par222", translatorBridge);
         checkInMaps("strackp6par223", translatorBridge);
@@ -652,6 +652,14 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("strackp6par232", translatorBridge);
         checkInMaps("strackp6par233", translatorBridge);
         checkInMaps("strackp6par234", translatorBridge);
+        checkInMaps("strackp6par235", translatorBridge);
+        checkInMaps("strackp6par236", translatorBridge);
+        checkInMaps("strackp6par237", translatorBridge);
+        checkInMaps("strackp6par238", translatorBridge);
+        checkInMaps("strackp6par239", translatorBridge);
+        checkInMaps("strackp6par240", translatorBridge);
+        checkInMaps("strackp6par241", translatorBridge);
+        checkInMaps("strackp6par242", translatorBridge);
     }
 
     @Test
@@ -902,6 +910,6 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("strackp6par221", translatorBridge);
+        checkInMaps("lecon12D", translatorBridge);
     }
 }
