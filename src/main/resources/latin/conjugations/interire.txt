@@ -5,3 +5,4 @@ ASP=>eam,eas,eat,eamus,eatis,eant
 AIMP=>xxx,i,xxx,xxx,ite,xxx,
 ASI=>irem,ires,iret,iremus,iretis,irent
 AIPP=>eram,eras,erat,eramus,eratis,erant
+PIP=>eor,iris|ire,itur,imur,imini,euntur

@@ -34,7 +34,7 @@ assever,o,as,are,,,[o-as]
 assist,o,is,ere,,,[o-is],(AIP*assist*astit*0)
 assum,o,is,ere,,,[o-is],(IAP*assum*assumps*0)
 atting,o,is,ere,,,[o-is]
-aud,io,is,ire,veni,ventum,[io-is],(AIP*audi*audiv*0)
+aud,io,is,ire,veni,ventum,[io-is],(AIP*audi*audiv*0@AIMP*aude*audi*0)
 benedic,o,is,ere,foobar,foobar,[o-is],(AIP*benedic*benedix*0)
 bib,o,is,ere,,,[o-is]
 can,o,is,ere,,,[o-is]
@@ -62,7 +62,7 @@ compar,o,as,are,avi,atum,[o-as]
 compl,eo,es,ere,ui,itum,[eo-es]
 con,or,aris,ari,,,[or-aris]
 concili,o,as,are,,,[o-as]
-concip,io,is,ere,,,[io-is],(AIPP*concip*concep*0@AIP*concip*concep*0)
+concip,io,is,ere,,,[io-is],(AIPP*concip*concep*0@AIP*concip*concep*0@IAPP1245*concip*concep*0)
 cond,o,is,ere,,,[o-is],(AIP*cond*condid*0)
 conduc,o,is,ere,,,[o-is],(AIP*conduc*condux*0)
 confer,o,s,re,tuli,latum,[o-s],(AIP*confer*contul*0)
@@ -144,6 +144,7 @@ fer,o,s,re,tuli,latum,[o-s],(AIP*fer*tul*0)
 fi,o,s,ere,foobar,foobar,[o-s-fiat]
 fin,io,is,ire,,,[io-is],(AIP*fin*finiv*0)
 flor,eo,es,ere,,,[eo-es],(AIP*flor*floru*0)
+flu,o,is,ere,,,[o-is]
 form,o,as,are,,,[o-as]
 fund,o,is,ere,,,[o-is],(AIP*fund*fud*0)
 fug,o,as,are,avi,atum,[o-as]
@@ -170,6 +171,7 @@ infer,o,s,re,tuli,latum,[o-s],(AIP*infer*intul*0)
 inform,o,as,are,,,[o-as]
 infig,o,is,ere,,,[o-is]
 inlumin,o,as,are,,,[o-as]
+inmitt,o,is,ere,,,[o-is],(AIP*inmitt*inmis*0)
 inquam@IRREGULAR%[IPR]=[inquam,inquis,inquit,inquimus,inquitis,inquiunt]
 inrig,o,as,are,,,[o-as]
 inscrib,o,is,ere,,,[o-is]
@@ -208,6 +210,7 @@ narr,o,as,are,,,[o-as]
 nasc,or,eris,i,,,[or-eris]
 nolo@IRREGULAR%[INFINITIVE]=[nolere]%[IPR]=[nolo,non vis,non vult,nollumus,non vultis,nolunt]
 numer,o,as,are,,,[o-as]
+obdorm,io,is,ire,,,[io-is],(ASPP*obdorm*obdormiss*0)
 observ,o,as,are,,,[o-as]
 obtin,eo,es,ere,,,[eo-es]
 occup,o,as,are,,,[o-as],(ASI*occup*occupar*0)
@@ -264,7 +267,7 @@ regn,o,as,are,,,[o-as]
 reg,o,is,ere,,,[o-is]
 relinqu,o,is,ere,,,[o-is],(AIP*relin*reli*0)
 renasc,or,eris,i,,,[or-eris],(ASI*renasc*renascer*0)
-repl,eo,es,ere,,,[eo-es]
+repl,eo,es,ere,,,[eo-es],(AIP*repl*replev*0)
 repudi,o,as,are,,,[o-as]
 repugn,o,as,are,,,[o-as]
 requiesc,o,is,ere,,,[o-is],(AIP*requiesc*requiev*0)
@@ -319,7 +322,7 @@ vag,or,aris,ari,,,[or-aris]
 val,eo,es,ere,ui,itum,[eo-es]
 veh,o,is,ere,,,[o-is]
 vend,o,is,ere,,,[o-is]
-ven,io,is,ire,veni,ventum,[io-is]
+ven,io,is,ire,veni,ventum,[io-is],(AIMP*vene*veni*0)
 vendit,o,as,are,,,[o-as]
 verber,o,as,are,,,[o-as]
 vere,or,ris,re,,,[or-ris]

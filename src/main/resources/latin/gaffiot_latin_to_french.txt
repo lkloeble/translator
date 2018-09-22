@@ -68,6 +68,7 @@ alibi@prep%1(prep)=partout
 aliquando@prep%1(prep)=finalement%2(prep)=quelques fois
 aliunde@prep%1(prep)=d'un autre endroit
 alleluja@prep%1(prep)=Alléluia
+allobrog@noun!scriptor%1(noun)=allobroges
 alter@adj!us-a-um%1(adj)=autre
 alt@adj!us-a-um%1(adj)=profond%2(adj)=haut
 alti@adj!or-or-us%1(adj)=plus profond%2(adj)=plus haut
@@ -86,6 +87,7 @@ ancill@noun!a-ae%1(noun)=servante, esclave%2(noun)=devote, servante%3(noun()=mon
 angel@noun!us-i%1(noun)=ange
 angelic@adj!us-a-um%1(adj)=angélique
 angust@adj!us-a-um%1(adj)=étroit
+anil@adj!is-is-e%1(adj)=vieille femme
 anim@noun!us-i%1(noun)=principe vital distinct du corps%2(noun)=siege de la pensee, ensemble des facultes de l'ame%3(noun)=siege du desir et de la volonte%4(noun)=siege du sentiment et des passions%5(noun)=terme de cajolerie : <exp>mi anime</exp><trad>moncoeur</trad>%6(noun)=caractere, nature (poesie)%7(noun)=âme
 anim@noun!a-ae%1(noun)=âme
 animan@noun!s-tis%1(noun)=animé
@@ -250,6 +252,7 @@ column@noun!a-ae%1(noun)=colonne
 comburo@verb!norm%1(verb)=consumer
 comedo@verb!norm%1(verb)=consommer
 commeo@verb!norm%1(verb)=voyager%2(verb)=fréquenter%3(verb)=visiter
+comment@adj!us-a-um%1(adj)=inventé%2(adj)=conçu
 comparo@verb!norm%1(verb)=comparer%2(verb)=assembler
 compleo@verb!norm%1(verb)=accomplir
 complet@adj!us-a-um%1(adj)=rassasié%2(adj)=complété%3(adj)=terminé
@@ -305,10 +308,12 @@ conviv@noun!a-ae%1(noun)=invité
 copi@noun!a-ae%1(noun)=renfort%2(noun)=troupe
 coram@prep%1(adv)=en face, devant, en présence : <exp>coram videre</exp><trad>voir sur place (personnellement)</trad>%2(prep avec abl)= en présence de, devant : <exp>senatu coram</exp><trad>devant le sénat</trad>%3(prep)=devant
 corneli@noun!us-i%1(noun)=cornelius
+corp@noun!us-oris%1(noun)=corps
 copulo@verb!norm%1(verb)=connecter%2(verb)=unir
 corrigo@verb!norm%1(verb)=corriger
 corrumpo@verb!norm%1(verb)=corrompre
 corsic@noun!a-ae%1(noun)=corse
+cost@noun!a-ae%1(noun)=côté%2(noun)=côte
 cotidian@adj!us-a-um%1(noun)=ordinaire%2(adj)=quotidien
 creat@adj!us-a-um%1(noun)=créé
 creator@noun!x-is2%1(noun)=créateur
@@ -514,6 +519,7 @@ exstinct@adj!us-a-um%1(adj)=tué
 extrem@adj!us-a-um%1(adj)=extrême
 exempl@noun!um-i%1(noun)=exemple
 exeo@verb!norm%1(verb)=sortir
+expeditius@prep%1(prep)=plus facilement
 exsto@verb!norm%1(verb)=se tenir audessus,etre eleve au dessus,depasser%2(verb)=etre visble,se montrer%3(verb)=exister
 exsulto@verb!norm%1(verb)=exulter
 extendo@verb!norm%1(verb)=etendre
@@ -554,6 +560,7 @@ firmissim@adj!us-a-um%1(adj)=le plus fort
 flamini@noun!a-ae%1(noun)=flaminia
 flamm@noun!a-ae%1(noun)=feu%2(noun)=flamme
 floreo@verb!norm%1(verb)=fleurir
+fluo@verb!norm%1(verb)=couler
 flum@noun!en-inis%1(noun)=rivière
 fluvi@noun!us-i%1(noun)=fleuve
 foed@adj!us-a-um%1(noun)=laid
@@ -704,6 +711,7 @@ ingeni@noun!um-i%1(noun)=génie%2(noun)=talent%3(noun)=intelligence%4(noun)=temp
 inimic@noun!us-i%1(noun)=ennemi
 initi@noun!um-i%1(noun)=commencement
 inlumino@verb!norm%1(verb)=illuminer
+inmitto@verb!norm%1(verb)=envoyer
 innocenti@noun!a-ae%1(noun)=innocence
 innumer@adj!us-a-um%1(adj)=innombrable
 inquam@verb!irrg%1(verb)=dire
@@ -953,10 +961,12 @@ numero@verb!norm%1(verb)=payer%2(verb)=compter
 numm@noun!us-i%1(noun)=pièce
 nunc@prep%1(prep)=maintenant
 numquam@prep%1(prep)=jamais
+nuper@prep%1(prep)=récemment
 o@prep%1(prep)=ô
 o@noun!s-ris%1(noun)=parole
 ob@prep%1(prep)=contre%2(prep)=à cause de%3(prep)=vers
 obaerat@adj!us-a-um%1(adj)=endetté
+obdormio@verb!norm%1(verb)=sendormir
 oblati@noun!o-onis%1(noun)=offrande
 obscenit@noun!as-atis%1(noun)=défavorable
 obscur@adj!us-a-um%1(adj)=sombre
@@ -1006,6 +1016,7 @@ ostre@noun!a-ae%1(noun)=huitre
 oti@noun!um-i%1(n%1(noun)=inactivité%2(noun)=repos
 ov@noun!um-i%1(noun)=oeuf
 pa@noun!x-cis%1(noun)=paix
+pacat@adj!us-a-um%1(adj)=calme%2(adj)=pacifié
 pad@noun!us-i%1(noun)=po
 pagan@adj!us-a-um%1(adj)=paien%2(adj)=rural
 palam@prep%1(prep)=ouvertement
@@ -1247,6 +1258,7 @@ rideo@verb!norm%1(verb)=rire
 rhen@noun!us-i%1(noun)=rhin
 rhod@noun!us-i%1(noun)=rhodes
 rhodan@noun!us-i%1(noun)=rhône
+ridicul@adj!us-a-um%1(adj)=ridicule
 rom@noun!a-ae%1(noun)=rome
 roman@adj!us-a-um%1(adj)=romain
 ros@noun!a-ae%1(noun)=rose
@@ -1349,6 +1361,7 @@ solid@adj!us-a-um%1(adj)=solide
 solut@adj!us-a-um%1(adj)=libéré
 solvo@verb!norm%1(verb)=payer%2(verb)=résoudre%3(verb)=enlever%4(verb)=dissoudre%5(verb)=acquitter
 sono@verb!norm%1(verb)=sonner%2(verb)=resonner
+sopor@noun!x-is2%1(noun)=sommeil profond
 sp@noun!es-ei%1(noun)=espoir
 spargend@adj!us-a-um%1(adj)=dispersé
 spargo@verb!norm%1(verb)=disperser

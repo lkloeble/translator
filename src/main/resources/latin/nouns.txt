@@ -38,6 +38,7 @@ ale@fem%a-ae
 alexandrin@adj%us-a-um
 ali@adj%us-a-um
 ali@adj%us-a-ud
+allobrog@masc%scriptor
 alter@adj%us-a-um
 alt@adj%us-a-um
 alti@adj%or-or-us
@@ -53,6 +54,7 @@ ancill@fem%a-ae
 angel@masc%us-i
 angelic@adj%us-a-um
 angust@adj%us-a-um
+anil@adj%is-is-e
 anim@masc%us-i
 anim@fem%a-ae[ablplr:animabus,datplr:animabus]
 animan@masc%s-tis
@@ -169,6 +171,7 @@ coct@adj%us-a-um
 cognit@adj%us-a-um
 collect@fem%a-ae
 column@fem%a-ae
+comment@adj%us-a-um
 complet@adj%us-a-um
 conat@adj%us-a-um
 concepti@fem%o-onis
@@ -194,7 +197,9 @@ convent@adj%us-a-um
 conversat@adj%us-a-um
 copi@fem%a-ae
 corneli@masc%us-i
+corp@neut%us-oris
 corsic@fem%a-ae
+cost@fem%a-ae
 cotidian@adj%us-a-um
 creat@adj%us-a-um
 creator@masc%x-is2
@@ -643,6 +648,7 @@ ostre@fem%a-ae
 oti@neut%um-i
 ov@neut%um-i
 pa@fem%x-cis
+pacat@adj%us-a-um
 pad@masc%us-i
 pagan@adj%us-a-um
 palm@fem%a-ae
@@ -778,6 +784,7 @@ resurgen@adj%s-s-s
 rhen@masc%us-i
 rhod@masc%us-i
 rhodan@masc%us-i
+ridicul@adj%us-a-um
 rom@fem%a-ae
 roman@adj%us-a-um
 ros@fem%a-ae
@@ -846,6 +853,7 @@ sol@adj%us-a-um
 sol@masc%x-is2
 solid@adj%us-a-um
 solut@adj%us-a-um
+sopor@masc%x-is2
 sp@fem%es-ei
 spargend@adj%us-a-um
 spart@fem%a-ae
