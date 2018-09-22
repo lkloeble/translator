@@ -9,6 +9,7 @@ am@prep()
 an@prep()%[verbLeadingPreposition]
 andrerseits@prep()
 andererseits@prep()
+ans@prep()
 au@prep()
 auch@prep()
 auf@prep()%[verbLeadingPreposition,recomposeAufGrund]
@@ -126,6 +127,7 @@ genug@prep()
 gerade@prep()
 gern@prep()%[switchWithInfinitiveForm,verbLeadingPreposition]
 gewohnlich@prep()
+grundlich@prep()
 guten@prep()%[gutenTagReplace,gutenAbendReplace,gutenMorgenReplace]
 gutentag@prep()
 gutenabend@prep()
@@ -164,6 +166,7 @@ irgendwo@prep()
 jeher@prep()
 jemand@prep()
 jener@prep()
+jenseits@prep()
 kaum@prep()
 kein@prep()
 keine@prep()

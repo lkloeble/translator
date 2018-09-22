@@ -94,6 +94,7 @@ beginning@masc%normmasc
 behaviour@neut%normmasc
 bell@neut%endy
 benefit@neut%normmasc
+benjamin@masc%invmasc
 better@neut%invmasc
 betters@neut%invmasc
 bible@neut%normmasc
@@ -533,6 +534,7 @@ heretic@neut%normmasc
 hi@neut%invmasc
 hiddekel@neut%invmasc
 high@adj%invmasc
+hill@neut%normmasc
 hiram@neut%invmasc
 historical@neut%normmasc
 histor@neut%endy
@@ -1090,6 +1092,7 @@ sun@neut%normmasc
 sunday@neut%normmasc
 sunny@adj%invmasc
 super@neut%invmasc
+superfic@fem%endy
 suppl@fem%endy
 sure@neut%invmasc
 sweat@neut%invmasc

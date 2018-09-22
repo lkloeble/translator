@@ -298,6 +298,9 @@ public class GreekAnalyzer implements Analizer {
                 case 8183://'ῷ' 8183
                     sb.append("ω");
                     break;
+                case 8230://'...' 8230
+                    sb.append("...");
+                    break;
                 default:
                     sb.append(c);
                     break;

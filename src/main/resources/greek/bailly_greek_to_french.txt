@@ -299,6 +299,7 @@
 επιφρασσ@verb!norm%1(verb)=bloquer
 επτακαιεικοσα@noun!inv%1(noun)=dix sept fois
 επτακαιεικοσαπλασιονα@noun!inv%1(noun)=dix sept fois plus grand
+επτακαιεικοσαπλασιω@noun!inv%1(noun)=vingt sept fois plus grand
 εργ@noun!ον-ου%1(noun)=travail%2(noun)=oeuvre
 εργατ@noun!ης-ου%1(noun)=travailleur%2(noun)=ouvrier
 ερημ@adj!ος-η-ον%1(adj)=solitaire%2(adj)=désolé%3(adj)=désert
@@ -379,6 +380,7 @@
 ιλεως@prep%1(prep)=avec bienveillance
 ιματι@noun!ον-ου%1(noun)=manteau%2(noun)=vêtement
 ινα@prep%1(prep)=en accord avec%2(prep)=à cause de%3(prep)=afin que
+ισον@prep%1(prep)=égal à
 ιουδ@noun!ας-ου%1(noun)=judas
 ισαακ@noun!inv%1(noun)=isaac
 ιωβηδ@noun!inv%1(noun)=obed
@@ -633,6 +635,7 @@
 περιπατε@verb!norm%1(verb)=marcher
 περιπτωσ@noun!ις-εως%1(noun)=calamité
 περισσευ@verb!norm%1(verb)=abonder
+περιφερ@verb!norm%1(verb)=porter
 περιφυ@verb!norm%1(verb)=verbe des présocratique trouvé nulle part en trad%2(verb)=developper
 πετ@verb!norm%1(verb)=voler
 πετειν@noun!ον-ου%1(noun)=oiseau

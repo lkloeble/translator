@@ -20,6 +20,7 @@ abweichung@fem%meinfem
 ach@neut%inv
 acht@neut%inv
 adresse@fem%flasche
+affekt@neut%kunst
 agypten@neut%inv
 ah@neut%inv
 ahn@masc%schmerz
@@ -149,6 +150,7 @@ beschaftigung@fem%meinfem
 bescheiden@adj%ausreichend
 beseitigung@fem%meinfem
 besonder@adj%ausreichend
+besser@adj%ausreichend
 best@adj%mein
 bestatten@neut%inv
 bestellung@fem%meinfem
@@ -274,6 +276,7 @@ eins@masc%inv
 eintrittskarte@neut%flasche
 einzusenden@neut%inv
 england@neut%inv
+ende@fem%flasche
 endlich@neut%inv
 entschlossenheit@neut%inv
 eifer@neut%inv
@@ -288,6 +291,7 @@ einmutig@adj%ausreichend
 eintragung@fem%meinfem
 einzeln@adj%ausreichend
 einzuraumen@neut%inv
+ekel@neut%zeichen
 eltern@neut%inv
 end@neut%inv
 endemisch@adj%ausreichend
@@ -372,7 +376,8 @@ fleischlich@adj%ausreichend
 fleiss@masc%inv
 florenz@fem%inv
 flote@fem%norm
-fluche@fem%flasche
+fluch@masc%jahrzehnt
+xxfluche@fem%flasche
 flug@neut%meinmasc
 flugzeug@neut%meinmasc
 folge@fem%flasche
@@ -997,7 +1002,7 @@ rot@adj%ausreichend
 rucksicht@fem%meinfem
 ruhelager@neut%inv
 s@neut%inv
-sabbat@neut%inv
+sabbat@neut%jahrzehnt
 sabine@fem%inv
 sanh@neut%inv
 salat@fem%jahrzehnt
@@ -1074,6 +1079,7 @@ sicher@adj%ausreichend
 siebenten@neut%inv
 sieg@masc%phanomen
 singer@masc%masc
+sinnlichkeit@fem%meinfem
 siphra@neut%inv
 sittenlehre@fem%flasche
 situation@fem%norm
@@ -1125,6 +1131,8 @@ strasse@fem%flasche
 strom@neut%phanomen
 stuck@neut%inv
 sturm@masc%jahrzehnt
+sturtz@neut%meinmasc
+sturz@neut%meinmasc
 sud@neut%inv
 suden@neut%burger
 suhnung@fem%meinfem
@@ -1189,6 +1197,7 @@ trotz@masc%meer
 trotzig@adj%ausreichend
 trocken@adj%ausreichend
 u@neut%inv
+uberdruss@fem%meinfem
 uberfulle@fem%flasche
 uberhebend@neut%inv
 uberlebend@adj%ausreichend
@@ -1250,6 +1259,7 @@ verborgenheit@masc%meinmasc
 verbot@neut%phanomen
 verboten@adj%ausreichend
 verbunden@adj%ausreichend
+verdorben@adj%ausreichend
 verehelichung@fem%meinfem
 verfall@masc%arbeiter
 verfanglich@adj%ausreichend
@@ -1380,6 +1390,7 @@ wortlich@adj%ausreichend
 wunderbar@adj%mein
 wunderlich@adj%ausreichend
 wunsch@masc%meinmasc
+wurde@fem%flasche
 wurdig@adj%ausreichend
 wurst@fem%wurst
 wust@adj%mein

@@ -26,7 +26,7 @@ annunti,o,as,are,avi,atum,[o-as],(ASI*annunti*annuntiar*0)
 aper,io,is,ire,,,[io-is]
 appar,eo,es,ere,,,[eo-es2],(ASP*appar*appare*0)
 appell,o,as,are,,,[o-as]
-appon,o,is,ere,,,[o-is]
+appon,o,is,ere,,,[o-is],(AIP*appon*appos*0)
 arbitr,or,aris,ari,,,[or-aris]
 ascend,o,is,ere,,,[o-is]
 assequ,or,eris,ere,,,[or-eris]

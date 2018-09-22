@@ -25,6 +25,7 @@ abweichung@noun!meinfem%1(noun)=déviation
 ach@noun!inv%1(noun)=ah
 acht@noun!inv%1(noun)=huit
 adresse@noun!flasche%1(noun)=adresse
+affekt@noun!kunst%1(noun)=passion
 agypten@noun!inv%1(noun)=égypte
 ah@noun!inv%1(noun)=ah
 ahn@noun!schmerz%1(noun)=ancêtre
@@ -71,6 +72,7 @@ anlehnung@noun!meinmasc%1(noun)=dépendance%2(noun)=modèle
 anm@noun!inv%1(noun)=nb
 anruf@verb!norm%1(verb)=appeler
 anrufung@noun!meinfem%1(noun)=invocation%2(noun)=appel
+ans@prep%1(noun)=pour
 anschauung@noun!meinfem%1(noun)=intution%2(noun)=opinion
 anschein@noun!arbeiter%1(noun)=apparence
 ansicht@noun!meinfem%1(noun)=opinion
@@ -114,6 +116,7 @@ aufgrund@prep%1(prep)=sur la base de
 aufhor@verb!norm%1(verb)=arreter
 aufles@verb!norm%1(verb)=ramasser
 auflosung@noun!meinfem%1(noun)=dissolution
+aufputz@verb!norm%1(verb)=nettoyer
 aufregend@adj!ausreichend%1(adj)=excitant
 aufstell@verb!norm%1(verb)=preparer
 aufstellung@noun!meinfem%1(noun)=relevé%2(noun)=inventaire%3(noun)=liste
@@ -239,6 +242,7 @@ beseitigung@noun!meinfem%1(noun)=élimination
 besitz@verb!norm%1(verb)=posseder
 besonder@noun!ausreichend%1(adj)=extraordinaire%2(adj)=particulier%3(adj)=spécial
 besonders@prep%1(prep)=particulièrement
+besser@noun!ausreichend%1(adj)=meilleur
 best@adj!mein%1(adj)=le meilleur
 bestatig@verb!norm%1(verb)=confirmer
 bestatten@noun!inv%1(noun)=enterrer
@@ -482,12 +486,14 @@ eintrittskarte@noun!flasche%1(noun)=billet d'entrée
 einzeln@adj!ausreichend%1(adj)=unique%2(adj)=solitaire%3(adj)=séparé%4(adj)=seul
 einzuraumen@noun!inv%1(noun)=octroyer
 einzusenden@noun!inv%1(noun)=être envoyé
+ekel@noun!zeichen%1(noun)=dégoût
 eltern@noun!inv%1(noun)=parents
 empfand@verb!norm%1(verb)=ressentir
 empfang@verb!norm%1(verb)=concevoir%2(verb)=accueillir%3(verb)=recevoir
 empfehl@verb!norm%1(verb)=recommander
 endemisch@adj!ausreichend%1(adj)=endémique
 end@noun!inv%1(noun)=final
+ende@noun!flasche%1(noun)=fin
 endlich@noun!inv%1(noun)=enfin
 england@noun!inv%1(noun)=angleterre
 entartung@noun!inv%1(noun)=dégénérescence
@@ -512,6 +518,7 @@ erdbevolkerung@noun!inv%1(noun)=population mondiale
 erde@noun!flasche%1(noun)=terre
 erdgeschoss@noun!inv%1(noun)=rez de chaussée
 erfahrung@noun!meinfem%1(noun)=expérience
+erfind@verb!norm%1(verb)=inventer
 erfolg@noun!jahrzehnt%1(noun)=succès
 erforderlich@adj!ausreichend%1(adj)=essentiel%2(adj)=nécessaire
 erfreulich@adj!ausreichend%1(noun)=plaisant
@@ -520,6 +527,7 @@ erhalt@verb!norm%1(verb)=recevoir
 erheb@verb!norm%1(verb)=prelever%2(verb)=monter
 erhebung@noun!meinfem%1(noun)=enquête%2(noun)=élévation
 erhol@verb!norm%1(verb)=récupérer%2(verb)=reposer
+erhor@verb!norm%1(verb)=entendre%2(verb)=exaucer
 erinner@verb!norm%1(verb)=souvenir
 erkenn@verb!norm%1(verb)=identifier
 erkenntnis@noun!erkenntnis%1(noun)=réalisation
@@ -631,7 +639,8 @@ flieh@verb!norm%1(verb)=fuir
 fliess@verb!norm%1(verb)=secouler
 florenz@noun!inv%1(noun)=florence
 flote@noun!norm%1(noun)=flute
-fluche@noun!flasche%1(noun)=malédiction
+fluch@noun!jahrzehnt%1(noun)=malédiction
+xxfluche@noun!flasche%1(noun)=malédiction
 flug@noun!meinmasc%1(noun)=vol
 flugzeug@noun!meinmasc%1(noun)=avion
 folg@verb!norm%1(verb)=suivre
@@ -806,6 +815,7 @@ grubler@noun!burger%1(noun)=éleveur
 grun@adj!ausreichend%1(adj)=vert
 grund@noun!jahrzehnt%1(noun)=sol%2(noun)=raison
 grundbass@noun!inv%1(noun)=motif
+grundlich@prep%1(prep)=totalement
 grundsatz@noun!jahrzehnt%1(noun)=dogme%2(noun)=principe
 gulasch@noun!inv%1(noun)=goulash
 gut@adj!mein%1(adj)=bon
@@ -968,6 +978,7 @@ jehuda@noun!inv%1(noun)=jehuda
 jemand@prep%1(prep)=quelqu'un
 jen@adj!ausreichend%1(adj)=ce
 jener@prep%1(prep)=ce
+jenseits@prep%1(prep)=au-delà
 jerusalem@noun!inv%1(noun)=jérusalem
 jesu@noun!jesus%1(noun)=jésus
 jetzt@noun!inv%1(noun)=maintenant
@@ -1385,6 +1396,7 @@ ps@noun!inv%1(noun)=ps
 pseudepigraphe@noun!flasche%1(noun)=pseudépigraphique
 psychologisch@adj!ausreichend%1(adj)=psychologique
 punktlich@noun!inv%1(noun)=ponctuel
+putz@verb!norm%1(verb)=nettoyer
 qid@noun!inv%1(noun)=kid.
 quader@noun!arbeiter%1(noun)=rectangle
 qual@noun!meinfem%1(noun)=agonie
@@ -1452,7 +1464,7 @@ ruhig@prep%1(prep)=calme%2(prep)=tranquille
 rund@prep%1(prep)=environ
 ruhr@verb!norm%1(verb)=bouger
 s@noun!inv%1(noun)=s
-sabbat@noun!inv%1(noun)=sabbat
+sabbat@noun!jahrzehnt%1(noun)=sabbat
 sabine@noun!inv%1(noun)=sabine
 sag@verb!norm%1(noun)=dire
 salat@noun!jahrzehnt%1(noun)=salade
@@ -1568,6 +1580,7 @@ sieg@noun!phanomen%1(noun)=victoire
 sing@verb!norm%1(verb)=chanter
 singer@noun!masc%1(noun)=chanteur
 sinn@verb!norm%1(verb)=reflechir
+sinnlichkeit@noun!meinfem%1(noun)=sensualité%2(noun)=luxure
 siphra@noun!inv%1(noun)=siphra
 sittenlehre@noun!flasche%1(noun)=morale%2(noun)=éthique
 situation@noun!norm%1(noun)=situation
@@ -1646,6 +1659,8 @@ strotzend@prep%1(prep)=plein
 stuck@noun!inv%1(noun)=morceau
 studier@verb!norm%1(verb)=etudier
 sturm@noun!jahrzehnt%1(noun)=tempête
+sturtz@noun!meinmasc%1(noun)=chute
+sturz@noun!meinmasc%1(noun)=chute
 such@verb!norm%1(verb)=chercher
 sud@noun!inv%1(noun)=sud
 suden@noun!burger%1(noun)=sud
@@ -1726,6 +1741,7 @@ tu@verb!norm%1(verb)=faire2
 u@noun!inv%1(noun)=et
 ub@prep%1(prep)=sur
 uber@prep%1(prep)=sur
+uberdruss@noun!meinfem%1(noun)=fatigue%2(noun)=morosité
 ubereinstimm@verb!norm%1(verb)=correspondre
 uberfulle@noun!flasche%1(noun)=profusion
 uberhaupt@prep%1(prep)=absolument%2(prep)=du tout
@@ -1809,6 +1825,7 @@ verbot@noun!phanomen%1(noun)=prohibition
 verboten@adj!ausreichend%1(adj)=interdit
 verbunden@adj!ausreichend%1(adj)=relatif
 verdamm@verb!norm%1(verb)=condamner
+verdorben@adj!ausreichend%1(adj)=pourri
 verehelichung@noun!meinfem%1(noun)=fiançaille
 verfall@noun!arbeiter%1(noun)=décadence
 verfanglich@adj!ausreichend%1(adj)=embarrassant
@@ -1826,8 +1843,10 @@ verheiratung@noun!meinfem%1(noun)=mariage
 verheiss@verb!norm%1(verb)=promettre
 verhute@noun!inv%1(noun)=préserve
 verkauf@noun!norm%1(noun)=vente
+verkleid@verb!norm%1(verb)=deguiser
 verlang@verb!norm%1(verb)=demander
 verletz@verb!norm%1(verb)=blesser
+verleumd@verb!norm%1(verb)=calomnier
 verlier@verb!norm%1(verb)=perdre
 verlobt@adj!meinmasc%1(adj)=fiancé
 verlobung@noun!meinfem%1(noun)=fiançailles
@@ -1847,6 +1866,7 @@ versammlung@noun!meinfem%1(noun)=assemblée
 versand@noun!norm%1(noun)=vente par correspondance
 versaumt@adj!meinmasc%1(adj)=manqué
 verschaff@verb!norm%1(verb)=conferer
+verscherz@verb!norm%1(verb)=perdre
 verschieb@verb!norm%1(verb)=deplacer
 verschied@noun!inv%1(noun)=meurt
 verschreib@verb!norm%1(verb)=prescrire
@@ -2021,6 +2041,7 @@ wunderbar@noun!mein%1(adj)=magnifique
 wunderlich@adj!ausreichend%1(adj)=étrange%2(adj)=bizarre
 wunsch@noun!meinmasc%1(noun)=souhait
 wunsch@verb!norm%1(verb)=desirer
+wurde@noun!flasche%1(noun)=dignité
 wurdig@adj!ausreichend%1(adj)=digne
 wurdig@verb!norm%1(verb)=apprecier
 wurst@noun!wurst%1(noun)=saucisse
