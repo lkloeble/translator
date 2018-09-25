@@ -129,7 +129,7 @@ bedeutsamkeit@fem%meinfem
 bedeutung@fem%meinfem
 bedeutungslos@adj%ausreichend
 bedurfnis@neut%erkenntnis
-befinlichen@neut%inv
+belichen@neut%inv
 behorde@fem%flasche
 behutsam@adj%ausreichend
 beigefugt@adj%ausreichend
@@ -366,6 +366,7 @@ feststellung@fem%meinfem
 figaro@masc%inv
 finanzierung@fem%meinfem
 findling@masc%bastard
+finger@masc%arbeiter
 finster@neut%inv
 finsternis@neut%inv
 fisch@masc%angst
@@ -430,6 +431,7 @@ gedachtnis@neut%erkenntnis
 gedanke@masc%flasche
 gefahr@fem%meinfem
 gefahrlich@adj%ausreichend
+gefahrlichst@adj%ausreichend
 gefangen@adj%ausreichend
 gefieder@neut%burger
 gefiedert@adj%ausreichend
@@ -501,6 +503,7 @@ gn@neut%inv
 gnade@fem%flasche
 gog@neut%autor
 gold@neut%phanomen
+goliath@masc%inv
 gotisch@adj%ausreichend
 gott@masc%inv
 gottes@masc%inv
@@ -549,6 +552,7 @@ heiss@adj%ausreichend
 heiter@adj%ausreichend
 heiterer@adj%ausreichend
 heiterkeit@fem%norm
+held@masc%meinmasc
 hellene@masc%flasche
 helles@neut%inv
 herabzusetzen@neut%inv
@@ -991,6 +995,7 @@ restaurant@neut%inv
 retrospektiv@adj%ausreichend
 rezipiert@masc%meinmasc
 richard@neut%inv
+rippe@fem%flasche
 rituell@adj%ausreichend
 rock@neut%inv
 rolle@fem%flasche
@@ -1066,6 +1071,7 @@ schwerst@adj%ausreichend
 schwierigkeit@fem%meinfem
 schwung@masc%phanomen
 schwur@masc%phanomen
+sechs@neut%inv
 sechst@adj%ausreichend
 sechzehn@neut%inv
 seele@fem%flasche
@@ -1125,9 +1131,10 @@ stimme@fem%flasche
 stoff@neut%meer
 stolz@adj%norm
 strafe@fem%flasche
-streng@adj%ausreichend
 stress@neut%inv
 strasse@fem%flasche
+streitsuchtiger@adj%ausreichend
+streng@adj%ausreichend
 strom@neut%phanomen
 stuck@neut%inv
 sturm@masc%jahrzehnt
@@ -1215,7 +1222,7 @@ umwelt@fem%inv
 unabhangig@adj%ausreichend
 unangenehm@adj%ausreichend
 unbedenklich@adj%ausreichend
-unbedingt@neut%inv
+unbedingt@adj%ausreichend
 unbekannten@neut%inv
 unbekummert@neut%inv
 unbescheidenheit@neut%inv
@@ -1228,6 +1235,8 @@ ungeheur@adj%ausreichend
 ungemein@adj%ausreichend
 ungewissheit@fem%meinfem
 ungleich@adj%ausreichend
+unheimlich@adj%ausreichend
+unheimlichst@adj%ausreichend
 unlustigkeit@neut%inv
 unmoglich@neut%meinmasc
 unmoralisch@adj%ausreichend
@@ -1235,6 +1244,7 @@ unser@adj%ausreichend
 unschlussig@neut%inv
 unsre@neut%inv
 untauglich@adj%ausreichend
+untergang@masc%jahrzehnt
 unterlag@neut%meinmasc
 unterscheidend@adj%ausreichend
 unterschied@neut%meinmasc
@@ -1302,6 +1312,7 @@ vieh@neut%original
 vielendank@neut%inv
 vielfach@neut%inv
 vier@neut%inv
+vierundzwanzig@neut%inv
 viert@adj%ausreichend
 viertel@neut%inv
 vision@fem%meinfem
@@ -1384,6 +1395,7 @@ wissenschaftlichkeit@fem%inv
 witwe@fem%flasche
 woche@fem%flasche
 wohnung@masc%meinmasc
+worden@neut%inv
 wort@neut%holz
 wortlaute@fem%flasche
 wortlich@adj%ausreichend
@@ -1397,6 +1409,7 @@ wust@adj%mein
 wutend@adj%ausreichend
 zahl@neut%meinmasc
 zauber@neut%inv
+zeh@masc%zeh
 zehn@neut%inv
 zehnt@adj%ausreichend
 zehnerlei@neut%inv

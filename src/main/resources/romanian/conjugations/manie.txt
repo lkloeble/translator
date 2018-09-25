@@ -1,0 +1,2 @@
+IPR=>i,i,e,em,atsi,e
+AII=>am,ai,a,am,atsi,au

@@ -2,3 +2,4 @@ noma%sing%fem%
 nomb%sing%fem%ua
 noma%plr%fem%e
 nomb%plr%fem%le
+nomc%plr%fem%lele

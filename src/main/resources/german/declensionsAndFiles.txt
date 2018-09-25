@@ -36,3 +36,4 @@ holz%holz.txt
 sangerin%sangerin.txt
 mass%mass.txt
 herz%herz.txt
+zeh%zeh.txt

@@ -4,4 +4,4 @@ AIP=>ui,usi,u,uram,uratsi,ura
 PAP=>[adjts]
 CONJ=>x,x,a,x,x,a
 AIMP=> ,
-PAPR=>and
+PAPR=>and|andu

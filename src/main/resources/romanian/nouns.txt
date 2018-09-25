@@ -18,10 +18,12 @@ afirmatsi@fem%fem
 aici@neut%inv
 ajutor@masc%ul
 albastr@adj%adj
+ales@adj%adj
 alexandri@fem%fem
 alipir@masc%ul
 alo@neut%inv
-alt@adj%adj
+alt@adj%adjts
+amar@adj%adj
 ambigua@neut%inv
 amintir@fem%berea
 amintit@adj%adj
@@ -45,7 +47,7 @@ ascet@masc%ul
 ascuns@adj%adj
 asimilare@fem%ereditate
 asimilat@adj%adj
-aspect@masc%ul
+aspect@fem%fem
 aspirin@fem%fem
 astazi@neut%inv
 atanasie@masc%inv
@@ -262,6 +264,7 @@ frigider@neut%inv
 fruct@fem%fem
 frumoasa@adj%adj
 frumos@masc%ul
+frumesets@fem%berea
 frun@fem%capacitate
 gand@masc%locul
 gar@fem%fem
@@ -276,8 +279,8 @@ glum@fem%fem
 goal@adj%adj
 gol@adj%adj
 grabit@adj%adj
+gre@adj%greu
 grec@adj%adj
-greu@adj%inv
 grij@fem%femi
 gr@adj%adjos
 harnic@adj%adj
@@ -352,6 +355,7 @@ larg@adj%adj
 lasa@fem%inv
 latin@adj%adj
 le@masc%fiul
+leac@masc%locul
 legat@adj%adj
 legum@fem%fem
 liber@adj%adj
@@ -432,6 +436,7 @@ muscat@fem%fem
 nascut@adj%adj
 natur@fem%tigara
 natural@adj%adj
+neagr@adj%adj
 neam@masc%locul
 neavind@neut%inv
 necaz@masc%ul
@@ -441,6 +446,8 @@ necunoscut@adj%adj
 nedrept@adj%adj
 negr@adj%adj
 nehotarit@adj%adjts
+neplacut@adj%adj
+nepotrivit@adj%adjts
 nesfarsit@masc%ul
 nevast@fem%fem
 nici@neut%inv
@@ -455,6 +462,7 @@ nord@neut%inv
 normal@adj%adj
 noroc@neut%inv
 nou@adj%adj[nomplr(a):noi]
+noutate@fem%ereditate
 nume@neut%iepure
 oamen@masc%ul
 obiect@masc%ul
@@ -541,6 +549,7 @@ probabil@adj%adj
 proces@masc%ul
 produs@masc%ul
 profesor@masc%ul
+profund@adj%adj
 progres@masc%ul
 prooroc@masc%ul
 propri@adj%adj
@@ -601,6 +610,7 @@ salbatic@adj%adj
 salbaticit@adj%adj
 salut@masc%inv
 sampani@fem%fem
+sanatate@fem%ereditate
 saptamin@fem%fem
 sapte@neut%inv
 sarac@adj%adj

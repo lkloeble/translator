@@ -33,3 +33,4 @@ adjor%exterior.txt
 bereats%bereats.txt
 conceptie%conceptie.txt
 adjos%gros.txt
+greu%greu.txt

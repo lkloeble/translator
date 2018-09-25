@@ -484,6 +484,7 @@ god@masc%normmasc
 gold@masc%normmasc
 gomorrha@neut%invmasc
 good@adj%invmasc
+goodness@neut%invmasc
 gospel@neut%normmasc
 grandson@masc%normmasc
 grass@neut%invmasc
@@ -640,6 +641,7 @@ latine@neut%normmasc
 laura@fem%invfem
 law@neut%normmasc
 lawes@neut%invmasc
+lawful@adj%invmasc
 lazy@adj%invmasc
 leader@neut%normmasc
 lean@adj%invmasc
@@ -717,6 +719,7 @@ member@masc%normmasc
 memor@fem%endy
 mentor@masc%normmasc
 mere@neut%invmasc
+metropolis@neut%invmasc
 michael@masc%invmasc
 middle@neut%invmasc
 middleages@neut%invmasc
@@ -756,7 +759,9 @@ myster@neut%endy
 naked@neut%invmasc
 name@neut%normmasc
 named@neut%invmasc
+narrow@adj%normmasc
 narrower@adj%normmasc
+narrowest@adj%normmasc
 nation@neut%normmasc
 natural@adj%normmasc
 naturall@adj%normmasc
@@ -886,6 +891,7 @@ primary@adj%invmasc
 primate@masc%invmasc
 principal@adj%normmasc
 principall@adj%normmasc
+privilege@neut%normmasc
 prize@neut%normmasc
 problem@masc%normmasc
 process@masc%church
@@ -971,6 +977,7 @@ samaria@fem%invfem
 same@neut%normmasc
 sand@neut%normmasc
 sandy@adj%invmasc
+sanhedrim@neut%invmasc
 sarah@fem%invfem
 saturday@neut%normmasc
 saviour@neut%normmasc

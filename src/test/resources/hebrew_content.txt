@@ -683,7 +683,7 @@ midrashrabahebcom1K=>דלת ופתיחת דבר סתום.
 midrashrabahebcom1L=>continuer saisir ligne 8 du commentaire englobant commençant par וכמ"ש
 
 totoacc=>הָנָעַר נַעַר
-toto=>בני
+toto=>כול ימי חייך
 א
 ב
 ג

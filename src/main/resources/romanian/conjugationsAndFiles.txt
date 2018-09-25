@@ -34,3 +34,4 @@ intampla%intampla.txt
 primi%primi.txt
 consta%consta.txt
 pieri%pieri.txt
+manie%manie.txt

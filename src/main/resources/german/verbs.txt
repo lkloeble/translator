@@ -90,6 +90,7 @@ diskutier,en,[leben]
 drang,en,[leben],(PAPR*drang*drangend*0@PAP*drang*gedrangt*0)
 dreh,en,[leben]
 druck,en,[leben],(PAP*dru*gedru*0)
+dunk,en,[leben]
 durf,en,[wollen],(IPR012*durf*darf*0@AIP*durf*durft*0)
 ehr,en,[leben]
 einlad,en,[leben]
@@ -129,8 +130,8 @@ erwerb,en,[rufen],(AIP*erwe*erwa*0)
 erzeig,en,[leben]
 erzeug,en,[leben]
 ess,en,[leben],(IPR1*ess*is*0)
-fall,en,[rufen],(AIP*fall*fiel*0)
 fahr,en,[leben],(PAPR*fahr*fahrend*0@AIP*fahr*fuhr*0)
+fall,en,[rufen],(AIP*fall*fiel*0@PAP*fall*gefallen*0)
 fang,en,[leben]
 fass,en,[leben],(PAP*fass*gefasst*0)
 fast,en,[segnen]
@@ -143,6 +144,7 @@ fixier,en,[leben]
 flieg,en,[leben]
 flieh,en,[rufen],(AIP*flieh*floh*0)
 fliess,en,[genesen],(PAP*fliess*geflossen*0)
+fluch,en,[leben]
 folg,en,[leben],(PAPR*folg*folgend*0)
 ford,ern,[fordern]
 frag,en,[leben],(PAPR*frag*fragend*0@PAP*frag*gefragt*0)
@@ -260,6 +262,7 @@ schlaf,en,[leben]
 schleich,en,[leben]
 schleud,ern,[fordern]
 schliess,en,[schliessen],(AIP*schliess*schloss*0)
+schmah,en,[leben],(PAP*schmah*geschmaht*0)
 schreib,en,[rufen],(AIP*schreib*schrieb*0@PAP*schrei*geschrie*0)
 schutz,en,[leben],(IPR*schutzst*schutzt*0)
 schweb,en,[leben]

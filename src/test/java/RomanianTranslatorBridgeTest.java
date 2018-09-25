@@ -641,7 +641,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
 
     @Test
     public void test_staniloae_ch1_point7() {
-        checkInMaps("staniloae7A", translatorBridge);
+        //checkInMaps("staniloae7A", translatorBridge);
         checkInMaps("staniloae7B", translatorBridge);
         checkInMaps("staniloae7C", translatorBridge);
         checkInMaps("staniloae7D", translatorBridge);
@@ -836,7 +836,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("filocalia1antonie2E", translatorBridge);
+        checkInMaps("patericulegyptantonia3B", translatorBridge);
     }
     
 }

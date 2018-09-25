@@ -7,6 +7,7 @@ afirm,,[incerca]
 afl,,[intampla]
 ajung,,[merg],(AII*ajung*ajunge*0@PAP*ajung*ajuns*0)
 ajut,,[cauta]
+aleg,a,[incerca],(IPR25*aleg*aleag*0)
 alerg,a,[merg]
 am@IRREGULAR%[INFINITIVE]=[avea]%[IPR]=[am,ai,are,avem,avetsi,au]%[CONJ]=[x,x,aiba,x,x,aiba]%[PAPR]=[avand]%[ACPINF]=[aravea]
 amuz,,[bea]
@@ -87,16 +88,19 @@ impart,,[impart]
 implic,,[cauta],(PAP*implic*implicat*0)
 implin,,[locuiesc]
 inabus,,[aciti]
+inaint,,[fumez]
 incarc,,[incerca]
 incep,,[face],(PAP*incep*inceput*0)
 incerc,a,[incerca]
 inchin,,[cauta]
 indic,,[incerca]
 inmormint,,[fumez]
+innoi,,[aciti]
 insemn,,[incerca],(IPR25*insem*inseam*0)
 insist,a,[incerca]
 inspaimant,,[cauta]
 intampl,,[intampla]
+intimpl,,[intampla]
 intar,i,[aciti],(PAP*intar*intarit*0)
 interv,,[mentsin]
 intorc,,[face],(IPR234*intor*intoar*0)
@@ -107,10 +111,12 @@ intunec,,[cauta]
 inva,,[invata],(IPR*atsi*etsi*1)
 istoris,,[locuiesc],(PAP*istoris*istorisit*0)
 iub,,[aciti]
+lepad,,[incerca],(IPR25*lepad*leapad*0@IPR1*lepad*lepez*0)
 locu,,[locuiesc]
 lua@IRREGULAR%[IPR]=[iau,iei,ia,luam,luatsi,iau]%[PAP]=[luat]%[PAPR]=[luand]%[INFINITIVE]=[lua]
 lucr,,[fumez]
 lumin,,[fumez]
+mani,e,[manie]
 maninc@IRREGULAR%[IPR]=[maninc,maninci,maninca,mancam,mancati,mananca]%[INFINITIVE]=[maninca]
 mantui,,[mantui]
 ments,,[mentsin]
@@ -126,6 +132,7 @@ obos,,[locuiesc]
 omor,i,[merg]
 opr,i,[aciti]
 organiz,,[fumez]
+par,e,[face]
 paras,i,[mantui],(AIF*par*vapar*0)
 pas,,[cresc],(PAP*pas*pascut*0)
 pastr,a,[fumez]
@@ -206,6 +213,7 @@ urmar,,[aciti],(PAP*urmar*urmarit*0)
 vad@IRREGULAR%[IPR]=[vad,vezi,vede,vedem,vedetsi,vad]%[AIPP]=[vazusem,vazusesi,vazuse,vazuseram,vazuseratsi,vazusera]%[INFINITIVE]=[vedea]%[PAP]=[vazut]
 van,,[vinde],(IPR1234*van*vin*0@PSP1234*van*vin*0)
 vin@IRREGULAR%[IPR]=[vin,vii,vine,venim,venitsi,vin]%[AII]=[veneam,veneai,venea,veneam,veneatsi,veneau]%[PAPR]=[venind]%[PAP]=[venit]%[INFINITIVE]=[veni]
+vindec,a,[incerca]
 vorb,i,[aciti]
 vr,,[vrea],(AIF*vr*v*0)
 zbor,,[incerca],(PAPR*zbor*zbur*0@AII*zbor*zbur*0)

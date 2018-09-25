@@ -193,7 +193,8 @@ public class HebrewPhraseChanger extends CustomLanguageRulePhraseChanger {
         Phrase withoutNounWavForEndingNounWithNwPrepOur = substituteEndPatternWithNewPrepositionAfterWord(withoutNounWavForEndingNounWithNw309PrepOur, "nw", new Preposition(Language.HEBREW,"xxnwxx", null), stopWordsNounWavSofit, NO_FOLLOWING_INTERRUPTION_VALUE, caseOperatorContainer);
 
         Phrase withoutKeSofit64Preposition = substituteEndPatternWithNewPrepositionAfterWord(withoutNounWavForEndingNounWithNwPrepOur, "k00064", new Preposition(Language.HEBREW,"ksofit", null), stopWordsKSofit, NO_FOLLOWING_INTERRUPTION_VALUE,caseOperatorContainer);
-        Phrase withoutKeSofitPreposition = substituteEndPatternWithNewPrepositionAfterWord(withoutKeSofit64Preposition, "k000", new Preposition(Language.HEBREW,"ksofit", null), stopWordsKSofit, NO_FOLLOWING_INTERRUPTION_VALUE,caseOperatorContainer);
+        Phrase withoutIKeSofitPreposition = substituteEndPatternWithNewPrepositionAfterWord(withoutKeSofit64Preposition, "ik000", new Preposition(Language.HEBREW,"ksofit", null), stopWordsKSofit, NO_FOLLOWING_INTERRUPTION_VALUE,caseOperatorContainer);
+        Phrase withoutKeSofitPreposition = substituteEndPatternWithNewPrepositionAfterWord(withoutIKeSofitPreposition, "k000", new Preposition(Language.HEBREW,"ksofit", null), stopWordsKSofit, NO_FOLLOWING_INTERRUPTION_VALUE,caseOperatorContainer);
 
         operatorCombination.clearAll();
         operatorCombination.addOperator(new AvoidCaseOperator(new NominativeHebrewCase("nom")));

@@ -130,6 +130,7 @@ end,[call]
 endure,[live],(PAPR*endurei*enduri*0)
 enter,[call]
 establish,[teach]
+excel,[live]
 exclude,[live]
 expect,[call]
 explain,[live]
@@ -297,7 +298,7 @@ smooth,[teach]
 soften,[live]
 speak,[live],(AII*spea*spo*0@PAP*speakd*spoken*0@AIP*speakd*spoke*0)
 sprinkle,[live]
-stand,[live]
+stand,[live],(AII*standd*stood*0)
 starve,[live],(PAPR*starvei*starvi*0)
 stretch,[call]
 strike,[live],(PAP*striked*struck*0)
