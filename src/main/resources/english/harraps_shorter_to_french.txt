@@ -136,6 +136,7 @@ banish@verb!norm%1(verb)=bannir
 baptism@noun!invmasc%1(noun)=baptême
 bar@noun!normmasc%1(noun)=bar
 barbarous@adj!invmasc%1(noun)=barbare
+barley@noun!invmasc%1(noun)=orge
 barren@noun!invmasc%1(noun)=stérile%2(noun)=désert
 barrenness@noun!invmasc%1(noun)=stérilité
 base@verb!norm%1(verb)=baser
@@ -617,6 +618,7 @@ feare@noun!normmasc%1(noun)=peur
 feed@verb!norm%1(verb)=nourrir
 feign@verb!norm%1(verb)=feindre%2(verb)=simuler
 female@noun!normmasc%1(noun)=femelle
+fetch@verb!norm%1(verb)=chercher%2(verb)=recuperer
 few@prep%1(prep)=peu
 fiction@noun!normfem%1(noun)=fiction
 field@noun!normmasc%1(noun)=champ
@@ -1176,6 +1178,7 @@ old@adj!invmasc%1(adj)=vieux
 older@adj!invmasc%1(adj)=plus vieux
 omit@verb!norm%1(verb)=omettre
 on@prep%1(prep)=sur
+once@prep%1(prep)=dès que
 one@prep%1(prep)=un
 onexx@prep%1(prep)=on
 ones@noun!invmasc%1(noun)=uns
@@ -1780,6 +1783,7 @@ version@noun!normmasc%1(noun)=version
 very@prep%1(prep)=très
 view@noun!normmasc%1(noun)=vue
 video@noun!normmasc%1(noun)=vidéo
+village@noun!normmasc%1(noun)=village
 vine@noun!normmasc%1(noun)=vigne
 vinegar@noun!normmasc%1(noun)=vinaigre
 virtue@noun!normfem%1(noun)=vertu

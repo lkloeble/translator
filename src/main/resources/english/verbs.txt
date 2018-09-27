@@ -140,6 +140,7 @@ fall,[live],(AIP*falld*fell*0@PAP*falld*fallen*0)
 fear,[call]
 feed,[live],(PAP*feedd*fed*0)
 feign,[call]
+fetch,[call]
 fight,[live]
 fill,[live]
 finish,[call]

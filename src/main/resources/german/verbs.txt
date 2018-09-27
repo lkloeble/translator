@@ -293,6 +293,7 @@ stell,en,[leben]
 sterb,en,[rufen],(AIP*sterb*starb*0@PAP*sterb*gestorben*0)
 stimm,en,[leben]
 stor,en,[leben]
+streit,en,[leben]
 studier,en,[leben]
 such,en,[leben],(AIP*such*sucht*0)
 suhn,en,[leben],(PAP*suhn*gesuhnt*0)
@@ -333,6 +334,7 @@ vernein,en,[leben],(PAP*vernein*verneint*0)
 verpflicht,en,[mochten],(PAP*verpflicht*verpflichtet*0)
 verrat,en,[gelten]
 verrats,eln,[sammeln]
+versamm,eln,[sammeln]
 verschaff,en,[leben]
 verscherz,en,[genesen]
 verschreib,en,[rufen]

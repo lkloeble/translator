@@ -81,6 +81,7 @@ bacon@neut%invmasc
 baptism@neut%invmasc
 bar@neut%normmasc
 barbarous@adj%invmasc
+barley@neut%invmasc
 barren@neut%invmasc
 barrenness@neut%invmasc
 bay@neut%invmasc
@@ -1203,6 +1204,7 @@ verse@neut%normmasc
 version@neut%normmasc
 view@fem%normfem
 video@neut%normmasc
+village@neut%normmasc
 vine@neut%normmasc
 vinegar@masc%normmasc
 virtue@fem%normfem

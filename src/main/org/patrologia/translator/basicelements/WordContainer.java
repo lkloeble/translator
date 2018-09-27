@@ -33,6 +33,14 @@ public class WordContainer {
         wordSet.addAll(words);
     }
 
+    public WordContainer(WordContainer toClone) {
+        this.language = toClone.language;
+        this.position = toClone.position;
+        for(Word word : toClone.wordSet) {
+            this.wordSet.add(new Word(word));
+        }
+    }
+
     public void putOtherPossibleWord(Word word) {
         wordSet.add(word);
     }

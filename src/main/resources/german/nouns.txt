@@ -243,6 +243,7 @@ ding@fem%original
 dionysisch@adj%ausreichend
 direktor@masc%inv
 diskussion@fem%meinfem
+dn@masc%inv
 doktor@masc%autor
 dokument@masc%meer
 donner@masc%burger
@@ -288,6 +289,7 @@ eigentumlich@adj%ausreichend
 eingewandert@adj%ausreichend
 einleitung@fem%norm
 einmutig@adj%ausreichend
+eisern@neut%inv
 eintragung@fem%meinfem
 einzeln@adj%ausreichend
 einzuraumen@neut%inv
@@ -322,6 +324,7 @@ ermudet@adj%ausreichend
 ermudung@fem%meinfem
 erneut@adj%ausreichend
 erscheinung@fem%meinfem
+erschopfung@fem%meinfem
 erste@neut%masc
 erstling@neut%inv
 erwartende@adj%ausreichend
@@ -401,6 +404,7 @@ fremd@adj%ausreichend
 fremde@fem%inv
 freundin@fem%inv
 freund@masc%meer
+frevlerisch@adj%ausreichend
 frieden@masc%autor
 frisch@adj%ausreichend
 frucht@fem%tipp
@@ -416,6 +420,7 @@ furchten@neut%inv
 furst@masc%artist
 fuss@masc%phanomen
 fussganger@masc%meinmasc
+fusstapfe@fem%flasche
 ganz@adj%ausreichend
 garten@masc%inv
 gast@neut%meer
@@ -676,6 +681,7 @@ klaus@neut%inv
 klein@adj%ausreichend
 klima@neut%inv
 kloss@neut%inv
+knecht@masc%jahrzehnt
 komisch@adj%ausreichend
 kommunikation@fem%meinfem
 kongress@neut%inv
@@ -989,6 +995,7 @@ reiz@masc%meer
 renaissance@neut%inv
 rente@fem%flasche
 rentner@masc%arbeiter
+rephait@masc%meinmasc
 resignation@fem%inv
 rest@masc%rest
 restaurant@neut%inv
@@ -1002,6 +1009,7 @@ rolle@fem%flasche
 rom@fem%inv
 romantik@fem%inv
 romantisch@adj%mein
+romisch@adj%ausreichend
 rose@fem%flasche
 rot@adj%ausreichend
 rucksicht@fem%meinfem
@@ -1164,6 +1172,7 @@ tauschung@fem%meinfem
 technik@fem%meinfem
 tee@neut%inv
 teig@masc%jahrzehnt
+teil@masc%jahrzehnt
 teilhat@neut%inv
 telefon@fem%meinfem
 teman@neut%inv
@@ -1188,6 +1197,7 @@ tipp@masc%tipp!agenitive
 tochter@fem%invfem[genplr:tochtern]
 tod@masc%phanomen
 tomate@fem%flasche
+tonern@neut%inv
 tora@neut%inv
 tos@neut%inv
 tosephta@neut%inv
@@ -1264,6 +1274,7 @@ vaterlich@adj%ausreichend
 vaterschaft@fem%meinfem
 verabredung@masc%meinmasc
 verandert@adj%ausreichend
+verarmung@neut%inv
 verbindung@masc%meinmasc
 verborgenheit@masc%meinmasc
 verbot@neut%phanomen
