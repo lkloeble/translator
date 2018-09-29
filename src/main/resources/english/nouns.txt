@@ -204,6 +204,7 @@ coffee@neut%invmasc
 col@neut%invmasc
 cold@adj%invmasc
 colleague@neut%normmasc
+colon@fem%endy
 comfortable@adj%invmasc
 comment@masc%normmasc
 commentar@masc%endy
@@ -221,6 +222,7 @@ conception@fem%normfem
 concert@neut%normmasc
 concord@neut%invmasc
 condition@neut%normmasc
+confine@neut%normmasc
 congratulation@neut%normmasc
 congregation@neut%normmasc
 conjecture@neut%normmasc
@@ -478,6 +480,7 @@ gihon@neut%invmasc
 girdle@neut%normmasc
 girl@fem%normfem
 giveth@neut%invmasc
+glassy@neut%invmasc
 gloom@neut%invmasc
 glor@fem%endy
 gloss@neut%invmasc
@@ -587,6 +590,7 @@ interpreter@neut%normmasc
 intrenchment@neut%normmasc
 invention@neut%normmasc
 iron@neut%invmasc
+island@neut%normmasc
 isaiah@neut%invmasc
 isle@fem%normfem
 israel@neut%invmasc
@@ -779,6 +783,7 @@ new@adj%invmasc
 nice@adj%invmasc
 night@fem%normfem
 nile@neut%invmasc
+nine@neut%invmasc
 nissim@neut%invmasc
 nod@neut%normmasc
 norman@adj%normmasc
@@ -846,6 +851,7 @@ persecution@fem%normfem
 person@neut%normmasc
 personal@adj%invmasc
 philistine@neut%normmasc
+phoenice@neut%invmasc
 phoenician@neut%normmasc
 physical@adj%normmasc
 phone@neut%invmasc
@@ -897,6 +903,7 @@ prize@neut%normmasc
 problem@masc%normmasc
 process@masc%church
 productive@neut%normmasc
+promontor@neut%endy
 proof@neut%invmasc
 proper@adj%normmasc
 propert@fem%endy
@@ -1172,6 +1179,7 @@ tubal@masc%invmasc
 tube@masc%normmasc
 tunic@fem%normfem
 turbulent@adj%normmasc
+tyrus@neut%invmasc
 twelve@neut%invmasc
 twenty@neut%invmasc
 twining@fem%normfem

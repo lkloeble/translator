@@ -398,6 +398,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "i60s29956r64a61l@masc%invmasc",
                 "i63d@masc%im",
                 "i61y58q65b@masc%invmasc",
+                "imwt@fem%invpur",
                 "itsia@fem%endingh",
                 "i56s298w309y64@fem%ot",
                 "i56s298w309y64h@masc%invpur",
@@ -439,6 +440,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "msli@neut%invpur",
                 "msnh@fem%invpur",
                 "msikir@neut%invmasc",
+                "msi'h@masc%invpur",
                 "msth@masc%invmasc",
                 "m63t56'h60il@neut%invpur",
                 "nakl@masc%im",
@@ -640,6 +642,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "b65hw@noun!invpur%1(noun)=vide",
                 "bw@prep%1(prep)=en lui",
                 "b305w331@prep()%1(prep)=en lui",
+                "bwa@verb!norm%1(verb)=apporter",
                 "b'hr@verb!norm%1(verb)=choisir",
                 "b30561in000@prep%1(prep)=entre",
                 "bin000@prep%1(prep)=entre",
@@ -758,6 +761,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "iwsp@noun!invpur%1(noun)=joseph",
                 "ilqwx@noun!invpur%1(noun)=yalkout",
                 "i61y58q65b@noun!invmasc%1(noun)=jacob",
+                "imwt@noun!invpur%1(noun)=jours",
                 "itsia@noun!endingh%1(noun)=sortie%2(noun)=exode",
                 "i60r56a63t@noun!imonly%1(noun)=crainte",
                 "ird@verb!norm%1(verb)=descendre",
@@ -872,6 +876,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "ms29862h@noun!invmasc%1(noun)=moïse",
                 "msli@noun!invpur%1(noun)=livre des proverbes",
                 "msnh@noun!invpur%1(noun)=mishna",
+                "msi'h@noun!invpur%1(noun)=messie",
                 "msikir@noun!invmasc%1(noun)=meshearir%2(noun)=lorsque l'on sait reconnaître",
                 "msl@verb!norm%1(verb)=diriger",
                 "msth@noun!invmasc%1(noun)=fête%2(noun)=banquet",
@@ -1070,6 +1075,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "ba,,[paal2],(AIP%leadingrootletter%b*b30564@AIP%alternateaccentuation(5)%a*a64))",
                 "bar,,[piel]",
                 "bdl,,[hiphil],(HIFPER%leadingrootletter%h*h60@HIFPER%secondletterroot%b*b56@HIFPER%alternateaccentuation(4:5:9)%d*d60i",
+                "bwa,hbia,[hiphil]",
                 "b'hr,,[paal],(IPR%substitute%b'h*bw'h*0)",
                 "bra,,[paal],(AIP%leadingrootletter%*b30564@AIP%secondletterroot%r*r64@AIP%secondletterrootexception(5:9)%r*r56@AIP%alternateaccentuation%b30564*b64@IPR%substitute%br*bwr*0",
                 "brk,,[binyan]",
@@ -2064,7 +2070,6 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("mishnah1T", translatorBridge);
         checkInMaps("mishnah1U", translatorBridge);
         checkInMaps("mishnah1V", translatorBridge);
-        checkInMaps("mishnah1W", translatorBridge);
     }
 
     @Test
@@ -2180,7 +2185,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failed_ones() {
         assertTrue(true);
-        checkInMaps("wein16M1", translatorBridge);
+        checkInMaps("mishnah1V", translatorBridge);
         //checkInMaps("toto", translatorBridge);
         //checkInMaps("totoacc", translatorBridge);
     }

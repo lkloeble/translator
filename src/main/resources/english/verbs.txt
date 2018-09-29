@@ -147,6 +147,7 @@ finish,[call]
 find,[live],(PAP*findd*found*0)
 fit,[live]
 fix,[teach]
+flow,[live]
 fly,[live]
 follow,[call]
 forget,[live]
@@ -207,7 +208,7 @@ mean,[live],(PAP*meand*meant*0)
 meet,[live]
 melt,[call]
 mention,[call]
-mingle,[live]
+mingle,[live],(PAPR*mingle*mingl*0)
 mix,[call]
 move,[live]
 multiply,[live]

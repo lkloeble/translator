@@ -23,6 +23,7 @@ aufwachs,en,[genesen]
 aufzieh,en,[leben],(PAP*aufzieh*aufgezogen*0)
 auslass,en,[genesen],(AII*auslass*ausliess*0)
 ausseh,en,[leben],(IPR14*ausseh*aussieh*0)
+auszieh,en,[rufen],(PAP*auszieh*ausgezogen*0)
 auszudruck,en,[leben],(PAPR*auszudruck*auszudruckend*0)
 bau,en,[leben],(PAPR*bau*bauend*0)
 beabsichtig,en,[leben]
@@ -94,6 +95,7 @@ dunk,en,[leben]
 durf,en,[wollen],(IPR012*durf*darf*0@AIP*durf*durft*0)
 ehr,en,[leben]
 einlad,en,[leben]
+einschlaf,en,[rufen],(AIP*einschlaf*einschlief*0)
 eintret,en,[leben],(IPR12*tret*trit*0)
 empfand,en,[mochten]
 empfang,en,[leben]
@@ -105,6 +107,7 @@ entnehm,en,[leben]
 entschlaf,en,[leben],(PAP*entschlaf*entschlafen*0)
 entsteh,en,[entstehen],(AIP*entsteh*entstand*0)
 entweih,en,[leben]
+erdruck,en,[leben]
 erfind,en,[mochten],(PAP*erfind*erfunden*0)
 erfull,en,[leben]
 erhalt,en,[gelten]
@@ -231,7 +234,7 @@ mog,en,[wollen],(IPR012*mo*ma*0)
 muss,en,[leben]
 nachlauf,en,[rufen],(AIP*lauf*lief*0)
 nachsinn,en,[rufen],(AIP*nachsin*nachsan*0)
-nehm,en,[rufen],(IPR12*nehm*nimm*0@AIP*nehm*nahm*0)
+nehm,en,[rufen],(IPR12*nehm*nimm*0@AIP*nehm*nahm*0@PAP*nehm*genommen*0)
 nenn,en,[leben],(AII*nenn*nann*0@PAP*nenn*gennant*0)
 pass,en,[leben]
 pflanz,en,[pflanzen]
@@ -254,11 +257,12 @@ ruhr,en,[leben]
 sag,en,[leben],(PAPR*sag*sagend*0@AIP*sag*sagt*0@PAP*sag*gesagt*0)
 samm,eln,[sammeln],(PAP*sam*gesam*0)
 schaff,en,[rufen],(AIP*schaff*schuf*0@PAP*sch*gesch*0)
+scham,en,[leben]
 schick,en,[leben]
 scheid,en,[rufen],(AIP*scheid*schied*0@PAP*scheid*geschied*0)
 schein,en,[rufen],(AIP*schein*schien*0)
 schlacht,en,[mochten]
-schlaf,en,[leben]
+schlaf,en,[rufen],(AIP*schlaf*schlief*0)
 schleich,en,[leben]
 schleud,ern,[fordern]
 schliess,en,[schliessen],(AIP*schliess*schloss*0)
@@ -320,12 +324,14 @@ unterzieh,en,[rufen],(AIP*unterzieh*unterzog*0@PAP*unterzieh*unterzog*0)
 verberg,en,[leben],(IPR12*verbe*verbi*0)
 verbind,en,[mochten],(AIP*verbind*verband*0)
 verdamm,en,[leben],(PAP*verdamm*verdammt*0)
+verdunk,eln,[sammeln]
 vergess,en,[wollen]
 verhalt,en,[halten]
 verheirat,en,[segnen],(PAP*verheirat*verheiratet*0)
 verheiss,en,[leben],(PAP*verheiss*verheissen*0)
 verkleid,en,[wenden],(PAP*verklei*verkleidet*0)
 verlang,en,[leben],(PAPR*verlang*verlangend*0)
+verlass,en,[leben]
 verletz,en,[pflanzen]
 verleumd,en,[wenden]
 verlier,en,[leben],(PAP*verlier*verloren*0)
