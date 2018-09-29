@@ -40,7 +40,10 @@ public class HebrewAnalyzer implements Analizer {
     private String replaceExpressions(String sentence) {
         String replace1 = sentence.replace("hqb \" h", "hqbh");
         replace1 = replace1.replace("yp?'","ypprep");
-        return replace1.replace("hqb?h", "hqbh");
+        replace1 = replace1.replace("qm?l","qmlexpr");
+        replace1 = replace1.replace("'hz?l","'hzlexpr");
+        replace1 = replace1.replace("'hid?a","'hidaexpr");
+        return replace1.replace("hqb?h", "hqbhexpr");
     }
 
 

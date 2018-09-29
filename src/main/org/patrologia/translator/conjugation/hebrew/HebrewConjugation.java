@@ -22,6 +22,7 @@ import java.util.List;
  * SUBST => SUBSTantive
  * BINHUPER => Binyan hufal Perfect
  * BINHUFUT => Binyan hufal Futur
+ * BINHIFUT => Binyan hifil futur
  * Created by Laurent KLOEBLE on 15/10/2015.
  */
 public class HebrewConjugation extends Conjugation {
@@ -29,7 +30,7 @@ public class HebrewConjugation extends Conjugation {
     private String conjugationFilePath;
     private ConjugationLoader conjugationLoader = new ConjugationLoader();
 
-    protected static List<String> times = Arrays.asList(new String[]{"AIP","AIF","PSP","ARAIPR","PALINF","PALFUT","HIFPER","HIFIPR","AIMP","HITAIP","CONVFUT","SUBST","BINHUFUT","BINHUPER"});
+    protected static List<String> times = Arrays.asList(new String[]{"AIP","AIF","PSP","ARAIPR","PALINF","PALFUT","HIFPER","HIFIPR","AIMP","HITAIP","CONVFUT","SUBST","BINHUFUT","BINHUPER","BINHIFUT"});
 
     public HebrewConjugation(List<String> conjugationElements, VerbDefinition verbDefinition, NounRepository nounRepository) {
         this.verbDefinition = verbDefinition;
