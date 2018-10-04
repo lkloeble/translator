@@ -45,6 +45,7 @@ armat@fem%fem
 articol@masc%ul
 ascet@masc%ul
 ascuns@adj%adj
+ascunzis@masc%ul
 asimilare@fem%ereditate
 asimilat@adj%adj
 aspect@fem%fem
@@ -124,6 +125,7 @@ coborat@adj%adj
 cofetarie@neut%inv
 col@neut%inv
 coleg@masc%ul
+comuniune@fem%fem
 complicat@adj%adj
 concentrat@adj%adj
 concepts@fem%conceptie
@@ -160,6 +162,7 @@ cunoaster@fem%berea
 cunoscatoar@adj%adj
 cunoscator@adj%adj
 cunoscut@adj%adj
+cunostints@fem%fem
 cuprins@masc%ul
 curaj@masc%ul
 curajos@adj%adj
@@ -175,6 +178,8 @@ deosebire@fem%ereditate
 deosebit@adj%adj
 dependents@fem%fem
 depinde@neut%inv
+desavarsir@fem%berea
+desavirsir@fem%berea
 descoperir@fem%berea
 descoperit@adj%adj
 descris@adj%adj
@@ -264,7 +269,7 @@ frigider@neut%inv
 fruct@fem%fem
 frumoasa@adj%adj
 frumos@masc%ul
-frumesets@fem%berea
+frumusets@fem%berea
 frun@fem%capacitate
 gand@masc%locul
 gar@fem%fem
@@ -275,6 +280,7 @@ general@neut%inv
 genetic@fem%fem
 git@masc%ul
 glas@masc%ul
+glug@fem%fem
 glum@fem%fem
 goal@adj%adj
 gol@adj%adj
@@ -381,6 +387,7 @@ magazin@neut%inv
 main@fem%berea
 mal@masc%ul
 mam@fem%fem
+mantuir@fem%berea
 manuscris@neut%inv
 mar@fem%berea
 mare@neut%inv
@@ -410,8 +417,10 @@ militsien@masc%ul
 mincare@neut%inv
 mineral@adj%adj
 mint@fem%berea
+mintuir@fem%berea
 minut@fem%fem
 miscar@fem%berea
+mistrets@masc%ul
 mladits@fem%fem
 moale@adj%adj[nomplr(a):moi]
 moart@fem%berea

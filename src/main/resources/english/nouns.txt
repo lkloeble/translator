@@ -480,6 +480,7 @@ gihon@neut%invmasc
 girdle@neut%normmasc
 girl@fem%normfem
 giveth@neut%invmasc
+glass@neut%church
 glassy@neut%invmasc
 gloom@neut%invmasc
 glor@fem%endy
@@ -775,6 +776,7 @@ nearest@neut%invmasc
 need@neut%normmasc
 needful@neut%invmasc
 needfull@neut%invmasc
+neighbourhood@neut%invmasc
 neighbouring@neut%invmasc
 nerve@neut%normmasc
 never@neut%invmasc
@@ -784,6 +786,7 @@ nice@adj%invmasc
 night@fem%normfem
 nile@neut%invmasc
 nine@neut%invmasc
+nineteen@neut%invmasc
 nissim@neut%invmasc
 nod@neut%normmasc
 norman@adj%normmasc
@@ -917,6 +920,7 @@ providence@neut%invmasc
 provision@neut%normmasc
 punishment@neut%normmasc
 purpose@neut%normmasc
+quarter@neut%normmasc
 queen@fem%normfem
 question@neut%normmasc
 quotation@fem%normfem
@@ -971,6 +975,7 @@ room@fem%normfem
 root@fem%normfem
 rush@neut%normfem
 rushy@adj%invmasc
+sabbath@neut%invmasc
 sacred@neut%invmasc
 sacrifice@neut%normmasc
 sad@adj%invmasc
@@ -1136,6 +1141,7 @@ testimon@neut%endy
 text@neut%normmasc
 thanks@neut%invmasc
 theater@neut%custom(plr=theatres)
+thebes@neut%invmasc
 theologically@neut%invmasc
 thing@neut%normmasc
 third@neut%invmasc
@@ -1179,6 +1185,7 @@ tubal@masc%invmasc
 tube@masc%normmasc
 tunic@fem%normfem
 turbulent@adj%normmasc
+tyre@neut%invmasc
 tyrus@neut%invmasc
 twelve@neut%invmasc
 twenty@neut%invmasc

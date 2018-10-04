@@ -24,6 +24,7 @@ astept,a,[cauta],(AIMP*astepta*asteapta*1)
 atrag,e,[merg],(PAP*atrag*atras*0)
 autoform,are,[aciti]
 auz,,[dorm],(IPR025*auz*aud*0)
+banu,i,[locuiesc],(PAP*banu*banuit*0)
 bat,e,[merg]
 be,,[bea]
 bolt,,[primi]
@@ -97,6 +98,7 @@ indic,,[incerca]
 inmormint,,[fumez]
 innoi,,[aciti]
 insemn,,[incerca],(IPR25*insem*inseam*0)
+insemn2,,[fumez],(IPR*insemn2*insemn*0)
 insist,a,[incerca]
 inspaimant,,[cauta]
 intampl,,[intampla]
@@ -129,7 +131,7 @@ mus,,[musca]
 mut,,[cauta],(PAP*mut*mutat*0)
 num,i,[primi],(AII*num*nume*0)
 obos,,[locuiesc]
-omor,i,[merg]
+omor,i,[merg],(PAP*omor*omorat*0)
 opr,i,[aciti]
 organiz,,[fumez]
 par,e,[face]
@@ -152,6 +154,7 @@ prim,,[primi]
 prin,de,[crede],(PAP*prin*prins*0)
 priv,i,[primi]
 produc,,[face]
+proiect,a,[fumez]
 pun,e,[merg]
 rama,nea,[ramane]
 rasad,,[aciti],(PAP*rasad*rasadit*0)
@@ -171,6 +174,7 @@ rug@IRREGULAR%[PAPR]=[rugandu]%[PAP]=[rugat]
 sad,,[locuiesc],(PAP*sad*sadit*0)
 savars,i,[aciti]
 savirs,,[primi]
+scoat,,[scoate],(PAP*scoat*scos*0@IPR015*scoat*scot*0)
 scri,,[scrie]
 scul@IRREGULAR%[PAPR]=[sculandu]
 serv,i,[mantui]

@@ -36,6 +36,7 @@ befass,en,[pflanzen]
 befind,en,[mochten],(AIP*befi*befa*0)
 begeh,en,[leben],(PAPR*begeh*begehend*0)
 beginn,en,[leben]
+begruss,en,[pflanzen]
 behaft,en,[mochten]
 behalt,en,[entstehen],(SPA*behal*behiel*0)
 behand,eln,[sammeln]
@@ -83,6 +84,7 @@ dank,en,[leben],(PAPR*dank*dankend*0)
 darbiet,en,[mochten](AIP*darbiet*darbot*0)
 darf,en,[wollen]
 darleg,en,[leben]
+dasteh,en,[stehen],(AIP*dasteh*dastand*0)
 denk,en,[leben],(PAPR*denk*denkend*0@AII*denk*dach*0)
 denunzier,en,[leben]
 deut,en,[mochten],(PAP*deut*gedeutet*0)
@@ -98,6 +100,7 @@ einlad,en,[leben]
 einschlaf,en,[rufen],(AIP*einschlaf*einschlief*0)
 eintret,en,[leben],(IPR12*tret*trit*0)
 empfand,en,[mochten]
+empfind,en,[mochten],(PAP*empfind*empfunden*0)
 empfang,en,[leben]
 empfehl,en,[leben]
 entdeck,en,[leben]
@@ -112,6 +115,7 @@ erfind,en,[mochten],(PAP*erfind*erfunden*0)
 erfull,en,[leben]
 erhalt,en,[gelten]
 erheb,en,[leben],(PAP*erheb*erhoben*0)
+erhell,en,[leben]
 erhol,en,[leben]
 erhor,en,[leben],(PAPR*erhor*erhorend*0)
 erinner,en,[mochten]
@@ -286,6 +290,7 @@ skizzier,en,[leben]
 soll,en,[wollen]
 sorg,en,[leben]
 spazier,en,[leben]
+spend,en,[wenden]
 spiel,en,[leben]
 sprech,en,[rufen],(AIP*spre*spra*0@IPR12*spre*spri*0)
 stamm,en,[leben],(PAPR*stamm*stammend*0)
@@ -324,6 +329,7 @@ unterzieh,en,[rufen],(AIP*unterzieh*unterzog*0@PAP*unterzieh*unterzog*0)
 verberg,en,[leben],(IPR12*verbe*verbi*0)
 verbind,en,[mochten],(AIP*verbind*verband*0)
 verdamm,en,[leben],(PAP*verdamm*verdammt*0)
+verderb,en,[rufen],(AIP*verderb*verdarb*0)
 verdunk,eln,[sammeln]
 vergess,en,[wollen]
 verhalt,en,[halten]

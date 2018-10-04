@@ -24,6 +24,7 @@ abteilung@noun!norm%1(noun)=service
 abweichung@noun!meinfem%1(noun)=déviation
 ach@noun!inv%1(noun)=ah
 acht@noun!inv%1(noun)=huit
+adam@noun!inv%1(noun)=adam
 adresse@noun!flasche%1(noun)=adresse
 affekt@noun!kunst%1(noun)=passion
 agypten@noun!inv%1(noun)=égypte
@@ -195,6 +196,7 @@ befinlichen@noun!inv%1(noun)=situé
 begeh@verb!norm%1(verb)=celebrer
 begehren@noun!inv%1(noun)=désir
 beginn@verb!norm%1(verb)=commencer
+begruss@verb!norm%1(verb)=saluer
 behaft@verb!norm%1(verb)=entacher
 behalt@verb!norm%1(verb)=garder
 behand@verb!norm%1(verb)=traiter
@@ -293,6 +295,7 @@ bitte@prep%1(prep)=s'il vous plait
 blas@verb!norm%1(verb)=souffler
 bleib@verb!norm%1(verb)=rester
 blick@noun!ort%1(noun)=regard
+blitz@noun!jahrzehnt%1(noun)=éclair
 bluh@verb!norm%1(verb)=fleurir
 blume@noun!flasche%1(noun)=fleur
 blut@noun!phanomen%1(noun)=sang
@@ -360,6 +363,7 @@ darbiet@verb!norm%1(verb)=offrir
 darf@verb!norm%1(verb)=avoirledroit
 darin@prep%1(prep)=dedans
 darleg@verb!norm%1(verb)=presenter
+dasteh@verb!norm%1(verb)=setenir
 daruber@prep%1(prep)=au-dessus
 darum@prep%1(prep)=donc%2(prep)=dès lors
 das@prep%1(prep)=ceci[le]
@@ -498,6 +502,7 @@ eisern@noun!inv%1(noun)=en fer
 ekel@noun!zeichen%1(noun)=dégoût
 eltern@noun!inv%1(noun)=parents
 empfand@verb!norm%1(verb)=ressentir
+empfind@verb!norm%1(verb)=ressentir
 empfang@verb!norm%1(verb)=concevoir%2(verb)=accueillir%3(verb)=recevoir
 empfehl@verb!norm%1(verb)=recommander
 endemisch@adj!ausreichend%1(adj)=endémique
@@ -526,6 +531,7 @@ er@prep%1(prep)=il
 erdbevolkerung@noun!inv%1(noun)=population mondiale
 erde@noun!flasche%1(noun)=terre
 erdgeschoss@noun!inv%1(noun)=rez de chaussée
+erdkreis@noun!inv%1(noun)=monde
 erdruck@verb!norm%1(verb)=ecraser
 erfahrung@noun!meinfem%1(noun)=expérience
 erfind@verb!norm%1(verb)=inventer
@@ -536,6 +542,7 @@ erfull@verb!norm%1(verb)=remplir
 erhalt@verb!norm%1(verb)=recevoir
 erheb@verb!norm%1(verb)=prelever%2(verb)=monter
 erhebung@noun!meinfem%1(noun)=enquête%2(noun)=élévation
+erhell@verb!norm%1(verb)=briller%2(verb)=illuminer
 erhol@verb!norm%1(verb)=récupérer%2(verb)=reposer
 erhor@verb!norm%1(verb)=entendre%2(verb)=exaucer
 erinner@verb!norm%1(verb)=souvenir
@@ -592,6 +599,7 @@ europa@noun!inv%1(noun)=europe
 europaer@noun!arbeiter%1(noun)=européen
 euros@noun!inv%1(noun)=euros
 ev@noun!inv%1(noun)=évangile
+eva@noun!inv%1(noun)=évangile
 evangelium@noun!inv%1(noun)=évangile
 ewig@adj!ausreichend%1(adj)=éternel
 ewigkeit@noun!meinfem%1(noun)=siècle%2(noun)=éternité
@@ -756,6 +764,7 @@ geld@noun!inv%1(noun)=argent
 gelehrt@noun!ausreichend%1(adj)=enseigné
 gelt@verb!norm%1(verb)=concerner%2(verb)=valider
 geltend@noun!ausreichend%1(adj)=effectif%2(adj)=courant%3(adj)=valide%4(adj)=applicable
+gemach@noun!licht%1(noun)=chambre
 gemalde@noun!meer%1(noun)=peinture
 gemaldegalerie@noun!flasche%1(noun)=galerie de tableaux
 gemeinde@noun!flasche%1(noun)=paroisse%2(noun)=ville%3(noun)=communauté
@@ -878,6 +887,7 @@ heilig@verb!norm%1(verb)=justifier%2(verb)=sanctifier
 heiligkeit@noun!meinfem%1(noun)=sainteté
 heiligtum@noun!heiligtum%1(noun)=sanctuaire
 heim@noun!meer%1(noun)=asile%2(noun)=hôtel%3(noun)=maison
+heimlich@adj!ausreichend%1(adj)=secret
 heimlichkeit@noun!meinmasc%1(noun)=secret
 heirat@verb!norm%1(verb)=epouser
 heiss@adj!ausreichend%1(adj)=chaud
@@ -1009,6 +1019,7 @@ jen@adj!ausreichend%1(adj)=ce
 jener@prep%1(prep)=ce
 jenseits@prep%1(prep)=au-delà
 jerusalem@noun!inv%1(noun)=jérusalem
+jes@noun!inv%1(noun)=Isaïe
 jesu@noun!jesus%1(noun)=jésus
 jetzt@noun!inv%1(noun)=maintenant
 jetztzeit@noun!inv%1(noun)=temps présent
@@ -1143,6 +1154,7 @@ leser@noun!inv%1(noun)=lecteur
 letzt@adj!ausreichend%1(adj)=dernier
 letztgultig@adj!ausreichend%1(adj)=ultime%2(adj)=final
 leuchte@noun!flasche%1(noun)=luminaire
+leuchter@noun!arbeiter%1(noun)=chandelier
 leute@noun!flasche%1(noun)=gens
 levi@noun!inv%1(noun)=lévi
 levirat@noun!inv%1(noun)=lévirat
@@ -1255,6 +1267,7 @@ moglichkeit@noun!meinfem%1(noun)=possibilité
 mohrenland@noun!inv%1(noun)=éthiopie
 moment@noun!norm%1(noun)=moment
 monat@noun!jahrzehnt%1(noun)=mois
+mond@noun!jahrzehnt%1(noun)=lune
 montag@noun!inv%1(noun)=lundi
 moral@noun!inv%1(noun)=morale
 moralisch@adj!ausreichend%1(adj)=moral
@@ -1357,6 +1370,9 @@ oft@prep%1(prep)=souvent
 ohne@prep%1(prep)=sans
 ohr@noun!schmerz%1(noun)=oreille
 okolog@noun!meinmasc%1(noun)=écologiste
+ol@noun!inv%1(noun)=huile
+olbaum@noun!jahrzehnt%1(noun)=olivier
+olivenol@noun!jahrzehnt%1(noun)=huile d'olive
 oper@noun!flasche%1(noun)=opéra
 opfergabe@noun!flasche%1(noun)=offrande%2(noun)=sacrifice
 optik@noun!meinmasc%1(noun)=optique
@@ -1543,6 +1559,7 @@ schlauheit@noun!meinfem%1(noun)=ruse
 schlecht@adj!ausreichend%1(adj)=mauvais
 schleich@verb!norm%1(verb)=ramper
 schleud@verb!norm%1(verb)=fairetourner
+schlicht@adj!ausreichend%1(adj)=simple
 schliess@verb!norm%1(verb)=fermer
 schlimm@adj!ausreichend%1(adj)=mauvais
 schlimmer@adj!ausreichend%1(adj)=plus grave
@@ -1618,6 +1635,7 @@ sicherlicht@prep%1(prep)=certainement
 sicht@verb!norm%1(verb)=trier%2(verb)=classifier%3(verb)=organiser
 sie@prep%1(prep)=vous%2(prep)=eux%3(prep)=elle[ils]
 sieben@noun!inv%1(noun)=sept
+siebenfaltig@noun!inv%1(noun)=septuple
 siebenten@noun!inv%1(noun)=septième
 sieg@noun!phanomen%1(noun)=victoire
 sing@verb!norm%1(verb)=chanter
@@ -1644,6 +1662,8 @@ solange@prep%1(prep)=aussi longtemps que
 solch@adj!ausreichend%1(adj)=tel
 soll@verb!norm%1(verb)=devoir
 sondern@prep%1(prep)=mais
+sonne@noun!flasche%1(noun)=soleil
+sonnenlicht@noun!jahrzehnt%1(noun)=lumière du soleil
 sonst@prep%1(prep)=habituellement%2(prep)=autrement
 sonstig@adj!ausreichend%1(adj)=autre
 sorg@verb!norm%1(verb)=regretter%2(verb)=faireattention
@@ -1657,6 +1677,7 @@ spannung@noun!meinfem%1(noun)=tension
 spat@adj!ausreichend%1(adj)=tardif
 spater@adj!ausreichend%1(adj)=plus tardif
 spazier@verb!norm%1(verb)=sepromener
+spend@verb!norm%1(verb)=fairedon
 speise@noun!flasche%1(noun)=nourriture
 spekulant@noun!meinmasc%1(noun)=spéculateur
 spekulation@noun!norm%1(noun)=spéculation
@@ -1674,6 +1695,7 @@ stamm@noun!phanomen%1(noun)=tribu%2(noun)=tronc
 stammbaum@noun!jahrzehnt%1(noun)=arbre généalogique
 stammvater@noun!arbeiter%1(noun)=ancêtre
 stammxx@verb!norm%1(verb)=balbutier
+standig@adj!ausreichend%1(noun)=permanent
 stark@verb!norm%1(verb)=renforcer
 starke@noun!flasche%1(noun)=force
 starker@adj!ausreichend%1(noun)=plus fort
@@ -1751,6 +1773,7 @@ thema@noun!autor%1(noun)=thème
 themen@noun!inv%1(noun)=thèmes
 theologie@noun!inv%1(noun)=théologie
 theoretisch@adj!ausreichend%1(adj)=théorique
+thron@noun!jahrzehnt%1(noun)=trône
 thukydides@noun!inv%1(noun)=thucydide
 tief@adj!ausreichend%1(adj)=profonde
 tiefe@noun!norm%1(noun)=profondeur
@@ -1820,6 +1843,7 @@ unbedenklich@adj!ausreichend%2(adj)=acceptable
 unbedingt@adj!ausreichend%1(noun)=absolument
 unbekannten@noun!inv%1(noun)=inconnu
 unbekummert@noun!inv%1(noun)=non concerné
+unberedt@adj!ausreichend%1(adj)=non éloquent
 unbescheidenheit@noun!inv%1(noun)=immodestie
 und@prep%1(prep)=et
 unerkannt@adj!ausreichend%1(adj)=non identifié
@@ -1856,6 +1880,7 @@ unterzieh@verb!norm%1(verb)=soumettrea
 unvermeidlich@prep%1(prep)=inéluctablement
 unvollstandig@noun!ausreichend%1(adj)=incomplet
 unvorstellbar@noun!ausreichend%1(adj)=inconcevable
+unwert@noun!inv%1(noun)=irrégularité
 unwurdig@noun!ausreichend%1(adj)=indigne
 unzucht@noun!inv%1(noun)=fornication
 urkunde@noun!flasche%1(noun)=document%2(noun)=acte
@@ -1882,6 +1907,8 @@ verbot@noun!phanomen%1(noun)=prohibition
 verboten@adj!ausreichend%1(adj)=interdit
 verbunden@adj!ausreichend%1(adj)=relatif
 verdamm@verb!norm%1(verb)=condamner
+verderb@verb!norm%1(verb)=priver
+verdienst@noun!jahrzehnt%1(noun)=mérite
 verdorben@adj!ausreichend%1(adj)=pourri
 verdunk@verb!norm%1(verb)=obscurcir
 verehelichung@noun!meinfem%1(noun)=fiançaille
@@ -1912,6 +1939,7 @@ verlobung@noun!meinfem%1(noun)=fiançailles
 vermeid@verb!norm%1(verb)=eviter
 vermischung@noun!norm%1(noun)=mélange
 vernein@verb!norm%1(verb)=exclure
+verneinung@noun!meinfem%1(noun)=négation
 vernichtend@adj!ausreichend%1(adj)=cinglant
 vernichtung@noun!meinfem%1(noun)=destruction
 vernunftigkeit@noun!inv%1(noun)=rationalité
@@ -2075,6 +2103,7 @@ willkurlich@adj!ausreichend%1(adj)=aléatoire
 wind@noun!phanomen%1(noun)=vent
 winkel@noun!arbeiter%1(noun)=endroit%2(noun)=angle
 wir@prep%1(prep)=nous
+wirbel@noun!arbeiter%1(noun)=tourbillon
 wirklich@prep%1(prep)=vraiment
 wirklichkeit@noun!meinfem%1(noun)=réalité
 wirkung@noun!meinfem%1(noun)=effet%2(noun)=action

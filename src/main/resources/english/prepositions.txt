@@ -28,6 +28,7 @@ as@prep()
 aside@prep()
 at@prep()
 back@prep()%[comeBackVerbFinder]
+backward@prep()
 because@prep()
 before@prep()
 behind@prep()
@@ -139,6 +140,7 @@ ntendverb@prep()
 next@prep()%[nexttoFinder]
 nextto@prep()
 no@prep()%[nooneFinder]
+nobody@prep()
 noone@prep()
 non@prep()
 none@prep()

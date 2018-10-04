@@ -19,6 +19,7 @@ abteilung@neut%norm
 abweichung@fem%meinfem
 ach@neut%inv
 acht@neut%inv
+adam@neut%inv
 adresse@fem%flasche
 affekt@neut%kunst
 agypten@neut%inv
@@ -178,6 +179,7 @@ bindend@adj%ausreichend
 birne@fem%flasche
 bisherig@adj%ausreichend
 blick@masc%ort
+blitz@masc%jahrzehnt
 blume@fem%flasche
 blut@fem%phanomen
 bock@masc%phanomen
@@ -310,6 +312,7 @@ epikurisch@adj%ausreichend
 erdbevolkerung@neut%inv
 erde@fem%flasche
 erdgeschoss@masc%inv
+erdkreis@masc%inv
 erfahrung@fem%meinfem
 erfolg@masc%jahrzehnt
 erforderlich@adj%ausreichend
@@ -341,6 +344,7 @@ euro@neut%inv!agenitive
 europa@neut%inv
 europaer@masc%arbeiter
 ev@neut%inv
+eva@neut%inv
 evangelium@neut%inv
 ewig@adj%ausreichend
 ewigkeit@fem%meinfem
@@ -466,6 +470,7 @@ geist@neut%norm
 geld@neut%inv
 gelehrt@adj%ausreichend
 geltend@adj%ausreichend
+gemach@neut%licht
 gemalde@fem%meer
 gemaldegalerie@fem%flasche
 gemeinde@fem%flasche
@@ -564,6 +569,7 @@ heil@neut%jahrzehnt
 heiligkeit@fem%meinfem
 heiligtum@neut%heiligtum
 heim@neut%meer
+heimlich@adj%ausreichend
 heimlichkeit@neut%meinmasc
 heiss@adj%ausreichend
 heiter@adj%ausreichend
@@ -644,6 +650,7 @@ jeglich@adj%ausreichend
 jehuda@neut%inv
 jen@adj%ausreichend
 jerusalem@neut%inv
+jes@neut%inv
 jesu@masc%jesus
 jetzt@neut%inv
 jetztzeit@neut%inv
@@ -747,6 +754,7 @@ leser@neut%inv
 letzt@adj%ausreichend
 letztgultig@adj%ausreichend
 leuchte@fem%flasche
+leuchter@masc%arbeiter
 leute@fem%flasche
 levi@neut%inv
 levirat@neut%inv
@@ -830,6 +838,7 @@ moglichkeit@fem%meinfem
 mohrenland@neut%inv
 moment@masc%norm
 monat@masc%jahrzehnt
+mond@neut%inv
 montag@neut%inv
 moral@neut%inv
 moralisch@adj%ausreichend
@@ -909,6 +918,9 @@ offenbarung@fem%inv
 offentlich@adj%ausreichend
 ohr@neut%schmerz
 okolog@neut%meinmasc
+ol@neut%inv%
+olbaum@neut%jahrzehnt
+olivenol@neut%jahrzehnt
 oper@neut%flasche
 opfergabe@neut%flasche
 optik@neut%meinmasc
@@ -1061,6 +1073,7 @@ schlacht@fem%meinfem
 schlaf@masc%ort
 schlauheit@fem%meinfem
 schlecht@adj%ausreichend
+schlicht@adj%ausreichend
 schlimm@adj%ausreichend
 schlimmer@adj%ausreichend
 schluss@neut%norm
@@ -1108,6 +1121,7 @@ sensibilitat@fem%inv
 sephorris@neut%inv
 sicher@adj%ausreichend
 sieben@neut%inv
+siebenfaltig@neut%inv
 siebenten@neut%inv
 sieg@masc%phanomen
 singer@masc%masc
@@ -1124,6 +1138,8 @@ sohn@masc%norm
 sokrates@neut%inv
 sokratismus@neut%inv
 solch@adj%ausreichend
+sonne@fem%flasche
+sonnenlicht@masc%jahrzehnt
 sonstig@adj%ausreichend
 sozialist@neut%meinmasc
 sozial@adj%inv
@@ -1144,6 +1160,7 @@ stadtverwaltung@neut%inv
 stamm@masc%phanomen
 stammbaum@masc%jahrzehnt
 stammvater@masc%arbeiter
+standig@adj%ausreichend
 starke@fem%flasche
 starker@adj%ausreichend
 starkst@adj%ausreichend
@@ -1205,6 +1222,7 @@ thema@neut%autor
 themen@neut%inv
 theologie@fem%inv
 theoretisch@adj%ausreichend
+thron@masc%jahrzehnt
 thukydides@neut%inv
 tief@adj%ausreichend
 tiefst@adj%ausreichend
@@ -1254,6 +1272,7 @@ unbedenklich@adj%ausreichend
 unbedingt@adj%ausreichend
 unbekannten@neut%inv
 unbekummert@neut%inv
+unberedt@adj%ausreichend
 unbescheidenheit@neut%inv
 unerkannt@adj%ausreichend
 unfall@masc%phanomen
@@ -1282,6 +1301,7 @@ untertan@neut%meinmasc
 unzucht@neut%inv
 unvollstandig@adj%ausreichend
 unvorstellbar@adj%ausreichend
+unwert@neut%inv
 unwurdig@adj%ausreichend
 urkunde@fem%flasche
 urlaub@masc%norm
@@ -1302,6 +1322,7 @@ verborgenheit@masc%meinmasc
 verbot@neut%phanomen
 verboten@adj%ausreichend
 verbunden@adj%ausreichend
+verdienst@neut%jahrzehnt
 verdorben@adj%ausreichend
 verehelichung@fem%meinfem
 verfall@masc%arbeiter
@@ -1319,6 +1340,7 @@ verkauf@neut%norm
 verlobt@adj%meinmasc
 verlobung@fem%meinfem
 vermischung@neut%norm
+verneinung@fem%meinfem
 vernichtend@adj%ausreichend
 vernichtung@fem%meinfem
 vernunftigkeit@fem%inv
@@ -1418,6 +1440,7 @@ wille@fem%wille
 willkurlich@adj%ausreichend
 wind@masc%phanomen
 winkel@masc%arbeiter
+wirbel@masc%arbeiter
 wirklichkeit@fem%meinfem
 wirkung@fem%meinfem
 wirtschaft@fem%inv
