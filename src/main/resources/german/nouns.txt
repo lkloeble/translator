@@ -9,8 +9,10 @@ abkommling@masc%phanomen
 abkurzung@fem%meinfem
 ablieferung@fem%meinfem
 abneigung@fem%meinfem
+abraham@masc%inv
 abrede@fem%flasche
 absalom@masc%inv
+absatz@masc%jahrzehnt
 absicht@fem%meinfem
 absinkend@adj%ausreichend
 absolut@adj%ausreichend
@@ -57,6 +59,8 @@ anrufung@fem%meinfem
 anschauung@fem%meinfem
 anschein@masc%arbeiter
 ansicht@fem%meinfem
+antichrist@neut%inv
+antichristlich@adj%ausreichend
 antiq@neut%inv
 antwort@fem%meinfem
 anzuglich@adj%ausreichend
@@ -76,6 +80,7 @@ artikel@neut%inv
 artikellos@neut%inv
 artikellose@neut%autor
 artist@masc%artist
+artistisch@adj%ausreichend
 asiatisch@adj%ausreichend
 assyrien@neut%inv
 asthetisch@adj%ausreichend
@@ -254,6 +259,7 @@ donner@masc%burger
 donnerstag@neut%inv
 doppelt@adj%ausreichend
 dorn@masc%autor
+drachentoter@neut%inv
 drang@masc%jahrzehnt
 drei@neut%inv
 dritt@adj%ausreichend
@@ -267,6 +273,7 @@ durst@neut%inv
 dumm@neut%inv
 durchgangig@adj%ausreichend
 dionysos@masc%inv
+edom@masc%inv
 egoistisch@adj%inv
 ehe@fem%flasche
 ehelich@adj%ausreichend
@@ -277,8 +284,10 @@ ein@adj%ausreichend
 einfach@adj%ausreichend
 eingeweiht@adj%ausreichend
 einl@neut%inv
+einmischung@fem%meinfem
 eins@masc%inv
 eintrittskarte@neut%flasche
+einzig@adj%ausreichend
 einzusenden@neut%inv
 england@neut%inv
 ende@fem%flasche
@@ -305,6 +314,7 @@ endemisch@adj%ausreichend
 entartung@neut%inv
 entbehrung@fem%meinfem
 entgegengesetzt@adj%ausreichend
+entsprechend@adj%ausreichend
 entweihter@masc%arbeiter
 entzuckung@fem%meinfem
 epikur@neut%inv
@@ -335,9 +345,11 @@ erschopfung@fem%meinfem
 erste@neut%masc
 erstling@neut%inv
 erwartende@adj%ausreichend
+erz@neut%jahrzehnt
 esra@neut%inv
 esras@neut%inv
 essentiell@adj%ausreichend
+esth@neut%inv
 estrade@fem%flasche
 euros@neut%inv!agenitive
 euro@neut%inv!agenitive
@@ -369,6 +381,7 @@ feind@masc%ort
 feindlich@adj%ausreichend
 feindselig@adj%ausreichend
 feld@neut%meer
+fell@neut%jahrzehnt
 femininischen@neut%inv
 fenster@neut%inv
 ferie@fem%flasche
@@ -410,6 +423,7 @@ franzosisch@adj%ausreichend
 frau@fem%meinfem
 fraulein@fem%inv
 freigelassen@neut%bastard
+freiheit@fem%meinfem
 freitag@neut%inv
 freiwillig@adj%ausreichend
 fremd@adj%ausreichend
@@ -431,6 +445,7 @@ funft@adj%ausreichend
 furcht@fem%angst
 furchtbar@adj%ausreichend
 furchten@neut%inv
+fursprechend@adj%ausreichend
 furst@masc%artist
 fuss@masc%phanomen
 fussganger@masc%meinmasc
@@ -545,6 +560,7 @@ grun@adj%ausreichend
 grund@neut%jahrzehnt
 grundbass@neut%inv
 grundsatz@masc%jahrzehnt
+grundsatzlich@adj%ausreichend
 gulasch@neut%inv
 gut@adj%mein
 halb@adj%inv
@@ -583,6 +599,7 @@ herberge@fem%flasche
 herkunft@fem%norm
 herr@neut%meinmasc
 herrlichkeit@fem%meinfem
+herrschaft@fem%meinfem
 herrscher@masc%arbeiter
 herstellung@fem%meinfem
 herz@neut%herz
@@ -631,6 +648,7 @@ ironie@fem%inv
 ironiker@neut%inv
 irrenarzte@neut%inv
 irrtum@masc%licht
+isaak@masc%autor
 isr@neut%inv
 israel@neut%inv
 israelit@neut%meinmasc
@@ -662,6 +680,7 @@ jonathan@masc%inv
 jorg@neut%inv
 jos@neut%inv
 jose@neut%inv
+joseph@masc%autor
 josephus@neut%inv
 josua@neut%inv
 journalist@masc%norm
@@ -701,6 +720,7 @@ klein@adj%ausreichend
 klima@neut%inv
 kloss@neut%inv
 knecht@masc%jahrzehnt
+knechtschaft@fem%meinfem
 komisch@adj%ausreichend
 kommunikation@fem%meinfem
 kongress@neut%inv
@@ -742,6 +762,7 @@ ledig@adj%ausreichend
 legitim@adj%ausreichend
 legitimitat@fem%inv
 lehr@neut%inv
+lehre@fem%flasche
 leib@masc%licht
 leiblichen@adj%mein
 leiche@fem%flasche
@@ -759,6 +780,7 @@ leute@fem%flasche
 levi@neut%inv
 levirat@neut%inv
 levit@neut%meinmasc
+levitentum@neut%autor
 levitenschaft@neut%inv
 licht@fem%licht
 liebeserweisungen@fem%meinfem
@@ -802,6 +824,7 @@ massgebend@adj%ausreichend
 material@neut%meinmasc
 matthaus@masc%inv
 mauer@masc%arbeiter
+medien@neut%inv
 meer@neut%meer
 megilath@neut%inv
 mehl@neut%jahrzehnt
@@ -819,6 +842,8 @@ metaphysisch@adj%ausreichend
 mid@neut%inv
 midrasch@masc%meinmasc
 mild@adj%mein
+minderwertig@adj%ausreichend
+minderwertigst@adj%ausreichend
 mineral@adj%norm
 minute@fem%flasche
 mischna@neut%inv
@@ -833,6 +858,7 @@ mittelalter@neut%meer
 mittwoch@neut%inv
 mk@neut%inv
 modern@adj%ausreichend
+modernst@adj%ausreichend
 moglich@neut%meinmasc
 moglichkeit@fem%meinfem
 mohrenland@neut%inv
@@ -976,12 +1002,14 @@ priesterschaft@neut%inv
 priesterlich@adj%ausreichend
 priesterstand@neut%inv
 priestertum@neut%inv
+prinzip@neut%prinzip
 problem@masc%norm
 problematisch@adj%ausreichend
 produkt@masc%ort
 profan@masc%angst
 programm@masc%norm
 projekt@neut%meinmasc
+prophetie@fem%inv
 proselyt@neut%meinmasc
 prufung@fem%meinfem
 ps@neut%inv
@@ -998,6 +1026,7 @@ rabbi@masc%inv[nomplr:rabbis]
 rabbinen@masc%inv
 rabbiner@masc%burger
 rabbinisch@adj%meinmasc
+rache@fem%inv
 rachsuchtig@adj%ausreichend
 rang@masc%meer
 rassismus@neut%inv
@@ -1006,10 +1035,12 @@ ratschlag@masc%norm
 ratsel@neut%arbeiter
 ratselhaft@adj%ausreichend
 ratte@fem%flasche
+rauberisch@neut%meinmasc
 recht@neut%inv
 rechtfertigung@fem%meinfem
 rechts@neut%inv
 rechten@neut%inv
+regiment@neut%jahrzehnt
 register@neut%inv
 reich@neut%jahrzehnt
 reich@adj%ausreichend
@@ -1028,6 +1059,7 @@ resignation@fem%inv
 rest@masc%rest
 restaurant@neut%inv
 retrospektiv@adj%ausreichend
+rezension@fem%meinfem
 rezipiert@masc%meinmasc
 richard@neut%inv
 rippe@fem%flasche
@@ -1040,6 +1072,8 @@ romantisch@adj%mein
 romisch@adj%ausreichend
 rose@fem%flasche
 rot@adj%ausreichend
+rotgefarbt@adj%ausreichend
+rotlich@adj%ausreichend
 rucksicht@fem%meinfem
 ruhelager@neut%inv
 s@neut%inv
@@ -1055,6 +1089,7 @@ satyr@masc%masc
 satz@masc%ort
 sauberkeit@neut%inv
 schade@neut%inv
+schar@fem%meinfem
 scharfst@adj%ausreichend
 schauerlich@adj%ausreichend
 schauspielerisch@adj%ausreichend
@@ -1124,6 +1159,7 @@ sieben@neut%inv
 siebenfaltig@neut%inv
 siebenten@neut%inv
 sieg@masc%phanomen
+silber@neut%arbeiter
 singer@masc%masc
 sinnlichkeit@fem%meinfem
 siphra@neut%inv
@@ -1200,6 +1236,7 @@ talmud@masc%meinmasc
 tanz@masc%phanomen
 tapferkeit@fem%meinfem
 tapferst@adj%ausreichend
+targ@neut%inv
 tat@neut%inv
 tatigkeit@fem%meinfem
 tauglich@adj%ausreichend
@@ -1337,6 +1374,8 @@ verhangnisvoll@adj%ausreichend
 verheiratung@fem%meinfem
 verhute@neut%inv
 verkauf@neut%norm
+verkleinerung@neut%arbeiter
+verleumdung@fem%meinfem
 verlobt@adj%meinmasc
 verlobung@fem%meinfem
 vermischung@neut%norm
@@ -1431,6 +1470,7 @@ wesentliche@fem%flasche
 wetter@neut%inv
 wichtig@neut%inv
 wichtigst@adj%ausreichend
+widder@masc%arbeiter
 widerspruch@masc%phanomen
 widrig@adj%ausreichend
 wiederholung@fem%meinfem
@@ -1490,6 +1530,7 @@ zuganglich@adj%meinmasc
 zugehorigkeit@fem%meinfem
 zugrunde@fem%flasche
 zunge@fem%flasche
+zukunftig@adj%ausreichend
 zurechtmachung@fem%inv
 zusammenhang@masc%meer
 zusammenrotten@neut%inv

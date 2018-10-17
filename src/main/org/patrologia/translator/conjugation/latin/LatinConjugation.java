@@ -15,7 +15,7 @@ import java.util.List;
  */
 public class LatinConjugation extends Conjugation {
 
-    protected static List<String> times = Arrays.asList(new String[]{"IPR", "SPA", "SPR", "AIP", "PSP", "PII", "AIF", "PIP", "ASI", "ASP", "IMP", "PIF", "AII", "AIFP","PASUPR","AIMP","AIPP","IAPP","PAPR","IAP","PSI","VENO"});
+    protected static List<String> times = Arrays.asList(new String[]{"IPR", "SPA", "SPR", "AIP", "PSP", "PII", "AIF", "PIP", "ASI", "ASP", "IMP", "PIF", "AII", "AIFP","PASUPR","AIMP","AIPP","IAPP","PAPR","IAP","PSI","VENO","INACPAS"});
     private String conjugationFilePath;
     private ConjugationLoader conjugationLoader = new ConjugationLoader();
 

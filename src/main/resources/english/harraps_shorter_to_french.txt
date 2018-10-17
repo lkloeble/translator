@@ -36,6 +36,7 @@ after@prep%1(prep)=après
 again@prep%1(prep)=encore%2(prep)=à nouveau
 against@prep%1(prep)=contre
 age@noun!normmasc%1(noun)=époque%2(noun)=âge
+agree@verb!norm%1(verb)=etredaccord
 agreement@noun!normmasc%1(noun)=accord
 ah@prep%1(prep)=ah
 air@noun!invmasc%1(noun)=air
@@ -97,6 +98,7 @@ area@noun!normmasc%1(noun)=aire
 argument@noun!normmasc%1(noun)=argument
 arm@noun!normmasc%1(noun)=bras
 arm@noun!endy%1(noun)=armée
+armed@noun!invmasc%1(noun)=armé
 around@prep%1(prep)=autour
 art@noun!invmasc%1(noun)=art
 artificer@noun!normmasc%1(adj)=artificier
@@ -292,6 +294,7 @@ circumcise@verb!norm%1(verb)=circoncire
 circumcision@noun!invmasc%1(noun)=circoncision
 circumjacent@adj!normmasc%1(noun)=environnant
 circumscribe@verb!norm%1(verb)=limiter
+circumference@noun!normmasc%1(noun)=circonférence
 cit@noun!endy%1(noun)=ville
 citation@noun!normmasc%1(noun)=citation
 cite@verb!norm%1(verb)=citer
@@ -506,6 +509,7 @@ durham@noun!invmasc%1(noun)=durham
 during@noun!invmasc%1(noun)=durant
 dust@noun!normmasc%1(noun)=poussière
 dut@noun!endy%1(noun)=devoir
+dwelling@noun!normmasc%1(noun)=habitation
 each@prep%1(prep)=chaque
 ear@noun!normfem%1(noun)=oreille
 earlier@prep%1(prep)=plus tôt
@@ -595,10 +599,12 @@ execution@noun!normmasc%1(noun)=réalisation%2(noun)=exécution
 expect@verb!norm%1(verb)=attendre
 experience@noun!normmasc%1(noun)=expérience
 explain@verb!norm%1(verb)=expliquer
+expose@verb!norm%1(verb)=decouvrir%2(verb)=exposer
 expression@noun!normmasc%1(noun)=expression
 extend@verb!norm%1(verb)=etendre
 extension@noun!normmasc%1(noun)=extension
 extensive@adj!normmasc%1(adj)=étendu
+extent@noun!invmasc%1(noun)=étendue
 external@adj!normmasc%1(adj)=externe
 extremit@noun!endy%1(fem)=extrémité
 eye@noun!normmasc%1(noun)=oeil
@@ -798,6 +804,7 @@ helper@noun!normmasc%1(noun)=aide
 hence@prep%1(noun)=donc
 her@prep%1(noun)=lui%2(noun)=elle[son]
 herb@noun!normmasc%1(noun)=herbe
+herdsman@noun!normmasc%1(noun)=berger
 here@prep%1(prep)=ici
 heretic@noun!normmasc%1(noun)=hérétique
 heretofore@prep%1(prep)=jusqu'ici
@@ -817,6 +824,7 @@ his@prep%1(noun)=son
 historical@noun!normmasc%1(noun)=historique
 histor@noun!endy%1(noun)=histoire
 hither@prep%1(noun)=ici
+hold@verb!norm%1(verb)=tenir
 holiday@noun!invmasc%1(noun)=vacance
 holiness@noun!church%1(noun)=sainteté
 holy@adj!invmasc%1(adj)=saint
@@ -924,6 +932,7 @@ judea@noun!invmasc%1(noun)=judée
 judge@noun!normmasc%1(noun)=juge
 judicature@noun!invmasc%1(noun)=justice%2(noun)=magistrature
 juncture@noun!normmasc%1(noun)=jonction
+jurisdiction@noun!normmasc%1(noun)=juridiction
 just@prep%1(prep)=juste
 karen@noun!invmasc%1(noun)=karen
 keep@verb!norm%1(verb)=garder
@@ -1030,6 +1039,7 @@ make@verb!norm%1(verb)=faire2
 male@noun!normmasc%1(noun)=male
 man@noun!custom(plr=men)%1(noun)=homme
 manchester@noun!invmasc%1(noun)=manchester
+manifestly@noun!invmasc%1(noun)=manifestement
 manna@noun!invmasc%1(noun)=manne
 manner@noun!normmasc%1(noun)=manière
 manuscript@noun!normmasc%1(noun)=manuscript
@@ -1086,6 +1096,7 @@ month@noun!normmasc%1(noun)=mois
 monument@noun!normmasc%1(noun)=monument
 moon@noun!normmasc%1(noun)=lune
 more@prep%1(prep)=plus
+moreover@prep%1(prep)=par ailleurs
 morning@noun!normmasc%1(noun)=matin
 moses@noun!invmasc%1(noun)=moïse
 moses'@noun!invmasc%1(noun)=de moïse
@@ -1254,6 +1265,7 @@ paul@noun!invmasc%1(noun)=paul
 peculiar@adj!normmasc%1(adj)=bizarre%2(adj)=étrange%3(adj)=particulier
 pentateuch@noun!invmasc%1(noun)=pentateuque
 people@noun!normmasc%1(noun)=gens%2(noun)=peuple
+peopled@noun!invmasc%1(noun)=peuplé
 performe@noun!invmasc%1(noun)=réaliser
 perhaps@prep%1(prep)=peut-être
 perish@verb!norm%1(verb)=perir
@@ -1288,6 +1300,7 @@ pomegranate@noun!normmasc%1(noun)=grenade
 poor@adj!invmasc%1(adj)=pauvre
 popular@noun!invmasc%1(noun)=populaire
 porch@noun!church%1(noun)=entrée%2(noun)=porche
+port@noun!normmasc%1(noun)=port
 portion@noun!normmasc%1(noun)=portion
 possess@verb!norm%1(verb)=posseder
 possession@noun!normfem%1(noun)=possession
@@ -1358,6 +1371,7 @@ railway@noun!normmasc%1(noun)=chemin de fer
 rain@verb!norm%1(verb)=pleuvoir
 rainy@noun!invmasc%1(noun)=pluvieux
 rather@prep%1(prep)=plutôt que
+remarkably@prep%1(prep)=remarquablement
 rational@nnoun!normmasc%1(noun)=rationnel
 rationall@noun!normmasc%1(noun)=rationnel
 read@verb!norm%1(verb)=lire
@@ -1372,6 +1386,7 @@ reasonable@noun!normmasc%1(noun)=raisonnable%2(noun)=correct
 recension@noun!normfem%1(noun)=recension
 recent@adj!normmasc%1(adj)=récent
 receive@verb!norm%1(verb)=recevoir
+receptacle@noun!normmasc%1(noun)=logement%2(noun)=réceptacle
 recite@verb!norm%1(verb)=reciter
 reckon@verb!norm%1(verb)=compter
 red@adj!invmasc%1(adj)=rouge
@@ -1394,6 +1409,7 @@ remark@verb!norm%1(verb)=remarquer
 remind@verb!norm%1(verb)=rappeler
 remote@noun!invmasc%1(noun)=éloigné
 render@verb!norm%1(verb)=rendre
+report@verb!norm%1(verb)=rapporter
 reprinted@noun!normmasc%1(noun)=réimprimé
 require@verb!norm%1(verb)=requerir
 resemble@verb!norm%1(verb)=ressembler
@@ -1418,6 +1434,7 @@ rival@noun!normmasc%1(noun)=rival
 river@noun!normmasc%1(noun)=rivière
 riverhead@noun!normmasc%1(noun)=rivière
 ro@noun!invmasc%1(noun)=ro
+robber@noun!normmasc%1(noun)=voleur
 rock@noun!normmasc%1(noun)=rocher%2(noun)=pierre
 roger@noun!invmasc%1(noun)=roger
 romans@noun!invmasc%1(noun)=romains
@@ -1425,6 +1442,7 @@ room@noun!normmasc%1(noun)=pièce%2(noun)=chambre
 root@noun!normmasc%1(noun)=racine
 root@verb!norm%1(verb)=enraciner
 rule@verb!norm%1(verb)=gouverner%2(verb)=diriger
+run@verb!norm%1(verb)=courir
 rush@noun!normfem%1(noun)=rush
 rushy@adj!invmasc%1(adj)=de jonc
 sabbath@noun!invmasc%1(noun)=shabbat
@@ -1590,6 +1608,7 @@ steve@noun!invmasc%1(noun)=steve
 still@prep%1(prep)=encore
 stock@noun!normmasc%1(noun)=bétail%2(noun)=matériel
 stone@noun!normmasc%1(noun)=pierre
+stop@verb!norm%1(verb)=stopper
 storehouse@noun!normmasc%1(noun)=entrepôt
 stor@noun!endy%1(noun)=histoire
 strabo@noun!invmasc%1(noun)=strabon

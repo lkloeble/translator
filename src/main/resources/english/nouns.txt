@@ -56,6 +56,7 @@ area@fem%normfem
 argument@neut%normmasc
 arm@neut%normmasc
 arm@neut%endy
+armed@neut%invmasc
 art@neut%invmasc
 artificer@neut%normmasc
 artificial@adj%normmasc
@@ -186,6 +187,7 @@ chronicle@masc%normmasc
 church@fem%church
 cinema@neut%normmasc
 circumcision@neut%invmasc
+circumference@neut%normmasc
 circumjacent@adj%normmasc
 circumscribed@adj%invmasc
 citation@neut%normmasc
@@ -332,6 +334,7 @@ durham@neut%invmasc
 during@neut%invmasc
 dust@fem%normfem
 dut@masc%endy
+dwelling@neut%normmasc
 ear@fem%normfem
 earnest@adj%invmasc
 earth@fem%invfem
@@ -394,6 +397,7 @@ experience@neut%normmasc
 expression@neut%normmasc
 extension@neut%normmasc
 extensive@adj%normmasc
+extent@neut%invmasc
 external@adj%normmasc
 extremit@fem%endy
 eye@masc%normmasc
@@ -537,6 +541,7 @@ help@fem%invfem
 helper@masc%normmasc
 herb@fem%normfem
 heretic@neut%normmasc
+herdsman@masc%normmasc[nomplr:herdsmen]
 hi@neut%invmasc
 hiddekel@neut%invmasc
 high@adj%invmasc
@@ -624,6 +629,7 @@ judea@neut%invmasc
 judge@neut%normmasc
 judicature@neut%invmasc
 juncture@neut%normmasc
+jurisdiction@neut%normmasc
 karen@neut%invmasc!agenitive
 keeper@neut%normmasc
 kenite@neut%normmasc
@@ -700,6 +706,7 @@ majestic@neut%normmasc
 male@masc%normmasc
 man@masc%custom(plr=men)
 manchester@neut%invmasc
+manifestly@neut%invmasc
 manna@neut%invmasc
 manner@masc%normmasc
 manuscript@neut%normmasc
@@ -849,6 +856,7 @@ paul@neut%invmasc
 peculiar@adj%normmasc
 pentateuch@neut%invmasc
 people@neut%normmasc
+peopled@neut%invmasc
 performe@neut%invmasc
 persecution@fem%normfem
 person@neut%normmasc
@@ -878,6 +886,7 @@ pomegranate@neut%normmasc
 poor@adj%invmasc
 popular@adj%invmasc
 porch@neut%church
+port@neut%normmasc
 portion@fem%normfem
 possession@fem%normfem
 possible@adj%normmasc
@@ -941,6 +950,7 @@ reason@neut%normmasc
 reasonable@adj%normmasc
 recension@fem%normfem
 recent@adj%normmasc
+receptacle@neut%normmasc
 red@adj%invmasc
 reference@fem%normfem
 reflected@adj%invmasc
@@ -968,6 +978,7 @@ rival@masc%normmasc
 river@fem%normfem
 riverhead@fem%normfem
 ro@neut%invmasc
+robber@neut%normmasc
 rock@neut%normmasc
 roger@neut%invmasc
 romans@neut%invmasc
@@ -1069,9 +1080,10 @@ soncino@masc%invmasc
 sorrow@neut%normmasc
 sorry@neut%invmasc
 sort@neut%normmasc
+soul@fem%normfem
 sound@neut%normmasc
 south@neut%invmasc
-soul@fem%normfem
+southward@neut%invmasc
 southern@neut%invmasc
 soveraigne@neut%invmasc
 soveraignt@fem%endy

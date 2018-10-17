@@ -4,3 +4,4 @@ AIP=>i,isti,it,imus,istis,erunt
 PIP=>or,ris|re,tur,imur,imini,untur
 AIMP=>xxx,xxx,xxx,xxx,te,xxx
 ASI=>rem,res,ret,remus,retis,rent
+AIPP=>am,as,at,amus,atis,ant

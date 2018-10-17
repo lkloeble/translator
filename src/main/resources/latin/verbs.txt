@@ -16,10 +16,11 @@ adscisc,o,is,ere,,,[o-is]
 ador,o,as,are,,,[o-as]
 adduc,o,is,ere,,,[o-is],(AIPP*adduc*addux*0@AIP*adduc*addux*0)
 adven,io,is,ere,,,[io-is]
+aedific,o,as,are,,,[o-as]
 affic,io,is,ere,,,[io-is]
 affirm,o,as,are,,,[o-as]
 ag,o,is,ere,egi,actum,[o-is],(AIP*ag*eg*0)
-aio@IRREGULAR%[IPR]=[aio,ais,ait,,,aiunt]%[INFINITIVE]=[aiere]
+aio@IRREGULAR%[IPR]=[aio,ais,ait,,,aiunt]%[AII]=[aiebam,aiebas,aiebat,aiebamus,aiebatis,aiebant]%[INFINITIVE]=[aiere]
 ambul,o,as,are,avi,atum,[o-as]
 am,o,as,are,avi,atum,[o-as]
 annunti,o,as,are,avi,atum,[o-as],(ASI*annunti*annuntiar*0)
@@ -140,7 +141,7 @@ exst,o,as,are,-,-,[o-as]
 extend,o,is,ere,,,[o-is]
 exsult,o,as,are,,,[o-as]
 fac,io,is,ere,,,[io-is2],(AIP*fac*fec*0@AIPP*fac*fec*0@PII*fac*fieb*0)
-fer,o,s,re,tuli,latum,[o-s],(AIP*fer*tul*0)
+fer,o,s,re,tuli,latum,[o-s],(AIP*fer*tul*0@AIPP*fer*tuler*0)
 fi,o,s,ere,foobar,foobar,[o-s-fiat]
 fin,io,is,ire,,,[io-is],(AIP*fin*finiv*0)
 flor,eo,es,ere,,,[eo-es],(AIP*flor*floru*0)
@@ -234,7 +235,7 @@ perfic,io,is,ere,,,[io-is]
 perhib,eo,es,ere,ui,itum,[eo-es]
 perman,eo,es,ere,ui,itum,[eo-es]
 permitt,o,is,ere,misi,missum,[o-is],(AIFP*permitts*permis*0@AIP*permitt*permis*0)
-persuad,eo,es,ere,,,[eo-es],(AIP*persuad*persuas*0)
+persuad,eo,es,ere,,,[eo-es],(AIP*persuad*persuas*0@AIPP*persuad*persuas*0)
 pertin,eo,es,ere,ui,itum,[eo-es]
 perven,io,is,ire,,,[io-is]
 pl,eo,es,ere,ui,itum,[eo-es]
@@ -256,6 +257,7 @@ profer,o,s,re,,,[o-s],(AIP*profer*protul*0)
 proficisc,or,eris,i,,,[or-eris]
 profite,or,ris,ri,,,[or-ris]
 prohib,eo,es,ere,,,[eo-es]
+prom,o,is,ere,,,[o-is]
 prostern,o,is,ere,,,[o-is],(AIFP*prosterns*prostrav*0)
 prost,o,as,are,,,[o-as],(AIPP*prostav*prostit*0)
 public,o,as,are,,,[o-as]
@@ -280,6 +282,7 @@ resurg,o,is,are,,,[o-is],(AIP*resurg*resurrex*0)
 rid,eo,es,ere,,,[eo-es]
 salt,o,as,are,,,[o-as]
 salut,o,as,are,,,[o-as]
+salv,o,as,are,,,[o-as]
 san,o,as,are,,,[o-as]
 sanctific,o,as,are,,,[o-as]
 sati,o,as,are,,,[o-as]
@@ -301,6 +304,7 @@ spect,o,as,are,,,[o-as]
 sper,o,as,are,,,[o-as]
 stud,eo,es,ere,,,[eo-es]
 subic,io,is,ere,,,[io-is]
+subnect,o,is,ere,,,[o-is]
 sum@IRREGULAR%[IPR]=[sum,es,est,sumus,estis,sunt]%[AII]=[eram,eras,erat,eramus,eratis,erant]%[AIF]=[ero,eris,erit,erimus,eritis,erunt]%[INFINITIVE]=[esse]%[ASP]=[sim,sis,sit,simus,sitis,sint]%[ASI]=[essem,esses,esset,essemus,essetis,essent]%[AIP]=[fui,fuisti,fuit,fuimus,fuistis,fuerunt]%[AIPP]=[fueram,fueras,fuerat,fueramus,fueratis,fuerant]%[IAP]=[fuisse]%[AIFP]=[fuero,fueris,fuerit,fuerimus,fueritis,fuerint]
 sum,o,is,ere,,,[o-is]
 supersum@IRREGULAR%[ASP]=[supersim,supersis,supersit,supersimus,supersitis,supersint]%[ASI]=[superessem,superesses,superesset,superessemus,superessetis,superessent]%[INFINITIVE]=[superesse]
@@ -322,6 +326,7 @@ vag,or,aris,ari,,,[or-aris]
 val,eo,es,ere,ui,itum,[eo-es]
 veh,o,is,ere,,,[o-is]
 vend,o,is,ere,,,[o-is]
+venen,o,as,are,,,[o-as],(PSI*venen*venenar*0)
 ven,io,is,ire,veni,ventum,[io-is],(AIMP*vene*veni*0)
 vendit,o,as,are,,,[o-as]
 verber,o,as,are,,,[o-as]

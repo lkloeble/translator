@@ -111,11 +111,12 @@ entschlaf,en,[leben],(PAP*entschlaf*entschlafen*0)
 entsteh,en,[entstehen],(AIP*entsteh*entstand*0)
 entweih,en,[leben]
 erdruck,en,[leben]
-erfind,en,[mochten],(PAP*erfind*erfunden*0)
+erfind,en,[mochten],(PAP*erfind*erfunden*0@AIP*erfind*erfand*0)
 erfull,en,[leben]
 erhalt,en,[gelten]
 erheb,en,[leben],(PAP*erheb*erhoben*0)
 erhell,en,[leben]
+erhoh,en,[leben]
 erhol,en,[leben]
 erhor,en,[leben],(PAPR*erhor*erhorend*0)
 erinner,en,[mochten]
@@ -184,7 +185,7 @@ heilig,en,[leben]
 heirat,en,[mochten],(PAP*heirat*geheiratet*0)
 helf,en,[leben],(IPR*helft*hilft*0@AIMP*helf*hilf*0)
 heg,en,[leben]
-heiss,en,[genesen]
+heiss,en,[genesen],(AII*heiss*hiess*0)
 heranzuzieh,en,[leben]
 herleit,en,[mochten]
 herstamm,en,[leben]
@@ -244,6 +245,7 @@ pass,en,[leben]
 pflanz,en,[pflanzen]
 pfleg,en,[leben]
 plan,en,[leben],(PAPR*plan*planend*0@PAP*plan*geplant*0)
+preis,en,[genesen],(PAP*preis*gepriesen*0)
 profanier,en,[leben],(PAP*profanier*profaniert*0)
 pruf,en,[leben],(PAP*pruf*gepruft*0)
 putz,en,[pflanzen]
@@ -338,6 +340,7 @@ verheiss,en,[leben],(PAP*verheiss*verheissen*0)
 verkleid,en,[wenden],(PAP*verklei*verkleidet*0)
 verlang,en,[leben],(PAPR*verlang*verlangend*0)
 verlass,en,[leben]
+verleih,en,[leben]
 verletz,en,[pflanzen]
 verleumd,en,[wenden]
 verlier,en,[leben],(PAP*verlier*verloren*0)
@@ -381,7 +384,7 @@ wend,en,[wenden]
 werd,en,[werden],(AIP*werd*wurd*0@PAP*werden*geworden*0)
 werf,en,[leben],(IPR12*wer*wir*0)
 widm,en,[mochten],(PAP*widm*gewidmet*0)
-wiss,en,[wissen],(IPR012*wiss*weiss*0)
+wiss,en,[wissen],(IPR012*wiss*weiss*0@AIP*wiss*wusst*0)
 woll,en,[wollen],(IPR012*woll*will*0@AII*will*woll*0)
 wohn,en,[leben],(PAPR*wohn*wohnend*0)
 wunsch,en,[leben]

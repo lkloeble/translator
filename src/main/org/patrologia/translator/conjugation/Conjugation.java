@@ -38,6 +38,7 @@ import java.util.*;
  * PASANT => passé antérieur
  * ASPP => Active Subjonctive PluPerfect
  * PEACIN => PErfect ACtive INfinitive
+ * INACPAS => INFINITIVE ACTIVE PASSIVE
  */
 public abstract class Conjugation {
 

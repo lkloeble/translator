@@ -369,7 +369,7 @@ strackp4not037=>Daraus würde@V folgen, daß Hillel der alte, den Rabbi seinen V
 strackp4not038=>daß er von der nachkommen Davids stammte, ebenfalls nur mütterlicherseits ein abkömmling Davids gewesen ist.
 strackp4not039=>B : Sanh 5A bar " nicht wird das zepter von Jehuda weichen (Gn 49:10), damit sind die exilarchen in Babel gemeint,
 strackp4not040=>die Israel mit autonomer Herrschergewalt beherrschen; "noch der Führerstab von seinen Füßen",
-strackp4not041=>damit sind die nachkommen Hillels (die palästinischen patriarchen) gemeint, die die Tora öffentlich lehren (nur lehrgewalt besitzen).
+strackp4not041=>damit sind die nachkommen Hillels (die palästinischen patriarchen) gemeint, die die Tora öffentlich lehren@V (nur lehrgewalt besitzen).
 strackp4not042=>– Die belegstelle Gn 49:10 macht es wahrscheinlich, daß diese ausführung auch genealogisch dahin verstanden sein will,
 strackp4not043=>daß sowohl die babylonischen exilarchen als auch die palästinischen patriarchen ihre abstammung auf den stammvater Juda zurückführen könnten;
 strackp4not044=>die geringere macht des paläst. Patriarchen hauses würde@V dann ihren grund eben darin haben,
@@ -516,19 +516,39 @@ strackp6par266=>LVR 31 ende :  R. Chanin (um 300) hat gesagt :
 strackp6par267=>um des Verdienstes willen, daß ihr die ständige Leuchte aufsetzt, werdet ihr gewürdigt werden, die Leuchte des Königs, des Messias מלך המשיח zu begrüßen.
 strackp6par268=>Was ist der Schriftgrund ? "Dort will ich dem David ein Horn sprossen lassen, habe eine Leuchte aufgestellt für meinen Messias" Ps 132,17. ||
 strackp6par269=>TanchB תרומה 6(46A) : "und dies ist die Hebe...
-strackp6par270=>Gold, Silber u. Erz“ Ex 25,3. « Gold », entsprechend dem Reiche Babel, s. Dn 2,32 „Silber“, das ist das Reich Medien, s. Esth 3,9;
-strackp6par271=>„Erz“ das ist das Reich Griechenland, das das minderwertigste von allen war. „und rotgefärbte Widderfelle“
-strackp6par272=>Ex 25,5 das ist das Reich Edom  (= römische Reich), s. gn 25,25 : „es kam der erste rötlich aus“
+strackp6par270=>Gold, Silber u. Erz" Ex 25,3. "Gold", entsprechend dem Reiche Babel, s. Dn 2,32 "Silber", das ist das Reich Medien, s. Esth 3,9;
+strackp6par271=>"Erz" das ist das Reich Griechenland, das das minderwertigste von allen war. "und rotgefärbte Widderfelle"
+strackp6par272=>Ex 25,5 das ist das Reich Edom  (= römische Reich), s. gn 25,25 : "es kam der erste rötlich aus"
 strackp6par273=>Gott sprach : Wenn ihr auch diese vier Reiche sich über euch erheben seht, bei eurem Leben !
 strackp6par274=>ich lasse euch Hilfe sprossen mitten aus der Knechtschaft heraus !
 strackp6par275=>Was steht  hinterher geschrieben ? Das ist der König, der Messias מלך המשיח s. ps 132,17 :
-strackp6par276=>„Dort will ich dem David ein Horn sprossen lassen, habe eine Leuchte aufgestellt für meinen Messias“ – Vgl Midr Ps 75 5 (170B) im folgenden Absatz.
+strackp6par276=>"Dort will ich dem David ein Horn sprossen lassen, habe eine Leuchte aufgestellt für meinen Messias" – Vgl Midr Ps 75 5 (170B) im folgenden Absatz@1.
 strackp6par277=>1 sm 2,10. Midr KL 2,3 (65a) : Zehn Hörner gibt es (in der Schrift) : das Horn Abrahams, s. Jes 5,1 (wo der Herzensfreund Abraham ist);
 strackp6par278=>das Horn Isaaks, s. Gn 22,13; das Horn Josephs, s. Dt 33,17; das Horn Moses, s. Ex 34,29; das Horn des Tora,
-strackp6par279=>s. Hab 3,4; das Horn des Priestertums, s. Ps 112,9; das Horn des Levitentums, s. 1 Chr 25,5; das Horn der Prophetie, s. 1 Sm 2,1;
+strackp6par279=>s. |Hab| 3,4; das Horn des Priestertums, s. Ps 112,9; das Horn des Levitentums, s. 1 Chr 25,5; das Horn der Prophetie, s. 1 Sm 2,1;
 strackp6par280=>das Horn des Heiligtums, s. Ps 22,22; das Horn Israels, s. Ps 148,14; und einige sagen :
-strackp6par281=>das Horn des Messias קרנו של משיח, s. 1 Sm 2,10 : „Er gibt Macht seinem Könige und erhöht das Horn seines Messias“.
+strackp6par281=>das Horn des Messias קרנו של משיח, s. 1 Sm 2,10 : "Er gibt Macht seinem Könige und erhöht das Horn seines Messias".
 strackp6par282=>– Die Parallelstelle Midr Ps 75:5 (170B) liest zum Schluß :
+strackp6par283=>das Horn des Königs, des Messias מלך המשיח in der Königherrschaft, s. 1 Sm 2,10 "Er erhöht das Horn seines Messias".
+strackp6par284=>Das Horn Davids in dem Licht des kommenden Tages (der zukünftigen Welt), s. Ps 132,17 :
+strackp6par285=>"Dort will ich dem David ein Horn sprossen lassen, habe eine Leuchte aufgestellt für meinen Gesalbten".
+strackp6par286=>– Diese Stelle läßt auf die Königsherrschaft des Messias in der messianischen Zeit noch folgen das Regiment Davids in der zukünftigen Welt;
+strackp6par287=>sie deutet daher Ps 132,17 nicht auf den Messias;
+strackp6par288=>vgl. zu Joh 1,1 en arxe en o logos XXX à mettre en grec XXXX B,b,gamma XXX mettre lettre grecque XXX.
+strackp6par289=>– Midr Sm 4 $ 3 (28A) wird das Horn des Messias überhaupt nicht erwähnt, wohl aber das.
+strackp6par290=>5 $ 17 (32B) : Wann wird Gott (die Hörner) an ihre Stelle zurückbringen ?
+strackp6par291=>Wann er erhöhen wird das Horn des Königs, des Messias מלך המשיח, s. 1 Sm 2,10 :
+strackp6par292=>"Er wird Macht seinem König geben, und wird erhöhen das Horn seines Messias".
+strackp6par293=>|| Targ 1 Sm 2,10 : Jahve wird Rache nehmen an Magog (in der messian. Zeit) und an den Scharen der raüberischen Völker,
+strackp6par294=>die mit ihm kommen von den Enden der Erde, und er wird Stärke seinem König verleihen und groß machen die Königsherrschaft seines Messias.
+strackp6par295=>|| Vgl im Achtzehn-Gebet Nr. 15 der Babyl. Rezension : Den Sproß Davids (= den Messias) laß eilends aufsprossen,
+strackp6par296=>u. sein Horn werde hoch durch deine Hilfe.
+strackp6par297=>Gepriesen seist du, Jahve, der das Horn der Hilfe (des Heils) sprossen läßt !
+strackp6par298=>|| Im Gebet Avinu Malkenu finden sich die Worte : „Unser Vater, uner König, erhöhe das Horn deines Volkes Israel !
+strackp6par299=>Unser Vater, unser König, erhöhe das Horn deines Messias !“
+strackp6par301=>2 Sm 22:51. Midr ps 18 Ende : (R. Judan um 350, sagte) : was bedeutet מגדול  (2 Sm 22,51 nach dem Qre) ?
+strackp6par302=>Daß ihnen der König, der Messias מלך המשיח, wie ein Turm מגדל sein wird, und ebenso heißt es Spr 18,10 :
+strackp6par303=>Ein fester Turm ist der Name Jahves; dahinein eilt der Gerechte und ist aufgehoben.
 
 
 genesis1A=>Am Anfang@n schuf Gott Himmel und Erde.

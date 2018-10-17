@@ -16,3 +16,4 @@ ASI=>em,es,et|at,emus,etis,ent
 PSI=>er,eris,etur,emur,emini,entur
 VENO=>are,andi,ando,andum,atum,atu
 PEACIN=>asse
+INACPAS=>are,avisse,aturusesse,ari,atusesse,atumiri

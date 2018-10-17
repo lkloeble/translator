@@ -1,0 +1,8 @@
+nom%sing%neut%
+nom%plr%neut%ien
+gen%sing%neut%s
+gen%plr%neut%ien
+dat%sing%neut%
+dat%plr%neut%ien
+acc%sing%neut%
+acc%plr%neut%ien

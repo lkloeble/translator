@@ -7,6 +7,7 @@ admire,[live]
 adopt,[call]
 advance,[live]
 adventure,[live]
+agree,[live]
 allow,[call]
 answer,[call]
 appear,[call]
@@ -136,6 +137,7 @@ excel,[live]
 exclude,[live]
 expect,[call]
 explain,[live]
+expose,[live]
 extend,[call]
 face,[live]
 fall,[live],(AIP*falld*fell*0@PAP*falld*fallen*0)
@@ -169,12 +171,13 @@ handle,[live]
 hang,[live],(AIP*hangd*hung*0)
 happen,[call]
 hate,[live]
-heap,[live]
+heap,[call]
 hear,[live]
 heed,[call]
 help,[live]
 hide,[live],(AIP*hided*hid*0@PAP*hided*hidden*0)
 hinder,[live]
+hold,[live],(PAP*hold*hel*0)
 hope,[live]
 hurt,[call]
 imitate,[live],(PAPR*imitatei*imitati*0)
@@ -262,6 +265,7 @@ remain,[call]
 remark,[call]
 remind,[call]
 render,[call]
+report,[call]
 require,[live]
 resemble,[live]
 resolve,[live]
@@ -272,6 +276,7 @@ return,[call]
 rise,[live],(AIP*rised*rose*0@PAPR*rise*ris*0@PAP*rised*risen*0)
 root,[call]
 rule,[live]
+run,[live]
 sail,[call]
 say,[live],(AII*say*sai*0@PAP*say*sai*0)
 sanctify,[live],(AIP*fyd*fied*1@PAP*sanctifyd*sanctified*0)
@@ -288,7 +293,7 @@ shall,[live],(IPR*shalls*shall*0@AII*shall*ddddddd*0)
 shallbe,[live],(IPR*shallsbe*shallbe*0)
 shew,[live]
 should,[live],(IPR*shoulds*should*0)
-show,[teach]
+show,[call]
 shut,[live]
 signify,[live],(IPR2*signifys*signifies*0)
 simulate,[live],(PAPR*simulateing*simulating*0)
@@ -304,6 +309,7 @@ speak,[live],(AII*spea*spo*0@PAP*speakd*spoken*0@AIP*speakd*spoke*0)
 sprinkle,[live]
 stand,[live],(AII*standd*stood*0)
 starve,[live],(PAPR*starvei*starvi*0)
+stop,[live]
 stretch,[call]
 strike,[live],(PAP*striked*struck*0)
 subdue,[live]
