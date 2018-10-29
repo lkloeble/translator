@@ -120,6 +120,7 @@ aufgabe@noun!flasche%1(noun)=devoir%2(noun)=challenge%3(noun)=exercice
 aufgeh@verb!norm%1(verb)=ouvrir
 aufgewendet@adj!ausreichend%1(adj)=utilisé%2(adj)=épuisé%3(adj)=dépensé
 aufgrund@prep%1(prep)=sur la base de
+aufheb@verb!norm%1(verb)=abroger
 aufhor@verb!norm%1(verb)=arreter
 aufles@verb!norm%1(verb)=ramasser
 auflosung@noun!meinfem%1(noun)=dissolution
@@ -353,6 +354,7 @@ dafur@prep%1(prep)=au moins
 dagegen@prep%1(prep)=contre
 daher@prep%1(prep)=à partir de là%2(prep)=d'où
 dahin@prep%1(prep)=là-bas
+dahinein@prep%1(prep)=dans celui-ci
 damals@prep%1(prep)=à ce moment
 dame@noun!flasche%1(noun)=dame
 damit@prep%1(prep)=de façon que
@@ -487,6 +489,7 @@ einerlei@prep()%1(prep)=semblable
 eingang@noun!meinfem%1(noun)=entrée
 eingehung@noun!meinmasc%1(noun)=accord
 eigentumlich@adj!ausreichend%1(adj)=spécifique
+eil@verb!norm%1(verb)=sedepecher
 eingewandert@adj!ausreichend%1(adj)=immigré
 eingeweiht@adj!ausreichend%1(adj)=caché%2(adj)=secret
 einig@adj!ausreichend%1(adj)=quelque
@@ -797,6 +800,7 @@ genug@verb!norm%1(verb)=satisfaire
 genugsamkeit@noun!inv%1(noun)=austérité
 gerade@prep%1(prep)=exactement%2(prep)=justement%3(prep)=maintenant
 geratenst@adj!ausreichend%1(adj)=plus accompli
+gerecht@adj!ausreichend%1(adj)=juste
 gerechtfertigt@adj!ausreichend%1(adj)=justifié
 gerechtsame@noun!flasche%1(noun)=droit
 gericht@noun!autor%1(noun)=cour de justice
@@ -1849,6 +1853,7 @@ trocken@noun!ausreichend%1(adj)=sec
 trotz@noun!meer%1(noun)=défi
 trotzig@adj!ausreichend%1(adj)=rebelle
 tu@verb!norm%1(verb)=faire2
+turm@noun!jahrzehnt%1(noun)=tour
 u@noun!inv%1(noun)=et
 ub@prep%1(prep)=sur
 uber@prep%1(prep)=sur

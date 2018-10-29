@@ -497,6 +497,7 @@ generation@fem%meinfem
 genues@adj%ausreichend
 genugsamkeit@neut%inv
 geratenst@adj%ausreichend
+gerecht@adj%ausreichend
 gerechtfertigt@adj%ausreichend
 gerechtsame@fem%flasche
 gericht@neut%autor
@@ -1287,6 +1288,7 @@ treu@adj%ausreichend
 trotz@masc%meer
 trotzig@adj%ausreichend
 trocken@adj%ausreichend
+turm@masc%jahrzehnt
 u@neut%inv
 uberdruss@fem%meinfem
 uberfulle@fem%flasche

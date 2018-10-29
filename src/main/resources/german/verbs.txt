@@ -15,6 +15,7 @@ anzuzweif,eln,[sammeln]
 auffind,en,[leben],(PAPR*auffind*auffindend*0)
 aufbau,en,[leben],(PAP*aufbaut*aufgebaut*0)
 aufgeh,en,[leben],(PAPR*aufgeh*aufgehend*0)
+aufheb,en,[leben],(PAP*aufheb*aufgehoben*0)
 aufhor,en,[leben],(PAPR*aufhor*aufhorend*0)
 aufles,en,[leben],(PAP*aufles*aufgelesen*0)
 aufputz,en,[pflanzen]
@@ -96,6 +97,7 @@ druck,en,[leben],(PAP*dru*gedru*0)
 dunk,en,[leben]
 durf,en,[wollen],(IPR012*durf*darf*0@AIP*durf*durft*0)
 ehr,en,[leben]
+eil,en,[leben]
 einlad,en,[leben]
 einschlaf,en,[rufen],(AIP*einschlaf*einschlief*0)
 eintret,en,[leben],(IPR12*tret*trit*0)

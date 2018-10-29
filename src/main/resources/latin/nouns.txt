@@ -168,6 +168,7 @@ claudia@fem%inv
 clemen@masc%s-tis
 cler@masc%us-i
 clien@masc%s-tis2
+coactur@adj%us-a-um
 coct@adj%us-a-um
 cogitati@fem%o-onis
 cognit@adj%us-a-um
@@ -801,6 +802,7 @@ rhen@masc%us-i
 rhod@masc%us-i
 rhodan@masc%us-i
 ridicul@adj%us-a-um
+rip@fem%a-ae
 rom@fem%a-ae
 roman@adj%us-a-um
 ros@fem%a-ae

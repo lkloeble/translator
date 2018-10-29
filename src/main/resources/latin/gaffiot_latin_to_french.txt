@@ -241,6 +241,7 @@ claudia@noun!inv%1(noun)=claudia
 clemen@noun!s-tis%1(noun)=clément
 cler@noun!us-i%1(noun)=clergé
 clien@noun!s-tis2%1(noun)=client
+coactur@adj!us-a-um%1(noun)=encourageant
 coct@adj!us-a-um%1(noun)=roti%2(noun)=cuisiné
 cogitati@noun!o-onis%1(noun)=pensée
 cognit@adj!us-a-um%1(noun)=connu
@@ -513,6 +514,7 @@ exercit@adj!us-a-um%1(adj)=exercé%2(adj)=occupé
 exercit@noun!us-us%1(noun)=entrainé
 existen@adj!s-tis%1(noun)=existant%2(noun)=étant
 existenti@noun!a-ae%1(noun)=existence
+existimo@verb!norm%1(verb)=estimer
 exitios@adj!us-a-um%1(noun)=mortel%2(adj)=pernicieux
 explicand@adj!us-a-um%1(noun)=expliqué
 explicati@noun!o-onis%1(noun)=explication
@@ -959,6 +961,7 @@ nobilitat@adj!us-a-um%1(adj)=noble
 nobis@prep%1(prep)=nous
 nolo@verb!irrg%1(verb)=refuser
 non@prep%1(prep)=ne...pas...%2(prep)=non
+nondum@prep%1(prep)=pas encore
 nonnumquam@prep%1(prep)=parfois
 nonnull@noun!us-a-um%1(noun)=quelque
 nos@prep%1(prep)=nous
@@ -1052,6 +1055,7 @@ pass@noun!us-us%1(noun)=pas (unité de mesure)
 passion@noun!o-nis%1(noun)=souffrance
 pastor@noun!x-is%1(noun)=pasteur
 pateo@verb!norm%1(verb)=etreouvert
+patior@verb!norm%1(verb)=souffrir
 patro@verb!norm%1(verb)=accomplir
 pat@noun!er-ris%1(noun)=père de famille,maître de maison%2(noun)=fondateur%3(noun)=vieillard%4(noun)=père
 patern@adj!us-a-um%1(adj)=paternel
@@ -1281,6 +1285,7 @@ rhen@noun!us-i%1(noun)=rhin
 rhod@noun!us-i%1(noun)=rhodes
 rhodan@noun!us-i%1(noun)=rhône
 ridicul@adj!us-a-um%1(adj)=ridicule
+rip@noun!a-ae%1(noun)=rive
 rom@noun!a-ae%1(noun)=rome
 roman@adj!us-a-um%1(adj)=romain
 ros@noun!a-ae%1(noun)=rose

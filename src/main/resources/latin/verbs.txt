@@ -135,6 +135,7 @@ examin,o,as,are,,,[o-as]
 exaud,io,is,ire,veni,ventum,[io-is]
 exerc,eo,es,ere,,,[eo-es]
 excogit,o,as,are,,,[o-as]
+existim,o,as,are,,,[o-as]
 exsequ,or,eris,i,,,[or-eris]
 exspect,o,as,are,,,[o-as]
 exst,o,as,are,-,-,[o-as]
@@ -227,6 +228,7 @@ par,o,as,are,,,[o-as],(ASPP*par*parass*0)
 par,eo,es,ere,,,[eo-es]
 par,io,is,ere,,,[io-is],(AIP*par*peper*0@ASPP*par*parxxx*0)
 pat,eo,es,ere,,,[eo-es]
+pati,or,ris,,,,[or-ris],(IPR1*pati*pate*0@ASI*pati*pater*0)
 patr,o,as,are,,,[o-as],(ASI*patr*patrar*0)
 perd,o,is,ere,,,[o-is],(AIP*perd*perdid*0)
 perduc,o,is,ere,,,[o-is]
@@ -334,7 +336,7 @@ vere,or,ris,re,,,[or-ris]
 verg,o,is,ere,,,[o-is],(AIP*verg*xxxxx*0)
 vert,o,is,ere,,,[o-is]
 vesc,or,eris,ere,,,[or-eris]
-vid,eo,es,ere,foo,bar,[eo-es2],(PSP*vid*visus*0@AIFP*vidue*vide*0@ASI*vid*vider*0)
+vid,eo,es,ere,foo,bar,[eo-es2],(PSP*vid*visus*0@AIFP*vidue*vide*0@ASI*vid*vider*0@PSI*vid*vider*0)
 vinc,o,is,ere,,,[o-is],(AIP*vinc*vic*0)
 viv,o,is,ere,,,[o-is]
 voc,o,as,are,avi,atus,[o-as],(ASI*voc*vocar*0)

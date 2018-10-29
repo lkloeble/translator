@@ -11,3 +11,4 @@ PIP=>eor,eris,etur,emur,emini,entur
 PIF=>ebor,eberis,ebitur,ebimur,ebimini,ebuntur
 IAP=>uisse
 ASI=>em,es,et,emus,etis,ent
+PSI=>er,eris|ere,etur,emur,emini,entur
