@@ -37,8 +37,10 @@
 αιδι@noun!ος-ου%1(noun)=éternel
 αιφνιδι@noun!ος-ου%1(noun)=soudain
 αιτ@verb!norm%1(verb)=demander
+αιχμαλωσι@noun!α-ας%1(noun)=captivité
 ακ@adj!ων-ουσα-ον%1(adj)=involontaire
 ακατασκευαστ@adj!ος-ος-ον%1(adj)=non fini
+ακαταστασι@noun!α-ας%1(noun)=confusion%2(noun)=désordre
 ακολουθε@verb!norm%1(verb)=suivre
 αλαζονευ@verb!norm%1(verb)=etrearrogant
 αληθει@noun!α-ας%1(noun)=vérité
@@ -158,6 +160,7 @@
 βουλ@noun!η-ης%1(noun)=résolution%2(noun)=volonté
 βουλ@verb!norm%1(verb)=preferer%2(verb)=planifier%3(verb)=souhaiter
 βραδ@adj!υς-εια-υ%1(adj)=tardif
+βρωσ@noun!ις-εως%1(noun)=acte de manger
 βυ@prep%1(prep)=bu
 βω@prep%1(prep)=bo
 γ@noun!η-ης-εων%1(noun)=terre (matière,minerai,élément producteur)%2(noun)=terre
@@ -216,6 +219,7 @@
 δικαιωμ@noun!α-ατος%1(noun)=précepte
 δικαιοσυν@noun!η-ης%1(noun)=justice
 διο@prep%1(prep)=par quoi
+διωγμ@noun!ος-ου%1(noun)=persécution
 διωκ@verb!norm%1(verb)=poursuivre%2(verb)=persecuter
 δοκε@verb!norm%1(verb)=ressembler
 δοκιμαζ@verb!norm%1(verb)=prouver%2(verb)=tester%3(verb)=verifier
@@ -223,6 +227,7 @@
 δουλ@noun!ος-ου%1(noun)=esclave%2(noun)=serviteur
 δυο@noun!inv%1(noun)=deux
 εικοσαπλασιονα@noun!inv%1(noun)=vingt fois
+εαυτω@prep%1(prep)=lui-même
 εαυτων@prep%1(prep)=à nous-mêmes%2(prep)=à vous-mêmes%3(prep)=à eux-mêmes
 εγειρ@verb!norm%1(verb)=faire lever,ériger,dresser,mettre debout%2(verb)=s'éveiller%3(verb)=lever
 εικ@noun!ων-ονος%1(noun)=image
@@ -254,6 +259,7 @@
 ελιακιμ@noun!inv%1(noun)=éliakim
 ελιουδ@noun!inv%1(noun)=éliud
 ελε@noun!ος-ου%1(noun)=pitié%2(noun)=miséricorde
+ελευθερ@adj!ος-η-ο%1(adj)=libre
 ελλην@noun!x-ος%1(noun)=grec
 ελληνικ@noun!ος-η-ον%1(adj)=grec
 εμμανουηλ@noun!inv%1(noun)=emmanuel
@@ -265,6 +271,7 @@
 ενδυ@verb!norm%1(verb)=entrer%2(verb)=habiller
 ενιαυτ@noun!ος-ου%1(noun)=année
 ενθυμε@verb!norm%1(verb)=desirer%2(verb)=reflechir
+εννεακαιδεκαπλασιονα@noun!inv%1(noun)=dix huit fois plus grand
 ενστερνιζ@verb!norm%1(verb)=garderdanslecoeur
 εντολ@noun!η-ης%1(noun)=précepte%2(noun)=commandement
 ενωπιον@prep%1(prep)=face à face
@@ -303,6 +310,7 @@
 εργ@noun!ον-ου%1(noun)=travail%2(noun)=oeuvre
 εργατ@noun!ης-ου%1(noun)=travailleur%2(noun)=ouvrier
 ερημ@adj!ος-η-ον%1(adj)=solitaire%2(adj)=désolé%3(adj)=désert
+ερι@noun!ς-δος%1(noun)=querelle
 ερπ@verb!norm%1(verb)=ramper
 ερχ@verb!norm%1(verb)=venir
 ερωτ@verb!norm%1(verb)=interroger%2(verb)=demander
@@ -326,6 +334,7 @@
 εως@prep%1(prep)=jusqu'à
 ζ@verb!norm%1(verb)=vivre
 ζευς@noun!inv%1(noun)=zeus
+ζηλ@noun!ος-ου%1(noun)=zèle%2(noun)=envie
 ζητ@verb!norm%1(verb)=chercher
 ζοροβαβελ@noun!inv%1(noun)=zorobabel
 ζω@noun!η-ης%1(noun)=vie
@@ -571,6 +580,7 @@
 ουδε@prep%1(prep)=non plus%2(prep)=ni
 ουθ@prep%1(prep)=et pas
 ουκ@prep%1(prep)=ne
+ουκι@prep%1(prep)=ne
 ουν@prep%1(noun)=alors%2(noun)=donc
 ουραν@noun!ος-ου%1(noun)=ciel
 ουρι@noun!ας-ου%1(noun)=urie
@@ -734,6 +744,7 @@
 στομι@noun!ο-ου%1(noun)=orifice
 σπερμ@noun!α-ατος%1(noun)=semence
 σπλαγχν@noun!ον-ου%1(noun)=entraille
+σποριμ@noun!ος-ου%1(noun)=germinant
 στασ@noun!ις-εως%1(noun)=lieu%2(noun)=construction%3(noun)=position
 στρογγυλ@adj!ος-η-ον%1(adj)=rond%2(adj)=sphérique
 στεργουσ@noun!α-ης%&(noun)=aimant
@@ -852,6 +863,7 @@
 φερ@verb!norm%1(verb)=transporter%2(verb)=porter
 φημι@verb!irrg%1(verb)=dire
 φθειρ@verb!norm%1(verb)=detruire
+φθον@noun!ος-ου%1(noun)=jalousie
 φθορ@noun!α-ας%1(noun)=destruction
 φιλ@verb!norm%1(verb)=éprouver de l'amitié,triater en ami%2(verb)=donner un signe d'amitié%3(verb)=rechercher,poursuivre%4(verb)=aimer
 φιλ@noun!ος-ου%1(noun)=ami
