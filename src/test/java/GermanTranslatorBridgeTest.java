@@ -723,6 +723,17 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
     }
 
     @Test
+    public void test_strack_page10_par2() {
+        checkInMaps("strackp10par301", translatorBridge);
+        checkInMaps("strackp10par302", translatorBridge);
+        checkInMaps("strackp10par303", translatorBridge);
+        checkInMaps("strackp10par304", translatorBridge);
+        checkInMaps("strackp10par305", translatorBridge);
+        checkInMaps("strackp10par306", translatorBridge);
+        checkInMaps("strackp10par307", translatorBridge);
+        checkInMaps("strackp10par308", translatorBridge);
+    }
+        @Test
     public void test_genesis_chapter1() {
         checkInMaps("genesis1A", translatorBridge);
         checkInMaps("genesis1B", translatorBridge);

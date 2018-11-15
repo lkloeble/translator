@@ -682,6 +682,7 @@ ill@adj!e-a-ud%1(pro dem)=celui la
 imag@noun!o-inis%1(noun)=image
 imbuo@verb!norm%1(verb)=humidifer%2(verb)=tremper%3(verb)=mouiller
 immutat@adj!us-a-um%1(adj)=transformé
+impendeo@verb!norm%1(verb)=menacer%2(verb)=dominer
 impendo@verb!norm%1(verb)=depenser
 imperi@noun!um-i%1(noun)=empire
 impero@verb!norm%1(verb)=commander

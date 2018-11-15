@@ -158,6 +158,7 @@ ausser@prep%1(prep)=sauf
 ausserdem@prep%1(prep)=en outre
 ausserung@noun!meinmasc%1(noun)=énoncé
 ausspruche@noun!flasche%1(noun)=dire
+auswahl@verb!norm%1(verb)=selectionner
 auswendig@prep%1(prep)=par coeur
 auszieh@verb!norm%1(verb)=deshabiller%2(verb)=enlever
 ausziehens@noun!inv%1(noun)=enlèvement
@@ -858,6 +859,7 @@ gott@noun!inv%1(noun)=dieu
 gottes@noun!inv%1(noun)=de dieu
 gottlich@adj!ausreichend%1(adj)=divin
 grad@noun!jahrzehnt%1(noun)=degré
+grandios@adj!ausreichend%1(adj)=grandiose
 gras@noun!inv%1(noun)=herbe
 grazisierte@adj!inv%1(adj)=grécisé
 greisenhaft@adj!ausreichend%1(adj)=sénile

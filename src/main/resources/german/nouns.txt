@@ -547,6 +547,7 @@ gott@masc%inv
 gottes@masc%inv
 gottlich@adj%ausreichend
 grad@neut%jahrzehnt
+grandios@adj%ausreichend
 gras@fem%inv
 grazisierte@adj%inv
 greisenhaft@adj%ausreichend

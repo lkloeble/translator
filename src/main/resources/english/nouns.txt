@@ -614,6 +614,7 @@ jn@neut%invmasc
 job@masc%normmasc
 john@neut%invmasc
 jonah@neut%invmasc
+joppa@neut%invmasc
 jordan@neut%invmasc
 josephus@neut%invmasc
 joshua@neut%invmasc
@@ -1119,6 +1120,7 @@ suburb@fem%normfem
 sufficient@adj%normmasc
 sugar@neut%normmasc
 suggestion@fem%normfem
+sum@neut%normmasc
 summer@neut%invmasc
 sun@neut%normmasc
 sunday@neut%normmasc

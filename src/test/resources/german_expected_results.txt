@@ -516,6 +516,15 @@ strackp6par301=>2 sm [XXX]. mid r ps 18 fin(e) : ( r. juif sur autour 350, disai
 strackp6par302=>que à eux le roi, le messie [XXX] [XXX], comme un tour [XXX] son@être@ sera, et aussi nomme cela [XXX] 18, 10 :
 strackp6par303=>un (des) solide(s)@(du) solide(e)@solide@ tour est le nom(e) (du) jahve; dans celui-ci se dépêche le juste(e)@juste(s)@ et est abrogé(s).
 
+strackp10par301=>foobar
+strackp10par302=>foobar
+strackp10par303=>foobar
+strackp10par304=>foobar
+strackp10par305=>foobar
+strackp10par306=>foobar
+strackp10par307=>foobar
+strackp10par308=>foobar
+
 genesis1A=>au commencement créa dieu (des) ciel(s) et terre(e).
 genesis1B=>et la terre(e) était informe et vide, et cela était obscurité au dessus de le profonde(e)@profonde(s)@profondeur@; et le esprit de dieu plana/planait au dessus de du eau.
 genesis1C=>et dieu dit : cela deviens@serai@ lumière ! et il était lumière.
@@ -815,7 +824,8 @@ nietzscheBookGTversuchCha6F'=>c’est en cela que consiste l’esprit tragique, 
 nietzscheBookGTversuchCha6F=>dedans commande le tragique(e)@tragique(s)@ esprit –, il dirige du à pour résignation ici. o comme autre a dit dionysos vers à moi o comme éloigné(e)@éloigné(s)@ était à moi à ce moment maintenant ces entier(e)@entier(s)@ resignationismus !
 nietzscheBookGTversuchCha6G'=>— Mais il y a dans ce livre quelque chose de pire encore, et que je regrette beaucoup plus que d’avoir obscurci et défiguré par des formules schopenhaueriennes mes visions dionysiennes :
 nietzscheBookGTversuchCha6G=>– mais il y a quelque chose beaucoup plus grave sur du livre(s), ceci je maintenant encore augmente@davantage de@ regrettes, que avec schopenhauerien(s) formule(s) dyonisiaque(e)@dyonisiaque(s)@ intuition(s)(e) obscurcit et pourri vers avoir/ont
-nietzscheBookGTversuchCha6H=>c’est de m’être, en un mot, gâté le grandiose problème grec, tel qu’il s’était révélé à moi, par l’intrusion des choses modernes !
+nietzscheBookGTversuchCha6H'=>c’est de m’être, en un mot, gâté le grandiose problème grec, tel qu’il s’était révélé à moi, par l’intrusion des choses modernes !
+nietzscheBookGTversuchCha6H=>que je à moi précisément du tout le grandiose(e)@grandiose(s)@ grec(e)@grec(s)@ problème, comme à moi il ouvert(s) était, par interférence(e) le (du) le plus moderne@le plus moderne@le plus moderne(s)(e)@ chose(s)(e) priva !
 nietzscheBookGTversuchCha6I=>de m’être attaché à des espérances, là où il n’y avait rien à espérer, où tout indiquait trop clairement une fin !
 nietzscheBookGTversuchCha6J=>d’avoir, à propos de la plus récente musique allemande, commencé à divaguer sur « l’âme allemande », comme si elle était justement sur le point de se découvrir et de se retrouver,
 nietzscheBookGTversuchCha6K=>— et cela à une époque où l’esprit allemand, qui, il y a peu de temps encore, avait possédé la volonté de dominer l’Europe,

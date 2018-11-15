@@ -917,6 +917,7 @@ job@noun!normmasc%1(noun)=emploi%2(noun)=travail
 john@noun!invmasc%1(noun)=john
 jonah@noun!invmasc%1(noun)=jonas
 join@verb!norm%1(noun)=relier
+joppa@noun!invmasc%1(noun)=joppé (jaffa)
 jordan@noun!invmasc%1(noun)=jourdain
 jos@noun!invmasc%1(noun)=jos
 joseph@noun!invmasc%1(noun)=joseph
@@ -1629,6 +1630,7 @@ sufficient@noun!normmasc%1(noun)=suffisant
 sufficiently@prep%1(prep)=suffisamment
 sugar@noun!normmasc%1(noun)=sucre
 suggest@verb!norm%1(verb)=suggerer
+sum@noun!normmasc%1(noun)=somme
 summer@noun!invmasc%1(noun)=été
 suggestion@noun!normfem%1(noun)=suggestion
 sun@noun!normmasc%1(noun)=soleil
@@ -1691,6 +1693,7 @@ then@prep%1(prep)=alors
 thence@prep%1(prep)=puis%2(prep)=dès lors
 theologically@noun!invmasc%1(noun)=théologiquement
 there@prep%1(prep)=là
+thereabouts@prep%1(prep)=environ
 thereby@prep%1(prep)=par conséquent
 therefore@prep%1(prep)=pour cette raison%2(prep)=par conséquent%3(prep)=donc
 thereis@prep%1(prep)=il y a

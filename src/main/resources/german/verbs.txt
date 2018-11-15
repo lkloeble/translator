@@ -14,13 +14,14 @@ anzustell,en,[leben],(PAPR*anzustell*anzustellend*0)
 anzuzweif,eln,[sammeln]
 auffind,en,[leben],(PAPR*auffind*auffindend*0)
 aufbau,en,[leben],(PAP*aufbaut*aufgebaut*0)
-aufgeh,en,[leben],(PAPR*aufgeh*aufgehend*0)
+aufgeh,en,[leben],(PAPR*aufgeh*aufgehend*0@PAP*aufgeh*aufgegangen*0)
 aufheb,en,[leben],(PAP*aufheb*aufgehoben*0)
 aufhor,en,[leben],(PAPR*aufhor*aufhorend*0)
 aufles,en,[leben],(PAP*aufles*aufgelesen*0)
 aufputz,en,[pflanzen]
 aufstell,en,[leben],(PAP*aufstell*aufgestellt*0)
 aufwachs,en,[genesen]
+auswahl,en,[leben],(PAP*auswahl*ausgewahlt*0)
 aufzieh,en,[leben],(PAP*aufzieh*aufgezogen*0)
 auslass,en,[genesen],(AII*auslass*ausliess*0)
 ausseh,en,[leben],(IPR14*ausseh*aussieh*0)
