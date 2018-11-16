@@ -836,7 +836,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("staniloae7K", translatorBridge);
+        checkInMaps("staniloae7L", translatorBridge);
     }
     
 }

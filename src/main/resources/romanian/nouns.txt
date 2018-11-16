@@ -192,6 +192,7 @@ devreme@neut%inv
 dezvoltare@neut%inv
 dialog@masc%ul
 dificil@fem%fem
+dimensiun@fem%ratsiune
 dimineatsa@neut%inv
 dintai@neut%inv
 dintii@neut%inv
@@ -360,6 +361,7 @@ lac@masc%ul
 larg@adj%adj
 lasa@fem%inv
 latin@adj%adj
+lc@neut%inv
 le@masc%fiul
 leac@masc%locul
 legat@adj%adj
@@ -492,6 +494,7 @@ organic@adj%adj
 original@adj%adj
 originare@neut%inv
 origine@fem%ereditate
+orizont@masc%locul
 ortodox@fem%fem
 pacat@adj%pacatos
 pachet@fem%fem

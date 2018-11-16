@@ -150,6 +150,7 @@ pot@IRREGULAR%[INFINITIVE]=[putea]%[IPR]=[pot,potsi,poate,putem,putetsi,pot]%[PA
 povest,,[locuiesc]
 prefer,a,[incerca]
 prelucr,,[fumez]
+prigon,,[aciti],(PAP*prigon*prigonit*0)
 prim,,[primi]
 prin,de,[crede],(PAP*prin*prins*0)
 priv,i,[primi]
@@ -187,6 +188,7 @@ spal,,[incerca]
 sparg,,[merg]
 spun,,[face],(IPR1*uni*ui*1@PAP*spun*spus*0)
 sta,,[stiu]
+stapan,,[aciti],(PAP*stapan*stapanit*0)
 sti,,[stiu],(AIPP*sti*stius*0)
 stric,,[incerca]
 strig,,[incerca]
