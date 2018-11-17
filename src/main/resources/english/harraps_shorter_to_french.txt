@@ -31,8 +31,9 @@ advantage@noun!invmasc%1(noun)=avantage
 adventure@verb!norm%1(verb)=aventurer
 affection@noun!normfem%1(noun)=affection
 afraid@noun!invfem%1(noun)=peur
-afternoon@noun!normmasc%1(noun)=après-midi
 after@prep%1(prep)=après
+afternoon@noun!normmasc%1(noun)=après-midi
+afterward@prep%1(prep)=ensuite
 again@prep%1(prep)=encore%2(prep)=à nouveau
 against@prep%1(prep)=contre
 age@noun!normmasc%1(noun)=époque%2(noun)=âge
@@ -538,6 +539,7 @@ eight@noun!invmasc%1(noun)=huit
 eighteen@noun!invmasc%1(noun)=dix-huit
 eighty@noun!invmasc%1(noun)=quatre-vingt
 egypt@noun!invmasc%1(noun)=égypte
+egyptian@adj!normmasc%1(adj)=égyptien
 either@prep%1(prep)=non plus
 elder@noun!normmasc%1(noun)=ancien
 eldership@noun!normmasc%1(noun)=ancienneté
@@ -1241,6 +1243,7 @@ own@verb!norm%1(verb)=posseder
 owner@noun!normmasc%1(noun)=propriétaire
 p@noun!invmasc%1(noun)=p
 pain@noun!normmasc%1(noun)=douleur
+pace@noun!normmasc%1(noun)=épreuve%2(noun)=rythme%3(noun)=mètre
 pact@noun!normmasc%1(noun)=pacte
 page@noun!normfem%1(noun)=page
 palestine@noun!invmasc%1(noun)=palestine
@@ -1275,6 +1278,7 @@ person@noun!normmasc%1(noun)=personne
 personal@adj!invmasc%1(adj)=personnel
 philistine@noun!normmasc%1(noun)=philistin
 phoenice@noun!invmasc%1(noun)=Phénicie
+phoenicia@noun!invmasc%1(noun)=Phénicie
 phoenician@noun!normmasc%1(noun)=phénicien
 physical@adj!normmasc%1(adj)=physique
 phone@noun!invmasc%1(noun)=téléphone

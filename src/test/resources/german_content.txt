@@ -550,7 +550,7 @@ strackp6par301=>2 Sm 22:51. Midr ps 18 Ende : (R. Judan um 350, sagte) : was bed
 strackp6par302=>Daß ihnen der König, der Messias מלך המשיח, wie ein Turm מגדל sein wird, und ebenso heißt es Spr 18,10 :
 strackp6par303=>Ein fester Turm ist der Name Jahves; dahinein eilt der Gerechte und ist aufgehoben.
 
-strackp10par301=>Die ältesten Stellen, in denen der erwartete Heilskönig als „Messias“ bezeichnet wird, begegnen in den vorchristl. Pseudepigraphen.
+strackp10par301=>Die ältesten Stellen, in denen der erwartete Heilskönig als "Messias" bezeichnet wird, begegnen in den vorchristl. Pseudepigraphen.
 strackp10par302=>Doch nur in Verbindung mit dem Gottesnamen (als χριστος κυριου = מְשִיחַ יהוה )[a] oder in Verbindung mit einem auf Gott bezüglichen Personalsuffix
 strackp10par303=>(als mein, dein, sein Messias);[b] das absolute „der Messias“ erst in 4. Esra und der syrischen Baruchapokalypse[c],
 strackp10par304=>zwei Schriften, die gegen 100 n. Chr. Enstanden sind.

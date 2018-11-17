@@ -295,7 +295,7 @@ shew,[live]
 should,[live],(IPR*shoulds*should*0)
 show,[call]
 shut,[live]
-signify,[live],(IPR2*signifys*signifies*0)
+signify,[live],(IPR2*signifys*signifies*0@PAP*signify*signifie*0)
 simulate,[live],(PAPR*simulateing*simulating*0)
 sing,[live]
 sit,[live],(AIP*sitd*sat*0)

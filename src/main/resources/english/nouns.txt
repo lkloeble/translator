@@ -353,6 +353,7 @@ education@neut%normmasc
 effort@neut%normmasc
 egg@masc%normmasc
 egypt@neut%invmasc
+egyptian@adj%normmasc
 eight@neut%invmasc
 eighteen@neut%invmasc
 eighty@neut%invmasc
@@ -835,6 +836,7 @@ ought@neut%invmasc
 outer@neut%invmasc
 owner@neut%normmasc
 p@neut%invmasc
+pace@neut%normmasc
 pact@neut%normmasc
 page@fem%normfem
 pain@masc%normmasc
@@ -864,6 +866,7 @@ person@neut%normmasc
 personal@adj%invmasc
 philistine@neut%normmasc
 phoenice@neut%invmasc
+phoenicia@neut%invmasc
 phoenician@neut%normmasc
 physical@adj%normmasc
 phone@neut%invmasc

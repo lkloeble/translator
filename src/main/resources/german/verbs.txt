@@ -36,6 +36,7 @@ bedenk,en,[leben],(PAPR*bedenk*bedenkend*0@AII*bedenk*bedach*0)
 bedeut,en,[mochten]
 befass,en,[pflanzen]
 befind,en,[mochten],(AIP*befi*befa*0)
+begegn,en,[segnen]
 begeh,en,[leben],(PAPR*begeh*begehend*0)
 beginn,en,[leben]
 begruss,en,[pflanzen]
@@ -71,6 +72,7 @@ beurteil,en,[leben]
 beweis,en,[genesen],(AII*beweis*bewies*0)
 bewund,ern,[fordern]
 bezahl,en,[leben]
+bezeichn,en,[segnen],(PAP*bezeichn*bezeichnet*0)
 bezeug,en,[leben]
 biet,en,[leben],(PAPR*biet*bietend*0)
 bild,en,[segnen]

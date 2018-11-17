@@ -257,6 +257,7 @@ comburo@verb!norm%1(verb)=consumer
 comedo@verb!norm%1(verb)=consommer
 commeo@verb!norm%1(verb)=voyager%2(verb)=fréquenter%3(verb)=visiter
 comment@adj!us-a-um%1(adj)=inventé%2(adj)=conçu
+comparat@adj!us-a-um%1(adj)=préparé%2(noun)=comparé
 comparo@verb!norm%1(verb)=comparer%2(verb)=assembler
 compleo@verb!norm%1(verb)=accomplir
 complet@adj!us-a-um%1(adj)=rassasié%2(adj)=complété%3(adj)=terminé
@@ -736,6 +737,7 @@ instituend@adj!us-a-um%1(adj)=institué
 institut@noun!um-i%1(noun)=habitude%2(noun)=institution%3(noun)=coutûme
 insto@verb!norm%1(verb)=poursuivre
 insul@noun!a-ae%1(noun)=immeuble%2(noun)=île
+insuper@prep%1(prep)=au dessus
 intelligenti@noun!a-ae%1(noun)=intelligence
 intelligo@verb!norm%1(verb)=comprendre
 inter@prep%1(prep)=durant%2(prep)=entre
@@ -1429,6 +1431,7 @@ sui@prep%1(prep)=lui-même
 sum@verb!irrg%1(verb substantif)=etre%2(verb substantif)=etre dans un lieu%3(verb substantif)=etre reellement%4(verb substantif + datif)=appartenir a, s'appliquer a%5(verbe)=etre
 summ@noun!a-ae%1(noun)=sommet
 sumo@verb!norm%1(verb)=charmer%2(verb)=adopter%3(verb)=utiliser%4(verb)=obtenir%5(verb)=sélectionner%6(verb)=commencer%7(verb)=prendre
+sumpt@adj!us-a-um%1(adj)=acheté%2(adj)=sélectionné%3(adj)=effectué%4(adj)=supposé%5(adj)=tiré
 super@prep%1(adv)=par dessus,en plus%2(prep + acc)=au dessus%3(prep + abl)=sur%4(prep)=sur
 superfici@noun!es-ei%1(fem)=à la surface
 supern@adj!us-a-um%1(adj)=céleste%2(adj)=paradisiaque
@@ -1462,6 +1465,7 @@ temp@noun!us-oris%1(noun)=âge%2(noun)=période%3(noun)=temps
 templ@noun!um-i%1(noun)=temple
 tenebr@noun!a-ae%1(noun)=obscurite%2(noun)=nuit%3(noun)=tenebre
 teneo@verb!norm%1(verb)=obtenir%2(verb)=garder%3(verb)=posseder%4(verb)=tenir
+termino@verb!norm%1(verb)=terminer%2(verb)=limiter
 terr@noun!a-ae%1(noun)=terre (le globe terrestre)%2(noun)=terre (la matiere)%3(noun)=la surface, le sol%4(noun)=terre (opposition a ciel ou mer)%5(noun)=pays, contree%6(noun)=terre
 terren@adj!us-a-um%1(adj)=terrestre
 terenti@noun!a-ae%1(noun)=terentia
@@ -1531,6 +1535,7 @@ urs@noun!us-i%1(noun)=ursus
 us@adj!us-a-um%1(adj)=utilisé
 ut@prep%1(adv)=comme%2(adv)=de quelle maniere%3(adv)=quand,aussitot que,depuis que%4(adv+subj)=afin que,pour que,de telle sorte que%4(adv)=comme
 uti@prep%1(adv)=comme%2(adv)=de quelle maniere%3(adv)=quand,aussitot que,depuis que%4(adv+subj)=afin que,pour que,de telle sorte que%4(adv)=comme
+utor@verb!norm%1(verb)=utiliser
 vacu@adj!us-a-um%1(adj)=desert
 vado@verb!norm%1(verb)=marcher
 vagor@verb!norm%1(verb)=sepromener
@@ -1568,6 +1573,7 @@ vin@noun!um-i%1(noun)=vin
 vinco@verb!norm%1(verb)=vaincre
 vincul@noun!um-i%1(noun)=chaîne
 vir@noun!x(us)-i%1(noun)=homme (oppose a femme)%2(noun)=homme, mari, epoux%3(noun)=soldat%4(noun)=personnage, individu%5(noun)=homme
+virag@noun!o-inis%1(noun)=guerrière
 viren@noun!s-tis%1(noun)=verdure
 virgili@noun!us-i%1(noun)=virgile
 virgult@noun!um-i%1(noun)=plante%2(noun)=buisson

@@ -175,6 +175,7 @@ cognit@adj%us-a-um
 collect@fem%a-ae
 column@fem%a-ae
 comment@adj%us-a-um
+comparat@adj%us-a-um
 complet@adj%us-a-um
 conat@adj%us-a-um
 concepti@fem%o-onis
@@ -898,6 +899,7 @@ su@adj%us-a-um
 subeund@adj%us-a-um
 sublat@adj%us-a-um
 supplici@neut%um-i
+sumpt@adj%us-a-um
 supposititi@adj%us-a-um
 suscept@adj%us-a-um
 suscitand@adj%us-a-um
@@ -974,6 +976,7 @@ vill@fem%a-ae
 vin@neut%um-i
 vincul@neut%um-i
 vir@masc%x(us)-i
+virag@fem%o-inis
 viren@neut%s-tis
 virgili@masc%us-i
 virgult@neut%um-i

@@ -174,6 +174,7 @@ bewiesen@adj%ausreichend
 bezeichnung@fem%meinfem
 beziehung@fem%meinfem
 bezug@masc%jahrzehnt
+bezuglichen@neut%inv
 bier@neut%inv
 bikkurim@neut%inv
 bild@neut%licht
@@ -544,6 +545,7 @@ gold@neut%phanomen
 goliath@masc%inv
 gotisch@adj%ausreichend
 gott@masc%inv
+gotte@masc%inv
 gottes@masc%inv
 gottlich@adj%ausreichend
 grad@neut%jahrzehnt
@@ -974,6 +976,7 @@ pause@fem%inv
 personlich@adj%ausreichend
 peinlich@adj%ausreichend
 perikles@neut%inv
+personal@neut%inv
 perversitat@neut%inv
 pessimismus@neut%inv
 pessimist@adj%meinmasc
@@ -1224,6 +1227,7 @@ sturtz@neut%meinmasc
 sturz@neut%meinmasc
 sud@neut%inv
 suden@neut%burger
+suffix@neut%inv
 suhnung@fem%meinfem
 sunde@fem%flasche
 suppe@fem%flasche
@@ -1421,6 +1425,7 @@ voller@adj%ausreichend
 vollendet@adj%ausreichend
 vorausstezung@fem%meinfem
 vorbild@neut%meer
+vorchristl@neut%inv
 vorfahre@masc%flasche
 vorgeblich@adj%ausreichend
 vorgelegt@adj%ausreichend
