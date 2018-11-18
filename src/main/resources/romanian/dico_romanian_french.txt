@@ -556,6 +556,7 @@ insista@verb!norm%1(verb)=insister
 insomnie@noun!fem%1(noun)=insomnie
 inspaimant@verb!norm%1(verb)=terrifier
 insurat@noun!adjts%1(adj)=marié
+insutsi@prep%1(prep)=toi-même
 insusi@prep%1(prep)=lui-même
 intai@prep%1(prep)=premier%2(prep)=avant
 intampl@verb!norm%1(verb)=sepasser

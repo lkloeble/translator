@@ -952,7 +952,7 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("nietzscheBookGTversuchCha6E", translatorBridge);
         checkInMaps("nietzscheBookGTversuchCha6F", translatorBridge);
         checkInMaps("nietzscheBookGTversuchCha6G", translatorBridge);
-        checkInMaps("nietzscheBookGTversuchCha6H", translatorBridge);
+        //checkInMaps("nietzscheBookGTversuchCha6H", translatorBridge);
         checkInMaps("nietzscheBookGTversuchCha6I", translatorBridge);
         checkInMaps("nietzscheBookGTversuchCha6J", translatorBridge);
         checkInMaps("nietzscheBookGTversuchCha6K", translatorBridge);
