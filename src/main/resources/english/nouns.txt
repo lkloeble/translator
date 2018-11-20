@@ -362,6 +362,7 @@ eldership@neut%normmasc
 eleventh@adj%invmasc
 elizabeth@fem%invfem
 elucidating@neut%invmasc
+eminent@adj%invmasc
 encamping@neut%normmasc
 end@fem%normfem
 enem@neut%endy
@@ -407,6 +408,7 @@ face@masc%normmasc
 facing@neut%invmasc
 famous@adj%invmasc
 fantastic@neut%invmasc
+farther@neut%invmasc
 farthest@neut%invmasc
 fastned@neut%invmasc
 fat@adj%normmasc
@@ -524,6 +526,7 @@ hard@adj%invmasc
 hardly@neut%invmasc
 harp@fem%normfem
 hatred@neut%invmasc
+haven@neut%normmasc
 havilah@neut%invmasc
 hazard@neut%normmasc
 head@neut%normfem
@@ -781,6 +784,7 @@ nation@neut%normmasc
 natural@adj%normmasc
 naturall@adj%normmasc
 nature@fem%normfem
+navigation@neut%normmasc
 nearest@neut%invmasc
 need@neut%normmasc
 needful@neut%invmasc
@@ -813,6 +817,7 @@ numbered@neut%invmasc
 o@neut%invmasc
 object@neut%normmasc
 oblation@neut%normmasc
+obscure@adj%invmasc
 observation@neut%normmasc
 occasion@neut%normmasc
 occasional@adj%normmasc
@@ -916,6 +921,7 @@ principal@adj%normmasc
 principall@adj%normmasc
 privilege@neut%normmasc
 prize@neut%normmasc
+probable@adj%invmasc
 problem@masc%normmasc
 process@masc%church
 productive@neut%normmasc
@@ -1246,6 +1252,7 @@ vol@neut%invmasc
 volume@neut%normmasc
 vote@neut%normmasc
 voyage@neut%normmasc
+vulgar@adj%invmasc
 waiter@masc%normmasc
 wales@neut%invmasc
 wall@neut%normmasc

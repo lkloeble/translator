@@ -552,9 +552,9 @@ strackp6par303=>Ein fester Turm ist der Name Jahves; dahinein eilt der Gerechte 
 
 strackp10par301=>Die ältesten Stellen, in denen der erwartete Heilskönig als "Messias" bezeichnet wird, begegnen in den vorchristl. Pseudepigraphen.
 strackp10par302=>Doch nur in Verbindung mit dem Gottesnamen (als χριστος κυριου = מְשִיחַ יהוה )[a] oder in Verbindung mit einem auf Gott bezüglichen Personalsuffix
-strackp10par303=>(als mein, dein, sein Messias);[b] das absolute „der Messias“ erst in 4. Esra und der syrischen Baruchapokalypse[c],
-strackp10par304=>zwei Schriften, die gegen 100 n. Chr. Enstanden sind.
-strackp10par305=>Dieser absolute Gebrauch des Ausdrücks hängt wohl mit dem Bestreben zus., den Gottesnamen möglichst wenig anzuwenden (Dalman 1,232f).
+strackp10par303=>(als mein, dein, sein Messias);[b] das absolute "der Messias" erst in 4. Esra und der syrischen Baruchapokalypse[c],
+strackp10par304=>zwei Schriften, die gegen 100 n. Chr. entstanden sind.
+strackp10par305=>Dieser absolute Gebrauch@N des Ausdrücks hängt wohl mit dem Bestreben zus., den Gottesnamen möglichst wenig anzuwenden (Dalman 1,232f).
 strackp10par306=>In der rabbin. Literatur findet sich von Anfang an allgemein das kurze המשיח  oder משיחא ;
 strackp10par307=>die vollere Form מְשִיחָא דָיַי fast nur in den Targumen, soweit der alttest. Text dazu Veranlassung gab[d];
 strackp10par308=>gleichfalls selten ist die Verbindung des Wortes משיה mit einem auf Gott bezüglichen Personalsuffix[e].
@@ -690,7 +690,7 @@ nietzscheBookGTversuchCha4N1=>Und was den Ursprung des tragischen Chors betrifft
 nietzscheBookGTversuchCha4N2=>wo der griechische Leib blühte, die griechische Seele von Leben überschäumte, vielleicht endemische Entzückungen?
 nietzscheBookGTversuchCha4O=>Visionen und Halluzinationen, welche sich ganzen Gemeinden, ganzen Kultversammlungen mitteilten@1 ? Wie ?
 nietzscheBookGTversuchCha4P=>wenn die Griechen, gerade im Reichtum ihrer Jugend, den Willen zum Tragischen hatten und Pessimisten waren@V?
-nietzscheBookGTversuchCha4Q=>wenn es gerade der Wahnsinn war, um ein Wort Platos zu gebrauchen, der die größten Segnungen über |Hellas| gebracht hat?
+nietzscheBookGTversuchCha4Q=>wenn es gerade der Wahnsinn war, um ein Wort Platos zu gebrauchen@V, der die größten Segnungen über |Hellas| gebracht hat?
 nietzscheBookGTversuchCha4R1=>Und wenn, andererseits und umgekehrt, die Griechen gerade in den Zeiten ihrer Auflösung und Schwäche immer optimistischer,
 nietzscheBookGTversuchCha4R2=>oberflächlicher, schauspielerischer, auch nach Logik und Logisierung der Welt brünstiger,
 nietzscheBookGTversuchCha4R3=>also zugleich "heiterer" und "wissenschaftlicher" wurden@V? Wie?

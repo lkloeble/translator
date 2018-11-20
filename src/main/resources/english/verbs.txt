@@ -16,6 +16,7 @@ apply,[live],(PAP*apply*applie*0)
 appoint,[call]
 apprehend,[call]
 arise,[live],(AIP*arised*arose*0)
+ascribe,[live]
 ask,[call]
 assert,[call]
 assign,[call]
@@ -76,6 +77,7 @@ complete,[live]
 compose,[live]
 comprehend,[call]
 comprise,[live],(PAPR*compriseing*comprising*0)
+compute,[live]
 conceive,[live]
 concern,[live],(PAP*concernd*concerned*0)
 conclude,[live]
@@ -210,6 +212,7 @@ maintain,[call]
 may,[live],(IPR*mays*may*0@AIP*mayd*might*0)
 marry,[live],(PAP*marryd*married*0)
 mean,[live],(PAP*meand*meant*0)
+measure,[live],(PAPR*measure*measur*0)
 meet,[live]
 melt,[call]
 mention,[call]

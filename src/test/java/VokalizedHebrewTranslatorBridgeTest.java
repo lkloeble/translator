@@ -787,6 +787,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "'h58lw331m000@noun!mascot%1(noun)=rêve",
                 "'hmh@noun!invfem%1(noun)=soleil",
                 "'htm@verb!norm%1(verb)=sceller%2(verb)=signer%3(verb)=finir",
+                "'hsk@verb!norm%1(verb)=obscurcir",
                 "'htswt@noun!invmasc%1(noun)=milieu de la nuit",
                 "xym@noun!im%1(noun)=goût",
                 "xrpwn000@noun!invpur%1(noun)=tarfon",
@@ -997,6 +998,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "yzrih@noun!invpur%1(noun)=azarya",
                 "yl@prep%1(prep)=en faveur de%2(prep)=au dessus de%3(noun)=sur",
                 "y63l@prep%1(prep)=en faveur de%2(prep)=au dessus de%3(noun)=sur",
+                "ylinw@prep%1(prep)=sur nous",
                 "ybd@verb!norm%1(verb)=servir",
                 "ybr@verb!norm%1(verb)=traverser",
                 "ylh@verb!norm%1(verb)=grandir%2(verb)=couter%3(verb)=selever",
@@ -1152,6 +1154,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "psd,hpsid,[hiphil],(HIFPER%substitute(4:5:9)%hpsd*hpsid)",
                 "hr'hiq,hr'hiq,[paal]",
                 "'htm,'htwm,[paal]",
+                "'hsk,,[paal]",
                 "xbl,,[paal]",
                 "xhr,hixhr,[nifal]",
                 "xma,,[nifal]",
@@ -1482,6 +1485,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "y63d@prep()",
                 "yl@prep()",
                 "y63l@prep()",
+                "ylinw@prep()",
                 "ym@prep()",
                 "y60m@prep()",
                 "ym000@prep()",
@@ -2261,7 +2265,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failed_ones() {
         assertTrue(true);
-        checkInMaps("sheilamoreiF", translatorBridge);
+        checkInMaps("engbavli1Arightmain6", translatorBridge);
         //checkInMaps("toto", translatorBridge);
         //checkInMaps("totoacc", translatorBridge);
     }

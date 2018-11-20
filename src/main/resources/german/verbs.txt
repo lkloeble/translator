@@ -11,6 +11,7 @@ antwort,en,[wenden]
 anzuhor,en,[leben],(PAPR*anzuhor*anzuhorend*0)
 anzuseh,en,[leben],(PAPR*anzuseh*anzusehend*0)
 anzustell,en,[leben],(PAPR*anzustell*anzustellend*0)
+anzuwend,en,[leben]
 anzuzweif,eln,[sammeln]
 auffind,en,[leben],(PAPR*auffind*auffindend*0)
 aufbau,en,[leben],(PAP*aufbaut*aufgebaut*0)
@@ -198,6 +199,7 @@ herrsch,en,[leben]
 hervortret,en,[leben],(PAP*hervortret*hervortrat*0)
 hinder,n,[leben]
 hinstell,en,[leben],(PAP*hinstell*hingestellt*0)
+hinweis,en,[genesen],(AII*hinweis*hinwies*0)
 hor,en,[leben],(PAPR*hor*horend*0@PAP*hor*gehort*0)
 informier,en,[leben]
 innewerd,en,[werden]
