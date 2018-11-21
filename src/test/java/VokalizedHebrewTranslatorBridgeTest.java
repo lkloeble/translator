@@ -1154,7 +1154,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "psd,hpsid,[hiphil],(HIFPER%substitute(4:5:9)%hpsd*hpsid)",
                 "hr'hiq,hr'hiq,[paal]",
                 "'htm,'htwm,[paal]",
-                "'hsk,,[paal]",
+                "'hsk,'hswk,[paal]",
                 "xbl,,[paal]",
                 "xhr,hixhr,[nifal]",
                 "xma,,[nifal]",
@@ -2265,7 +2265,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failed_ones() {
         assertTrue(true);
-        checkInMaps("engbavli1Arightmain6", translatorBridge);
+        checkInMaps("bereshit1E", translatorBridge);
         //checkInMaps("toto", translatorBridge);
         //checkInMaps("totoacc", translatorBridge);
     }
