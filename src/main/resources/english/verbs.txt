@@ -165,6 +165,7 @@ getup,[live]
 give,[live],(PAP*gived*given*0@AIP*gived*gave*0@PAPR*give*giv*0)
 go,[live],(AIP*god*went*0@IPR2*gos*goes*0@PAP*god*went*0@AII*god*went*0)
 govern,[live]
+grant,[call]
 grow,[live],(PAP*growd*grown*0)
 guard,[call]
 guess,[teach]

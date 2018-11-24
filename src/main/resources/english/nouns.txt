@@ -316,6 +316,7 @@ dissolveth@neut%invmasc
 distance@fem%normfem
 distant@neut%invmasc
 distinction@neut%normmasc
+district@neut%normmasc
 divine@adj%normmasc
 division@fem%normfem
 doctor@neut%normmasc
@@ -1190,6 +1191,7 @@ toil@neut%invmasc
 tomb@neut%normmasc
 tongue@neut%normmasc
 torment@neut%normmasc
+total@adj%invmasc
 tower@neut%normmasc
 town@fem%normfem
 tract@masc%normmasc

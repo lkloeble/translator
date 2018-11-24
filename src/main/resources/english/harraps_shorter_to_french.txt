@@ -483,6 +483,7 @@ distance@noun!normfem%1(noun)=distance
 distant@noun!invmasc%1(noun)=distant
 distinguish@verb!norm%1(verb)=distinguer
 distinction@noun!normmasc%1(noun)=distinction
+district@noun!normmasc%1(noun)=quartier
 distrust@verb!norm%1(verb)=semefier
 divide@verb!norm%1(verb)=diviser
 divine@noun!normmasc%1(noun)=divin
@@ -742,15 +743,16 @@ gospel@noun!normmasc%1(noun)=évangile
 got@prep%1(prep)=[x]
 govern@verb!norm%1(verb)=gouverner
 grandson@noun!normmasc%1(noun)=petit-fils
+grant@verb!norm%1(verb)=accorder
 grass@noun!invmasc%1(noun)=herbe%2(noun)=pelouse
 great@noun!invmasc%1(noun)=important
 greater@noun!invmasc%1(noun)=plus grand
 greatest@noun!invmasc%1(noun)=le plus grand
 greatly@prep%1(prep)=grandement
 greek@noun!normmasc%1(noun)=grec
+grove@noun!normmasc%1(noun)=plantation%2(noun)=plantation
 green@noun!invmasc%1(noun)=vert
 ground@noun!normmasc%1(noun)=sol
-grove@noun!normmasc%1(noun)=plantation%2(noun)=plantation
 grow@verb!norm%1(verb)=pousser
 guard@verb!norm%1(verb)=garder
 guess@verb!norm%1(verb)=deviner
@@ -1754,6 +1756,7 @@ too@prep%1(prep)=trop%2(prep)=aussi
 toomany@prep%1(prep)=trop de
 toomuch@prep%1(prep)=trop de
 torment@noun!normmasc%1(noun)=tourment
+total@adj!invmasc%1(adj)=total
 touch@verb!norm%1(verb)=toucher
 toward@prep%1(prep)=vers
 towards@prep%1(prep)=vers
