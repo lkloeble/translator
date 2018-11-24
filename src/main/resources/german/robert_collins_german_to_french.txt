@@ -53,6 +53,7 @@ alt@noun!ausreichend%1(adj)=vieux
 altar@noun!phanomen%1(noun)=autel
 alter@noun!ausreichend%1(adj)=plus vieux
 altest@adj!ausreichend%1(adj)=le plus vieux
+alttest@adj!ausreichend%1(adj)=vétéro-testamentaire
 am@prep%1(prep)=au
 amerikanisch@adj!ausreichend%1(adj)=américain
 amtsbezeichnung@noun!inv%1(noun)=qualité%2(noun)=titre
@@ -74,6 +75,7 @@ angehor@verb!norm%1(verb)=appartenir
 angesehn@noun!inv%1(noun)=considéré
 angst@noun!angst%1(noun)=peur
 anhanglichkeit@noun!meinfem%1(noun)=attachement
+anknupf@verb!norm%1(verb)=rattacher
 anlehnung@noun!meinmasc%1(noun)=dépendance%2(noun)=modèle
 anm@noun!inv%1(noun)=nb
 anruf@verb!norm%1(verb)=appeler
@@ -857,6 +859,7 @@ glaub@verb!norm%1(verb)=croire
 glaubwurdig@adj!ausreichend%1(adj)=crédible
 glaubwurdiger@adj!ausreichend%1(adj)=plus crédible
 gleich@adj!ausreichend%1(adj)=identique%(adj)=égal
+gleichfalls@prep%1(prep)=également
 gleichzeitig@adj!ausreichend%1(adj)=simultané
 gluck@noun!flasche%1(noun)=chance
 gn@noun!inv%1(noun)=gn
@@ -977,7 +980,9 @@ hoch@adj!inv%1(adj)=haut
 hochmutig@adj!ausreichend%1(adj)=arrogant
 hochst@adj!ausreichend%1(adj)=le plus haut
 hochzeit@noun!norm%1(noun)=noce
+hoff@verb!norm%1(noun)=esperer
 hoffmann@noun!inv%1(noun)=hoffmann
+hoffnung@noun!meinfem%1(noun)=espérance
 hoh@adj!ausreichend%1(adj)=haut
 hoher@adj!ausreichend%1(adj)=plus haut
 hollander@noun!arbeiter%1(noun)=hollandais
@@ -1680,6 +1685,7 @@ seit@prep%1(prep)=pour%2(prep)=depuis
 sekretarin@noun!inv%1(noun)=secrétaire
 selbst@prep%1(prep)=soi-même
 selbstandig@adj!ausreichend%1(adj)=indépendant
+selten@prep%1(prep)=rarement
 seltne@adj!inv%1(adj)=rare
 send@verb!norm%1(verb)=envoyer
 sensibilitat@noun!inv%1(noun)=sensibilité
@@ -1810,6 +1816,7 @@ tanz@noun!phanomen%1(noun)=danse
 tapferkeit@noun!meinfem%1(noun)=courage
 tapferst@adj!ausreichend%1(noun)=le plus courageux
 targ@noun!inv%1(noun)=targ
+targum@noun!meinmasc%1(noun)=targoum
 tat@noun!inv%1(noun)=effet
 tatigkeit@noun!meinfem%1(noun)=activité
 tauf@verb!norm%1(surf)=baptiser
@@ -1961,6 +1968,7 @@ vaterschaft@noun!meinfem%1(noun)=paternité
 verabredung@noun!meinmasc%1(noun)=rendez-vous
 verachtung@noun!inv%1(noun)=mépris%2(noun)=dédain
 verandert@adj!ausreichend%1(adj)=modifié
+veranlassung@noun!meinfem%1(noun)=raison
 verarmung@noun!inv%1(noun)=appauvrissement
 verberg@verb!norm%1(verb)=cacher
 verbind@verb!norm%1(verb)=relier
@@ -1981,6 +1989,7 @@ verfasser@noun!norm%1(noun)=auteur
 verfuhrendst@adj!ausreichend%1(adj)=plus séduisant
 verfuhrerei@noun!inv%1(noun)=séduction
 vergess@verb!norm%1(verb)=oublier
+vergottlich@adj!ausreichend%1(adj)=adorateur
 vergrubelt@noun!inv%1(noun)=couvé
 verhalt@verb!norm%1(verb)=agir
 verhaltnis@noun!erkenntnis%1(noun)=relation adultère%2(noun)=relation

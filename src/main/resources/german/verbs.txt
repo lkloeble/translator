@@ -6,6 +6,7 @@ ander,n,[leben],(PAPR*ander*anderend*0)
 anerkenn,en,[leben],(PAP*anerke*anerka*0)
 anfang,en,[leben],(PAPR*anfang*anfangend*0)
 angehor,en,[leben],(PAPR*angehor*angehorend*0)
+anknupf,en,[leben]
 anruf,en,[leben],(PAPR*anruf*anrufend*0)
 antwort,en,[wenden]
 anzuhor,en,[leben],(PAPR*anzuhor*anzuhorend*0)
@@ -167,7 +168,7 @@ fug,en,[leben]
 fuhl,en,[leben]
 full,en,[leben]
 garantier,en,[leben]
-geb,en,[rufen],(IPR124*geb*gib*0@AII*geb*gab*0@ASI*geb*gab*0@AIP*geb*gab*0)
+geb,en,[rufen],(IPR124*geb*gib*0@AIP*geb*gab*0@ASI*geb*gab*0@AIP*geb*gab*0)
 gebar,en,[leben],(IPR12*gebar*gebier*0@PAP*gebar*geboren*0)
 gebrauch,en,[leben],(PAPR*gebrauch*gebrauchend*0)
 geh,en,[lassen],(PAPR*geh*gehend*0@AIP*geh*ging*0@PAP*geh*gegang*0)
@@ -200,6 +201,7 @@ hervortret,en,[leben],(PAP*hervortret*hervortrat*0)
 hinder,n,[leben]
 hinstell,en,[leben],(PAP*hinstell*hingestellt*0)
 hinweis,en,[genesen],(AII*hinweis*hinwies*0)
+hoff,en,[leben]
 hor,en,[leben],(PAPR*hor*horend*0@PAP*hor*gehort*0)
 informier,en,[leben]
 innewerd,en,[werden]

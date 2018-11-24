@@ -763,6 +763,19 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     }
 
     @Test
+    public void test_filocalia1_antonie3() {
+        checkInMaps("filocaliaantonie3A", translatorBridge);
+        checkInMaps("filocaliaantonie3B", translatorBridge);
+        checkInMaps("filocaliaantonie3C", translatorBridge);
+        checkInMaps("filocaliaantonie3D", translatorBridge);
+        checkInMaps("filocaliaantonie3E", translatorBridge);
+        checkInMaps("filocaliaantonie3F", translatorBridge);
+        checkInMaps("filocaliaantonie3G", translatorBridge);
+        checkInMaps("filocaliaantonie3H", translatorBridge);
+
+    }
+
+    @Test
     public void test_boca1() {
         checkInMaps("bocaseumplu7A", translatorBridge);
         checkInMaps("bocaseumplu7B", translatorBridge);

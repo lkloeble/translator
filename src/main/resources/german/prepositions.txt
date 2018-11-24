@@ -134,6 +134,7 @@ genug@prep()
 gerade@prep()
 gern@prep()%[switchWithInfinitiveForm,verbLeadingPreposition]
 gewohnlich@prep()
+gleichfalls@prep()
 grundlich@prep()
 guten@prep()%[gutenTagReplace,gutenAbendReplace,gutenMorgenReplace]
 gutentag@prep()
@@ -231,6 +232,7 @@ seinen@prep()
 seiner@prep()
 seit@prep()
 selbst@prep()
+selten@prep()
 sie@prep()%!article!
 sich@prep()
 sicher@prep()

@@ -556,8 +556,51 @@ strackp10par303=>(als mein, dein, sein Messias);[b] das absolute "der Messias" e
 strackp10par304=>zwei Schriften, die gegen 100 n. Chr. entstanden sind.
 strackp10par305=>Dieser absolute Gebrauch@N des Ausdrücks hängt wohl mit dem Bestreben zus., den Gottesnamen möglichst wenig anzuwenden (Dalman 1,232f).
 strackp10par306=>In der rabbin. Literatur findet sich von Anfang an allgemein das kurze המשיח  oder משיחא ;
-strackp10par307=>die vollere Form מְשִיחָא דָיַי fast nur in den Targumen, soweit der alttest. Text dazu Veranlassung gab[d];
-strackp10par308=>gleichfalls selten ist die Verbindung des Wortes משיה mit einem auf Gott bezüglichen Personalsuffix[e].
+strackp10par307=>die vollere Form מְשִיחָא דָיַי fast nur in den Targumen, soweit der alttest. Text dazu Veranlassung gab [d];
+strackp10par308=>gleichfalls selten ist die Verbindung des Wortes משיה mit einem auf Gott bezüglichen Personalsuffix [e].
+strackp10par309=>A : ps Sal 17,32 : (Der verheißene Davidide herrscht als) gerechter König, von Gott unterwiesen,
+strackp10par310=>über sie, und in seinem Tagen geschieht kein Unrecht unter ihnen, weil sie elle heilig sind,
+strackp10par311=>und ihr König der Messias (Gesalbte) des Herrn ist, και βασιλευς αυτων χριστος κυριου
+strackp10par312=>(so ist zu lesen statt χριστος κυριος).
+strackp10par313=>|| Das I8,6 f. : Selig, wer in jenen Tagen leben wird u. schauen darf das Heil des Herrn,
+strackp10par314=>das er dem kommenden Geschlechte schafft unter der Zuchtrute des Messias des Herrn χριστου κυριου in der Furcht seines Gottes.
+strackp10par315=>B : Ps Sal 18,5 : Gott, reinige Israel auf den Tag der heilsamen Gnade, auf den Tag der Auswahl εις ημεραν εκλογης,
+strackp10par316=>wenn sein Messias χριστου αυτου zur Herrschaft kommt.
+strackp10par317=>|| Henoch 48,10 : Niemand wird da sein, der sie (die Könige und Mächtigen der Erde) in seine Hände nähme und aufrichtete,
+strackp10par318=>weil sie den Herrn der Geister und seinen Messias (Gesalbten) verleugnet haben.
+strackp10par319=>|| Das 52,4 : Der Engel sprach zu mir (Enoch) : Alles dies, was du gesehen hast,
+strackp10par320=>dient der Herrschaft seines Messias (Gesalbten) damit er mächtig u. stark auf Erden sei.
+strackp10par321=>– Einige Beispiele aus späterer Zeit s. Anm c.
+strackp10par322=>C : 4 Esra 7,28 f : Mein Sohn, der Messias (filius meus Messias, so Syr und Arab 1; das lat. ‚Jesus‘ ist Christl. Korrektur),
+strackp10par323=>wird sich offenbaren samt allen bei ihm (wie Henoch, Mose, Esra, Elias) und wird den Übergebliebenen Freude geben,
+strackp10par324=>400 Jahre lang. Nach diesen Jahren wird mein Sohn, der Messias (filius meus Christus),
+strackp10par325=>sterben und alle, die Menschenodem haben.
+strackp10par326=>|| Das 12,32 : (Der Löwe …) das ist der Messias (Unctus) den „der Höchste bewahrt für das Ende der Tage,
+strackp10par327=>der aus den Samen Davids erstehn und auftreten wird.
+strackp10par328=>|| Apoc Bar 29,3 : Nachdemm das, was sich in jenen Abschnitten ereignen wird, vollendet ist,
+strackp10par329=>wird der Messias (Messias) anfangen sich zu offenbaren.
+strackp10par330=>Das 30,1 : Danach, wenn die Zeit der Ankunft des Messias (tempus adventus Messiae) sich vollendet,
+strackp10par331=>wird er in Herrlichkeit (in den Himmel) zurückkehren.
+strackp10par332=>|| In Verbindung mit einem Personnalsuffix liest man Messias Apoc Bar 39,7
+strackp10par333=>: und wenn die Zeit seines (des 4 Weltreichs) Endes herbeigekommen ist, daß es zu Falle kommen wird,
+strackp10par334=>alsdann wird sich die Herrschaft meines Messias (Messiae mei) offenbaren.
+strackp10par335=>| Das 40,1 : sir werden ihn (den letzteu Regenten des 4 Weltreichs) auf den Berg Zion hinaufschaffen,
+strackp10par336=>und mein Messias (Messias meus) wird ihn zur Rede stellen wegen aller seiner Freveltaten …
+strackp10par337=>| Das 72,2 : Nachdem die Wunderzeichen, von denen früher zu dir (Baruch) geredet worden ist, gekommen sein werden.
+strackp10par338=>– Wenn die Völker in Verwirrung versetzt werden und die Zeit meines Messias (Messiae mei) kommen wird
+strackp10par339=>– da wird er alle  Völker berufen, und einige wird er am Leben erhalten und einige töten.
+strackp10par340=>D : zB Targ zu Jes 28,5;4,2
+strackp10par341=>E : Gebet Habinenu : Es mögen die Gerechten sich freuen… über das Sprossen des Horns für David, deinen Knecht,
+strackp10par342=>und über die Herrichtung einer Leuchte für den Sohn Isais, deinen Messias . Ähnlich im Musaphgebet für den Neujahrstag
+strackp10par343=>(bei Dalman 1,306) „Dein Messias“ auch Targ 2 Sm 22,32; Ps 18,32;89,52; Hab 3,13.18.
+strackp10par344=>|| Im Qaddisch des Gottesdienstes (Dalman 1 305) heißt es : Es möge sprossen seine (Gottes) Erlösung und sein Messias nahen und sein Volk erlösen.
+strackp10par345=>– In Qaddisch der Rabannan : Er möge den Termin des Reiches seines Messias beschleunigen und sein Volk erlösen
+strackp10par346=>– „Sein Messias“ auch Targ 1 Sm 2,10; 2 Sm 22,51; Ps 2,2; 18,51; Sach 4,7;10,4. Von „ihrem“,
+strackp10par347=>d.h. Israels Messias wird gesprochen Targ Jes 53,10; Jer 30,21;Hos 14,8;
+
+
+
+
 
 genesis1A=>Am Anfang@n schuf Gott Himmel und Erde.
 genesis1B=>Und die Erde war wüst und leer, und es war finster auf der Tiefe; und der Geist Gottes schwebte auf dem Wasser.

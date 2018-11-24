@@ -37,9 +37,10 @@ allergisch@adj%norm
 almosen@neut%zeichen
 alpen@fem%inv
 alt@adj%ausreichend
-alter@adj%ausreichend
 altar@masc%phanomen
+alter@adj%ausreichend
 altest@adj%ausreichend
+alttest@neut%inv
 amerikanisch@adj%ausreichend
 amtsbezeichnung@fem%inv
 analytisch@adj%ausreichend
@@ -620,6 +621,7 @@ hinsicht@fem%meinfem
 hintersinn@fem%inv
 hoch@adj%inv
 hochmutig@adj%ausreichend
+hoffnung@fem%meinfem
 hoh@adj%ausreichend
 hoher@adj%ausreichend
 hochst@adj%ausreichend
@@ -1246,6 +1248,7 @@ tanz@masc%phanomen
 tapferkeit@fem%meinfem
 tapferst@adj%ausreichend
 targ@neut%inv
+targum@neut%meinmasc
 tat@neut%inv
 tatigkeit@fem%meinfem
 tauglich@adj%ausreichend
@@ -1363,6 +1366,7 @@ vaterschaft@fem%meinfem
 verabredung@masc%meinmasc
 verachtung@neut%inv
 verandert@adj%ausreichend
+veranlassung@fem%meinfem
 verarmung@neut%inv
 verbindung@masc%meinmasc
 verborgenheit@masc%meinmasc
@@ -1377,6 +1381,7 @@ verfanglich@adj%ausreichend
 verfasser@masc%norm
 verfuhrendst@adj%ausreichend
 verfuhrerei@neut%inv
+vergottlich@adj%ausreichend
 vergrubelt@neut%inv
 verhaltnis@neut%erkenntnis
 verhaltnismassig@neut%inv
