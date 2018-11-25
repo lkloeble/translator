@@ -77,7 +77,7 @@ avites@neut%invmasc
 babylonian@adj%normmasc
 babylon@neut%invmasc
 babylone@neut%invmasc
-backs@neut%invmasc
+back@neut%normmasc
 bacon@neut%invmasc
 baptism@neut%invmasc
 bar@neut%normmasc
@@ -131,6 +131,7 @@ brethren@neut%invmasc
 bridge@masc%normmasc
 britain@neut%invmasc
 british@neut%invmasc
+broad@adj%invmasc
 bronze@neut%invmasc
 brother@masc%normmasc
 bronwen@neut%invmasc
@@ -178,9 +179,11 @@ character@neut%normmasc
 charles@masc%invmasc
 cheese@masc%normmasc
 cherubim@masc%invmasc
+chief@masc%normmasc
 child@masc%child
 chip@neut%normmasc
 chore@neut%invmasc
+chorographical@adj%invmasc
 christ@masc%invmasc
 christian@masc%normmasc
 chronicle@masc%normmasc
@@ -1140,6 +1143,7 @@ superfic@fem%endy
 suppl@fem%endy
 sure@neut%invmasc
 sweat@neut%invmasc
+swelling@neut%normmasc
 sword@fem%normfem
 syrian@neut%normmasc
 table@neut%normmasc
