@@ -291,7 +291,7 @@ etredisponible@NORM%[INFINITIVE]=[être disponible]%[IPR]=[suis disponible,es di
 etrefaible@NORM%[INFINITIVE]=[être faible]%[IPR]=[suis faible,es faible,est faible,sommes faibles,êtes faibles,sont faibles]%[AII]=[étais faible,étais faible,était faible,étions faibles,étiez faibles,étaient faibles]%[ACAOIN]=[fus faible,fus faible,fut faible,fûmes faibles,fûtes faibles,furent faibles]
 etremodeste@NORM%[INFINITIVE)=[être modeste]%[IPR]=[suis modeste,es modeste,est modeste,sommes modestes,êtes modestes,sont modestes]%[AII]=[étais modeste,étais modeste,était modeste,étions modestes,étiez modestes,étaient modestes]
 etreouvert@NORM%[INFINITIVE]=[être ouvert]%[IPR]=[suis ouvert,es ouvert,est ouvert,sommes ouverts,êtes ouverts,sont ouverts]%[AII]=[étais ouvert,étais ouvert,était ouvert,étions ouverts,étiez ouvert,étaient ouverts]
-etrepurifie@NORM%[INFINITIVE]=[être purifié]%[IPR]=[suis purifié,es purifié,est purifié,sommes purifiés,êtes purifiés,sont purifiés]
+etrepurifie@NORM%[INFINITIVE]=[être purifié]%[IPR]=[suis purifié,es purifié,est purifié,sommes purifiés,êtes purifiés,sont purifiés]%[AIP]=[fus purifié,fus purifié,fut purifié,fûmes purifiés,fûtes purifiés,furent purifiés]
 etresaindesprit@NORM%[INFINITIVE]=[être sain d'esprit]%[PRESACTPART]=[qui sont saines d'esprit]
 etresur@NORM%[INFINITIVE]=[être sur]%[IPR]=[suis sur,es sur,est sur,sommes sur,êtes sur,sont sur]%[PEACIN]=[suis sur,es sur,est sur,sommes sur,êtes sur,sont sur]
 etretrouve@NORM%[INFINITIVE]=[être trouvé]%[IPR]=[suis trouvé,es trouvé,est trouvé,sommes trouvés,êtes trouvés,sont trouvés]
