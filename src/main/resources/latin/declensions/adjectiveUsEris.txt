@@ -4,6 +4,9 @@ nom%sing%neut%us
 gen%sing%masc%eris
 gen%sing%fem%eris
 gen%sing%neut%eris
+dat%sing%masc%eri
+dat%sing%fem%eri
+dat%sing%neut%eri
 abl%sing%neut%ere
 abl%sing%masc%ere
 abl%sing%fem%ere
@@ -13,6 +16,9 @@ nom%plr%neut%era
 abl%plr%neut%eribus
 abl%plr%masc%eribus
 abl%plr%fem%eribus
+dat%plr%neut%eribus
+dat%plr%masc%eribus
+dat%plr%fem%eribus
 acc%plr%masc%eres
 acc%plr%fem%eres
 acc%plr%neut%era

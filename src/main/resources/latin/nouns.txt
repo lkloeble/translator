@@ -227,6 +227,7 @@ cupidit@fem%as-atis
 cur@fem%a-ae
 cynthia@fem%inv
 damn@neut%um-i
+damnand@adj%us-a-um
 damnat@adj%us-a-um
 danuvi@masc%us-i
 dat@adj%us-a-um
@@ -445,6 +446,7 @@ inferi@adj%or-or-us
 infirm@adj%us-a-um
 informati@fem%o-onis
 ingeni@neut%um-i
+inhonest@adj%us-a-um
 inimic@masc%us-i
 initi@neut%um-i
 innocenti@fem%a-ae
@@ -658,6 +660,7 @@ orien@adj%s-s-s
 oriund@adj%us-a-um
 ornat@masc%us-us
 ort@adj%us-us
+os@neut%x-sis
 osti@masc%um-i
 ostre@fem%a-ae
 oti@neut%um-i
@@ -799,6 +802,7 @@ resarcitum@masc%inv
 resciss@adj%us-a-um
 respons@neut%um-i
 resurgen@adj%s-s-s
+resurrecti@fem%o-onis
 rhen@masc%us-i
 rhod@masc%us-i
 rhodan@masc%us-i
@@ -942,6 +946,7 @@ tub@fem%a-ae
 tuend@adj%us-a-um
 tuling@masc%us-i
 turb@fem%a-ae
+turpitud@fem%o-inis
 tuscul@masc%um-i
 tyr@masc%us-i
 tyrann@masc%us-i
@@ -957,6 +962,7 @@ unumquodque@neut%inv
 urb@fem%s-is
 urs@masc%us-i
 us@adj%us-a-um
+uxor@fem%x-is
 vacu@adj%us-a-um
 vari@adj%us-a-um
 vas@neut%x-is

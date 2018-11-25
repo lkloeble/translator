@@ -31,7 +31,10 @@ adimpleo@verb!norm%1(verb)=accomplir%2(verb)=remplir
 adimplet@adj!us-a-um%1(adj)=accompli
 adipat@noun!um-i%1(noun)=pâtisserie
 adiutori@noun!um-i%1(noun)=aide
+adhereo@verb!norm%1(verb)=separer
+adhibeo@verb!norm%1(verb)=inviter%2(verb)=employer%3(verb)=resister%4(verb)=etendre
 adjugo@verb!norm%1(verb)=reunir
+adjungo@verb!norm%1(verb)=ajouter
 adjuvo@verb!norm%1(verb)=aider
 adhuc@prep%1(prep)=jusqu'à maintenant
 adorand@adj!us-a-um%1(adj)=adoré
@@ -261,6 +264,7 @@ comparat@adj!us-a-um%1(adj)=préparé%2(noun)=comparé
 comparo@verb!norm%1(verb)=comparer%2(verb)=assembler
 compleo@verb!norm%1(verb)=accomplir
 complet@adj!us-a-um%1(adj)=rassasié%2(adj)=complété%3(adj)=terminé
+comprehendo@verb!norm%1(verb)=saisir
 conat@adj!us-a-um%1(adj)=essayé
 concepti@noun!o-onis%1(noun)=idée%2(noun)=notion%3(noun)=concept
 conciliatur@adj!us-a-um%1(adj)=sur le point de s'unir
@@ -352,6 +356,7 @@ cur@noun!a-ae%1(noun)=attention
 custodio@verb!norm%1(verb)=garder
 cynthia@noun!inv%1(noun)=cynthia
 damn@noun!um-i%1(noun)=perte%2(noun)=blessure
+damnand@adj!us-a-um%1(adj)=qui va être condamné
 damnat@adj!us-a-um%1(adj)=condamné
 danuvi@noun!us-i%1(noun)=danube
 dat@adj!us-a-um%1(adj)=offert%2(adj)=donné
@@ -705,9 +710,11 @@ incitat@adj!us-a-um%1(adj)=incité
 inclino@verb!norm%1(verb)=incliner
 incipio@verb!norm%1(verb)=demarrer
 incolo@verb!norm%1(verb)=cultiver%2(verb)=resider
+incurro@verb!norm%1(verb)=attaquer%2(verb)=courirvers
 incredibil@adj!is-is-e%1(noun)=incroyable
 inde@prep%1(prep)=depuis ici
 indici@noun!um-i%1(noun)=découverte%2(noun)=preuve%3(noun)=information
+indifferenter@prep%1(prep)=indifférement
 indigeo@verb!norm%1(verb)=avoir besoin%2(verb)=desirer
 indign@adj!us-a-um%1(adj)=indigne
 induco@verb!norm%1(verb)=conduire dans,contre,vers%2(verb)=faire avancer%3(verb)=appliquer sur,recouvrir%4(verb)=etendre%5(verb)=prendre en compte,inscrire%6(verb)=se resoudre a,se mettre dans l'idee que%7(verb)=representer,mettre en scene%8(verb)=conduire
@@ -721,6 +728,7 @@ infirm@adj!us-a-um%1(adj)=infirme
 informati@noun!o-onis%1(noun)=conception%2(noun)=idée
 informo@verb!norm%1(verb)=former
 ingeni@noun!um-i%1(noun)=génie%2(noun)=talent%3(noun)=intelligence%4(noun)=tempérament%5(noun)=caractère
+inhonest@adj!us-a-um%1(adj)=honteux
 inimic@noun!us-i%1(noun)=ennemi
 initi@noun!um-i%1(noun)=commencement
 inlumino@verb!norm%1(verb)=illuminer
@@ -885,6 +893,7 @@ meas@prep%1(prep)=mes
 med@noun!us-i%1(noun)=medus
 medi@adj!us-a-um%1(noun)=milieu
 mei@prep%1(prep)=mes
+meis@prep%1(prep)=mes
 melit@noun!a-ae%1(noun)=malte
 memoro@verb!o-as%1(verb)=sesouvenir
 men@noun!s-tis2%1(noun)=esprit
@@ -1031,6 +1040,7 @@ oriund@adj!us-a-um%1(adj)=originaire de
 ornat@noun!us-us%1(noun)=décoration%2(noun)=appareillage
 ort@adj!us-us%1(adj)=lever de soleil
 orno@verb!norm%1(verb)=orner
+os@noun!x-sis%1(noun)=os
 ostendo@verb!norm%1(verb)=tendre en avant%2(verb)=mettre en vant,faire voir%3(verb)=presenter,exhiber,exposer%4(verb)=montrer2
 osti@noun!um-i%1(noun)=estuaire%2(noun)=entrée%3(noun)=porte
 ostre@noun!a-ae%1(noun)=huitre
@@ -1087,6 +1097,7 @@ peristyl@noun!um-i%1(noun)=cour intérieure
 permitto@verb!o-is%1(verb)=lancer d'un point a un autre, jusqu'a un but%2(verb)=faire aller jusqu'a un but, laisser aller%3(verb)=remettre, abandonner%4(verb)=laisser libre, permettre%5(verb)=permettre
 perfect@adj!us-a-um%1(adj)=accompli
 permot@adj!us-a-um%1(adj)=excité%2(adj)=agité
+pernego@verb!norm%1(verb)=refuser
 pernici@noun!es-ei%1(noun)=désastre%2(noun)=ruine
 perniciosi@adj!or-or-us%1(adj)=plus destructif
 perpauc@adj!us-a-um%1(adj)=très peu
@@ -1238,6 +1249,7 @@ qint@noun!us-i%1(noun)=quintus
 quint@noun!us-a-um%1(noun)=cinquième
 quippe@prep%1(prep)=bien sur,oui certes%2(prep)=de fait,le fait est que%3(prep)=puisque%4(prep)=certainement
 quis@prep%1(prep)=qui
+quisquis@prep%1(prep)=celui qui%2(prep)=ce qui
 quocumque@prep%1(adv)=quoi que vous fassiez
 quoniam@prep%1(prep)=puisque%2(prep)=depuis que
 quosdam@prep%1(prep)=quelques uns
@@ -1254,6 +1266,7 @@ recitati@noun!o-onis%1(noun)=lecture
 rect@adj!us-a-um%1(adj)=droit
 redimo@verb!norm%1(verb)=racheter
 rediti@noun!o-onis%1(noun)=retour
+refero@verb!norm%1(verb)=porter
 regin@noun!a-ae%1(noun)=reine
 regenerati@noun!o-onis%1(noun)=régénération
 regio@noun!x-nis%1(noun)=sol%2(noun)=région%3(noun)=frontière%4(noun)=direction
@@ -1283,6 +1296,7 @@ resto@verb!norm%1(verb)=demeurer%2(verb)=rester
 resulto@verb!norm%1(verb)=retentir
 resurgen@adj!s-s-s%1(adj)=ressuscité
 resurgo@verb!norm%1(verb)=ressusciter
+resurrecti@noun!o-onis%1(noun)=resurrection
 rideo@verb!norm%1(verb)=rire
 rhen@noun!us-i%1(noun)=rhin
 rhod@noun!us-i%1(noun)=rhodes
@@ -1387,6 +1401,7 @@ simulo@verb!norm%1(verb)=simuler
 sine@prep%1(prep)=sans
 singul@adj!us-a-um%1(adj)=tous%2(adj)=chaque
 sinistr@noun!a-ae%1(noun)=gauche
+sino@verb!norm%1(verb)=permettre
 sitio@verb!norm%1(verb)=avoirsoif
 soci@noun!us-a-um%1(adj)=allié%é(adj)=relié%3(adj)=associé
 sol@adj!us-a-um%1(adj)=seul
@@ -1512,6 +1527,7 @@ tuo@prep%1(prep)=ton
 tuorum@prep%1(prep)=tes
 tuum@prep%1(prep)=ton
 turb@noun!a-ae%1(noun)=foule%2(noun)=tumulte%3(noun)=multitude
+turpitud@noun!o-inis%1(noun)=laideur
 tuscul@noun!um-i%1(noun)=grain d'encens%2(noun)=tusculane
 tyr@noun!us-i%1(noun)=tyr
 tyrann@noun!us-i%1(noun)=tyran
@@ -1536,6 +1552,7 @@ us@adj!us-a-um%1(adj)=utilisé
 ut@prep%1(adv)=comme%2(adv)=de quelle maniere%3(adv)=quand,aussitot que,depuis que%4(adv+subj)=afin que,pour que,de telle sorte que%4(adv)=comme
 uti@prep%1(adv)=comme%2(adv)=de quelle maniere%3(adv)=quand,aussitot que,depuis que%4(adv+subj)=afin que,pour que,de telle sorte que%4(adv)=comme
 utor@verb!norm%1(verb)=utiliser
+uxor@noun!x-is%1(noun)=épouse
 vacu@adj!us-a-um%1(adj)=desert
 vado@verb!norm%1(verb)=marcher
 vagor@verb!norm%1(verb)=sepromener

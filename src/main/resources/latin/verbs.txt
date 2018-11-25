@@ -8,9 +8,12 @@ accus,o,as,are,,,[o-as]
 add,o,is,ere,,,[o-is]
 adf,or,aris,ere,,,[or-aris]
 adfic,io,is,ere,,,[io-is]
-adimpl,eo,es,ere,,,[eo-es]
 adfer,o,s,re,tuli,latum,[o-s]
+adher,eo,es,ere,,,[eo-es]
+adhib,eo,es,ere,,,[eo-es]
+adimpl,eo,es,ere,,,[eo-es]
 adjug,o,as,are,,,[o-as]
+adjung,o,is,ere,,,[o-is]
 adjuv,o,as,are,,,[o-as]
 adscisc,o,is,ere,,,[o-is]
 ador,o,as,are,,,[o-as]
@@ -61,6 +64,7 @@ comed,o,is,ere,,,[o-is]
 comme,o,as,are,avi,atum,[o-as]
 compar,o,as,are,avi,atum,[o-as]
 compl,eo,es,ere,ui,itum,[eo-es]
+comprehend,o,is,ere,,,[o-is]
 con,or,aris,ari,,,[or-aris]
 concili,o,as,are,,,[o-as]
 concip,io,is,ere,,,[io-is],(AIPP*concip*concep*0@AIP*concip*concep*0@IAPP1245*concip*concep*0)
@@ -168,6 +172,7 @@ incend,o,is,ere,,,[o-is]
 incip,io,is,ere,,,[io-is],(AIP*incip*incep*0)
 inclin,o,as,are,,,[o-as]
 incol,o,is,ere,,,[o-is],(AIPP*incol*incolu*0)
+incurr,o,is,ere,,,[o-is]
 indig,eo,es,ere,,,[eo-es],(AIP*indig*indigu*0)
 induc,o,is,ere,duxi,ductum,[o-is],(AIP*induc*indux*0)
 infer,o,s,re,tuli,latum,[o-s],(AIP*infer*intul*0)
@@ -238,6 +243,7 @@ perfic,io,is,ere,,,[io-is]
 perhib,eo,es,ere,ui,itum,[eo-es]
 perman,eo,es,ere,ui,itum,[eo-es]
 permitt,o,is,ere,misi,missum,[o-is],(AIFP*permitts*permis*0@AIP*permitt*permis*0)
+perneg,o,as,are,,,[o-as]
 persuad,eo,es,ere,,,[eo-es],(AIP*persuad*persuas*0@AIPP*persuad*persuas*0)
 pertin,eo,es,ere,ui,itum,[eo-es]
 perven,io,is,ire,,,[io-is]
@@ -268,6 +274,7 @@ puls,o,as,are,,,[o-as]
 qu,eo,is,ire,,,[eo-is],(AIP*qu*zzz*0@AIMP*qu*zzz*0)
 recip,io,is,ere,,,[io-is],(AIP*recip*recep*0)
 redim,o,is,ere,,,[o-is]
+refer,o,s,re,,,[o-s]
 regn,o,as,are,,,[o-as]
 reg,o,is,ere,,,[o-is]
 relinqu,o,is,ere,,,[o-is],(AIP*relin*reli*0)
@@ -298,6 +305,7 @@ separ,o,as,are,,,[o-as],(ASP*separe*separaveri*0)
 sequ,or,eris,i,,,[or-eris]
 serv,o,as,are,,,[o-as]
 simul,o,as,are,,,[o-as]
+sin,o,is,ere,,,[o-is]
 sit,io,is,ire,,,[io-is],(ASI*site*siti*0)
 solv,o,is,ere,,,[o-is]
 son,o,as,are,,,[o-as]

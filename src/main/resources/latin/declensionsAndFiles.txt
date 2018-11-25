@@ -27,6 +27,7 @@ x-cis%thirdAltFeminine.txt
 inv%invariable.txt
 en-inis%thirdNeutral.txt
 s-is%feminineUrbs.txt
+x-sis%os.txt
 s-ris%feminineRus.txt
 s-tis2%feminineAetas.txt
 is-is%canis.txt
