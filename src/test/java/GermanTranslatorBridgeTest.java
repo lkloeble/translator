@@ -719,7 +719,7 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("strackp6par299", translatorBridge);
         checkInMaps("strackp6par301", translatorBridge);
         checkInMaps("strackp6par302", translatorBridge);
-        checkInMaps("strackp6par303", translatorBridge);
+        //checkInMaps("strackp6par303", translatorBridge);
     }
 
     @Test
@@ -1030,6 +1030,6 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("strackp10par302", translatorBridge);
+        checkInMaps("nietzscheBookGTversuchCha6J", translatorBridge);
     }
 }

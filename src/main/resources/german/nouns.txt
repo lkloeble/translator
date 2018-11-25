@@ -138,6 +138,7 @@ bedeutung@fem%meinfem
 bedeutungslos@adj%ausreichend
 bedurfnis@neut%erkenntnis
 begehren@neut%inv
+begriff@masc%jahrzehnt
 behorde@fem%flasche
 behutsam@adj%ausreichend
 beigefugt@adj%ausreichend
@@ -231,6 +232,7 @@ dame@fem%flasche
 dank@fem%norm
 dasein@neut%rest
 david@masc%inv
+davidide@masc%inv
 davids@masc%inv
 deckung@fem%meinfem
 demokrat@masc%meinmasc
@@ -367,6 +369,7 @@ exilarch@neut%inv
 exilarchen@neut%inv
 explosiv@neut%norm
 examen@neut%norm
+fabel@fem%flasche
 fahigkeit@fem%meinfem
 faktor@masc%autor
 falschheit@fem%meinfem
@@ -827,6 +830,7 @@ mannlicherseits@neut%inv
 marke@fem%flasche
 markus@masc%inv
 martin@neut%inv
+maske@fem%flasche
 mass@neut%mass
 massgebend@adj%ausreichend
 material@neut%meinmasc
@@ -1481,6 +1485,7 @@ werk@neut%meer
 wertschatzung@fem%meinfem
 wert@masc%jahrzehnt
 wertung@masc%meinmasc
+wesen@fem%inv
 wesentlich@adj%ausreichend
 wesentliche@fem%flasche
 wetter@neut%inv

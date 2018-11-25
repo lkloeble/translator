@@ -40,7 +40,7 @@ befass,en,[pflanzen]
 befind,en,[mochten],(AIP*befi*befa*0)
 begegn,en,[segnen]
 begeh,en,[leben],(PAPR*begeh*begehend*0)
-beginn,en,[leben]
+beginn,en,[rufen],(AIP*beginn*begann*0)
 begruss,en,[pflanzen]
 behaft,en,[mochten]
 behalt,en,[entstehen],(SPA*behal*behiel*0)
@@ -177,7 +177,7 @@ gelt,en,[gelten],(AIP*gel*gal*0@IPR12*gelt*gilt*0)
 genes,en,[genesen]
 genug,en,[leben]
 gernhaben@IRREGULAR%[INFINITIVE]=[gernhaben]%[IPR]=[gernhabe,gernhast,gernhat,gernhaben,gernhabt,gernhaben]
-gescheh,en,[rufen],(AIP*gescheh*geschah*0)
+gescheh,en,[rufen],(AIP*gescheh*geschah*0@IPR12*gescheh*geschieh*0)
 gestatt,en,[segnen]
 gesteh,en,[entstehen],(AIP*gesteh*gestand*0)
 gewinn,en,[leben],(PAPR*gewinn*gewinnend*0)
@@ -334,6 +334,7 @@ uberrasch,en,[leben]
 uberschaum,en,[leben]
 ubersetz,en,[leben]
 uberwach,en,[leben]
+unterweis,en,[genesen],(PAP*unterweis*unterwiesen*0)
 uberwieg,en,[leben]
 unterzeichn,en,[mochten]
 unterzieh,en,[rufen],(AIP*unterzieh*unterzog*0@PAP*unterzieh*unterzog*0)
@@ -392,6 +393,7 @@ weis,en,[genesen]
 wend,en,[wenden]
 werd,en,[werden],(AIP*werd*wurd*0@PAP*werden*geworden*0)
 werf,en,[leben],(IPR12*wer*wir*0)
+wiederzufind,en,[mochten]
 widm,en,[mochten],(PAP*widm*gewidmet*0)
 wiss,en,[wissen],(IPR012*wiss*weiss*0@AIP*wiss*wusst*0)
 woll,en,[wollen],(IPR012*woll*will*0@AII*will*woll*0)
