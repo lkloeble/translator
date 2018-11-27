@@ -110,6 +110,7 @@ ausschweifend@adj%ausreichend
 ausschweifendst@adj%ausreichend
 ausserung@neut%meinmasc
 ausspruche@fem%flasche
+auswahl@fem%meinfem
 ausziehens@neut%inv
 auszugraben@neut%inv
 auto@fem%tipp
@@ -1164,6 +1165,7 @@ seele@fem%flasche
 segnung@fem%meinfem
 sekretarin@fem%inv
 selbstandig@adj%ausreichend
+selig@adj%ausreichend
 seltne@adj%inv
 sensibilitat@fem%inv
 sephorris@neut%inv
@@ -1547,6 +1549,7 @@ zone@fem%flasche
 zorn@masc%phanomen
 zornigst@adj%ausreichend
 zucht@fem%meinfem
+zuchtrute@fem%flasche
 zuganglich@adj%meinmasc
 zugehorigkeit@fem%meinfem
 zugrunde@fem%flasche

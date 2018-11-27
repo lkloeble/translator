@@ -164,6 +164,7 @@ ausserdem@prep%1(prep)=en outre
 ausserung@noun!meinmasc%1(noun)=énoncé
 ausspruche@noun!flasche%1(noun)=dire
 auswahl@verb!norm%1(verb)=selectionner
+auswahl@noun!meinfem%1(noun)=sélection
 auswendig@prep%1(prep)=par coeur
 auszieh@verb!norm%1(verb)=deshabiller%2(verb)=enlever
 ausziehens@noun!inv%1(noun)=enlèvement
@@ -1548,6 +1549,7 @@ reichst@adj!ausreichend%1(adj)=le plus riche
 reichtum@noun!heiligtum%1(noun)=richesse
 rein@adj!ausreichend%1(adj)=pur
 reinheit@noun!meinfem%1(noun)=pureté
+reinig@verb!norm%1(verb)=nettoyer
 reis@noun!reis%1(noun)=riz
 reise@noun!flasche%1(noun)=voyage
 reiz@noun!meer%1(noun)=charme%2(noun)=stimulus
@@ -1602,6 +1604,7 @@ schar@noun!meinfem%1(noun)=troupe
 schaff@verb!norm%1(verb)=creer
 scham@verb!norm%1(verb)=avoirhonte
 scharfst@adj!ausreichend%1(adj)=le plus précis
+schau@verb!norm%1(verb)=regarder
 schauerlich@adj!ausreichend%1(adj)=horrible
 schauspielerisch@adj!ausreichend%1(adj)=théâtral
 scheck@noun!meinfem%1(noun)=chèque
@@ -1689,6 +1692,7 @@ seit@prep%1(prep)=pour%2(prep)=depuis
 sekretarin@noun!inv%1(noun)=secrétaire
 selbst@prep%1(prep)=soi-même
 selbstandig@adj!ausreichend%1(adj)=indépendant
+selig@adj!ausreichend%1(adj)=bienheureux
 selten@prep%1(prep)=rarement
 seltne@adj!inv%1(adj)=rare
 send@verb!norm%1(verb)=envoyer
@@ -2254,6 +2258,7 @@ zorn@noun!phanomen%1(noun)=colère
 zornigst@adj!ausreichend%1(adj)=le plus en colère
 zu@prep%1(prep)=avec%2(prep)=à propos de%3(prep)=vers
 zucht@noun!meinfem%1(noun)=élevage
+zuchtrute@noun!flasche%1(noun)=férule
 zuerst@prep%1(prep)=d'abord
 zuganglich@noun!meinmasc%1(adj)=acceptable
 zugehorigkeit@noun!meinfem%1(noun)=appartenance

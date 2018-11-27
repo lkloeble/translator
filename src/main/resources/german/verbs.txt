@@ -265,6 +265,7 @@ reg,eln,[sammeln]
 regier,en,[leben]
 regn,en,[mochten]
 reich,en,[leben]
+reinig,en,[leben]
 reservier,en,[leben]
 ruf,en,[rufen],(AIP*ruf*rief*0)
 ruh,en,[leben],(PAP*ruh*geruht*0)
@@ -273,6 +274,7 @@ sag,en,[leben],(PAPR*sag*sagend*0@AIP*sag*sagt*0@PAP*sag*gesagt*0)
 samm,eln,[sammeln],(PAP*sam*gesam*0)
 schaff,en,[rufen],(AIP*schaff*schuf*0@PAP*sch*gesch*0)
 scham,en,[leben]
+schau,en,[leben]
 schick,en,[leben]
 scheid,en,[rufen],(AIP*scheid*schied*0@PAP*scheid*geschied*0)
 schein,en,[rufen],(AIP*schein*schien*0)

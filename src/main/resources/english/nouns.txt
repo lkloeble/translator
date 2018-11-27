@@ -150,6 +150,7 @@ cain@masc%invmasc
 calor@fem%endy
 cambridge@neut%invmasc
 camera@fem%normfem
+canaan@neut%invmasc
 canaanite@neut%normmasc
 cannot@neut%invmasc
 canon@neut%normmasc
@@ -248,6 +249,7 @@ cool@adj%invmasc
 cor@neut%invmasc
 correct@adj%invmasc
 cornwall@neut%invmasc
+cost@neut%normmasc
 could@neut%invmasc
 counsellor@masc%normmasc
 counselor@masc%normmasc
@@ -540,6 +542,7 @@ heathen@neut%normmasc
 heaven@masc%normmasc
 hebraist@masc%normmasc
 hebrew@masc%normmasc
+hebron@neut%invmasc
 heel@masc%normmasc
 height@fem%normfem
 heli@masc%invmasc
@@ -562,6 +565,7 @@ holiness@neut%church
 holy@adj%invmasc
 home@fem%normfem
 hope@neut%normmasc
+horeb@neut%invmasc
 horrid@adj%invmasc
 host@neut%normmasc
 hot@neut%invmasc
@@ -594,6 +598,7 @@ infinite@adj%normmasc
 inheritance@neut%normmasc
 inn@neut%normmasc
 inner@adj%normmasc
+inscription@neut%normmasc
 instruction@neut%normmasc
 instructor@neut%normmasc
 intended@adj%invmasc
@@ -753,6 +758,7 @@ mind@neut%invmasc
 mishna@neut%invmasc
 mishnaic@adj%invmasc
 mist@neut%normmasc
+mistaken@neut%invmasc
 moab@neut%invmasc
 moabite@neut%normmasc
 moment@neut%invmasc

@@ -22,6 +22,7 @@
 αδελφοτ@noun!ης-ητος%(noun)=fraternité
 αδικε@verb!norm%1(verb)=pecher
 αδικι@noun!α-ας%1(noun)=injustice
+αδοξ@adj!ος-η-ον%1(adj)=sans gloire
 αε@noun!ρ-ρος%1(noun)=air
 αει@prep%1(prep)=toujours
 αηρ@noun!inv%1(noun)=air
@@ -112,6 +113,7 @@
 αρσην@noun!inv%1(adj)=mâle
 αρσεν@noun!inv%1(adj)=mâle
 αρτ@noun!ος-ου%1(noun)=pain
+ατιμ@adj!ος-ος-ον%1(adj)=deshonoré
 αρχ@noun!η-ης%1(noun)=principe,origine%2(noun)=point de depart%3(noun)=extremite finale,recapitulation,total%4(noun)=commandement,pouvoir,autorite%5(noun)=commencement
 αρκε@verb!norm%1(verb)=assister%2(verb)=ecarter
 αρχ@verb!norm%1(verb)=gouverner%2(verb)=commencer
@@ -268,17 +270,20 @@
 εν@prep%1(prep)=dans
 εναντιωσ@noun!ις-εως%1(noun)=opposition
 ενδεχεται@noun!inv%1(noun)=il est possible
+ενδοξ@adj!ος-η-ον%1(adj)=glorieux%2(adj)=honoré
 ενδυ@verb!norm%1(verb)=entrer%2(verb)=habiller
 ενιαυτ@noun!ος-ου%1(noun)=année
 ενθυμε@verb!norm%1(verb)=desirer%2(verb)=reflechir
 εννεακαιδεκαπλασιονα@noun!inv%1(noun)=dix huit fois plus grand
 ενστερνιζ@verb!norm%1(verb)=garderdanslecoeur
+εντιμ@adj!ος-α-ον%1(adj)=honoré%2(adj)=respecté
 εντολ@noun!η-ης%1(noun)=précepte%2(noun)=commandement
 ενωπιον@prep%1(prep)=face à face
 εξ@prep%1(prep)=hors de
 εξω@prep%1(prep)=hors de
 εξαγ@verb!norm%1(verb)=faireemerger%2(verb)=bannir%3(verb)=enlever%4(verb)=emmener
 εξερχ@verb!norm%1(verb)=passer%2(verb)=seterminer%3(verb)=sortir
+επαγειρ@verb!norm%1(verb)=rassembler
 επεντιθη@verb!norm%1(verb)=
 εξουσι@noun!α-ας%1(noun)=autorité
 επ@prep%1(prep)=au temps de%2(prep)=sur
