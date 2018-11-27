@@ -21,6 +21,7 @@ aufheb,en,[leben],(PAP*aufheb*aufgehoben*0)
 aufhor,en,[leben],(PAPR*aufhor*aufhorend*0)
 aufles,en,[leben],(PAP*aufles*aufgelesen*0)
 aufputz,en,[pflanzen]
+aufricht,en,[segnen]
 aufstell,en,[leben],(PAP*aufstell*aufgestellt*0)
 aufwachs,en,[genesen]
 auswahl,en,[leben],(PAP*auswahl*ausgewahlt*0)
@@ -51,7 +52,7 @@ beibring,en,[leben],(PAPR*beibring*beibringend*0)
 beischreib,en,[rufen],(AIP*beischreib*beischrieb*0@PAP*beischrei*beigeschrie*0)
 beitrag,en,[lassen],(AIP*beitrag*beitrug*0)
 beiwohn,en,[leben]
-bekomm,en,[rufen],(AIP*bekomm*bekam*0)
+bekomm,en,[rufen],(AIP*bekomm*bekam*0@ASP*beko*beka*0)
 belast,en,[wenden]
 belohn,en,[leben]
 benutz,en,[setzen]
@@ -248,7 +249,7 @@ mog,en,[wollen],(IPR012*mo*ma*0)
 muss,en,[leben]
 nachlauf,en,[rufen],(AIP*lauf*lief*0)
 nachsinn,en,[rufen],(AIP*nachsin*nachsan*0)
-nehm,en,[rufen],(IPR12*nehm*nimm*0@AIP*nehm*nahm*0@PAP*nehm*genommen*0)
+nehm,en,[rufen],(IPR12*nehm*nimm*0@AIP*nehm*nahm*0@PAP*nehm*genommen*0@ASP*nehm*nahm*0)
 nenn,en,[leben],(AII*nenn*nann*0@PAP*nenn*gennant*0)
 pass,en,[leben]
 pflanz,en,[pflanzen]
@@ -352,6 +353,7 @@ verheiss,en,[leben],(PAP*verheiss*verheissen*0)
 verkleid,en,[wenden],(PAP*verklei*verkleidet*0)
 verlang,en,[leben],(PAPR*verlang*verlangend*0)
 verlass,en,[leben]
+verleugn,en,[segnen]
 verleih,en,[leben]
 verletz,en,[pflanzen]
 verleumd,en,[wenden]

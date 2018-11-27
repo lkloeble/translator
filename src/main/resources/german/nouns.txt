@@ -317,6 +317,7 @@ ekel@neut%zeichen
 eltern@neut%inv
 end@neut%inv
 endemisch@adj%ausreichend
+engel@masc%arbeiter
 entartung@neut%inv
 entbehrung@fem%meinfem
 entgegengesetzt@adj%ausreichend
@@ -605,6 +606,7 @@ heiterkeit@fem%norm
 held@masc%meinmasc
 hellene@masc%flasche
 helles@neut%inv
+henoch@neut%inv
 herabzusetzen@neut%inv
 herberge@fem%flasche
 herkunft@fem%norm
@@ -814,6 +816,7 @@ lust@fem%angst
 lustbarkeit@fem%meinfem
 lustig@adj%ausreichend
 lv@neut%inv
+machtig@adj%ausreichend
 madchen@fem%original
 magazin@masc%norm
 magog@neut%autor
@@ -1212,6 +1215,7 @@ stamm@masc%phanomen
 stammbaum@masc%jahrzehnt
 stammvater@masc%arbeiter
 standig@adj%ausreichend
+stark@adj%ausreichend
 starke@fem%flasche
 starker@adj%ausreichend
 starkst@adj%ausreichend
