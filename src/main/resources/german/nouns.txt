@@ -137,6 +137,7 @@ beamt@masc%artist
 bedeutsamkeit@fem%meinfem
 bedeutung@fem%meinfem
 bedeutungslos@adj%ausreichend
+begrundung@fem%meinfem
 bedurfnis@neut%erkenntnis
 begehren@neut%inv
 begriff@masc%jahrzehnt
@@ -295,6 +296,7 @@ eins@masc%inv
 eintrittskarte@neut%flasche
 einzig@adj%ausreichend
 einzusenden@neut%inv
+elias@masc%inv
 england@neut%inv
 ende@fem%flasche
 endlich@neut%inv
@@ -436,6 +438,7 @@ freitag@neut%inv
 freiwillig@adj%ausreichend
 fremd@adj%ausreichend
 fremde@fem%inv
+freude@fem%flasche
 freundin@fem%inv
 freund@masc%meer
 frevlerisch@adj%ausreichend
@@ -742,6 +745,7 @@ konig@masc%phanomen
 konstanz@neut%inv
 kontrapunktischen@neut%inv
 konzert@neut%inv
+korrektur@fem%meinfem
 kosten@neut%inv
 kostlich@adj%ausreichend
 kraft@fem%angst
@@ -809,6 +813,7 @@ logik@fem%meinfem
 logisch@adj%ausreichend
 logisierung@fem%inv
 losend@adj%ausreichend
+lowe@masc%artist
 lucke@fem%flasche
 luge@fem%flasche
 lukas@masc%inv
@@ -837,6 +842,7 @@ martin@neut%inv
 maske@fem%flasche
 mass@neut%mass
 massgebend@adj%ausreichend
+massigung@neut%inv
 material@neut%meinmasc
 matthaus@masc%inv
 mauer@masc%arbeiter
@@ -1053,7 +1059,7 @@ ratsel@neut%arbeiter
 ratselhaft@adj%ausreichend
 ratte@fem%flasche
 rauberisch@neut%meinmasc
-recht@neut%inv
+recht@adj%ausreichend
 rechtfertigung@fem%meinfem
 rechts@neut%inv
 rechten@neut%inv
@@ -1313,6 +1319,7 @@ turm@masc%jahrzehnt
 u@neut%inv
 uberdruss@fem%meinfem
 uberfulle@fem%flasche
+ubergang@masc%jahrzehnt
 uberhebend@neut%inv
 uberlebend@adj%ausreichend
 uberlieferung@fem%meinfem
@@ -1404,6 +1411,7 @@ verleumdung@fem%meinfem
 verlobt@adj%meinmasc
 verlobung@fem%meinfem
 vermischung@neut%norm
+vermittel@neut%inv
 verneinung@fem%meinfem
 vernichtend@adj%ausreichend
 vernichtung@fem%meinfem
@@ -1456,6 +1464,7 @@ vorsicht@neut%inv
 vorsichtig@adj%ausreichend
 vorstellung@fem%meinfem
 vorurteil@neut%rest
+vorwand@masc%jahrzehnt
 vorzeitig@adj%ausreichend
 vorzug@masc%phanomen
 vorwort@neut%licht

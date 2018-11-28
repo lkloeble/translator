@@ -488,6 +488,7 @@ gentile@neut%normmasc
 geography@neut%invmasc
 gerasa@neut%invmasc
 german@adj%normmasc
+gibbosit@fem%endy
 gift@neut%normmasc
 gihon@neut%invmasc
 girdle@neut%normmasc

@@ -203,6 +203,7 @@ bedeut@verb!norm%1(verb)=signifier
 bedeutsamkeit@noun!meinfem%1(noun)=importance
 bedeutung@noun!meinfem%1(noun)=signification
 bedeutungslos@adj!ausreichend%1(adj)=insignifiant
+begrundung@noun!meinfem%1(noun)=justification
 bedurfnis@noun!erkenntnis%1(noun)=besoin
 befass@verb!norm%1(verb)=envisager
 befind@verb!norm%1(verb)=setrouver
@@ -527,6 +528,7 @@ einzuraumen@noun!inv%1(noun)=octroyer
 einzusenden@noun!inv%1(noun)=être envoyé
 eisern@noun!inv%1(noun)=en fer
 ekel@noun!zeichen%1(noun)=dégoût
+elias@noun!inv%1(noun)=élie
 eltern@noun!inv%1(noun)=parents
 empfand@verb!norm%1(verb)=ressentir
 empfind@verb!norm%1(verb)=ressentir
@@ -730,6 +732,7 @@ freiwillig@adj!ausreichend%1(noun)=volontaire
 fremd@adj!ausreichend%1(noun)=étranger
 frevlerisch@adj!ausreichend%1(noun)=sacrilège
 freu@verb!norm%1(verb)=serejouir
+freude@noun!flasche%1(noun)=joie
 freund@noun!meer%1(noun)=ami
 freundin@noun!inv%1(noun)=fiancée
 frieden@noun!autor%1(noun)=paix
@@ -1143,6 +1146,7 @@ konig@noun!phanomen%1(noun)=roi
 konstanz@noun!inv%1(noun)=constance
 kontrapunktischen@adj!inv%1(adj)=contrapunctique
 konzert@noun!inv%1(noun)=concert
+korrektur@noun!meinfem%1(noun)=correction
 kost@verb!norm%1(verb)=coûter
 kosten@noun!inv%1(noun)=coûts
 kostlich@adj!ausreichend%1(adj)=délicieux%2(adj)=excellent%3(adj)=précieux
@@ -1233,6 +1237,7 @@ logisierung@noun!inv%1(noun)=conception logique
 los@verb!norm%1(verb)=resoudre
 losend@adj!ausreichend%1(adj)=dissolvant
 loskomm@verb!norm%1(verb)=liberer
+lowe@noun!artist%1(noun)=lion
 lucke@noun!flasche%1(noun)=écart
 luge@noun!flasche%1(noun)=mensonge
 lukas@noun!inv%1(noun)=luc
@@ -1265,6 +1270,7 @@ martin@noun!inv%1(noun)=martin
 maske@noun!flasche%1(noun)=masque
 mass@noun!mass%1(noun)=taille%2(noun)=mesure%3(noun)=matière
 massgebend@adj!ausreichend%1(adj)=déterminant
+massigung@noun!inv%1(noun)=modération
 material@noun!meinmasc%1(noun)=matériau
 matthaus@noun!inv%1(noun)=matthieu
 mauer@noun!arbeiter%1(noun)=mur
@@ -1426,6 +1432,7 @@ obst@noun!inv%1(noun)=fruits
 odem@noun!inv%1(noun)=souffle
 oder@prep%1(prep)=ou
 offb@noun!inv%1(noun)=apo
+offenbar@verb!norm%1(verb)=devoiler
 offenbarung@noun!inv%1(noun)=apocalypse
 offentlich@adj!ausreichend%1(adj)=public
 oft@prep%1(prep)=souvent
@@ -1536,7 +1543,7 @@ ratselhaft@adj!ausreichend%1(adj)=mystérieux
 ratte@noun!flasche%1(noun)=rat
 rauberisch@noun!meinmasc%1(adj)=prédateur
 rauch@verb!norm%1(verb)=fumer
-recht@noun!inv%1(noun)=légal%2(noun)=correct%3(noun)=véritable%4(noun)=droit
+recht@adj!ausreichend%1(noun)=légal%2(noun)=correct%3(noun)=véritable%4(noun)=droit
 rechtfertigung@noun!meinfem%1(noun)=justification
 rechten@noun!inv%1(noun)=légal%2(noun)=correct%3(noun)=véritable%4(noun)=droit
 rechts@noun!inv%1(noun)=à droite
@@ -1599,6 +1606,7 @@ sale@noun!inv%1(noun)=salle
 same@noun!flasche%1(noun)=semence
 samm@verb!norm%1(verb)=collecter%2(verb)=assembler
 sammlung@noun!meinfem%1(noun)=réunion%2(noun)=élévation%3(noun)=collection
+samt@prep%1(prep)=y compris
 sanger@noun!arbeiter%1(noun)=chanteur
 sanh@noun!inv%1(noun)=sanh
 satyr@noun!masc%1(noun)=satyre
@@ -1899,6 +1907,7 @@ uber@prep%1(prep)=sur
 uberdruss@noun!meinfem%1(noun)=fatigue%2(noun)=morosité
 ubereinstimm@verb!norm%1(verb)=correspondre
 uberfulle@noun!flasche%1(noun)=profusion
+ubergang@noun!jahrzehnt%1(noun)=transition%2(noun)=passage
 uberhaupt@prep%1(prep)=absolument%2(prep)=du tout
 uberhebend@noun!inv%1(noun)=recherchant
 uberlebend@adj!ausreichend%1(adj)=survivant
@@ -2029,6 +2038,7 @@ verlobt@adj!meinmasc%1(adj)=fiancé
 verlobung@noun!meinfem%1(noun)=fiançailles
 vermeid@verb!norm%1(verb)=eviter
 vermischung@noun!norm%1(noun)=mélange
+vermittel@noun!inv%1(noun)=intermédiaire
 vernein@verb!norm%1(verb)=exclure
 verneinung@noun!meinfem%1(noun)=négation
 vernichtend@adj!ausreichend%1(adj)=cinglant
@@ -2121,6 +2131,7 @@ vorstell@verb!norm%1(verb)=presenter2
 vorstellung@noun!meinfem%1(noun)=représentation%2(noun)=concept%2(noun)=spectacle
 vorubergeh@verb!norm%1(verb)=negliger
 vorurteil@noun!rest%1(noun)=préjugé
+vorwand@noun!jahrzehnt%1(noun)=prétexte
 vorwort@noun!licht%1(noun)=préface
 vorzug@noun!phanomen%1(noun)=avantage
 vorzeitig@adj!ausreichend%1(adj)=précoce

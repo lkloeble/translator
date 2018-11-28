@@ -133,6 +133,7 @@
 αχας@noun!inv%1(noun)=achaz
 αχιμ@noun!inv%1(noun)=achim
 αφ@prep%1(prep)=loin de%2(prep)=à partir de
+αφρον@adj!ων-ων-ον%1(adj)=stupide
 βα@noun!inv%1(noun)=ba
 βαβυλων@noun!x-ος%1(noun)=babylone
 βαθ@noun!ος-ους%1(noun)=profondeur%2(noun)=hauteur
@@ -878,6 +879,7 @@
 φλοι@noun!ος-ου%1(noun)=écorce
 φοβ@noun!ος-ου%1(noun)=crainte%2(noun)=peur
 φοβε@verb!norm%1(verb)=craindre
+φρονιμ@noun!ος-ου%1(noun)=sage
 φυλακ@noun!η-ης%1(noun)=garde%2(noun)=prison
 φυλλ@noun!ον-ου%1(noun)=feuille
 φυσ@noun!ις-εως%1(noun)=action de faire naître,formation,production%2(noun)=nature du corps,forme,traits%3(noun)=nature de l'esprit,caractère%4(noun)=condition de nature(liens de parenté,sexe,sang,rang social)%5(noun)=force productrice et créatrice de la nature%6(noun)=substance des choses (aristote)%7(noun)=nature

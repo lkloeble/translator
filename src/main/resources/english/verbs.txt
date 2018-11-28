@@ -174,6 +174,7 @@ have@IRREGULAR%[IPR]=[have,have,has|hath,have,have,have]%[AII]=[had,had,had,had,
 handle,[live]
 hang,[live],(AIP*hangd*hung*0)
 happen,[call]
+harden,[call]
 hate,[live]
 heap,[call]
 hear,[live]
@@ -199,6 +200,7 @@ kill,[call]
 knock,[call]
 know,[live],(AIP*knowd*knew*0@PAP*knowd*known*0)
 lay,[live],(AIP*layd*laid*0)
+lead,[live]
 learn,[live]
 leave,[live],(AIP*leaved*left*0)
 lie,[live],(PAPR*lie*ly*0)
@@ -339,6 +341,7 @@ testify,[live],(IPR*testifys*testifies*0)
 till,[call]
 tire,[live]
 think,[call],(PAP*thinked*thought*0)
+thrust,[live]
 touch,[teach]
 turn,[call]
 trace,[live]
