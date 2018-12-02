@@ -123,6 +123,7 @@ cael@neut%us-i
 cael@neut%um-i
 caelest@adj%is-is-e
 caeremoni@fem%a-ae
+caesar@masc%x-is
 caeter@adj%us-a-um
 calam@masc%us-i
 campani@fem%a-ae
@@ -200,6 +201,7 @@ controversi@fem%a-ae
 conviv@fem%a-ae
 convent@adj%us-a-um
 conversat@adj%us-a-um
+coopert@adj%us-a-um
 copi@fem%a-ae
 corneli@masc%us-i
 corp@neut%us-oris
@@ -347,10 +349,12 @@ figur@fem%a-ae
 fili@masc%us-i
 fili@fem%a-ae
 fin@fem%is-is
+finit@adj%us-a-um
 finitim@adj%us-a-um
 firmament@neut%um-i
 firm@adj%us-a-um
 firmissim@adj%us-a-um
+flagitiosissim@adj%us-a-um
 flamini@fem%a-ae
 flamm@fem%a-ae
 flum@neut%en-inis
@@ -421,6 +425,7 @@ hum@fem%us-i
 human@adj%us-a-um
 hymn@masc%us-i
 idol@neut%um-i
+idololatri@fem%a-ae
 ignati@masc%us-i2
 ign@masc%is-is
 ill@adj%e-a-ud
@@ -431,6 +436,7 @@ impi@adj%us-a-um
 impluvi@neut%um-i
 impositio@fem%x-nis
 improb@adj%us-a-um
+impur@adj%us-a-um
 inan@adj%is-is-e
 incarnat@adj%us-a-um
 incarnati@fem%o-onis
@@ -438,6 +444,7 @@ incens@neut%um-i
 incitat@adj%us-a-um
 incredibil@adj%is-is-e
 indici@neut%um-i
+indifferen@adj%s-s-s
 indign@adj%us-a-um
 induct@adj%us-a-um
 indut@adj%us-a-um
@@ -458,6 +465,7 @@ institut@neut%um-i
 insul@fem%a-ae
 intelligenti@fem%a-ae
 interit@masc%us-us
+intervall@neut%um-i
 invent@adj%us-a-um
 invict@adj%us-a-um
 invictissim@adj%us-a-um
@@ -576,6 +584,7 @@ minist@neut%er-ri
 ministeri@neut%um-i
 mir@adj%us-a-um
 miracul@masc%um-i
+miser@adj%us-a-um[nomsing:miser]
 misericordi@fem%a-ae
 miss@adj%us-a-um
 miss@fem%a-ae
@@ -623,9 +632,11 @@ norei@fem%a-ae
 noric@neut%um-i
 nov@adj%us-a-um
 novem@neut%inv
+nud@adj%us-a-um
 null@adj%us-a-um
 numer@masc%us-i
 numm@masc%us-i
+nuntiat@adj%us-a-um
 o@neut%s-ris
 obaerat@adj%us-a-um
 oblati@fem%o-onis
@@ -657,6 +668,7 @@ oracul@neut%um-i
 oratio@fem%x-nis
 orgetorix@neut%inv[gensing:orgetorigis,accsing:orgetoricem]
 orien@adj%s-s-s
+origen@masc%us-i
 oriund@adj%us-a-um
 ornat@masc%us-us
 ort@adj%us-us
@@ -845,6 +857,7 @@ script@neut%um-i
 scriptur@adj%us-a-um
 secreti@adj%or-or-us
 sectator@masc%x-is
+sect@adj%us-a-um
 secund@adj%us-a-um
 semen@fem%x-is
 sement@neut%is-is
@@ -950,6 +963,7 @@ turpitud@fem%o-inis
 tuscul@masc%um-i
 tyr@masc%us-i
 tyrann@masc%us-i
+ulteri@adj%or-or-us
 umbr@fem%a-ae
 umer@masc%us-i
 un@adj%us-a-um
@@ -962,6 +976,7 @@ unumquodque@neut%inv
 urb@fem%s-is
 urs@masc%us-i
 us@adj%us-a-um
+uterque@masc%inv
 uxor@fem%x-is
 vacu@adj%us-a-um
 vari@adj%us-a-um

@@ -183,6 +183,7 @@ cael@noun!us-i%1(noun)=climat%2(noun)=ciel
 cael@noun!um-i%1(noun)=ciseau,burin%2(noun)=air,atmosphere%3(noun)=voute,dome%4(noun)=ciel
 caelest@adj!is-is-e%1(adj)=céleste
 caeremoni@noun!a-ae%1(noun)=cérémonie
+caesar@noun!x-is%1(noun)=césar
 caeter@adj!us-a-um%1(adj)=reste
 calam@noun!us-i%1(noun)=roseau
 campani@noun!a-ae%1(noun)=campanie
@@ -303,6 +304,7 @@ consuetud@noun!o-inis%1(noun)=usage
 consul@noun!x-is%1(noun)=consul
 consumo@verb!norm%1(verb)=consommer
 contendo@verb!norm%1(verb)=provoquer
+contemno@verb!norm%1(verb)=mepriser
 continenter@prep%1(prep)=continuellement
 contingo@verb!norm%1(verb)=polluer%2(verb)=affecter%3(verb)=atteindre%4(verb)=toucher
 contineo@verb!norm%1(verb)=entourer
@@ -315,6 +317,7 @@ conversat@adj!us-a-um%1(adj)=dépassé
 convenio@verb!norm%1(verb)=venir ensemble,se rassembler%2(verb)=convenir de,s'adapter%3(verb)=rencontrer qqun%4(verb)=sassembler
 convinco@verb!norm%1(verb)=condamner%2(verb)=conquerir%3(verb)=convaincre
 conviv@noun!a-ae%1(noun)=invité
+coopert@adj!us-a-um%1(adj)=recouvert
 copi@noun!a-ae%1(noun)=renfort%2(noun)=troupe
 coram@prep%1(adv)=en face, devant, en présence : <exp>coram videre</exp><trad>voir sur place (personnellement)</trad>%2(prep avec abl)= en présence de, devant : <exp>senatu coram</exp><trad>devant le sénat</trad>%3(prep)=devant
 corneli@noun!us-i%1(noun)=cornelius
@@ -487,11 +490,12 @@ epistol@noun!a-ae%1(noun)=courrier,missive,depeche%2(noun)=lettre
 equ@noun!us-i%1(noun)=cheval
 ereb@noun!us-i%1(noun)=démon érébus
 ergo@prep%1(prep)=parce que%2(prep)=donc
-erigo@verb!norl%1(verb)=stimuler%2(verb)=construire,ériger%3(verb)=elever
-eripio@verb!norl%1(verb)=secourir
+erigo@verb!norm%1(verb)=stimuler%2(verb)=construire,ériger%3(verb)=elever
+eripio@verb!norm%1(verb)=secourir
 erran@adj!s-s-s%1(adj)=égaré
 error@noun!x-is2%1(noun)=erreur
-erudio@verb!norl%1(verb)=cultiver%2(verb)=eduquer%3(verb)=instruire
+erubesco@verb!norm%1(verb)=avoirhonte
+erudio@verb!norm%1(verb)=cultiver%2(verb)=eduquer%3(verb)=instruire
 esc@noun!a-ae%1(noun)=nourriture
 essenti@noun!a-ae%1(noun)=essence
 et@prep%1(prep)=et
@@ -568,10 +572,12 @@ fili@noun!us-i%1(noun)=fils
 fili@noun!a-ae%1(noun)=fille
 fin@noun!is-is%1(noun)=mort%2(noun)=but%3(noun)=frontière%4(noun)=fin
 finio@verb!norm%1(verb)=finir
+finit@adj!us-a-um%1(adj)=fini
 finitim@adj!us-a-um%1(adj)=voisin
 firmament@noun!um-i%1(noun)=firmament
 firm@adj!us-a-um%1(adj)=ferme
 firmissim@adj!us-a-um%1(adj)=le plus fort
+flagitiosissim@adj!us-a-um%1(adj)=très honteux%2(adj)=le plus honteux
 flamini@noun!a-ae%1(noun)=flaminia
 flamm@noun!a-ae%1(noun)=feu%2(noun)=flamme
 floreo@verb!norm%1(verb)=fleurir
@@ -681,10 +687,12 @@ iam@prep%1(noun)=déjà%2(noun)=maintenant%3(noun)=plus
 ibi@prep%1(noun)=là
 idem@demo%1(determ)=aussi%2(corr avec qui,atque,et,ut,quasi,cum)=meme%3(determ)=meme
 idol@noun!um-i%1(noun)=forme%2(noun)=idole
+idololatri@noun!a-ae%1(noun)=idolatrie
 igitur@prep%1(noun)=en conséquence
 ignati@noun!us-i%1(proper noun)=ignace eveque d'antioche%2(proper noun)=ignace
 ign@noun!is-is%1(noun)=feu
 ill@adj!e-a-ud%1(pro dem)=celui la
+illudo@verb!norm%1(verb)=ridiculiser
 imag@noun!o-inis%1(noun)=image
 imbuo@verb!norm%1(verb)=humidifer%2(verb)=tremper%3(verb)=mouiller
 immutat@adj!us-a-um%1(adj)=transformé
@@ -700,6 +708,7 @@ importo@verb!norm%1(verb)=importer
 impositio@noun!x-nis%1(noun)=application%2(noun)=imposition
 improb@noun!us-a-um%1(noun)=mauvais
 impugno@verb!norm%1(verb)=combattre
+impur@noun!us-a-um%1(noun)=impur
 in@prep%1(prep+acc)=dans, en, sur : (sens local aboutissement d'un mouvement)%2(prep+acc)=jusqu'a : (temporel aboutissement d'un mouvement)%3(prep+acc)=a la maniere de%4(prep+acc)=pour, en faveur de%5(prep+abl)=dans,en,sur (sens local sans mouvement)%6(prep+abl)=dans (temporel indiquant une date ou un laps de temps)%7(prep+abl)=dans,parmi%8(prep+abl)=dans
 inan@adj!is-is-e%1(adj)=vide
 incarnat@noun!us-a-um%1(noun)=incarné
@@ -714,6 +723,7 @@ incurro@verb!norm%1(verb)=attaquer%2(verb)=courirvers
 incredibil@adj!is-is-e%1(noun)=incroyable
 inde@prep%1(prep)=depuis ici
 indici@noun!um-i%1(noun)=découverte%2(noun)=preuve%3(noun)=information
+indifferen@adj!s-s-s%1(adj)=indifférent
 indifferenter@prep%1(prep)=indifférement
 indigeo@verb!norm%1(verb)=avoir besoin%2(verb)=desirer
 indign@adj!us-a-um%1(adj)=indigne
@@ -754,6 +764,7 @@ intereo@verb!norm%1(verb)=se perdre dans,disparaitre dans%2(verb)=perir,disparai
 interim@prep%1(prep)=durant%2(prep)=entre-temps
 interit@noun!us-us%1(noun)=destruction%2(noun)=ruine
 interrogo@verb!norm%1(verb)=interroger
+intervall@noun!um-i%1(noun)=intervalle
 intro@verb!norm%1(verb)=pénéter%2(verb)=entrer
 invalesco@verb!norm%1(verb)=serenforcer
 invenio@verb!norm%1(verb)=découvrir%2(verb)=trouver
@@ -884,6 +895,7 @@ mascul@adj!us-a-um%1(adj)=male
 mat@noun!er-ris%1(noun)=mère
 matrimoni@noun!um-i%1(noun)=mariage
 matron@noun!a-ae%1(noun)=marne%2(noun)=matronne
+maturo@verb!o-as%1(verb)=murir
 maxim@adj!us-a-um%1(adj)=grande
 me@prep%1(prep)=me
 mea@prep%1(prep)=ma
@@ -917,6 +929,7 @@ ministeri@noun!um-i%1(noun)=ministère
 mir@adj!us-a-um%1(adj)=merveilleux
 miracul@noun!um-i%1(noun)=miracle
 misceo@verb!norm%1(verb)=melanger
+miser@adj!us-a-um%1(adj)=pauvre
 misericordi@noun!a-ae%1(noun)=miséricorde
 miss@adj!us-a-um%1(adj)=envoyé
 miss@noun!a-ae%1(noun)=messe
@@ -984,6 +997,7 @@ norei@noun!a-ae%1(noun)=noréia
 noric@noun!um-i%1(noun)=norique
 nov@adj!us-a-um%1(noun)=nouveau
 novem@noun!inv%1(noun)=neuf
+nud@adj!us-a-um%1(adj)=nu
 null@adj!us-a-um%1(adj)=non%2(adj)=non existant%3(adj)=sans importance%4(adj)=aucun
 num@prep%1(prep)=est-ce que
 numer@noun!us-i%1(noun)=multitude%2(noun)=nombre
@@ -991,6 +1005,7 @@ numero@verb!norm%1(verb)=payer%2(verb)=compter
 numm@noun!us-i%1(noun)=pièce
 nunc@prep%1(prep)=maintenant
 numquam@prep%1(prep)=jamais
+nuntiat@adj!us-a-um%1(noun)=annoncé
 nuper@prep%1(prep)=récemment
 o@prep%1(prep)=ô
 o@noun!s-ris%1(noun)=parole
@@ -1035,6 +1050,7 @@ oratio@noun!x-nis%1(noun)=discours
 orgetorix@noun!inv%1(noun)=orgetorix
 oro@verb!norm%1(verb)=adorer
 orien@adj!s-s-s%1(adj)=levant
+origen@noun!us-i%1(noun)=origène
 orior@verb!norm%1(verb)=apparaitre
 oriund@adj!us-a-um%1(adj)=originaire de
 ornat@noun!us-us%1(noun)=décoration%2(noun)=appareillage
@@ -1342,6 +1358,7 @@ satio@verb!norm%1(verb)=satisfaire
 satis@prep%1(prep)=suffisament
 scel@noun!us-eris%1(noun)=crime
 schol@noun!a-ae%1(noun)=secte%2(noun)=ensemble de disciples%3(noun)=école%4(noun)=leçon
+scilicet@prep%1(prep)=naturellement
 scienti@noun!a-ae%1(noun)=savoir
 scio@verb!nom%1(verb)=savoir
 schisma@noun!x-tis%1(noun)=schisme
@@ -1354,6 +1371,7 @@ scriptur@noun!us-a-um%1(noun)=écriture
 se@prep%1(conj)=se
 secreti@adj!or-or-us%1(adj)=séparé
 sectator@noun!x-is%1(noun)=adhérent%2(noun)=adepte
+sect@adj!us-a-um%1(adj)=amputé%2(adj)=divisé%3(adj)=coupé
 secund@adj!us-a-um%1(adj)=suivant
 secum@prep%1(conj)=lui-même
 sed@prep%1(conj)=mais
@@ -1450,6 +1468,7 @@ sumpt@adj!us-a-um%1(adj)=acheté%2(adj)=sélectionné%3(adj)=effectué%4(adj)=su
 super@prep%1(adv)=par dessus,en plus%2(prep + acc)=au dessus%3(prep + abl)=sur%4(prep)=sur
 superfici@noun!es-ei%1(fem)=à la surface
 supern@adj!us-a-um%1(adj)=céleste%2(adj)=paradisiaque
+supero@verb!norm%1(verb)=surmonter
 supposititi@adj!us-a-um%1(adj)=supposé
 suscept@adj!us-a-um%1(adj)=a été repris
 suscitand@adj!us-a-um%1(adj)=qui doit être encouragé%2(adj)=qui doit être élevé%3(adj)=qui doit être éveillé
@@ -1534,6 +1553,7 @@ tyrann@noun!us-i%1(noun)=tyran
 tuus@prep%1(prep)=ton
 ubi@prep%1(adv)=ou%2(adv)=dans lequel%3(conj)=quand, lorsque4(conj + subj)=du moment que%5(adv)=où
 ubique@prep%1(adv)=partout
+ulteri@adj!or-or-us%1(adj)=ultérieur
 umbr@noun!a-ae%1(noun)=ombre
 umer@noun!us-i%1(noun)=dos%2(noun)=umérus (os)%3(noun)=épaule
 un@adj!us-a-um%1(adj)=un
@@ -1550,6 +1570,7 @@ urb@noun!s-is%1(noun)=ville
 urs@noun!us-i%1(noun)=ursus
 us@adj!us-a-um%1(adj)=utilisé
 ut@prep%1(adv)=comme%2(adv)=de quelle maniere%3(adv)=quand,aussitot que,depuis que%4(adv+subj)=afin que,pour que,de telle sorte que%4(adv)=comme
+uterque@noun!inv%1(noun)=chacun
 uti@prep%1(adv)=comme%2(adv)=de quelle maniere%3(adv)=quand,aussitot que,depuis que%4(adv+subj)=afin que,pour que,de telle sorte que%4(adv)=comme
 utor@verb!norm%1(verb)=utiliser
 uxor@noun!x-is%1(noun)=épouse

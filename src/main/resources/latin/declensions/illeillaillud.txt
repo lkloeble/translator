@@ -25,3 +25,6 @@ acc%plr%neut%a
 dat%plr%masc%is
 dat%plr%fem%is
 dat%plr%neut%is
+gen%plr%masc%orum
+gen%plr%fem%arum
+gen%plr%neut%orum
