@@ -352,6 +352,7 @@ erneut@adj%ausreichend
 erscheinung@fem%meinfem
 erschopfung@fem%meinfem
 erste@neut%masc
+erstehn@neut%inv
 erstling@neut%inv
 erwartende@adj%ausreichend
 erz@neut%jahrzehnt

@@ -54,6 +54,7 @@ burn,[call]
 buy,[live]
 call,[call]
 can,[live]
+carr,[imply]
 cast,[live]
 cause,[live]
 cease,[live]
@@ -314,6 +315,7 @@ smoke,[live],(PAPR*smoke*smok*0)
 smooth,[teach]
 soften,[live]
 speak,[live],(AII*spea*spo*0@PAP*speakd*spoken*0@AIP*speakd*spoke*0)
+spring,[call],(AIP*springed*sprang*0)
 sprinkle,[live]
 stand,[live],(AII*standd*stood*0)
 starve,[live],(PAPR*starvei*starvi*0)

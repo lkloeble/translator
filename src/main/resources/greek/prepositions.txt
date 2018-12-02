@@ -118,6 +118,7 @@
 περι@prep%[electAccusativeForFollowingNoun(περιacc),electGenitiveForFollowingNoun(περιgen)]
 περιacc@prep()
 περιgen@prep()
+πορρω@prep()
 ποτε@prep()
 που@prep()
 πριν@prep()

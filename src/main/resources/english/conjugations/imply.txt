@@ -1,1 +1,2 @@
 IPR=>y,y,ies,y,y,y
+PAP=>ied

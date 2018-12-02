@@ -200,6 +200,7 @@ civil@adj%invmasc
 civill@adj%invmasc
 classical@adj%normmasc
 clause@fem%normfem
+clay@neut%normmasc
 clean@adj%invmasc
 clear@adj%invmasc
 cloudy@neut%invmasc
@@ -286,6 +287,7 @@ day@masc%normmasc
 dead@adj%invmasc
 dear@adj%invmasc
 death@fem%church
+deborah@fem%invfem
 deceit@fem%invfem
 declination@fem%normfem
 deep@adj%invmasc
@@ -312,6 +314,7 @@ difference@fem%normfem
 different@adj%normmasc
 difficult@adj%normmasc
 diffused@adj%invmasc
+dignit@fem%endy
 dinner@neut%normmasc
 disciple@neut%normmasc
 discussion@neut%normmasc
@@ -910,6 +913,7 @@ port@neut%normmasc
 portion@fem%normfem
 possession@fem%normfem
 possible@adj%normmasc
+potter@masc%normmasc
 power@neut%normmasc
 powerful@adj%invmasc
 practice@neut%normmasc
@@ -948,6 +952,7 @@ protection@neut%normmasc
 protestant@neut%normmasc
 providence@neut%invmasc
 provision@neut%normmasc
+psalm@neut%normmasc
 punishment@neut%normmasc
 purpose@neut%normmasc
 quarter@neut%normmasc
@@ -1005,6 +1010,7 @@ roger@neut%invmasc
 romans@neut%invmasc
 room@fem%normfem
 root@fem%normfem
+royal@adj%invmasc
 rush@neut%normfem
 rushy@adj%invmasc
 sabbath@neut%invmasc
@@ -1020,6 +1026,7 @@ sally@neut%invmasc!agenitive
 salt@masc%normmasc
 samaria@fem%invfem
 same@neut%normmasc
+samson@neut%invmasc
 sand@neut%normmasc
 sandy@adj%invmasc
 sanhedrim@neut%invmasc
@@ -1201,6 +1208,7 @@ today@neut%invmasc
 toil@neut%invmasc
 tomb@neut%normmasc
 tongue@neut%normmasc
+top@neut%normmasc
 torment@neut%normmasc
 total@adj%invmasc
 tower@neut%normmasc

@@ -57,6 +57,7 @@
 αμαρταν@verb!norm%1(verb)=pecher
 αμαρτι@noun!α-ας%1(noun)=faute%2(noun)=péché
 αμαρτωλ@noun!ος-ου%1(noun)=pêcheur
+αμβλυωπησαι@noun!inv%1(noun)=obscurci le regard
 αμεταμελητ@adj!ος-η-ον%1(adj)=non repentant
 αμιναδαβ@noun!inv%1(noun)=aminadab
 αμνησικακ@adj!ος-η-ον%1(adj)=sans rancune
@@ -84,7 +85,9 @@
 αξιαγαπητ@adj!ος-ος-ον%1(adj)=digne d'amour
 αορατ@adj!ος-ος-ον%1(adj)=invisible
 απα@adj!apas%1(noun)=tout
+απειμι@verb!irrg%1(verb)=etreabsent
 απειρ@noun!ος-ου%1(noun)=infini
+απολειπ@verb!norm%1(verb)=delaisser
 απλ@adj!ους-η-ουν%1(adj)=simple
 απλαν@noun!η-ης%1(noun)=non volant
 απιστ@noun!ος-η-ον%1(noun)=infidèle%2(noun)=incroyant
@@ -685,6 +688,7 @@
 πονηρ@adj!ος-α-ον%1(adj)=mauvais%(adj)=méchant%3(adj)=malin
 πορ@noun!ος-ου%1(noun)=passage
 πορευ@verb!norm%1(verb)=suivrefort
+πορρω@prep%1(prep)=très loin
 ποταμ@noun!ος-ου%1(noun)=fleuve
 ποτε@prep%1(prep)=à un moment
 ποτηρι@noun!ον-ου%1(noun)=coupe

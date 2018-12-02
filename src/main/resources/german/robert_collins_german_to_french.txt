@@ -134,6 +134,7 @@ aufregend@adj!ausreichend%1(adj)=excitant
 aufricht@verb!norm%1(verb)=dresser
 aufstell@verb!norm%1(verb)=preparer
 aufstellung@noun!meinfem%1(noun)=relevé%2(noun)=inventaire%3(noun)=liste
+auftret@verb!norm%1(verb)=apparaitre
 aufwachs@verb!norm%1(verb)=grandir
 aufwarts@prep%1(prep)=vers le haut
 aufwiederhoren@noun!inv%1(noun)=au revoir
@@ -605,6 +606,7 @@ erschein@verb!norm%1(verb)=publier%2(verb)=apparaitre
 erschopfung@noun!meinfem%1(noun)=épuisement
 erst@prep%1(prep)=d'abord
 erste@noun!masc%1(noun)=premier
+erstehn@noun!inv%1(noun)=se produire
 erstling@noun!inv%1(noun)=premier
 erwachs@verb!norm%1(verb)=grandir
 erwahn@verb!norm%1(verb)=mentionner

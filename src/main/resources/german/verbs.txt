@@ -23,6 +23,7 @@ aufles,en,[leben],(PAP*aufles*aufgelesen*0)
 aufputz,en,[pflanzen]
 aufricht,en,[segnen]
 aufstell,en,[leben],(PAP*aufstell*aufgestellt*0)
+auftret,en,[leben]
 aufwachs,en,[genesen]
 auswahl,en,[leben],(PAP*auswahl*ausgewahlt*0)
 aufzieh,en,[leben],(PAP*aufzieh*aufgezogen*0)
