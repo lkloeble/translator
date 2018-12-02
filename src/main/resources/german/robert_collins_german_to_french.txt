@@ -1,6 +1,7 @@
 a@noun!inv%1(noun)=a
 ab@prep%1(prep)=de
 abaje@noun!inv%1(noun)=abaje
+abdank@verb!norm%1(verb)=abandonner
 abdruck@verb!norm%1(verb)=inserer
 abend@noun!inv%1(noun)=soir
 abendessen@noun!inv%1(noun)=souper
@@ -17,6 +18,7 @@ abrede@noun!flasche%1(noun)=contradiction
 absalom@noun!inv%1(noun)=absalom
 absatz@noun!jahrzehnt%1(noun)=paragraphe%2(noun)=talon
 abschliess@verb!norm%1(verb)=terminer
+abschnitt@noun!jahrzehnt%1(noun)=segment%2(noun)=paragraphe%3(noun)=section
 absicht@noun!meinfem%1(noun)=objectif
 absinkend@adj!ausreichend%1(adj)=déclinant
 absolut@adj!ausreichend%1(adj)=absolu
@@ -76,6 +78,7 @@ angesehn@noun!inv%1(noun)=considéré
 angst@noun!angst%1(noun)=peur
 anhanglichkeit@noun!meinfem%1(noun)=attachement
 anknupf@verb!norm%1(verb)=rattacher
+ankunft@noun!kunst%1(noun)=arrivée%2(noun)=avènement
 anlehnung@noun!meinmasc%1(noun)=dépendance%2(noun)=modèle
 anm@noun!inv%1(noun)=nb
 anruf@verb!norm%1(verb)=appeler
@@ -231,10 +234,11 @@ beim@prep%1(prep)=en cas de%2(prep)=quand%2(prep)=pendant
 beinahe@prep%1(prep)=pratiquement
 beischreib@verb!norm%1(verb)=inscrire
 beispiel@noun!jahrzehnt%1(noun)=exemple
-beispielsweise@prep%1(prep)=par exemple
 beitrag@verb!norm%1(verb)=contribuera
 beiwohn@verb!norm%1(verb)=avoirdesrelationssexuelles
+beispielsweise@prep%1(prep)=par exemple
 beiwohnung@noun!inv%1(noun)=présence%2(noun)=rapports sexuels
+bekenntnis@noun!jahrzehnt%1(noun)=confession%2(noun)=affirmation
 bekomm@verb!norm%1(noun)=recevoir
 bekummert@noun!inv%1(noun)=concerné
 belast@verb!norm%1(noun)=incriminer
@@ -488,6 +492,7 @@ eben@prep%1(prep)=également
 ebenfalls@prep%1(prep)=également
 ebenso@prep%1(prep)=aussi
 echt@prep%1(prep)=vraiment
+echte@prep%1(prep)=vraiment plus
 edom@noun!inv%1(noun)=edom
 egoistisch@noun!inv%1(noun)=egoiste
 ehe@noun!flasche%1(noun)=couple
@@ -535,9 +540,10 @@ empfand@verb!norm%1(verb)=ressentir
 empfind@verb!norm%1(verb)=ressentir
 empfang@verb!norm%1(verb)=concevoir%2(verb)=accueillir%3(verb)=recevoir
 empfehl@verb!norm%1(verb)=recommander
-endemisch@adj!ausreichend%1(adj)=endémique
 end@noun!inv%1(noun)=final
 ende@noun!flasche%1(noun)=fin
+endemisch@adj!ausreichend%1(adj)=endémique
+endgultig@adj!ausreichend%1(adj)=ultime
 endlich@noun!inv%1(noun)=enfin
 engel@noun!arbeiter%1(noun)=ange
 england@noun!inv%1(noun)=angleterre
@@ -565,6 +571,7 @@ erde@noun!flasche%1(noun)=terre
 erdgeschoss@noun!inv%1(noun)=rez de chaussée
 erdkreis@noun!inv%1(noun)=monde
 erdruck@verb!norm%1(verb)=ecraser
+ereign@verb!norm%1(verb)=produire
 erfahrung@noun!meinfem%1(noun)=expérience
 erfind@verb!norm%1(verb)=inventer
 erfolg@noun!jahrzehnt%1(noun)=succès
@@ -746,6 +753,7 @@ fruher@adj!ausreichend%1(adj)=plus libre
 fug@verb!norm%1(verb)=ajouter
 fuhl@verb!norm%1(verb)=sentir
 fuhrer@noun!arbeiter%1(noun)=dirigeant
+fuhrung@noun!meinfem%1(noun)=direction
 full@verb!norm%1(verb)=remplir
 fundament@noun!jahrzehnt%1(noun)=fondation
 fundamentierung@noun!inv%1(noun)=fondation
@@ -1212,6 +1220,7 @@ les@verb!norm%1(verb)=lire
 leser@noun!inv%1(noun)=lecteur
 letzt@adj!ausreichend%1(adj)=dernier
 letztgultig@adj!ausreichend%1(adj)=ultime%2(adj)=final
+letztwillig@adj!ausreichend%1(adj)=testamentaire
 leuchte@noun!flasche%1(noun)=luminaire
 leuchter@noun!arbeiter%1(noun)=chandelier
 leute@noun!flasche%1(noun)=gens
@@ -1366,6 +1375,7 @@ mystisch@adj!ausreichend%1(adj)=mystique
 mythus@noun!inv%1(noun)=mythe
 n@noun!inv%1(noun)=après
 nach@prep%1(prep)=après%2(prep)=à
+nachdemm@prep%1(prep)=après que%2(prep)=une fois que
 nachdrucklich@adj!ausreichend%1(adj)=insistant
 nachfolgend@adj!ausreichend%1(adj)=suivant
 nachgeschlagen@adj!ausreichend%1(adj)=recherché
@@ -1496,6 +1506,7 @@ platz@noun!phanomen%1(noun)=lieu%2(noun)=place
 politik@noun!inv%1(noun)=politique
 politiker@noun!arbeiter%1(noun)=politicien
 pompejus@noun!inv%1(noun)=pompée
+pomphaft@adj!ausreichend%1(adj)=pompeux
 portrat@noun!meinmasc%1(noun)=portrait
 post@noun!inv%1(noun)=poste
 praktisch@noun!norm%1(noun)=pratique

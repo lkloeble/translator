@@ -13,6 +13,7 @@ abraham@masc%inv
 abrede@fem%flasche
 absalom@masc%inv
 absatz@masc%jahrzehnt
+abschnitt@masc%jahrzehnt
 absicht@fem%meinfem
 absinkend@adj%ausreichend
 absolut@adj%ausreichend
@@ -54,6 +55,7 @@ angeblich@adj%ausreichend
 angesehn@neut%inv
 angst@fem%angst
 anhanglichkeit@fem%meinfem
+ankunft@fem%kunst
 anlehnung@masc%meinmasc
 anm@neut%inv
 anrufung@fem%meinfem
@@ -146,6 +148,7 @@ behutsam@adj%ausreichend
 beigefugt@adj%ausreichend
 beispiel@neut%jahrzehnt
 beiwohnung@fem%inv
+bekenntnis@neut%jahrzehnt
 bekummert@neut%inv
 beleg@masc%jahrzehnt
 belichen@neut%inv
@@ -319,6 +322,7 @@ ekel@neut%zeichen
 eltern@neut%inv
 end@neut%inv
 endemisch@adj%ausreichend
+endgultig@adj%ausreichend
 engel@masc%arbeiter
 entartung@neut%inv
 entbehrung@fem%meinfem
@@ -450,6 +454,7 @@ fruchtbar@adj%ausreichend
 fruh@adj%ausreichend
 fruher@adj%ausreichend
 fuhrer@masc%arbeiter
+fuhrung@fem%meinfem
 fundament@masc%jahrzehnt
 fundamentierung@neut%inv
 funf@neut%inv
@@ -793,6 +798,7 @@ leipzig@neut%inv
 leser@neut%inv
 letzt@adj%ausreichend
 letztgultig@adj%ausreichend
+letztwillig@adj%ausreichend
 leuchte@fem%flasche
 leuchter@masc%arbeiter
 leute@fem%flasche
@@ -1017,6 +1023,7 @@ platz@masc%phanomen
 politik@fem%inv
 politiker@masc%arbeiter
 pompejus@neut%inv
+pomphaft@adj%ausreichend
 portrat@neut%meinmasc
 post@neut%inv
 praktisch@adj%norm

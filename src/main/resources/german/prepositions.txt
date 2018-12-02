@@ -100,6 +100,7 @@ eben@prep()
 ebenfalls@prep()
 ebenso@prep()
 echt@prep()
+echte@prep()
 eilends@prep()
 ein@prep()%[verbLeadingPreposition]
 einerlei@prep()
@@ -202,6 +203,7 @@ moglichst@prep()
 mutterlichseits@prep()
 mutterlicherseits@prep()
 nach@prep()%[verbLeadingPreposition]
+nachdemm@prep()%[verbLeadingPreposition]
 namlich@prep()
 namentlich@prep()
 naturlich@prep()

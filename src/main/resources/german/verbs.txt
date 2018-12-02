@@ -1,3 +1,4 @@
+abdank,en,[leben]
 abdruck,en,[leben],(PAP*abdruck*abgedruckt*0)
 abhang,en,[leben],(PAPR*abhang*abhangend*0)
 abschliess,en,[pflanzen]
@@ -120,6 +121,7 @@ entschlaf,en,[leben],(PAP*entschlaf*entschlafen*0)
 entsteh,en,[entstehen],(AIP*entsteh*entstand*0)
 entweih,en,[leben]
 erdruck,en,[leben]
+ereign,en,[segnen]
 erfind,en,[mochten],(PAP*erfind*erfunden*0@AIP*erfind*erfand*0)
 erfull,en,[leben]
 erhalt,en,[gelten]

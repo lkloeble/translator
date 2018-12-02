@@ -1030,6 +1030,6 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("nietzscheBookGTversuchCha6J", translatorBridge);
+        checkInMaps("nietzscheBookGTversuchCha7F", translatorBridge);
     }
 }
