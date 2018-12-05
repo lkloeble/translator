@@ -373,12 +373,13 @@ verscherz,en,[genesen]
 verschreib,en,[rufen]
 verschieb,en,[rufen],(AIP*verschieb*verschob*0)
 verschweig,en,[lassen],(PAP*verschweig*verschwieg*0)
+versetz,en,[pflanzen]
 versteck,en,[leben],(PAP*versteck*versteckt*0)
 versteh,en,[rufen],(AIP*versteh*verstand*0)
 versterb,en,[leben],(PAP*versterb*verstorben*0)
 verstoss,en,[genesen],(PAP*verstoss*verstossen*0)
-vertausch,en,[leben],(PAP*vertausch*vertauscht*0)
 versuch,en,[leben]
+vertausch,en,[leben],(PAP*vertausch*vertauscht*0)
 verteidig,en,[leben]
 vertrag,en,[leben]
 vertrau,en,[leben]

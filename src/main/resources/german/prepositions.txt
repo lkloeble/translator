@@ -6,6 +6,7 @@ allgemein@prep()
 allzu@prep()
 allzumal@prep()
 als@prep()
+alsdann@prep()
 also@prep()
 am@prep()
 an@prep()%[verbLeadingPreposition]

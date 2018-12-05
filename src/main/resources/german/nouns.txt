@@ -132,6 +132,7 @@ banane@fem%flasche
 band@masc%jahrzehnt
 bandiges@neut%inv
 baren@neut%inv
+baruch@neut%inv
 bastard@neut%bastard
 baum@neut%jahrzehnt
 bauamt@neut%inv
@@ -159,6 +160,7 @@ benjamin@neut%inv
 benutzung@fem%meinfem
 beredt@adj%ausreichend
 bereit@adj%ausreichend
+berg@neut%arbeiter
 bergpredigt@fem%inv
 berlin@neut%inv
 beschaftigung@fem%meinfem
@@ -446,6 +448,7 @@ fremde@fem%inv
 freude@fem%flasche
 freundin@fem%inv
 freund@masc%meer
+freveltat@masc%meinmasc
 frevlerisch@adj%ausreichend
 frieden@masc%autor
 frisch@adj%ausreichend
@@ -631,6 +634,7 @@ heutzutage@neut%inv
 hilfe@fem%flasche
 hillel@neut%inv
 himmel@neut%arbeiter
+hinaufschaffen@neut%inv
 hinausgehend@adj%ausreichend
 hinsicht@fem%meinfem
 hintersinn@fem%inv
@@ -693,6 +697,7 @@ jen@adj%ausreichend
 jerusalem@neut%inv
 jes@neut%inv
 jesu@masc%jesus
+jetzig@adj%ausreichend
 jetzt@neut%inv
 jetztzeit@neut%inv
 jischmael@neut%inv
@@ -1071,6 +1076,7 @@ recht@adj%ausreichend
 rechtfertigung@fem%meinfem
 rechts@neut%inv
 rechten@neut%inv
+regent@masc%artist
 regiment@neut%jahrzehnt
 register@neut%inv
 reich@neut%jahrzehnt
@@ -1105,6 +1111,7 @@ rose@fem%flasche
 rot@adj%ausreichend
 rotgefarbt@adj%ausreichend
 rotlich@adj%ausreichend
+ruckkehr@neut%inv
 rucksicht@fem%meinfem
 ruhelager@neut%inv
 s@neut%inv
@@ -1358,6 +1365,7 @@ ungeheur@adj%ausreichend
 ungemein@adj%ausreichend
 ungewissheit@fem%meinfem
 ungleich@adj%ausreichend
+ungriechischest@adj%ausreichend
 unheimlich@adj%ausreichend
 unheimlichst@adj%ausreichend
 unlustigkeit@neut%inv
@@ -1437,6 +1445,7 @@ versuch@neut%meinmasc
 versucherisch@adj%ausreichend
 verwandt@adj%ausreichend
 verwandtschaftich@neut%meinmasc
+verwirrung@fem%meinfem
 verwohnter@adj%ausreichend
 verwegen@adj%ausreichend
 verzeichnis@neut%erkenntnis
@@ -1565,6 +1574,7 @@ zerstorung@fem%meinfem
 zeugnis@neut%erkenntnis
 zigarette@fem%flasche
 zimmer@fem%inv
+zion@neut%inv
 zitate@fem%jahrzehnt
 zone@fem%flasche
 zorn@masc%phanomen
