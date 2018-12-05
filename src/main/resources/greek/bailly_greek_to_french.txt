@@ -139,6 +139,7 @@
 αφρον@adj!ων-ων-ον%1(adj)=stupide
 βα@noun!inv%1(noun)=ba
 βαβυλων@noun!x-ος%1(noun)=babylone
+βαδιζ@verb!norm%1(verb)=aller
 βαθ@noun!ος-ους%1(noun)=profondeur%2(noun)=hauteur
 βαθ@adj!υς-εια-υ%1(adj)=profond
 βαιν@verb!norm%1(verb)=avancer
@@ -305,6 +306,7 @@
 επιμελως@prep%1(prep)=avec soin
 επιπεδ@noun!ος-ου%1(noun)=niveau%2(noun)=plan
 επιεικ@adj!ης-ης-ες%1(adj)=raisonnable
+επιθυμι@noun!α-ας%1(noun)=concupiscence%2(noun)=désir
 επικουρ@adj!ος-ος-ον%1(adj)=épicure
 επιτελ@verb!norm%1(verb)=completer%2(verb)=accomplir
 επιστολ@noun!η-ης%1(noun)=lettre
@@ -524,6 +526,7 @@
 μικρ@adj!ος-α-ον%1(adj)=petit
 μιλησι@noun!ος-ου%1(noun)=milésien
 μη@prep%1(prep)=non
+μηδε@prep%1(prep)=non plus%2(prep)=pas
 μηδεν@prep%1(prep)=pas un
 μηδενος@prep%1(prep)=rien
 ημετερ@adj!ος-α-ον%1(adj)=notre
@@ -685,6 +688,7 @@
 ποιητικ@noun!ος-ου%1(noun)=poétique
 ποιουν@noun!inv%1(noun)=qui fait
 πολεμ@noun!ος-ου%1(noun)=guerre
+πολιτευ@verb!norm%1(verb)=gouverner%2(verb)=menerunevie
 πονηρ@adj!ος-α-ον%1(adj)=mauvais%(adj)=méchant%3(adj)=malin
 πορ@noun!ος-ου%1(noun)=passage
 πορευ@verb!norm%1(verb)=suivrefort

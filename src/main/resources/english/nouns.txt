@@ -464,6 +464,7 @@ four@neut%invmasc
 fourth@neut%invmasc
 fred@neut%invmasc
 free@neut%invmasc
+freedom@neut%normmasc
 freely@neut%invmasc
 french@neut%church
 frequent@adj%normmasc
@@ -759,6 +760,7 @@ mike@neut%invmasc
 mile@neut%normmasc
 milk@neut%invmasc
 mind@neut%invmasc
+minded@neut%invmasc
 mishna@neut%invmasc
 mishnaic@adj%invmasc
 mist@neut%normmasc
@@ -787,6 +789,7 @@ multitude@neut%normmasc
 museum@masc%normmasc
 music@fem%normfem
 my@neut%invmasc
+myriad@neut%normmasc
 myster@neut%endy
 naked@neut%invmasc
 name@neut%normmasc
@@ -1156,6 +1159,7 @@ super@neut%invmasc
 superfic@fem%endy
 suppl@fem%endy
 sure@neut%invmasc
+suspicious@adj%invmasc
 sweat@neut%invmasc
 swelling@neut%normmasc
 sword@fem%normfem
@@ -1201,7 +1205,7 @@ ticket@neut%normmasc
 tiller@neut%normmasc
 time@neut%normmasc
 tiny@adj%invmasc
-tithe@masc%invmasc
+tithe@masc%normmasc
 title@masc%normmasc
 tm@neut%invmasc
 today@neut%invmasc
@@ -1265,7 +1269,9 @@ view@fem%normfem
 video@neut%normmasc
 village@neut%normmasc
 vine@neut%normmasc
+vinedresser@neut%normmasc
 vinegar@masc%normmasc
+vineyard@masc%normmasc
 virtue@fem%normfem
 voice@neut%normmasc
 void@neut%invmasc

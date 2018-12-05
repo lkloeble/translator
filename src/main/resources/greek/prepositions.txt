@@ -74,6 +74,7 @@
 μεταacc@prep()
 μεταgen@prep()
 μη@prep()
+μηδε@prep()
 μηδεν@prep()
 μηδενος@prep()
 μην@prep()
