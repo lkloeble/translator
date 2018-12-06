@@ -2153,6 +2153,7 @@ vorsicht@noun!inv%1(noun)=prudence
 vorsichtig@adj!ausreichend%1(adj)=prudent
 vorstell@verb!norm%1(verb)=presenter2
 vorstellung@noun!meinfem%1(noun)=représentation%2(noun)=concept%2(noun)=spectacle
+vortrag@verb!norm%1(verb)=exposer
 vorubergeh@verb!norm%1(verb)=negliger
 vorurteil@noun!rest%1(noun)=préjugé
 vorwand@noun!jahrzehnt%1(noun)=prétexte

@@ -392,6 +392,7 @@ vorbereit,en,[leben]
 vorhaben@IRREGULAR%[IPR]=[vorhabe,vorhast,vorhat,vorhaben,vorhabt,vorhaben]%[INFINITIVE]=[vorhaben]
 vorleg,en,[leben]
 vorstell,en,[leben]
+vortrag,en,[leben],(PAP*vortrag*vorgetragen*0)
 vorubergeh,en,[rufen],(PAP*vorubergeh*voruberzugehen*0)
 wachs,en,[genesen],(PAP*wa*gewa*0)
 wag,en,[leben],(PAP*wag*gewagt*0)
