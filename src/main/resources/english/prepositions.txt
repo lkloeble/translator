@@ -28,6 +28,7 @@ around@prep()
 as@prep()
 aside@prep()
 at@prep()
+away@prep()
 back@prep()%[comeBackVerbFinder]
 backward@prep()
 because@prep()

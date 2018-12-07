@@ -29,6 +29,7 @@ banish,[call]
 base,[live]
 be@IRREGULAR%[INFINITIVE]=[to be]%[IPR]=[am,are,is,are,are,are]%[AII]=[was,was,was,were,were,were]%[PAPR]=[being]%[AIF]=[bewill,bewill,bewill,bewill,bewill,bewill]%[ACP]=[bewould,bewould,bewould,bewould,bewould,bewould]%[ASP]=[ambe,arebe,be,ambe,arebe,bebe]%[AIMP]=[letbe,letbe,letbe,letbe,letbe,letbe]%[PAP]=[been]
 bear,[live],(AIP*beard*bore*0)
+beat,[live]
 become,[become],(AIP*beco*beca*0)
 beget,[live],(AIP*begetd*begot*0)
 begin,[live]
@@ -123,7 +124,7 @@ divide,[live],(PAPR*divide*divid*0)
 divorce,[live]
 do,[live],(AIP*dod*did*0@IPR2*dos*does*0@AII*do*did*0@PAP*dod*done*0)
 doubt,[call]
-draw,[live],(PAP*drawd*drawn*0)
+draw,[live],(PAP*drawd*drawn*0@AIP*drawd*drew*0)
 drink,[call],(AIP*drinked*drank*0)
 drive,[live],(AIP*drived*drove*0@PAP*drived*driven*0)
 dwell,[live],(AII*dwelld*dwelt*0)
@@ -190,6 +191,7 @@ imitate,[live],(PAPR*imitatei*imitati*0)
 impl,[imply]
 improve,[live]
 include,[live]
+increase,[live]
 inhabit,[call]
 intercalate,[live]
 interpret,[live]
@@ -262,6 +264,7 @@ quote,[live]
 rain,[call]
 reach,[call]
 read,[live]
+rebel,[live]
 receive,[live]
 recite,[live]
 reckon,[call]
@@ -310,6 +313,7 @@ sing,[live]
 sit,[live],(AIP*sitd*sat*0)
 ski,[live]
 skirt,[live]
+slay,[live],(AIP*slayd*slew*0)
 sleep,[live],(AIP*sleepd*slept*0)
 smoke,[live],(PAPR*smoke*smok*0)
 smooth,[teach]
@@ -372,5 +376,6 @@ would,[live],(IPR*woulds*would*0)
 wound,[call]
 win,[call]
 work,[call]
+wrest,[call]
 write,[live],(PAP*writed*written*0)
 yield,[live]

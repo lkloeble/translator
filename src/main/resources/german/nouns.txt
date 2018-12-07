@@ -623,6 +623,7 @@ herabzusetzen@neut%inv
 herberge@fem%flasche
 herkunft@fem%norm
 herr@neut%meinmasc
+herrichtung@neut%meinmasc
 herrlichkeit@fem%meinfem
 herrschaft@fem%meinfem
 herrscher@masc%arbeiter
@@ -676,6 +677,7 @@ ironiker@neut%inv
 irrenarzte@neut%inv
 irrtum@masc%licht
 isaak@masc%autor
+isais@neut%inv
 isr@neut%inv
 israel@neut%inv
 israelit@neut%meinmasc
@@ -914,6 +916,7 @@ muhselig@adj%ausreichend
 multikulturell@adj%ausreichend
 mundlich@adj%ausreichend
 murmeltier@neut%arbeiter
+musaph@neut%inv
 musee@fem%flasche
 museum@neut%zeichen
 musik@fem%inv
@@ -1052,12 +1055,14 @@ ps@neut%inv
 pseudepigraphe@fem%flasche
 psychologisch@adj%ausreichend
 punktlich@neut%inv
+qaddisch@neut%inv
 qid@neut%inv
 quader@neut%arbeiter
 qual@fem%meinfem
 qualitat@fem%meinfem
 r@neut%inv
 rab@neut%inv
+rabannan@neut%inv
 rabbi@masc%inv[nomplr:rabbis]
 rabbinen@masc%inv
 rabbiner@masc%burger
@@ -1319,7 +1324,7 @@ tora@neut%inv
 tos@neut%inv
 tosephta@neut%inv
 toricht@adj%ausreichend
-tot@neut%inv
+tot@adj%ausreichend
 tradition@fem%meinfem
 tragisch@adj%ausreichend
 tragodie@fem%flasche

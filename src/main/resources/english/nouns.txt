@@ -128,7 +128,9 @@ breakfast@neut%invmasc
 breast@fem%normfem
 breath@neut%invmasc
 brethren@neut%invmasc
+bride@fem%normfem
 bridge@masc%normmasc
+bridegroom@masc%normmasc
 britain@neut%invmasc
 british@neut%invmasc
 broad@adj%invmasc
@@ -145,6 +147,7 @@ businesse@masc%invmasc
 busy@neut%invmasc
 byanychance@neut%invmasc
 bytheway@neut%invmasc
+caesar@neut%invmasc
 caesarea@neut%invmasc
 cain@masc%invmasc
 calor@fem%endy
@@ -207,6 +210,7 @@ cloudy@neut%invmasc
 club@neut%normmasc
 coast@neut%normmasc
 coat@neut%normmasc
+cock@neut%normmasc
 coffee@neut%invmasc
 col@neut%invmasc
 cold@adj%invmasc
@@ -272,6 +276,7 @@ cup@fem%normfem
 curiosit@fem%endy
 curry@neut%invmasc
 cursing@neut%invmasc
+custom@neut%normmasc
 cutting@neut%invmasc
 cush@neut%invmasc
 damascus@neut%invmasc
@@ -384,6 +389,7 @@ enmit@fem%endy
 enoch@neut%invmasc
 entrance@fem%normfem
 env@fem%endy
+equal@adj%normmasc
 equity@fem%invfem
 erastian@adj%normmasc
 essene@neut%normmasc
@@ -399,6 +405,7 @@ exaggeration@fem%normfem
 example@masc%normmasc
 excellent@neut%normmasc
 except@neut%invmasc
+excepting@neut%invmasc
 exclusion@neut%normmasc
 exercise@neut%normmasc
 exercitation@neut%normmasc
@@ -555,6 +562,7 @@ hell@masc%invmasc
 hello@neut%invmasc
 help@fem%invfem
 helper@masc%normmasc
+hen@neut%normmasc
 herb@fem%normfem
 heretic@neut%normmasc
 herdsman@masc%normmasc[nomplr:herdsmen]
@@ -985,6 +993,7 @@ reference@fem%normfem
 reflected@adj%invmasc
 reformation@neut%normmasc
 regard@neut%normmasc
+regiment@neut%normmasc
 region@neut%normmasc
 rejection@neut%normmasc
 related@masc%invmasc
@@ -1013,6 +1022,7 @@ roger@neut%invmasc
 romans@neut%invmasc
 room@fem%normfem
 root@fem%normfem
+rough@adj%invmasc
 royal@adj%invmasc
 rush@neut%normfem
 rushy@adj%invmasc
@@ -1286,6 +1296,7 @@ wall@neut%normmasc
 war@neut%normmasc
 washing@neut%invmasc
 washingup@neut%invmasc
+waste@neut%invmasc
 watch@neut%church
 water@neut%normmasc
 way@neut%normmasc
