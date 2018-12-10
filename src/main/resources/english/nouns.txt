@@ -580,6 +580,7 @@ home@fem%normfem
 hope@neut%normmasc
 horeb@neut%invmasc
 horrid@adj%invmasc
+hospitalit@neut%endy
 host@neut%normmasc
 hot@neut%invmasc
 hotel@neut%invmasc
