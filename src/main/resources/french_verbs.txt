@@ -157,7 +157,7 @@ contribuera@NORM%[INFINITIVE]=[contribuer à]%[IPR]=[contribue à,contribues à,
 controler@NORM%[INFINITIVE]=[contrôler]%[IPR]=[contrôle,contrôles,contrôle,contrôlons,contrôlez,contrôlent]
 convaincre@NORM%[INFINITIVE]=[convaincre]%[IPR]=[convaincs,convaincs,convainc,convainquons,convainquez,convainquent]%[AII]=[convainquais,convainquais,convainquait,convainquions,convainquiez,convainquaient]
 convenir@NORM%[IPR]=[conviens,conviens,convient,convenons,convenez,conviennent]%[INFINITIVE]=[convenir]
-correspondre@NORM%[INFINITIVE]=[correspondre]%[IPR]=[corresponds,corresponds,correspond,correspondons,correspondez,correspondent]
+correspondre@NORM%[INFINITIVE]=[correspondre]%[IPR]=[corresponds,corresponds,correspond,correspondons,correspondez,correspondent]%[PAP]=[correspondu]
 corrompre@NORM%[INFINITIVE]=[corrompre]%[IPR]=[corromps,corromps,corrompt,corrompons,corrompez,corrompent]%[PSI]=[fus corrompu,fus corrompu,fut corrompu,fûmes corrompus,fûtes corrompus,furent corrompus]
 corriger@NORM%[INFINITIVE]=[corriger]%[IPR]=[corrige,corriges,corrige,corrigeons,corrigez,corrigent]%[PII]=[a été corrigé,as été corrigé,a été corrigé,avons été corrigé,avez été corrigé,ont été corrigé]%[AII]=[corrigeais,corrigeais,corrigeait,corrigions,corrigiez,corrigeaient]%[PAP]=[corrigé]
 couler@NORM%[INFINITIVE]=[couler]%[IPR]=[coule,coules,coule,coulons,coulez,coulent]%[AIF]=[coulerai,couleras,coulera,coulerons,coulerez,couleront]%[NIFAIF]=[coulerai,couleras,coulera,coulerons,coulerez,couleront]%[PAPR]=[coulant]

@@ -120,6 +120,7 @@ enthalt,en,[gelten]
 entlass,en,[genesen]
 entnehm,en,[leben]
 entschlaf,en,[leben],(PAP*entschlaf*entschlafen*0)
+entsprech,en,[leben],(PAP*entsprech*entsprochen*0)
 entsteh,en,[entstehen],(AIP*entsteh*entstand*0)
 entweih,en,[leben]
 erdruck,en,[leben]

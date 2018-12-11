@@ -140,6 +140,7 @@ beamt@masc%artist
 bedeutsamkeit@fem%meinfem
 bedeutung@fem%meinfem
 bedeutungslos@adj%ausreichend
+bedingung@fem%meinfem
 begrundung@fem%meinfem
 bedurfnis@neut%erkenntnis
 begehren@neut%inv
@@ -156,8 +157,10 @@ belichen@neut%inv
 bemuh@neut%meinmasc
 ben@neut%inv
 beneidet@adj%ausreichend
+benebelnd@adj%ausreichend
 benjamin@neut%inv
 benutzung@fem%meinfem
+berauschend@adj%ausreichend
 beredt@adj%ausreichend
 bereit@adj%ausreichend
 berg@neut%arbeiter
@@ -209,6 +212,7 @@ bretter@neut%inv
 brief@masc%norm
 brigitte@fem%inv
 brot@neut%wurst
+bruch@masc%jahrzehnt
 bruder@masc%arbeiter
 brunstig@adj%ausreichend
 br@neut%inv
@@ -291,6 +295,7 @@ ehe@fem%flasche
 ehelich@adj%ausreichend
 ehrenamter@neut%burger
 eigen@adj%ausreichend
+eigenschaft@fem%meinfem
 eigentlich@adj%ausreichend
 ein@adj%ausreichend
 einfach@adj%ausreichend
@@ -945,6 +950,7 @@ namenlos@adj%ausreichend
 namens@neut%inv
 namensvetter@masc%masc
 namhaft@adj%ausreichend
+narkotikum@neut%inv
 nase@fem%flasche
 nathanael@neut%inv
 nebel@neut%arbeiter
@@ -1335,6 +1341,7 @@ treu@adj%ausreichend
 trotz@masc%meer
 trotzig@adj%ausreichend
 trocken@adj%ausreichend
+tugend@fem%meinfem
 turm@masc%jahrzehnt
 u@neut%inv
 uberdruss@fem%meinfem
@@ -1592,6 +1599,7 @@ zugrunde@fem%flasche
 zunge@fem%flasche
 zukunftig@adj%ausreichend
 zurechtmachung@fem%inv
+zusammenbruch@masc%jahrzehnt
 zusammenhang@masc%meer
 zusammenrotten@neut%inv
 zusatz@masc%phanomen
