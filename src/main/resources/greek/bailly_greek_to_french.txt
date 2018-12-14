@@ -86,6 +86,7 @@
 αορατ@adj!ος-ος-ον%1(adj)=invisible
 απα@adj!apas%1(noun)=tout
 απειμι@verb!irrg%1(verb)=etreabsent
+απαγγελλ@verb!norm%1(verb)=relater
 απειρ@noun!ος-ου%1(noun)=infini
 απολειπ@verb!norm%1(verb)=delaisser
 απλ@adj!ους-η-ουν%1(adj)=simple
@@ -244,6 +245,7 @@
 ειρ@verb!norm%1(verb)=appeler
 ειρην@noun!η-ης%1(noun)=paix
 εις@prep%1(prep)=dans%2(prep)=vers
+εισερχ@verb!norm%1(verb)=entrer
 εκ@prep%1(prep)=hors de
 εκκαι@verb!norm%1(verb)=bruler
 εκαστ@adj!ος-η-ον%1(adj)=chacun%2(adj)=chaque
@@ -836,6 +838,7 @@
 τροχ@noun!ος-ου%1(noun)=roue
 τροχοειδ@adj!ης-ης-ες%1(noun)=rond
 τυφλ@adj!ος-η-ον%1(adj)=aveugle
+τυφων@noun!x-ος2%1(noun)=typhon
 τω@prep%1(prep)=au
 των@prep%1(prep)=aux
 οφθαλμ@noun!ος-ου%1(noun)=oeil
@@ -904,6 +907,7 @@
 χειρ@noun!x-ος2%1(noun)=main
 χηρ@noun!α-ας%1(noun)=veuve
 χι@noun!ος-ου%1(noun)=chio
+χλωρ@adj!ος-α-ον%1(adj)=vert pâle
 χορτ@noun!ος-ου%1(noun)=nourriture%2(noun)=foin%3(noun)=pâturage
 χρει@noun!α-ας%1(noun)=besoin
 χριστ@noun!ος-ου%1(noun)=Christ
