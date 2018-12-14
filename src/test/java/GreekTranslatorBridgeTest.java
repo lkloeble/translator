@@ -104,7 +104,7 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "ερχ,ομαι,[ομαι-η],(ACAOIN*ερχ*ηλθ*0@AORACTPART*ερχ*ελθ*0)"
+                "αναλαμβαν,ειν,[ω-εις],(PERACTPAR*αναλαμβαν*ανειληφοτ*0)"
         });
         */
         return getFileContentForRepository(verbFileDescription);
@@ -721,7 +721,7 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failed_ones() {
         assertTrue(true);
-        checkInMaps("anaxL", translatorBridge);
+        checkInMaps("clement3J", translatorBridge);
         //checkInMaps("toto3", translatorBridge);
     }
 }

@@ -21,6 +21,7 @@
 αδελφ@noun!ος-ου%1(noun)=frère
 αδελφοτ@noun!ης-ητος%(noun)=fraternité
 αδικε@verb!norm%1(verb)=pecher
+αδικ@adj!ος-ος-ον%1(adj)=injuste
 αδικι@noun!α-ας%1(noun)=injustice
 αδοξ@adj!ος-η-ον%1(adj)=sans gloire
 αε@noun!ρ-ρος%1(noun)=air
@@ -69,6 +70,7 @@
 αναγινωσκ@verb!norm%1(verb)=lire
 αναγιγνωσκ@verb!norm%1(verb)=lire2
 αναδιδομεν@adj!ος-η-ον%1(adj)=produit
+αναλαμβαν@verb!norm%1(verb)=reprendre
 αναμεσον@prep%1(prep)=au milieu de%2(prep)=entre
 αναξιμανδρ@noun!ος-ου%1(noun)=anaximandre
 ανατολ@noun!η-ης%1(noun)=est
@@ -123,6 +125,7 @@
 αρχ@verb!norm%1(verb)=gouverner%2(verb)=commencer
 αρχετωσαν@noun!inv%1(noun)=qu'ils gouvernent
 αρχιερε@noun!υς-ως%1(noun)=grand prêtre
+ασεβ@adj!ης-ης-ες%1(adj)=impie%2(adj)=sacrilège
 ασαφ@noun!inv%1(noun)=asa
 ασθεν@verb!norm%1(verb)=etrefaible
 ασφαλ@adj!ης-ης-ες%1(adj)=sûr

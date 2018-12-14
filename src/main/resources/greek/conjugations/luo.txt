@@ -29,6 +29,7 @@ FUTPARTACT=>ειν|ιν,-x,-x,-x
 PRESPASPART=>-x,-x,ομενοι,ουμενοι
 MIDPASSSUBJPRE=>ωμαι,η,ηται,ωμεθα,ησθε,ωνται|εσθωσαν
 AORACTPART=>ας|ων,-x,-x,-x
+PERACTPAR=>[ος-η-ον]
 PAP=>[ων-ουσα-ον]
 PIP=>ωμαι,α,αται,ωμεθα,ασθε,ωνται
 PERFMIDPASSINDI=>μμαι,ψαι,πται,μμεθα,φθε,φαται

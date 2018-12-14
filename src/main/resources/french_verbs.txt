@@ -599,6 +599,7 @@ repandre@NORM%[IPR]=[répandre]%[IPR]=[répands,répands,répand,répandons,rép
 repeter@NORM%[INFINITIVE]=[répèter]%[IPR]=[répète,répètes,répète,répètons,répètez,répètent]%[AIMP]=[répète,répétons,répétez]
 repondre@NORM%[INFINITIVE]=[répondre]%[IPR]=[réponds,réponds,répond,répondons,répondez,répondent]%[AIMP]=[réponds,répondez]%[PAP]=[répondu]%[AIP]=[répondis,répondis,répondit,répondîmes,répondîtes,répondirent]
 reposer@NORM%[INFINITIVE]=[reposer]%[IPR]=[repose,reposes,repose,reposons,reposez,reposent]%[PAP]=[reposé]%[AIP]=[reposai,reposas,reposa,reposâmes,reposâtes,reposèrent]%[AIMP]=[repose,reposons,reposez]
+reprendre@NORM%[INFINITIVE]=[reprendre]%[IPR]=[reprends,reprends,reprend,reprenons,reprenez,reprennent]%[PERACTPAR]=[repris]
 representer@NORM%[INFINITIVE]=[représenter]%[IPR]=[représente,représentes,représente,représentons,représentez,représentent]
 repudier@NORM%[INFINITIVE]=[répudier]%[IPR]=[répudie,répudies,répudie,répudions,répudiez,répudient]%[PAP]=[répudié]
 requerir@NORM%[INFINITIVE]=[requérir]%[IPR]=[requiers,requiers,requiert,requérons,requérez,requièrent]
