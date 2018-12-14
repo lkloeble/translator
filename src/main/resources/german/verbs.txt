@@ -263,6 +263,7 @@ pass,en,[leben]
 pflanz,en,[pflanzen]
 pfleg,en,[leben]
 plan,en,[leben],(PAPR*plan*planend*0@PAP*plan*geplant*0)
+praludier,en,[leben]
 preis,en,[genesen],(PAP*preis*gepriesen*0)
 profanier,en,[leben],(PAP*profanier*profaniert*0)
 pruf,en,[leben],(PAP*pruf*gepruft*0)

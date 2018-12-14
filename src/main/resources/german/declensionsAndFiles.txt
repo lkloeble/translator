@@ -38,3 +38,4 @@ mass%mass.txt
 herz%herz.txt
 zeh%zeh.txt
 prinzip%prinzip.txt
+hirte%hirte.txt

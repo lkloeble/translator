@@ -58,6 +58,7 @@ anhanglichkeit@fem%meinfem
 ankunft@fem%kunst
 anlehnung@masc%meinmasc
 anm@neut%inv
+anerkennung@fem%meinfem
 anrufung@fem%meinfem
 anschauung@fem%meinfem
 anschein@masc%arbeiter
@@ -244,6 +245,7 @@ dank@fem%norm
 dasein@neut%rest
 david@masc%inv
 davidide@masc%inv
+davidische@masc%inv
 davids@masc%inv
 deckung@fem%meinfem
 demokrat@masc%meinmasc
@@ -644,6 +646,7 @@ hinaufschaffen@neut%inv
 hinausgehend@adj%ausreichend
 hinsicht@fem%meinfem
 hintersinn@fem%inv
+hirte@masc%hirte
 hoch@adj%inv
 hochmutig@adj%ausreichend
 hoffnung@fem%meinfem
@@ -957,6 +960,7 @@ nebel@neut%arbeiter
 neh@neut%inv
 nein@neut%inv
 nennung@fem%meinfem
+nerv@masc%schmerz
 neu@adj%mein
 neuer@adj%ausreichend
 neuerung@fem%meinfem
@@ -1341,6 +1345,7 @@ treu@adj%ausreichend
 trotz@masc%meer
 trotzig@adj%ausreichend
 trocken@adj%ausreichend
+trunk@masc%jahrzehnt
 tugend@fem%meinfem
 turm@masc%jahrzehnt
 u@neut%inv
@@ -1359,6 +1364,7 @@ uhr@fem%inv
 umfang@masc%meinmasc
 umfangreich@adj%ausreichend
 umfangreichst@adj%ausreichend
+umstand@masc%jahrzehnt
 umwelt@fem%inv
 unabhangig@adj%ausreichend
 unangenehm@adj%ausreichend
@@ -1369,6 +1375,7 @@ unbekummert@neut%inv
 unberedt@adj%ausreichend
 unbescheidenheit@neut%inv
 unerkannt@adj%ausreichend
+unerlasslich@adj%ausreichend
 unfall@masc%phanomen
 unfruchtbar@adj%ausreichend
 ungarisch@adj%ausreichend
@@ -1380,6 +1387,7 @@ ungleich@adj%ausreichend
 ungriechischest@adj%ausreichend
 unheimlich@adj%ausreichend
 unheimlichst@adj%ausreichend
+unklarheit@fem%meinfem
 unlustigkeit@neut%inv
 unmoglich@neut%meinmasc
 unmoralisch@adj%ausreichend
@@ -1418,6 +1426,7 @@ verborgenheit@masc%meinmasc
 verbot@neut%phanomen
 verboten@adj%ausreichend
 verbunden@adj%ausreichend
+verderberin@neut%inv
 verdienst@neut%jahrzehnt
 verdorben@adj%ausreichend
 verehelichung@fem%meinfem
@@ -1478,7 +1487,7 @@ voll@adj%ausreichend
 vollburtig@adj%ausreichend
 voller@adj%ausreichend
 vollendet@adj%ausreichend
-vorausstezung@fem%meinfem
+voraussetzung@fem%meinfem
 vorbild@neut%meer
 vorchristl@neut%inv
 vorfahre@masc%flasche
