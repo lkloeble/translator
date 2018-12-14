@@ -1007,9 +1007,37 @@ lightfoot_ch1142=>III. The town of males; so called, saith R. Jochanan, because 
 lightfoot_ch1143=>This story is recited by the Jerusalem Talmudists, who say the town of males is so called, because,
 lightfoot_ch1144=>unless the women departed thence somewhere else, they could not bring forth male children.
 lightfoot_ch1145=>"But (saith Ulla) I saw that place, and it is not able to contain even sixty myriads of nests.
-lightfoot_ch1146=>Therefore, said a certain sectary of R. Chaninah, Ye lie, ye lie.
-lightfoot_ch1147=>To whom he replied, That land is called 'the land of a Kid': but now 'a kid' hath a skin, that does not contain his flesh:
+lightfoot_ch1146=>Therefore, said a certain sectary of R. |Chaninah|, Ye lie, ye lie.
+lightfoot_ch1147=>To whom he replied, That land is called "the land of a Kid": but now "a kid" hath a skin, that does not contain his flesh:
 lightfoot_ch1148=>so the land of Israel, while it is inhabited, is spacious; but, when uninhabited, more contracted."
+
+lightfoot_ch1200=>The South Country. Judea Called 'the South,' in Respect of Galilee.
+lightfoot_ch1201=>Rabban Gamaliel, and the elders sitting together at the ascent into the gallery, in the mount of the Temple, had Jochanan,
+lightfoot_ch1202=>the priest, and the amanuensis, sitting with them.
+lightfoot_ch1203=>They said to him, "Go to, write to our brethren, the inhabitants of Upper Galilee, and Nether Galilee, health:
+lightfoot_ch1204=>we certify you, that the time is come of separating the tithes.
+lightfoot_ch1205=>And to our brethren, that inhabit the Upper South Country, and that inhabit the Nether South Country, health: we certify you," &c.
+lightfoot_ch1206=>The 'Upper South country' consisted of that part of the country, which was hilly;
+lightfoot_ch1207=>the 'Nether,' of a plain, and valley sinking on both sides. Which country, although it were barren above all other parts of the land,
+lightfoot_ch1208=>yet had its inhabitants, and those many, as well as other countries of the land.
+lightfoot_ch1209=>He that turns over the Talmudical books, will meet very frequently with the name of the 'South,' taken for 'whole Judea' in opposition to 'Galilee.'
+lightfoot_ch1210=>"Those of Zippor enjoined a fast to obtain rain, but the rain came not down.
+lightfoot_ch1211=>Therefore, said they of Zippor, R. Joshua Ben Levi obtained rain for the southern people:
+lightfoot_ch1212=>but R. Chaninah hinders it from coming upon the people of Zippor.
+lightfoot_ch1213=>They were called, therefore, together to a second fast. R. Chaninah sent to fetch R. Joshua Ben Levi.
+lightfoot_ch1214=>And both went out to the fast, and yet rain fell not.
+lightfoot_ch1215=>He stood forth, therefore, and said before them, Neither doth Joshua Ben Levi obtain rain for the southern people,
+lightfoot_ch1216=>nor does R. Chaninah restrain it from the people of Zippor:
+lightfoot_ch1217=>but the southern people have a soft heart, to hear the words of the law and be humbled: but the people of Zippor have a hard heart."
+lightfoot_ch1218=>But now R. Joshua Ben Levi, who was called "the southern," was of Lydda: and those southern people,
+lightfoot_ch1219=>for whom he obtained rain, were of Lydda, and such as dwelt in that country.
+lightfoot_ch1220=>"A devout disciple learned the intercalation of the year before his master, three years and a half:
+lightfoot_ch1221=>he came, and intercalated for Galilee: but he could not intercalate for the south," that is, for Judea
+lightfoot_ch1222=>Hence you may understand, in what sense some Rabbins are called southern: as "R. Jacob of the south"..."R. Samlai of the south";
+lightfoot_ch1223=>whom you have disputing with certain, whom the Gemarists call heretics: whom I think rather to have been 'Christians.'
+lightfoot_ch1224=>And it seems to be the disputation of a Christian purposed to assert a trinity of persons in the Deity, but nevertheless a unity of the Deity.
+lightfoot_ch1225=>After you have heard the matter, perhaps you will be of my judgment. View the place.
+
 
 
 lightfootbase=>http://biblehub.com/library/lightfoot/from_the_talmud_and_hebraica/index.html

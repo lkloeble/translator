@@ -387,6 +387,7 @@ consult@verb!norm%1(verb)=consulter
 contain@verb!norm%1(verb)=contenir
 contend@verb!norm%1(verb)=soutenir
 contiguous@adj!invmasc%1(adj)=contigu
+contracted@adj!invmasc%1(adj)=contracté
 contradiction@noun!normfem%1(noun)=contradiction
 contemporar@noun!endy%1(noun)=contemporain
 contribution@noun!normfem%1(noun)=contribution
@@ -1189,6 +1190,7 @@ neither@prep%1(prep)=aucun%2(prep)=non plus%3(prep)=ni
 neighbourhood@noun!invmasc%1(noun)=voisinage
 neighbouring@noun!invmasc%1(noun)=alentour
 nerve@noun!normmasc%1(noun)=nerf
+nest@noun!normmasc%1(noun)=nid
 never@noun!invmasc%1(noun)=jamais
 nevertheless@prep%1(prep)=néanmoins
 next@noun!normmasc%1(noun)=prochain
@@ -1465,6 +1467,7 @@ remark@verb!norm%1(verb)=remarquer
 remind@verb!norm%1(verb)=rappeler
 remote@noun!invmasc%1(noun)=éloigné
 render@verb!norm%1(verb)=rendre
+repl@verb!norm%1(verb)=repondre
 report@verb!norm%1(verb)=rapporter
 reprinted@noun!normmasc%1(noun)=réimprimé
 require@verb!norm%1(verb)=requerir
@@ -1539,6 +1542,7 @@ sea@noun!normmasc%1(noun)=mer
 seaman@noun!normmasc%1(noun)=pêcheur%2(noun)=marin
 searcher@noun!normmasc%1(noun)=explorateur%2(noun)=chercheur
 seat@verb!norm%1(verb)=sasseoir
+sectar@noun!endy%1(noun)=sectaire
 sedgy@adj!invmasc%1(adj)=énervé
 sedition@noun!normmasc%1(noun)=sédition
 self@prep%1(prep)=même
@@ -1647,6 +1651,7 @@ soveraigne@noun!invmasc%1(noun)=souverain
 soveraignt@noun!endy%1(noun)=souveraineté
 sp@noun!endy%1(noun)=espion
 space@noun!normmasc%1(noun)=espace
+spacious@adj!invmasc%1(adj)=spacieux%2(adj)=grand%3(adj)=vaste
 speech@noun!church%1(noun)=discours
 speak@verb!norm%1(verb)=parler
 spice@noun!normmasc%1(noun)=épice
@@ -1859,6 +1864,7 @@ undergo@verb%1(verb)=subir
 understand@verb%1(verb)=comprendre
 unfortunately@prep%1(prep)=malheureusement
 unhappy@adj!invmasc%1(adj)=malheureux
+uninhabited@noun!invmasc%1(noun)=inhabité
 unite@verb%1(verb)=unir
 university@noun!invmasc%1(noun)=université
 unknown@noun!invmasc%1(noun)=inconnu

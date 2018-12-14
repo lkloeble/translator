@@ -362,7 +362,7 @@ gronder@NORM%[INFINITIVE]=[gronder]%[IPR]=[gronde,grondes,gronde,grondons,gronde
 grossir@NORM%[INFINITIVE]=[grossir]%[IPR]=[grossis,grossis,grossit,grossissons,grossissez,grossissent]%[PAPR]=[grossissant]
 guerir@NORM%[INFINITIVE]=[guérir]%[IPR]=[guéris,guéris,guérit,guérissons,guérissez,guérissent]%[AII]=[guérissais,guérissais,guérissait,guérissions,guérissiez,guérissaient]
 habiller@NORM%[INFINITIVE]=[habiller]%[IPR]=[habille,habilles,habille,habillons,habillez,habillent]%[AII]=[habillais,habillais,habillait,habillions,habilliez,habillaient]
-habiter@NORM%[INFINITIVE]=[habiter]%[IPR]=[habite,habites,habite,habitons,habitez,habitent]%[AII]=[habitais,habitais,habitait,habitions,habitiez,habitaient]%[PAPR]=[habitant]
+habiter@NORM%[INFINITIVE]=[habiter]%[IPR]=[habite,habites,habite,habitons,habitez,habitent]%[AII]=[habitais,habitais,habitait,habitions,habitiez,habitaient]%[PAPR]=[habitant]%[PAP]=[habité]
 habituer@NORM%[INFINITIVE]=[habituer]%[IPR]=[habitue,habitues,habitue,habituons,habituez,habituent]
 hair@NORM%[IPR]=[hais,hais,haït,haïssons,haïssez,haïssent]%[INFINITIVE]=[haïr]
 heriter@NORM%[INFINITIVE]=[hériter]%[IPR]=[hérite,hérites,hérite,héritons,héritez,héritent]%[PSP]=[hérite,hérites,hérite,héritions,héritiez,héritent]%[AIP]=[héritai,héritas,hérita,héritâmes,héritâtes,héritèrent]

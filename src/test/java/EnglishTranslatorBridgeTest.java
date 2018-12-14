@@ -42,8 +42,8 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
         String englishPathFile = "C:\\translator\\src\\test\\resources\\english_content.txt";
         String englishResultFile = "C:\\translator\\src\\test\\resources\\english_expected_results.txt";
         EnglishDeclensionFactory englishDeclensionFactory = new EnglishDeclensionFactory(getDeclensions(declensionsAndFiles), getDeclensionList(declensionsAndFiles, declensionPath));
-        NounRepository nounRepository = new NounRepository(Language.ENGLISH, englishDeclensionFactory, new DummyAccentuer(),getFileContentForRepository(nounFileDescription));
-        VerbRepository verbRepository = new VerbRepository(new EnglishConjugationFactory(getEnglishConjugations(conjugationsAndFiles), getEnglishConjugationDefinitions(conjugationsAndFiles, conjugationPath),nounRepository), Language.ENGLISH, new DummyAccentuer() ,getVerbs(verbFileDescription));
+        NounRepository nounRepository = new NounRepository(Language.ENGLISH, englishDeclensionFactory, new DummyAccentuer(), getFileContentForRepository(nounFileDescription));
+        VerbRepository verbRepository = new VerbRepository(new EnglishConjugationFactory(getEnglishConjugations(conjugationsAndFiles), getEnglishConjugationDefinitions(conjugationsAndFiles, conjugationPath), nounRepository), Language.ENGLISH, new DummyAccentuer(), getVerbs(verbFileDescription));
         EnglishRuleFactory ruleFactory = new EnglishRuleFactory();
         PrepositionRepository prepositionRepository = new PrepositionRepository(Language.ENGLISH, new EnglishCaseFactory(), ruleFactory, getFileContentForRepository(prepositionFileDescription));
         Analizer englishAnalyzer = new EnglishAnalyzer(prepositionRepository, nounRepository, verbRepository);
@@ -82,11 +82,11 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
 
         List<String> conjugationNameList = getFileContentForRepository(file);
         Map<String, List<String>> englishConjugationDefinitionsMap = new HashMap<>();
-        for(String conjugationName : conjugationNameList) {
+        for (String conjugationName : conjugationNameList) {
             String parts[] = conjugationName.split("%");
             String fileName = parts[1];
             String nameOnly = parts[0];
-            englishConjugationDefinitionsMap.put(nameOnly, getConjugationElements(directory,fileName));
+            englishConjugationDefinitionsMap.put(nameOnly, getConjugationElements(directory, fileName));
         }
         return englishConjugationDefinitionsMap;
     }
@@ -1347,6 +1347,37 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("lightfoot_ch1146", translatorBridge);
         checkInMaps("lightfoot_ch1147", translatorBridge);
         checkInMaps("lightfoot_ch1148", translatorBridge);
+    }
+
+    @Test
+    public void test_lightfoot_chap12() {
+        checkInMaps("lightfoot_ch1200", translatorBridge);
+        checkInMaps("lightfoot_ch1201", translatorBridge);
+        checkInMaps("lightfoot_ch1202", translatorBridge);
+        checkInMaps("lightfoot_ch1203", translatorBridge);
+        checkInMaps("lightfoot_ch1204", translatorBridge);
+        checkInMaps("lightfoot_ch1205", translatorBridge);
+        checkInMaps("lightfoot_ch1206", translatorBridge);
+        checkInMaps("lightfoot_ch1207", translatorBridge);
+        checkInMaps("lightfoot_ch1208", translatorBridge);
+        checkInMaps("lightfoot_ch1209", translatorBridge);
+        checkInMaps("lightfoot_ch1210", translatorBridge);
+        checkInMaps("lightfoot_ch1211", translatorBridge);
+        checkInMaps("lightfoot_ch1212", translatorBridge);
+        checkInMaps("lightfoot_ch1213", translatorBridge);
+        checkInMaps("lightfoot_ch1214", translatorBridge);
+        checkInMaps("lightfoot_ch1215", translatorBridge);
+        checkInMaps("lightfoot_ch1216", translatorBridge);
+        checkInMaps("lightfoot_ch1217", translatorBridge);
+        checkInMaps("lightfoot_ch1218", translatorBridge);
+        checkInMaps("lightfoot_ch1219", translatorBridge);
+        checkInMaps("lightfoot_ch1220", translatorBridge);
+        checkInMaps("lightfoot_ch1221", translatorBridge);
+        checkInMaps("lightfoot_ch1222", translatorBridge);
+        checkInMaps("lightfoot_ch1223", translatorBridge);
+        checkInMaps("lightfoot_ch1224", translatorBridge);
+        checkInMaps("lightfoot_ch1225", translatorBridge);
+
     }
 
     @Test

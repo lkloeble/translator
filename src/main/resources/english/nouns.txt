@@ -246,6 +246,7 @@ consonant@masc%normmasc
 constitution@masc%normmasc
 contemporar@adj%endy
 contiguous@adj%invmasc
+contracted@adj%invmasc
 contradiction@fem%normfem
 contribution@fem%normfem
 convenient@neut%invmasc
@@ -818,6 +819,7 @@ needfull@neut%invmasc
 neighbourhood@neut%invmasc
 neighbouring@neut%invmasc
 nerve@neut%normmasc
+nest@neut%normmasc
 never@neut%invmasc
 next@adj%normmasc
 new@adj%invmasc
@@ -1061,6 +1063,7 @@ seaman@masc%normmasc[nomplr:seamen]
 searcher@masc%normmasc
 season@fem%normfem
 seat@neut%normmasc
+sectar@neut%endy
 section@fem%normfem
 second@adj%invmasc
 secondary@adj%invmasc
@@ -1131,6 +1134,7 @@ soveraigne@neut%invmasc
 soveraignt@fem%endy
 sp@masc%endy
 space@neut%normmasc
+spacious@adj%invmasc
 speech@neut%church
 spice@neut%normmasc
 spirit@neut%normmasc
@@ -1261,6 +1265,7 @@ uncharitable@adj%normmasc
 unclean@adj%invmasc
 underemphasis@neut%invmasc
 unhappy@adj%invmasc
+uninhabited@neut%invmasc
 university@fem%invfem
 unknown@neut%invmasc
 unsatisfactory@neut%invmasc
