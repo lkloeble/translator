@@ -313,7 +313,7 @@ shut,[live]
 signify,[live],(IPR2*signifys*signifies*0@PAP*signify*signifie*0)
 simulate,[live],(PAPR*simulateing*simulating*0)
 sing,[live]
-sit,[live],(AIP*sitd*sat*0)
+sit,[live],(AIP*sitd*sat*0@PAPR*sit*sitt*0)
 ski,[live]
 skirt,[live]
 slay,[live],(AIP*slayd*slew*0)

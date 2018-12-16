@@ -36,3 +36,4 @@ consta%consta.txt
 pieri%pieri.txt
 manie%manie.txt
 scoate%scoate.txt
+succeda%succeda.txt

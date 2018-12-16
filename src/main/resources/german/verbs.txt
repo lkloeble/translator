@@ -157,6 +157,7 @@ fall,en,[rufen],(AIP*fall*fiel*0@PAP*fall*gefallen*0)
 fang,en,[leben]
 fass,en,[leben],(PAP*fass*gefasst*0)
 fast,en,[segnen]
+feier,n,[feiern]
 festhalt,en,[gelten]
 feststeh,en,[stehen]
 feststell,en,[leben]

@@ -142,8 +142,10 @@ bedeutsamkeit@fem%meinfem
 bedeutung@fem%meinfem
 bedeutungslos@adj%ausreichend
 bedingung@fem%meinfem
+befreiung@fem%meinfem
 begrundung@fem%meinfem
 bedurfnis@neut%erkenntnis
+befremdlich@adj%ausreichend
 begehren@neut%inv
 begriff@masc%jahrzehnt
 behorde@fem%flasche
@@ -415,6 +417,7 @@ fest@adj%ausreichend
 feste@fem%flasche
 feststellung@fem%meinfem
 figaro@masc%inv
+finale@neut%zeichen
 finanzierung@fem%meinfem
 findling@masc%bastard
 finger@masc%arbeiter
@@ -437,6 +440,7 @@ folge@fem%flasche
 folgerichtig@adj%ausreichend
 form@fem%meinfem
 formel@neut%masc
+fortbestehn@neut%inv
 fortfuhrung@fem%meinfem
 frage@fem%flasche
 fragezeichen@neut%inv
@@ -711,6 +715,7 @@ jetzig@adj%ausreichend
 jetzt@neut%inv
 jetztzeit@neut%inv
 jischmael@neut%inv
+joch@neut%jahrzehnt
 joga@neut%inv
 joh@neut%inv
 johannes@masc%inv
@@ -1353,6 +1358,7 @@ uberdruss@fem%meinfem
 uberfulle@fem%flasche
 ubergang@masc%jahrzehnt
 uberhebend@neut%inv
+ubereilt@adj%ausreichend
 uberlebend@adj%ausreichend
 uberlieferung@fem%meinfem
 uberschrift@fem%meinfem
@@ -1533,6 +1539,7 @@ weit@adj%ausreichend
 weiter@adj%ausreichend
 welch@adj%ausreichend
 welt@fem%meinfem
+weltmacht@fem%angst
 wenig@neut%meinmasc
 werk@neut%meer
 wertschatzung@fem%meinfem
@@ -1589,6 +1596,7 @@ zeit@neut%meinmasc
 zeitraum@masc%phanomen
 zeitschrift@fem%meinfem
 zepter@neut%burger
+zerbrecher@masc%inv
 zeremonie@fem%flasche
 zerspalten@fem%angst
 zerstorung@fem%meinfem

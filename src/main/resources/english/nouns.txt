@@ -26,6 +26,7 @@ alleged@neut%invmasc
 allusion@neut%normmasc
 alone@neut%normmasc
 alternative@fem%normfem
+amanuensis@neut%invmasc
 amber@neut%invmasc
 ammonite@neut%normmasc
 amoraim@neut%invmasc
@@ -62,6 +63,7 @@ artificer@neut%normmasc
 artificial@adj%normmasc
 artificiall@adj%normmasc
 artist@neut%invmasc
+ascent@neut%normfem
 ash@neut%church
 ashamed@neut%invmasc
 asmonean@neut%normmasc
@@ -484,6 +486,7 @@ fruitfulness@neut%invmasc
 fugitive@adj%normmasc
 furlong@neut%normmasc
 galilee@neut%invmasc
+galler@fem%endy
 gallon@neut%normmasc
 game@neut%normmasc
 garden@neut%normmasc
@@ -610,6 +613,7 @@ individuall@adj%invmasc
 inducement@neut%normmasc
 inferior@adj%normmasc
 infinite@adj%normmasc
+inhabitant@neut%normmasc
 inheritance@neut%normmasc
 inn@neut%normmasc
 inner@adj%normmasc
@@ -820,6 +824,7 @@ neighbourhood@neut%invmasc
 neighbouring@neut%invmasc
 nerve@neut%normmasc
 nest@neut%normmasc
+nether@neut%invmasc
 never@neut%invmasc
 next@adj%normmasc
 new@adj%invmasc

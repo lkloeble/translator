@@ -1,0 +1,3 @@
+IPR=>d,zi,da,dam,datsi,da
+AII=>dam,dai,da,dam,datsi,dau
+ACP=>darcond,ziarcond,daarcond,damarcond,datsiarcond,daarcond

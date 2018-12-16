@@ -1,4 +1,5 @@
 IPR=>,i,e,em,etsi,,
+ACP=>,i,e,em,etsi,,ea
 AII=>eam,eai,ea,eam,eatsi,eau
 AIP=>ui,usi,u,uram,uratsi,ura
 PAP=>[adjts]

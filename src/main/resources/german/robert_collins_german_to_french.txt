@@ -19,6 +19,7 @@ absalom@noun!inv%1(noun)=absalom
 absatz@noun!jahrzehnt%1(noun)=paragraphe%2(noun)=talon
 abschliess@verb!norm%1(verb)=terminer
 abschnitt@noun!jahrzehnt%1(noun)=segment%2(noun)=paragraphe%3(noun)=section
+abseits@prep%1(prep)=en-dehors
 absicht@noun!meinfem%1(noun)=objectif
 absinkend@adj!ausreichend%1(adj)=déclinant
 absolut@adj!ausreichend%1(adj)=absolu
@@ -211,11 +212,13 @@ bedeutsamkeit@noun!meinfem%1(noun)=importance
 bedeutung@noun!meinfem%1(noun)=signification
 bedeutungslos@adj!ausreichend%1(adj)=insignifiant
 bedingung@noun!meinfem%1(noun)=condition
+befreiung@noun!meinfem%1(noun)=libération
 begrundung@noun!meinfem%1(noun)=justification
 bedurfnis@noun!erkenntnis%1(noun)=besoin
 befass@verb!norm%1(verb)=envisager
 befind@verb!norm%1(verb)=setrouver
 befinlichen@noun!inv%1(noun)=situé
+befremdlich@adj!ausreichend%1(adj)=déconcertant%2(adj)=curieux%3(adj)=étrange
 begegn@verb!norm%1(verb)=rencontrer
 begeh@verb!norm%1(verb)=celebrer
 begehren@noun!inv%1(noun)=désir
@@ -684,6 +687,7 @@ fax@noun!inv%1(noun)=fax
 fehler@noun!arbeiter%1(noun)=erreur
 fehlerhaft@adj!ausreichend%1(noun)=imparfait%2(adj)=défectueux
 feier@noun!masc%1(noun)=célébration
+feier@verb!norm%1(verb)=celebrer
 feierlicher@adj!ausreichend%1(noun)=cérémonial%2(adj)=solennel
 feig@noun!inv%1(noun)=lâcheté
 fein@adj!ausreichend%1(adj)=fin
@@ -704,7 +708,9 @@ feststeh@verb!norm%1(verb)=etreclair
 feststell@verb!norm%1(verb)=declarer%2(verb)=determiner
 feststellung@noun!meinfem%1(noun)=détermination
 feucht@verb!norm%1(verb)=mouiller
+ff@prep%1(prep)=et suivants
 figaro@noun!inv%1(noun)=figaro
+finale@noun!zeichen%1(noun)=finale
 finanzierung@noun!meinfem%1(noun)=financement
 find@verb!norm%1(verb)=trouver
 findling@noun!bastard%1(noun)=enfant errant
@@ -737,6 +743,7 @@ ford@verb!norm%1(verb)=encourager%2(verb)=supporter%3(verb)=favoriser
 form@noun!meinfem%1(noun)=forme
 formel@noun!masc%1(noun)=formule
 fort@prep%1(prep)=loin
+fortbestehn@noun!inv%1(noun)=perdurer
 fortfuhrung@noun!meinfem%1(noun)=continuité
 frag@verb!norm%1(verb)=demander
 frage@noun!flasche%1(noun)=question
@@ -749,6 +756,7 @@ frau@noun!meinfem%1(noun)=femme
 fraulein@noun!inv%1(noun)=demoiselle
 freigelassen@noun!bastard%1(noun)=affranchi
 freiheit@noun!meinfem%1(noun)=liberté
+freilich@prep%1(prep)=cependant
 freitag@noun!inv%1(noun)=vendredi
 freiwillig@adj!ausreichend%1(noun)=volontaire
 fremd@adj!ausreichend%1(noun)=étranger
@@ -1108,6 +1116,7 @@ jetzig@adj!ausreichend%1(adj)=présent
 jetzt@noun!inv%1(noun)=maintenant
 jetztzeit@noun!inv%1(noun)=temps présent
 jischmael@noun!inv%1(noun)=ismaël
+joch@noun!jahrzehnt%1(noun)=col%2(noun)=fourche%3(noun)=joug
 joga@noun!inv%1(noun)=yoga
 jogg@verb!norm%1(verb)=jogger
 joh@noun!inv%1(noun)=jn
@@ -1951,6 +1960,7 @@ u@noun!inv%1(noun)=et
 ub@prep%1(prep)=sur
 uber@prep%1(prep)=sur
 uberdruss@noun!meinfem%1(noun)=fatigue%2(noun)=morosité
+ubereilt@adj!ausreichend%1(adj)=hâtif
 ubereinstimm@verb!norm%1(verb)=correspondre
 uberfulle@noun!flasche%1(noun)=profusion
 ubergang@noun!jahrzehnt%1(noun)=transition%2(noun)=passage
@@ -2090,6 +2100,7 @@ verlobung@noun!meinfem%1(noun)=fiançailles
 vermeid@verb!norm%1(verb)=eviter
 vermischung@noun!norm%1(noun)=mélange
 vermittel@noun!inv%1(noun)=intermédiaire
+vermutlich@prep%1(prep)=beaucoup
 vernein@verb!norm%1(verb)=exclure
 verneinung@noun!meinfem%1(noun)=négation
 vernichtend@adj!ausreichend%1(adj)=cinglant
@@ -2229,6 +2240,7 @@ weiter@adj!ausreichend%1(adj)=plus large%2(adj)=plus loin
 welch@adj!ausreichend%1(adj)=quel
 wenAAAAAAg@prep%1(prep)=assez
 welt@noun!meinfem%1(noun)=monde
+weltmacht@noun!angst%1(noun)=puissance mondiale
 wen@prep%1(prep)=qui
 wenige@prep%1(prep)=quelques
 wend@verb!norm%1(verb)=consacrer
@@ -2313,6 +2325,7 @@ zeit@noun!meinmasc%1(noun)=temps
 zeitraum@noun!phanomen%1(noun)=période
 zeitschrift@noun!meinfem%1(noun)=magazine%2(noun)=périodique
 zepter@noun!burger%1(noun)=sceptre
+zerbrecher@noun!inv%1(noun)=briseur
 zeremonie@noun!flasche%1(noun)=cérémonie
 zerreiss@verb!norm%1(verb)=dechirer
 zerspalten@noun!angst%1(noun)=scission

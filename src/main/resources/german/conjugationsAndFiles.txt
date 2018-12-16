@@ -19,3 +19,4 @@ pflanzen%pflanzen.txt
 schliessen%schliessen.txt
 gelten%gelten.txt
 wissen%wissen.txt
+feiern%feiern.txt

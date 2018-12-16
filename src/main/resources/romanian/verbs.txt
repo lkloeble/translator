@@ -11,7 +11,7 @@ aleg,a,[incerca],(IPR25*aleg*aleag*0)
 alerg,a,[merg]
 am@IRREGULAR%[INFINITIVE]=[avea]%[IPR]=[am,ai,are,avem,avetsi,au]%[CONJ]=[x,x,aiba,x,x,aiba]%[PAPR]=[avand]%[ACPINF]=[aravea]
 amuz,,[bea]
-apar,,[face]
+apar,ea,[face],(ACP*apar*arapar*0)
 apreci,,[aprecia]
 aprind,e,[merg],(IPR1*di*zi*1)
 apropri,,[aprecia]
@@ -65,6 +65,7 @@ descop,,[descopar]
 desfasoar,,[incerca]
 deven,i,[deveni],(PAP*devinat*devenit*0@IPR0125*deven*devin*0@AIP01*deven*devi*0@AIP25*deven*devin*0)
 doar,,[dorm],(IPR0*doar*dor*0)
+doband,,[aciti],(PAP*doband*dobandit*0)
 dor,,[aciti],(PAP*dor*dorit*0)
 dorm,i,[dorm]
 dot,,[fumez]
@@ -95,6 +96,7 @@ incep,,[face],(PAP*incep*inceput*0)
 incerc,a,[incerca]
 inchin,,[cauta]
 indic,,[incerca]
+inlocu,i,[aciti]
 inmormint,,[fumez]
 innoi,,[aciti]
 insemn,,[incerca],(IPR25*insem*inseam*0)
@@ -108,6 +110,7 @@ interv,,[mentsin]
 intorc,,[face],(IPR234*intor*intoar*0)
 intovaras,,[locuiesc],(PAP*intovaras*intovarasit*0)
 intreb,,[cauta],(IPR25*intreba*intreaba*0@AIMP*intreba*intreaba*0)
+intrerup,,[face],(PAP*intrerup*intrerupt*0)
 intseleg,e,[merg],(PAP*intseleg*intseles*0)
 intunec,,[cauta]
 inva,,[invata],(IPR*atsi*etsi*1)
@@ -145,13 +148,14 @@ pierd,e,[vinde],(AII*pie*pia*0@CONJ0134*pierd*pier*0@CONJ25*pierd*piard*0)
 plac,,[merg]
 pleaca@IRREGULAR%[IPR]=[plec,pleci,pleaca,plecam,plecatsi,pleaca]%[PAP]=[plecat]%[PAPR]=[plecand]%[INFINITIVE]=[pleca]
 pomen,,[aciti]
+port,,[cauta],(PAP*port*purtat*0)
 porunc,,[aciti],(PAP*porunc*poruncit*0)
 pot@IRREGULAR%[INFINITIVE]=[putea]%[IPR]=[pot,potsi,poate,putem,putetsi,pot]%[PAP]=[putut]
 povest,,[locuiesc]
 prefer,a,[incerca]
 prelucr,,[fumez]
 prigon,,[aciti],(PAP*prigon*prigonit*0)
-prim,,[primi]
+prim,,[primi],(PAP*prim*primit*0)
 prin,de,[crede],(PAP*prin*prins*0)
 priv,i,[primi]
 produc,,[face]
@@ -159,6 +163,7 @@ proiect,a,[fumez]
 pun,e,[merg]
 rama,nea,[ramane]
 rasad,,[aciti],(PAP*rasad*rasadit*0)
+rascul,a,[incerca]
 raspun,,[raspund]
 realiz,a,[fumez]
 remarc,a,[cauta],(PAP*remarc*remarcat*0)
@@ -195,9 +200,11 @@ strig,,[incerca]
 string,,[merg],(MMCP*string*strins*0)
 studi,a,[fumez]
 sublini,,[aprecia]
+succe,,[succeda]
 sufer,,[suferi],(IPR0*er*ar*1)
 suport,,[cauta]
 surp,,[incerca]
+sustsi,,[ramane]
 tangui,,[trebui]
 tax,,[fumez]
 termin,a,[cauta]
@@ -205,7 +212,7 @@ tin,de,[vinde]
 traduc,,[merg],(PAP*traduc*tradus*0)
 trag,e,[merg]
 trai,,[aciti],(PAP*trai*trait*0)
-transmit,,[merg]
+transmit,,[scoate],(ACP*transmit*artransmit*0)
 trebui,,[trebui],(ACP*trebui*artrebui*0)
 trec,e,[merg],(PAP*trec*trecut*0)
 trim,,[trimite]
@@ -213,6 +220,7 @@ tsi,ne,[ramane]
 uit,a,[cauta]
 umaniz,,[fumez]
 umpl,,[scrie],(PAP*umpls*umplut*0)
+un,i,[aciti],(PAP*un*unit*0)
 urc,,[cauta]
 urm,,[fumez]
 urmar,,[aciti],(PAP*urmar*urmarit*0)
