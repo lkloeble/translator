@@ -125,6 +125,7 @@ coborat@adj%adj
 cofetarie@neut%inv
 col@neut%inv
 coleg@masc%ul
+coloan@fem%fem
 comuniune@fem%fem
 complicat@adj%adj
 concentrat@adj%adj
@@ -488,7 +489,7 @@ odata@neut%inv
 odihn@fem%fem
 odrasl@fem%fem
 om@masc%ul
-omenesc@neut%inv
+omen@adj%esc
 oper@fem%fem
 opt@neut%inv
 ora@fem%inv
@@ -561,6 +562,7 @@ prelucratoare@neut%inv
 preot@masc%ul
 prets@masc%ul
 prieten@adj%adj
+prigoan@fem%fem
 prim@adj%adj
 probabil@adj%adj
 proces@masc%ul
@@ -626,6 +628,7 @@ rud@fem%fem
 rugaciun@fem%caine
 salbatic@adj%adj
 salbaticit@adj%adj
+salbaticiun@fem%berea
 salut@masc%inv
 sampani@fem%fem
 sanatate@fem%ereditate
@@ -667,6 +670,7 @@ simplu@adj%adj
 sincer@adj%adj
 singur@adj%adj
 singuratate@fem%ereditate
+slabiciun@fem%berea
 soart@fem%fem[nomplr:sortsi]
 sofer@masc%ul
 soi@neut%inv

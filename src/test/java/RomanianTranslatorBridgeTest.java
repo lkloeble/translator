@@ -801,7 +801,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("bocaseumplu7V", translatorBridge);
         checkInMaps("bocaseumplu7W", translatorBridge);
         checkInMaps("bocaseumplu7X", translatorBridge);
-        checkInMaps("bocaseumplu7Y", translatorBridge);
+        //checkInMaps("bocaseumplu7Y", translatorBridge);
         //checkInMaps("bocaseumplu7Z", translatorBridge);
         checkInMaps("bocaseumplu7AA", translatorBridge);
         checkInMaps("bocaseumplu7BB", translatorBridge);
