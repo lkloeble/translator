@@ -17,3 +17,4 @@ AIMP=>xxx,e,xxx,xxx,ite,xxx
 IAP=>isse
 VENO=>ere,endi,endo,endum
 INACPAS=>ere,psisse,pturus esse,i,ptus esse,ptum iri
+IAPP=>ere,isse,urus,i,tus,tum

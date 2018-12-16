@@ -261,6 +261,7 @@ digit@masc%us-i
 dign@adj%us-a-um
 diligen@adj%s-tis
 dimiss@adj%us-a-um
+disciplin@fem%a-ae
 discipul@masc%us-i
 disputand@adj%us-a-um
 dissertati@fem%o-onis
@@ -320,6 +321,7 @@ exercit@masc%us-us
 existen@adj%s-tis
 existenti@fem%a-ae
 exitios@adj%us-a-um
+exort@adj%us-a-um
 explicand@adj%us-a-um
 explicati@fem%o-onis
 expositi@fem%o-onis
@@ -425,10 +427,12 @@ hum@fem%us-i
 human@adj%us-a-um
 hymn@masc%us-i
 idol@neut%um-i
+idolatri@fem%a-ae
 idololatri@fem%a-ae
 ignati@masc%us-i2
 ign@masc%is-is
 ill@adj%e-a-ud
+im@adj%us-a-um
 imag@fem%o-inis
 immutat@adj%us-a-um
 imperi@masc%um-i
@@ -449,6 +453,7 @@ indign@adj%us-a-um
 induct@adj%us-a-um
 indut@adj%us-a-um
 infand@adj%us-a-um
+infect@adj%us-a-um
 inferi@adj%or-or-us
 infirm@adj%us-a-um
 informati@fem%o-onis
@@ -518,6 +523,7 @@ lemann@masc%us-i
 lesbos@neut%inv
 lemnos@neut%inv
 le@fem%x-gis
+legio@fem%x-nis
 lib@masc%er-ri
 libatio@fem%x-nis
 liber@masc%us-i
@@ -544,6 +550,7 @@ lupanar@neut%x-is
 lydi@fem%a-ae
 maest@adj%us-a-um
 mag@masc%us-i
+magi@fem%a-ae
 magic@adj%us-a-um
 magist@neut%er-ri
 magistrat@masc%us-us
@@ -577,6 +584,7 @@ mercator@masc%x-is2
 merit@neut%um-i
 messi@masc%as-ae
 mili@neut%um-i
+milit@masc%x-is2[nomsing:miles]
 mille@neut%inv
 min@adj%or-or-us
 minerv@fem%a-ae
@@ -856,7 +864,7 @@ scriptor@masc%scriptor
 script@neut%um-i
 scriptur@adj%us-a-um
 secreti@adj%or-or-us
-sectator@masc%x-is
+sectator@masc%x-is2
 sect@adj%us-a-um
 secund@adj%us-a-um
 semen@fem%x-is
@@ -872,6 +880,7 @@ sequan@masc%us-i
 sequan@fem%a-ae
 serv@masc%us-i
 servator@masc%x-is2
+servien@masc%s-tis
 serviend@adj%us-a-um
 severi@adj%or-or-us
 sex@neut%inv
@@ -883,6 +892,7 @@ simil@adj%is-is-e
 similitud@fem%o-inis
 sim@masc%o-onis
 simon@masc%inv
+simonian@masc%us-i
 simplici@adj%or-or-us
 singul@adj%us-a-um
 sinistr@fem%a-ae
@@ -917,6 +927,7 @@ subeund@adj%us-a-um
 sublat@adj%us-a-um
 supplici@neut%um-i
 sumpt@adj%us-a-um
+superstitio@fem%x-nis
 supposititi@adj%us-a-um
 suscept@adj%us-a-um
 suscitand@adj%us-a-um
@@ -935,9 +946,11 @@ terenti@fem%a-ae
 terr@fem%a-ae
 terren@adj%us-a-um
 terti@adj%us-a-um
+tertullian@masc%us-i
 tessel@fem%a-ae
 test@masc%is-is
 testament@neut%um-i
+testat@adj%us-a-um
 testimoni@neut%um-i
 theodoret@masc%us-i
 tiberis@neut%inv
@@ -963,6 +976,7 @@ turpitud@fem%o-inis
 tuscul@masc%um-i
 tyr@masc%us-i
 tyrann@masc%us-i
+ull@adj%us-a-um
 ulteri@adj%or-or-us
 umbr@fem%a-ae
 umer@masc%us-i

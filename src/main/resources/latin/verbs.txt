@@ -99,6 +99,7 @@ cresc,o,is,ere,,,[o-is]
 cred,o,is,ere,,,[o-is],(AIP*cred*credid*0@AIFP*creds*credid*0)
 custod,io,is,ire,,,[io-is],(ASI*custode*custodi*0)
 d,o,as,are,edi,atum,[o-as],(AIP*dav*ded*0@AIPP*dav*ded*0)
+damn,o,as,are,,,[o-as]
 deb,eo,es,ere,-,-,[eo-es]
 decert,o,as,are,,,[o-as]
 defic,io,is,ire,-,-,[io-is]
@@ -107,6 +108,7 @@ delig,o,is,ere,,,[o-is]
 delect,o,as,are,avi,atum,[o-as]
 demonstr,o,as,are,avi,atum,[o-as]
 depon,o,is,ere,,,[o-is]
+deput,o,as,are,,,[o-as]
 descend,o,is,ere,,,[o-is],(AIFP*descends*descend*0)
 desin,o,is,ere,,,[o-is],(AIP*desin*desi*0)
 dic,o,is,ere,foobar,foobar,[o-is],(AIP*dic*dix*0@AIPP*dic*dix*0@AIFP*dics*dix*0)
@@ -141,6 +143,7 @@ examin,o,as,are,,,[o-as]
 exaud,io,is,ire,veni,ventum,[io-is]
 exerc,eo,es,ere,,,[eo-es]
 excogit,o,as,are,,,[o-as]
+exhib,eo,es,ere,,,[eo-es]
 existim,o,as,are,,,[o-as]
 exsequ,or,eris,i,,,[or-eris]
 exspect,o,as,are,,,[o-as]
@@ -287,6 +290,7 @@ repl,eo,es,ere,,,[eo-es],(AIP*repl*replev*0)
 repudi,o,as,are,,,[o-as]
 repugn,o,as,are,,,[o-as]
 requiesc,o,is,ere,,,[o-is],(AIP*requiesc*requiev*0)
+rescind,o,is,ere,,,[o-is]
 reser,o,as,are,,,[o-as]
 respect,o,as,are,,,[o-as]
 respond,eo,es,ere,,,[eo-es]

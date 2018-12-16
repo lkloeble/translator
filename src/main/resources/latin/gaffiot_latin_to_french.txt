@@ -361,6 +361,7 @@ cynthia@noun!inv%1(noun)=cynthia
 damn@noun!um-i%1(noun)=perte%2(noun)=blessure
 damnand@adj!us-a-um%1(adj)=qui va être condamné
 damnat@adj!us-a-um%1(adj)=condamné
+damno@verb!norm%1(verb)=condamner
 danuvi@noun!us-i%1(noun)=danube
 dat@adj!us-a-um%1(adj)=offert%2(adj)=donné
 dav@noun!us-i%1(noun)=davus
@@ -386,6 +387,7 @@ demonstrati@noun!o-onis%1(noun)=indication%2(noun)=preuve
 demonstro@verb!nom%1(verb)=montrer,faire voir,designer,indiquer%2(verb)=exposer,decrire,mentionner%3(verb)=montrer
 denique@prep%1(prep)=à côté de cela%2(prep)=finalement
 depono@verb!norm%1(verb)=placer
+deputo@verb!norm%1(verb)=considerercomme
 descendo@verb!norm%1(verb)=descendre
 desert@adj!us-a-um%1(adj)=désert
 desino@verb!norm%1(verb)=cesser%2(noun)=stopper
@@ -414,6 +416,7 @@ discerno@verb!norm%1(verb)=separer
 disputo@verb!norm%1(verb)=debattre
 dissemino@verb!norm%1(verb)=repandre
 dissertati@noun!o-onis%1(noun)=dissertation
+disciplin@noun!a-ae%1(noun)=méthode%2(noun)=entraînement%3(noun)=discipline%4(noun)=instruction
 discipul@noun!us-i%1(noun)=eleve%2(noun)=disciple
 disco@verb!norm%1(verb)=apprendre
 disputand@adj!us-a-um%1(adj)=débattu
@@ -473,6 +476,7 @@ ei@prep%1(prep)=à elle
 eis@prep%1(prep)=eux
 eius@prep%1(prep)=son
 ejus@prep%1(prep)=son
+ejusdem@prep%1(prep)=le même
 elect@adj!us-a-um%1(adj)=élu
 emendat@adj!us-a-um%1(adj)=corrigé
 emergo@verb!norm%1(verb)=emerger
@@ -522,10 +526,12 @@ exerceo@verb!norm%1(verb)=exercer
 excogito@verb!norm%1(verb)=inventer
 exercit@adj!us-a-um%1(adj)=exercé%2(adj)=occupé
 exercit@noun!us-us%1(noun)=entrainé
+exhibeo@verb!norm%1(verb)=exhiber
 existen@adj!s-tis%1(noun)=existant%2(noun)=étant
 existenti@noun!a-ae%1(noun)=existence
 existimo@verb!norm%1(verb)=estimer
 exitios@adj!us-a-um%1(noun)=mortel%2(adj)=pernicieux
+exort@adj!us-a-um%1(noun)=apparu
 explicand@adj!us-a-um%1(noun)=expliqué
 explicati@noun!o-onis%1(noun)=explication
 expositi@noun!o-onis%1(noun)=exposition
@@ -687,12 +693,14 @@ iam@prep%1(noun)=déjà%2(noun)=maintenant%3(noun)=plus
 ibi@prep%1(noun)=là
 idem@demo%1(determ)=aussi%2(corr avec qui,atque,et,ut,quasi,cum)=meme%3(determ)=meme
 idol@noun!um-i%1(noun)=forme%2(noun)=idole
+idolatri@noun!a-ae%1(noun)=idolatrie
 idololatri@noun!a-ae%1(noun)=idolatrie
 igitur@prep%1(noun)=en conséquence
 ignati@noun!us-i%1(proper noun)=ignace eveque d'antioche%2(proper noun)=ignace
 ign@noun!is-is%1(noun)=feu
 ill@adj!e-a-ud%1(pro dem)=celui la
 illudo@verb!norm%1(verb)=ridiculiser
+im@adj!us-a-um%1(adj)=le plus bas%2(adj)=le plus profond%3(adj)=dernier
 imag@noun!o-inis%1(noun)=image
 imbuo@verb!norm%1(verb)=humidifer%2(verb)=tremper%3(verb)=mouiller
 immutat@adj!us-a-um%1(adj)=transformé
@@ -731,6 +739,7 @@ induco@verb!norm%1(verb)=conduire dans,contre,vers%2(verb)=faire avancer%3(verb)
 induct@adj!us-a-um%1(adj)=introduit%2(adj)=exhibé%3(adj)=conduit
 indut@adj!us-a-um%1(adj)=assumé
 infand@adj!us-a-um%1(adj)=innomable
+infect@adj!us-a-um%1(adj)=impossible%2(adj)=non terminé
 inferi@adj!or-or-us%1(adj)=inférieur
 infero@verb!norm%1(verb)=infliger%2(verb)=attaquer%3(verb)=porter
 infigo@verb!norm%1(verb)=fermer%2(verb)=implanter%3(verb)=reparer
@@ -832,6 +841,7 @@ lect@noun!us-i%1(noun)=sofa%2(noun)=lit
 lecti@noun!o-onis%1(noun)=choix%2(noun)=leçon
 lectic@noun!a-ae%1(noun)=chaise à porteur
 legati@noun!o-onis%1(noun)=ambassadeur
+legio@noun!x-nis%1(noun)=légion
 lego@verb!norm%1(verb)=lire
 lesbos@noun!inv%1(noun)=lesbos
 lemann@noun!us-i%1(noun)=léman
@@ -868,6 +878,7 @@ lydi@noun!a-ae%1(noun)=lydia
 m@prep%1(prep)=m
 maest@adj!us-a-um%1(adj)=triste
 mag@noun!us-i%1(noun)=magicien
+magi@noun!a-ae%1(noun)=magie
 magic@adj!us-a-um%1(adj)=magique
 magis@prep%1(prep)=mieux
 magist@noun!er-ri%1(noun)=maître%2(noun)=rabbin%3(noun)=professeur
@@ -920,6 +931,7 @@ messi@noun!as-ae%1(noun)=messie
 meum@prep%1(prep)=mon
 meus@prep%1(prep)=mon
 mili@noun!um-i%1(noun)=mille
+milit@noun!x-is2%1(noun)=soldat
 mille@noun!inv%1(noun)=mille
 min@adj!or-or-us%1(adj)=inférieur%2(adj)=plus petit
 minerv@noun!a-ae%1(noun)=minerve
@@ -1251,6 +1263,7 @@ quasi@prep%1(adj)=comme si
 quattuor@noun!inv%1(noun)=quatre
 queis@prep%1(prep)=à qui
 quem@prep%1(prep)=qui
+quemdam@prep%1(prep)=quelqu'un/quelques uns
 queo@verb!norm%1(verb)=etrecapablede
 querimoni@noun!a-ae%1(noun)=plainte
 quia@prep%1(prep)=car
@@ -1303,6 +1316,7 @@ repugno@verb!norm%1(verb)=resister%2(verb)=combattre
 requiesco@verb!norm%1(verb)=stopper%2(verb)=sereposer
 res@noun!a-ae%1(noun)=chose
 resarcitum@noun!inv%1(noun)=rangs
+rescindo@verb!norm%1(verb)=couper%2(verb)=annuler
 resciss@adj!us-a-um%1(adj)=annulé
 resero@verb!norm%1(verb)=reveler%2(verb)=ouvrir
 respecto@verb!norm%1(verb)=attendre%2(verb)=regarder
@@ -1370,7 +1384,7 @@ scriptor@noun!scriptor%1(noun)=écraivain%2(noun)=auteur
 scriptur@noun!us-a-um%1(noun)=écriture
 se@prep%1(conj)=se
 secreti@adj!or-or-us%1(adj)=séparé
-sectator@noun!x-is%1(noun)=adhérent%2(noun)=adepte
+sectator@noun!x-is2%1(noun)=adhérent%2(noun)=adepte
 sect@adj!us-a-um%1(adj)=amputé%2(adj)=divisé%3(adj)=coupé
 secund@adj!us-a-um%1(adj)=suivant
 secum@prep%1(conj)=lui-même
@@ -1397,6 +1411,7 @@ sequen@adj!s-s-s%1(noun)=suivant
 sequor@verb!norm%1(verb)=suivre
 serv@noun!us-i%1(noun)=esclave
 servator@noun!x-is2%1(noun)=observateur
+servien@noun!s-tis%1(noun)=serviteur
 serviend@adj!us-a-um%1(adj)=qui doit être servi
 servo@verb!norm%1(verb)=préserver%2(verb)=garder
 sese@prep%1(num)=lui-même
@@ -1414,6 +1429,7 @@ simil@adj!is-is-e%1(adj)=similaire
 similitud@noun!o-inis%1(noun)=similitude%2(noun)=ressemblance
 sim@noun!o-onis%1(noun)=simon
 simon@noun!inv%1(noun)=simon
+simonian@noun!us-i%1(noun)=simonien
 simplici@adj!or-or-us%1(adj)=plus simple
 simulo@verb!norm%1(verb)=simuler
 sine@prep%1(prep)=sans
@@ -1469,6 +1485,7 @@ super@prep%1(adv)=par dessus,en plus%2(prep + acc)=au dessus%3(prep + abl)=sur%4
 superfici@noun!es-ei%1(fem)=à la surface
 supern@adj!us-a-um%1(adj)=céleste%2(adj)=paradisiaque
 supero@verb!norm%1(verb)=surmonter
+superstitio@noun!x-nis%1(noun)=superstition
 supposititi@adj!us-a-um%1(adj)=supposé
 suscept@adj!us-a-um%1(adj)=a été repris
 suscitand@adj!us-a-um%1(adj)=qui doit être encouragé%2(adj)=qui doit être élevé%3(adj)=qui doit être éveillé
@@ -1504,8 +1521,10 @@ terr@noun!a-ae%1(noun)=terre (le globe terrestre)%2(noun)=terre (la matiere)%3(n
 terren@adj!us-a-um%1(adj)=terrestre
 terenti@noun!a-ae%1(noun)=terentia
 terti@noun!us-a-um%1(adj)=troisième
+tertullian@noun!us-i%1(noun)=tertullien
 tessel@noun!a-ae%1(noun)=mosaïque
 test@noun!is-is%1(noun)=témoin
+testat@adj!us-a-um%1(adj)=témoigné
 testament@noun!um-i%1(noun)=alliance%2(noun)=testament
 testimoni@noun!um-i%1(noun)=évidence,preuve%2(noun)=témoignage
 theodoret@noun!us-i%1(noun)=Théodoret
@@ -1553,6 +1572,7 @@ tyrann@noun!us-i%1(noun)=tyran
 tuus@prep%1(prep)=ton
 ubi@prep%1(adv)=ou%2(adv)=dans lequel%3(conj)=quand, lorsque4(conj + subj)=du moment que%5(adv)=où
 ubique@prep%1(adv)=partout
+ull@adj!us-a-um%1(adj)=n'importe quel
 ulteri@adj!or-or-us%1(adj)=ultérieur
 umbr@noun!a-ae%1(noun)=ombre
 umer@noun!us-i%1(noun)=dos%2(noun)=umérus (os)%3(noun)=épaule

@@ -11,3 +11,4 @@ AIMP=>xxx,e,xxx,xxx,ete,xxx
 ASI=>erem,eres,eret,eremus,eretis,erent
 AIPP=>eram,eras,erat,eramus,eratis,erant
 AIFP=>ueram,ueras,uerat,ueramus,ueratis,uerant|uerint
+IAP=>uisse
