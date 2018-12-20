@@ -1,20 +1,20 @@
 import org.junit.Before;
 import org.junit.Test;
-import org.patrologia.translator.TranslatorBridge;
-import org.patrologia.translator.basicelements.*;
-import org.patrologia.translator.basicelements.noun.NounRepository;
-import org.patrologia.translator.basicelements.preposition.PrepositionRepository;
-import org.patrologia.translator.basicelements.verb.VerbRepository;
-import org.patrologia.translator.casenumbergenre.romanian.RomanianCaseFactory;
-import org.patrologia.translator.conjugation.romanian.RomanianConjugationFactory;
-import org.patrologia.translator.declension.Declension;
-import org.patrologia.translator.declension.romanian.RomanianDeclension;
-import org.patrologia.translator.declension.romanian.RomanianDeclensionFactory;
-import org.patrologia.translator.linguisticimplementations.FrenchTranslator;
-import org.patrologia.translator.linguisticimplementations.RomanianAnalyzer;
-import org.patrologia.translator.linguisticimplementations.Translator;
-import org.patrologia.translator.rule.romanian.RomanianRuleFactory;
-import org.patrologia.translator.utils.Analizer;
+import patrologia.translator.TranslatorBridge;
+import patrologia.translator.basicelements.*;
+import patrologia.translator.basicelements.noun.NounRepository;
+import patrologia.translator.basicelements.preposition.PrepositionRepository;
+import patrologia.translator.basicelements.verb.VerbRepository;
+import patrologia.translator.casenumbergenre.romanian.RomanianCaseFactory;
+import patrologia.translator.conjugation.romanian.RomanianConjugationFactory;
+import patrologia.translator.declension.Declension;
+import patrologia.translator.declension.romanian.RomanianDeclension;
+import patrologia.translator.declension.romanian.RomanianDeclensionFactory;
+import patrologia.translator.linguisticimplementations.FrenchTranslator;
+import patrologia.translator.linguisticimplementations.RomanianAnalyzer;
+import patrologia.translator.linguisticimplementations.Translator;
+import patrologia.translator.rule.romanian.RomanianRuleFactory;
+import patrologia.translator.utils.Analizer;
 
 import java.util.*;
 
@@ -28,19 +28,23 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
 
     private TranslatorBridge translatorBridge;
 
+    private String localTestPath="C:\\Users\\laurent.kloeble\\IdeaProjects\\translator\\src\\test\\resources\\";
+    private String localResourcesPath="C:\\Users\\laurent.kloeble\\IdeaProjects\\translator\\src\\main\\resources\\romanian\\";
+    private String localCommonPath="C:\\Users\\laurent.kloeble\\IdeaProjects\\translator\\src\\main\\resources\\";
+
     @Before
     public void init() {
-        String prepositionFileDescription = "C:\\translator\\src\\main\\resources\\romanian\\prepositions.txt";
-        String nounFileDescription = "C:\\translator\\src\\main\\resources\\romanian\\nouns.txt";
-        String verbFileDescription = "C:\\translator\\src\\main\\resources\\romanian\\verbs.txt";
-        String romanianFrenchDataFile = "C:\\translator\\src\\main\\resources\\romanian\\dico_romanian_french.txt";
-        String frenchVerbsDataFile = "C:\\translator\\src\\main\\resources\\french_verbs.txt";
-        String declensionPath = "C:\\translator\\src\\main\\resources\\romanian\\declensions";
-        String declensionsAndFiles = "C:\\translator\\src\\main\\resources\\romanian\\declensionsAndFiles.txt";
-        String conjugationPath = "C:\\translator\\src\\main\\resources\\romanian\\conjugations";
-        String conjugationsAndFiles = "C:\\translator\\src\\main\\resources\\romanian\\conjugationsAndFiles.txt";
-        String romanianPathFile = "C:\\translator\\src\\test\\resources\\romanian_content.txt";
-        String romanianResultFile = "C:\\translator\\src\\test\\resources\\romanian_expected_results.txt";
+        String prepositionFileDescription = localResourcesPath + "prepositions.txt";
+        String nounFileDescription = localResourcesPath + "nouns.txt";
+        String verbFileDescription = localResourcesPath + "verbs.txt";
+        String romanianFrenchDataFile = localResourcesPath + "dico_romanian_french.txt";
+        String frenchVerbsDataFile = localCommonPath + "french_verbs.txt";
+        String declensionPath = localResourcesPath + "declensions";
+        String declensionsAndFiles = localResourcesPath + "declensionsAndFiles.txt";
+        String conjugationPath = localResourcesPath + "conjugations";
+        String conjugationsAndFiles = localResourcesPath + "conjugationsAndFiles.txt";
+        String romanianPathFile = localTestPath + "romanian_content.txt";
+        String romanianResultFile = localTestPath + "romanian_expected_results.txt";
         RomanianDeclensionFactory romanianDeclensionFactory = new RomanianDeclensionFactory(getDeclensions(declensionsAndFiles), getDeclensionList(declensionsAndFiles, declensionPath));
         NounRepository nounRepository = new NounRepository(Language.ROMANIAN, romanianDeclensionFactory, new DummyAccentuer(),getNouns(nounFileDescription));
         VerbRepository verbRepository = new VerbRepository(new RomanianConjugationFactory(getRomanianConjugations(conjugationsAndFiles), getRomanianConjugationDefinitions(conjugationsAndFiles, conjugationPath), nounRepository), Language.ROMANIAN, new DummyAccentuer(), getVerbs(verbFileDescription));

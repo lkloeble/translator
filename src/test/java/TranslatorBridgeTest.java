@@ -1,5 +1,5 @@
-import org.patrologia.translator.TranslatorBridge;
-import org.patrologia.translator.utils.DictionaryLoader;
+import patrologia.translator.TranslatorBridge;
+import patrologia.translator.utils.DictionaryLoader;
 
 import java.net.URL;
 import java.util.HashMap;

@@ -1,20 +1,20 @@
 import org.junit.Before;
 import org.junit.Test;
-import org.patrologia.translator.TranslatorBridge;
-import org.patrologia.translator.basicelements.*;
-import org.patrologia.translator.basicelements.noun.NounRepository;
-import org.patrologia.translator.basicelements.preposition.PrepositionRepository;
-import org.patrologia.translator.basicelements.verb.VerbRepository;
-import org.patrologia.translator.casenumbergenre.german.GermanCaseFactory;
-import org.patrologia.translator.conjugation.german.GermanConjugationFactory;
-import org.patrologia.translator.declension.Declension;
-import org.patrologia.translator.declension.german.GermanDeclension;
-import org.patrologia.translator.declension.german.GermanDeclensionFactory;
-import org.patrologia.translator.linguisticimplementations.FrenchTranslator;
-import org.patrologia.translator.linguisticimplementations.GermanAnalyzer;
-import org.patrologia.translator.linguisticimplementations.Translator;
-import org.patrologia.translator.rule.german.GermanRuleFactory;
-import org.patrologia.translator.utils.Analizer;
+import patrologia.translator.TranslatorBridge;
+import patrologia.translator.basicelements.*;
+import patrologia.translator.basicelements.noun.NounRepository;
+import patrologia.translator.basicelements.preposition.PrepositionRepository;
+import patrologia.translator.basicelements.verb.VerbRepository;
+import patrologia.translator.casenumbergenre.german.GermanCaseFactory;
+import patrologia.translator.conjugation.german.GermanConjugationFactory;
+import patrologia.translator.declension.Declension;
+import patrologia.translator.declension.german.GermanDeclension;
+import patrologia.translator.declension.german.GermanDeclensionFactory;
+import patrologia.translator.linguisticimplementations.FrenchTranslator;
+import patrologia.translator.linguisticimplementations.GermanAnalyzer;
+import patrologia.translator.linguisticimplementations.Translator;
+import patrologia.translator.rule.german.GermanRuleFactory;
+import patrologia.translator.utils.Analizer;
 
 
 import java.util.*;
@@ -28,19 +28,23 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
 
     private TranslatorBridge translatorBridge;
 
+    private String localTestPath="C:\\Users\\laurent.kloeble\\IdeaProjects\\translator\\src\\test\\resources\\";
+    private String localResourcesPath="C:\\Users\\laurent.kloeble\\IdeaProjects\\translator\\src\\main\\resources\\german\\";
+    private String localCommonPath="C:\\Users\\laurent.kloeble\\IdeaProjects\\translator\\src\\main\\resources\\";
+
     @Before
     public void init() {
-        String prepositionFileDescription = "C:\\translator\\src\\main\\resources\\german\\prepositions.txt";
-        String nounFileDescription = "C:\\translator\\src\\main\\resources\\german\\nouns.txt";
-        String verbFileDescription = "C:\\translator\\src\\main\\resources\\german\\verbs.txt";
-        String germanFrenchDataFile = "C:\\translator\\src\\main\\resources\\german\\robert_collins_german_to_french.txt";
-        String frenchVerbsDataFile = "C:\\translator\\src\\main\\resources\\french_verbs.txt";
-        String declensionPath = "C:\\translator\\src\\main\\resources\\german\\declensions";
-        String declensionsAndFiles = "C:\\translator\\src\\main\\resources\\german\\declensionsAndFiles.txt";
-        String conjugationPath = "C:\\translator\\src\\main\\resources\\german\\conjugations";
-        String conjugationsAndFiles = "C:\\translator\\src\\main\\resources\\german\\conjugationsAndFiles.txt";
-        String germanPathFile = "C:\\translator\\src\\test\\resources\\german_content.txt";
-        String germanResultFile = "C:\\translator\\src\\test\\resources\\german_expected_results.txt";
+        String prepositionFileDescription = localResourcesPath + "prepositions.txt";
+        String nounFileDescription = localResourcesPath + "nouns.txt";
+        String verbFileDescription = localResourcesPath + "verbs.txt";
+        String germanFrenchDataFile = localResourcesPath + "robert_collins_german_to_french.txt";
+        String frenchVerbsDataFile = localCommonPath + "french_verbs.txt";
+        String declensionPath = localResourcesPath + "declensions";
+        String declensionsAndFiles = localResourcesPath + "declensionsAndFiles.txt";
+        String conjugationPath = localResourcesPath + "conjugations";
+        String conjugationsAndFiles = localResourcesPath + "conjugationsAndFiles.txt";
+        String germanPathFile = localTestPath + "german_content.txt";
+        String germanResultFile = localTestPath + "german_expected_results.txt";
         GermanDeclensionFactory germanDeclensionFactory = new GermanDeclensionFactory(getDeclensions(declensionsAndFiles), getDeclensionList(declensionsAndFiles, declensionPath));
         NounRepository nounRepository = new NounRepository(Language.GERMAN, germanDeclensionFactory, new DummyAccentuer(),getFileContentForRepository(nounFileDescription));
         VerbRepository verbRepository = new VerbRepository(new GermanConjugationFactory(getGermanConjugations(conjugationsAndFiles), getGermanConjugationDefinitions(conjugationsAndFiles, conjugationPath),nounRepository), Language.GERMAN, new DummyAccentuer(),getVerbs(verbFileDescription));

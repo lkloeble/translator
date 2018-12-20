@@ -1,20 +1,20 @@
 import org.junit.Before;
 import org.junit.Test;
-import org.patrologia.translator.TranslatorBridge;
-import org.patrologia.translator.basicelements.*;
-import org.patrologia.translator.basicelements.noun.NounRepository;
-import org.patrologia.translator.basicelements.preposition.PrepositionRepository;
-import org.patrologia.translator.basicelements.verb.VerbRepository;
-import org.patrologia.translator.casenumbergenre.latin.LatinCaseFactory;
-import org.patrologia.translator.conjugation.latin.LatinConjugationFactory;
-import org.patrologia.translator.declension.Declension;
-import org.patrologia.translator.declension.latin.LatinDeclension;
-import org.patrologia.translator.declension.latin.LatinDeclensionFactory;
-import org.patrologia.translator.linguisticimplementations.FrenchTranslator;
-import org.patrologia.translator.linguisticimplementations.LatinAnalyzer;
-import org.patrologia.translator.linguisticimplementations.Translator;
-import org.patrologia.translator.rule.latin.LatinRuleFactory;
-import org.patrologia.translator.utils.Analizer;
+import patrologia.translator.TranslatorBridge;
+import patrologia.translator.basicelements.*;
+import patrologia.translator.basicelements.noun.NounRepository;
+import patrologia.translator.basicelements.preposition.PrepositionRepository;
+import patrologia.translator.basicelements.verb.VerbRepository;
+import patrologia.translator.casenumbergenre.latin.LatinCaseFactory;
+import patrologia.translator.conjugation.latin.LatinConjugationFactory;
+import patrologia.translator.declension.Declension;
+import patrologia.translator.declension.latin.LatinDeclension;
+import patrologia.translator.declension.latin.LatinDeclensionFactory;
+import patrologia.translator.linguisticimplementations.FrenchTranslator;
+import patrologia.translator.linguisticimplementations.LatinAnalyzer;
+import patrologia.translator.linguisticimplementations.Translator;
+import patrologia.translator.rule.latin.LatinRuleFactory;
+import patrologia.translator.utils.Analizer;
 
 import java.util.*;
 
@@ -25,19 +25,23 @@ public class LatinTranslatorBridgeTest extends TranslatorBridgeTest {
 
     protected TranslatorBridge translatorBridge;
 
+    private String localTestPath="C:\\Users\\laurent.kloeble\\IdeaProjects\\translator\\src\\test\\resources\\";
+    private String localResourcesPath="C:\\Users\\laurent.kloeble\\IdeaProjects\\translator\\src\\main\\resources\\latin\\";
+    private String localCommonPath="C:\\Users\\laurent.kloeble\\IdeaProjects\\translator\\src\\main\\resources\\";
+
     @Before
     public void init() {
-        String prepositionFileDescription = "C:\\translator\\src\\main\\resources\\latin\\prepositions.txt";
-        String nounFileDescription = "C:\\translator\\src\\main\\resources\\latin\\nouns.txt";
-        String verbFileDescription = "C:\\translator\\src\\main\\resources\\latin\\verbs.txt";
-        String latinFrenchDataFile = "C:\\translator\\src\\main\\resources\\latin\\gaffiot_latin_to_french.txt";
-        String frenchVerbsDataFile = "C:\\translator\\src\\main\\resources\\french_verbs.txt";
-        String declensionLatinFiles = "C:\\translator\\src\\main\\resources\\latin\\declensions";
-        String conjugationLatinFiles = "C:\\translator\\src\\main\\resources\\latin\\conjugations";
-        String declensionsAndFiles = "C:\\translator\\src\\main\\resources\\latin\\declensionsAndFiles.txt";
-        String conjugationsAndFiles = "C:\\translator\\src\\main\\resources\\latin\\conjugationsAndFiles.txt";
-        String latinPathFile = "C:\\translator\\src\\test\\resources\\latin_content.txt";
-        String latinResultFile = "C:\\translator\\src\\test\\resources\\latin_expected_result.txt";
+        String prepositionFileDescription = localResourcesPath + "prepositions.txt";
+        String nounFileDescription = localResourcesPath + "nouns.txt";
+        String verbFileDescription = localResourcesPath + "verbs.txt";
+        String latinFrenchDataFile = localResourcesPath + "gaffiot_latin_to_french.txt";
+        String frenchVerbsDataFile = localCommonPath + "french_verbs.txt";
+        String declensionLatinFiles = localResourcesPath + "declensions";
+        String conjugationLatinFiles = localResourcesPath + "conjugations";
+        String declensionsAndFiles = localResourcesPath + "declensionsAndFiles.txt";
+        String conjugationsAndFiles = localResourcesPath + "conjugationsAndFiles.txt";
+        String latinPathFile = localTestPath + "latin_content.txt";
+        String latinResultFile = localTestPath + "latin_expected_result.txt";
         LatinDeclensionFactory latinDeclensionFactory = new LatinDeclensionFactory(getDeclensions(declensionsAndFiles), getDeclensionList(declensionsAndFiles, declensionLatinFiles));
         LatinRuleFactory ruleFactory = new LatinRuleFactory();
         PrepositionRepository prepositionRepository = new PrepositionRepository(Language.LATIN, new LatinCaseFactory(), ruleFactory, getFileContentForRepository(prepositionFileDescription));

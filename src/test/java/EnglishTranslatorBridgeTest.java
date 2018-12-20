@@ -1,20 +1,21 @@
 import org.junit.Before;
 import org.junit.Test;
-import org.patrologia.translator.TranslatorBridge;
-import org.patrologia.translator.basicelements.*;
-import org.patrologia.translator.basicelements.noun.NounRepository;
-import org.patrologia.translator.basicelements.preposition.PrepositionRepository;
-import org.patrologia.translator.basicelements.verb.VerbRepository;
-import org.patrologia.translator.casenumbergenre.english.EnglishCaseFactory;
-import org.patrologia.translator.conjugation.english.EnglishConjugationFactory;
-import org.patrologia.translator.declension.Declension;
-import org.patrologia.translator.declension.english.EnglishDeclension;
-import org.patrologia.translator.declension.english.EnglishDeclensionFactory;
-import org.patrologia.translator.linguisticimplementations.EnglishAnalyzer;
-import org.patrologia.translator.linguisticimplementations.FrenchTranslator;
-import org.patrologia.translator.linguisticimplementations.Translator;
-import org.patrologia.translator.rule.english.EnglishRuleFactory;
-import org.patrologia.translator.utils.Analizer;
+import patrologia.translator.TranslatorBridge;
+import patrologia.translator.basicelements.*;
+import patrologia.translator.basicelements.noun.NounRepository;
+import patrologia.translator.basicelements.preposition.PrepositionRepository;
+import patrologia.translator.basicelements.verb.VerbRepository;
+import patrologia.translator.casenumbergenre.english.EnglishCaseFactory;
+import patrologia.translator.conjugation.english.EnglishConjugationFactory;
+import patrologia.translator.declension.Declension;
+import patrologia.translator.declension.english.EnglishDeclension;
+import patrologia.translator.declension.english.EnglishDeclensionFactory;
+import patrologia.translator.linguisticimplementations.EnglishAnalyzer;
+import patrologia.translator.linguisticimplementations.FrenchTranslator;
+import patrologia.translator.linguisticimplementations.Translator;
+import patrologia.translator.rule.english.EnglishRuleFactory;
+import patrologia.translator.utils.Analizer;
+import patrologia.translator.basicelements.Language;
 
 
 import java.util.*;
@@ -28,19 +29,23 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
 
     private TranslatorBridge translatorBridge;
 
+    private String localTestPath="C:\\Users\\laurent.kloeble\\IdeaProjects\\translator\\src\\test\\resources\\";
+    private String localResourcesPath="C:\\Users\\laurent.kloeble\\IdeaProjects\\translator\\src\\main\\resources\\english\\";
+    private String localCommonPath="C:\\Users\\laurent.kloeble\\IdeaProjects\\translator\\src\\main\\resources\\";
+
     @Before
     public void init() {
-        String prepositionFileDescription = "C:\\translator\\src\\main\\resources\\english\\prepositions.txt";
-        String nounFileDescription = "C:\\translator\\src\\main\\resources\\english\\nouns.txt";
-        String verbFileDescription = "C:\\translator\\src\\main\\resources\\english\\verbs.txt";
-        String englishFrenchDataFile = "C:\\translator\\src\\main\\resources\\english\\harraps_shorter_to_french.txt";
-        String frenchVerbsDataFile = "C:\\translator\\src\\main\\resources\\french_verbs.txt";
-        String declensionPath = "C:\\translator\\src\\main\\resources\\english\\declensions";
-        String declensionsAndFiles = "C:\\translator\\src\\main\\resources\\english\\declensionsAndFiles.txt";
-        String conjugationPath = "C:\\translator\\src\\main\\resources\\english\\conjugations";
-        String conjugationsAndFiles = "C:\\translator\\src\\main\\resources\\english\\conjugationsAndFiles.txt";
-        String englishPathFile = "C:\\translator\\src\\test\\resources\\english_content.txt";
-        String englishResultFile = "C:\\translator\\src\\test\\resources\\english_expected_results.txt";
+        String prepositionFileDescription = localResourcesPath + "prepositions.txt";
+        String nounFileDescription = localResourcesPath + "nouns.txt";
+        String verbFileDescription = localResourcesPath + "verbs.txt";
+        String englishFrenchDataFile = localResourcesPath + "harraps_shorter_to_french.txt";
+        String frenchVerbsDataFile = localCommonPath + "french_verbs.txt";
+        String declensionPath = localResourcesPath + "declensions";
+        String declensionsAndFiles = localResourcesPath + "declensionsAndFiles.txt";
+        String conjugationPath = localResourcesPath + "conjugations";
+        String conjugationsAndFiles = localResourcesPath + "conjugationsAndFiles.txt";
+        String englishPathFile = localTestPath + "english_content.txt";
+        String englishResultFile = localTestPath + "english_expected_results.txt";
         EnglishDeclensionFactory englishDeclensionFactory = new EnglishDeclensionFactory(getDeclensions(declensionsAndFiles), getDeclensionList(declensionsAndFiles, declensionPath));
         NounRepository nounRepository = new NounRepository(Language.ENGLISH, englishDeclensionFactory, new DummyAccentuer(), getFileContentForRepository(nounFileDescription));
         VerbRepository verbRepository = new VerbRepository(new EnglishConjugationFactory(getEnglishConjugations(conjugationsAndFiles), getEnglishConjugationDefinitions(conjugationsAndFiles, conjugationPath), nounRepository), Language.ENGLISH, new DummyAccentuer(), getVerbs(verbFileDescription));

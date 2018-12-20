@@ -1,20 +1,20 @@
 import org.junit.Before;
 import org.junit.Test;
-import org.patrologia.translator.TranslatorBridge;
-import org.patrologia.translator.basicelements.*;
-import org.patrologia.translator.basicelements.noun.NounRepository;
-import org.patrologia.translator.basicelements.preposition.PrepositionRepository;
-import org.patrologia.translator.basicelements.verb.VerbRepository;
-import org.patrologia.translator.casenumbergenre.hebrew.HebrewCaseFactory;
-import org.patrologia.translator.conjugation.hebrew.HebrewConjugationFactory;
-import org.patrologia.translator.declension.Declension;
-import org.patrologia.translator.declension.hebrew.HebrewDeclension;
-import org.patrologia.translator.declension.hebrew.HebrewDeclensionFactory;
-import org.patrologia.translator.linguisticimplementations.FrenchTranslator;
-import org.patrologia.translator.linguisticimplementations.HebrewAnalyzer;
-import org.patrologia.translator.linguisticimplementations.Translator;
-import org.patrologia.translator.rule.hebrew.HebrewRuleFactory;
-import org.patrologia.translator.utils.Analizer;
+import patrologia.translator.TranslatorBridge;
+import patrologia.translator.basicelements.*;
+import patrologia.translator.basicelements.noun.NounRepository;
+import patrologia.translator.basicelements.preposition.PrepositionRepository;
+import patrologia.translator.basicelements.verb.VerbRepository;
+import patrologia.translator.casenumbergenre.hebrew.HebrewCaseFactory;
+import patrologia.translator.conjugation.hebrew.HebrewConjugationFactory;
+import patrologia.translator.declension.Declension;
+import patrologia.translator.declension.hebrew.HebrewDeclension;
+import patrologia.translator.declension.hebrew.HebrewDeclensionFactory;
+import patrologia.translator.linguisticimplementations.FrenchTranslator;
+import patrologia.translator.linguisticimplementations.HebrewAnalyzer;
+import patrologia.translator.linguisticimplementations.Translator;
+import patrologia.translator.rule.hebrew.HebrewRuleFactory;
+import patrologia.translator.utils.Analizer;
 
 import java.util.*;
 
@@ -27,12 +27,17 @@ import static org.junit.Assert.assertTrue;
 public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
 
     private TranslatorBridge translatorBridge;
-    String nounFileDescription = "C:\\translator\\src\\main\\resources\\hebrew\\nouns.txt";
-    String prepositionFileDescription = "C:\\translator\\src\\main\\resources\\hebrew\\prepositions.txt";
-    String hebrewFrenchDataFile = "C:\\translator\\src\\main\\resources\\hebrew\\cohn_hebrew_to_french.txt";
-    String frenchVerbsDataFile = "C:\\translator\\src\\main\\resources\\french_verbs.txt";
-    String hebrewPathFile = "C:\\translator\\src\\test\\resources\\hebrew_content.txt";
-    String hebrewResultFile = "C:\\translator\\src\\test\\resources\\hebrew_expected_results.txt";
+
+    private String localTestPath="C:\\Users\\laurent.kloeble\\IdeaProjects\\translator\\src\\test\\resources\\";
+    private String localResourcesPath="C:\\Users\\laurent.kloeble\\IdeaProjects\\translator\\src\\main\\resources\\hebrew\\";
+    private String localCommonPath="C:\\Users\\laurent.kloeble\\IdeaProjects\\translator\\src\\main\\resources\\";
+
+    String nounFileDescription = localResourcesPath + "nouns.txt";
+    String prepositionFileDescription = localResourcesPath + "prepositions.txt";
+    String hebrewFrenchDataFile = localResourcesPath + "cohn_hebrew_to_french.txt";
+    String frenchVerbsDataFile = localCommonPath + "french_verbs.txt";
+    String hebrewPathFile = localTestPath + "hebrew_content.txt";
+    String hebrewResultFile = localTestPath + "hebrew_expected_results.txt";
 
 
     @Before
