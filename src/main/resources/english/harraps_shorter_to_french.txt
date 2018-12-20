@@ -277,12 +277,13 @@ cause@verb!norm%1(verb)=causer
 caution@noun!normfem%1(noun)=prudence
 cave@noun!normmasc%1(noun)=caverne
 cease@verb!norm%1(verb)=cesser
-censure@noun!normmasc%1(noun)=critique
 center@noun!invmasc%1(noun)=centre
+censure@noun!normmasc%1(noun)=critique
 century@noun!invmasc%1(noun)=siècle
 cereal@noun!normmasc%1(noun)=céréale
 certain@adj!normmasc%1(noun)=certain
 certainly@prep%1(prep)=certainement
+certif@verb!norm%1(verb)=certifier
 ch@noun!invmasc%1(noun)=ch
 champaign@noun!normmasc%1(noun)=champs
 change@noun!normmasc%1(noun)=change (monnaie)%2(noun)=changement
@@ -382,6 +383,7 @@ conservative@adj!normmasc%1(noun)=conservateur
 consider@verb!norm%1(verb)=considerer
 consideration@noun!normmasc%1(noun)=considération
 considereth@noun!invmasc%1(noun)=considéra
+consist@verb!norm%1(verb)=consister
 consonant@noun!normmasc%1(noun)=consonnance%2(noun)=consonne
 constitution@noun!normmasc%1(noun)=constitution
 constrain@verb!norm%1(verb)=contraindre
@@ -854,6 +856,7 @@ hiddekel@noun!invmasc%1(noun)=hiddekel
 hide@verb!norm%1(verb)=cacher
 high@noun!invmasc%1(adj)=élevé%2(adj)=haut
 hill@noun!normmasc%1(noun)=colline
+hilly@noun!invmasc%1(noun)=vallonné
 him@prep%1(noun)=lui
 himself@prep%1(noun)=lui-même
 himselfe@prep%1(noun)=lui-même
@@ -1567,6 +1570,7 @@ section@noun!normmasc%1(noun)=section
 sell@verb!norm%1(verb)=vendre
 send@verb!norm%1(verb)=envoyer
 sense@noun!normmasc%1(noun)=sens
+separate@verb!norm%1(verb)=separer
 serie@noun!normfem%1(noun)=série
 serpent@noun!normmasc%1(noun)=serpent
 set@verb!norm%1(verb)=placer
@@ -1610,6 +1614,7 @@ simulate@verb!norm%1(verb)=simuler
 sin@noun!normmasc%1(noun)=péché
 since@prep%1(prep)=depuis
 sing@verb!norm%1(verb)=chanter
+sink@verb!norm%1(verb)=enfoncer%2(verb)=couler
 sion@noun!invmasc%1(noun)=sion
 sir@noun!invmasc%1(noun)=monsieur
 sister@noun!normmasc%1(noun)=soeur

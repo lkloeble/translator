@@ -60,6 +60,7 @@ carr,[imply]
 cast,[live]
 cause,[live]
 cease,[live]
+certif,[imply]
 change,[live]
 check,[call]
 choose,[live],(PAP*choosed*chosen*0)
@@ -88,6 +89,7 @@ confirm,[live]
 conform,[call]
 confound,[call]
 consider,[call]
+consist,[call]
 constrain,[call]
 consult,[call]
 contain,[live]
@@ -302,6 +304,7 @@ seek,[call]
 seem,[call]
 sell,[live]
 send,[live],(AIP*sendd*sent*0)
+separate,[live],(PAPR*separateing*separating*0)
 set,[live]
 sew,[call]
 shall,[live],(IPR*shalls*shall*0@AII*shall*ddddddd*0)
@@ -313,6 +316,7 @@ shut,[live]
 signify,[live],(IPR2*signifys*signifies*0@PAP*signify*signifie*0)
 simulate,[live],(PAPR*simulateing*simulating*0)
 sing,[live]
+sink,[live]
 sit,[live],(AIP*sitd*sat*0@PAPR*sit*sitt*0)
 ski,[live]
 skirt,[live]
