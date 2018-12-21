@@ -274,6 +274,7 @@ beschaftigung@noun!meinfem%1(noun)=occupation
 beruf@verb!norm%1(verb)=invoquer
 beruh@verb!norm%1(verb)=reposer
 besam@verb!norm%1(verb)=fertiliser
+beschaff@verb!norm%1(verb)=obtenir
 beschaftig@verb!norm%1(verb)=soccuper
 beschleunig@verb!norm%1(verb)=accelerer
 bescheiden@noun!ausreichend%1(adj)=humble%2(adj)=modeste
@@ -827,6 +828,7 @@ gegensatz@noun!phanomen%1(noun)=contradiction
 gegensatzlichst@adj!ausreichend%1(adj)=le plus contradictoire
 gegenwart@noun!inv%1(noun)=présence%2(noun)=temps présent
 gegenwartig@adj!ausreichend%1(adj)=existant%2(adj)=présent%3(adj)=contemporain%4(adj)=courant
+gegenwartigst@adj!ausreichend%1(adj)=le plus courant
 geh@verb!norm%1(verb)=aller
 geheim@adj!ausreichend%1(adj)=secret
 geheimnis@noun!erkenntnis%1(noun)=secret
@@ -953,6 +955,7 @@ hass@noun!ort%1(noun)=haine
 hasslich@adj!ausreichend%1(adj)=horrible
 haufig@adj!ausreichend%1(adj)=fréquent
 haufiger@adj!ausreichend%1(adj)=plus fréquent
+hauptmasse@noun!inv%1(noun)=corps principal
 hauptstadt@noun!flasche%1(noun)=capitale
 hauptwasser@noun!inv%1(noun)=fleuve
 haus@noun!licht%1(noun)=maison
@@ -1470,6 +1473,7 @@ nr@noun!inv%1(noun)=nbr
 nummer@noun!inv%1(noun)=numéro
 nun@prep%1(prep)=maintenant
 nur@prep%1(prep)=mais%2(prep)=quoi qu'il en soit%3(prep)=de toute les façons%4(prep)=seulement
+nutzanwendung@noun!meinfem%1(noun)=utilisation
 ob@prep%1(prep)=sur
 oben@prep%1(prep)=au dessus de
 oberflachlich@adj!ausreichend%1(adj)=superficiel
@@ -1494,6 +1498,7 @@ optik@noun!meinmasc%1(noun)=optique
 optimist@noun!meinmasc%1(noun)=optimiste
 optimismus@noun!inv%1(noun)=optimisme
 optimistischer@adj!ausreichend%1(adj)=plus optimiste
+orakel@noun!arbeiter%1(noun)=oracle
 original@noun!original%1(noun)=original
 ort@noun!ort%1(noun)=village%2(noun)=lieu%3(noun)=place
 ostern@noun!inv%1(noun)=pour Pâques
@@ -1880,6 +1885,7 @@ suppe@noun!flasche%1(noun)=soupe
 surf@noun!inv%1(noun)=surf
 surf@verb!norm%1(surf)=surfer
 suss@adj!ausreichend%1(adj)=doux
+sibyllinisch@adj!ausreichend%1(adj)=sibyllin
 symptom@noun!norm%1(noun)=symptôme
 synedrium@noun!inv%1(noun)=sanhédrin
 synthesis@noun!inv%1(noun)=synthèse
@@ -1977,6 +1983,7 @@ uberstromen@adj!ausreichend%1(adj)=abondant
 uberwach@verb!norm%1(verb)=surveiller%2(verb)=controler
 uberwieg@verb!norm%1(verb)=dominer
 uberzeugt@adj!ausreichend%1(adj)=convaincu
+ublich@adj!ausreichend%1(adj)=habituel
 ubrig@adj!ausreichend%1(adj)=restant
 ubrigens@prep%1(prep)=du reste
 uhr@noun!inv%1(noun)=heure

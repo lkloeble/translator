@@ -65,6 +65,7 @@ bericht,en,[mochten]
 beruf,en,[rufen]
 beruh,en,[leben]
 besam,en,[leben]
+beschaff,en,[leben]
 beschaftig,en,[leben]
 beschleunig,en,[leben]
 besitz,en,[genesen],(PAP*besitz*besessen*0)

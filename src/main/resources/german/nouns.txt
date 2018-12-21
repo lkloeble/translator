@@ -509,6 +509,7 @@ gegensatz@masc%phanomen
 gegensatzlichst@adj%ausreichend
 gegenwart@fem%inv
 gegenwartig@adj%ausreichend
+gegenwartigst@adj%ausreichend
 geheim@adj%ausreichend
 geheimnis@neut%erkenntnis
 geheimnisvoller@adj%ausreichend
@@ -610,6 +611,7 @@ hass@masc%ort
 hasslich@adj%ausreichend
 haufig@adj%ausreichend
 haufiger@adj%ausreichend
+hauptmasse@neut%inv
 hauptstadt@fem%flasche
 hauptwasser@neut%inv
 haus@neut%licht
@@ -987,6 +989,7 @@ notwendig@adj%ausreichend
 notwendigkeit@fem%meinfem
 nr@neut%inv
 nummer@neut%inv
+nutzanwendung@fem%meinfem
 oberflachlich@adj%ausreichend
 objektiv@neut%norm
 obst@neut%inv
@@ -1005,6 +1008,7 @@ optik@neut%meinmasc
 optimist@neut%meinmasc
 optimismus@neut%inv
 optimistischer@adj%ausreichend
+orakel@neut%arbeiter
 original@neut%original
 ort@masc%ort
 ostern@neut%inv
@@ -1288,6 +1292,7 @@ sunde@fem%flasche
 suppe@fem%flasche
 surf@neut%inv
 suss@adj%ausreichend
+sibyllinisch@adj%ausreichend
 symptom@neut%norm
 synedrium@neut%inv
 synthesis@neut%inv
@@ -1365,6 +1370,7 @@ uberschrift@fem%meinfem
 ubersetzung@fem%meinfem
 uberstromen@adj%ausreichend
 uberzeugt@adj%ausreichend
+ublich@adj%ausreichend
 ubrig@adj%ausreichend
 uhr@fem%inv
 umfang@masc%meinmasc
