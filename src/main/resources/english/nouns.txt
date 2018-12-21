@@ -429,6 +429,7 @@ famous@adj%invmasc
 fantastic@neut%invmasc
 farther@neut%invmasc
 farthest@neut%invmasc
+fast@neut%invmasc
 fastned@neut%invmasc
 fat@adj%normmasc
 fate@neut%normmasc
@@ -866,6 +867,7 @@ openeth@neut%invmasc
 ophir@neut%invmasc
 opinion@neut%invmasc
 opposite@neut%invmasc
+opposition@neut%normmasc
 oral@adj%normmasc
 order@neut%normmasc
 original@adj%invmasc
@@ -983,6 +985,7 @@ r@neut%invmasc
 rab@neut%normmasc
 rabbi@neut%normmasc
 railway@neut%normmasc
+rain@neut%normmasc
 rainy@neut%invmasc
 rational@neut%normmasc
 rationall@neut%normmasc

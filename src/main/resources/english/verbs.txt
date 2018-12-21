@@ -139,6 +139,7 @@ encamp,[call]
 encourage,[live]
 end,[call]
 endure,[live],(PAPR*endurei*enduri*0)
+enjoin,[call]
 enter,[call]
 establish,[teach]
 excel,[live]
