@@ -856,8 +856,8 @@ patrologiacaput3B15=>|Simonianae| autem magiae disciplina, inquit, angelis servi
 patrologiacaput3B16=>et a Petro Apostolo in ipso Simone damnabatur.
 patrologiacaput3B17=>Illud tamen Tertulliano, si haec vera, uti refertur, fuerit ejus mens et sententia,
 patrologiacaput3B18=>adversari videtur, quod Simon ipse jactitabat se angelos creasse : seque e caelo delapsum :
-patrologiacaput3B19=>ut angelos, cum male moderarentur mundum, corriperet.
-patrologiacaput3B20=>Sed nulli mirum esse debet, si homines a veritatis via perquam longissime aberrantes,patrologiacaput3B=>
+patrologiacaput3B19=>ut angelos, cum male@N moderarentur mundum, corriperet.
+patrologiacaput3B20=>Sed nulli mirum esse debet, si homines a veritatis via perquam longissime aberrantes,
 patrologiacaput3B21=>secum ipsi aliquando pugnent, et inepte contra se dicant.
 patrologiacaput3B22=>Et re quidem vera epiphanius simonem ideo castigat, quod de angelis quaedam secum pugnantia tradiderit :
 patrologiacaput3B23=>quemadmodum vero nugarum suarum oblitus impostor, velut eorum quae antae tradiderat, ignarus, se ipsum refellit.

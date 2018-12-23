@@ -1,2 +1,3 @@
 IPR=>,t,,en,t,en
 AIP=>e,est,e,en,et,en
+PAP=>[ausreichend]

@@ -593,6 +593,7 @@ hotel@neut%invmasc
 hour@neut%normmasc
 house@fem%invfem
 huge@adj%invmasc
+humbled@adj%invmasc
 hundred@neut%normmasc
 hungry@adj%invmasc
 husband@masc%invmasc
@@ -1122,6 +1123,7 @@ skin@neut%normmasc
 sleep@masc%invmasc
 small@adj%invmasc
 sodom@neut%invmasc
+soft@adj%invmasc
 software@neut%normmasc
 soil@neut%normmasc
 solomon@neut%invmasc

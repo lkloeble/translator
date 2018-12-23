@@ -10,6 +10,7 @@ aber@noun!inv%1(noun)=mais
 abhandlung@noun!meinfem%1(noun)=traité
 abhang@verb!norm%1(verb)=dependre
 abkommling@noun!phanomen%1(noun)=descendant
+abkunft@noun!inv%1(noun)=descendance
 abkurzung@noun!meinfem%1(noun)=abbréviation
 ablieferung@noun!meinfem%1(noun)=livraison
 abneigung@noun!meinfem%1(noun)=aversion
@@ -90,6 +91,7 @@ ans@prep%1(noun)=pour
 anschauung@noun!meinfem%1(noun)=intution%2(noun)=opinion
 anschein@noun!arbeiter%1(noun)=apparence
 ansicht@noun!meinfem%1(noun)=opinion
+anti@noun!inv%1(noun)=anti
 antichrist@noun!inv%1(noun)=antéchrist
 antichristlich@adj!ausreichend%1(adj)=anti-chrétien
 antiq@noun!inv%1(noun)=antiquités
@@ -164,6 +166,7 @@ auslegung@noun!meinfem%1(noun)=interprétation%2(noun)=exégèse
 ausnahme@noun!flasche%1(noun)=exception
 ausreichend@adj!ausreichend%1(adj)=satisfaisant%2(adj)=suffisant
 ausrottung@noun!meinmasc%1(noun)=extermination
+ausruf@verb!norm%1(verb)=declarer
 ausschweifend@adj!ausreichend%1(adj)=dissolu%2(adj)=débauché
 ausschweifendst@adj!ausreichend%1(adj)=le plus dissolu%2(adj)=le plus débauché
 ausseh@verb!norm%1(verb)=avoirlair
@@ -977,7 +980,7 @@ heiss@verb!norm%1(verb)=appeler%2(verb)=signifier%3(verb)=nommer
 heiter@adj!ausreichend%1(adj)=joyeux
 heiterer@adj!ausreichend%1(adj)=plus joyeux
 heiterkeit@noun!norm%1(noun)=joie
-held@noun!meinmasc%1(noun)=héros
+held@noun!artist%1(noun)=héros
 helf@verb!norm%1(verb)=aider
 hellene@noun!flasche%1(noun)=hellène
 helles@noun!inv%1(noun)=vive
@@ -1630,6 +1633,7 @@ resignation@noun!inv%1(noun)=résignation
 rest@noun!rest%1(noun)=reste
 restaurant@noun!inv%1(noun)=restaurant
 retrospektiv@adj!ausreichend%1(adj)=rétrospectif
+revolution@noun!inv%1(noun)=révolution
 rezension@noun!meinfem%1(noun)=critique
 rezipiert@noun!meinmasc%1(noun)=examen
 richard@noun!inv%1(noun)=richard

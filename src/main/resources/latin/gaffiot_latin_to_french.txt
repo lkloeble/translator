@@ -1,5 +1,6 @@
 ﻿a@prep%1(prep + abl)=de (avec point de départ et idee de mouvement)%2(prep + abl)=de (avec eloignement, separation)%3(prep + abl)=du cote de,a partir de%4(prep + abl)=jugement d'apres,du fait que%5(prep + abl)=depuis,aussitot apres%6(prep + abl)=en raison de,sous l'action de%7(prep + abl)=en provenance de
 ab@prep%1(prep + abl)=de (avec point de départ et idee de mouvement)%2(prep + abl)=de (avec eloignement, separation)%3(prep + abl)=du cote de,a partir de%4(prep + abl)=jugement d'apres,du fait que%5(prep + abl)=depuis,aussitot apres%6(prep + abl)=en raison de,sous l'action de%7(prep + abl)=en provenance de
+aberran@adj!s-s-s%1(adj)=déviant
 abject@adj!us-a-um%1(adj)=rejetté
 admirabil@adj!is-is-e%1(adj)=admirable
 abominand@adj!us-a-um%1(adj)=détesté
@@ -46,6 +47,7 @@ advers@adj!us-a-um%1(adj)=adverse
 adversari@noun!us-i%1(noun)=adversaire
 adult@adj!us-a-um%1(adj)=brûlé%2(adj)=sacrifié
 advenio@verb!norm%1(verb)=arriver
+adversor@verb!norm%1(verb)=sopposer
 adyt@noun!um-i%1(noun)=saint des saints
 aedifici@noun!um-i%1(noun)=édifice
 aedifico@verb!norm%1(verb)=edifier
@@ -206,6 +208,7 @@ caro@noun!inv%1(noun)=chair
 carr@noun!us-i%1(noun)=chariot
 carpo@verb!norm%1(verb)=cueillir
 castigatio@noun!x-nis%1(noun)=punition
+castigo@verb!norm%1(verb)=critiquer
 catholic@adj!us-a-um%1(adj)=catholique
 caus@noun!a-ae%1(noun)=chose%2(noun)=explication%3(noun)=condition%4(noun)=motif,prétexte%5(noun)=raison
 caveo@verb!norm%1(verb)=prendregarde
@@ -324,6 +327,7 @@ corneli@noun!us-i%1(noun)=cornelius
 corp@noun!us-oris%1(noun)=corps
 copulo@verb!norm%1(verb)=connecter%2(verb)=unir
 corrigo@verb!norm%1(verb)=corriger
+corripio@verb!norm%1(verb)=piller%2(verb)=saisir
 corrumpo@verb!norm%1(verb)=corrompre
 corsic@noun!a-ae%1(noun)=corse
 cost@noun!a-ae%1(noun)=côté%2(noun)=côte
@@ -377,6 +381,7 @@ defect@noun!us-us%1(noun)=échec
 deficio@verb!norm%1(verb)=gaspiller%2(verb)=perdre
 definiti@noun!o-onis%1(noun)=définition
 deinde@prep%1(prep)=après%2(prep)=ensuite%3(prep)=à partir de là
+delaps@adj!us-a-um%1(adj)=tombé
 delecto@verb!norm%1(verb)=serejouir
 deleo@verb!norm%1(verb)=détruire%2(verb)=effacer
 deli@noun!a-ae%1(noun)=delia
@@ -684,6 +689,7 @@ hymn@noun!us-i%1(noun)=hymne
 i@prep%1(prep)=i
 id@prep%1(prep)=ce
 idem@prep%1(prep)=même
+ideo@prep%1(prep)=par conséquent
 ii@prep%1(prep)=ils
 iidem@prep%1(prep)=ils
 iis@prep%1(prep)=à/de ceux
@@ -738,6 +744,7 @@ indign@adj!us-a-um%1(adj)=indigne
 induco@verb!norm%1(verb)=conduire dans,contre,vers%2(verb)=faire avancer%3(verb)=appliquer sur,recouvrir%4(verb)=etendre%5(verb)=prendre en compte,inscrire%6(verb)=se resoudre a,se mettre dans l'idee que%7(verb)=representer,mettre en scene%8(verb)=conduire
 induct@adj!us-a-um%1(adj)=introduit%2(adj)=exhibé%3(adj)=conduit
 indut@adj!us-a-um%1(adj)=assumé
+inept@adj!us-a-um%1(adj)=inutilisabe
 infand@adj!us-a-um%1(adj)=innomable
 infect@adj!us-a-um%1(adj)=impossible%2(adj)=non terminé
 inferi@adj!or-or-us%1(adj)=inférieur
@@ -798,15 +805,16 @@ itero@verb!norm%1(verb)=repeter
 iterum@prep%1(prep)=de nouveau
 itin@noun!us-eris%1(noun)=chemin%2(noun)=voyage
 iubeo@verb!norm%1(verb)=ordonner
-iucund@adj!us-a-um%1(adj)=agréable
 iudici@noun!um-i%1(noun)=procès%2(noun)=opinion%3(noun)=décision
 iuli@noun!us-i%1(noun)=julius
+iucund@adj!us-a-um%1(adj)=agréable
 iuli@noun!a-ae%1(noun)=iulia
 iument@noun!um-i%1(noun)=animal domestique
 iur@noun!a-ae%1(noun)=jura
 iurand@noun!um-i%1(noun)=serment
 iu@noun!s-ris%1(noun)=devoir%2(noun)=loi
 iuxta@prep%1(prep)=à côté de%2(prep)=selon
+jactito@verb!norm%1(verb)=remarquer
 jactur@adj!us-a-um%1(adj)=sur le point de faire
 jam@prep%1(prep)=déjà%2(prep)=maintenant%3(prep)=plus
 janu@noun!a-ae%1(noun)=porte
@@ -947,6 +955,7 @@ miss@adj!us-a-um%1(adj)=envoyé
 miss@noun!a-ae%1(noun)=messe
 mitto@verb!norm%1(verb)=envoyer
 mod@noun!us-i%1(noun)=manière%2(noun)=façon
+modero@verb!norm%1(verb)=moderer
 molit@adj!us-a-um%1(adj)=tenté
 mon@noun!s-tis2%1(noun)=montagne
 moneo@verb!norm%1(verb)=avertir%2(verb)=conseiller%3(verb)=enseigner
@@ -1239,6 +1248,8 @@ public@adj!us-a-um%1(adj)=public
 publico@verb!norm%1(verb)=publier
 puell@noun!a-ae%1(noun)=jeune-fille
 puer@noun!x-ri%1(noun)=enfant
+pugnan@adj!s-s-s%1(adj)=combattant
+pugno@verb!norm%1(verb)=combattre
 pulcher@noun!inv%1(noun)=beau
 pulcherrim@adj!us-a-um%1(adj)=très beau
 pulchr@adj!us-a-um%1(adj)=beau

@@ -19,6 +19,7 @@ adscisc,o,is,ere,,,[o-is]
 ador,o,as,are,,,[o-as]
 adduc,o,is,ere,,,[o-is],(AIPP*adduc*addux*0@AIP*adduc*addux*0)
 adven,io,is,ere,,,[io-is]
+advers,or,aris,ari,,,[or-aris]
 aedific,o,as,are,,,[o-as]
 affic,io,is,ere,,,[io-is]
 affirm,o,as,are,,,[o-as]
@@ -45,6 +46,7 @@ can,o,is,ere,,,[o-is]
 cant,o,as,are,,,[o-as]
 cap,io,is,ere,,,[io-is],(AIP*cap*cep*0)
 carp,o,is,ere,,,[o-is]
+castig,o,as,are,,,[o-as]
 cav,eo,es,ere,-,-,[eo-es]
 cel,o,as,are,,,[o-as]
 celebr,o,as,are,,,[o-as]
@@ -92,6 +94,7 @@ conven,io,is,ire,veni,ventum,[io-is]
 convinc,o,is,ere,,,[o-is]
 copul,o,as,are,,,[o-as]
 corrig,o,is,ere,,,[o-is]
+corrip,io,is,ere,,,[io-is]
 corrump,o,is,ere,,,[o-is]
 cre,o,as,are,avi,atum,[o-as]
 crem,o,as,are,avi,atum,[o-as],(PSI*crem*cremar*0)
@@ -202,6 +205,7 @@ involv,o,is,ere,,,[o-is]
 ire@IRREGULAR%[INFINITIVE]=[ire]%[IPR]=[eo,is,it,imus,itis,eunt]
 iter,o,as,are,,,[o-as]
 iub,eo,es,ere,,,[eo-es]
+jactit,o,as,are,,,[o-as]
 labor,o,as,are,,,[o-as]
 laud,o,as,are,avi,atum,[o-as]
 leg,o,is,ere,,,[o-is]
@@ -217,6 +221,7 @@ matur,o,as,are,,,[o-as]
 memor,o,as,are,,,[o-as]
 misc,eo,es,ere,ui,itum,[eo-es]
 mitt,o,is,ere,,,[o-is]
+moder,o,as,are,,,[o-as],(PSI*moder*moderar*0)
 mon,eo,es,ere,ui,itus,[eo-es]
 mori,or,eris,,,,[or-eris]
 mov,eo,es,ere,ui,itus,[eo-es]
@@ -277,6 +282,7 @@ prom,o,is,ere,,,[o-is]
 prostern,o,is,ere,,,[o-is],(AIFP*prosterns*prostrav*0)
 prost,o,as,are,,,[o-as],(AIPP*prostav*prostit*0)
 public,o,as,are,,,[o-as]
+pugn,o,as,are,,,[o-as]
 puls,o,as,are,,,[o-as]
 qu,eo,is,ire,,,[eo-is],(AIP*qu*zzz*0@AIMP*qu*zzz*0)
 recip,io,is,ere,,,[io-is],(AIP*recip*recep*0)
@@ -338,7 +344,7 @@ termin,o,as,are,,,[o-as]
 tim,eo,es,ere,,,[eo-es]
 toll,o,is,ere,,,[o-is],(AIP*toll*sustul*0)
 tract,o,as,are,avi,atum,[o-as],(VENO*tract*xxx*0)
-trad,o,is,ere,,,[o-is],(AIP*trad*tradid*0)
+trad,o,is,ere,,,[o-is],(AIP*trad*tradid*0@AIFP*trads*tradid*0)
 trans,eo,is,ire,,,[eo-is],(AIPP*trans*transi*0)
 transfund,o,is,ere,,,[o-is]
 transmitt,o,is,ere,,,[o-is]

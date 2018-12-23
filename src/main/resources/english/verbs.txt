@@ -289,6 +289,7 @@ resemble,[live]
 resolve,[live]
 respect,[call]
 rest,[call]
+restrain,[call]
 retain,[live]
 return,[call]
 rise,[live],(AIP*rised*rose*0@PAPR*rise*ris*0@PAP*rised*risen*0)

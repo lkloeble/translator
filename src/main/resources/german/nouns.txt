@@ -6,6 +6,7 @@ abends@neut%inv
 aber@neut%inv
 abhandlung@fem%meinfem
 abkommling@masc%phanomen
+abkunft@fem%inv
 abkurzung@fem%meinfem
 ablieferung@fem%meinfem
 abneigung@fem%meinfem
@@ -63,6 +64,7 @@ anrufung@fem%meinfem
 anschauung@fem%meinfem
 anschein@masc%arbeiter
 ansicht@fem%meinfem
+anti@neut%inv
 antichrist@neut%inv
 antichristlich@adj%ausreichend
 antiq@neut%inv
@@ -628,7 +630,7 @@ heiss@adj%ausreichend
 heiter@adj%ausreichend
 heiterer@adj%ausreichend
 heiterkeit@fem%norm
-held@masc%meinmasc
+held@masc%artist
 hellene@masc%flasche
 helles@neut%inv
 henoch@neut%inv
@@ -1120,6 +1122,7 @@ resignation@fem%inv
 rest@masc%rest
 restaurant@neut%inv
 retrospektiv@adj%ausreichend
+revolution@neut%inv
 rezension@fem%meinfem
 rezipiert@masc%meinmasc
 richard@neut%inv

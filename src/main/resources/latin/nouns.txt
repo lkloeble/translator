@@ -1,3 +1,4 @@
+aberran@adj%s-s-s
 abject@adj%us-a-um
 admirabil@adj%is-is-e
 abominand@adj%us-a-um
@@ -241,6 +242,7 @@ debit@neut%um-i
 decem@neut%inv
 defect@masc%us-us
 definiti@fem%o-onis
+delaps@adj%us-a-um
 deli@fem%a-ae
 delphi@neut%inv
 demonstrat@adj%us-a-um
@@ -452,6 +454,7 @@ indifferen@adj%s-s-s
 indign@adj%us-a-um
 induct@adj%us-a-um
 indut@adj%us-a-um
+inept@adj%us-a-um
 infand@adj%us-a-um
 infect@adj%us-a-um
 inferi@adj%or-or-us
@@ -787,6 +790,7 @@ psalm@masc%us-i
 public@adj%us-a-um
 puell@fem%a-ae
 puer@masc%x-ri
+pugnan@adj%s-s-s
 pulcher@neut%inv
 pulchr@adj%us-a-um
 pulcherrim@adj%us-a-um
