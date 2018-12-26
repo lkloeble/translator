@@ -1037,4 +1037,18 @@ lightfoot_ch1223=>que tu as contestation avec certain, que les guémariste(s) ap
 lightfoot_ch1224=>et cela ressemble être le débat de un chrétien ayant pour but affirmer un trinité de personne(s) dans la déité(e), mais néanmoins une unité(e) de la déité(e).
 lightfoot_ch1225=>après tu as entendu le problème, peut-être tu veux de mon jugement. vue(e) la lieu(e)@place@.
 
+lightfoot_ch1301=>foobar
+lightfoot_ch1302=>foobar
+lightfoot_ch1303=>foobar
+lightfoot_ch1304=>foobar
+lightfoot_ch1305=>foobar
+lightfoot_ch1306=>foobar
+lightfoot_ch1307=>foobar
+lightfoot_ch1308=>foobar
+lightfoot_ch1309=>foobar
+lightfoot_ch1310=>foobar
+lightfoot_ch1311=>foobar
+lightfoot_ch1312=>foobar
+lightfoot_ch1313=>foobar
+
 toto=>accompagner flotte(e) de salomon.

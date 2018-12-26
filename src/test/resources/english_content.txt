@@ -1038,7 +1038,21 @@ lightfoot_ch1223=>whom you have disputing with certain, whom the Gemarists call 
 lightfoot_ch1224=>And it seems to be the disputation of a Christian purposed to assert a trinity of persons in the Deity, but nevertheless a unity of the Deity.
 lightfoot_ch1225=>After you have heard the matter, perhaps you will be of my judgment. View the place.
 
+lightfoot_ch1301=>After very many histories of this place in the Holy Bible, which there is no need to repeat here,
+lightfoot_ch1302=>-- in this city did Alexander the Great, at length, besiege Babemeses the Persian, by the space of two months.
+lightfoot_ch1303=>"And that city, which before-time was most famous, was laid waste by him, and rendered desert."
+lightfoot_ch1304=>Not that he had destroyed the building of the city, or consumed it with fire;
+lightfoot_ch1305=>for presently after his death, Antigonus and Ptolemy, his captains, fighting, it had walls, gates, and fortifications:
+lightfoot_ch1306=>but that he divested it of its ancient glory, so that it was at last melted into a new city of that name
+lightfoot_ch1307=>built nearer the sea, where formerly had been 'the haven of the Gazaeans.' That is called by Diodorus, 'old Gaza';
+lightfoot_ch1308=>and 'Gaza desert,' by Strabo, and the New Testament, Acts 8:26.
+lightfoot_ch1309=>At last it was called 'New Maijuma,' and after that 'Constantia':
+lightfoot_ch1310=>-- concerning which, see Eusebius, of 'the Life of Constantine,' book iv. chap.28;
+lightfoot_ch1311=>and Sozomen's 'Ecclesiastical History,' book v. chap.3...
+lightfoot_ch1312=>There is mentioned the 'mart of Gaza,' one of the three more famed marts,
+lightfoot_ch1313=>-- to wit, that of Gaza, and of Aco, and of Botna.
 
+There was a place also without the city, which was called, 'The waste (or desert) of the leper's cloister.'
 
 lightfootbase=>http://biblehub.com/library/lightfoot/from_the_talmud_and_hebraica/index.html
 

@@ -1386,6 +1386,24 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
     }
 
     @Test
+    public void test_lightfoot_chap13() {
+        checkInMaps("lightfoot_ch1301", translatorBridge);
+        checkInMaps("lightfoot_ch1302", translatorBridge);
+        checkInMaps("lightfoot_ch1303", translatorBridge);
+        checkInMaps("lightfoot_ch1304", translatorBridge);
+        checkInMaps("lightfoot_ch1305", translatorBridge);
+        checkInMaps("lightfoot_ch1306", translatorBridge);
+        checkInMaps("lightfoot_ch1307", translatorBridge);
+        checkInMaps("lightfoot_ch1308", translatorBridge);
+        checkInMaps("lightfoot_ch1309", translatorBridge);
+        checkInMaps("lightfoot_ch1310", translatorBridge);
+        checkInMaps("lightfoot_ch1311", translatorBridge);
+        checkInMaps("lightfoot_ch1312", translatorBridge);
+        checkInMaps("lightfoot_ch1313", translatorBridge);
+
+    }
+
+    @Test
     public void test_failedones() {
         assertTrue(true);
         checkInMaps("lightfoot_ch1204", translatorBridge);
