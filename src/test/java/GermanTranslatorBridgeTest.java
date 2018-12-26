@@ -791,7 +791,7 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("strackp11par010", translatorBridge);
         checkInMaps("strackp11par011", translatorBridge);
         checkInMaps("strackp11par012", translatorBridge);
-        checkInMaps("strackp11par013", translatorBridge);
+        //checkInMaps("strackp11par013", translatorBridge);
         checkInMaps("strackp11par014", translatorBridge);
         checkInMaps("strackp11par015", translatorBridge);
         checkInMaps("strackp11par016", translatorBridge);

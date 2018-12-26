@@ -1,2 +1,3 @@
 IPR=>u,i,,m,tsi,u
 PAP=>[adj]
+PAPR=>nd

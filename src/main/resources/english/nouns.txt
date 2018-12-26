@@ -301,6 +301,7 @@ declination@fem%normfem
 deep@adj%invmasc
 defence@neut%normmasc
 degree@neut%normmasc
+deit@neut%endy
 deliberation@fem%normfem
 delicious@adj%invmasc
 delight@adj%normmasc
@@ -316,6 +317,7 @@ destitute@adj%normmasc
 destruction@neut%normmasc
 deut@neut%invmasc
 deuteronomy@neut%invmasc
+devout@adj%invmasc
 dialect@neut%normmasc
 diet@neut%normmasc
 difference@fem%normfem
@@ -328,6 +330,8 @@ disciple@neut%normmasc
 discussion@neut%normmasc
 disparagement@neut%invmasc
 dispensation@neut%normmasc
+disputation@neut%normmasc
+disputing@neut%invmasc
 dissolveth@neut%invmasc
 distance@fem%normfem
 distant@neut%invmasc
@@ -539,6 +543,7 @@ gym@neut%invmasc
 habitation@neut%normmasc
 haggai@masc%invmasc
 hagigah@neut%invmasc
+half@neut%invmasc
 hall@neut%normmasc
 hampstead@neut%invmasc
 hand@neut%normmasc
@@ -621,9 +626,10 @@ inheritance@neut%normmasc
 inn@neut%normmasc
 inner@adj%normmasc
 inscription@neut%normmasc
-instruction@neut%normmasc
 instructor@neut%normmasc
+instruction@neut%normmasc
 intended@adj%invmasc
+intercalation@neut%invmasc
 interest@masc%normmasc
 interesting@neut%invmasc
 interpretation@fem%normfem
@@ -663,6 +669,7 @@ judaism@masc%invmasc
 judas@masc%invmasc
 judea@neut%invmasc
 judge@neut%normmasc
+judgment@neut%normmasc
 judicature@neut%invmasc
 juncture@neut%normmasc
 jurisdiction@neut%normmasc
@@ -978,6 +985,7 @@ provision@neut%normmasc
 psalm@neut%normmasc
 punishment@neut%normmasc
 purpose@neut%normmasc
+purposed@neut%invmasc
 quarter@neut%normmasc
 queen@fem%normfem
 question@neut%normmasc
@@ -985,6 +993,7 @@ quotation@fem%normfem
 r@neut%invmasc
 rab@neut%normmasc
 rabbi@neut%normmasc
+rabbin@neut%normmasc
 railway@neut%normmasc
 rain@neut%normmasc
 rainy@neut%invmasc
@@ -1253,6 +1262,7 @@ translation@fem%normfem
 translator@neut%normmasc
 traveler@neut%normmasc
 tree@masc%normmasc
+trinity@neut%invmasc
 true@adj%invmasc
 truth@neut%church
 tubal@masc%invmasc
@@ -1277,6 +1287,7 @@ unclean@adj%invmasc
 underemphasis@neut%invmasc
 unhappy@adj%invmasc
 uninhabited@neut%invmasc
+unit@neut%endy
 university@fem%invfem
 unknown@neut%invmasc
 unsatisfactory@neut%invmasc

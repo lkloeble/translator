@@ -1,5 +1,6 @@
 noma%sing%fem%
 nomb%sing%fem%a
 nomc%sing%fem%e
+nomd%sing%fem%ea
 gena%sing%fem%si
 genb%sing%fem%sii

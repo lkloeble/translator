@@ -395,7 +395,7 @@ inscrire@NORM%[INFINITIVE]=[inscrire]%[IPR]=[inscris,inscris,inscrit,inscrivons,
 inserer@NORM%[INFINITIVE]=[insérer]%[IPR]=[insére,inséres,insére,insérons,insérez,insérent]%[PAP]=[inséré]
 insister@NORM%[IPR]=[insiste,insistes,insiste,insistons,insistez,insistent]%[INFINITIVE]=[insister]
 instruire@NORM%[INFINITIVE]=[instruire]%[IPR]=[instruis,instruis,instruit,instruisons,instruisez,instruisent]%[PIP]=[suis instruit,es instruit,est instruit,sommes instruits,êtes instruits,sont instruits]%[AIFP]=[aurai instruit,auras instruit,aura instruit,aurons instruits,aurez instruits,auront instruits]%[AII]=[instruisais,instruisais,instruisait,instruisions,instruisiez,instruisaient]%[AIP]=[instruisis,instruisis,instruisit,instruisîmes,instruisîtes,instruisirent]%[PAP]=[instruit]%[PII]=[étais instruit,étais instruit,était instruit,étions instruits,étiez instruits,étaient instruits]
-intercaler@NORM%[INFINITIVE]=[intercaler]%[IPR]=[intercale,intercales,intercale,intercalons,intercalez,intercalent]
+intercaler@NORM%[INFINITIVE]=[intercaler]%[IPR]=[intercale,intercales,intercale,intercalons,intercalez,intercalent]%[AII]=[intercalais,intercalais,intercalait,intercalions,intercaliez,intercalaient]
 interesser@NORM%[IPR]=[intéresse,intéresse,intéresse,intéressons,intéressez,intéressent]%[INFINITIVE]=[intéresser]
 interpreter@NORM%[INFINITIVE]=[interpréter]%[IPR]=[interprète,interprètes,interprète,interprètons,interprètez,interprètent]%[PAP]=[interprèté]%[PAPR]=[interprètant]%[PIEPER]=[interprétais,interprétas,interpréta,interprétâmes,interprétâtes,interprétèrent]
 interroger@NORM%[IPR]=[interroge,interroges,interroge,interrogeons,interrogez,interrogent]%[AIMP]=[interroge,interrogez]%[INFINITIVE]=[interroger]

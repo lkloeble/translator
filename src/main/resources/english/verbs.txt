@@ -208,7 +208,7 @@ knock,[call]
 know,[live],(AIP*knowd*knew*0@PAP*knowd*known*0)
 lay,[live],(AIP*layd*laid*0)
 lead,[live]
-learn,[live]
+learn,[call]
 leave,[live],(AIP*leaved*left*0)
 lie,[live],(PAPR*lie*ly*0)
 like,[live]

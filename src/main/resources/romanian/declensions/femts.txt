@@ -1,3 +1,4 @@
 nom%sing%fem%sa
+gen%sing%fem%sei
 noma%plr%fem%se
 nomb%plr%fem%sele

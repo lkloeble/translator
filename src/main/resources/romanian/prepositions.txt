@@ -11,6 +11,7 @@ aceste@prep()
 acestea@prep()
 acestei@prep()
 acestia@prep()
+acestuia@prep()
 acum@prep()
 acolo@prep()
 adica@prep()
@@ -228,6 +229,7 @@ unora@prep(gen)
 va@prep()%[varogFinder,recomposeVaVerb]
 vei@prep()%[recomposeVaVerb]
 varog@prep()
+veci@prep()
 vorba@prep()
 vreo@prep()%[electGenitiveForFollowingNoun]
 vreun@prep()%[electGenitiveForFollowingNoun]

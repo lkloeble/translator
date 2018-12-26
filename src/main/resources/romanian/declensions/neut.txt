@@ -1,0 +1,6 @@
+noma%sing%neut%
+nomb%sing%neut%ul
+gen%sing%neut%ului
+noma%plr%neut%e
+nomb%plr%neut%ele
+gen%plr%neut%elor

@@ -128,6 +128,7 @@ coleg@masc%ul
 coloan@fem%fem
 comuniune@fem%fem
 complicat@adj%adj
+component@neut%neut
 concentrat@adj%adj
 concepts@fem%conceptie
 concomitent@adj%adj
@@ -233,6 +234,7 @@ esents@fem%fem
 esentsial@adj%adj
 etern@adj%adj
 eternitat@fem%ereditate
+eternizand@neut%inv
 eu@neut%inv
 eventual@adj%adj
 exact@adj%adj
@@ -464,6 +466,7 @@ negr@adj%adj
 nehotarit@adj%adjts
 neplacut@adj%adj
 nepotrivit@adj%adjts
+neprihanir@fem%berea
 nesfarsit@adj%adjts
 nevast@fem%fem
 nici@neut%inv
@@ -579,6 +582,7 @@ pusti@fem%ratsiune
 puter@fem%berea
 puternic@adj%adj
 ra@masc%fiul
+rabdar@fem%berea
 radacin@fem%fem
 radu@neut%inv
 rafinat@adj%adj
@@ -649,6 +653,7 @@ sear@fem%fem
 secret@masc%ul
 sens@masc%ul
 sens@neut%inv
+sensur@fem%fem
 sentimental@adj%adj
 separatsie@fem%ereditate
 ser@neut%inv
@@ -684,6 +689,7 @@ sportiv@adj%adj
 stabilit@adj%adj
 stapan@masc%ul
 stare@fem%fem
+staruint@fem%femts
 sticl@fem%fem
 stra@fem%adjverde
 stradiani@fem%fem
