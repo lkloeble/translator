@@ -102,6 +102,7 @@ auge@neut%flasche
 augenblick@neut%inv
 ausdeutung@fem%meinfem
 ausdruck@masc%jahrzehnt
+ausdrucklich@adj%ausreichend
 ausflucht@fem%angst
 ausfuhrung@fem%meinfem
 ausgabe@fem%flasche
@@ -1119,6 +1120,7 @@ rente@fem%flasche
 rentner@masc%arbeiter
 rephait@masc%meinmasc
 resignation@fem%inv
+resolut@adj%ausreichend
 rest@masc%rest
 restaurant@neut%inv
 retrospektiv@adj%ausreichend
@@ -1373,6 +1375,7 @@ uberschrift@fem%meinfem
 ubersetzung@fem%meinfem
 uberstromen@adj%ausreichend
 uberzeugt@adj%ausreichend
+uberzeugung@fem%meinfem
 ublich@adj%ausreichend
 ubrig@adj%ausreichend
 uhr@fem%inv

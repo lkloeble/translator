@@ -176,6 +176,7 @@ frag,en,[leben],(PAPR*frag*fragend*0@PAP*frag*gefragt*0)
 freu,en,[leben]
 fug,en,[leben]
 fuhl,en,[leben]
+fuhr,en,[leben]
 full,en,[leben]
 garantier,en,[leben]
 geb,en,[rufen],(IPR124*geb*gib*0@AIP*geb*gab*0@ASI*geb*gab*0@AIP*geb*gab*0)
@@ -357,6 +358,7 @@ verberg,en,[leben],(IPR12*verbe*verbi*0)
 verbind,en,[mochten],(AIP*verbind*verband*0)
 verdamm,en,[leben],(PAP*verdamm*verdammt*0)
 verderb,en,[rufen],(AIP*verderb*verdarb*0)
+verdicht,en,[segnen],(PAP*verdicht*verdichtet*0)
 verdunk,eln,[sammeln]
 vergess,en,[wollen]
 verhalt,en,[halten]
