@@ -277,6 +277,7 @@ direktor@masc%inv
 diskussion@fem%meinfem
 dn@masc%inv
 doktor@masc%autor
+doktrin@fem%meinfem
 dokument@masc%meer
 donner@masc%burger
 donnerstag@neut%inv
@@ -1199,6 +1200,8 @@ schuler@masc%arbeiter
 schutzherrn@masc%inv
 schwache@fem%flasche
 schwager@masc%arbeiter
+schwachlich@adj%ausreichend
+schwachlichkeit@fem%meinfem
 schwarmer@masc%arbeiter
 schwarmerisch@adj%ausreichend
 schwarz@adj%ausreichend
