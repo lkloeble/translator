@@ -146,7 +146,7 @@ constiints@fem%fem
 consultatsi@fem%fem
 continuare@fem%ereditate
 contopir@fem%berea
-contsinut@masc%ul
+contsinut@masc%locul
 conversatsie@fem%ereditate
 copi@masc%copil
 copt@neut%inv
@@ -198,6 +198,7 @@ dimensiun@fem%ratsiune
 dimineatsa@neut%inv
 dintai@neut%inv
 dintii@neut%inv
+direct@adj%adjts
 directi@fem%fem
 dispus@adj%adj
 doamne@neut%inv
@@ -262,6 +263,7 @@ fiic@fem%fem
 fiint@fem%femts
 filocali@fem%fem
 filtr@masc%filtru
+final@adj%adj
 fizic@adj%adj
 foc@masc%ul
 folosito@adj%adjr
@@ -308,6 +310,7 @@ ierb@fem%locul
 ieremia@masc%inv
 iesir@fem%femi
 iisus@masc%inv
+imbogatsir@fem%berea
 important@adj%adj
 imposibil@neut%inv
 impresi@fem%fem
@@ -320,6 +323,7 @@ incorporare@fem%fem
 increder@fem%berea
 incredintsar@fem%berea
 indelungar@fem%berea
+indirect@adj%adjts
 indrazneal@fem%fem
 indreptar@fem%berea
 inexplicabil@adj%adj
@@ -412,6 +416,7 @@ maxim@masc%inv
 medic@masc%ul
 medicament@masc%ul
 menit@adj%adj
+mentsiner@fem%berea
 mentsinut@adj%adjts
 mersi@neut%inv
 mic@adj%adj
@@ -715,6 +720,7 @@ tatal@masc%inv
 taxi@neut%inv
 teatr@masc%ul
 tendints@fem%fem
+terestr@adj%adj
 termen@masc%ul
 text@neut%ul
 timp@masc%ul

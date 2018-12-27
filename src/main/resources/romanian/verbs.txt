@@ -122,6 +122,7 @@ lua@IRREGULAR%[IPR]=[iau,iei,ia,luam,luatsi,iau]%[PAP]=[luat]%[PAPR]=[luand]%[IN
 lucr,,[fumez]
 lumin,,[fumez]
 mani,e,[manie]
+manifest,,[fumez]
 maninc@IRREGULAR%[IPR]=[maninc,maninci,maninca,mancam,mancati,mananca]%[INFINITIVE]=[maninca]
 mantui,,[mantui]
 ments,,[mentsin]

@@ -1037,10 +1037,10 @@ lightfoot_ch1223=>que tu as contestation avec certain, que les guémariste(s) ap
 lightfoot_ch1224=>et cela ressemble être le débat de un chrétien ayant pour but affirmer un trinité de personne(s) dans la déité(e), mais néanmoins une unité(e) de la déité(e).
 lightfoot_ch1225=>après tu as entendu le problème, peut-être tu veux de mon jugement. vue(e) la lieu(e)@place@.
 
-lightfoot_ch1301=>foobar
-lightfoot_ch1302=>foobar
-lightfoot_ch1303=>foobar
-lightfoot_ch1304=>foobar
+lightfoot_ch1301=>après très beaucoup histoire(s)(e) de ce lieu(e)@place@ dans le saint bible, quel il y a non besoin répèter ici,
+lightfoot_ch1302=>dans ce ville(e) fit alexander le important, au longueur(e), assiège babemeses le persian, par le espace de deux mois(s).
+lightfoot_ch1303=>et ce ville(e), quel avant temps était le plus célèbre, était reposa ravagé par lui, et rendait désert.
+lightfoot_ch1304=>pas ce il avait détruit le construisant de la ville(e), ou consumait cela avec feu;
 lightfoot_ch1305=>foobar
 lightfoot_ch1306=>foobar
 lightfoot_ch1307=>foobar

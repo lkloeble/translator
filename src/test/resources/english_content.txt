@@ -1039,7 +1039,7 @@ lightfoot_ch1224=>And it seems to be the disputation of a Christian purposed to 
 lightfoot_ch1225=>After you have heard the matter, perhaps you will be of my judgment. View the place.
 
 lightfoot_ch1301=>After very many histories of this place in the Holy Bible, which there is no need to repeat here,
-lightfoot_ch1302=>-- in this city did Alexander the Great, at length, besiege Babemeses the Persian, by the space of two months.
+lightfoot_ch1302=>-- in this city did |Alexander| the Great, at length, besiege |Babemeses| the |Persian|, by the space of two months.
 lightfoot_ch1303=>"And that city, which before-time was most famous, was laid waste by him, and rendered desert."
 lightfoot_ch1304=>Not that he had destroyed the building of the city, or consumed it with fire;
 lightfoot_ch1305=>for presently after his death, Antigonus and Ptolemy, his captains, fighting, it had walls, gates, and fortifications:

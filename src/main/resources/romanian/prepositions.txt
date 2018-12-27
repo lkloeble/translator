@@ -95,6 +95,7 @@ destui@prep()
 destul@prep()
 dimpotriva@prep()
 din@prep()%[dinpacateFinder,dinfatsaFinder,dinVeciFinder]
+dincolo@prep()
 dinfatsa@prep()
 dinpacate@prep()
 dintre@prep()
