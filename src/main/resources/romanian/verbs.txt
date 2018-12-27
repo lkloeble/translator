@@ -63,7 +63,7 @@ deranj,,[fumez]
 deschi,,[vinde]
 descop,,[descopar]
 desfasoar,,[incerca]
-deven,i,[deveni],(PAP*devinat*devenit*0@IPR0125*deven*devin*0@AIP01*deven*devi*0@AIP25*deven*devin*0)
+deven,i,[deveni],(PAP*devinat*devenit*0@IPR0125*deven*devin*0@AIP01*deven*devi*0@AIP25*deven*devin*0@ACPINF*deven*ardeveni*0)
 doar,,[dorm],(IPR0*doar*dor*0)
 doband,,[aciti],(PAP*doband*dobandit*0)
 dor,,[aciti],(PAP*dor*dorit*0)
@@ -94,6 +94,7 @@ inaint,,[fumez]
 incarc,,[incerca]
 incep,,[face],(PAP*incep*inceput*0)
 incerc,a,[incerca]
+inchei,a,[incheia],(ACP*inchei*arinchei*0@ACPINF*inchei*arincheia*0)
 inchin,,[cauta]
 indic,,[incerca]
 inlocu,i,[aciti]

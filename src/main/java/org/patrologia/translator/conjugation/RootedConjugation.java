@@ -173,7 +173,7 @@ public class RootedConjugation {
             sb.append(pattern).append(conjugationPart.getValue());
             previousIndice = indice;
         }
-        return sb.deleteCharAt(0).toString();
+        return sb.length() > 0 ? sb.deleteCharAt(0).toString() : sb.toString();
     }
 
     public boolean positionIsCorrect(int positionInTranslationTable, String toTranslate) {

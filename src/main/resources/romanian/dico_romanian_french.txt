@@ -315,6 +315,7 @@ dece@prep%1(prep)=pourquoi
 deci@prep%1(prep)=alors
 decit@prep%1(prep)=seulement%2(prep)=que
 deja@prep%1(prep)=déjà
+definitiv@prep%1(prep)=définitivement
 deloc@prep%1(prep)=du tout
 demult@prep%1(prep)=il y a longtemps
 deocamdata@prep%1(prep)=pour l'instant
@@ -539,6 +540,7 @@ incarc@verb!norm%1(verb)=charger
 incep@verb!norm%1(verb)=commencer
 inceput@noun!ul%1(noun)=début%2(noun)=commencement
 incerca@verb!norm%1(verb)=essayer
+incheia@verb!norm%1(verb)=conclure
 inchin@verb!norm%1(verb)=adorer
 inconstient@adj!adjts%1(adj)=inanimé%2(adj)=inconscient
 incorporare@noun!fem%1(noun)=incorporation
@@ -1167,6 +1169,7 @@ transmit@verb!norm%1(verb)=transmettre
 treab@noun!treaba%1(noun)=chose%2(noun)=affaire
 trebui@verb!norm%1(verb)=falloirque
 trebuint@noun!femts%1(noun)=nécessité%2(noun)=besoin
+trecatoar@adj!adj%1(adj)=passager
 trece@verb!norm%1(verb)=passer
 trei@noun!inv%1(noun)=trois
 treisprezece@noun!inv%1(noun)=treize

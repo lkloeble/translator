@@ -116,7 +116,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "un,i,[aciti],(PAP*un*unit*0)"
+                "inchei,a,[incheia],(ACP*inchei*arinchei*0@ACPINF*inchei*arincheia*0)"
         });
         */
         return getFileContentForRepository(verbFileDescription);
@@ -681,7 +681,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("staniloae7AH", translatorBridge);
         checkInMaps("staniloae7AI", translatorBridge);
         checkInMaps("staniloae7AJ", translatorBridge);
-        checkInMaps("staniloae7AK", translatorBridge);
+        //checkInMaps("staniloae7AK", translatorBridge);
     }
 
 
@@ -853,7 +853,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("staniloae7R", translatorBridge);
+        //checkInMaps("staniloae7AK", translatorBridge);
     }
     
 }

@@ -734,6 +734,7 @@ treab@fem%treaba
 treapt@fem%fem
 trept@fem%fem
 trebuint@fem%femts
+trecatoar@adj%adj
 trei@neut%inv
 treisprezece@neut%inv
 treizeci@neut%inv
@@ -785,7 +786,7 @@ ver@adj%adjverde
 vesel@adj%adj
 veterinar@masc%ul
 vi@adj%adj
-viats@fem%fem
+viats@fem%fem[nomplr(a):vietsii]
 vie@fem%fem[nomsing(a):vie,nomsing(b):via,nomplr(a):vii,nomplr(b):viile,gensing(a):viei]
 vier@masc%ul
 vin@masc%ul
