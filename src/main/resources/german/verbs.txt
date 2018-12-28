@@ -69,6 +69,7 @@ besam,en,[leben]
 beschaff,en,[leben]
 beschaftig,en,[leben]
 beschleunig,en,[leben]
+beseitig,en,[leben],[PAP*beseitig*beseitigt*0)
 besitz,en,[genesen],(PAP*besitz*besessen*0)
 bestatig,en,[leben]
 besteh,en,[stehen],(AIP*besteh*bestand*0)
@@ -206,6 +207,7 @@ helf,en,[leben],(IPR*helft*hilft*0@AIMP*helf*hilf*0)
 heg,en,[leben]
 heiss,en,[genesen],(AII*heiss*hiess*0)
 heranzuzieh,en,[leben]
+herbeibring,en,[leben]
 herleit,en,[mochten]
 herstamm,en,[leben]
 herrsch,en,[leben]

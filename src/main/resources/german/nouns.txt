@@ -20,6 +20,7 @@ absinkend@adj%ausreichend
 absolut@adj%ausreichend
 abstammung@fem%meinfem
 abteilung@neut%norm
+abtrunnig@adj%ausreichend
 abweichung@fem%meinfem
 ach@neut%inv
 acht@neut%inv
@@ -467,6 +468,7 @@ freveltat@masc%meinmasc
 frevlerisch@adj%ausreichend
 frieden@masc%autor
 frisch@adj%ausreichend
+fromm@adj%ausreichend
 frucht@fem%tipp
 fruchtbar@adj%ausreichend
 fruh@adj%ausreichend
@@ -584,6 +586,7 @@ gott@masc%inv
 gotte@masc%inv
 gottes@masc%inv
 gottlich@adj%ausreichend
+grab@neut%licht
 grad@neut%jahrzehnt
 grandios@adj%ausreichend
 gras@fem%inv
@@ -637,6 +640,7 @@ hellene@masc%flasche
 helles@neut%inv
 henoch@neut%inv
 herabzusetzen@neut%inv
+heranwachsend@adj%ausreichend
 herberge@fem%flasche
 herkunft@fem%norm
 herr@neut%meinmasc
@@ -1357,6 +1361,7 @@ tradition@fem%meinfem
 tragisch@adj%ausreichend
 tragodie@fem%flasche
 traktat@neut%angst
+traumgesicht@neut%licht
 trauertag@neut%inv
 traurig@adj%inv
 treu@adj%ausreichend
@@ -1397,6 +1402,7 @@ unberedt@adj%ausreichend
 unbescheidenheit@neut%inv
 unerkannt@adj%ausreichend
 unerlasslich@adj%ausreichend
+unerschrockenheit@neut%inv
 unfall@masc%phanomen
 unfruchtbar@adj%ausreichend
 ungarisch@adj%ausreichend

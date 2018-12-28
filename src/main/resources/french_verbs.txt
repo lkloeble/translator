@@ -256,6 +256,7 @@ effacer@NORM%[IPR]=[efface,effaces,efface,effaçons,effacez,effacent]%[INFINITIV
 effectuer@NORM%[INFINITIVE]=[effectuer]%[IPR]=[effectue,effectues,effectue,effectuons,effectuez,effectuent]
 elargir@NORM%[INFINITIVE]=[élargir]%[IPR]=[élargis,élargis,élargit,élargissons,élargissez,élargissent]%[AORPASIND]=[fus élargi,fus élargi,fut élargi,fûmes élargis,fûtes élargis,furent élargis]
 elever@NORM%[IPR]=[élève,élèves,élève,élevons,élevez,élèvent]%[INFINITIVE]=[élever]%[PII]=[ai été élévé,as été élévé,a été élevé,avons étés élevés,avez été élevés,ont été élevés]%[ARAIPR]=[élève,élèves,élève,élevons,élevez,élèvent]%[PAP]=[élevé]
+eliminer@NORM%[INFINITIVE]=[éliminer]%[IPR]=[élimine,élimines,élimine,éliminons,éliminez,éliminent]%[PAP]=[éliminé]
 eloigner@NORM%[INFINITIVE]=[éloigner]%[IPR]=[éloigne,éloignes,éloigne,éloignons,éloignez,éloignent]
 embrasser@NORM%[INFINITIVE]=[embrasser]%[IPR]=[embrasse,embrasses,embrasse,embrassons,embrassez,embrassent]
 emerger@NORM%[INFINITIVE]=[émerger]%[IPR]=[émerge,émerges,émerge,émergeons,émergez,émergent]%[PAP]=[émergé]%[AIP]=[émergeai,émergeas,émergea,émergeâmes,émergeâtes,émergèrent]
