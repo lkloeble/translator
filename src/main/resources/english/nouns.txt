@@ -159,6 +159,7 @@ canaan@neut%invmasc
 canaanite@neut%normmasc
 cannot@neut%invmasc
 canon@neut%normmasc
+captain@masc%normmasc
 car@neut%normmasc
 cardiff@neut%invmasc
 care@neut%invmasc
@@ -474,6 +475,7 @@ footstep@neut%normmasc
 foreign@adj%invmasc
 form@fem%normfem
 fortieth@neut%invmasc
+fortification@neut%normmasc
 forty@neut%invmasc
 four@neut%invmasc
 fourth@neut%invmasc

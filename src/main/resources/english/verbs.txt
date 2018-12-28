@@ -125,6 +125,7 @@ dispose,[live]
 dissolve,[live]
 distinguish,[teach]
 distrust,[live]
+divest,[call]
 divide,[live],(PAPR*divide*divid*0)
 divorce,[live]
 do,[live],(AIP*dod*did*0@IPR2*dos*does*0@AII*do*did*0@PAP*dod*done*0)
