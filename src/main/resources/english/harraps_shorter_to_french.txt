@@ -387,6 +387,7 @@ consideration@noun!normmasc%1(noun)=considération
 considereth@noun!invmasc%1(noun)=considéra
 consist@verb!norm%1(verb)=consister
 consonant@noun!normmasc%1(noun)=consonnance%2(noun)=consonne
+constantine@noun!invmasc%1(noun)=constantin
 constitution@noun!normmasc%1(noun)=constitution
 constrain@verb!norm%1(verb)=contraindre
 consult@verb!norm%1(verb)=consulter
@@ -561,6 +562,7 @@ eastward@noun!invmasc%1(noun)=en direction de l'est
 eastwardly@prep%1(prep)=en direction de l'est
 easy@noun!invmasc%1(noun)=facile
 eat@verb!norm%1(verb)=manger
+ecclesiastical@adj!invmasc%1(adj)=ecclésiastique
 eden@noun!invmasc%1(noun)=eden
 edit@verb!norm%1(verb)=editer
 edition@noun!normfem%1(noun)=édition
@@ -615,6 +617,7 @@ establish@verb!norm%1(verb)=etablir
 etc@noun!invmasc%1(noun)=etc
 ethic@noun!normmasc%1(noun)=éthique
 euphrates@noun!invmasc%1(noun)=euphrate
+eusebius@noun!invmasc%1(noun)=eusèbe
 even@prep%1(prep)=même
 eve@noun!invfem%1(noun)=ève
 evening@noun!invmasc%1(noun)=soir
@@ -655,6 +658,7 @@ face@verb!norm%1(verb)=confronter
 face@noun!normmasc%1(noun)=face%2(noun)=visage
 facing@noun!invmasc%1(noun)=faisant face
 fall@verb!norm%1(verb)=tomber
+famed@noun!invmasc%1(noun)=fameux%2(noun)=célèbre
 famous@noun!invmasc%1(noun)=fameux%2(noun)=célèbre
 fantastic@noun!invmasc%1(noun)=fantastique
 farther@noun!invmasc%1(noun)=plus loin
@@ -1112,6 +1116,7 @@ map@noun!normmasc%1(noun)=carte
 march@noun!invmasc%1(noun)=mars
 margin@noun!normmasc%1(noun)=bordure%2(noun)=marge
 mark@noun!invmasc%1(noun)=mark
+mart@noun!normmasc%1(noun)=marché
 mary@noun!invfem%1(noun)=marie
 masculine@adj!normmasc%1(adj)=masculin
 master@noun!normmasc%1(noun)=maître

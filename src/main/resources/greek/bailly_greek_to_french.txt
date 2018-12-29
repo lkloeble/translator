@@ -131,6 +131,7 @@
 ασφαλ@adj!ης-ης-ες%1(adj)=sûr
 αστ@noun!ηρ-ερος%1(noun)=étoile
 αστρ@noun!ον-ου%1(noun)=astre
+αστραπ@noun!η-ης%1(noun)=éclair
 ατμιδ@noun!ος-ου%1(noun)=vapeur%2(noun)=humidité
 αυλ@noun!ος-ου%1(noun)=conduit%2(noun)=flûte
 αυξαν@verb!norm%1(verb)=croitre
@@ -171,6 +172,7 @@
 βουλ@noun!η-ης%1(noun)=résolution%2(noun)=volonté
 βουλ@verb!norm%1(verb)=preferer%2(verb)=planifier%3(verb)=souhaiter
 βραδ@adj!υς-εια-υ%1(adj)=tardif
+βροντ@noun!η-ης%1(noun)=tonnerre
 βρωσ@noun!ις-εως%1(noun)=acte de manger
 βυ@prep%1(prep)=bu
 βω@prep%1(prep)=bo
@@ -452,6 +454,7 @@
 κατοικε@verb!norm%1(verb)=habiter
 κατω@prep%1(prep)=bas
 κατωτατω@prep%1(prep)=le plus bas
+κεραυν@noun!ος-ου%1(noun)=éclairs
 κεφαλ@noun!η-ης%1(noun)=dirigeant%2(noun)=tête
 κηρυσσ@verb!norm%1(verb)=proclamer
 κητ@noun!ος-ους2%1(noun)=monstre marin
@@ -582,6 +585,7 @@
 ομοιοτ@noun!ης-ητος%1(noun)=similitude%2(noun)=ressemblance
 ομικρον@noun!inv%1(noun)=omicron
 οναρ@noun!inv%1(noun)=rêve
+ονμβαινειν@noun!inv%1(noun)=enfermer
 ονομ@noun!α-ατος%1(noun)=nom
 οντων@prep%1(prep)=chose%2(prep)=étant
 οπως@prep%1(prep)=de telle façon que
@@ -731,6 +735,7 @@
 ραχαβ@noun!inv%1(noun)=rahab
 ροβοαμ@noun!inv%1(noun)=roboam
 ρηθεν@noun!inv%1(noun)=qui a été dit
+ρηξ@noun!ις-εως%1(noun)=éclatement%2(noun)=rupture
 ρητωρ@noun!inv%1(noun)=orateur
 ροδ@noun!ον-ου%1(noun)=rose
 ρουθ@noun!inv%1(noun)=ruth
@@ -800,6 +805,7 @@
 ταυτα@prep%1(prep)=ceux-ci
 ταυτας@prep%1(prep)=celles-ci
 ταυτην@prep%1(prep)=celle-ci
+ταυτι@prep%1(prep)=ceux-ci
 τε@prep%1(prep)=aussi
 τεκν@noun!ον-ου%1(noun)=enfant
 τελει@adj!ος-α-ον%1(adj)=parfait%2(adj)=accompli%3(adj)=terminé
@@ -842,6 +848,7 @@
 τροχοειδ@adj!ης-ης-ες%1(noun)=rond
 τυφλ@adj!ος-η-ον%1(adj)=aveugle
 τυφων@noun!x-ος2%1(noun)=typhon
+τοθ@prep%1(prep)=à ce moment
 τω@prep%1(prep)=au
 των@prep%1(prep)=aux
 οφθαλμ@noun!ος-ου%1(noun)=oeil
@@ -917,6 +924,7 @@
 χρον@noun!ος-ου%1(noun)=époque%2(noun)=temps
 χωμ@noun!η-ης%1(noun)=village
 χωριςgen@prep%1(prep)=sans
+ψοφ@noun!ος-ου%1(noun)=bruit
 ψυχρ@noun!ος-ου%1(noun)=froid
 ψυχ@noun!η-ης%1(noun)=souffle vital%2(noun)souffle%3(noun)=âme intelligente,âme désirante%4(noun)=papillon%5(noun)=âme
 ω@prep%1(prep)=ô

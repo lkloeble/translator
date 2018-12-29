@@ -246,6 +246,7 @@ conservative@adj%normmasc
 consideration@neut%normmasc
 considereth@neut%invmasc
 consonant@masc%normmasc
+constantine@masc%invmasc
 constitution@masc%normmasc
 contemporar@adj%endy
 contiguous@adj%invmasc
@@ -367,6 +368,7 @@ east@neut%invmasc
 easy@neut%invmasc
 eastern@neut%invmasc
 eastward@neut%invmasc
+ecclesiastical@adj%invmasc
 eden@neut%invmasc
 edition@fem%normfem
 edom@neut%invmasc
@@ -405,6 +407,7 @@ essential@neut%invmasc
 etc@neut%invmasc
 ethic@neut%normmasc
 euphrates@neut%invmasc
+eusebius@neut%invmasc
 evening@neut%invmasc
 eve@neut%invfem
 evil@neut%invmasc
@@ -430,6 +433,7 @@ eye@masc%normmasc
 ezekiel@masc%invmasc
 face@masc%normmasc
 facing@neut%invmasc
+famed@adj%invmasc
 famous@adj%invmasc
 fantastic@neut%invmasc
 farther@neut%invmasc
@@ -759,6 +763,7 @@ map@neut%normmasc
 march@neut%invmasc
 margin@neut%normmasc
 mark@neut%invmasc
+mart@neut%normmasc
 mary@fem%invfem
 masculine@adj%normmasc
 master@neut%normmasc

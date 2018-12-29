@@ -136,6 +136,7 @@
 ταυτα@prep()
 ταυτας@prep()
 ταυτην@prep()
+ταυτι@prep()
 τε@prep()
 τελος@prep()
 τη@prep%prep(dat)%[electDativeForFollowingNoun]
@@ -160,6 +161,7 @@
 τουτω@prep(dat)
 τουτων@prep(gen)
 τους@prep%prep(acc)%[electAccusativeForFollowingNoun]
+τοθ@prep()
 τω@prep%prep(abl)%[electDativeForFollowingNoun]
 των@prep%prep(gen)%[electGenitiveForFollowingNoun]
 υμας@prep()
