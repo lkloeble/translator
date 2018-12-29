@@ -105,6 +105,7 @@ anzustell@verb!norm%1(verb)=embaucher%2(verb)=réfléchir%3(verb)=effectuer
 anzuwend@verb!norm%1(verb)=appliquer
 anzuzweif@verb!norm%1(vern)=douter
 apfel@noun!inv%1(noun)=pomme
+apokalyptiker@noun!arbeiter%1(noun)=apocalyptique
 apg@noun!inv%1(noun)=act
 apokriphe@noun!flasche%1(noun)=apocryphe
 arabisch@adj!ausreichend%1(adj)=arabe
@@ -689,6 +690,7 @@ falschheit@noun!meinfem%1(noun)=hypocrisie
 familie@noun!flasche%1(noun)=famille
 fang@verb!norm%1(verb)=commencer
 fangerisch@adj!inv%1(adj)=piège
+farre@noun!flasche%1(noun)=jeune taureau
 fass@verb!norm%1(verb)=comprendre%2(verb)=saisir
 fast@verb!norm%1(verb)=jeuner
 fast@prep%1(prep)=quasiment
@@ -1001,8 +1003,9 @@ heranwachsend@adj!ausreichend%1(adj)=adolescent
 heranzuzieh@verb!norm%1(verb)=expliquer
 herbeibring@verb!norm%1(verb)=apporter
 herberge@noun!flasche%1(noun)=auberge
-herkunft@noun!norm%1(noun)=origine%2(noun)=ascendance
 herleit@verb!norm%1(verb)=deduire
+herkunft@noun!norm%1(noun)=origine%2(noun)=ascendance
+heroisch@adj!ausreichend%1(adj)=héroïque
 herr@noun!meinmasc%1(noun)=seigneur%2(noun)=monsieur
 herrichtung@noun!meinmasc%1(noun)=aménagement
 herrlichkeit@noun!meinfem%1(noun)=gloire
@@ -1193,6 +1196,7 @@ kling@verb!norm%1(verb)=paraitre
 kloss@noun!inv%1(noun)=boule
 knecht@noun!jahrzehnt%1(noun)=serviteur
 knechtschaft@noun!meinfem%1(noun)=servitude
+knupf@verb!norm%1(verb)=attacher
 koch@verb!norm%1(verb)=bouillir%2(verb)=preparer
 komisch@adj!ausreichend%1(adj)=comique
 komm@verb!norm%1(verb)=venir
@@ -1219,6 +1223,7 @@ kritisch@noun!norm%1(adj)=critique
 kritisier@verb!norm%1(verb)=critiquer
 kuche@noun!flasche%1(noun)=cuisine
 kuchen@noun!inv%1(noun)=tarte
+kuhn@adj!ausreichend%1(adj)=audacieux
 kult@noun!reis%1(noun)=culte
 kultur@noun!inv%1(noun)=culture
 kultus@noun!inv%1(noun)=culte
@@ -1739,6 +1744,7 @@ schopfung@noun!meinfem%1(noun)=création
 schreib@verb!norm%1(noun)=ecrire
 schrift@noun!meinfem%1(noun)=écriture
 schriftlich@adj!ausreichend%1(adj)=par écrit
+schritt@noun!jahrzehnt%1(noun)=pas%2(noun)=démarche
 schubert@noun!inv%1(noun)=schubert
 schuh@noun!phanomen%1(noun)=chaussure
 schuld@noun!meinfem%1(noun)=dette
@@ -2363,6 +2369,7 @@ zerspalten@noun!angst%1(noun)=scission
 zerstor@verb!norm%1(verb)=detruire
 zerstorung@noun!meinfem%1(noun)=destruction
 zerstreu@verb!norm%1(verb)=preoccuper
+zerstreuung@noun!meinfem%1(noun)=dispersion
 zeug@verb!norm%1(verb)=engendrer
 zeugnis@noun!erkenntnis%1(noun)=témoignage
 zieh@verb!norm%1(verb)=prendre
@@ -2377,6 +2384,7 @@ zu@prep%1(prep)=avec%2(prep)=à propos de%3(prep)=vers
 zucht@noun!meinfem%1(noun)=élevage
 zuchtrute@noun!flasche%1(noun)=férule
 zuerst@prep%1(prep)=d'abord
+zug@noun!jahrzehnt%1(noun)=train%2(noun)=traction
 zuganglich@noun!meinmasc%1(adj)=acceptable
 zugehorigkeit@noun!meinfem%1(noun)=appartenance
 zugleich@prep%1(prep)=au même moment

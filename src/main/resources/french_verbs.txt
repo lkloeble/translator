@@ -63,6 +63,7 @@ assembler@NORM%[INFINITIVE]=[assembler]%[IPR]=[assemble,assembles,assemble,assem
 assieger@NORM%[INFINITIVE]=[assiéger]%[IPR]=[assiège,assièges,assiège,assiègeons,assiègez,assiègent]
 assigner@NORM%[INFINITIVE]=[assingner]%[IPR]=[assigne,assignes,assigne,assignons,assignez,assignent]%[PRESACTPART]=[,,assignés,]%[PAP]=[assigné]
 assister@NORM%[INFINITIVE]=[assister]%[IPR]=[assiste,assistes,assiste,assistons,assistez,assistent]%[PRESPASPART]=[assisté,assisté,assistés,assistés]
+attacher@NORM%[INFINITIVE]=[attacher]%[IPR]=[attache,attaches,attache,attachons,attachez,attachent]%[AII]=[attachais,attachais,attachait,attachions,attachiez,attachaient]
 attaquer@NORM%[INFINITIVE]=[attaquer]%[IPR]=[attaque,attaques,attaque,attaquons,attaquez,attaquent]%[AII]=[attaquais,attaquais,attaquait,attaquions,attaquiez,attaquaient]
 atteindre@NORM%[INFINITIVE]=[atteindre]%[IPR]=[atteins,atteins,atteint,atteignons,atteignez,atteignent]%[AIP]=[atteignis,atteignis,atteignit,atteignîmes,atteignîtes,atteignirent]%[AII]=[atteignais,atteignais,atteignait,atteignions,atteigniez,atteignaient]%[PAP]=[atteint]%[AIMP]=[atteint]%[PAPR]=[atteignant]
 attendre@NORM%[INFINITIVE]=[attendre]%[IPR]=[attends,attends,attend,attendons,attendez,attendent]%[AIMP]=[x,attends,x,x,attendez,x,x]%[AIP]=[attendai,attendis,attendit,attendîmes,attendîtes,attendirent]

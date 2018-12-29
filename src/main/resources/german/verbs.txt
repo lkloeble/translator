@@ -226,6 +226,7 @@ kauf,en,[leben]
 kehr,en,[starken]
 kenn,en,[leben],(PAPR*kenn*kennend*0@AIP*kenn*kannt*0)
 kling,en,[leben]
+knupf,en,[leben]
 koch,en,[leben]
 komm,en,[rufen],(AIP*komm*kam*0@PAP*kom*gekom*0@ASI*komm*kam*0)
 konn,en,[wollen],(PAPR*konn*konnend*0@IPR012*kon*kan*0@PAP*konn*gekonnt*0)
