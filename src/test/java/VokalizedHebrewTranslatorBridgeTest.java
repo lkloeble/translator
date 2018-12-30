@@ -1198,6 +1198,18 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("sheilamoreiF", translatorBridge);
         checkInMaps("sheilamoreiG", translatorBridge);
         checkInMaps("sheilamoreiH", translatorBridge);
+        checkInMaps("sheilamoreiB1", translatorBridge);
+        checkInMaps("sheilamoreiB2", translatorBridge);
+        checkInMaps("sheilamoreiB3", translatorBridge);
+        checkInMaps("sheilamoreiB4", translatorBridge);
+        checkInMaps("sheilamoreiB5", translatorBridge);
+        checkInMaps("sheilamoreiB6", translatorBridge);
+        checkInMaps("sheilamoreiB7", translatorBridge);
+        checkInMaps("sheilamoreiB8", translatorBridge);
+        checkInMaps("sheilamoreiB9", translatorBridge);
+        checkInMaps("sheilamoreiB10", translatorBridge);
+        checkInMaps("sheilamoreiB11", translatorBridge);
+        checkInMaps("sheilamoreiB12", translatorBridge);
     }
 
     @Test
