@@ -43,6 +43,7 @@ adoro@verb!norm%1(verb)=admirer%2(verb)=adorer%3(verb)=accuser%4(verb)=negocier
 adscisco@verb!norm%1(verb)=persuader
 adiutor@noun!x-is2%1(noun)=aide
 adventarit@noun!inv%1(verb)=sera venu
+advent@noun!us-us%1(noun)=arrivée
 advers@adj!us-a-um%1(adj)=adverse
 adversari@noun!us-i%1(noun)=adversaire
 adult@adj!us-a-um%1(adj)=brûlé%2(adj)=sacrifié
@@ -77,6 +78,7 @@ alleluja@prep%1(prep)=Alléluia
 allobrog@noun!scriptor%1(noun)=allobroges
 alter@adj!us-a-um%1(adj)=autre
 alt@adj!us-a-um%1(adj)=profond%2(adj)=haut
+alterius@noun!inv%1(noun)=(de) l'autre
 alti@adj!or-or-us%1(adj)=plus profond%2(adj)=plus haut
 altissim@adj!us-a-um%1(adj)=le plus haut
 ambulo@verb!norm%1(verb)=aller et venir,marcher,se promener%2(verb)=marcher, se comporter (christianisme)%3(verb + acc)=marcher dans un espace précis%4(verb)=marcher
@@ -99,6 +101,7 @@ anim@noun!a-ae%1(noun)=âme
 animan@noun!s-tis%1(noun)=animé
 ann@noun!us-i%1(noun)=saison%2(noun)=annee
 annuntio@verb!norm%1(verb)=annoncer
+ant@noun!a-ae%1(noun)=pilier
 ante@prep%1(prep)=devant,en face%2(prep)=avant,auparavant,anterieurement%3(prep + acc)=devant%4(prep + acc)=avant
 antequam@prep%1(prep)=jusqu'à%2(prep)=avant
 antiochen@adj!us-a-um%1(adj)=antiochien
@@ -225,6 +228,7 @@ cere@noun!us-i%1(noun)=bougie
 cert@adj!us-a-um%1(adj)=certain
 certam@noun!en-inis%1(noun)=lutte
 certe@prep%1(adv)=du moins,en tout cas%2(adv)=certainement
+certi@adj!or-or-us%1(adj)=plus que certain
 cesso@verb!norm%1(verb)=retarder%2(verb)=negliger%3(verb)=sereposer
 cet@noun!us-i%1(noun)=grand poisson
 ceter@adj!us-a-um%1(adj)=autre
@@ -493,6 +497,7 @@ eo@verb!irrg%1(verb)=aller
 eodem@prep%1(adv)=le même
 eorum@prep%1(prep)=leur
 eos@prep%1(prep)=les
+eosdem@prep%1(prep)=l'exact semblable
 epiphani@noun!us-i%1(noun)=épiphane
 episcop@noun!us-i%1(noun)=inspecteur des marches%2(noun)=eveque
 epistol@noun!a-ae%1(noun)=courrier,missive,depeche%2(noun)=lettre
@@ -702,6 +707,7 @@ idol@noun!um-i%1(noun)=forme%2(noun)=idole
 idolatri@noun!a-ae%1(noun)=idolatrie
 idololatri@noun!a-ae%1(noun)=idolatrie
 igitur@prep%1(noun)=en conséquence
+ignar@adj!us-a-um%1(adj)=ignorant
 ignati@noun!us-i%1(proper noun)=ignace eveque d'antioche%2(proper noun)=ignace
 ign@noun!is-is%1(noun)=feu
 ill@adj!e-a-ud%1(pro dem)=celui la
@@ -720,6 +726,7 @@ impluvi@noun!um-i%1(noun)=bassin
 impono@verb!norm%1(verb)=poser
 importo@verb!norm%1(verb)=importer
 impositio@noun!x-nis%1(noun)=application%2(noun)=imposition
+impostor@noun!x-is%1(noun)=imposteur
 improb@noun!us-a-um%1(noun)=mauvais
 impugno@verb!norm%1(verb)=combattre
 impur@noun!us-a-um%1(noun)=impur
@@ -841,6 +848,7 @@ latin@adj!us-a-um%1(noun)=latin
 latissim@adj!us-a-um%1(noun)=le plus large
 latitud@noun!o-inis%1(noun)=largeur
 latobrig@noun!us-i%1(noun)=latobrige
+lat@noun!us-eris%1(noun)=flanc%2(noun)=côté
 laudat@adj!us-a-um%1(noun)=loué
 laudo@verb!norm%1(verb)=louer, approuver, proner, vanter%2(verb)=vanter, faire valoir%3(verb)=faire une deposition elogieuse envers quelqu'un%4(verb)=prononcer un eloge funebre%5(verb)=louer
 leander@noun!inv%1(noun)=leander
@@ -849,6 +857,7 @@ lect@noun!us-i%1(noun)=sofa%2(noun)=lit
 lecti@noun!o-onis%1(noun)=choix%2(noun)=leçon
 lectic@noun!a-ae%1(noun)=chaise à porteur
 legati@noun!o-onis%1(noun)=ambassadeur
+legat@noun!us-i%1(noun)=ambassadeur
 legio@noun!x-nis%1(noun)=légion
 lego@verb!norm%1(verb)=lire
 lesbos@noun!inv%1(noun)=lesbos
@@ -976,6 +985,7 @@ mulier@noun!scriptor%1(noun)=épouse%2(noun)=femme
 muls@noun!um-i%1(noun)=vin miellé
 mult@adj!us-a-um%1(adj)=nombreux
 multiplico@verb!norm%1(verb)=multiplier
+muto@verb!norm%1(verb)=enlever
 multitud@noun!o-inis%1(noun)=multitude
 mund@noun!us-i%1(noun)=monde
 mur@noun!us-i%1(noun)=mur
@@ -1019,6 +1029,7 @@ noric@noun!um-i%1(noun)=norique
 nov@adj!us-a-um%1(noun)=nouveau
 novem@noun!inv%1(noun)=neuf
 nud@adj!us-a-um%1(adj)=nu
+nug@noun!a-ae%1(noun)=plaisanterie
 null@adj!us-a-um%1(adj)=non%2(adj)=non existant%3(adj)=sans importance%4(adj)=aucun
 num@prep%1(prep)=est-ce que
 numer@noun!us-i%1(noun)=multitude%2(noun)=nombre
@@ -1034,6 +1045,7 @@ ob@prep%1(prep)=contre%2(prep)=à cause de%3(prep)=vers
 obaerat@adj!us-a-um%1(adj)=endetté
 obdormio@verb!norm%1(verb)=sendormir
 oblati@noun!o-onis%1(noun)=offrande
+oblit@adj!us-a-um%1(adj)=oublié
 obscenit@noun!as-atis%1(noun)=défavorable
 obscur@adj!us-a-um%1(adj)=sombre
 obscuri@adj!or-or-us%1(adj)=plus sombre
@@ -1215,6 +1227,7 @@ priusquam@prep%1(prep)=jusqu'à%2(prep)=avant
 privat@adj!us-a-um%1(adj)=démuni
 pro@prep%1(prep+abl)=en avant,devant%2(prep+abl)=du haut%3(prep+abl)=en faveur,a la place,au lieu de%4(prep+abl)=en raison de,en vertu de%5(prep)=oh !,ah !%6(prep+acc)=que%7(prep+abl)=pour
 prob@noun!us-a-um%1(noun)=noble%2(noun)=bon
+procreat@noun!us-a-um%1(noun)=engendré
 probo@verb!norm%1(verb)=acquitter%2(verb)=démontrer%3(verb)=tester,inspecter%4(verb)=approuver
 procul@prep%1(prep)=loin
 produco@verb!norm%1(verb)=placer%2(verb)=étaler%3(verb)=exposer%4(verb)=présenter%5(verb)=produire
@@ -1274,6 +1287,7 @@ quasi@prep%1(adj)=comme si
 quattuor@noun!inv%1(noun)=quatre
 queis@prep%1(prep)=à qui
 quem@prep%1(prep)=qui
+quemadmodum@prep%1(prep)=comment
 quemdam@prep%1(prep)=quelqu'un/quelques uns
 queo@verb!norm%1(verb)=etrecapablede
 querimoni@noun!a-ae%1(noun)=plainte
@@ -1306,6 +1320,7 @@ recitati@noun!o-onis%1(noun)=lecture
 rect@adj!us-a-um%1(adj)=droit
 redimo@verb!norm%1(verb)=racheter
 rediti@noun!o-onis%1(noun)=retour
+refello@verb!norm%1(verb)=refuter
 refero@verb!norm%1(verb)=porter
 regin@noun!a-ae%1(noun)=reine
 regenerati@noun!o-onis%1(noun)=régénération
@@ -1484,6 +1499,7 @@ sub@prep%1(prep)=sous
 subeund@adj!us-a-um%1(adj)=qui va être approché
 subicio@verb!norm%1(verb)=soumettre
 subito@prep%1(prep)=subitement
+subjicio@verb!norm%1(verb)=proposer%2(verb)=soumettre%3(verb)=forger%4(verb)=supplier%5(verb)=jeterbas
 sublat@adj!us-a-um%1(adj)=détruit%2(adj)=enlevé
 subnecto@verb!norm%1(verb)=lier
 successor@noun!x-is2%1(noun)=successeur
@@ -1595,6 +1611,7 @@ unic@adj!us-a-um%1(adj)=unique
 unigenit@adj!us-a-um%1(adj)=seul engendré
 univers@noun!um-i%1(noun)=univers
 univers@adj!us-a-um%1(adj)=tout%2(adj)=complet
+unoquoque@prep%1(prep)=chacun
 unquam@prep%1(prep)=toujours
 unumquodque@noun!inv%1(noun)=chaque
 urb@noun!s-is%1(noun)=ville
@@ -1614,6 +1631,7 @@ vari@adj!us-a-um%1(adj)=divers%2(adj)=varié
 vas@noun!x-is%1(noun)=ustensile%2(noun)=vase%3(noun)=plat
 veho@verb!norm%1(verb)=monter%2(verb)=porter
 vel@prep%1(prep)=ou
+velut@prep%1(prep)=bien que
 vendito@verb!norm%1(verb)=vendre
 vendo@verb!norm%1(verb)=vendre
 veneno@verb!norm%1(verb)=empoisonner

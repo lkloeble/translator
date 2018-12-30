@@ -18,3 +18,4 @@ IAP=>isse
 VENO=>ere,endi,endo,endum
 INACPAS=>ere,psisse,pturus esse,i,ptus esse,ptum iri
 IAPP=>ere,isse,urus,i,tus,tum
+ASPP=>em,es,et,emus,etis,ent

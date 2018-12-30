@@ -33,11 +33,11 @@ import java.util.*;
  * ACP = active conditional present
  * IAP = infinitive active perfect
  * VENO = verbal nouns
- * PEACIN => Perfect Active Indicative
+ * PEACIND => Perfect Active Indicative
  * PRPARPASS => Present Participle Middle/Passive
  * PASANT => passé antérieur
  * ASPP => Active Subjonctive PluPerfect
- * PEACIN => PErfect ACtive INfinitive
+ * PEACINF => PErfect ACtive INfinitive
  * INACPAS => INFINITIVE ACTIVE PASSIVE
  */
 public abstract class Conjugation {

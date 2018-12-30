@@ -114,7 +114,7 @@ depon,o,is,ere,,,[o-is]
 deput,o,as,are,,,[o-as]
 descend,o,is,ere,,,[o-is],(AIFP*descends*descend*0)
 desin,o,is,ere,,,[o-is],(AIP*desin*desi*0)
-dic,o,is,ere,foobar,foobar,[o-is],(AIP*dic*dix*0@AIPP*dic*dix*0@AIFP*dics*dix*0)
+dic,o,is,ere,foobar,foobar,[o-is],(AIP*dic*dix*0@AIPP*dic*dix*0@AIFP*dics*dix*0@ASPP*dic*dixiss*0)
 dict,o,as,are,,,[o-as]
 differ,o,s,re,tuli,latum,[o-s]
 dimitt,o,is,ere,foobar,foobar,[o-is]
@@ -208,7 +208,7 @@ iub,eo,es,ere,,,[eo-es]
 jactit,o,as,are,,,[o-as]
 labor,o,as,are,,,[o-as]
 laud,o,as,are,avi,atum,[o-as]
-leg,o,is,ere,,,[o-is]
+leg,o,is,ere,,,[o-is],(ASPP*leg*legiss*0)
 liber,o,as,are,,,[o-as]
 loqu,or,eris,i,,,[or-eris]
 luc,eo,es,ere,,,[eo-es]
@@ -226,6 +226,7 @@ mon,eo,es,ere,ui,itus,[eo-es]
 mori,or,eris,,,,[or-eris]
 mov,eo,es,ere,ui,itus,[eo-es]
 multiplic,o,as,are,,,[o-as]
+mut,o,as,are,,,[o-as]
 narr,o,as,are,,,[o-as]
 nasc,or,eris,i,,,[or-eris]
 nolo@IRREGULAR%[INFINITIVE]=[nolere]%[IPR]=[nolo,non vis,non vult,nollumus,non vultis,nolunt]
@@ -287,6 +288,7 @@ puls,o,as,are,,,[o-as]
 qu,eo,is,ire,,,[eo-is],(AIP*qu*zzz*0@AIMP*qu*zzz*0)
 recip,io,is,ere,,,[io-is],(AIP*recip*recep*0)
 redim,o,is,ere,,,[o-is]
+refell,o,is,ere,,,[o-is]
 refer,o,s,re,,,[o-s]
 regn,o,as,are,,,[o-as]
 reg,o,is,ere,,,[o-is]
@@ -329,6 +331,7 @@ spect,o,as,are,,,[o-as]
 sper,o,as,are,,,[o-as]
 stud,eo,es,ere,,,[eo-es]
 subic,io,is,ere,,,[io-is]
+subjic,io,is,ere,,,[io-is],(AIP*subjic*subjec*0)
 subnect,o,is,ere,,,[o-is]
 sum@IRREGULAR%[IPR]=[sum,es,est,sumus,estis,sunt]%[AII]=[eram,eras,erat,eramus,eratis,erant]%[AIF]=[ero,eris,erit,erimus,eritis,erunt]%[INFINITIVE]=[esse]%[ASP]=[sim,sis,sit,simus,sitis,sint]%[ASI]=[essem,esses,esset,essemus,essetis,essent]%[AIP]=[fui,fuisti,fuit,fuimus,fuistis,fuerunt]%[AIPP]=[fueram,fueras,fuerat,fueramus,fueratis,fuerant]%[IAP]=[fuisse]%[AIFP]=[fuero,fueris,fuerit,fuerimus,fueritis,fuerint]
 sum,o,is,ere,,,[o-is]
@@ -344,7 +347,7 @@ termin,o,as,are,,,[o-as]
 tim,eo,es,ere,,,[eo-es]
 toll,o,is,ere,,,[o-is],(AIP*toll*sustul*0)
 tract,o,as,are,avi,atum,[o-as],(VENO*tract*xxx*0)
-trad,o,is,ere,,,[o-is],(AIP*trad*tradid*0@AIFP*trads*tradid*0)
+trad,o,is,ere,,,[o-is],(AIP*trad*tradid*0@AIFP*trads*tradid*0@AIPP*trad*tradid*0)
 trans,eo,is,ire,,,[eo-is],(AIPP*trans*transi*0)
 transfund,o,is,ere,,,[o-is]
 transmitt,o,is,ere,,,[o-is]

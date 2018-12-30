@@ -114,7 +114,7 @@ public class LatinTranslatorBridgeTest extends TranslatorBridgeTest {
 
     @Test
     public void test_failing_one() {
-        checkInMaps("patrologiacaput3B22", translatorBridge);
+        checkInMaps("patrologiacaput3B24", translatorBridge);
     }
 
 

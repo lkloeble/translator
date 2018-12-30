@@ -20,6 +20,7 @@ adorand@adj%us-a-um
 adult@adj%us-a-um
 adiutor@masc%x-is2
 adventarit@neut%inv
+advent@masc%us-us
 advers@adj%us-a-um
 adversari@masc%us-i
 adyt@neut%um-i
@@ -42,6 +43,7 @@ ali@adj%us-a-ud
 allobrog@masc%scriptor
 alter@adj%us-a-um
 alt@adj%us-a-um
+alterius@neut%inv
 alti@adj%or-or-us
 altissim@adj%us-a-um
 amen@neut%inv
@@ -60,6 +62,7 @@ anim@masc%us-i
 anim@fem%a-ae[ablplr:animabus,datplr:animabus]
 animan@masc%s-tis
 ann@masc%us-i
+ant@fem%a-ae
 antiochen@adj%us-a-um
 antiqu@adj%us-a-um
 antiquissim@adj%us-a-um
@@ -154,6 +157,7 @@ cer@fem%a-ae
 cere@masc%us-i
 cert@adj%us-a-um
 certam@neut%en-inis
+certi@adj%or-or-us
 cet@masc%us-i
 ceter@adj%us-a-um
 charact@masc%er-eris
@@ -431,6 +435,7 @@ hymn@masc%us-i
 idol@neut%um-i
 idolatri@fem%a-ae
 idololatri@fem%a-ae
+ignar@adj%us-a-um
 ignati@masc%us-i2
 ign@masc%is-is
 ill@adj%e-a-ud
@@ -441,6 +446,7 @@ imperi@masc%um-i
 impi@adj%us-a-um
 impluvi@neut%um-i
 impositio@fem%x-nis
+impostor@masc%x-is
 improb@adj%us-a-um
 impur@adj%us-a-um
 inan@adj%is-is-e
@@ -515,6 +521,7 @@ lapid@neut%x-is2[nomsing:lapis]
 latissim@adj%us-a-um
 latitud@fem%o-inis
 latobrig@masc%us-i
+lat@neut%us-eris
 laudat@adj%us-a-um
 leander@neut%inv
 leandr@neut%x-ri
@@ -522,6 +529,7 @@ lect@masc%us-i
 lecti@fem%o-onis
 lectic@fem%a-ae
 legati@fem%o-onis
+legat@masc%us-i
 lemann@masc%us-i
 lesbos@neut%inv
 lemnos@neut%inv
@@ -644,6 +652,7 @@ noric@neut%um-i
 nov@adj%us-a-um
 novem@neut%inv
 nud@adj%us-a-um
+nug@fem%a-ae
 null@adj%us-a-um
 numer@masc%us-i
 numm@masc%us-i
@@ -651,6 +660,7 @@ nuntiat@adj%us-a-um
 o@neut%s-ris
 obaerat@adj%us-a-um
 oblati@fem%o-onis
+oblit@adj%us-a-um
 obscenit@fem%as-atis
 obscuri@adj%or-or-us
 obscur@adj%us-a-um
@@ -773,6 +783,7 @@ principat@masc%us-us
 principi@neut%um-i
 privat@adj%us-a-um
 prob@adj%us-a-um
+procreat@adj%us-a-um
 prodigi@neut%um-i
 proeli@neut%um-i
 profect@adj%us-a-um
