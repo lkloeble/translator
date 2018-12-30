@@ -1553,6 +1553,7 @@ salar@noun!endy%1(noun)=salaire
 sally@noun!invmasc%1(noun)=sally
 salt@noun!normmasc%1(noun)=sel
 samaria@noun!invfem%1(noun)=samaria
+samaritan@noun!normmasc%1(noun)=samaritain
 same@noun!normmasc%1(noun)=même
 samson@noun!invmasc%1(noun)=samson
 sanctify@verb!norm%1(verb)=sanctifier
@@ -1988,6 +1989,7 @@ when@prep%1(prep)=quand
 whence@prep%1(prep)=où
 where@prep%1(prep)=où
 whereby@prep%1(prep)=par lequel
+wherefore@prep%1(prep)=c'est pourquoi
 whereof@prep%1(prep)=donc%2(prep)=de quoi%3(prep)=duquel
 wheresoever@prep%1(prep)=où que
 whereunto@prep%1(prep)=auquel

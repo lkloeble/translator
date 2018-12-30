@@ -1052,9 +1052,9 @@ lightfoot_ch1311=>and Sozomen's "Ecclesiastical History," book v. chap.3...
 lightfoot_ch1312=>There is mentioned the "mart of Gaza," one of the three more famed marts,
 lightfoot_ch1313=>-- to wit, that of Gaza, and of |Aco|, and of |Botna|.
 
-lightfoot_ch1401=>'Ascalon,' in the Samaritan interpreter, is the same with 'Gerar,' Genesis 21.
-lightfoot_ch1402=>The word Gerar, among the Talmudists, seems to have passed into 'Gerariku.'
-lightfoot_ch1403=>"Wherefore (say they) have they not determined of that country, which is in Gerariku?
+lightfoot_ch1401=>"|Ascalon|," in the Samaritan interpreter, is the same with "|Gerar|," Genesis 21.
+lightfoot_ch1402=>The word |Gerar|, among the Talmudists, seems to have passed into "|Gerariku|."
+lightfoot_ch1403=>"Wherefore (say they) have they not determined of that country, which is in |Gerariku| ?
 lightfoot_ch1404=>Because it is ill to dwell in. How far? To the river of Egypt. But behold, Gaza is pleasant to dwell in," &c.
 lightfoot_ch1405=>In the author of Aruch it is, Gardiki. "Bereshith Rabbah (saith he) renders Gardiki."
 lightfoot_ch1406=>'The king of Gerar,' Genesis 20:2, with the Jerusalem Targumist, is "The king of Arad."

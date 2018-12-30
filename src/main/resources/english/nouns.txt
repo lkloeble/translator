@@ -1067,6 +1067,7 @@ salar@masc%endy
 sally@neut%invmasc!agenitive
 salt@masc%normmasc
 samaria@fem%invfem
+samaritan@masc%normmasc
 same@neut%normmasc
 samson@neut%invmasc
 sand@neut%normmasc
