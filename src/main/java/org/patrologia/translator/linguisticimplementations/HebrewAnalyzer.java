@@ -48,6 +48,7 @@ public class HebrewAnalyzer implements Analizer {
         replace1 = replace1.replace("pr?a","praexpr");
         replace1 = replace1.replace("r?a","raexpr");
         replace1 = replace1.replace("z?l","zlexpr");
+        replace1 = replace1.replace("yl pi","ylpiexpr");
         return replace1.replace("hqb?h", "hqbhexpr");
     }
 

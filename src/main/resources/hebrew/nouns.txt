@@ -46,6 +46,7 @@ dp@masc%im
 drk@masc%im
 drsh@fem%invpur
 dsa@masc%im
+gdl@adj%im-ot
 g64dw331l@adj%im-ot
 gwi@masc%custom(nomplr=gwim|nomsg=gwi)
 girsa@fem%invpur
@@ -124,7 +125,7 @@ m64qw331m000@masc%mascot
 mbdil@neut%invpur
 m60d56b30564r@masc%imdir
 mdrs@neut%im
-mawr@masc%custom(nomplr=mart)
+mawr@masc%custom(nomsg=mawr|nomplr=mart)
 mawr@fem%ot
 mwyd@masc%im
 milta@neut%invpur
@@ -198,6 +199,7 @@ qmlexpr@neut%invpur
 qriat@neut%invpur
 qwm@neut%invmasc
 qwra@masc%invmasc
+qxn@adj%im-ot
 qxr@masc%invmasc
 qtsr@adj%adj
 r'@neut%invpur

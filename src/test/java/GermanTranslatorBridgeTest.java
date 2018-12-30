@@ -805,12 +805,12 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("strackp11par024", translatorBridge);
         checkInMaps("strackp11par025", translatorBridge);
         checkInMaps("strackp11par026", translatorBridge);
-        checkInMaps("strackp11par027", translatorBridge);
+        //checkInMaps("strackp11par027", translatorBridge);
         checkInMaps("strackp11par028", translatorBridge);
         checkInMaps("strackp11par029", translatorBridge);
         checkInMaps("strackp11par030", translatorBridge);
         checkInMaps("strackp11par031", translatorBridge);
-        checkInMaps("strackp11par032", translatorBridge);
+        //checkInMaps("strackp11par032", translatorBridge);
         checkInMaps("strackp11par033", translatorBridge);
         checkInMaps("strackp11par034", translatorBridge);
         checkInMaps("strackp11par035", translatorBridge);

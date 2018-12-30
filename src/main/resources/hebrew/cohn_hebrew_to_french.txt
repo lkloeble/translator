@@ -8,6 +8,8 @@ a58d64m64h@noun!custom(nomsg=admh|decim-nw=admtnw)%1(noun)=terre
 a64d64m000@noun!invmasc%1(noun)=homme
 awi@prep%1(prep)=oï
 aw331i@prep%1(prep)=oï
+awr@verb!norm%1(verb)=illuminer
+awth@prep%1(prep)=elle
 awtm000@prep%1(prep)=eux
 az@prep%1(prep)=alors
 a'h@noun!im%1(noun)=frère
@@ -119,6 +121,7 @@ bnwt@noun!otplr%1(noun)=filles
 gw@prep%1(prep)=dedans
 gm000@prep%1(prep)aussi%2(prep)=même%3(prep)=encore
 g63m000@prep%1(prep)aussi%2(prep)=même%3(prep)=encore
+gdl@adj!im-ot%(adj)=grand
 g64dw331l@adj!im-ot%(adj)=grand
 gwi@noun!custom(nomplr=gwim|nomsg=gwi)%1(noun)=gentil%2(noun)=nation
 girsa@noun!invpur%1(noun)=variante%2(noun)=version
@@ -135,6 +138,7 @@ d64b64r@noun!im%1(noun)=chose,acte%2(noun)=parole
 dktib@prep%1(prep)=comme dit l'écriture
 dla@prep%1(prep)=qui n'est pas
 drk@noun!im%1(noun)=voie%2(noun)=chemin
+drs@verb!norm%1(verb)=demander%2(verb)=rechercher
 drsh@noun!invpur%1(noun)=interprétation
 dsa@noun!im%1(noun)=végétation
 dsa@verb!norm%1(verb)=verdir
@@ -248,6 +252,7 @@ k31564@prep%1(prep)=comme
 k3156369@prep%1(prep)=comme
 k3156469@prep%1(prep)=comme
 kan@prep%1(prep)=ici
+kbr@prep%1(prep)=déjà
 kbs@verb!norm%1(verb)=conquerir
 kgwn000@prep%1(prep)=par exemple
 kd@prep%1(prep)=quand
@@ -271,9 +276,11 @@ kmwk@prep%1(prep)=comme toi
 k64mw331k00064@prep%1(prep)=comme toi
 kn@prep%1(prep)=oui%2(prep)=ainsi
 kns@verb!norm%1(verb)=entrer
+kpr@verb!norm%1(verb)=renier
 knst@noun!invpur%1(noun)=knesset%2(noun)=assemblée
 krt@verb!norm%1(verb)=couper
 ksh@verb!norm%1(verb)=couvrir
+ksh2@verb!norm%1(verb)=couvrir
 krti@noun!invmasc%1(noun)=poireau
 ktib@noun!invpur%1(noun)=écriture
 ksofit@prep%1(prep)=de-toi
@@ -315,7 +322,7 @@ m64qw331m000@noun!mascot%1(noun)=lieu
 mbdil@noun!invpur%1(noun)=séparation
 m60d56b30564r@noun!imdir%1(noun)=désert
 mdrs@noun!im%1(noun)=midrash
-mawr@noun!custom(nomplr=mart)%1(noun)=luminaire
+mawr@noun!custom(nomsg=mawr|nomplr=mart)%1(noun)=luminaire
 mawr@noun!ot%1(noun)=repaire
 mwyd@noun!im%1(noun)=fête
 mh@prep%1(prep)=quoi
@@ -412,6 +419,7 @@ qra@verb!norm%1(verb)=crier%2(verb)=lire%3(verb)=appeler
 qrbn@noun!mascot%1(noun)=victime%2(noun)=sacrifice rituel (qorban)
 qrwa@noun!invmasc%1(noun)=lecture
 qriat@noun!invpur%1(noun)=appel de
+qxn@adj!im-ot%1(adj)=petit
 qxr@noun!invmasc%1(noun)=encens%2(noun)=combustion
 qtsr@adj!adj%1(adj)=court
 yiin@noun!invpur%1(noun)=voir
@@ -424,10 +432,13 @@ ywlm@noun!im%1(noun)=globe%2(noun)=terre%2(noun)=monde
 yzrih@noun!invpur%1(noun)=azarya
 yl@prep%1(prep)=en faveur de%2(prep)=au dessus de%3(noun)=sur
 y63l@prep%1(prep)=en faveur de%2(prep)=au dessus de%3(noun)=sur
-ylinw@prep%1(prep)=sur nous
 ybd@verb!norm%1(verb)=servir
 ybr@verb!norm%1(verb)=traverser
+ykb@verb!norm%1(verb)=retarder
+yliw@prep%1(prep)=sur lui
+ylinw@prep%1(prep)=sur nous
 ylh@verb!norm%1(verb)=grandir%2(verb)=couter%3(verb)=selever
+ylpiexpr@prep%1(prep)=selon
 ymd@verb!norm%1(verb)=lever
 y64p64r@noun!im-fem%1(noun)=jeune daim%2(noun)=gris,cendré%3(noun)=poussière
 ym@prep%1(prep)=avec
@@ -459,6 +470,7 @@ r61as60it@noun!invmasc%1(noun)=commencement
 raexpr@noun!invpur%1(noun)=rabbi eliezer
 raswn@noun!ot%1(noun)=commencement%2(adj)=première
 rah@verb!norm%1(noun)=apparaitre%2(verb)=voir
+rdp@verb!norm%1(noun)=suivre
 rbh@noun!invpur%1(noun)=grand
 rbi@noun!invmasc%1(noun)=rabbi
 rbn@noun!invmasc%1(noun)=rabban
@@ -477,6 +489,7 @@ r64s29864y@noun!im%1(noun)=impie
 rtswn@noun!mascot%1(noun)=volonté
 s@prep%1(prep)=que
 sal@noun!invmasc%1(noun)=shéol
+sap@verb!norm%1(verb)=inhaler
 s29860b56y64h@noun!invpur%1(noun)=sept
 sbyim000@noun!invpur%1(noun)=soixante-dix
 sbt@noun!invpur%1(noun)=shabbat

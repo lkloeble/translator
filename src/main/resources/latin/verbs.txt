@@ -42,7 +42,7 @@ atting,o,is,ere,,,[o-is]
 aud,io,is,ire,veni,ventum,[io-is],(AIP*audi*audiv*0@AIMP*aude*audi*0)
 benedic,o,is,ere,foobar,foobar,[o-is],(AIP*benedic*benedix*0)
 bib,o,is,ere,,,[o-is]
-can,o,is,ere,,,[o-is]
+can,o,is,ere,,,[o-is],(ASPP*can*ceciniss*0)
 cant,o,as,are,,,[o-as]
 cap,io,is,ere,,,[io-is],(AIP*cap*cep*0)
 carp,o,is,ere,,,[o-is]
