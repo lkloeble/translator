@@ -399,7 +399,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "nxh,,[paal2],(AIF%substitute%nxh*xh*0@AIF%substitute(3:6:7:8:9)%xh*x*0)",
                 "nxh2,,[binyanhifil],(BINHIPER%substitute(1:2:3:6:7:8)%nxh2*xi*0@BINHIPER%substitute(4:5:9)%nxh2*x*0)",
                 "nm,,[paal]",
-                "ntn,tt,[paal],(AIP%leadingrootletter%n*n64@AIP%secondletterroot%t*t63@AIP%sofitrootletter%n3*n000@AIP%alternateaccentuation(5:9)%t63*t56@AIP%alternateaccentuation(5)%56n*56n64@IPR%substitute%nt*nwt*0)",
+                "ntn,tt,[paal],(AIP%leadingrootletter%n*n64@AIP%secondletterroot%t*t63@AIP%sofitrootletter%n3*n000@AIP%alternateaccentuation(5:9)%t63*t56@AIP%alternateaccentuation(5)%56n*56n64@IPR%substitute%nt*nwt*0@AIF%substitute%ntn*tn*0)",
                 "ntn2,,[nifal],(AIMP%substitute%ntn2*ntn*0)",
                 "nyr,,[paal]",
                 "nsa,,[paal],(AIF%substitute%ns*s*0)",
@@ -1280,6 +1280,12 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("hebbavli1ApagecommentN", translatorBridge);
         checkInMaps("hebbavli1ApagecommentO", translatorBridge);
         checkInMaps("hebbavli1ApagecommentP", translatorBridge);
+        checkInMaps("hebbavli1ApagecommentQ", translatorBridge);
+        checkInMaps("hebbavli1ApagecommentR", translatorBridge);
+        checkInMaps("hebbavli1ApagecommentS", translatorBridge);
+        checkInMaps("hebbavli1ApagecommentT", translatorBridge);
+        checkInMaps("hebbavli1ApagecommentU", translatorBridge);
+        checkInMaps("hebbavli1ApagecommentV", translatorBridge);
     }
 
 
@@ -1330,7 +1336,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failed_ones() {
         assertTrue(true);
-        checkInMaps("bereshit1P", translatorBridge);
+        checkInMaps("bereshit1Q", translatorBridge);
         //checkInMaps("toto", translatorBridge);
         //checkInMaps("totoacc", translatorBridge);
     }
