@@ -225,6 +225,7 @@ bruder@masc%arbeiter
 brunstig@adj%ausreichend
 br@neut%inv
 buch@fem%ort
+buffel@masc%arbeiter
 buhlerin@fem%sangerin
 bundel@neut%zeichen
 burger@masc%burger
@@ -784,6 +785,7 @@ konig@masc%phanomen
 konstanz@neut%inv
 kontrapunktischen@neut%inv
 konzert@neut%inv
+kopf@masc%jahrzehnt
 korrektur@fem%meinfem
 kosten@neut%inv
 kostlich@adj%ausreichend
@@ -1149,6 +1151,7 @@ rose@fem%flasche
 rot@adj%ausreichend
 rotgefarbt@adj%ausreichend
 rotlich@adj%ausreichend
+rucken@neut%zeichen
 ruckkehr@neut%inv
 rucksicht@fem%meinfem
 ruhelager@neut%inv
@@ -1165,6 +1168,7 @@ satyr@masc%masc
 satz@masc%ort
 sauberkeit@neut%inv
 schade@neut%inv
+schaf@neut%jahrzehnt
 schar@fem%meinfem
 scharfst@adj%ausreichend
 schauerlich@adj%ausreichend
@@ -1501,6 +1505,7 @@ verwandtschaftich@neut%meinmasc
 verwirrung@fem%meinfem
 verwohnter@adj%ausreichend
 verwegen@adj%ausreichend
+verwegenheit@neut%inv
 verzeichnis@neut%erkenntnis
 verzuckert@adj%inv
 vgl@neut%inv

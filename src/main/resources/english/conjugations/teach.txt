@@ -1,5 +1,5 @@
 IPR=>,,es,,, ,
-AII=>,,ed,,, ,
+AII=>ed,ed,ed,ed,ed,ed,
 AIP=>,,,,, ,
 PAP=>ed
 PAPR=>ing

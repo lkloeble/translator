@@ -168,6 +168,7 @@ feststell,en,[leben]
 feucht,en,[leben],(AII*feucht*feuchte*0)
 find,en,[mochten],(PAP*find*gefunden*0@AIP*find*fand*0)
 fixier,en,[leben]
+fleh,en,[leben]
 flieg,en,[leben]
 flieh,en,[rufen],(AIP*flieh*floh*0)
 fliess,en,[genesen],(PAP*fliess*geflossen*0)
@@ -180,6 +181,7 @@ fug,en,[leben]
 fuhl,en,[leben]
 fuhr,en,[leben]
 full,en,[leben]
+furcht,en,[wenden]
 garantier,en,[leben]
 geb,en,[rufen],(IPR124*geb*gib*0@AIP*geb*gab*0@ASI*geb*gab*0@AIP*geb*gab*0)
 gebar,en,[leben],(IPR12*gebar*gebier*0@PAP*gebar*geboren*0)
@@ -399,6 +401,7 @@ vertrag,en,[leben]
 vertrau,en,[leben]
 verurteil,en,[leben]
 verwahr,en,[leben]
+verwand,eln,[sammeln]
 verwehr,en,[leben]
 verweis,en,[leben],(PAP*verweis*verweist*0)
 vollzieh,en,[rufen],(PAP*vollziehen*vollzogen*0)
