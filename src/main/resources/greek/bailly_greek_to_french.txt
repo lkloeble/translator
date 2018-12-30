@@ -161,6 +161,7 @@
 βηθλεεμ@noun!inv%1(noun)=Bethleem
 βι@prep%1(prep)=bi
 βι@noun!ος-ου%1(noun)=vie
+βιαζ@verb!norm%1(verb)=violer%2(verb)=presser
 βιβλι@noun!ον-ου%1(noun)=livre
 βιβλ@noun!ος-ου%1(noun)=livre
 βλασταν@verb!norm%1(verb)=fairegermer
@@ -260,6 +261,7 @@
 εκκλησι@noun!α-ας%1(noun)=assemblée%2(noun)=église
 εκλειψ@noun!inv%1(noun)=éclipse
 εκλεκτ@adj!ος-η-ον%1(adj)=choisi%2(adj)=élu
+εκπιτν@verb!norm%1(verb)=chuter
 εκπνε@verb!norm%1(verb)=respirer%2(verb)=expirer
 εκπνο@noun!η-ης%1(noun)=expiration
 εκτειν@verb!norm%1(verb)=lever%2(verb)=tendre
@@ -470,6 +472,7 @@
 κοσμ@noun!ος-ου%1(noun)=monde
 κοσμε@verb!norm%1(verb)=arranger
 κοτταλ@noun!ος-ου%1(noun)=kottalos
+κουφοτ@noun!ης-ητος%1(noun)=luminosité
 κρατ@verb!norm%1(verb)=dominer
 κρατουμεν@noun!η-ης%1(noun)=prisonnier
 κριν@verb!norm%1(verb)=séparer,distinguer,choisir%2(verb)=décider,trancher,résoudre,expliquer,interpréter%3(verb)=juger
@@ -488,6 +491,7 @@
 λεγ@verb!norm%1(verb)=dire
 λεγοντ@adj!ος-α-ον%1(noun)=disant
 λεπρ@noun!ος-ου%1(noun)=lépreux
+λεπτομερειαι@noun!inv%1(noun)=particules
 λευκιππ@noun!ος-ου%1(noun)=leucippe
 λιθ@noun!ος-ου%1(noun)=pierre
 λιπαρ@noun!ος-α-ον%1(noun)=huileux%2(noun)=gras
@@ -556,6 +560,7 @@
 νεανι@noun!ας-ου%1(noun)=jeune homme
 νεκρ@adj!ος-α-ον%1(adj)=mort
 νεφελ@noun!η-ης%1(noun)=nuée%2(noun)=nuage
+νεφ@noun!ος-εος%1(noun)=nuage
 νοε@verb!norm%1(verb)=observer
 νομ@noun!ος-ου%1(noun)=loi
 νομιμ@noun!ος-ου%1(noun)=légitime%2(noun)=légal
@@ -595,6 +600,7 @@
 οσ@adj!ος-η-ον%1(adj)=et aussi grand
 οσι@adj!ος-α-ον%1(adj)=pieux
 οστις@prep%1(prep)=quiconque%2(prep)=qui
+οταν@prep%1(prep)=quand%2(prep)=chaque fois que
 οτι@prep%1(prep)=que
 ου@prep%1(prep)=qui%2(prep)=ne
 ουδαμως@prep%1(prep)=en aucune façon
@@ -649,6 +655,7 @@
 πασιν@prep%1(prep)=tous
 πατ@noun!ηρ-ρος%1(noun)=père
 παυλ@noun!ος-ου%1(noun)=paul
+παχ@adj!υς-εια-υ2%1(adj)=gras%2(adj)=gros%3(adj)=large
 παχυν@verb!norm%1(verb)=engraisser
 πειθ@verb!norm%1(verb)=persuader
 πειρασμ@noun!ος-ου%1(noun)=preuve%2(noun)=tentation%3(noun)=épreuve

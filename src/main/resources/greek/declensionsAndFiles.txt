@@ -35,6 +35,7 @@ apas%apas.txt
 ρ-ρος%aer.txt
 ς-τος%xaris.txt
 υς-εια-υ%brad.txt
+υς-εια-υ2%pakus.txt
 ης-ητος%omoiotns.txt
 ης-ης-ες%epieikes.txt
 ων-ων-ον%swprwn.txt
