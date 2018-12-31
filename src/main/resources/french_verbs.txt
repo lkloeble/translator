@@ -385,6 +385,7 @@ humaniser@NORM%[INFINITIVE]=[humaniser]%[IPR]=[humanise,humanises,humanise,human
 identifier@NORM%[INFINITIVE]=[identifier]%[IPR]=[identifie,identifies,identifie,identifions,identifiez,identifient]%[PAP]=[identifié]
 ilfaut@NORM%[INFINITIVE]=[falloir]%[IPR]=[-,-,il faut,-,-,-]%[AII]=[-,-,il fallait,-,-,-]
 illuminer@NORM%[INFINITIVE]=[illuminer]%[IPR]=[illumine,illumines,illumine,illuminons,illuminez,illuminent]%[ASP]=[illumine,illumines,illumine,illuminons,illuminez,illuminent]%[AII]=[illuminais,illuminais,illuminait,illuminions,illuminiez,illuminaient]
+illustrer@NORM%[INFINITIVE]=[illustrer]%[IPR]=[illustre,illustres,illustre,illustrons,illustrez,illustrent]
 imiter@NORM%[INFINITIVE]=[imiter]%[IPR]=[imite,imites,imite,imitons,imitez,imitent]%[PAP]=[imité]%[PAPR]=[imitant]%[AIP]=[imitai,imitas,imita,imitâmes,imitâtes,imitèrent]
 immerger@NORM%[INFINITIVE]=[immerger]%[IPR]=[immerge,immerges,immerge,immergeons,immergez,immergent]%[AIF]=[immergerai,immergeras,immergera,immergerons,immergerez,immergeront]%[AIP]=[immergeai,immergeas,immergea,immergeâmes,immergeâtes,immergèrent]
 impliquer@NORM%[INFINITIVE]=[impliquer]%[IPR]=[implique,impliques,implique,impliquons,impliquez,impliquent]%[PAP]=[impliqué]

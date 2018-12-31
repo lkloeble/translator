@@ -15,6 +15,7 @@ adequate@adj%normmasc
 adorned@adj%invmasc
 advantage@masc%normmasc
 affection@fem%normfem
+affinit@fem%endy
 afraid@fem%invfem
 afternoon@masc%normmasc
 age@neut%normmasc
@@ -63,6 +64,7 @@ artificer@neut%normmasc
 artificial@adj%normmasc
 artificiall@adj%normmasc
 artist@neut%invmasc
+ascalon@neut%invmasc
 ascent@neut%normfem
 ash@neut%church
 ashamed@neut%invmasc

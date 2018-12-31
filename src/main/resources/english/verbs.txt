@@ -194,6 +194,7 @@ hinder,[live]
 hold,[live],(PAP*hold*hel*0)
 hope,[live]
 hurt,[call]
+illustrate,[live]
 imitate,[live],(PAPR*imitatei*imitati*0)
 impl,[imply]
 improve,[live]
