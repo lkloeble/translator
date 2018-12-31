@@ -110,6 +110,7 @@ ein@prep()%[verbLeadingPreposition]
 einerlei@prep()
 einpaar@prep()
 einstweilen@prep()
+empor@prep()
 entgegen@prep()
 entschuldigung@prep()
 er@prep()%!article!

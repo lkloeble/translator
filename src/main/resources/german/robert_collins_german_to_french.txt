@@ -86,6 +86,7 @@ anknupf@verb!norm%1(verb)=rattacher
 ankunft@noun!kunst%1(noun)=arrivée%2(noun)=avènement
 anlehnung@noun!meinmasc%1(noun)=dépendance%2(noun)=modèle
 anm@noun!inv%1(noun)=nb
+annahme@noun!flasche%1(noun)=acceptation
 anruf@verb!norm%1(verb)=appeler
 anrufung@noun!meinfem%1(noun)=invocation%2(noun)=appel
 ans@prep%1(noun)=pour
@@ -567,6 +568,7 @@ empfand@verb!norm%1(verb)=ressentir
 empfind@verb!norm%1(verb)=ressentir
 empfang@verb!norm%1(verb)=concevoir%2(verb)=accueillir%3(verb)=recevoir
 empfehl@verb!norm%1(verb)=recommander
+empor@prep%1(prep)=en haut
 end@noun!inv%1(noun)=final
 ende@noun!flasche%1(noun)=fin
 endemisch@adj!ausreichend%1(adj)=endémique
@@ -633,6 +635,7 @@ ermudet@adj!ausreichend%1(adj)=fatigué
 ermudung@noun!meinfem%1(noun)=fatigue
 erneut@adj!ausreichend%1(adj)=renouvelé
 ernenn@verb!norm%1(verb)=designer
+ernst@noun!jahrzehnt%1(noun)=sérieux
 erprob@verb!norm%1(verb)=essayer
 errat@verb!norm%1(verb)=deviner
 erreg@verb!norm%1(verb)=exciter%2(verb)=susciter
@@ -653,6 +656,7 @@ erz@noun!jahrzehnt%1(noun)=minerai
 erzeig@verb!norm%1(verb)=montrer
 es@prep%1(prep)=la%2(prep)=cela[il]
 erzeug@verb!norm%1(verb)=produire
+erziehung@noun!inv%1(noun)=entrainement
 esgab@prep%1(prep)=il y avait
 esgibt@prep%1(prep)=il y a
 esra@noun!inv%1(noun)=esdras
@@ -1296,6 +1300,7 @@ lied@noun!licht%1(noun)=psaume%2(noun)=chant%3(noun)=chanson
 lieg@verb!norm%1(verb)=reposer
 lieferant@noun!meinmasc%1(noun)=livreur
 lieferung@noun!meinfem%1(noun)=livraison
+linie@noun!flasche%1(noun)=lignée
 limonade@noun!inv%1(noun)=limonade
 literatur@noun!inv%1(noun)=littérature
 lk@noun!inv%1(noun)=lc
@@ -1748,6 +1753,7 @@ schopenhauer@noun!zeichen%1(noun)=schopenhauer
 schopenhauerisch@adj!meinmasc%1(adj)=schopenhauerien
 schopfern@noun!arbeiter%1(noun)=créateur
 schopfung@noun!meinfem%1(noun)=création
+schrecken@noun!arbeiter%1(noun)=terreur
 schreib@verb!norm%1(noun)=ecrire
 schrift@noun!meinfem%1(noun)=écriture
 schriftlich@adj!ausreichend%1(adj)=par écrit
@@ -1990,6 +1996,7 @@ trenn@verb!norm%1(verb)=separer
 treu@adj!ausreichend%1(adj)=fidèle%2(adj)=loyal
 trink@verb!norm%1(verb)=boire
 trocken@noun!ausreichend%1(adj)=sec
+trost@noun!jahrzehnt%1(noun)=réconfort
 trotz@noun!meer%1(noun)=défi
 trotzig@adj!ausreichend%1(adj)=rebelle
 trunk@noun!jahrzehnt%1(noun)=boisson

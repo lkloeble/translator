@@ -61,6 +61,7 @@ ankunft@fem%kunst
 anlehnung@masc%meinmasc
 anm@neut%inv
 anerkennung@fem%meinfem
+annahme@fem%flasche
 anrufung@fem%meinfem
 anschauung@fem%meinfem
 anschein@masc%arbeiter
@@ -371,6 +372,7 @@ erlosung@fem%meinfem
 ermudet@adj%ausreichend
 ermudung@fem%meinfem
 erneut@adj%ausreichend
+ernst@masc%jahrzehnt
 erscheinung@fem%meinfem
 erschopfung@fem%meinfem
 erste@neut%masc
@@ -378,6 +380,7 @@ erstehn@neut%inv
 erstling@neut%inv
 erwartende@adj%ausreichend
 erz@neut%jahrzehnt
+erziehung@fem%inv
 esra@neut%inv
 esras@neut%inv
 essentiell@adj%ausreichend
@@ -850,6 +853,7 @@ lied@neut%licht
 lieferant@masc%meinmasc
 lieferung@fem%meinfem
 limonade@neut%inv
+linie@fem%flasche
 literatur@neut%inv
 lk@neut%inv
 logik@fem%meinfem
@@ -1203,6 +1207,7 @@ schopenhauer@neut%zeichen
 schopenhauerisch@adj%meinmasc
 schopfern@masc%arbeiter
 schopfung@fem%meinfem
+schrecken@masc%arbeiter
 schrift@fem%meinfem
 schriftlich@adj%ausreichend
 schritt@masc%jahrzehnt
@@ -1374,6 +1379,7 @@ traumgesicht@neut%licht
 trauertag@neut%inv
 traurig@adj%inv
 treu@adj%ausreichend
+trost@masc%jahrzehnt
 trotz@masc%meer
 trotzig@adj%ausreichend
 trocken@adj%ausreichend
