@@ -144,6 +144,7 @@ assevero@verb!norm%1(verb)=demontrer%2(verb)=affirmer
 assyri@noun!us-i%1(noun)=assyrien
 atlantic@adj!us-a-um%1(adj)=atlantique
 at@prep%1(conj)=au contraire%2(conj)=quant a%3(conj)=et pourtant,et qui plus est%4(conj)=mais
+atqui@prep%1(conj)=mais
 atrament@noun!um-i%1(noun)=encre
 atri@noun!um-i%1(noun)=entrée romaine
 attingo@verb!norm%1(verb)=concerner%2(verb)=affecter%3(verb)=approcher%4(verb)=toucher
@@ -849,6 +850,7 @@ latissim@adj!us-a-um%1(noun)=le plus large
 latitud@noun!o-inis%1(noun)=largeur
 latobrig@noun!us-i%1(noun)=latobrige
 lat@noun!us-eris%1(noun)=flanc%2(noun)=côté
+lateo@verb!norm%1(verb)=cacher
 laudat@adj!us-a-um%1(noun)=loué
 laudo@verb!norm%1(verb)=louer, approuver, proner, vanter%2(verb)=vanter, faire valoir%3(verb)=faire une deposition elogieuse envers quelqu'un%4(verb)=prononcer un eloge funebre%5(verb)=louer
 leander@noun!inv%1(noun)=leander
@@ -906,6 +908,7 @@ mai@adj!or-or-us%1(adj)=plus grand
 maj@adj!or-or-us%1(adj)=plus grand
 mal@adj!us-a-um%1(adj)=malheureux,funeste%2(adj)=mechant,malin%3(adj)=le diable, le malin (christianisme)%4(adj)=mauvais
 maledico@verb!norm%1(verb)=maudire
+malefici@noun!um-i%1(noun)=crime
 malo@verb!norm%1(verb)=preferer
 mamm@noun!a-ae%1(noun)=maman
 man@noun!us-us%1(noun)=main
@@ -936,6 +939,7 @@ mei@prep%1(prep)=mes
 meis@prep%1(prep)=mes
 melit@noun!a-ae%1(noun)=malte
 memoro@verb!o-as%1(verb)=sesouvenir
+metuo@verb!o-as%1(verb)=avoirpeur
 men@noun!s-tis2%1(noun)=esprit
 mens@noun!a-ae%1(noun)=autel%2(noun)=table
 mens@adj!us-a-um%1(noun)=mois
@@ -1220,6 +1224,7 @@ praeterea@prep%1(prep)=en outre
 preti@noun!um-i%1(noun)=punition%2(noun)=valeur%3(noun)=prix
 pretios@adj!us-a-um%1(adj)=coûteux%2(adj)=précieux
 prim@adj!us-a-um%1(adj)=le plus en avant, le plus avance, le premier%2(adj)=le premier rang%3(adj)=le plus important, le principal%4(adj)=la premiere partie, le commencement%5(adj)=premier
+princip@adj!s-s-s2%1(adj)=premier
 principi@noun!um-i%1(noun)=ce qui commence%2(noun)=fondement,origine%3(noun)=commencement
 principat@noun!us-us%1(noun)=suprématie%2(noun)=leadership%3(noun)=règle%4(noun)=première place
 prius@prep%1(prep)=précédemment

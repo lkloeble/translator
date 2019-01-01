@@ -570,6 +570,7 @@ magnific@adj%us-a-um
 mai@adj%or-or-us
 maj@adj%or-or-us
 mal@adj%us-a-um
+malefici@neut%um-i
 mamm@fem%a-ae
 mandat@neut%um-i
 man@fem%us-us
@@ -779,6 +780,7 @@ praenuntiat@adj%us-a-um
 preti@neut%um-i
 pretios@adj%us-a-um
 prim@adj%us-a-um
+princip@adj%s-s-s2
 principat@masc%us-us
 principi@neut%um-i
 privat@adj%us-a-um

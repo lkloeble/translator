@@ -49,6 +49,7 @@ amtsbezeichnung@fem%inv
 analytisch@adj%ausreichend
 anarchisch@adj%ausreichend
 ander@adj%ausreichend
+andeutung@fem%meinfem
 andre@adj%masc
 andrer@adj%masc
 anfang@masc%norm
@@ -628,6 +629,7 @@ hauptmasse@neut%inv
 hauptstadt@fem%flasche
 hauptwasser@neut%inv
 haus@neut%licht
+hebraer@neut%inv
 hebraisch@adj%ausreichend
 heer@neut%meer
 heide@fem%flasche
@@ -656,6 +658,7 @@ herrlichkeit@fem%meinfem
 herrschaft@fem%meinfem
 herrscher@masc%arbeiter
 herstellung@fem%meinfem
+hervorragend@adj%ausreichend
 herz@neut%herz
 herzlich@masc%meinmasc
 heute@neut%inv
@@ -1650,6 +1653,7 @@ zucht@fem%meinfem
 zuchtrute@fem%flasche
 zug@masc%jahrzehnt
 zuganglich@adj%meinmasc
+zugehorig@adj%ausreichend
 zugehorigkeit@fem%meinfem
 zugrunde@fem%flasche
 zunge@fem%flasche

@@ -233,6 +233,7 @@ compilation@fem%normfem
 complaint@fem%normfem
 complete@adj%normmasc
 compound@neut%invmasc
+computation@neut%normmasc
 computer@neut%normmasc
 conception@fem%normfem
 concert@neut%normmasc
@@ -433,6 +434,7 @@ external@adj%normmasc
 extremit@fem%endy
 eye@masc%normmasc
 ezekiel@masc%invmasc
+ezra@masc%invmasc
 face@masc%normmasc
 facing@neut%invmasc
 famed@adj%invmasc
@@ -707,6 +709,7 @@ lawes@neut%invmasc
 lawful@adj%invmasc
 lazy@adj%invmasc
 leader@neut%normmasc
+league@neut%normmasc
 lean@adj%invmasc
 learning@neut%normmasc
 leave@fem%normfem
@@ -1090,6 +1093,7 @@ scripture@fem%normfem
 sea@fem%normfem
 seaman@masc%normmasc[nomplr:seamen]
 searcher@masc%normmasc
+seashore@masc%normmasc
 season@fem%normfem
 seat@neut%normmasc
 sectar@neut%endy

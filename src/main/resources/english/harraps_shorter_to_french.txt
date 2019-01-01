@@ -363,6 +363,7 @@ compose@verb!norm%1(verb)=composer
 comprehend@verb!norm%1(verb)=comprendre
 comprise@verb!norm%1(verb)=constituer
 compound@noun!invmasc%1(noun)=composé
+computation@noun!normmasc%1(noun)=calcul
 compute@verb!norm%1(verb)=calculer
 computer@noun!normmasc%1(noun)=ordinateur
 conceive@verb!norm%1(verb)=concevoir
@@ -655,6 +656,7 @@ external@adj!normmasc%1(adj)=externe
 extremit@noun!endy%1(fem)=extrémité
 eye@noun!normmasc%1(noun)=oeil
 ezekiel@noun!invmasc%1(noun)=ezekiel
+ezra@noun!invmasc%1(noun)=esdras
 far@prep%1(prep)=loin
 face@verb!norm%1(verb)=confronter
 face@noun!normmasc%1(noun)=face%2(noun)=visage
@@ -1039,6 +1041,7 @@ lay@verb!norm%1(verb)=reposer
 lazy@noun!invmasc%1(noun)=fainéant
 lead@verb!norm%1(verb)=diriger
 leader@noun!normmasc%1(noun)=guide
+league@noun!normmasc%1(noun)=lieue%2(noun)=ligue
 lean@adj!invmasc%1(adj)=maigre
 learn@verb!norm%1(verb)=apprendre
 learning@noun!normmasc%1(noun)=apprentissage
@@ -1579,6 +1582,7 @@ scripture@noun!normfem%1(noun)=écriture
 sea@noun!normmasc%1(noun)=mer
 seaman@noun!normmasc%1(noun)=pêcheur%2(noun)=marin
 searcher@noun!normmasc%1(noun)=explorateur%2(noun)=chercheur
+seashore@noun!normmasc%1(noun)=rivage
 seat@verb!norm%1(verb)=sasseoir
 sectar@noun!endy%1(noun)=sectaire
 sedgy@adj!invmasc%1(adj)=énervé

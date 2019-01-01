@@ -70,7 +70,7 @@ comprehend,o,is,ere,,,[o-is]
 con,or,aris,ari,,,[or-aris]
 concili,o,as,are,,,[o-as]
 concip,io,is,ere,,,[io-is],(AIPP*concip*concep*0@AIP*concip*concep*0@IAPP1245*concip*concep*0)
-cond,o,is,ere,,,[o-is],(AIP*cond*condid*0)
+cond,o,is,ere,,,[o-is],(AIP*cond*condid*0@AIPP*cond*condid*0)
 conduc,o,is,ere,,,[o-is],(AIP*conduc*condux*0)
 confer,o,s,re,tuli,latum,[o-s],(AIP*confer*contul*0)
 confirm,o,as,are,,,[o-as]
@@ -207,6 +207,7 @@ iter,o,as,are,,,[o-as]
 iub,eo,es,ere,,,[eo-es]
 jactit,o,as,are,,,[o-as]
 labor,o,as,are,,,[o-as]
+lat,eo,es,ere,,,[eo-es]
 laud,o,as,are,avi,atum,[o-as]
 leg,o,is,ere,,,[o-is],(ASPP*leg*legiss*0)
 liber,o,as,are,,,[o-as]
@@ -219,6 +220,7 @@ man,eo,es,ere,ui,itum,[eo-es]
 mand,o,as,are,,,[o-as]
 matur,o,as,are,,,[o-as]
 memor,o,as,are,,,[o-as]
+metu,o,is,ere,,,[o-is]
 misc,eo,es,ere,ui,itum,[eo-es]
 mitt,o,is,ere,,,[o-is]
 moder,o,as,are,,,[o-as],(PSI*moder*moderar*0)

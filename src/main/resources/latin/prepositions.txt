@@ -13,6 +13,7 @@ ante@prep()%[electAccusativeForFollowingNoun]
 antequam@prep()
 apud@prep()
 at@prep()
+atqui@prep()
 aut@prep()
 autem@prep()
 breviter@prep()

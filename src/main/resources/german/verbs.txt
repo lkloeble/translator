@@ -25,6 +25,7 @@ aufputz,en,[pflanzen]
 aufricht,en,[segnen]
 aufstell,en,[leben],(PAP*aufstell*aufgestellt*0)
 auftret,en,[leben]
+ausbreit,en,[segnen]
 aufwachs,en,[genesen]
 auswahl,en,[leben],(PAP*auswahl*ausgewahlt*0)
 aufzieh,en,[leben],(PAP*aufzieh*aufgezogen*0)
@@ -99,7 +100,7 @@ darbiet,en,[mochten](AIP*darbiet*darbot*0)
 darf,en,[wollen]
 darleg,en,[leben]
 dasteh,en,[stehen],(AIP*dasteh*dastand*0)
-denk,en,[leben],(PAPR*denk*denkend*0@AII*denk*dach*0)
+denk,en,[leben],(PAPR*denk*denkend*0@AII*denk*dach*0@PAP*denk*gedacht*0)
 denunzier,en,[leben]
 deut,en,[mochten],(PAP*deut*gedeutet*0)
 dien,en,[leben]
@@ -161,6 +162,7 @@ fall,en,[rufen],(AIP*fall*fiel*0@PAP*fall*gefallen*0)
 fang,en,[leben]
 fass,en,[leben],(PAP*fass*gefasst*0)
 fast,en,[segnen]
+fehl,en,[leben]
 feier,n,[feiern]
 festhalt,en,[gelten]
 feststeh,en,[stehen]
@@ -433,7 +435,7 @@ zerreiss,en,[genesen],(PAP*zerreiss*zerrissen*0)
 zerstor,en,[leben]
 zerstreu,en,[leben]
 zieh,en,[rufen],(PAP*ziehen*gezogen*0@AIP*zieh*zog*0)
-zulass,en,[lassen],(PAP*zulassen*zugelassen*0)
+zulass,en,[lassen],(PAP*zulassen*zugelassen*0@AIP*zulass*zuliess*0)
 zumach,en,[leben]
 zuruckfuhr,en,[leben],(PAP*zuruckfuhr*zuruckgefuhrt*0)
 zurucklass,en,[lassen],(PAP*zurucklassen*zuruckgelassen*0)
