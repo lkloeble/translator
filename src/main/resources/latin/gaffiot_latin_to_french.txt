@@ -39,6 +39,7 @@ adjungo@verb!norm%1(verb)=ajouter
 adjuvo@verb!norm%1(verb)=aider
 adhuc@prep%1(prep)=jusqu'à maintenant
 adorand@adj!us-a-um%1(adj)=adoré
+adorati@noun!o-onis%1(noun)=adoration
 adoro@verb!norm%1(verb)=admirer%2(verb)=adorer%3(verb)=accuser%4(verb)=negocier
 adscisco@verb!norm%1(verb)=persuader
 adiutor@noun!x-is2%1(noun)=aide
@@ -250,6 +251,7 @@ cito@prep%1(prep)=bientôt%2(prep)=rapidement
 civit@noun!as-atis%1(noun)=citoyen
 clar@adj!us-a-um%1(adj)=clair,brillant%2(adj)=glorieux,fameux%3(adj)=célèbre
 claudia@noun!inv%1(noun)=claudia
+claudi@noun!us-i%1(noun)=claude
 clemen@noun!s-tis%1(noun)=clément
 cler@noun!us-i%1(noun)=clergé
 clien@noun!s-tis2%1(noun)=client
@@ -382,6 +384,7 @@ debeo@verb!norm%1(verb)=devoir
 debit@noun!um-i%1(noun)=dette
 decem@noun!inv%1(noun)=dix
 decerto@verb!norm%1(verb)=combattre
+decret@noun!um-i%1(noun)=décret
 defect@noun!us-us%1(noun)=échec
 deficio@verb!norm%1(verb)=gaspiller%2(verb)=perdre
 definiti@noun!o-onis%1(noun)=définition
@@ -404,6 +407,7 @@ desino@verb!norm%1(verb)=cesser%2(noun)=stopper
 despect@adj!us-a-um%1(adj)=dédaigné%2(adj)=méprisé
 detriment@noun!um-i%1(noun)=détriment
 desideri@noun!um-i%1(noun)=besoin%2(noun)=regret%3(noun)=désir
+devincio@verb!norm%1(verb)=contraindre
 dexter@noun!a-ae%1(noun)=main droite
 di@noun!es-ei%1(noun)=jour
 diabol@noun!us-i%1(noun)=Diable
@@ -483,6 +487,7 @@ efficio@verb!norm%1(verb)=devenir
 effus@adj!us-a-um%1(adj)=répandu
 egredor@verb!norm%1(verb)=sortir
 ei@prep%1(prep)=à elle
+eidem@prep%1(prep)=même
 eis@prep%1(prep)=eux
 eius@prep%1(prep)=son
 ejus@prep%1(prep)=son
@@ -504,6 +509,7 @@ episcop@noun!us-i%1(noun)=inspecteur des marches%2(noun)=eveque
 epistol@noun!a-ae%1(noun)=courrier,missive,depeche%2(noun)=lettre
 equ@noun!us-i%1(noun)=cheval
 ereb@noun!us-i%1(noun)=démon érébus
+erect@adj!us-a-um%1(adj)=érigé
 ergo@prep%1(prep)=parce que%2(prep)=donc
 erigo@verb!norm%1(verb)=stimuler%2(verb)=construire,ériger%3(verb)=elever
 eripio@verb!norm%1(verb)=secourir
@@ -676,6 +682,7 @@ hodie@noun!inv%1(noun)=aujourd'hui
 homer@noun!us-i%1(noun)=homère
 homi@noun!x-nis%1(noun)=homme%2(noun)=personne%3(noun)=humain
 homo@noun!inv%1(noun)=homme%2(noun)=personne%3(noun)=humain
+honor@noun!x-is2%1(noun)=honneur
 hor@noun!a-ae%1(noun)=l'heure,le temps,le moment%2(noun)=horloge%3(noun)=heures de prieres (christianisme)%4(noun)=heure
 hort@noun!us-i%1(noun)=jardin
 hortor@verb!norm%1(verb)=encourager%2(verb)=exhorter
@@ -719,6 +726,7 @@ imbuo@verb!norm%1(verb)=humidifer%2(verb)=tremper%3(verb)=mouiller
 immutat@adj!us-a-um%1(adj)=transformé
 impendeo@verb!norm%1(verb)=menacer%2(verb)=dominer
 impendo@verb!norm%1(verb)=depenser
+imperan@adj!s-s-s%1(adj)=gouvernant
 imperi@noun!um-i%1(noun)=empire
 impero@verb!norm%1(verb)=commander
 impi@adj!us-a-um%1(noun)=maudit%2(noun)=impie
@@ -774,6 +782,7 @@ inquie@adj!s-tis%1(noun)=non tranquille
 inrigan@adj!s-tis%1(adj)=irriguant
 inrigo@verb!norm%1(verb)=irriguer
 inscribo@verb!norm%1(verb)=inscrire
+inscripti@noun!o-onis%1(noun)=inscription
 inspiro@verb!norm%1(verb)=souffler
 instituend@adj!us-a-um%1(adj)=institué
 institut@noun!um-i%1(noun)=habitude%2(noun)=institution%3(noun)=coutûme
@@ -1188,7 +1197,7 @@ poen@noun!a-ae%1(noun)=punition
 poet@noun!a-ae%1(noun)=poêtes
 pomif@adj!er-era-erum%1(adj)=porteur de fruit
 pono@verb!norm%1(verb)=établir%2(verb)=placer%3(verb)=ordonner
-pon@noun!s-tis%1(noun)=pont
+pon@noun!s-tis2%1(noun)=pont
 porro@prep%1(prep)=à partir de cela
 popul@noun!us-i%1(noun)=peuple (constituant une cite ou un etat)%2(noun)=le peuple (par opposition au senat a rome)%3(noun)=les gens, le monde%4(noun)=canton, region%5(noun)=peuplier%6(noun)=peuple
 porto@verb!norm%1(verb)=porter
@@ -1488,6 +1497,7 @@ spero@verb!norm%1(verb)=esperer
 spiracul@noun!um-i%1(noun)=souffle
 spirit@noun!us-i%1(noun)=air (respire)%2(noun)=vie,soupir%3(noun)=odeur,suffisance,arrogance%4(noun)=esprit,ame%5(noun)=le saint esprit (christianisme)%6(noun)=souffle
 spuri@adj!us-a-um%1(adj)=faux%2(adj)=illégitime
+statu@noun!a-ae%1(noun)=statue
 statut@adj!us-a-um%1(adj)=établi
 stell@noun!a-ae%1(noun)=planète%2(noun)=étoile
 statim@prep%1(prep)=soudain%2(prep)=immédiatement
@@ -1511,11 +1521,13 @@ successor@noun!x-is2%1(noun)=successeur
 sui@prep%1(prep)=lui-même
 sum@verb!irrg%1(verb substantif)=etre%2(verb substantif)=etre dans un lieu%3(verb substantif)=etre reellement%4(verb substantif + datif)=appartenir a, s'appliquer a%5(verbe)=etre
 summ@noun!a-ae%1(noun)=sommet
+summ@adj!us-a-um%1(adj)=le plus haut
 sumo@verb!norm%1(verb)=charmer%2(verb)=adopter%3(verb)=utiliser%4(verb)=obtenir%5(verb)=sélectionner%6(verb)=commencer%7(verb)=prendre
 sumpt@adj!us-a-um%1(adj)=acheté%2(adj)=sélectionné%3(adj)=effectué%4(adj)=supposé%5(adj)=tiré
 super@prep%1(adv)=par dessus,en plus%2(prep + acc)=au dessus%3(prep + abl)=sur%4(prep)=sur
 superfici@noun!es-ei%1(fem)=à la surface
 supern@adj!us-a-um%1(adj)=céleste%2(adj)=paradisiaque
+suprem@adj!us-a-um%1(adj)=le plus grand
 supero@verb!norm%1(verb)=surmonter
 superstitio@noun!x-nis%1(noun)=superstition
 supposititi@adj!us-a-um%1(adj)=supposé

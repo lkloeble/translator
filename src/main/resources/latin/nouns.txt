@@ -17,6 +17,7 @@ adipat@neut%um-i
 adiutori@neut%um-i
 adferen@masc%s-tis
 adorand@adj%us-a-um
+adorati@fem%o-onis
 adult@adj%us-a-um
 adiutor@masc%x-is2
 adventarit@neut%inv
@@ -171,6 +172,7 @@ cibari@adj%us-a-um
 civit@fem%as-atis
 clar@adj%us-a-um
 claudia@fem%inv
+claudi@masc%us-i
 clemen@masc%s-tis
 cler@masc%us-i
 clien@masc%s-tis2
@@ -244,6 +246,7 @@ de@masc%us-i[nomplr:dii]
 debacchat@adj%us-a-um
 debit@neut%um-i
 decem@neut%inv
+decret@neut%um-i
 defect@masc%us-us
 definiti@fem%o-onis
 delaps@adj%us-a-um
@@ -307,6 +310,7 @@ episcop@masc%us-i
 epistol@fem%a-ae
 equ@masc%us-i
 ereb@masc%us-i
+erect@adj%us-a-um
 erran@adj%s-s-s
 error@masc%x-is2
 esc@fem%a-ae
@@ -423,6 +427,7 @@ hodie@neut%inv
 homer@neut%us-i
 homi@masc%x-nis
 homo@masc%inv
+honor@masc%x-is2
 hor@fem%a-ae
 hort@masc%us-i
 host@masc%is-is
@@ -442,6 +447,7 @@ ill@adj%e-a-ud
 im@adj%us-a-um
 imag@fem%o-inis
 immutat@adj%us-a-um
+imperan@adj%s-s-s
 imperi@masc%um-i
 impi@adj%us-a-um
 impluvi@neut%um-i
@@ -474,6 +480,7 @@ innocenti@fem%a-ae
 innumer@adj%us-a-um
 inquie@adj%s-tis
 inrigan@adj%s-tis
+inscripti@fem%o-onis
 instituend@adj%us-a-um
 institut@neut%um-i
 insul@fem%a-ae
@@ -760,7 +767,7 @@ plurim@adj%us-a-um
 poen@fem%a-ae
 poet@fem%a-ae
 pomif@adj%er-era-erum
-pon@masc%s-tis
+pon@masc%s-tis2
 popul@masc%us-i
 port@fem%a-ae
 portatur@adj%us-a-um
@@ -927,6 +934,7 @@ speci@fem%es-ei
 spiracul@neut%um-i
 spirit@masc%us-i
 spuri@adj%us-a-um
+statu@fem%a-ae
 statut@adj%us-a-um
 stell@fem%a-ae
 stephan@masc%us-i
@@ -937,8 +945,10 @@ studi@neut%um-i
 suav@adj%is-is-e
 successor@masc%x-is2
 summ@fem%a-ae
+summ@adj%us-a-um
 superfici@fem%es-ei
 supern@adj%us-a-um
+suprem@adj%us-a-um
 su@adj%us-a-um
 subeund@adj%us-a-um
 sublat@adj%us-a-um
