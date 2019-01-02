@@ -269,6 +269,7 @@ counselor@masc%normmasc
 count@masc%endy
 countenance@fem%normfem
 countr@neut%endy
+countryman@masc%custom(plr=countrymen)
 course@neut%normmasc
 covenant@neut%normmasc
 covering@neut%normmasc
@@ -433,6 +434,7 @@ extent@neut%invmasc
 external@adj%normmasc
 extremit@fem%endy
 eye@masc%normmasc
+eyewitness@masc%church
 ezekiel@masc%invmasc
 ezra@masc%invmasc
 face@masc%normmasc
@@ -452,6 +454,7 @@ favourite@adj%normmasc
 fear@neut%normmasc
 feare@neut%normmasc
 female@fem%normfem
+festival@neut%normmasc
 fiction@fem%normfem
 field@neut%normmasc
 fiery@adj%invmasc
@@ -1314,6 +1317,7 @@ vagabond@neut%normmasc
 vale@neut%normmasc
 valid@adj%normmasc
 valley@neut%normmasc
+venerable@adj%invmasc
 vengeance@neut%normmasc
 verse@neut%normmasc
 version@neut%normmasc

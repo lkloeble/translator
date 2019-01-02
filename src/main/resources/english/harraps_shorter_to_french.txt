@@ -416,6 +416,7 @@ counselor@noun!normmasc%1(noun)=conseiller
 count@noun!endy%1(noun)=comté
 countenance@noun!normfem%1(noun)=expression du visage
 countr@noun!endy%1(noun)=pays
+countryman@noun!custom(plr=countrymen)%1(noun)=compatriote
 course@noun!normmasc%1(noun)=cours
 covenant@noun!normmasc%1(noun)=alliance
 cover@verb!norm%1(verb)=couvrir
@@ -655,6 +656,7 @@ extent@noun!invmasc%1(noun)=étendue
 external@adj!normmasc%1(adj)=externe
 extremit@noun!endy%1(fem)=extrémité
 eye@noun!normmasc%1(noun)=oeil
+eyewitness@noun!church%1(noun)=témoin oculaire
 ezekiel@noun!invmasc%1(noun)=ezekiel
 ezra@noun!invmasc%1(noun)=esdras
 far@prep%1(prep)=loin
@@ -680,6 +682,7 @@ feare@noun!normmasc%1(noun)=peur
 feed@verb!norm%1(verb)=nourrir
 feign@verb!norm%1(verb)=feindre%2(verb)=simuler
 female@noun!normmasc%1(noun)=femelle
+festival@noun!normmasc%1(noun)=festival%2(noun)=fête
 fetch@verb!norm%1(verb)=chercher%2(verb)=recuperer
 few@prep%1(prep)=peu
 fiction@noun!normfem%1(noun)=fiction
@@ -1939,6 +1942,7 @@ vale@noun!normmasc%1(noun)=vallée
 valid@adj!normmasc%1(adj)=valide
 valley@noun!normmasc%1(noun)=vallée
 vary@verb!norm%1(verb)=varier
+venerable@adj!invmasc%1(adj)=venerable
 vengeance@noun!normmasc%1(noun)=vengence
 verse@noun!normmasc%1(noun)=verset
 version@noun!normmasc%1(noun)=version
