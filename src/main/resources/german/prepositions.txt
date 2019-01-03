@@ -109,6 +109,7 @@ eilends@prep()
 ein@prep()%[verbLeadingPreposition]
 einerlei@prep()
 einpaar@prep()
+einstmals@prep()
 einstweilen@prep()
 empor@prep()
 entgegen@prep()

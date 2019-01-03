@@ -318,6 +318,7 @@ einmischung@fem%meinfem
 eins@masc%inv
 eintrittskarte@neut%flasche
 einzig@adj%ausreichend
+einzigst@adj%ausreichend
 einzusenden@neut%inv
 elias@masc%inv
 england@neut%inv
@@ -565,6 +566,7 @@ geschichte@fem%flasche
 gesetz@neut%meer
 gesetzlich@adj%ausreichend
 gesinnung@fem%meinfem
+gestalt@fem%meinfem
 gestiegen@adj%ausreichend
 gesund@neut%inv
 gesundheit@fem%norm
@@ -704,6 +706,7 @@ intellektuell@adj%ausreichend
 interesse@fem%flasche
 interessant@adj%norm
 international@adj%ausreichend
+interpolation@fem%inv
 ironie@fem%inv
 ironiker@neut%inv
 irrenarzte@neut%inv
@@ -857,6 +860,7 @@ lieferant@masc%meinmasc
 lieferung@fem%meinfem
 limonade@neut%inv
 linie@fem%flasche
+lippe@fem%flasche
 literatur@neut%inv
 lk@neut%inv
 logik@fem%meinfem
@@ -1203,7 +1207,7 @@ schlussel@neut%inv
 schlussfolgerung@fem%meinfem
 schlusssatz@fem%inv
 schmerz@masc%schmerz
-schon@adj%inv
+schon@adj%ausreichend
 schonheit@fem%meinfem
 schonst@adj%ausreichend
 schopenhauer@neut%zeichen
@@ -1240,6 +1244,7 @@ sechst@adj%ausreichend
 sechzehn@neut%inv
 seele@fem%flasche
 segnung@fem%meinfem
+sehnsuchtigst@adj%ausreichend
 sekretarin@fem%inv
 selbstandig@adj%ausreichend
 selig@adj%ausreichend
@@ -1299,6 +1304,7 @@ statthalter@masc%arbeiter
 stelle@fem%meinfem
 stern@masc%meer
 stier@masc%meer
+stillstehn@fem%inv
 stimme@fem%flasche
 stoff@neut%meer
 stolz@adj%norm
@@ -1537,6 +1543,7 @@ voraussetzung@fem%meinfem
 vorbild@neut%meer
 vorchristl@neut%inv
 vorfahre@masc%flasche
+vorgang@masc%jahrzehnt
 vorgeblich@adj%ausreichend
 vorgelegt@adj%ausreichend
 vorhanden@adj%ausreichend
@@ -1642,6 +1649,7 @@ zerspalten@fem%angst
 zerstorung@fem%meinfem
 zerstreuung@fem%meinfem
 zeugnis@neut%erkenntnis
+ziehn@neut%inv
 zigarette@fem%flasche
 zimmer@fem%inv
 zion@neut%inv

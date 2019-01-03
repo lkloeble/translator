@@ -140,6 +140,7 @@ erhor,en,[leben],(PAPR*erhor*erhorend*0)
 erinner,en,[mochten]
 erkenn,en,[leben],(PAP*erke*erka*0)
 erkies,en,[genesen],(PAP*erkies*erkoren*0)
+erklar,en,[leben]
 erlaub,en,[leben]
 erlos,en,[leben]
 ermang,en,[sammeln]

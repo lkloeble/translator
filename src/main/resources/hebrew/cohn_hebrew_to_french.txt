@@ -22,6 +22,7 @@ a'hrim@prep%1(prep)=autres
 a58'h61r60im000@prep%1(prep)=autres
 a62'h64d@noun!empty%1(noun)=un
 a63'h63t@noun!empty%1(noun)=une
+aikh@noun!invpur%1(noun)=lamentations (livre biblique)
 akilt@noun!invpur%1(noun)=manger
 ailk000@prep%1(prep)=désormais
 ain@prep%1(prep)=il n'y a pas
@@ -44,6 +45,7 @@ aliyzr@noun!invmasc%1(noun)=éliezer
 alyzr@noun!invmasc%1(noun)=élazar
 amh@noun!custom(nomsg=amh|cst(nomsg)=amt|nomplr=a67mw331t)%1(noun)=peuple
 amn@verb!norm%1(verb)=faireconfiance
+amnim@noun!invpur%1(noun)=ceux qui sont élevés
 amr@verb!norm%1(verb)=dire
 aw331r@noun!invfem%1(noun)=flamme,feu%2(noun)=lumière
 awrita@noun!invpur%1(noun)=torah
@@ -102,6 +104,7 @@ bin000@prep%1(prep)=entre
 b61in000@prep%1(prep)=entre
 bit@noun!im%1(noun)=maison
 bk@prep%1(prep)=en toi
+bkm@prep%1(prep)=en nous
 b62n000@noun!im-ot%1(noun)=fils
 bnw@prep%1(prep)=en nous
 b64nw309@prep%1(prep)=en nous
@@ -145,6 +148,7 @@ dsa@verb!norm%1(verb)=verdir
 h@prep%1(prep)=le[les,la]
 h?q@prep%1(prep)=ainsi soit-il
 h59@prep%1(prep)=le[les,la]
+hayyimtyrer@noun!invpur%1(noun)=Hayyim ben Solomon Tyrer (rabbin hassidique)
 hwsyih@noun!invpur%1(noun)=hoshaya
 h62m000@prep%1(prep)=eux
 hm@prep%1(prep)=eux
@@ -179,6 +183,7 @@ w@prep%1(prep)=et
 w56@prep%1(prep)=et
 w63@prep%1(prep)=et
 w309@prep%1(prep)=et
+wgw'@prep%1(prep)=etc
 wkw'@prep%1(prep)=etc
 wtrin@adj!im-ot%1(adj)=permis
 z@prep%(prep)=zayin
@@ -309,6 +314,7 @@ lkt@noun!invmasc%1(noun)=départ
 lqrwth@noun!invmasc%1(noun)=lire comme
 lpninw@prep%1(prep)=devant nous
 lpnih@prep%1(prep)=devant elle
+lpymim@prep%1(prep)=parfois
 lq'h@verb!norm%1(verb)=prendre
 lsxim000@noun!invpur%1(noun)=brigand
 lsxin000@noun!invpur%1(noun)=brigand
@@ -325,6 +331,7 @@ mdrs@noun!im%1(noun)=midrash
 mawr@noun!custom(nomsg=mawr|nomplr=mart)%1(noun)=luminaire
 mawr@noun!ot%1(noun)=repaire
 mwyd@noun!im%1(noun)=fête
+mx@noun!ot%1(noun)=lit
 mh@prep%1(prep)=quoi
 m63h@prep%1(prep)=quoi
 m64h@prep%1(prep)=quoi
@@ -394,6 +401,7 @@ prs@verb!norm%1(verb)=interpreter
 prq@noun!im%1(noun)=section
 psd@verb!norm%1(verb)=perdre
 pswq@noun!im%1(noun)=verset%2(noun)=passage
+pti'h@noun!ot%1(noun)=ouverture
 pt'h@verb!norm%1(verb)=ouvrir
 tsat@noun!invpur%1(noun)=sortie
 tsdq@noun!im%1(noun)=justice
@@ -402,6 +410,7 @@ ts63d60iq@adj!im-ot%1(adj)=juste
 tsny@verb!norm%1(verb)=cacher
 qai@prep%1(prep)=(expre intraduisible :fait référence à)
 qdmt@noun!im%1(noun)=introduction
+qds@adj!im-ot%1(noun)=saint
 q64dw331s298@adj!im-ot%1(noun)=saint
 qdm@verb!norm%1(verb)=preceder
 qwdm@prep%1(prep)=d'abord
@@ -428,9 +437,11 @@ y60ir@noun!custom(nomplr=yrim|cst(nomplr)=yri&dir(nomsg)=yirh|nomsg=y60ir)%1(nou
 ybir@noun!ot%1(noun)=crime%2(noun)=péché%3(noun)=transgression
 yd@prep%1(prep)=jusqu'à
 y63d@prep%1(prep)=jusqu'à
+ydiin000@prep()%1(prep)=toujours
 ywlm@noun!im%1(noun)=globe%2(noun)=terre%2(noun)=monde
 yzrih@noun!invpur%1(noun)=azarya
 yl@prep%1(prep)=en faveur de%2(prep)=au dessus de%3(noun)=sur
+yli@prep%1(prep)=en faveur de%2(prep)=au dessus de%3(noun)=sur
 y63l@prep%1(prep)=en faveur de%2(prep)=au dessus de%3(noun)=sur
 ybd@verb!norm%1(verb)=servir
 ybr@verb!norm%1(verb)=traverser
@@ -439,6 +450,7 @@ yliw@prep%1(prep)=sur lui
 ylinw@prep%1(prep)=sur nous
 ylh@verb!norm%1(verb)=grandir%2(verb)=couter%3(verb)=selever
 ylpiexpr@prep%1(prep)=selon
+ypiexpr@prep%1(prep)=selon
 ymd@verb!norm%1(verb)=lever
 y64p64r@noun!im-fem%1(noun)=jeune daim%2(noun)=gris,cendré%3(noun)=poussière
 ym@prep%1(prep)=avec
@@ -473,6 +485,7 @@ rah@verb!norm%1(noun)=apparaitre%2(verb)=voir
 rdp@verb!norm%1(noun)=suivre
 rbh@noun!invpur%1(noun)=grand
 rbi@noun!invmasc%1(noun)=rabbi
+r56b60iy60i@noun!invmasc%1(noun)=quatrième
 rbn@noun!invmasc%1(noun)=rabban
 rbta@noun!invpur%1(noun)=important
 rgil@adj!im-ot%1(adj)=habituel
@@ -520,7 +533,7 @@ smy@noun!invmasc%1(noun)=shema
 smy@verb!norm%1(verb)=entendre
 smywni@noun!invpur%1(noun)=shimoni
 smr@verb!norm%1(verb)=garder
-sms@noun!ot%1(noun)=chandelle%2(noun)=serviteur%3(noun)=soleil
+sms@noun!ot2%1(noun)=chandelle%2(noun)=serviteur%3(noun)=soleil
 sn@noun!im-fem%1(noun)=année
 sni@noun!invpur%1(noun)=second
 spx@verb!norm%1(verb)=juger
@@ -534,6 +547,7 @@ t56hw65m000@noun!invpur%1(noun)=abîme
 t65hw@noun!invpur%1(noun)=informe
 tw@noun!imsimple%1(noun)=note%2(noun)=marque%3(noun)=lettre
 twk000@prep%1(prep)=intérieur
+twly@noun!invpur%1(noun)=pourpre
 twr@noun!endingh%1(noun)=torah
 t'ht@prep%1(prep)=à la place de%2(prep)=sous
 t'hl@verb!norm%1(verb)=commencer

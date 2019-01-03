@@ -174,6 +174,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "decot-t%sing%fem%t",
                 "decot-ti%sing%fem%t60i",
                 "decot-tk%sing%fem%t56k00064",
+                "decot-tw%sing%fem%tw",
                 "decot-w%sing%fem%w331",
                 "decim-w%sing%fem%w331",
                 "decim-nsof%sing%fem%n000",
@@ -186,6 +187,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
         return Arrays.asList(new String[]{
                 "nomsg%sing%fem%",
                 "decot-w%sing%fem%w331",
+                "decim-nsof%sing%fem%n000",
                 "nomplr%plr%fem%ot"
         });
     }
@@ -322,7 +324,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getNouns(String nounFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "gdl@adj%im-ot"
+                "mx@fem%ot"
         });
         */
         return getFileContentForRepository(nounFileDescription);
@@ -1336,7 +1338,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failed_ones() {
         assertTrue(true);
-        checkInMaps("bereshit1Q", translatorBridge);
+        checkInMaps("sheilamoreiH", translatorBridge);
         //checkInMaps("toto", translatorBridge);
         //checkInMaps("totoacc", translatorBridge);
     }

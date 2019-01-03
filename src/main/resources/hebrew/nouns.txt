@@ -6,6 +6,7 @@ a58d64m64h@fem%custom(nomsg=admh|decim-nw=admtnw)
 a64d64m000@masc%invmasc
 a62'h64d@masc%empty
 a63'h63t@masc%empty
+aikh@neut%invpur
 akilt@neut%invpur
 a60is298@masc%custom(nomplr=ansim|cst(nomplr)=ansi&|dechsofit=aish|nomsg=a60is298)
 aw331r@fem%invfem
@@ -19,6 +20,7 @@ alh@neut%invpur
 aliyzr@masc%invmasc
 alyzr@masc%invmasc
 amh@fem%custom(nomsg=amh|cst(nomsg)=amt|nomplr=a67mw331t)
+amnim@neut%invpur
 a64mw331n000@masc%im
 a62r62ts@fem%custom(nomplr=artswt|nomsg=a62r62ts)
 arwk@adj%adj
@@ -53,6 +55,7 @@ girsa@fem%invpur
 gm'@neut%invpur
 gmlial@masc%invmasc
 g64n000@masc%im
+hayyimtyrer@neut%invpur
 hwsyih@neut%invpur
 h61ik64l@masc%im
 hll@neut%invpur
@@ -128,6 +131,7 @@ mdrs@neut%im
 mawr@masc%custom(nomsg=mawr|nomplr=mart)
 mawr@fem%ot
 mwyd@masc%im
+mx@fem%ot
 milta@neut%invpur
 min@masc%im
 m64i60m000@neut%invpur
@@ -182,12 +186,14 @@ pryh@masc%invpur
 prq@masc%im
 prs@fem%endingh
 pswq@masc%im
+pti'h@fem%ot
 tsat@fem%invpur
 tsdq@masc%im
 tswtn@neut%invmasc
 ts63d60iq@adj%im-ot
 tsrik@masc%im
 qdmt@neut%im
+qds@adj%im-ot
 q64dw331s298@adj%im-ot
 qw331l@masc%mascot
 qrbn@masc%mascot
@@ -210,6 +216,7 @@ raexpr@masc%invpur
 ra65s298@fem%im
 raswn@fem%ot
 rbi@masc%invmasc
+r56b60iy60i@masc%invmasc
 rbn@masc%invmasc
 rbta@fem%invpur
 rgil@adj%im-ot
@@ -245,7 +252,7 @@ s29864m63i60m000@masc%invmasc
 s29864m64i60m000@masc%invmasc
 smy@masc%invmasc
 smywni@neut%invpur
-sms@fem%ot
+sms@fem%ot2
 sn@fem%im-fem
 sni@neut%invpur
 sy@fem%endingh
@@ -257,6 +264,7 @@ srh@fem%invpur
 stiim@fem%invpur
 t56hw65m000@neut%invpur
 tw@masc%imsimple
+twly@neut%invpur
 twr@fem%endingh
 tiamr@neut%invpur
 tibt@neut%invpur

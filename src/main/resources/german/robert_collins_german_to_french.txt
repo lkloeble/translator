@@ -554,12 +554,14 @@ einschlaf@verb!norm%1(verb)=sendormir
 eintragung@noun!meinfem%1(noun)=inscription
 einpaar@prep%1(prep)=quelque
 eins@noun!inv%1(noun)=un
+einstmals@prep%1(prep)=autrefois%2(prep)=jadis
 einstweilen@prep%1(prep)=entre-temps%2(prep)=en attendant
 eintret@verb!norm%1(verb)=entrer
 eintrittskarte@noun!flasche%1(noun)=billet d'entrée
 einweihung@noun!meinfem%1(noun)=inauguration
 einzeln@adj!ausreichend%1(adj)=unique%2(adj)=solitaire%3(adj)=séparé%4(adj)=seul
 einzig@adj!ausreichend%1(adj)=seul
+einzigst@adj!ausreichend%1(adj)=seul
 einzuraumen@noun!inv%1(noun)=octroyer
 einzusenden@noun!inv%1(noun)=être envoyé
 eisern@noun!inv%1(noun)=en fer
@@ -622,6 +624,7 @@ erkenn@verb!norm%1(verb)=identifier
 erkenntnis@noun!erkenntnis%1(noun)=réalisation
 erkennungszeichen@noun!inv%1(noun)=signe distinctif
 erkies@verb!norm%1(verb)=choisir
+erklar@verb!norm%1(verb)=expliquer
 erklarung@noun!meinfem%1(noun)=explication
 erkrankung@noun!meinfem%1(noun)=maladie
 erlaub@verb!norm%1(verb)=permettre
@@ -903,6 +906,7 @@ geschutzt@adj!ausreichend%1(adj)=protégé
 geschwacht@adj!ausreichend%1(adj)=affaibli
 gesetz@noun!meer%1(noun)=loi
 gesetzlich@adj!ausreichend%1(noun)=légal
+gestalt@noun!meinfem%1(noun)=apparence%2(noun)=forme
 gesinnung@noun!meinfem%1(noun)=mentalité%2(noun)=attitude%3(noun)=esprit
 gestatt@verb!norm%1(verb)=permettre
 gesteh@verb!norm%1(verb)=confesser
@@ -1110,6 +1114,7 @@ interessant@adj!norm%1(noun)=intéressant
 interesse@noun!flasche%1(noun)=intérêt
 interessier@verb!norm%1(verb)=interesser
 international@adj!ausreichend%1(noun)=international
+interpolation@noun!inv%1(noun)=interpolation
 inzwischen@prep%1(prep)=désormais
 irgend@prep%1(prep)=en tout
 irgendwo@prep%1(prep)=quelque part
@@ -1308,6 +1313,7 @@ lieferant@noun!meinmasc%1(noun)=livreur
 lieferung@noun!meinfem%1(noun)=livraison
 linie@noun!flasche%1(noun)=lignée
 limonade@noun!inv%1(noun)=limonade
+lippe@noun!flasche%1(noun)=lèvre
 literatur@noun!inv%1(noun)=littérature
 lk@noun!inv%1(noun)=lc
 lock@verb!norm%1(verb)=attirer
@@ -1750,7 +1756,7 @@ schlusssatz@noun!inv%1(noun)=phase finale
 schmah@verb!norm%1(noun)=moquer%2(verb)=blasphemer
 schmerz@noun!schmerz%A(noun)=douleur
 schnell@prep%1(prep)=rapidement
-schon@adj!inv%1(adj)=beau
+schon@adj!ausreichend%1(adj)=beau
 schon@prep%1(prep)=déjà
 schonheit@noun!meinfem%1(noun)=beauté
 schonst@adj!ausreichend%1(adj)=plus beau
@@ -1795,6 +1801,7 @@ seele@noun!flasche%1(noun)=esprit%2(noun)=âme
 segn@verb!irrg%1(verb)=benir
 segnung@noun!meinfem%1(noun)=bénédiction
 seh@verb!irrg%1(verb)=voir
+sehnsuchtigst@adj!ausreichend%1(adj)=impatient%2(adj)=ardent
 sehr@prep%1(prep)=très
 sein@prep%1(prep)=son
 sein@verb!irrg%1(verb)=etre
@@ -1900,6 +1907,7 @@ stelle@noun!meinfem%1(noun)=position%2(noun)=place
 sterb@verb!norm%1(verb)=mourir
 stern@noun!meer%1(noun)=étoile
 stier@noun!meer%1(noun)=taureau
+stillstehn@noun!inv%1(noun)=rester immobile
 stimm@verb!norm%1(verb)=voter%2(verb)=approuver
 stimme@noun!flasche%1(noun)=voix
 stoff@noun!meer%1(noun)=matière%2(noun)=substance%3(noun)=tissu
@@ -2238,6 +2246,7 @@ vorbereit@verb!norm%1(verb)=preparer
 vorbild@noun!meer%1(noun)=modèle
 vorchristl@noun!inv%1(noun)=littérature pré-chrétienne
 vorfahre@noun!flasche%1(noun)=ancêtre
+vorgang@noun!jahrzehnt%1(noun)=processus
 vorgeblich@adj!ausreichend%1(adj)=prétendu
 vorgelegt@adj!ausreichend%1(adj)=présenté
 vorhaben@verb!norm%1(verb)=prevoir
@@ -2396,6 +2405,7 @@ zeug@verb!norm%1(verb)=engendrer
 zeugnis@noun!erkenntnis%1(noun)=témoignage
 zieh@verb!norm%1(verb)=prendre
 zigarette@noun!flasche%1(noun)=cigarette
+ziehn@noun!inv%1(noun)=dessiner
 zimmer@noun!inv%1(noun)=chambre
 zion@noun!inv%1(noun)=sion
 zitate@noun!jahrzehnt%1(noun)=citation
