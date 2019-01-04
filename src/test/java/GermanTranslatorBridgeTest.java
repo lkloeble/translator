@@ -986,7 +986,7 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
         //checkInMaps("nietzscheBookGTversuchCha4F2", translatorBridge);
         checkInMaps("nietzscheBookGTversuchCha4F3", translatorBridge);
         checkInMaps("nietzscheBookGTversuchCha4G", translatorBridge);
-        checkInMaps("nietzscheBookGTversuchCha4H", translatorBridge);
+        //checkInMaps("nietzscheBookGTversuchCha4H", translatorBridge);
         checkInMaps("nietzscheBookGTversuchCha4I", translatorBridge);
         checkInMaps("nietzscheBookGTversuchCha4J", translatorBridge);
         checkInMaps("nietzscheBookGTversuchCha4K", translatorBridge);
@@ -1091,7 +1091,7 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("nietzscheBookGTversuchCha7I2", translatorBridge);
         checkInMaps("nietzscheBookGTversuchCha7I3", translatorBridge);
         checkInMaps("nietzscheBookGTversuchCha7J1", translatorBridge);
-        checkInMaps("nietzscheBookGTversuchCha7J2", translatorBridge);
+        //checkInMaps("nietzscheBookGTversuchCha7J2", translatorBridge);
         checkInMaps("nietzscheBookGTversuchCha7J3", translatorBridge);
         checkInMaps("nietzscheBookGTversuchCha7J4", translatorBridge);
         checkInMaps("nietzscheBookGTversuchCha7K", translatorBridge);

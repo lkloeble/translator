@@ -572,6 +572,7 @@ empfand@verb!norm%1(verb)=ressentir
 empfind@verb!norm%1(verb)=ressentir
 empfang@verb!norm%1(verb)=concevoir%2(verb)=accueillir%3(verb)=recevoir
 empfehl@verb!norm%1(verb)=recommander
+end@verb!norm%1(verb)=terminer
 empor@prep%1(prep)=en haut
 end@noun!inv%1(noun)=final
 ende@noun!flasche%1(noun)=fin
@@ -2010,6 +2011,7 @@ trenn@verb!norm%1(verb)=separer
 treu@adj!ausreichend%1(adj)=fidèle%2(adj)=loyal
 trink@verb!norm%1(verb)=boire
 trocken@noun!ausreichend%1(adj)=sec
+trost@verb!norm%1(verb)=consoler
 trost@noun!jahrzehnt%1(noun)=réconfort
 trotz@noun!meer%1(noun)=défi
 trotzig@adj!ausreichend%1(adj)=rebelle

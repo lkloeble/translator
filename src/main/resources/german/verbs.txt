@@ -119,6 +119,7 @@ empfand,en,[mochten]
 empfind,en,[mochten],(PAP*empfind*empfunden*0)
 empfang,en,[leben]
 empfehl,en,[leben]
+end,en,[segnen]
 entdeck,en,[leben]
 enthalt,en,[gelten]
 entlass,en,[genesen]
@@ -353,6 +354,7 @@ trau,en,[leben]
 treib,en,[leben]
 trenn,en,[leben]
 trink,en,[leben]
+trost,en,[segnen],(PAP*trost*getrostet*0)
 tu,n,[leben],(PAP*tu*getan*0@IPR35*tuen*tun*0@AIP*tu*ta*0)
 ubereinstimm,en,[leben]
 uberrasch,en,[leben]
