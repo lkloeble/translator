@@ -57,7 +57,7 @@ public class LatinTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "pati,or,ris,,,,[or-ris],(IPR1*pati*pate*0@ASI*pati*pater*0)"
+                "trad,o,is,ere,,,[o-is],(AIP*trad*tradid*0@AIFP*trads*tradid*0@AIPP*trad*tradid*0@IAPP*trad*tradid*0)"
         });
         */
         return getFileContentForRepository(verbFileDescription);
@@ -114,7 +114,7 @@ public class LatinTranslatorBridgeTest extends TranslatorBridgeTest {
 
     @Test
     public void test_failing_one() {
-        checkInMaps("patrologiacaput3B26", translatorBridge);
+        checkInMaps("patrologiacaput3B33", translatorBridge);
     }
 
 

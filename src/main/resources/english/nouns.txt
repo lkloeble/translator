@@ -32,7 +32,8 @@ amber@neut%invmasc
 ammonite@neut%normmasc
 amoraim@neut%invmasc
 amorite@neut%normmasc
-amos@neut%normmasc
+amos@neut%invmasc
+amount@neut%normmasc
 ancestr@fem%endy
 ancient@neut%normmasc
 anciently@neut%invmasc
@@ -44,6 +45,7 @@ anything@neut%invmasc
 anywhere@neut%invmasc
 appearance@fem%normfem
 appendant@neut%invmasc
+apple@neut%normmasc
 application@neut%normmasc
 appointment@neut%normmasc
 approach@fem%church
@@ -892,6 +894,7 @@ opinion@neut%invmasc
 opposite@neut%invmasc
 opposition@neut%normmasc
 oral@adj%normmasc
+orchard@neut%normmasc
 order@neut%normmasc
 original@adj%invmasc
 originally@neut%invmasc

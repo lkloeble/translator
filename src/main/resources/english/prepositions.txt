@@ -166,6 +166,7 @@ once@prep()
 one@prep()%[recomposeOneWould]
 onexx@prep()
 only@prep()
+onward@prep()
 openly@prep()
 or@prep()
 otherwise@prep()

@@ -109,6 +109,7 @@ baptism@neut%um-i
 baptist@masc%a-ae
 baptizat@adj%us-a-um
 barnabe@masc%inv
+bas@fem%is-is
 bdelli@neut%um-i
 beat@adj%us-a-um
 belg@fem%a-ae
@@ -246,6 +247,8 @@ de@masc%us-i[nomplr:dii]
 debacchat@adj%us-a-um
 debit@neut%um-i
 decem@neut%inv
+decept@adj%us-a-um
+decim@adj%us-a-um
 decret@neut%um-i
 defect@masc%us-us
 definiti@fem%o-onis
@@ -357,6 +360,7 @@ fess@adj%us-a-um
 fest@neut%um-i
 fici@fem%a-ae
 fid@fem%es-ei
+fidi@masc%us-i
 figur@fem%a-ae
 fili@masc%us-i
 fili@fem%a-ae
@@ -373,7 +377,7 @@ flum@neut%en-inis
 fluvi@masc%us-i
 foed@adj%us-a-um
 foed@neut%us-eris
-fons@masc%x-tis
+fon@masc%s-tis
 for@neut%um-i
 fortissim@adj%us-a-um
 fortitud@fem%o-inis
@@ -409,6 +413,7 @@ grand@adj%is-is-e
 grati@fem%a-ae
 grat@adj%us-a-um
 gravi@adj%or-or-us
+gregori@masc%us-i
 gustati@fem%o-onis
 gutt@fem%a-ae
 haben@adj%s-tis
@@ -418,6 +423,7 @@ hebrae@adj%us-a-um
 helen@fem%a-ae
 helveti@adj%us-a-um
 herb@fem%a-ae
+hercul@masc%es-is
 heri@neut%inv
 hermas@neut%inv
 hermae@neut%inv
@@ -449,6 +455,7 @@ imag@fem%o-inis
 immutat@adj%us-a-um
 imperan@adj%s-s-s
 imperi@masc%um-i
+imperiti@fem%a-ae
 impi@adj%us-a-um
 impluvi@neut%um-i
 impositio@fem%x-nis
@@ -459,6 +466,7 @@ inan@adj%is-is-e
 incarnat@adj%us-a-um
 incarnati@fem%o-onis
 incens@neut%um-i
+incis@adj%us-a-um
 incitat@adj%us-a-um
 incredibil@adj%is-is-e
 indici@neut%um-i
@@ -517,6 +525,7 @@ judae@adj%us-X-um
 juli@masc%us-i
 juli@fem%a-ae
 just@adj%us-a-um
+justin@masc%us-i
 justiti@fem%a-ae
 labente@neut%inv
 labor@masc%x-is2
@@ -525,6 +534,7 @@ laetiti@fem%a-ae
 laet@adj%us-a-um
 latin@adj%us-a-um
 lapid@neut%x-is2[nomsing:lapis]
+lapide@adj%us-a-um
 latissim@adj%us-a-um
 latitud@fem%o-inis
 latobrig@masc%us-i
@@ -768,6 +778,7 @@ poen@fem%a-ae
 poet@fem%a-ae
 pomif@adj%er-era-erum
 pon@masc%s-tis2
+pontificat@masc%us-us
 popul@masc%us-i
 port@fem%a-ae
 portatur@adj%us-a-um
@@ -787,6 +798,7 @@ praenuntiat@adj%us-a-um
 preti@neut%um-i
 pretios@adj%us-a-um
 prim@adj%us-a-um
+primigeni@adj%us-a-um
 princip@adj%s-s-s2
 principat@masc%us-us
 principi@neut%um-i
@@ -827,6 +839,7 @@ quint@masc%us-a-um
 ratio@fem%x-nis
 raurac@masc%us-i
 recen@neut%s-tis
+recenti@adj%or-or-us
 recept@adj%us-a-um
 recitati@fem%o-onis
 rect@adj%us-a-um

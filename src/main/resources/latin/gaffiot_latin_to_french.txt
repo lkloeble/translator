@@ -168,6 +168,7 @@ baptism@noun!um-i%1(noun)=baptême
 baptist@noun!a-ae%1(noun)=baptiste
 baptizat@adj!us-a-um%1(adj)=baptisé
 barnabe@noun!inv%1(noun)=barnabé
+bas@noun!is-is%1(noun)=base
 bdelli@noun!um-i%1(noun)=bdellium
 beat@adj!us-a-um%1(adj)=bienheureux, heureux%2(adj)=comble de tous les biens, riche, opulent%3(adj)=bienheureux, beni, saint (christianisme)%5(adj)=heureux
 belg@noun!a-ae%1(noun)=belge
@@ -283,6 +284,7 @@ concilio@verb!norm%1(verb)=acquerir%2(verb)=recommander%3(verb)=rassembler
 condit@adj!us-a-um%1(adj)=rassemblé
 confirmo@verb!norm%1(verb)=confirmer
 concipio@verb!norm%1(noun)=recevoir
+concludo@verb!norm%1(noun)=conclure
 condo@verb!norm%1(noun)=assembler
 conduco@verb!norm%1(noun)=conduire
 confero@verb!norm%1(noun)=reunir%2(verb)=apporter
@@ -383,7 +385,9 @@ debacchat@adj!us-a-um%1(adj)=enragé
 debeo@verb!norm%1(verb)=devoir
 debit@noun!um-i%1(noun)=dette
 decem@noun!inv%1(noun)=dix
+decept@adj!us-a-um%1(adj)=trompé
 decerto@verb!norm%1(verb)=combattre
+decim@adj!us-a-um%1(adj)=dixième
 decret@noun!um-i%1(noun)=décret
 defect@noun!us-us%1(noun)=échec
 deficio@verb!norm%1(verb)=gaspiller%2(verb)=perdre
@@ -589,6 +593,7 @@ fess@adj!us-a-um%1(adj)=fatigué
 fest@noun!um-i%1(noun)=jour de fete%2(noun)=fete
 fici@noun!a-ae%1(noun)=chose
 fid@noun!es-ei%1(noun)=confiance%2(noun)=foi
+fidi@noun!us-i%1(noun)=fidius (jupiter)
 figur@noun!a-ae%1(noun)=forme
 fio@verb!norm%1(verb)=advenir
 fili@noun!us-i%1(noun)=fils
@@ -609,7 +614,7 @@ flum@noun!en-inis%1(noun)=rivière
 fluvi@noun!us-i%1(noun)=fleuve
 foed@adj!us-a-um%1(noun)=laid
 foed@noun!us-eris%1(noun)=traité
-fons@noun!x-tis%1(noun)=source%2(noun)=eau de source%3(noun)=fontaine
+fon@noun!s-tis%1(noun)=source%2(noun)=eau de source%3(noun)=fontaine
 for@noun!um-i%1(noun)=grand-place
 formo@verb!norm%1(verb)=façonner%2(verb)=former
 forsan@prep%1(prep)=par chance%2(prep)=peut-être
@@ -653,6 +658,7 @@ grand@adj!is-is-e%1(adj)=grand
 grati@noun!a-ae%1(noun)=faveur,complaisance%2(noun)=reconnaissance,gratitude%3(noun)=faveur d'autrui,popularite,credit%4(noun)=charme%5(noun)=faveur divine,grace%6(noun)=grace
 grat@adj!us-a-um%1(adj)=plaisant%2(adj)=agréable
 gravi@adj!or-or-us%1(adj)=plus lourd
+gregori@noun!us-i%1(noun)=grégoire
 guberno@verb!norm%1(verb)=gerer%2(verb)=piloter%3(verb)=gouverner
 gustati@noun!o-onis%1(noun)=hors d'oeuvre
 gutt@noun!a-ae%1(noun)=goutte
@@ -668,6 +674,7 @@ hebrae@adj!us-a-um%1(adj)=judeen%2(adj)=hebreu
 helen@noun!a-ae%1(noun)=hélène
 helveti@adj!us-a-um%1(adj)=helvète
 herb@noun!a-ae%1(noun)=herbe
+hercul@noun!es-is%1(noun)=hercule
 heri@noun!inv%1(noun)=hier
 hermas@noun!inv%1(noun)=hermas
 hermae@noun!inv%1(noun)=de hermas
@@ -728,6 +735,7 @@ impendeo@verb!norm%1(verb)=menacer%2(verb)=dominer
 impendo@verb!norm%1(verb)=depenser
 imperan@adj!s-s-s%1(adj)=gouvernant
 imperi@noun!um-i%1(noun)=empire
+imperiti@noun!a-ae%1(noun)=ignorance
 impero@verb!norm%1(verb)=commander
 impi@adj!us-a-um%1(noun)=maudit%2(noun)=impie
 impleo@verb!norm%1(verb)=satisfaire%2(noun)=rendre enceinte%3(noun)=couvrir%4(noun)=remplir
@@ -745,6 +753,7 @@ incarnat@noun!us-a-um%1(noun)=incarné
 incarnati@noun!o-onis%1(noun)=incarnation
 incendo@verb!norm%1(verb)=incendier
 incens@noun!um-i%1(noun)=encens
+incis@adj!us-a-um%1(adj)=coupé
 incitat@adj!us-a-um%1(adj)=incité
 inclino@verb!norm%1(verb)=incliner
 incipio@verb!norm%1(verb)=demarrer
@@ -846,6 +855,7 @@ juli@noun!us-i%1(noun)=julius
 juli@noun!a-ae%1(noun)=julia
 just@adj!us-a-um%1(adj)=pieux%2(adj)=juste
 justiti@noun!a-ae%1(noun)=justice, conformite avec le droit : <exp>justitia ergo deos</exp><trad>accomplissement des devoirs envers les dieux</trad>%2(noun)=le droit, les lois%3(noun)=sentiment d'equite, de justice, esprit de justice%4(noun)=justice
+justin@noun!us-i%1(noun)=justin
 labente@noun!inv%1(noun)=[labente trad non trouvée]
 labor@noun!x-is2%1(noun)=travail
 laboro@verb!norm%1(verb)=produire%2(verb)=souffrir%3(verb)=travailler
@@ -853,6 +863,7 @@ lac@noun!us-us%1(noun)=lac
 laet@adj!us-a-um%1(adj)=joyeux
 laetiti@noun!a-ae%1(noun)=bonheur%2(noun)=joie
 lapid@noun!x-is2%1(noun)=pierre
+lapide@adj!us-a-um%1(adj)=pierreux
 late@prep%1(prep)=largement
 latin@adj!us-a-um%1(noun)=latin
 latissim@adj!us-a-um%1(noun)=le plus large
@@ -1198,6 +1209,7 @@ poet@noun!a-ae%1(noun)=poêtes
 pomif@adj!er-era-erum%1(adj)=porteur de fruit
 pono@verb!norm%1(verb)=établir%2(verb)=placer%3(verb)=ordonner
 pon@noun!s-tis2%1(noun)=pont
+pontificat@noun!us-us%1(noun)=pontifical
 porro@prep%1(prep)=à partir de cela
 popul@noun!us-i%1(noun)=peuple (constituant une cite ou un etat)%2(noun)=le peuple (par opposition au senat a rome)%3(noun)=les gens, le monde%4(noun)=canton, region%5(noun)=peuplier%6(noun)=peuple
 porto@verb!norm%1(verb)=porter
@@ -1233,6 +1245,7 @@ praeterea@prep%1(prep)=en outre
 preti@noun!um-i%1(noun)=punition%2(noun)=valeur%3(noun)=prix
 pretios@adj!us-a-um%1(adj)=coûteux%2(adj)=précieux
 prim@adj!us-a-um%1(adj)=le plus en avant, le plus avance, le premier%2(adj)=le premier rang%3(adj)=le plus important, le principal%4(adj)=la premiere partie, le commencement%5(adj)=premier
+primigeni@adj!us-a-um%1(adj)=originel
 princip@adj!s-s-s2%1(adj)=premier
 principi@noun!um-i%1(noun)=ce qui commence%2(noun)=fondement,origine%3(noun)=commencement
 principat@noun!us-us%1(noun)=suprématie%2(noun)=leadership%3(noun)=règle%4(noun)=première place
@@ -1328,6 +1341,7 @@ quot@prep%1(quot)=combien
 ratio@noun!x-nis%1(noun)=raison%2(noun)=explication
 raurac@noun!us-i%1(noun)=rauraque
 recen@noun!s-tis%1(noun)=récent
+recenti@adj!or-or-us%1(adj)=plus récent
 recept@adj!us-a-um%1(adj)=repris
 recipio@verb!norm%1(verb)=recevoir
 recitati@noun!o-onis%1(noun)=lecture

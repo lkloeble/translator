@@ -70,6 +70,7 @@ comprehend,o,is,ere,,,[o-is]
 con,or,aris,ari,,,[or-aris]
 concili,o,as,are,,,[o-as]
 concip,io,is,ere,,,[io-is],(AIPP*concip*concep*0@AIP*concip*concep*0@IAPP1245*concip*concep*0)
+conclud,o,is,ere,,,[o-is]
 cond,o,is,ere,,,[o-is],(AIP*cond*condid*0@AIPP*cond*condid*0)
 conduc,o,is,ere,,,[o-is],(AIP*conduc*condux*0)
 confer,o,s,re,tuli,latum,[o-s],(AIP*confer*contul*0)
@@ -350,7 +351,7 @@ termin,o,as,are,,,[o-as]
 tim,eo,es,ere,,,[eo-es]
 toll,o,is,ere,,,[o-is],(AIP*toll*sustul*0)
 tract,o,as,are,avi,atum,[o-as],(VENO*tract*xxx*0)
-trad,o,is,ere,,,[o-is],(AIP*trad*tradid*0@AIFP*trads*tradid*0@AIPP*trad*tradid*0)
+trad,o,is,ere,,,[o-is],(AIP*trad*tradid*0@AIFP*trads*tradid*0@AIPP*trad*tradid*0@IAPP*trad*tradid*0)
 trans,eo,is,ire,,,[eo-is],(AIPP*trans*transi*0)
 transfund,o,is,ere,,,[o-is]
 transmitt,o,is,ere,,,[o-is]
