@@ -297,6 +297,7 @@ gre@adj%greu
 grec@adj%adj
 grij@fem%femi
 gr@adj%adjos
+gur@fem%tigara
 harnic@adj%adj
 hots@masc%ul
 hristos@masc%inv
@@ -331,6 +332,8 @@ inferi@adj%adjor
 infinit@adj%adj
 infinitate@fem%ereditate
 influent@fem%femts
+infranar@fem%berea
+infrinar@fem%berea
 inger@masc%ul
 inrudiri@neut%inv
 insemnar@fem%ratsiune
@@ -701,6 +704,7 @@ stradiani@fem%fem
 strugur@masc%ul
 subiect@masc%ul
 subordonat@adj%adj
+suferir@fem%berea
 suficient@neut%inv
 suflet@masc%capul
 sufragerie@fem%inv

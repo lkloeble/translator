@@ -494,6 +494,7 @@ gre@noun!greu%1(adj)=lourd%2(adj)=difficile
 grec@adj!adj%1(adj)=grec
 grij@noun!femi%1(noun)=garde%2(noun)=souci
 gr@adj!adjos%1(adj)=épais
+gur@noun!tigara%1(noun)=bouche
 hai@prep%1(prep)=allez
 harnic@noun!adj%1(adj)=travailleur
 hotari@verb!norm%1(verb)=decider
@@ -558,6 +559,8 @@ inferi@adj!adjor%1(adj)=inférieur
 infinit@adj!adj%1(adj)=infini
 infinitate@noun!ereditate%1(noun)=infinité
 influent@noun!femts%1(noun)=influence
+infranar@noun!berea%1(noun)=tempérance
+infrinar@noun!berea%1(noun)=tempérance
 inger@noun!ul%1(noun)=ange
 inmormint@verb!norm%1(verb)=inhumer
 innoi@verb!norm%1(verb)=renouveler
@@ -1114,6 +1117,7 @@ sublini@verb!norm%1(verb)=souligner
 succe@verb!norm%1(verb)=succeder
 subordonat@adj!adj%1(adj)=subordonné
 sufer@verb!norm%1(verb)=souffrir
+suferir@noun!berea%1(noun)=maintien
 suficient@noun!inv%1(noun)=suffisant
 suflet@noun!capul%1(noun)=âme
 sufragerie@noun!inv%1(noun)=salle-à-manger
