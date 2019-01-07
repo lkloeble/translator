@@ -27,6 +27,7 @@ arwk@adj%adj
 a60s29864h@fem%custom(nomplr=nsim|cst(nomplr)=nsi&|nomsg=a60s29864h|cst(nomsg)=ast|decim-k=a60s29856t56k00064|decimplr-k=n64s29862ik00064|decimplr-h=nsihm000)
 aswr@adj%im-ot
 asmwr@fem%endingh
+astr@fem%invpur
 atsxrik@neut%invpur
 att@masc%invpur
 b65hw@neut%invpur
@@ -86,6 +87,8 @@ ztslexpr@neut%invpur
 'h58lw331m000@masc%mascot
 xym@masc%im
 xrpwn000@masc%invpur
+ibm@fem%ot
+ibmwt@neut%invpur
 ibsh@fem%invpur
 ih@masc%invpur
 ihwh@masc%invmasc
@@ -155,12 +158,14 @@ mspx@masc%im
 msth@masc%invmasc
 m63t56'h60il@neut%invpur
 nakl@masc%im
+n62p62s@fem%ot2
 n64b60ia@masc%im-ot
 n56h63r@masc%mascot
 n64y63r@masc%im
 nts@masc%im
 ybir@fem%ot
 ywlm@masc%im
+ywp@masc%mascot
 yzrih@masc%invpur
 yiin@masc%invpur
 y63in@masc%im
@@ -172,6 +177,7 @@ y64p64r@fem%im-fem
 yrbit@masc%invmasc
 y62r62b@masc%im
 yrib@masc%invpur
+yrl@adj%im-ot
 ysb@masc%im
 yts@masc%custom(nomsg=yts|cst(nomsg)=ytst&|nomplr=ytsim|cst(nomplr)=ytsi&)
 y61s29964w309@masc%invmasc
@@ -260,12 +266,14 @@ spr@masc%im
 sw309s@masc%im-ot
 swp@masc%im
 s63y58s298w309y60@masc%im
+s62r62ts@masc%im
 srh@fem%invpur
 stiim@fem%invpur
 t56hw65m000@neut%invpur
 tw@masc%imsimple
 twly@neut%invpur
 twr@fem%endingh
+t'hil@fem%ot
 tiamr@neut%invpur
 tibt@neut%invpur
 tklt@adj%invmasc

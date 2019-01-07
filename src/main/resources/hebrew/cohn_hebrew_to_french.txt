@@ -69,6 +69,7 @@ asmwr@noun!endingh%1(noun)=veille
 asr@prep%1(prep)=qui
 a59s29862r@prep%1(prep)=qui
 a60s29864h@noun!custom(nomplr=nsim|cst(nomplr)=nsi&|nomsg=a60s29864h|cst(nomsg)=ast|decim-k=a60s29856t56k00064|decimplr-k=n64s29862ik00064|decimplr-h=nsihm000)%1(noun)=femme
+astr@noun!invpur%1(noun)=esther
 atsxrik@noun!invpur%1(noun)=il est nécessaire
 at@prep%1(prep)=COD
 a61t@prep%1(prep)=COD
@@ -82,6 +83,7 @@ atk@prep%1(prep)=avec toi
 a65t56k00064@prep%1(prep)=avec toi
 atkm@prep%1(prep)=vous
 a62t56k62m000@prep%1(prep)=vous
+atw@prep%1(prep)=avec lui
 atm@prep%1(prep)=vous%2(prep)=eux
 att@noun!invpur%1(noun)=signes
 b@prep%1(prep)=dans
@@ -190,6 +192,7 @@ z@prep%(prep)=zayin
 zb@noun!invpur%1(noun)=zav (homme impur par coulée de l'urêtre)
 z62h@prep%(prep)=ce
 zh@prep%(prep)=ce
+zhw@prep%(prep)=cela est
 zhr@noun!invpur%1(noun)=zohar
 zkh@verb!norm%1(verb)=gagner
 zkr@verb!norm%1(verb)=sesouvenir
@@ -221,6 +224,8 @@ ztslexpr@noun!invpur%1(noun)=de mémoire bénie
 'htswt@noun!invmasc%1(noun)=milieu de la nuit
 xym@noun!im%1(noun)=goût
 xrpwn000@noun!invpur%1(noun)=tarfon
+ibm@noun!ot%1(noun)=belle-soeur
+ibmwt@noun!invpur%1(noun)=yevamot (traité du talmud)
 ibsh@noun!invpur%1(noun)=sec
 i63d@noun!im%1(noun)=main
 idy@verb!norm%1(verb)=connaitre
@@ -373,6 +378,7 @@ mtsa@verb!norm%1(verb)=etretrouve
 nakl@noun!im%1(noun)=destiné à être mangé
 n56h63r@noun!mascot%1(noun)=rivière
 n64y63r@noun!im%1(noun)=jeune homme%2(noun)=garçon
+n62p62s@noun!ot2%1(noun)=âme
 nw@prep%1(prep)=nous
 n64b60ia@noun!im-ot%1(noun)=prophète
 ngd@verb!norm%1(verb)=dire
@@ -439,12 +445,14 @@ yd@prep%1(prep)=jusqu'à
 y63d@prep%1(prep)=jusqu'à
 ydiin000@prep()%1(prep)=toujours
 ywlm@noun!im%1(noun)=globe%2(noun)=terre%2(noun)=monde
+ywp@noun!mascot%1(noun)=oiseau
 yzrih@noun!invpur%1(noun)=azarya
 yl@prep%1(prep)=en faveur de%2(prep)=au dessus de%3(noun)=sur
 yli@prep%1(prep)=en faveur de%2(prep)=au dessus de%3(noun)=sur
 y63l@prep%1(prep)=en faveur de%2(prep)=au dessus de%3(noun)=sur
 ybd@verb!norm%1(verb)=servir
 ybr@verb!norm%1(verb)=traverser
+ywp@verb!norm%1(verb)=voler
 ykb@verb!norm%1(verb)=retarder
 yliw@prep%1(prep)=sur lui
 ylinw@prep%1(prep)=sur nous
@@ -467,6 +475,7 @@ ypprep@prep%1(prep)=selon
 yrbit@noun!invmasc%1(noun)=prière du soir
 y62r62b@noun!im%1(noun)=soir
 yrib@noun!invpur%1(noun)=soir
+yrl@adj!im-ot%1(noun)=incirconcis
 y61s29964w309@noun!invmasc%1(noun)=esav
 ysh@verb!norm%1(verb)=faire
 ysb@noun!im%1(noun)=herbe
@@ -538,9 +547,11 @@ sn@noun!im-fem%1(noun)=année
 sni@noun!invpur%1(noun)=second
 spx@verb!norm%1(verb)=juger
 spr@noun!im%1(noun)=livre
+srts@verb!norm%1(verb)=grouiller
 sy@noun!endingh%1(noun)=heure
 swp@noun!im%1(noun)=fin
 s63y58s298w309y60@noun!im%1(noun)=divertissement
+s62r62ts@noun!im%1(noun)=insecte
 srh@noun!invpur%1(noun)=sarah
 stiim@noun!invpur%1(noun)=deux
 t56hw65m000@noun!invpur%1(noun)=abîme
@@ -549,6 +560,7 @@ tw@noun!imsimple%1(noun)=note%2(noun)=marque%3(noun)=lettre
 twk000@prep%1(prep)=intérieur
 twly@noun!invpur%1(noun)=pourpre
 twr@noun!endingh%1(noun)=torah
+t'hil@noun!ot%1(noun)=commencement
 t'ht@prep%1(prep)=à la place de%2(prep)=sous
 t'hl@verb!norm%1(verb)=commencer
 t63'h63t@prep%1(prep)=à la place de%2(prep)=sous
