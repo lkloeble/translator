@@ -609,6 +609,7 @@ melit@fem%a-ae
 men@fem%s-tis2
 mens@fem%a-ae
 mens@adj%us-a-um
+mentio@fem%x-nis
 mercator@masc%x-is2
 merit@neut%um-i
 messi@masc%as-ae
@@ -804,6 +805,7 @@ principat@masc%us-us
 principi@neut%um-i
 privat@adj%us-a-um
 prob@adj%us-a-um
+proband@adj%us-a-um
 procreat@adj%us-a-um
 prodigi@neut%um-i
 proeli@neut%um-i
@@ -967,6 +969,7 @@ subeund@adj%us-a-um
 sublat@adj%us-a-um
 supplici@neut%um-i
 sumpt@adj%us-a-um
+superposit@adj%us-a-um
 superstitio@fem%x-nis
 supposititi@adj%us-a-um
 suscept@adj%us-a-um
@@ -1018,6 +1021,7 @@ tyr@masc%us-i
 tyrann@masc%us-i
 ull@adj%us-a-um
 ulteri@adj%or-or-us
+ultim@adj%us-a-um
 umbr@fem%a-ae
 umer@masc%us-i
 un@adj%us-a-um

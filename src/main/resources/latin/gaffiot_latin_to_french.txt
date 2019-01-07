@@ -472,6 +472,7 @@ dum@prep%1(prep)=tant que%2(prep)=aussi longtemps que%3(prep)=jusqu'à%4(prep)=t
 e@prep%1(prep)=en dehors de
 ea@prep%1(prep)=elle
 eadem@prep%1(prep)=même
+eamdem@prep%1(prep)=même
 easdem@prep%1(prep)=de la même façon
 eae@prep%1(prep)=ces
 eaedem@prep%1(prep)=même
@@ -963,6 +964,7 @@ metuo@verb!o-as%1(verb)=avoirpeur
 men@noun!s-tis2%1(noun)=esprit
 mens@noun!a-ae%1(noun)=autel%2(noun)=table
 mens@adj!us-a-um%1(noun)=mois
+mentio@noun!x-nis%1(noun)=mention
 meo@prep%1(prep)=mon
 meorum@prep%1(prep)=mes
 mercator@noun!x-is2%1(noun)=marchand
@@ -1090,6 +1092,7 @@ octo@noun!inv%1(noun)=huit
 odi@noun!um-i%1(noun)=haine
 offero@verb!norm%1(verb)=offrir%2(verb)=presenter
 ole@noun!a-ae%1(noun)=olive
+olim@prep%1(prep)=à ce moment
 omn@adj!is-is-e%1(adj)=tous
 omnino@prep%1(prep)=entièrement
 onychin@adj!us-a-um%1(noun)=onyx
@@ -1254,6 +1257,7 @@ priusquam@prep%1(prep)=jusqu'à%2(prep)=avant
 privat@adj!us-a-um%1(adj)=démuni
 pro@prep%1(prep+abl)=en avant,devant%2(prep+abl)=du haut%3(prep+abl)=en faveur,a la place,au lieu de%4(prep+abl)=en raison de,en vertu de%5(prep)=oh !,ah !%6(prep+acc)=que%7(prep+abl)=pour
 prob@noun!us-a-um%1(noun)=noble%2(noun)=bon
+proband@noun!us-a-um%1(noun)=approuvé
 procreat@noun!us-a-um%1(noun)=engendré
 probo@verb!norm%1(verb)=acquitter%2(verb)=démontrer%3(verb)=tester,inspecter%4(verb)=approuver
 procul@prep%1(prep)=loin
@@ -1543,6 +1547,7 @@ superfici@noun!es-ei%1(fem)=à la surface
 supern@adj!us-a-um%1(adj)=céleste%2(adj)=paradisiaque
 suprem@adj!us-a-um%1(adj)=le plus grand
 supero@verb!norm%1(verb)=surmonter
+superposit@adj!us-a-um%1(adj)=superposé
 superstitio@noun!x-nis%1(noun)=superstition
 supposititi@adj!us-a-um%1(adj)=supposé
 suscept@adj!us-a-um%1(adj)=a été repris
@@ -1632,6 +1637,7 @@ ubi@prep%1(adv)=ou%2(adv)=dans lequel%3(conj)=quand, lorsque4(conj + subj)=du mo
 ubique@prep%1(adv)=partout
 ull@adj!us-a-um%1(adj)=n'importe quel
 ulteri@adj!or-or-us%1(adj)=ultérieur
+ultim@adj!us-a-um%1(adj)=dernier
 umbr@noun!a-ae%1(noun)=ombre
 umer@noun!us-i%1(noun)=dos%2(noun)=umérus (os)%3(noun)=épaule
 un@adj!us-a-um%1(adj)=un
