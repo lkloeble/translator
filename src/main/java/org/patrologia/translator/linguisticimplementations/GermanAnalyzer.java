@@ -38,7 +38,7 @@ public class GermanAnalyzer implements Analizer {
     public Analysis analyze(String sentence) {
         String characterAlphaOnly = replaceGermanWithAlpha(sentence);
         characterAlphaOnly = substituteTwinVerbs(characterAlphaOnly);
-        characterAlphaOnly = replaceAbbreviateExpressions(characterAlphaOnly);
+        characterAlphaOnly = replaceAbbreviateExpressions(characterAlphaOnly.toLowerCase());
         Phrase phrase = wordSplitter.splitSentence(characterAlphaOnly, Language.GERMAN, new DefaultWordSplitterPattern());
         phrase = wordAnalyzer.affectAllPossibleInformations(phrase);
         phrase = germanNounSplitter.germanFindComposedWords(phrase);
@@ -50,6 +50,7 @@ public class GermanAnalyzer implements Analizer {
 
     private String replaceAbbreviateExpressions(String sentence) {
         sentence = sentence.replace("d.i.", "diexpr");
+        sentence = sentence.replace("sie handlet", "siehandletexpr");
         return sentence.replace("d.h.","dhexpr");
     }
 

@@ -276,6 +276,7 @@ die@fem%inv
 diener@masc%arbeiter
 dienlich@adj%ausreichend
 dienstag@neut%inv
+diesseitig@adj%ausreichend
 ding@fem%original
 dionysisch@adj%ausreichend
 direktor@masc%inv
@@ -313,6 +314,7 @@ eigentlich@adj%ausreichend
 ein@adj%ausreichend
 einfach@adj%ausreichend
 eingeweiht@adj%ausreichend
+einheitlich@adj%ausreichend
 einl@neut%inv
 einmischung@fem%meinfem
 eins@masc%inv
@@ -668,10 +670,12 @@ heutzutage@neut%inv
 hilfe@fem%flasche
 hillel@neut%inv
 himmel@neut%arbeiter
+himmelsgewolbe@neut%inv
 hinaufschaffen@neut%inv
 hinausgehend@adj%ausreichend
 hinsicht@fem%meinfem
 hintersinn@fem%inv
+hinzunahme@fem%flasche
 hirte@masc%hirte
 hoch@adj%inv
 hochmutig@adj%ausreichend

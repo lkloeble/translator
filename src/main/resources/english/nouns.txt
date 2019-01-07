@@ -1363,6 +1363,7 @@ western@neut%invmasc
 westminster@neut%invmasc
 wet@neut%invmasc
 whale@neut%normmasc
+wheat@neut%normmasc
 wheel@fem%normfem
 wheel@fem%church
 white@adj%normmasc

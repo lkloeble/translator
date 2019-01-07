@@ -241,6 +241,7 @@ kriech,en,[leben]
 kritisier,en,[leben]
 kumme,rn,[leben]
 kundig,en,[leben]
+lach,en,[leben]
 lad,en,[leben]
 lass,en,[lassen],(AIP*lass*liess*0@PAP*la*gela*0)
 lauf,en,[rufen],(AIP*lauf*lief*0)
@@ -339,6 +340,7 @@ stell,en,[leben]
 sterb,en,[rufen],(AIP*sterb*starb*0@PAP*sterb*gestorben*0)
 stimm,en,[leben]
 stor,en,[leben]
+streich,en,[leben]
 streit,en,[leben]
 studier,en,[leben]
 such,en,[leben],(AIP*such*sucht*0)

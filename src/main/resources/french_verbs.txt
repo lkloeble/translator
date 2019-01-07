@@ -144,6 +144,7 @@ condamner@NORM%[INFINITIVE]=[condamner]%[IPR]=[condamne,condamnes,condamne,conda
 conduire@NORM%[INFINITIVE]=[conduire]%[IPR]=[conduis,conduis,conduit,conduisons,conduisez,conduisent]%[AIP]=[conduisai,conduisis,conduisit,conduisîmes,conduisîtes,conduisirent]%[PAP]=[conduit]%[AIPP]=[ai conduit,as conduit,a conduit,avons conduit,avez conduit,ont conduit]
 conferer@NORM%[INFINITIVE]=[conférer]%[IPR]=[confère,confères,confère,confèrons,confèrez,confèrent]
 confesser@NORM%[INFINITIVE]=[confesser]%[IPR]=[confesse,confesses,confesse,confessons,confessez,confessent]%[AIP]=[confessai,confessas,confessa,confessâmes,confessâtes,confessèrent]
+confier@NORM%[INFINITIVE]=[confier]%[IPR]=[confie,confies,confie,confions,confiez,confient]%[AII]=[confiais,confiais,confiait,confions,confiez,confiaient]%[PAP]=[confié]
 confirmer@NORM%[IPR]=[confirme,confirmes,confirme,confirmons,confirmez,confirment]%[INFINITIVE]=[confirmer]
 confondre@NORM%[INFINITIVE]=[confondre]%[IPR]=[confonds,confonds,confond,confondons,confondez,confondent]%[PAP]=[confondu]%[PAPR]=[confondant]
 confronter@NORM%[INFINITIVE]=[confronter]%[IPR]=[confronte,confrontes,confronte,confrontons,confrontez,confrontent]%[PAP]=[confronté]
