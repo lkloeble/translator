@@ -652,7 +652,7 @@ reveler@NORM%[INFINITIVE]=[révéler]%[IPR]=[révèle,révèles,révèle,révèl
 revenir@NORM%[INFINITIVE]=[revenir]%[IPR]=[reviens,reviens,revient,revenons,revenez,reviennent]%[PAP]=[revenu]%[AIP]=[revins,revins,revint,revînmes,revîntes,revinrent]
 reverer@NORM%[IPR]=[révère,révères,révère,révèrons,révèrez,révèrent]%[INFINITIVE]=[révérer]
 ridiculiser@NORM%[INFINITIVE]=[ridiculiser]%[IPR]=[ridiculise,ridiculises,ridiculise,ridiculisons,ridiculisez,ridiculisent]
-rire@NORM%[IPR]=[ris,ris,rie,rions,riez,rient]%[INFINITIVE]=[rire]
+rire@NORM%[INFINITIVE]=[rire]%[IPR]=[ris,ris,rie,rions,riez,rient]%[PAPR]=[riant]
 ruiner@NORM%[INFINITIVE]=[ruiner]%[IPR]=[ruine,ruines,ruine,ruinons,ruinez,ruinent]%[PAP]=[ruiné]
 s'unir@NORM%[IPR]=[m'unis,t'unis,s'unit,nous unissons,vous unissez,s'unissent]%[INFINITIVE]=[s'unir]
 saccomplir@NORM%[INFINITIVE]=[s'accomplir]%[IPR]=[m'accomplis,t'accomplis,s'accomplit,nous accomplissons,vous accomplissez,s'accomplissent]

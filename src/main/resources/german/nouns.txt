@@ -728,6 +728,7 @@ jahrhundert@neut%rest
 jahrig@adj%ausreichend
 jahrzehnt@neut%jahrzehnt
 jahve@neut%autor
+jakob@masc%inv
 januar@neut%inv
 japanisch@adj%ausreichend
 jeb@neut%inv
@@ -1020,6 +1021,7 @@ nr@neut%inv
 nummer@neut%inv
 nutzanwendung@fem%meinfem
 oberflachlich@adj%ausreichend
+obig@adj%ausreichend
 objektiv@neut%norm
 obst@neut%inv
 odem@neut%inv
@@ -1255,6 +1257,7 @@ selig@adj%ausreichend
 seltne@adj%inv
 sensibilitat@fem%inv
 sephorris@neut%inv
+sibyllist@adj%meinmasc
 sicher@adj%ausreichend
 sieben@neut%inv
 siebenfaltig@neut%inv
@@ -1458,6 +1461,7 @@ unterschied@neut%meinmasc
 untertan@neut%meinmasc
 unzucht@neut%inv
 unvollstandig@adj%ausreichend
+unvollziehbar@adj%ausreichend
 unvorstellbar@adj%ausreichend
 unwert@neut%inv
 unwurdig@adj%ausreichend
@@ -1509,7 +1513,7 @@ vernichtend@adj%ausreichend
 vernichtung@fem%meinfem
 vernunftigkeit@fem%inv
 verruckt@adj%norm
-vers@neut%inv
+vers@neut%jahrzehnt
 versailles@neut%inv
 versammlung@fem%meinfem
 versand@fem%norm
