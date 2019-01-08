@@ -85,6 +85,7 @@ public class EnglishAnalyzer implements Analizer {
     private String handleSpecialChars(String sentence) {
         return sentence.replace("ï","i")
                 .replace("A.D.","adabrev")
+                .replace("i.e.","ieabrev")
                 .replace(":"," : ")
                 .replace("ë","e");
 

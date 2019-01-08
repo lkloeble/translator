@@ -262,6 +262,7 @@ convenient@neut%invmasc
 cooking@neut%invmasc
 cool@adj%invmasc
 cor@neut%invmasc
+corn@neut%invmasc
 correct@adj%invmasc
 cornwall@neut%invmasc
 cost@neut%normmasc
@@ -773,6 +774,7 @@ map@neut%normmasc
 march@neut%invmasc
 margin@neut%normmasc
 mark@neut%invmasc
+market@neut%invmasc
 mart@neut%normmasc
 mary@fem%invfem
 masculine@adj%normmasc
