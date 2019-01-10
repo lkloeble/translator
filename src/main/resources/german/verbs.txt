@@ -128,6 +128,7 @@ entschlaf,en,[leben],(PAP*entschlaf*entschlafen*0)
 entsprech,en,[leben],(PAP*entsprech*entsprochen*0)
 entsteh,en,[entstehen],(AIP*entsteh*entstand*0)
 entweih,en,[leben]
+erblick,en,[leben]
 erdruck,en,[leben]
 ereign,en,[segnen]
 erfind,en,[mochten],(PAP*erfind*erfunden*0@AIP*erfind*erfand*0)
@@ -351,7 +352,7 @@ teil,en,[werden],(AIP*teil*teilt*0)
 text,en,[mochten]
 tipp,en,[leben]
 tob,en,[leben]
-trag,en,[lassen],(AIP*trag*trug*0)
+trag,en,[lassen],(AIP*trag*trug*0@PAP*trag*getrag*0)
 trau,en,[leben]
 treib,en,[leben]
 trenn,en,[leben]

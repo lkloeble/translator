@@ -662,6 +662,7 @@ herrlichkeit@fem%meinfem
 herrschaft@fem%meinfem
 herrscher@masc%arbeiter
 herstellung@fem%meinfem
+hervorgetreten@neut%inv
 hervorragend@adj%ausreichend
 herz@neut%herz
 herzlich@masc%meinmasc
@@ -837,6 +838,7 @@ legitim@adj%ausreichend
 legitimitat@fem%inv
 lehr@neut%inv
 lehre@fem%flasche
+lehrer@masc%autor
 leib@masc%licht
 leiblichen@adj%mein
 leiche@fem%flasche

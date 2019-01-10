@@ -603,6 +603,7 @@ entzuckung@noun!meinfem%1(noun)=découverte%2(noun)=joie
 epikur@noun!inv%1(noun)=épicure
 epikurisch@adj!ausreichend%1(adj)=épicurien
 er@prep%1(prep)=il
+erblick@verb!norm%1(verb)=voir
 erdbevolkerung@noun!inv%1(noun)=population mondiale
 erde@noun!flasche%1(noun)=terre
 erdgeschoss@noun!inv%1(noun)=rez de chaussée
@@ -1034,6 +1035,7 @@ herrscher@noun!arbeiter%1(noun)=souverain
 hervorragend@adj!ausreichend%1(adj)=excellent%2(adj)=remarquable
 herstamm@verb!norm%1(verb)=provenir
 herstellung@noun!meinfem%1(noun)=production
+hervorgetreten@noun!inv%1(noun)=apparu
 hervor@prep%1(prep)=en avant
 hervortret@verb!norm%1(verb)=emerger
 herz@noun!herz%1(noun)=coeur
@@ -1287,6 +1289,7 @@ legitimitat@noun!inv%1(noun)=légitimité
 lehr@noun!inv%1(noun)=apprentissage
 lehre@noun!flasche%1(noun)=doctrine
 lehr@verb!norm%1(verb)=enseigner
+lehrer@noun!autor%1(noun)=professeur
 leib@noun!licht%1(noun)=corps
 leiblichen@noun!mein%1(adj)=corporel%2(adj)=biologique%3(adj)=charnel
 leiche@noun!flasche%1(noun)=cadavre

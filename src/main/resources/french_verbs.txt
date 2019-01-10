@@ -333,7 +333,7 @@ exister@NORM%[INFINITIVE]=[exister]%[IPR]=[existe,existes,existe,existons,existe
 expier@NORM%[INFINITIVE]=[expier]%[IPR]=[expie,expies,expie,expions,expiez,expient]%[PAP]=[expié]
 expirer@NORM%[INFINITIVE]=[expirer]%[IPR]=[expire,expires,expire,expirons,expirez,expirent]%[PAP]=[expiré]
 expliquer@NORM%[INFINITIVE]=[expliquer]%[IPR]=[explique,expliques,explique,expliquons,expliquez,expliquent]%[PIEPRE]=[explique,expliques,explique,expliquons,expliquez,expliquent]
-exposer@NORM%[INFINITIVE]=[exposer]%[IPR]=[expose,exposes,expose,exposons,exposez,exposent]%[PARAORINFACT]=[exposer,exposer,exposer,exposer]%[PAP]=[exposé]
+exposer@NORM%[INFINITIVE]=[exposer]%[IPR]=[expose,exposes,expose,exposons,exposez,exposent]%[PARAORINFACT]=[exposer,exposer,exposer,exposer]%[PAP]=[exposé]%[PAPR]=[exposant]
 exprimer@NORM%[INFINITIVE]=[exprimer]%[IPR]=[exprime,exprimes,exprime,exprimons,exprimez,expriment]
 expulser@NORM%[INFINITVE]=[expulser]%[IPR]=[expulse,expulses,expulse,expulsons,expulsez,expulsent]%[PAP]=[expulsé]%[AIP]=[expulsai,expulsas,expulsa,expulsâmes,expulsâtes,expulsèrent]
 exulter@NORM%[IPR]=[exulte,exultes,exulte,exultons,exultez,exultent]%[AIF]=[exulterai,exulteras,exultera,exulterons,exulterez,exulteront]%[INFINITIVE]=[exulter]

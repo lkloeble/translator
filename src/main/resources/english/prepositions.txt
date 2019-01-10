@@ -248,6 +248,7 @@ upthere@prep()
 us@prep()
 utmost@prep()
 very@prep()
+viz@prep()
 what@prep()
 we@prep()%[electPluralForFollowingVerb(4)]
 what@prep()

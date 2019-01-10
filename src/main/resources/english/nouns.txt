@@ -12,6 +12,7 @@ adabrev@neut%invmasc
 adah@fem%invfem
 adam@masc%invmasc
 adequate@adj%normmasc
+adjacent@adj%normmasc
 adorned@adj%invmasc
 advantage@masc%normmasc
 affection@fem%normfem
@@ -1393,6 +1394,7 @@ writ@neut%invmasc
 writer@neut%normmasc
 writing@neut%normmasc
 wrong@neut%invmasc
+yard@masc%normmasc
 year@neut%normmasc
 yes@neut%invmasc
 young@masc%normmasc
