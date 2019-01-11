@@ -128,6 +128,7 @@ artistisch@adj!ausreichend%1(adj)=artistique
 asiatisch@adj!ausreichend%1(adj)=asiatique
 assyrien@noun!inv%1(noun)=assyrie
 asthetisch@adj!ausreichend%1(adj)=esthétique
+auffallend@adj!ausreichend%1(adj)=remarquable
 au@prep%1(noun)=aussi
 auch@prep%1(noun)=aussi
 auf@prep%1(prep)=de%2(prep)=sur%3(prep)=au dessus de
@@ -661,6 +662,7 @@ erwahn@verb!norm%1(verb)=mentionner
 erwart@verb!norm%1(verb)=attendre
 erwartende@adj!ausreichend%1(adj)=attendant
 erwerb@verb!norm%1(verb)=acquerir
+erwider@verb!norm%1(verb)=repondre
 erz@noun!jahrzehnt%1(noun)=minerai
 erzeig@verb!norm%1(verb)=montrer
 es@prep%1(prep)=la%2(prep)=cela[il]
@@ -1124,6 +1126,7 @@ international@adj!ausreichend%1(noun)=international
 interpolation@noun!inv%1(noun)=interpolation
 inzwischen@prep%1(prep)=désormais
 irgend@prep%1(prep)=en tout
+irgendwann@prep%1(prep)=n'importe quand
 irgendwo@prep%1(prep)=quelque part
 ironie@noun!inv%1(noun)=ironie
 ironiker@noun!inv%1(noun)=ironiste
@@ -1213,6 +1216,7 @@ kenntnis@noun!angst%1(noun)=connaissance
 kenntniss@noun!angst%1(noun)=connaissance
 kern@noun!meer%1(noun)=noyau
 kind@noun!ort%1(noun)=enfant
+kinnback@noun!meinfem%1(noun)=maxillaire
 kirche@noun!flasche%1(noun)=église
 kirsche@noun!flasche%1(noun)=cerise
 klar@adj!ausreichend%1(adj)=clair
@@ -1286,6 +1290,7 @@ leer@adj!inv%1(adj)=vide
 leg@verb!norm%1(verb)=reposer
 legitim@adj!ausreichend%1(adj)=légitime
 legitimitat@noun!inv%1(noun)=légitimité
+lehn@noun!inv%1(noun)=repos
 lehr@noun!inv%1(noun)=apprentissage
 lehre@noun!flasche%1(noun)=doctrine
 lehr@verb!norm%1(verb)=enseigner
@@ -1917,7 +1922,7 @@ statthalter@noun!arbeiter%1(noun)=vice-roi%2(noun)=chambellan%3(noun)=gouverneur
 steh@verb!norm%1(verb)=rester%2(verb)=figurer%3(verb)=tenir
 steig@verb!norm%1(verb)=monter
 stell@verb!norm%1(verb)=poser
-stelle@noun!meinfem%1(noun)=position%2(noun)=place
+stelle@noun!flasche%1(noun)=position%2(noun)=place
 sterb@verb!norm%1(verb)=mourir
 stern@noun!meer%1(noun)=étoile
 stier@noun!meer%1(noun)=taureau
@@ -2027,6 +2032,7 @@ trink@verb!norm%1(verb)=boire
 trocken@noun!ausreichend%1(adj)=sec
 trost@verb!norm%1(verb)=consoler
 trost@noun!jahrzehnt%1(noun)=réconfort
+trosterei@noun!inv%1(noun)=consolation
 trotz@noun!meer%1(noun)=défi
 trotzig@adj!ausreichend%1(adj)=rebelle
 trunk@noun!jahrzehnt%1(noun)=boisson

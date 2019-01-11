@@ -94,6 +94,7 @@ artistisch@adj%ausreichend
 asiatisch@adj%ausreichend
 assyrien@neut%inv
 asthetisch@adj%ausreichend
+auffallend@adj%ausreichend
 aufgabe@fem%flasche
 aufgewendet@adj%ausreichend
 auflosung@fem%meinfem
@@ -783,6 +784,7 @@ kenntnis@fem%angst
 kenntniss@fem%angst
 kern@masc%meer
 kind@masc%ort
+kinnback@fem%meinfem
 kirche@fem%flasche
 kirsche@fem%flasche
 klasse@fem%flasche
@@ -836,6 +838,7 @@ leer@adj%inv
 ledig@adj%ausreichend
 legitim@adj%ausreichend
 legitimitat@fem%inv
+lehn@neut%inv
 lehr@neut%inv
 lehre@fem%flasche
 lehrer@masc%autor
@@ -1310,7 +1313,7 @@ starkst@adj%ausreichend
 statt@fem%inv
 statte@fem%flasche
 statthalter@masc%arbeiter
-stelle@fem%meinfem
+stelle@fem%flasche
 stern@masc%meer
 stier@masc%meer
 stillstehn@fem%inv
@@ -1398,6 +1401,7 @@ trauertag@neut%inv
 traurig@adj%inv
 treu@adj%ausreichend
 trost@masc%jahrzehnt
+trosterei@neut%inv
 trotz@masc%meer
 trotzig@adj%ausreichend
 trocken@adj%ausreichend

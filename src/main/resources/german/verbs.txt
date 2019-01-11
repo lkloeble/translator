@@ -157,6 +157,7 @@ erwachs,en,[genesen],(AII*erwachs*erwuchs*0)
 erwahn,en,[leben]
 erwart,en,[segnen],(PAP*erwart*erwartet*0)
 erwerb,en,[rufen],(AIP*erwe*erwa*0)
+erwider,n,[leben]
 erzeig,en,[leben]
 erzeug,en,[leben]
 ess,en,[leben],(IPR1*ess*is*0)
