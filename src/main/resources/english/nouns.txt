@@ -115,6 +115,7 @@ bitter@adj%normmasc
 bitumen@neut%invmasc
 bituminous@adj%invmasc
 black@adj%normmasc
+blast@neut%normmasc
 blood@neut%normmasc
 blouse@fem%normfem
 blue@adj%invmasc
@@ -904,6 +905,7 @@ originally@neut%invmasc
 other@neut%normmasc
 ought@neut%invmasc
 outer@neut%invmasc
+oven@neut%normmasc
 owner@neut%normmasc
 p@neut%invmasc
 pace@neut%normmasc
@@ -1381,6 +1383,7 @@ wink@neut%normmasc
 wise@adj%normmasc
 wisdom@fem%invfem
 wisedome@fem%invfem
+witch@neut%church
 witness@neut%church
 wood@neut%normmasc
 word@neut%normmasc
