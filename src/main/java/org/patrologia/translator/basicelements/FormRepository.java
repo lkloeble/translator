@@ -31,6 +31,9 @@ public class FormRepository {
         */
         boolean firstResult = allPossibleWordsValue.contains(initialValue) || allPossibleWordsValue.contains(accentuer.unaccentued(initialValue));
         if(!firstResult) {
+            firstResult = allPossibleWordsValue.contains(accentuer.unaccentuedWithSofit(initialValue));
+        }
+        if(!firstResult) {
             return allPossibleWordsValue.contains(infinitiveBuilder.getInfinitiveFromInitialValue(initialValue)) || allPossibleWordsValue.contains(accentuer.unaccentued(infinitiveBuilder.getInfinitiveFromInitialValue(initialValue)));
         }
         return firstResult;
@@ -40,15 +43,18 @@ public class FormRepository {
         if(formCorrespondances.get(form) != null) {
            return formCorrespondances.get(form).getValue();
         }
-        Form formUpdated = formCorrespondances.get(form.updateToUnaccentued());
+        Form updateToUnaccentued = form.updateToUnaccentued();
+        Form formUpdated = formCorrespondances.get(updateToUnaccentued);
         if(formUpdated != null) {
             return formUpdated.getValue();
         }
-        formUpdated = formCorrespondances.get(form.updateToUnaccentuedOriginValue());
+        Form updateToUnaccentuedOriginValue = form.updateToUnaccentuedOriginValue();
+        formUpdated = formCorrespondances.get(updateToUnaccentuedOriginValue);
         if(formUpdated != null) {
             return formUpdated.getValue();
         }
-        formUpdated = formCorrespondances.get(form.updateToDefaultPreferedTranslation());
+        Form updateToDefaultPreferedTranslation = form.updateToDefaultPreferedTranslation();
+        formUpdated = formCorrespondances.get(updateToDefaultPreferedTranslation);
         if(formUpdated != null) {
             return formUpdated.getValue();
         }

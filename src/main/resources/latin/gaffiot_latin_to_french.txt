@@ -891,6 +891,7 @@ lib@noun!er-ri%1(noun)=livre
 libatio@noun!x-nis%1(noun)=libation
 liber@noun!us-i%1(noun)=enfant
 libero@verb!norm%1(verb)=liberer
+lic@verb!norm%1(verb)=estpermis
 lign@noun!um-i%1(noun)=bois%2(noun)=arbre
 lili@noun!a-ae%1(noun)=lilas
 lim@noun!us-i%1(noun)=limon
@@ -1384,6 +1385,7 @@ resto@verb!norm%1(verb)=demeurer%2(verb)=rester
 resulto@verb!norm%1(verb)=retentir
 resurgen@adj!s-s-s%1(adj)=ressuscité
 resurgo@verb!norm%1(verb)=ressusciter
+rogo@verb!norm%1(verb)=demander
 resurrecti@noun!o-onis%1(noun)=resurrection
 rideo@verb!norm%1(verb)=rire
 rhen@noun!us-i%1(noun)=rhin
@@ -1721,6 +1723,7 @@ volatil@adj!is-is-e%1(adj)=volant
 volo@verb!irrg%1(verb)=souhaiter%2(verb)=vouloir
 voluc@adj!er-ris-re%1(adj)=ailé
 volum@noun!en-inis%1(noun)=livre
+volunta@noun!s-tis2%1(noun)=volonté
 volupt@noun!as-atis%1(noun)=plaisir
 vot@adj!us-a-um%1(adj)=prière
 zizani@noun!um-i%1(noun)=zizanie

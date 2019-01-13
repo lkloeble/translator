@@ -32,6 +32,7 @@ atsxrik@neut%invpur
 att@masc%invpur
 b65hw@neut%invpur
 bit@masc%im
+bitdinexpr@masc%invpur
 b62n000@masc%im-ot
 b30565q62r@masc%im
 bwqr@masc%im
@@ -45,6 +46,8 @@ bt@fem%ot2
 bnwt@fem%otplr
 d64b64r@masc%im
 dbri@masc%invmasc
+din@masc%im
+dyt@fem%invpur
 dp@masc%im
 drk@masc%im
 drsh@fem%invpur
@@ -96,9 +99,10 @@ ihwswy@masc%invmasc%
 iw331m000@masc%custom(nomplr=imim000|cst(nomplr)=imi|cst(nomsg)=iwm&|nomsg=iwm000)
 iwsp@masc%invpur
 ilqwx@neut%invpur
-its'hq@masc%invpur
 i60r56a63t@neut%imonly
 i56rw309s29864l63i60m000@masc%invmasc
+ir'h@masc%im
+its'hq@masc%invpur
 i60s29956r64a61l@masc%invmasc
 i63d@masc%im
 i61y58q65b@masc%invmasc
@@ -198,6 +202,7 @@ tsdq@masc%im
 tswtn@neut%invmasc
 ts63d60iq@adj%im-ot
 tsrik@masc%im
+qbiyh@fem%invpur
 qdmt@neut%im
 qds@adj%im-ot
 q64dw331s298@adj%im-ot
@@ -273,6 +278,7 @@ t56hw65m000@neut%invpur
 tw@masc%imsimple
 twly@neut%invpur
 twr@fem%endingh
+twspwt@neut%invpur
 t'hil@fem%ot
 tiamr@neut%invpur
 tibt@neut%invpur

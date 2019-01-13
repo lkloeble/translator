@@ -32,6 +32,9 @@ public class ConjugationMap {
 
     public Set<String> get(String key) {
         Set<String> firstResults = internalMap.get(key) != null ? internalMap.get(key) : internalMap.get(accentuer.unaccentued(key));
+        if(firstResults == null) {
+            firstResults = internalMap.get(accentuer.unaccentuedWithSofit(key));
+        }
         if(firstResults != null) return firstResults;
         return internalMap.get(infinitiveBuilder.getInfinitiveFromInitialValue(key));
     }

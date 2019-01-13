@@ -101,10 +101,13 @@ bw@prep%1(prep)=en lui
 b305w331@prep()%1(prep)=en lui
 bwa@verb!norm%1(verb)=apporter
 b'hr@verb!norm%1(verb)=choisir
+bi'hd@prep()%1(prep)=ensemble
 b30561in000@prep%1(prep)=entre
 bin000@prep%1(prep)=entre
 b61in000@prep%1(prep)=entre
+bini@prep%1(prep)=entre moi
 bit@noun!im%1(noun)=maison
+bitdinexpr@noun!invpur%1(noun)=tribunal (beit din)
 bk@prep%1(prep)=en toi
 bkm@prep%1(prep)=en nous
 b62n000@noun!im-ot%1(noun)=fils
@@ -137,7 +140,9 @@ grs@verb!norm%1(verb)=declarer
 d@prep%1(prep)=qui
 dbr@verb!norm%1(verb)=parler
 dbri@noun!invmasc%1(noun)=paroles de
+din@noun!invmasc%1(noun)=droit%2(noun)=justice
 dnn@verb!norm%1(verb)=discuter
+dyt@noun!invpur%1(noun)=opinion
 dp@noun!im%1(noun)=page
 d64b64r@noun!im%1(noun)=chose,acte%2(noun)=parole
 dktib@prep%1(prep)=comme dit l'écriture
@@ -196,7 +201,7 @@ zhw@prep%(prep)=cela est
 zhr@noun!invpur%1(noun)=zohar
 zkh@verb!norm%1(verb)=gagner
 zkr@verb!norm%1(verb)=sesouvenir
-zkr2@verb!norm%1(verb)=sesouvenir
+zkr$@verb!norm%1(verb)=sesouvenir
 zlexpr@noun!invpur%1(noun)=que sa mémoire soit une bénédiction%2(noun)=voici ses paroles
 zmn@noun!im%1(noun)=temps
 z64q61n000@noun!adj%1(adj)=ancien
@@ -204,10 +209,11 @@ zw@prep%(prep)=ce
 zwma@noun!invpur%(noun)=zoma
 zry@noun!im%1(noun)=semence
 zry@verb!norm%1(verb)=semer
-zry2@verb!norm%1(verb)=semer
+zry$@verb!norm%1(verb)=semer
 ztslexpr@noun!invpur%1(noun)=de mémoire bénie
 'hds@adj!im-ot%1(noun)=mois%2(adj)=nouveau
 'h65d62s@noun!im%1(noun)=mois
+'hds@verb!norm%1(verb)=renouveler
 'hwb@noun!mascot%1(noun)=dette
 'hwb@noun!ot%1(noun)=obligation
 'hwbt@noun!invpur%1(noun)=obligation
@@ -244,6 +250,7 @@ i60r56a63t@noun!imonly%1(noun)=crainte
 ird@verb!norm%1(verb)=descendre
 inq@verb!norm%1(verb)=allaiter
 i56rw309s29864l63i60m000@noun!invmasc%1(noun)=jérusalem
+ir'h@noun!im%1(noun)=mois%2(noun)=lune
 is@prep%(prep)=il y a
 isb@verb!norm%1(noun)=demeurer
 i56s298w309y64@noun!ot%1(noun)=salut
@@ -251,7 +258,7 @@ i56s298w309y64h@noun!invpur%1(noun)=josué
 i64s29863r@adj!im-ot%1(adj)=correct%2(adj)=honnête
 i60s29956r64a61l@noun!invmasc%1(noun)=israël
 itsa@verb!norm%1(verb)=sortir
-itsa2@verb!norm%1(verb)=sortir
+itsa$@verb!norm%1(verb)=sortir
 its'hq@noun!invpur%1(noun)=isaac
 k@prep%1(prep)=comme
 k56@prep%1(prep)=comme
@@ -281,6 +288,7 @@ kl@prep%1(prep)=tout
 k31564l@prep%1(prep)=tout
 k64l@prep%1(prep)=tout
 kwl@prep%1(prep)=tout
+klwmr@prep%1(prep)=ce qui signifie
 kmw@prep%1(prep)=comme
 kmwk@prep%1(prep)=comme toi
 k64mw331k00064@prep%1(prep)=comme toi
@@ -290,7 +298,7 @@ kpr@verb!norm%1(verb)=renier
 knst@noun!invpur%1(noun)=knesset%2(noun)=assemblée
 krt@verb!norm%1(verb)=couper
 ksh@verb!norm%1(verb)=couvrir
-ksh2@verb!norm%1(verb)=couvrir
+ksh$@verb!norm%1(verb)=couvrir
 krti@noun!invmasc%1(noun)=poireau
 ktib@noun!invpur%1(noun)=écriture
 ksofit@prep%1(prep)=de-toi
@@ -304,10 +312,12 @@ lbn@noun!invmasc%1(noun)=blanc%2(noun)=laban
 l63i56l64h@noun!custom(nomplr=lilwt|cst(nomsg)=lil&|nomsg=lilh)%1(noun)=nuit
 l64i56l64h@noun!custom(nomplr=lilwt|cst(nomsg)=lil&|nomsg=lilh)%1(noun)=nuit
 lmd@verb!norm%1(verb)=enseigner
+lmd$@verb!norm%1(verb)=enseigner
 lmh@prep%1(prep)=pourquoi
 lminhw@prep%1(prep)=selon son type
 lmyn@prep%1(prep)=afin que
 lpikk@prep%1(prep)=par conséquent
+lpnikm@prep%1(prep)=devant vous
 lw@prep%1(prep)=pour lui
 lw331@prep%1(prep)=pour lui
 l'hm@noun!invpur%1(noun)=pain
@@ -369,6 +379,7 @@ msli@noun!invpur%1(noun)=livre des proverbes
 msnh@noun!invpur%1(noun)=mishna
 msi'h@noun!invpur%1(noun)=messie
 msikir@noun!invmasc%1(noun)=meshearir%2(noun)=lorsque l'on sait reconnaître
+msk@verb!norm%1(verb)=durer
 msl@verb!norm%1(verb)=diriger
 mspx@noun!im%1(noun)=justice%2(noun)=juge%3(noun)=jugement
 msth@noun!invmasc%1(noun)=fête%2(noun)=banquet
@@ -387,12 +398,12 @@ n'hl@verb!norm%1(verb)=heriter
 nia@verb!norm%1(verb)=dissuader
 nkns@verb!norm%1(verb)=entrer
 nxh@verb!norm%1(verb)=incliner
-nxh2@verb!norm%1(verb)=incliner
+nxh$@verb!norm%1(verb)=incliner
 nxl@verb!norm%1(verb)=assumer%2(verb)=prendre
 nm@verb!norm%1(verb)=dormir
 nyr@verb!norm%1(verb)=braire
 ntn@verb!norm%1(verb)=donner
-ntn2@verb!norm%1(verb)=donner
+ntn$@verb!norm%1(verb)=donner
 nts@noun!im%1(noun)=faucon%2(noun)=floraison
 nsa@verb!norm%1(verb)=porter
 pdgwg@noun!im%1(noun)=pédagogue
@@ -415,6 +426,8 @@ tswh@verb!norm%1(verb)=ordonner
 ts63d60iq@adj!im-ot%1(adj)=juste
 tsny@verb!norm%1(verb)=cacher
 qai@prep%1(prep)=(expre intraduisible :fait référence à)
+qbiyh@noun!invpur%1(noun)=décision
+qby@verb!norm%1(verb)=determiner
 qdmt@noun!im%1(noun)=introduction
 qds@adj!im-ot%1(noun)=saint
 q64dw331s298@adj!im-ot%1(noun)=saint
@@ -559,6 +572,7 @@ t65hw@noun!invpur%1(noun)=informe
 tw@noun!imsimple%1(noun)=note%2(noun)=marque%3(noun)=lettre
 twk000@prep%1(prep)=intérieur
 twly@noun!invpur%1(noun)=pourpre
+twspwt@noun!invpur%1(noun)=tosafot
 twr@noun!endingh%1(noun)=torah
 t'hil@noun!ot%1(noun)=commencement
 t'ht@prep%1(prep)=à la place de%2(prep)=sous
@@ -577,7 +591,7 @@ tsw@noun!im%1(noun)=ordre%2(noun)=décret
 xw331b@noun!im-ot%1(noun)=bon
 xbl@verb!norm%1(verb)=immerger
 xhr@verb!norm%1(verb)=etrepurifie
-xhr2@verb!norm%1(verb)=etrepurifie
+xhr$@verb!norm%1(verb)=etrepurifie
 xwma@noun!endingh%1(noun)=impureté
 xma@verb!norm%1(verb)=profaner
 xxdexx@prep%1(prep)=de

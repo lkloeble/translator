@@ -167,7 +167,7 @@ fug,o,as,are,avi,atum,[o-as]
 ger,o,is,ere,,,[o-is]
 germin,o,as,are,,,[o-as],(ASI*germin*germinar*0)
 gubern,o,as,are,,,[o-as]
-hab,eo,es,ere,foo,bar,[eo-es2],(ASP*hab*habe*0@AIP*hab*habu*0)
+hab,eo,es,ere,foo,bar,[eo-es2],(ASP*hab*habe*0@AIP*hab*habu*0@ASI*hab*haber*0)
 habit,o,as,are,avi,atus,[o-as]
 hort,or,aris,ari,,,[or-aris]
 illud,o,is,ere,,,[o-is]
@@ -213,6 +213,7 @@ lat,eo,es,ere,,,[eo-es]
 laud,o,as,are,avi,atum,[o-as]
 leg,o,is,ere,,,[o-is],(ASPP*leg*legiss*0)
 liber,o,as,are,,,[o-as]
+lic,,,ere,,,[eo-es2],(ASP*lic*lice*0)
 loqu,or,eris,i,,,[or-eris]
 luc,eo,es,ere,,,[eo-es]
 lud,o,is,ere,,,[o-is]
@@ -309,6 +310,7 @@ respond,eo,es,ere,,,[eo-es]
 rest,o,as,are,,,[o-as]
 result,o,as,are,,,[o-as]
 resurg,o,is,are,,,[o-is],(AIP*resurg*resurrex*0)
+rog,o,as,are,,,[o-as]
 rid,eo,es,ere,,,[eo-es]
 salt,o,as,are,,,[o-as]
 salut,o,as,are,,,[o-as]

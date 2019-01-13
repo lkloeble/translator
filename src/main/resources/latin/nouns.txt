@@ -1073,6 +1073,7 @@ vocat@adj%us-a-um
 volatil@adj%is-is-e
 voluc@adj%er-ris-re
 volum@neut%en-inis
+volunta@fem%s-tis2
 volupt@fem%as-atis
 vot@adj%us-a-um
 vo@fem%x-cis
