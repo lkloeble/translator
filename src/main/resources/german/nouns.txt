@@ -1161,6 +1161,7 @@ revolution@neut%inv
 rezension@fem%meinfem
 rezipiert@masc%meinmasc
 richard@neut%inv
+richtig@adj%ausreichend
 rippe@fem%flasche
 rituell@adj%ausreichend
 rock@neut%inv
@@ -1370,6 +1371,7 @@ termin@neut%inv
 testament@neut%norm
 teuer@neut%inv
 teufel@neut%inv
+text@neut%jahrzehnt
 thema@neut%autor
 themen@neut%inv
 theologie@fem%inv
@@ -1451,6 +1453,7 @@ ungleich@adj%ausreichend
 ungriechischest@adj%ausreichend
 unheimlich@adj%ausreichend
 unheimlichst@adj%ausreichend
+unhold@masc%jahrzehnt
 unklarheit@fem%meinfem
 unlustigkeit@neut%inv
 unmoglich@neut%meinmasc
@@ -1647,6 +1650,7 @@ wurst@fem%wurst
 wust@adj%mein
 wutend@adj%ausreichend
 zahl@neut%meinmasc
+zarathustra@masc%inv
 zauber@neut%inv
 zeh@masc%zeh
 zehn@neut%inv

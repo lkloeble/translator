@@ -253,7 +253,7 @@ leg,en,[leben]
 lehr,en,[leben],(PAPR*lehr*lehrend*0)
 leit,en,[wenden]
 lern,en,[leben]
-les,en,[rufen],(IPR124*les*lies*0@PAP*les*geles*0@AIP*les*las*0)
+les,en,[rufen],(IPR124*les*lies*0@PAP*les*geles*0@AIP*les*las*0@AIMP1*les*lies*0)
 lieb,en,[leben],(PAPR*lieb*liebend*0)
 lieg,en,[rufen],(AIP*lieg*lag*0)
 lock,en,[leben]
@@ -367,6 +367,7 @@ ubersetz,en,[leben]
 uberwach,en,[leben]
 unterweis,en,[genesen],(PAP*unterweis*unterwiesen*0)
 uberwieg,en,[leben]
+umander,n,[leben],(PAP*umander*umgeandert*0)
 unterzeichn,en,[mochten]
 unterzieh,en,[rufen],(AIP*unterzieh*unterzog*0@PAP*unterzieh*unterzog*0)
 verberg,en,[leben],(IPR12*verbe*verbi*0)

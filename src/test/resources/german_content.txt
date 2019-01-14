@@ -657,9 +657,9 @@ strackp11par056=>"Dieser ist der König, der Messias" משיהא דין הוא �
 strackp11par057=>Aqiba, Gras wird auf deinen Kinnbacken (aus dem Grabe) wachsen,
 strackp11par058=>und noch immer nicht wird der Sohn Davids (der Messias) gekommen sein !
 strackp11par059=>– Die Lehnstelle Midr KL 2,2 (62B) weicht im ersten Satze auffallend ab : R. Jochanan (tot 279) hat gesagt :
-strackp11par060=>Rabbi hat öffentlich vorgetragen : „Hervorgetreten ist ein Stern aus Jakob“;
-strackp11par061=>lies nicht kokhab (Stern), sondern Kozeb (Lügner)“.
-strackp11par062=>Aus dem richtigen Text pTaan ist der Andre so enstanden, daß zunächst R. Schimeon b. Jochai umgeändert wurde in R. Jochanan;
+strackp11par060=>Rabbi hat öffentlich vorgetragen : "Hervorgetreten ist ein Stern aus Jakob";
+strackp11par061=>lies nicht kokhab (Stern), sondern Kozeb (Lügner)".
+strackp11par062=>Aus dem richtigen Text pTaan ist der Andre so entstanden, daß zunächst R. Schimeon b. Jochai umgeändert wurde in R. Jochanan;
 strackp11par063=>in dessen Munde konnte dann „Rabbi“ nicht mehr „mein Lehrer“ heißen;
 strackp11par064=>man setzte es deshalb unter Weglassung von „Aqiba“ um in den Eigennammen „Rabbi“ = Jehuda I(1).
 strackp11par065=>Noch in andrer Hinsicht ist Midr KL 2,2 (63A) bemerkenswert.
