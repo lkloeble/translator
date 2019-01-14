@@ -760,6 +760,7 @@ fruitful@noun!invmasc%1(noun)=fructueux%2(noun)=fertile%3(noun)=fécond
 fruitfulness@noun!invmasc%1(noun)=fertilité%2(noun)=fécondité
 fugitive@adj!normmasc%1(adj)=fugitif
 fully@prep%1(prep)=complètement
+funeral@noun!normmasc%1(noun)=funéraille
 furlong@noun!normmasc%1(noun)=furlong
 further@prep%1(prep)=davantage%2(prep)=plus loin
 galilee@noun!invmasc%1(noun)=galilée
@@ -962,6 +963,7 @@ inscription@noun!normmasc%1(noun)=inscription
 instruction@noun!normmasc%1(noun)=instruction
 instructor@noun!normmasc%1(noun)=instructeur
 intended@adj!invmasc%1(adj)=voulu
+intent@adj!invmasc%1(adj)=absorbé
 intercalate@verb!norm%1(verb)=intercaler
 intercalation@noun!normmasc%1(noun)=insertion
 interest@noun!normmasc%1(noun)=intérêt
@@ -1367,6 +1369,7 @@ peculiar@adj!normmasc%1(adj)=bizarre%2(adj)=étrange%3(adj)=particulier
 pentateuch@noun!invmasc%1(noun)=pentateuque
 people@noun!normmasc%1(noun)=gens%2(noun)=peuple
 peopled@noun!invmasc%1(noun)=peuplé
+perform@verb!norm%1(verb)=realiser
 performe@noun!invmasc%1(noun)=réaliser
 perhaps@prep%1(prep)=peut-être
 perish@verb!norm%1(verb)=perir
@@ -1459,6 +1462,7 @@ protestant@noun!normmasc%1(noun)=protestant
 providence@noun!invmasc%1(noun)=providence
 provision@noun!normmasc%1(noun)=provision
 psalm@noun!normmasc%1(noun)=psaume
+publican@noun!normmasc%1(noun)=publicain
 publish@verb!norm%1(verb)=publier
 punishment@noun!normmasc%1(noun)=punition
 purify@verb!norm%1(verb)=purifier

@@ -507,6 +507,7 @@ fruit@masc%normmasc
 fruitful@adj%invmasc
 fruitfulness@neut%invmasc
 fugitive@adj%normmasc
+funeral@neut%normmasc
 furlong@neut%normmasc
 galilee@neut%invmasc
 galler@fem%endy
@@ -647,6 +648,7 @@ inscription@neut%normmasc
 instructor@neut%normmasc
 instruction@neut%normmasc
 intended@adj%invmasc
+intent@adj%invmasc
 intercalation@neut%invmasc
 interest@masc%normmasc
 interesting@neut%invmasc
@@ -1006,6 +1008,7 @@ protestant@neut%normmasc
 providence@neut%invmasc
 provision@neut%normmasc
 psalm@neut%normmasc
+publican@neut%normmasc
 punishment@neut%normmasc
 purpose@neut%normmasc
 purposed@neut%invmasc
