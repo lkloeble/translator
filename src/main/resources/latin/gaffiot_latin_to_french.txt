@@ -124,6 +124,7 @@ aqu@noun!a-ae%1(noun)=eau%2(noun)=eau de riviere%3(expr)=praebere aquam : offrir
 aquitan@adj!us-a-um%1(adj)=aquitain
 aquitani@noun!a-ae%1(noun)=aquitaine
 arbitror@verb!norm%1(verb)=observer%2(verb)=juger
+arripio@verb!norm%1(verb)=saisir
 ascendo@verb!norm%1(verb)=jaillir%2(verb)=grimper%3(verb)=monter
 assumo@verb!norm%1(verb)=accepter%2(verb)=adopter%3(verb)=recevoir
 arabi@noun!a-ae%1(noun)=arabie
@@ -313,7 +314,7 @@ constitut@noun!um-i%1(noun)=accord%2(noun)=arrangement
 conspurcat@adj!us-a-um%1(adj)=pollué
 constituo@verb!norm%1(verb)=etablir
 consuetud@noun!o-inis%1(noun)=usage
-consul@noun!x-is%1(noun)=consul
+consul@noun!x-is2%1(noun)=consul
 consumo@verb!norm%1(verb)=consommer
 contendo@verb!norm%1(verb)=provoquer
 contemno@verb!norm%1(verb)=mepriser
@@ -327,6 +328,7 @@ controversi@noun!a-ae%1(noun)=contradiction%2(noun)=procès%3(noun)=dispute
 convent@adj!us-a-um%1(adj)=réuni
 conversat@adj!us-a-um%1(adj)=dépassé
 convenio@verb!norm%1(verb)=venir ensemble,se rassembler%2(verb)=convenir de,s'adapter%3(verb)=rencontrer qqun%4(verb)=sassembler
+convict@adj!us-a-um%1(adj)=convaincu
 convinco@verb!norm%1(verb)=condamner%2(verb)=conquerir%3(verb)=convaincre
 conviv@noun!a-ae%1(noun)=invité
 coopert@adj!us-a-um%1(adj)=recouvert
@@ -625,6 +627,7 @@ fortitud@noun!o-inis%1(noun)=courage%2(noun)=force
 frat@noun!er-ris%1(noun)=frère
 fruct@noun!us-i%1(noun)=résultat%2(noun)=profit%3(noun)=satisfaction%4(noun)=fruit
 frument@noun!um-i%1(noun)=grain
+fug@noun!a-ae%1(noun)=exil%2(noun)=fuite
 fugo@verb!norm%1(verb)=fairefuir
 fundo@verb!norm%1(verb)=repandre
 fus@noun!us-i%1(noun)=broche
@@ -670,6 +673,7 @@ habito@verb!norm%1(verb)=habiter
 hac@prep%1(prep)=cette
 haec@prep%1(prep)=ces
 haeres@noun!is-is%1(noun)=hérésie
+haeresiarch@noun!a-ae%1(noun)=hérésiarque
 hanc@prep%1(prep)=ce
 hebrae@adj!us-a-um%1(adj)=judeen%2(adj)=hebreu
 helen@noun!a-ae%1(noun)=hélène
@@ -960,6 +964,7 @@ medi@adj!us-a-um%1(noun)=milieu
 mei@prep%1(prep)=mes
 meis@prep%1(prep)=mes
 melit@noun!a-ae%1(noun)=malte
+memori@noun!a-ae%1(noun)=mémoire
 memoro@verb!o-as%1(verb)=sesouvenir
 metuo@verb!o-as%1(verb)=avoirpeur
 men@noun!s-tis2%1(noun)=esprit
@@ -1081,6 +1086,7 @@ observo@verb!norm%1(verb)=observer
 obtentur@adj!us-a-um%1(adj)=sur le point de posséder
 obtineo@verb!norm%1(verb)=posseder
 occasi@noun!o-onis%1(noun)=opportunité%2(noun)=occasion
+occis@adj!us-a-um%1(adj)=abattu
 occulti@adj!or-or-us%1(adj)=mieux caché
 occupat@adj!us-a-um%1(adj)=occupé
 occupati@noun!o-onis%1(noun)=devoir%2(noun)=occupation
@@ -1138,6 +1144,7 @@ pario@verb!norm%1(verb)=donnernaissance
 paro@verb!norm%1(verb)=preparer
 parat@adj!us-a-um%1(adj)=préparé
 parati@adj!or-or-us%1(adj)=mieux préparé
+paren@noun!s-tis%1(noun)=parent
 parv@adj!us-a-um%1(adj)=insignifiant%2(adj)=petit
 parvul@adj!us-a-um%1(adj)=insignifiant%2(adj)=petit
 pasch@noun!a-ae%1(noun)=pâque
@@ -1148,6 +1155,7 @@ pateo@verb!norm%1(verb)=etreouvert
 patior@verb!norm%1(verb)=souffrir
 patro@verb!norm%1(verb)=accomplir
 pat@noun!er-ris%1(noun)=père de famille,maître de maison%2(noun)=fondateur%3(noun)=vieillard%4(noun)=père
+patefact@adj!us-a-um%1(adj)=décrit%2(adj)=ouvert
 patern@adj!us-a-um%1(adj)=paternel
 patientissim@adj!us-a-um%1(adj)=le plus patient
 pauc@adj!us-a-um%1(adj)=peu nombreux
@@ -1158,6 +1166,7 @@ pecuni@noun!a-ae%1(noun)=argent
 pene@noun!inv%1(noun)=[pene trad non trouvée]
 penit@adj!us-a-um%1(noun)=intérieur
 per@prep%1(prep)=au moyen de%2(prep)=par
+perculs@adj!us-a-um%1(noun)=battu
 perdo@verb!norm%1(verb)=perdre%2(verb)=detruire
 perduco@verb!norm%1(verb)=détruire%2(verb)=perdre
 perduell@noun!is-is%1(noun)=ennemi
@@ -1251,6 +1260,7 @@ pretios@adj!us-a-um%1(adj)=coûteux%2(adj)=précieux
 prim@adj!us-a-um%1(adj)=le plus en avant, le plus avance, le premier%2(adj)=le premier rang%3(adj)=le plus important, le principal%4(adj)=la premiere partie, le commencement%5(adj)=premier
 primigeni@adj!us-a-um%1(adj)=originel
 princip@adj!s-s-s2%1(adj)=premier
+princip@noun!x-is2%1(noun)=dirigeant
 principi@noun!um-i%1(noun)=ce qui commence%2(noun)=fondement,origine%3(noun)=commencement
 principat@noun!us-us%1(noun)=suprématie%2(noun)=leadership%3(noun)=règle%4(noun)=première place
 prius@prep%1(prep)=précédemment
@@ -1283,6 +1293,7 @@ propter@prep%1(prep)=à cause de%2(prep)=proche
 propterea@prep%1(prep)=pour cette raison
 prosterno@verb!norm%1(verb)=seprosterner
 prosto@verb!norm%1(verb)=projetter%2(verb)=offrir
+prostrat@adj!us-a-um%1(adj)=prostré
 protestat@adj!us-a-um%1(adj)=certifié%2(adj)=protesté
 providenti@noun!a-ae%1(noun)=providence
 provinci@noun!a-ae%1(noun)=province
@@ -1299,6 +1310,7 @@ pulcher@noun!inv%1(noun)=beau
 pulcherrim@adj!us-a-um%1(adj)=très beau
 pulchr@adj!us-a-um%1(adj)=beau
 pulso@verb!norm%1(verb)=pousser
+puls@noun!us-us%1(noun)=impulsion
 puri@adj!or-or-us%1(adj)=plus propre
 pyrenae@noun!x-ri%1(noun)=pyrénées
 qualibet@prep%1(prep)=n'importe où
@@ -1660,6 +1672,7 @@ ut@prep%1(adv)=comme%2(adv)=de quelle maniere%3(adv)=quand,aussitot que,depuis q
 uterque@noun!inv%1(noun)=chacun
 uti@prep%1(adv)=comme%2(adv)=de quelle maniere%3(adv)=quand,aussitot que,depuis que%4(adv+subj)=afin que,pour que,de telle sorte que%4(adv)=comme
 utor@verb!norm%1(verb)=utiliser
+utut@prep%1(adv)=de quelque manière
 uxor@noun!x-is%1(noun)=épouse
 vacu@adj!us-a-um%1(adj)=desert
 vado@verb!norm%1(verb)=marcher
@@ -1693,6 +1706,7 @@ vet@adj!adj-us-eris%1(adj)=de vieille date,qui remonte loin%2(adj)=d'autrefois,d
 vi@noun!a-ae%1(noun)=chemin,route,voie%2(noun)=voie,rue%3(noun)=route,voyage,trajet,course%4(noun)=passage,conduit,canal%5(noun)=moyen,procede,methode%6(noun)=chemin
 vic@noun!us-i%1(noun)=village
 victori@noun!a-ae%1(noun)=victoire
+vict@noun!us-us%1(noun)=nourriture%2(noun)=vivant
 video@verb!norm%1(verb)=observer,noter%2(verb)=voir
 vill@noun!a-ae%1(noun)=demeure%2(noun)=propriété
 vin@noun!um-i%1(noun)=vin

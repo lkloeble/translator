@@ -202,13 +202,14 @@ conspurcat@adj%us-a-um
 constan@adj%s-s-s
 constitut@neut%um-i
 consuetud@fem%o-inis
-consul@masc%x-is
+consul@masc%x-is2
 contract@adj%us-a-um
 contrit@adj%us-a-um
 controversi@fem%a-ae
 conviv@fem%a-ae
 convent@adj%us-a-um
 conversat@adj%us-a-um
+convict@adj%us-a-um
 coopert@adj%us-a-um
 copi@fem%a-ae
 corneli@masc%us-i
@@ -384,6 +385,7 @@ fortitud@fem%o-inis
 frat@masc%er-ris
 fruct@masc%us-i
 frument@neut%um-i
+fug@fem%a-ae
 fus@masc%us-i
 galilae@fem%a-ae
 gall@masc%us-i
@@ -419,6 +421,7 @@ gutt@fem%a-ae
 haben@adj%s-tis
 habit@adj%us-a-um
 haeres@fem%is-is
+haeresiarch@fem%a-ae
 hebrae@adj%us-a-um
 helen@fem%a-ae
 helveti@adj%us-a-um
@@ -606,6 +609,7 @@ maxim@adj%us-a-um
 med@masc%us-i
 medi@adj%us-a-um
 melit@fem%a-ae
+memori@fem%a-ae
 men@fem%s-tis2
 mens@fem%a-ae
 mens@adj%us-a-um
@@ -687,6 +691,7 @@ observat@adj%us-a-um
 obtentur@adj%us-a-um
 occas@masc%us-us
 occasi@fem%o-onis
+occis@adj%us-a-um
 occulti@adj%or-or-us
 occupat@adj%us-a-um
 occupati@fem%o-onis
@@ -728,6 +733,7 @@ par@noun%s-tis2
 paradis@masc%us-i
 parat@adj%us-a-um
 parati@adj%or-or-us
+paren@masc%s-tis
 parv@adj%us-a-um
 parvul@adj%us-a-um
 pasch@fem%a-ae
@@ -735,6 +741,7 @@ pass@masc%us-us
 passion@fem%o-nis
 pastor@masc%x-is
 pat@masc%er-ris
+patefact@adj%us-a-um
 patern@adj%us-a-um
 patientissim@adj%us-a-um
 pauc@adj%us-a-um
@@ -744,6 +751,7 @@ peccat@neut%um-i
 pecuni@fem%a-ae
 pene@neut%inv
 penit@adj%us-a-um
+perculs@adj%us-a-um
 perduell@fem%is-is
 perfect@adj%us-a-um
 pericul@masc%um-i
@@ -801,6 +809,7 @@ pretios@adj%us-a-um
 prim@adj%us-a-um
 primigeni@adj%us-a-um
 princip@adj%s-s-s2
+princip@masc%x-is2
 principat@masc%us-us
 principi@neut%um-i
 privat@adj%us-a-um
@@ -816,6 +825,7 @@ progress@masc%us-us
 promiscu@adj%us-a-um
 propagand@adj%us-a-um
 prophet@masc%a-ae
+prostrat@adj%us-a-um
 protestat@adj%us-a-um
 providenti@fem%a-ae
 provinci@fem%a-ae
@@ -828,6 +838,7 @@ pugnan@adj%s-s-s
 pulcher@neut%inv
 pulchr@adj%us-a-um
 pulcherrim@adj%us-a-um
+puls@masc%us-us
 puri@adj%or-or-us
 pyrenae@fem%x-ri
 qu@adj%i-ae-od-cuius
@@ -1051,6 +1062,7 @@ vet@adj%adj-us-eris
 vi@fem%a-ae
 vic@masc%us-i
 victori@fem%a-ae
+vict@masc%us-us
 vill@fem%a-ae
 vin@neut%um-i
 vincul@neut%um-i

@@ -33,6 +33,7 @@ appar,eo,es,ere,,,[eo-es2],(ASP*appar*appare*0)
 appell,o,as,are,,,[o-as]
 appon,o,is,ere,,,[o-is],(AIP*appon*appos*0)
 arbitr,or,aris,ari,,,[or-aris]
+arrip,io,is,ere,,,[io-is],(AIP*arrip*arripu*0)
 ascend,o,is,ere,,,[o-is]
 assequ,or,eris,ere,,,[or-eris]
 assever,o,as,are,,,[o-as]
