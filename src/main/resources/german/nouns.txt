@@ -159,12 +159,14 @@ begriff@masc%jahrzehnt
 behorde@fem%flasche
 behutsam@adj%ausreichend
 beigefugt@adj%ausreichend
+bein@neut%jahrzehnt
 beispiel@neut%jahrzehnt
 beiwohnung@fem%inv
 bekenntnis@neut%jahrzehnt
 bekummert@neut%inv
 beleg@masc%jahrzehnt
 belichen@neut%inv
+bemerkenswert@adj%ausreichend
 bemuh@neut%meinmasc
 ben@neut%inv
 beneidet@adj%ausreichend
@@ -964,6 +966,7 @@ muhe@fem%flasche
 muhsal@fem%inv
 muhselig@adj%ausreichend
 multikulturell@adj%ausreichend
+mund@masc%licht
 mundlich@adj%ausreichend
 murmeltier@neut%arbeiter
 musaph@neut%inv
@@ -1594,6 +1597,7 @@ wasser@fem%masc
 webend@fem%meinfem
 wechselnd@adj%ausreichend
 weg@masc%phanomen
+weglassung@fem%meinfem
 wehr@masc%schmerz
 weib@fem%ort
 wein@neut%inv

@@ -231,6 +231,7 @@ commentar@masc%endy
 commentator@masc%normmasc
 common@adj%normmasc
 compan@fem%endy
+companion@masc%normmasc
 comparable@adj%normmasc
 comparison@fem%normfem
 compilation@fem%normfem
@@ -294,6 +295,7 @@ custom@neut%normmasc
 cutting@neut%invmasc
 cush@neut%invmasc
 damascus@neut%invmasc
+damned@adj%invmasc
 dan@neut%invmasc
 danger@neut%normmasc
 darkness@fem%invfem
@@ -683,6 +685,7 @@ joynt@neut%normmasc
 jones@neut%invmasc
 jos@neut%invmasc
 joseph@masc%invmasc
+joy@fem%normfem
 jubal@masc%invmasc
 judah@masc%invmasc
 judaism@masc%invmasc
@@ -696,6 +699,7 @@ jurisdiction@neut%normmasc
 karen@neut%invmasc!agenitive
 keeper@neut%normmasc
 kenite@neut%normmasc
+kernel@neut%normmasc
 key@neut%normmasc
 kid@masc%normmasc
 kind@masc%normmasc
@@ -959,6 +963,7 @@ pliny@neut%invmasc
 plural@masc%normmasc
 pocket@fem%normfem
 point@neut%normmasc
+poison@neut%normmasc
 pollution@fem%normfem
 pomegranate@neut%normmasc
 poor@adj%invmasc
@@ -1094,7 +1099,9 @@ sandy@adj%invmasc
 sanhedrim@neut%invmasc
 sarah@fem%invfem
 saturday@neut%normmasc
+saved@adj%invmasc
 saviour@neut%normmasc
+savour@neut%normmasc
 sawcie@neut%invmasc
 scheme@neut%normmasc
 scholar@neut%normmasc
@@ -1186,6 +1193,7 @@ spacious@adj%invmasc
 speech@neut%church
 spice@neut%normmasc
 spirit@neut%normmasc
+spite@neut%normmasc
 sport@neut%normmasc
 spring@neut%normmasc
 st@neut%invmasc
@@ -1208,6 +1216,7 @@ stor@fem%endy
 stream@neut%normmasc
 street@neut%normmasc
 stud@fem%endy
+student@masc%normmasc
 style@eut%normmasc
 suburb@fem%normfem
 sufficient@adj%normmasc

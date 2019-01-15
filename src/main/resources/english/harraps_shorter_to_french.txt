@@ -354,6 +354,7 @@ commentar@noun!endy%1(noun)=commentaire
 commentator@noun!normmasc%1(noun)=commentateur
 communicate@verb!norm%1(verb)=communiquer
 compan@noun!endy%1(noun)=compagnie
+companion@noun!normmasc%1(noun)=compagnon
 comparable@noun!normmasc%1(adj)=comparable
 compare@verb!norm%1(verb)=comparer
 comparison@noun!normfem%1(noun)=comparaison
@@ -448,6 +449,7 @@ cush@noun!invmasc%1(noun)=cush
 cut@verb!norm%1(verb)=couper
 cycle@verb!norm%1(verb)=faireduvelo
 damascus@noun!invmasc%1(noun)=damas
+damned@adj!invmasc%1(adj)=damné
 dan@noun!invmasc%1(noun)=dan
 danger@noun!normmasc%1(noun)=danger
 dare@verb!norm%1(verb)=oser
@@ -669,6 +671,7 @@ far@prep%1(prep)=loin
 face@verb!norm%1(verb)=confronter
 face@noun!normmasc%1(noun)=face%2(noun)=visage
 facing@noun!invmasc%1(noun)=faisant face
+fail@verb!norm%1(verb)=manquer%2(verb)=echouer
 fall@verb!norm%1(verb)=tomber
 famed@noun!invmasc%1(noun)=fameux%2(noun)=célèbre
 famous@noun!invmasc%1(noun)=fameux%2(noun)=célèbre
@@ -964,6 +967,7 @@ instruction@noun!normmasc%1(noun)=instruction
 instructor@noun!normmasc%1(noun)=instructeur
 intended@adj!invmasc%1(adj)=voulu
 intent@adj!invmasc%1(adj)=absorbé
+inquire@verb!norm%1(verb)=enqueter
 intercalate@verb!norm%1(verb)=intercaler
 intercalation@noun!normmasc%1(noun)=insertion
 interest@noun!normmasc%1(noun)=intérêt
@@ -1006,6 +1010,7 @@ jos@noun!invmasc%1(noun)=jos
 joseph@noun!invmasc%1(noun)=joseph
 josephus@noun!invmasc%1(noun)=fl. josèphe
 joshua@noun!invmasc%1(noun)=josué
+joy@noun!normfem%1(noun)=joie
 joynt@noun!normmasc%1(noun)=joint
 jones@noun!invmasc%1(prep)=jones
 jubal@noun!invmasc%1(noun)=jubal
@@ -1023,6 +1028,7 @@ karen@noun!invmasc%1(noun)=karen
 keep@verb!norm%1(verb)=garder
 keeper@noun!normmasc%1(noun)=gardien
 kenite@noun!normmasc%1(noun)=kénien
+kernel@noun!normmasc%1(noun)=noyau
 key@noun!normmasc%1(noun)=clé
 kid@noun!normmasc%1(noun)=enfant
 kill@verb!norm%1(verb)=tuer
@@ -1400,6 +1406,7 @@ pliny@noun!invmasc%1(noun)=pline
 plural@noun!normmasc%1(noun)=pluriel
 pocket@noun!normmasc%1(noun)=poche
 point@noun!normmasc%1(noun)=point
+poison@noun!normmasc%1(noun)=poison
 pollution@noun!normmasc%1(noun)=pollution
 pomegranate@noun!normmasc%1(noun)=grenade
 poor@adj!invmasc%1(adj)=pauvre
@@ -1540,6 +1547,7 @@ restrain@verb!norm%1(verb)=restreindre
 retain@verb!norm%1(verb)=preserver
 retreat@noun!normmasc%1(noun)=retraite
 return@verb!norm%1(verb)=retourner
+reveal@verb!norm%1(verb)=reveler
 revelation@noun!normmasc%1(noun)=révélation%2(noun)=apocalypse
 revival@noun!normmasc%1(noun)=reprise%2(noun)=réveil%3(noun)=renouveau
 reward@noun!normmasc%1(noun)=récompense
@@ -1588,7 +1596,9 @@ sandy@adj!invmasc%1(adj)=sableux
 sanhedrim@noun!invmasc%1(noun)=sanhedrin
 sarah@noun!invmasc%1(noun)=sarah
 saturday@noun!normmasc%1(noun)=samedi
+saved@adj!invmasc%1(adj)=sauvé
 saviour@noun!normmasc%1(noun)=sauveur
+savour@noun!normmasc%1(noun)=saveur
 sawcie@noun!invmasc%1(noun)=saucé
 say@verb!norm%1(verb)=dire
 scarce@prep%1(prep)=difficilement%2(prep)=rarement
@@ -1721,6 +1731,7 @@ speech@noun!church%1(noun)=discours
 speak@verb!norm%1(verb)=parler
 spice@noun!normmasc%1(noun)=épice
 spirit@noun!normmasc%1(noun)=esprit
+spite@noun!normmasc%1(noun)=dépit%2(noun)=rancune%3(noun)=méchanceté
 sport@noun!normmasc%1(noun)=sport
 spring@noun!normmasc%1(noun)=ressort%2(noun)=printemps
 spring@verb!norm%1(verb)=jaillir
@@ -1750,6 +1761,7 @@ stretch@verb!norm%1(verb)=allonger
 strike@verb!norm%1(verb)=frapper
 string@noun!normfem%1(noun)=corde
 stud@noun!endy%1(noun)=étude
+student@noun!normmasc%1(noun)=étudiant
 style@noun!normmasc%1(noun)=style
 subdue@verb!norm%1(verb)=soumettre
 suburb@noun!normmasc%1(noun)=banlieue

@@ -249,6 +249,7 @@ beiden@prep%1(prep)=les deux
 beigefugt@adj!ausreichend%1(adj)=attaché
 beim@prep%1(prep)=en cas de%2(prep)=quand%2(prep)=pendant
 beinahe@prep%1(prep)=pratiquement
+bein@noun!jahrzehnt%1(noun)=jambe
 beischreib@verb!norm%1(verb)=inscrire
 beispiel@noun!jahrzehnt%1(noun)=exemple
 beitrag@verb!norm%1(verb)=contribuera
@@ -261,6 +262,7 @@ bekummert@noun!inv%1(noun)=concerné
 belast@verb!norm%1(noun)=incriminer
 beleg@noun!jahrzehnt%1(noun)=référence%2(noun)=évidence
 belohn@verb!norm%1(noun)=recompenser
+bemerkenswert@adj!ausreichend%1(adj)=remarquable
 bemuh@noun!meinmasc%1(noun)=effort
 ben@noun!inv%1(noun)=ben
 beneidet@adj!ausreichend%1(adj)=envié
@@ -1450,6 +1452,7 @@ muhe@noun!flasche%1(noun)=difficulté%2(noun)=effort
 muhsal@noun!inv%1(noun)=tribulation%2(noun)=difficulté
 muhselig@adj!ausreichend%1(adj)=laborieux
 multikulturell@adj!ausreichend%1(adj)=multiculturel
+mund@noun!licht%1(noun)=bouche
 mundlich@adj!ausreichend%1(adj)=oral
 murmeltier@noun!arbeiter%1(noun)=marmotte
 musaph@noun!inv%1(noun)=moussaf
@@ -2322,6 +2325,7 @@ wechselnd@adj!ausreichend%1(adj)=changeant
 weder@prep%1(prep)=ni%2(prep)=aucun
 weg@noun!phanomen%1(noun)=voie%2(noun)=chemin
 weggeh@verb!norm%1(verb)=partir
+weglassung@noun!meinfem%1(noun)=omission
 wehr@noun!schmerz%1(noun)=résistance%2(noun)=défense
 weib@noun!ort%1(noun)=épouse%2(noun)=femme
 weich@verb!norm%1(verb)=quitter

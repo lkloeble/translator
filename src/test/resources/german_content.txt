@@ -660,8 +660,8 @@ strackp11par059=>– Die Lehnstelle Midr KL 2,2 (62B) weicht im ersten Satze auf
 strackp11par060=>Rabbi hat öffentlich vorgetragen : "Hervorgetreten ist ein Stern aus Jakob";
 strackp11par061=>lies nicht kokhab (Stern), sondern Kozeb (Lügner)".
 strackp11par062=>Aus dem richtigen Text pTaan ist der Andre so entstanden, daß zunächst R. Schimeon b. Jochai umgeändert wurde in R. Jochanan;
-strackp11par063=>in dessen Munde konnte dann „Rabbi“ nicht mehr „mein Lehrer“ heißen;
-strackp11par064=>man setzte es deshalb unter Weglassung von „Aqiba“ um in den Eigennammen „Rabbi“ = Jehuda I(1).
+strackp11par063=>in dessen Munde konnte dann "Rabbi" nicht mehr "mein Lehrer" heißen;
+strackp11par064=>man setzte es deshalb unter Weglassung von "Aqiba" um in den Eigennamen "Rabbi" = Jehuda I(1).
 strackp11par065=>Noch in andrer Hinsicht ist Midr KL 2,2 (63A) bemerkenswert.
 strackp11par066=>Mit Bezug auf die Worte R. Aqiba über Bar-Kozeba : „dieser ist der König, der Messias“ wird hinzugefügt :
 strackp11par067=>so aber sagte R. Aqiba „wegen dieser Sache“.
@@ -897,7 +897,7 @@ nietzscheBookGTversuchCha7M2=>meine jungen Freunde, wenn anders ihr durchaus Pes
 nietzscheBookGTversuchCha7N1=>vielleicht daß ihr daraufhin, als Lachende,
 nietzscheBookGTversuchCha7N2=>irgendwann einmal alle metaphysische Trösterei zum Teufel schickt – und die Metaphysik voran!
 nietzscheBookGTversuchCha7O=>Oder, um es in der Sprache jenes dionysischen Unholds zu sagen, der Zarathustra heißt:
-nietzscheBookGTversuchCha7P1=>"Erhebt eure Herzen, meine Brüder, hoch, höher! Und vergeßt mir auch die Beine nicht!
+nietzscheBookGTversuchCha7P1=>"Erhebt eure Herzen, meine Brüder, hoch, höher! Und vergeßt mir auch die Beine nicht !
 nietzscheBookGTversuchCha7P2=>Erhebt auch eure Beine, ihr guten Tänzer, und besser noch: ihr steht auch auf dem Kopf!
 nietzscheBookGTversuchCha7Q1=>Diese Krone des Lachenden, diese Rosenkranz-Krone: ich selber setzte mir diese Krone auf,
 nietzscheBookGTversuchCha7Q2=>ich selber sprach heilig mein Gelächter. Keinen anderen fand ich heute stark genug dazu.
