@@ -992,6 +992,7 @@ priest@neut%normmasc
 priesthood@neut%invmasc
 primary@adj%invmasc
 primate@masc%invmasc
+prince@masc%normmasc
 principal@adj%normmasc
 principall@adj%normmasc
 privilege@neut%normmasc
@@ -1397,6 +1398,7 @@ wisdom@fem%invfem
 wisedome@fem%invfem
 witch@neut%church
 witness@neut%church
+wizard@neut%normmasc
 wood@neut%normmasc
 word@neut%normmasc
 work@neut%normmasc

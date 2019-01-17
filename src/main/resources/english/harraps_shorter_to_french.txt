@@ -630,9 +630,10 @@ etc@noun!invmasc%1(noun)=etc
 ethic@noun!normmasc%1(noun)=éthique
 euphrates@noun!invmasc%1(noun)=euphrate
 eusebius@noun!invmasc%1(noun)=eusèbe
-even@prep%1(prep)=même
 eve@noun!invfem%1(noun)=ève
+even@prep%1(prep)=même
 evening@noun!invmasc%1(noun)=soir
+ever@prep%1(prep)=toujours%2(prep)=jamais
 every@prep%1(noun)=chaque%2(prep)=tout
 everything@prep%2(prep)=tout
 everywhere@prep%2(prep)=partout
@@ -1441,6 +1442,7 @@ priest@noun!normmasc%1(noun)=prêtre
 priesthood@noun!invmasc%1(noun)=prêtrise
 primary@noun!invmasc%1(adj)=primaire
 primate@noun!invmasc%1(noun)=primat
+prince@noun!normmasc%1(noun)=prince
 principal@adj!normmasc%1(adj)=principal
 principall@adj!normmasc%1(adj)=principal
 privilege@adj!normmasc%1(adj)=privilège
@@ -1707,6 +1709,7 @@ some@prep%1(prep)=certains%2(prep)=du[des]
 somehow@prep%(prep)=en quelque sorte
 someone@noun!invmasc%1(noun)=quelqu'un
 something@noun!invmasc%1(noun)=quelque chose
+sometime@prep%(prep)=un jour
 sometimes@noun!invmasc%1(noun)=parfois%2(noun)=quelque fois
 somewhat@prep%(prep)=quelque peu
 somewhere@noun!invmasc%1(noun)=quelque part
@@ -1790,6 +1793,7 @@ survive@verb!norm%1(verb)=survivre
 suspicious@adj!invmasc%1(adj)=suspicieux
 sustain@verb!norm%1(verb)=soutenir
 swallow@verb!norm%1(verb)=avaler
+swear@verb!norm%1(verb)=jurer
 sweat@noun!invmasc%1(noun)=sueur
 swell@verb!norm%1(verb)=grossir
 swelling@noun!normmasc%1(noun)=gonflement%2(noun)=accroissement
@@ -2069,6 +2073,7 @@ wisdom@noun!invfem%1(noun)=sagesse
 wisedome@noun!invfem%1(noun)=sagesse
 witch@noun!church%1(noun)=sorcière
 witness@noun!church%1(noun)=témoin
+wizard@noun!normmasc%1(noun)=magicien
 woman@noun!invmasc%1(noun)=femme
 women@noun!invmasc%1(noun)=femmes
 wood@noun!normmasc%1(noun)=bois
