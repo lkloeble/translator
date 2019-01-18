@@ -265,7 +265,7 @@ mehr,en,[leben]
 mein,en,[leben],(PAPR*mein*meinend*0@PAP*mein*gemeint*0)
 miet,en,[leben]
 miteinzuschliess,en,[schliessen]
-mitteil,en,[leben],(PAP*mitteil*mitgeteil*0)
+mitteil,en,[leben],(PAP*mitteil*mitgeteilt*0)
 mitwirk,en,[leben],(PAP*mitwirk*mitgewirkt*0)
 mocht,en,[mochten]
 mog,en,[wollen],(IPR012*mo*ma*0)
@@ -389,6 +389,7 @@ verletz,en,[pflanzen]
 verleumd,en,[wenden]
 verlier,en,[leben],(PAP*verlier*verloren*0)
 vermeid,en,[mochten]
+vermog,en,[wollen],(IPR012*vermog*vermag*0@AII*vermog*vermoch*0)
 vernein,en,[leben],(PAP*vernein*verneint*0)
 verpflicht,en,[mochten],(PAP*verpflicht*verpflichtet*0)
 verrat,en,[gelten]

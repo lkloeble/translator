@@ -663,9 +663,30 @@ strackp11par062=>Aus dem richtigen Text pTaan ist der Andre so entstanden, daß 
 strackp11par063=>in dessen Munde konnte dann "Rabbi" nicht mehr "mein Lehrer" heißen;
 strackp11par064=>man setzte es deshalb unter Weglassung von "Aqiba" um in den Eigennamen "Rabbi" = Jehuda I(1).
 strackp11par065=>Noch in andrer Hinsicht ist Midr KL 2,2 (63A) bemerkenswert.
-strackp11par066=>Mit Bezug auf die Worte R. Aqiba über Bar-Kozeba : „dieser ist der König, der Messias“ wird hinzugefügt :
-strackp11par067=>so aber sagte R. Aqiba „wegen dieser Sache“.
-
+strackp11par066=>Mit Bezug auf die Worte R. Aqiba über Bar-Kozeba : "dieser ist der König, der Messias" wird hinzugefügt :
+strackp11par067=>so aber sagte R. Aqiba "wegen dieser Sache".
+strackp11par068=>Damit ist die zuvor mitgeteilte Tatsache,
+strackp11par069=>daß Bar Kozeba vernichtende Wurfsteine mit seinen Knieen auf die Feinde zu schleudern vermochte.
+strackp11par070=>Diese außerordentliche Kraft und Geschicklichkeit war also für R. Aqiba maßgebend, ihn zum Messias Israels auszurufen;
+strackp11par071=>seine davidische Herkunft spielte dabei keine Rolle.
+strackp11par072=>(1): In der alten Synagoge ist übrigens die Verunglimpfung des Bar Kozeba als „Lügensohn“ ganz vereinzelt geblieben.
+strackp11par073=>Auch der Name Bar-Kokhba wird ihm nirgends in der altjüd Literatur beigelegt;
+strackp11par074=>diesen har er durch die altkirchl Schriftsteller erhalten, und zwar auf Grund der Deutung,
+strackp11par075=>die R. Aqiba Nu 24,27 zu seinen Gunsten gegeben hatte, sehen Schürer 1,682.
+strackp11par076=>In den Rabbinischen Schriftwerken heißt der Mann regelmäßig Ben-Kozeba oder Bar-Kozeba
+strackp11par077=>(“Sohn des Kozeba” oder “der aus Kozeba” ohne verächtliche Bedeutung).
+strackp11par078=>Sein eigentlicher Name ist „Schim’on“ gewesen.
+strackp11par079=>Das beweisen die während seiner Herrschaft herausgekommenen Münzen und Midr KL 2,2 (63b) : Zwei Brüder waren in Kephar Charokha,
+strackp11par080=>die keinen Römer vorüberziehn ließen. (<=abbrev) ohne ihn zu töten. Sie sagten :
+strackp11par081=>wir wollen die Krone Hadrians nehmen und sie auf das Haupt Schim’ons (des Ben-Kozeba) setzen. – Anders pTaan 4,69a, 33.
+strackp11par082=>2 Abraham und David werden als Ziel- und Höhepunkte der genealogischen Entwickelung gefeiert GnR 39(24a) :
+strackp11par083=>R. Berekhja (um 340) hat in namen des R. Nechemja (um 150) gesagt :
+strackp11par084=>Gleich einem Könige, der von Ort zu Ort zog, und dem eine Perle von seinem Haupte fiel.
+strackp11par085=>Der König machte halt und ließ sein Gefolge dort auch haltmachen.
+strackp11par086=>Er ließ den Erdstaub in Haufen zus bringen und Siebe Herbeischaffen.
+strackp11par087=>Dann siebte man den ersten Haufen, fand sie aber nicht; auch im zweiten fand man sie nicht.
+strackp11par088=>Endlich im dritten fand man sie.
+strackp11par089=>Da riefen sie : Der König hat seine Perle gefunden !
 
 
 

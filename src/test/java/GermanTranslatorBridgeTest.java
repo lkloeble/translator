@@ -846,6 +846,28 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("strackp11par065", translatorBridge);
         checkInMaps("strackp11par066", translatorBridge);
         checkInMaps("strackp11par067", translatorBridge);
+        checkInMaps("strackp11par068", translatorBridge);
+        checkInMaps("strackp11par069", translatorBridge);
+        checkInMaps("strackp11par070", translatorBridge);
+        checkInMaps("strackp11par071", translatorBridge);
+        checkInMaps("strackp11par072", translatorBridge);
+        checkInMaps("strackp11par073", translatorBridge);
+        checkInMaps("strackp11par074", translatorBridge);
+        checkInMaps("strackp11par075", translatorBridge);
+        checkInMaps("strackp11par076", translatorBridge);
+        checkInMaps("strackp11par077", translatorBridge);
+        checkInMaps("strackp11par078", translatorBridge);
+        checkInMaps("strackp11par079", translatorBridge);
+        checkInMaps("strackp11par080", translatorBridge);
+        checkInMaps("strackp11par081", translatorBridge);
+        checkInMaps("strackp11par082", translatorBridge);
+        checkInMaps("strackp11par083", translatorBridge);
+        checkInMaps("strackp11par084", translatorBridge);
+        checkInMaps("strackp11par085", translatorBridge);
+        checkInMaps("strackp11par086", translatorBridge);
+        checkInMaps("strackp11par087", translatorBridge);
+        checkInMaps("strackp11par088", translatorBridge);
+        checkInMaps("strackp11par089", translatorBridge);
     }
         @Test
     public void test_genesis_chapter1() {

@@ -1230,6 +1230,7 @@ kling@verb!norm%1(verb)=paraitre
 kloss@noun!inv%1(noun)=boule
 knecht@noun!jahrzehnt%1(noun)=serviteur
 knechtschaft@noun!meinfem%1(noun)=servitude
+knieen@noun!inv%1(noun)=genoux
 knupf@verb!norm%1(verb)=attacher
 koch@verb!norm%1(verb)=bouillir%2(verb)=preparer
 komisch@adj!ausreichend%1(adj)=comique
@@ -1256,6 +1257,7 @@ krieg@noun!jahrzehnt%1(noun)=guerre
 kritik@noun!meinmasc%1(noun)=critique
 kritisch@noun!norm%1(adj)=critique
 kritisier@verb!norm%1(verb)=critiquer
+krone@noun!flasche%1(noun)=couronne
 kuche@noun!flasche%1(noun)=cuisine
 kuchen@noun!inv%1(noun)=tarte
 kuhn@adj!ausreichend%1(adj)=audacieux
@@ -1707,6 +1709,7 @@ romantik@noun!inv%1(noun)=romantisme
 romantisch@noun!mein%1(adj)=romantique
 romisch@adj!ausreichend%1(adj)=romain
 rose@noun!flasche%1(noun)=rose
+rosenkranz@noun!inv%1(noun)=rosaire
 rot@adj!ausreichend%1(adj)=rouge
 rotgefarbt@adj!ausreichend%1(adj)=teint en rouge
 rotlich@adj!ausreichend%1(adj)=rougeâtre
@@ -1723,6 +1726,7 @@ ruhr@verb!norm%1(verb)=bouger
 s@noun!inv%1(noun)=s
 sabbat@noun!jahrzehnt%1(noun)=sabbat
 sabine@noun!inv%1(noun)=sabine
+sache@noun!flasche%1(noun)=affaire%2(noun)=chose
 sag@verb!norm%1(noun)=dire
 salat@noun!jahrzehnt%1(noun)=salade
 sale@noun!inv%1(noun)=salle
@@ -1834,6 +1838,7 @@ seinold@verb!irrg%1(verb)=etreold
 seit@prep%1(prep)=pour%2(prep)=depuis
 seitdem@prep%1(prep)=désormais
 sekretarin@noun!inv%1(noun)=secrétaire
+selber@prep%1(prep)=tout seul
 selbst@prep%1(prep)=soi-même
 selbstandig@adj!ausreichend%1(adj)=indépendant
 selig@adj!ausreichend%1(adj)=bienheureux
@@ -1925,6 +1930,7 @@ statte@noun!inv%1(noun)=lieu
 statthalter@noun!arbeiter%1(noun)=vice-roi%2(noun)=chambellan%3(noun)=gouverneur
 steh@verb!norm%1(verb)=rester%2(verb)=figurer%3(verb)=tenir
 steig@verb!norm%1(verb)=monter
+stein@noun!jahrzehnt%1(noun)=pierre
 stell@verb!norm%1(verb)=poser
 stelle@noun!flasche%1(noun)=position%2(noun)=place
 sterb@verb!norm%1(verb)=mourir
@@ -2195,6 +2201,7 @@ verlobung@noun!meinfem%1(noun)=fiançailles
 vermeid@verb!norm%1(verb)=eviter
 vermischung@noun!norm%1(noun)=mélange
 vermittel@noun!inv%1(noun)=intermédiaire
+vermog@verb!norm%1(verb)=etrecapablede
 vermutlich@prep%1(prep)=beaucoup
 vernein@verb!norm%1(verb)=exclure
 verneinung@noun!meinfem%1(noun)=négation
@@ -2407,6 +2414,7 @@ wunsch@verb!norm%1(verb)=desirer
 wurde@noun!flasche%1(noun)=dignité
 wurdig@adj!ausreichend%1(adj)=digne
 wurdig@verb!norm%1(verb)=apprecier
+wurf@noun!jahrzehnt%1(noun)=jet
 wurst@noun!wurst%1(noun)=saucisse
 wust@noun!mein%1(adj)=informe
 wutend@adj!ausreichend%1(adj)=furieux
@@ -2479,6 +2487,7 @@ zusatz@noun!phanomen%1(noun)=addition
 zusteh@verb!norm%1(verb)=revenir
 zuteil@noun!inv%1(noun)=accordé
 zuverlassig@adj!ausreichend%1(adj)=fiable
+zuvor@prep%1(prep)=auparavant
 zwar@prep%1(prep)=précisément
 zweck@noun!jahrzehnt%1(noun)=point%2(noun)=cause%3(noun)=objectif
 zwei@noun!inv%1(noun)=deux

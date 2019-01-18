@@ -797,6 +797,7 @@ klima@neut%inv
 kloss@neut%inv
 knecht@masc%jahrzehnt
 knechtschaft@fem%meinfem
+knieen@neut%inv
 komisch@adj%ausreichend
 kommunikation@fem%meinfem
 kongress@neut%inv
@@ -816,6 +817,7 @@ krautertee@neut%inv
 krieg@fem%jahrzehnt
 kritik@masc%meinmasc
 kritisch@adj%norm
+krone@fem%flasche
 kuche@fem%flasche
 kuchen@neut%inv
 kuhn@adj%ausreichend
@@ -1174,6 +1176,7 @@ romantik@fem%inv
 romantisch@adj%mein
 romisch@adj%ausreichend
 rose@fem%flasche
+rosenkranz@neut%inv
 rot@adj%ausreichend
 rotgefarbt@adj%ausreichend
 rotlich@adj%ausreichend
@@ -1184,6 +1187,7 @@ ruhelager@neut%inv
 s@neut%inv
 sabbat@neut%jahrzehnt
 sabine@fem%inv
+sache@fem%flasche
 sanh@neut%inv
 salat@fem%jahrzehnt
 sale@fem%inv
@@ -1317,6 +1321,7 @@ starkst@adj%ausreichend
 statt@fem%inv
 statte@fem%flasche
 statthalter@masc%arbeiter
+stein@masc%jahrzehnt
 stelle@fem%flasche
 stern@masc%meer
 stier@masc%meer
@@ -1650,6 +1655,7 @@ wunderlich@adj%ausreichend
 wunsch@masc%meinmasc
 wurde@fem%flasche
 wurdig@adj%ausreichend
+wurf@masc%jahrzehnt
 wurst@fem%wurst
 wust@adj%mein
 wutend@adj%ausreichend
