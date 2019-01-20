@@ -47,6 +47,7 @@ alt@adj%us-a-um
 alterius@neut%inv
 alti@adj%or-or-us
 altissim@adj%us-a-um
+amarissim@adj%us-a-um
 amen@neut%inv
 amicz@adj%us-a-um
 amic@masc%us-i
@@ -253,6 +254,7 @@ decim@adj%us-a-um
 decret@neut%um-i
 defect@masc%us-us
 definiti@fem%o-onis
+delet@masc%us-a-um
 delaps@adj%us-a-um
 deli@fem%a-ae
 delphi@neut%inv
@@ -386,6 +388,7 @@ frat@masc%er-ris
 fruct@masc%us-i
 frument@neut%um-i
 fug@fem%a-ae
+fugien@adj%s-s-s
 fus@masc%us-i
 galilae@fem%a-ae
 gall@masc%us-i
@@ -492,6 +495,7 @@ innumer@adj%us-a-um
 inquie@adj%s-tis
 inrigan@adj%s-tis
 inscripti@fem%o-onis
+insecut@adj%us-a-um
 instituend@adj%us-a-um
 institut@neut%um-i
 insul@fem%a-ae
@@ -684,6 +688,8 @@ o@neut%s-ris
 obaerat@adj%us-a-um
 oblati@fem%o-onis
 oblit@adj%us-a-um
+oblivi@fem%o-onis
+obtrit@adj%us-a-um
 obscenit@fem%as-atis
 obscuri@adj%or-or-us
 obscur@adj%us-a-um
@@ -702,11 +708,13 @@ octo@neut%inv
 odi@neut%um-i
 ole@fem%a-ae
 omn@adj%is-is-e
+omnipoten@adj%s-s-s
 onychin@adj%us-a-um
 op@neut%us-eris
 oper@fem%a-ae
 opini@fem%o-onis
 oppid@masc%um-i
+oppress@adj%us-a-um
 optim@adj%us-a-um
 opuscul@masc%um-i
 oracul@neut%um-i
@@ -717,6 +725,7 @@ origen@masc%us-i
 oriund@adj%us-a-um
 ornat@masc%us-us
 ort@adj%us-us
+ort@adj%us-a-um
 os@neut%x-sis
 osti@masc%um-i
 ostre@fem%a-ae
@@ -849,6 +858,7 @@ quinque@neut%inv
 qint@masc%us-i
 querimoni@fem%a-ae
 quint@masc%us-a-um
+radi@fem%x-cis
 ratio@fem%x-nis
 raurac@masc%us-i
 recen@neut%s-tis

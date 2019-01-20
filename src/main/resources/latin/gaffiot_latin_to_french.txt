@@ -82,6 +82,7 @@ alt@adj!us-a-um%1(adj)=profond%2(adj)=haut
 alterius@noun!inv%1(noun)=(de) l'autre
 alti@adj!or-or-us%1(adj)=plus profond%2(adj)=plus haut
 altissim@adj!us-a-um%1(adj)=le plus haut
+amarissim@adj!us-a-um%1(adj)=le plus amer
 ambulo@verb!norm%1(verb)=aller et venir,marcher,se promener%2(verb)=marcher, se comporter (christianisme)%3(verb + acc)=marcher dans un espace précis%4(verb)=marcher
 amen@noun!inv%1(noun)=amen
 amicz@adj!us-a-um%1(adj)=amical
@@ -185,6 +186,7 @@ bienni@noun!um-i%1(noun)=biennale
 boios@noun!inv%1(noun)=boïens
 bon@adj!us-a-um%1(adj)=bon (personne)%2(adj)=bien, de bonne qualite (chose)%3(adj)=bon pour, propre a (+dat)%4(adj)=bon
 brachi@noun!um-i%1(noun)=avant-bras
+brevi@prep%1(prep)=brièvement
 breviter@prep%1(prep)=bref
 britanni@noun!a-ae%1(noun)=bretagne
 brundisi@noun!um-i%1(noun)=brindisi
@@ -398,6 +400,7 @@ deinde@prep%1(prep)=après%2(prep)=ensuite%3(prep)=à partir de là
 delaps@adj!us-a-um%1(adj)=tombé
 delecto@verb!norm%1(verb)=serejouir
 deleo@verb!norm%1(verb)=détruire%2(verb)=effacer
+delet@adj!us-a-um%1(adj)=détruit
 deli@noun!a-ae%1(noun)=delia
 deligo@verb!norm%1(verb)=choisir
 delphi@noun!inv%1(noun)=delphes
@@ -570,6 +573,7 @@ exeo@verb!norm%1(verb)=sortir
 expeditius@prep%1(prep)=plus facilement
 exsto@verb!norm%1(verb)=se tenir audessus,etre eleve au dessus,depasser%2(verb)=etre visble,se montrer%3(verb)=exister
 exsulto@verb!norm%1(verb)=exulter
+exstinguo@verb!norm%1(verb)=eteindre
 extendo@verb!norm%1(verb)=etendre
 extra@prep%1(prep)=au delà%2(prep)=en dehors
 exust@adj!us-a-um%1(adj)=brûlé
@@ -628,6 +632,7 @@ frat@noun!er-ris%1(noun)=frère
 fruct@noun!us-i%1(noun)=résultat%2(noun)=profit%3(noun)=satisfaction%4(noun)=fruit
 frument@noun!um-i%1(noun)=grain
 fug@noun!a-ae%1(noun)=exil%2(noun)=fuite
+fugien@adj!s-s-s%1(adj)=volant
 fugo@verb!norm%1(verb)=fairefuir
 fundo@verb!norm%1(verb)=repandre
 fus@noun!us-i%1(noun)=broche
@@ -712,6 +717,7 @@ human@adj!us-a-um%1(adj)=humain
 hunc@prep%1(prep)=ce
 hymn@noun!us-i%1(noun)=hymne
 i@prep%1(prep)=i
+ibidem@prep%1(prep)=à ce moment même%2(prep)=à cet endroit même
 id@prep%1(prep)=ce
 idem@prep%1(prep)=même
 ideo@prep%1(prep)=par conséquent
@@ -732,6 +738,7 @@ ignati@noun!us-i%1(proper noun)=ignace eveque d'antioche%2(proper noun)=ignace
 ign@noun!is-is%1(noun)=feu
 ill@adj!e-a-ud%1(pro dem)=celui la
 illudo@verb!norm%1(verb)=ridiculiser
+illustro@verb!norm%1(verb)=eclairer
 im@adj!us-a-um%1(adj)=le plus bas%2(adj)=le plus profond%3(adj)=dernier
 imag@noun!o-inis%1(noun)=image
 imbuo@verb!norm%1(verb)=humidifer%2(verb)=tremper%3(verb)=mouiller
@@ -797,6 +804,7 @@ inrigan@adj!s-tis%1(adj)=irriguant
 inrigo@verb!norm%1(verb)=irriguer
 inscribo@verb!norm%1(verb)=inscrire
 inscripti@noun!o-onis%1(noun)=inscription
+insecut@adj!us-a-um%1(adj)=suivi
 inspiro@verb!norm%1(verb)=souffler
 instituend@adj!us-a-um%1(adj)=institué
 institut@noun!um-i%1(noun)=habitude%2(noun)=institution%3(noun)=coutûme
@@ -1078,6 +1086,8 @@ obaerat@adj!us-a-um%1(adj)=endetté
 obdormio@verb!norm%1(verb)=sendormir
 oblati@noun!o-onis%1(noun)=offrande
 oblit@adj!us-a-um%1(adj)=oublié
+oblivi@noun!o-onis%1(noun)=oubli
+obtrit@adj!us-a-um%1(adj)=méprisé
 obscenit@noun!as-atis%1(noun)=défavorable
 obscur@adj!us-a-um%1(adj)=sombre
 obscuri@adj!or-or-us%1(adj)=plus sombre
@@ -1102,6 +1112,7 @@ ole@noun!a-ae%1(noun)=olive
 olim@prep%1(prep)=à ce moment
 omn@adj!is-is-e%1(adj)=tous
 omnino@prep%1(prep)=entièrement
+omnipoten@adj!s-s-s%1(adj)=omnipotent
 onychin@adj!us-a-um%1(noun)=onyx
 oper@noun!a-ae%1(noun)=travail, activite%2(noun)=service, journee de travail%3(noun)=soin, attention, peine%4(noun)=oeuvre
 opero@verb!norm%1(verb)=travailler
@@ -1110,6 +1121,7 @@ opini@noun!o-onis%1(noun)=rumeur%2(noun)=opinion
 oporteo@verb!norm%1(verb)=ilfaut
 oppid@noun!um-i%1(noun)=ville
 oppugno@verb!norm%1(verb)=attaquer
+oppress@adj!us-a-um%1(noun)=supprimé
 optim@adj!us-a-um%1(noun)=meilleur
 opuscul@noun!um-i%1(noun)=très petit ouvrage
 oracul@noun!um-i%1(noun)=oracle%2(noun)=prophétie
@@ -1122,6 +1134,7 @@ orior@verb!norm%1(verb)=apparaitre
 oriund@adj!us-a-um%1(adj)=originaire de
 ornat@noun!us-us%1(noun)=décoration%2(noun)=appareillage
 ort@adj!us-us%1(adj)=lever de soleil
+ort@adj!us-a-um%1(adj)=apparu
 orno@verb!norm%1(verb)=orner
 os@noun!x-sis%1(noun)=os
 ostendo@verb!norm%1(verb)=tendre en avant%2(verb)=mettre en vant,faire voir%3(verb)=presenter,exhiber,exposer%4(verb)=montrer2
@@ -1291,6 +1304,7 @@ prope@prep%1(prep)=près
 prophet@noun!a-ae%1(noun)=prophète
 propter@prep%1(prep)=à cause de%2(prep)=proche
 propterea@prep%1(prep)=pour cette raison
+prosequor@verb!norm%1(verb)=accompagner
 prosterno@verb!norm%1(verb)=seprosterner
 prosto@verb!norm%1(verb)=projetter%2(verb)=offrir
 prostrat@adj!us-a-um%1(adj)=prostré
@@ -1355,6 +1369,7 @@ quoque@prep%1(adv)=aussi
 quorum@prep%1(adv)=qui
 quorumdam@prep%1(adv)=quelques uns
 quot@prep%1(quot)=combien
+radi@noun!x-cis%1(noun)=racine
 ratio@noun!x-nis%1(noun)=raison%2(noun)=explication
 raurac@noun!us-i%1(noun)=rauraque
 recen@noun!s-tis%1(noun)=récent
@@ -1504,6 +1519,7 @@ simon@noun!inv%1(noun)=simon
 simonian@noun!us-i%1(noun)=simonien
 simplici@adj!or-or-us%1(adj)=plus simple
 simulo@verb!norm%1(verb)=simuler
+simul@prep%1(prep)=simultanément
 sine@prep%1(prep)=sans
 singul@adj!us-a-um%1(adj)=tous%2(adj)=chaque
 sinistr@noun!a-ae%1(noun)=gauche
