@@ -1,3 +1,4 @@
 IPR=>,,s,,, ,
 IPA=>, ,
 PAP=>en
+PAPR=>ing

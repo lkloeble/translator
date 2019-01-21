@@ -106,6 +106,7 @@ benefit@neut%normmasc
 benjamin@masc%invmasc
 better@neut%invmasc
 betters@neut%invmasc
+bewitching@neut%invmasc
 bible@neut%normmasc
 big@adj%normmasc
 bird@neut%normmasc
@@ -796,6 +797,7 @@ matthat@neut%invmasc
 mean@neut%normmasc
 meaning@neut%normmasc
 measure@neut%normmasc
+meat@neut%invmasc
 medieval@adj%normmasc
 mediterranean@adj%normmasc
 member@masc%normmasc
@@ -824,6 +826,7 @@ month@neut%normmasc
 monument@neut%normmasc
 moon@neut%normmasc
 morning@neut%normmasc
+morsel@neut%normmasc
 moses@neut%invmasc
 moses'@neut%invmasc
 mother@fem%normfem
@@ -1167,6 +1170,7 @@ sixty@neut%invmasc
 skin@neut%normmasc
 sleep@masc%invmasc
 small@adj%invmasc
+societ@fem%endy
 sodom@neut%invmasc
 soft@adj%invmasc
 software@neut%normmasc
