@@ -430,7 +430,7 @@ jeter@NORM%[INFINITIVE]=[jeter]%[IPR]=[jette,jettes,jette,jetons,jetez,jettent]%
 jeterbas@NORM%[INFINITIVE]=[jeter bas]%[IPR]=[jette bas,jettes bas,jette bas,jetons bas,jetez bas,jettent bas]%[AII]=[jetais bas,jetais bas,jetait bas,jetions bas,jetiez bas,jetaient bas]%[AIP]=[jetai bas,jetas bas,jeta bas,jetâmes bas,jetâtes bas,jetèrent bas]
 jeuner@NORM%[INFINITIVE]=[jeûner]%[IPR]=[jeûne,jeûnes,jeûne,jeûnons,jeûnez,jeûnent]%[AII]=[jeûnais,jeûnais,jeûnait,jeûnions,jeûniez,jeûnaient]%[AIP]=[jeûnai,jeûnas,jeûna,jeûnâmes,jeûnâtes,jeûnèrent]%[PAP]=[jeûné]
 jogger@NORM%[INFINITIVE]=[jogger]%[IPR]=[jogge,jogges,jogge,joggons,joggez,joggent]
-jouer@NORM%[IPR]=[joue,joues,joue,jouons,jouez,jouent]%[INFINITIVE]=[jouer]
+jouer@NORM%[INFINITIVE]=[jouer]%[IPR]=[joue,joues,joue,jouons,jouez,jouent]%[AII]=[jouais,jouais,jouait,jouions,jouiez,jouaient]
 juger@NORM%[INFINITIVE]=[juger]%[IPR]=[juge,juges,juge,jugeons,jugez,jugent]%[PALFUT]=[jugerai,jugeras,jugera,jugerons,jugerez,jugeront]%[AII]=[jugeais,jugeais,jugeait,jugions,jugiez,jugeaient]%[AIF]=[jugerai,jugeras,jugera,jugerons,jugerez,jugeront]%[AIP]=[jugeai,jugeas,jugea,jugeâmes,jugeâtes,jugèrent]
 jurer@NORM%[INFINITIVE]=[jurer]%[IPR]=[jure,jures,jure,jurons,jurez,jurent]%[PAP]=[juré]%[AII]=[jurais,jurais,jurait,jurions,juriez,juraient]
 labourer@NORM%[INFINITIVE]=[labourer]%[IPR]=[laboure,laboures,laboure,labourons,labourez,labourent]

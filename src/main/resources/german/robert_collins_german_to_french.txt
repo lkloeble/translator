@@ -176,6 +176,7 @@ ausrottung@noun!meinmasc%1(noun)=extermination
 ausruf@verb!norm%1(verb)=declarer
 ausschweifend@adj!ausreichend%1(adj)=dissolu%2(adj)=débauché
 ausschweifendst@adj!ausreichend%1(adj)=le plus dissolu%2(adj)=le plus débauché
+ausserordentlich@adj!ausreichend%1(adj)=extraordinaire
 ausseh@verb!norm%1(verb)=avoirlair
 ausser@prep%1(prep)=sauf
 ausserdem@prep%1(prep)=en outre
@@ -188,6 +189,7 @@ auszieh@verb!norm%1(verb)=deshabiller%2(verb)=enlever
 ausziehens@noun!inv%1(noun)=enlèvement
 auszudruck@verb!norm%1(verb)=exprimer
 auszugraben@noun!inv%1(noun)=exhumer
+auszuruf@verb!norm%1(verb)=proclamer
 auto@noun!tipp%1(noun)=voiture
 autonom@adj!ausreichend%1(adj)=autonome
 autor@noun!autor%1(noun)=auteur
@@ -247,6 +249,7 @@ beibring@verb!norm%1(verb)=enseigner
 beide@prep%1(prep)=tous deux
 beiden@prep%1(prep)=les deux
 beigefugt@adj!ausreichend%1(adj)=attaché
+beileg@verb!norm%1(verb)=resoudre
 beim@prep%1(prep)=en cas de%2(prep)=quand%2(prep)=pendant
 beinahe@prep%1(prep)=pratiquement
 bein@noun!jahrzehnt%1(noun)=jambe
@@ -871,6 +874,7 @@ geheimnisvoller@noun!ausreichend%1(adj)=mystérieux
 gehilfin@noun!meinfem%1(noun)=aide
 gehor@verb!norm%1(noun)=appartenir
 geist@noun!norm%1(noun)=esprit
+gelachter@noun!arbeiter%1(noun)=rire
 geld@noun!inv%1(noun)=argent
 gelehrt@noun!ausreichend%1(adj)=enseigné
 gelt@verb!norm%1(verb)=concerner%2(verb)=valider
@@ -907,6 +911,7 @@ gesamt@adj!ausreichend%1(adj)=total%2(adj)=complet%3(adj)=entier
 gescheh@verb!norm%1(verb)=seproduire
 geschichte@noun!flasche%1(noun)=histoire
 geschichtlich@adj!ausreichend%1(adj)=historique
+geschicklichkeit@noun!meinfem%1(noun)=dextérité
 geschlecht@noun!licht%1(noun)=sexe
 geschlossner@adj!ausreichend%1(adj)=fermé
 geschmack@noun!licht%1(noun)=goût
@@ -1524,6 +1529,7 @@ nieder@adj!ausreichend%1(adj)=faible
 niedergang@noun!arbeiter%1(noun)=déclin
 niemand@prep%1(prep)=personne
 nihilismus@noun!inv%1(noun)=nihilisme
+nirgends@prep%1(prep)=nulle part
 noch@prep%1(prep)=encore
 nochmals@prep%1(prep)=une fois encore
 norm@noun!meinfem%1(noun)=norme
@@ -1970,6 +1976,7 @@ surf@verb!norm%1(surf)=surfer
 suss@adj!ausreichend%1(adj)=doux
 sibyllinisch@adj!ausreichend%1(adj)=sibyllin
 symptom@noun!norm%1(noun)=symptôme
+synagoge@noun!inv%1(noun)=synagogue
 synedrium@noun!inv%1(noun)=sanhédrin
 synthesis@noun!inv%1(noun)=synthèse
 syrisch@adj!ausreichend%1(adj)=syrien
@@ -2169,6 +2176,7 @@ verdienst@noun!jahrzehnt%1(noun)=mérite
 verdorben@adj!ausreichend%1(adj)=pourri
 verdunk@verb!norm%1(verb)=obscurcir
 verehelichung@noun!meinfem%1(noun)=fiançaille
+vereinzelt@adj!ausreichend%1(adj)=isolé
 verfall@noun!arbeiter%1(noun)=décadence
 verfanglich@adj!ausreichend%1(adj)=embarrassant
 verfasser@noun!norm%1(noun)=auteur
@@ -2238,6 +2246,7 @@ vertausch@verb!norm%1(verb)=echanger
 verteidig@verb!norm%1(verb)=defendre
 vertrag@verb!norm%1(verb)=supporter
 vertrau@verb!norm%1(verb)=faireconfiance
+verunglimpfung@noun!meinmasc%1(noun)=dénigrement
 verurteil@verb!norm%1(verb)=condamner
 verwahr@verb!norm%1(verb)=garder
 verwand@verb!norm%1(verb)=modifier%2(verb)=metamorhoser%3(verb)=transformer

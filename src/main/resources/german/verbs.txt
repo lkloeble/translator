@@ -34,6 +34,7 @@ ausruf,en,[rufen],(PAP*ausruf*ausgerufen*0)
 ausseh,en,[leben],(IPR14*ausseh*aussieh*0)
 auszieh,en,[rufen],(PAP*auszieh*ausgezogen*0)
 auszudruck,en,[leben],(PAPR*auszudruck*auszudruckend*0)
+auszuruf,en,[rufen]
 bau,en,[leben],(PAPR*bau*bauend*0)
 beabsichtig,en,[leben]
 bearbeit,en,[mochten]
@@ -53,6 +54,7 @@ behand,eln,[sammeln]
 behaupt,en,[mochten]
 beherrsch,en,[leben]
 beibring,en,[leben],(PAPR*beibring*beibringend*0)
+beileg,en,[leben],(PAP*beileg*beigelegt*0)
 beischreib,en,[rufen],(AIP*beischreib*beischrieb*0@PAP*beischrei*beigeschrie*0)
 beitrag,en,[lassen],(AIP*beitrag*beitrug*0)
 beiwohn,en,[leben]

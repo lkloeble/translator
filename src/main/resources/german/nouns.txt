@@ -119,6 +119,7 @@ ausreichend@adj%ausreichend
 ausrottung@neut%meinmasc
 ausschweifend@adj%ausreichend
 ausschweifendst@adj%ausreichend
+ausserordentlich@adj%ausreichend
 ausserung@neut%meinmasc
 ausspruche@fem%flasche
 auswahl@fem%meinfem
@@ -534,6 +535,7 @@ geheimnis@neut%erkenntnis
 geheimnisvoller@adj%ausreichend
 gehilfin@fem%meinfem
 geist@neut%norm
+gelachter@neut%arbeiter
 geld@neut%inv
 gelehrt@adj%ausreichend
 geltend@adj%ausreichend
@@ -562,6 +564,7 @@ gesamt@adj%ausreichend
 gesammelt@adj%ausreichend
 gesamtheit@fem%meinfem
 geschichtlich@adj%ausreichend
+geschicklichkeit@fem%meinfem
 geschlecht@neut%licht
 geschlossner@adj%ausreichend
 geschmack@masc%licht
@@ -1350,6 +1353,7 @@ surf@neut%inv
 suss@adj%ausreichend
 sibyllinisch@adj%ausreichend
 symptom@neut%norm
+synagoge@neut%inv
 synedrium@neut%inv
 synthesis@neut%inv
 syrisch@adj%ausreichend
@@ -1506,6 +1510,7 @@ verderberin@neut%inv
 verdienst@neut%jahrzehnt
 verdorben@adj%ausreichend
 verehelichung@fem%meinfem
+vereinzelt@adj%ausreichend
 verfall@masc%arbeiter
 verfanglich@adj%ausreichend
 verfasser@masc%norm
@@ -1540,6 +1545,7 @@ verschreibung@fem%meinfem
 verstandnis@fem%inv
 versuch@neut%meinmasc
 versucherisch@adj%ausreichend
+verunglimpfung@neut%meinmasc
 verwandt@adj%ausreichend
 verwandtschaftich@neut%meinmasc
 verwirrung@fem%meinfem
