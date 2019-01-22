@@ -124,6 +124,7 @@ boastfulness@neut%invmasc
 bob@neut%invmasc
 bod@neut%endy
 boding@neut%invmasc
+boiled@neut%invmasc
 bondage@neut%invmasc
 bone@neut%normmasc
 book@neut%normmasc
@@ -804,6 +805,7 @@ member@masc%normmasc
 memor@fem%endy
 mentor@masc%normmasc
 mere@neut%invmasc
+merry@neut%invmasc
 metropolis@neut%invmasc
 michael@masc%invmasc
 middle@neut%invmasc
@@ -1337,6 +1339,7 @@ unusual@adj%invmasc
 upper@neut%invmasc
 usually@neut%invmasc
 usurped@neut%invmasc
+utter@neut%invmasc
 v@neut%invmasc
 vagabond@neut%normmasc
 vale@neut%normmasc
@@ -1420,5 +1423,6 @@ year@neut%normmasc
 yes@neut%invmasc
 young@masc%normmasc
 your@neut%invmasc
+youth@adj%normmasc
 zechariah@masc%invmasc
 zillah@fem%invfem
