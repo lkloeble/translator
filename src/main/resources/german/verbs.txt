@@ -435,6 +435,7 @@ werd,en,[werden],(AIP*werd*wurd*0@PAP*werden*geworden*0)
 werf,en,[leben],(IPR12*wer*wir*0)
 wiederzufind,en,[mochten]
 widm,en,[mochten],(PAP*widm*gewidmet*0)
+wink,en,[leben]
 wiss,en,[wissen],(IPR012*wiss*weiss*0@AIP*wiss*wusst*0@PAP*wiss*gewusst*0)
 woll,en,[wollen],(IPR012*woll*will*0@AII*will*woll*0)
 wohn,en,[leben],(PAPR*wohn*wohnend*0)

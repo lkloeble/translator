@@ -43,6 +43,7 @@ alt@adj%ausreichend
 altar@masc%phanomen
 alter@adj%ausreichend
 altest@adj%ausreichend
+altkirchl@neut%inv
 alttest@neut%inv
 amerikanisch@adj%ausreichend
 amtsbezeichnung@fem%inv
@@ -271,6 +272,7 @@ dessentwillen@neut%inv
 determiniert@adj%ausreichend
 deutsch@adj%ausreichend
 deutschland@fem%inv
+deutung@fem%meinfem
 dezember@neut%inv
 dialektik@neut%inv
 dialektisch@adj%ausreichend
@@ -454,6 +456,7 @@ flote@fem%norm
 fluch@masc%jahrzehnt
 xxfluche@fem%flasche
 flug@neut%meinmasc
+flugel@masc%arbeiter
 flugzeug@neut%meinmasc
 folge@fem%flasche
 folgerichtig@adj%ausreichend
@@ -622,6 +625,7 @@ grundbass@neut%inv
 grundsatz@masc%jahrzehnt
 grundsatzlich@adj%ausreichend
 gulasch@neut%inv
+gunsten@neut%inv
 gut@adj%mein
 halb@adj%inv
 halle@fem%inv
@@ -1239,6 +1243,7 @@ schopfung@fem%meinfem
 schrecken@masc%arbeiter
 schrift@fem%meinfem
 schriftlich@adj%ausreichend
+schriftsteller@masc%arbeiter
 schritt@masc%jahrzehnt
 schubert@neut%inv
 schuh@masc%phanomen

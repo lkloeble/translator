@@ -66,6 +66,7 @@
 κατω@prep()
 κατωτατω@prep()
 λαθρα@prep()
+λιαν@prep()
 μαλλον@prep()
 μεγαλως@prep()
 μεθ@prep%[electGenitiveForFollowingNoun(μεταgen),electAccusativeForFollowingNoun(μεταacc)]
@@ -107,6 +108,7 @@
 παντα@prep(acc)
 παντας@prep(acc)
 παντες@prep(nom)
+παντι@prep(dat)
 παντων@prep(gen)
 πανυ@prep()
 παρ@prep%[electAccusativeForFollowingNoun(παραacc),electDativeForFollowingNoun(παραdat),electGenitiveForFollowingNoun(παραgen)]
@@ -116,6 +118,7 @@
 παραgen@prep()
 παση@prep(dat)
 πασης@prep(gen)
+πασι@prep(dat)
 πασιν@prep(dat)
 περι@prep%[electAccusativeForFollowingNoun(περιacc),electGenitiveForFollowingNoun(περιgen)]
 περιacc@prep()

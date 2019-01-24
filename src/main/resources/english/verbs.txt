@@ -221,6 +221,8 @@ lead,[live]
 learn,[call]
 leave,[live],(AIP*leaved*left*0)
 lie,[live],(PAPR*lie*ly*0)
+lift,[live]
+liftup,[live]
 like,[live]
 limit,[call]
 listen,[call]

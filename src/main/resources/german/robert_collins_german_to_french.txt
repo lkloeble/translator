@@ -59,6 +59,7 @@ alt@noun!ausreichend%1(adj)=vieux
 altar@noun!phanomen%1(noun)=autel
 alter@noun!ausreichend%1(adj)=plus vieux
 altest@adj!ausreichend%1(adj)=le plus vieux
+altkirchl@noun!inv%1(noun)=église primitive
 alttest@adj!ausreichend%1(adj)=vétéro-testamentaire
 am@prep%1(prep)=au
 amerikanisch@adj!ausreichend%1(adj)=américain
@@ -466,6 +467,7 @@ deut@verb!norm%1(verb)=interpreter
 deutlich@prep%1(prep)=clairement
 deutsch@adj!ausreichend%1(adj)=allemand
 deutschland@noun!inv%1(noun)=allemagne
+deutung@noun!meinfem%1(noun)=interprétation
 dezember@noun!inv%1(noun)=décembre
 dhexpr@prep%1(prep)=c'est à dire
 diexpr@prep%1(prep)=c'est à dire
@@ -770,6 +772,7 @@ fluch@verb!norm%1(verb)=jurer%2(verb)=maudire
 fluch@noun!jahrzehnt%1(noun)=malédiction
 xxfluche@noun!flasche%1(noun)=malédiction
 flug@noun!meinmasc%1(noun)=vol
+flugel@noun!arbeiter%1(noun)=aile
 flugzeug@noun!meinmasc%1(noun)=avion
 folg@verb!norm%1(verb)=suivre
 folge@noun!flasche%1(noun)=suite
@@ -976,6 +979,7 @@ grundlich@prep%1(prep)=totalement
 grundsatz@noun!jahrzehnt%1(noun)=dogme%2(noun)=principe
 grundsatzlich@adj!ausreichend%1(adj)=fondamental
 gulasch@noun!inv%1(noun)=goulash
+gunsten@noun!inv%1(noun)=bénéfice
 gut@adj!mein%1(adj)=bon
 guten@prep%1(prep)=bon
 gutenabend@prep%1(prep)=bonsoir
@@ -1800,6 +1804,7 @@ schrecken@noun!arbeiter%1(noun)=terreur
 schreib@verb!norm%1(noun)=ecrire
 schrift@noun!meinfem%1(noun)=écriture
 schriftlich@adj!ausreichend%1(adj)=par écrit
+schriftsteller@noun!arbeiter%1(noun)=écrivain%2(noun)=auteur
 schritt@noun!jahrzehnt%1(noun)=pas%2(noun)=démarche
 schubert@noun!inv%1(noun)=schubert
 schuh@noun!phanomen%1(noun)=chaussure
@@ -2388,6 +2393,7 @@ wider@prep%1(prep)=contre
 wille@noun!wille%1(noun)=volonté
 willkurlich@adj!ausreichend%1(adj)=aléatoire
 wind@noun!phanomen%1(noun)=vent
+wink@verb!norm%1(verb)=fairesigne
 winkel@noun!arbeiter%1(noun)=endroit%2(noun)=angle
 wir@prep%1(prep)=nous
 wirbel@noun!arbeiter%1(noun)=tourbillon

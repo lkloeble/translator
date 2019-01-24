@@ -771,6 +771,7 @@ lunch@neut%invmasc
 lust@neut%invmasc
 lydda@neut%invmasc
 maccabees@neut%invmasc
+magical@adj%invmasc
 magistrate@neut%normmasc
 majestic@neut%normmasc
 male@masc%normmasc
@@ -1089,6 +1090,7 @@ sabbath@neut%invmasc
 sacred@neut%invmasc
 sacrifice@neut%normmasc
 sad@adj%invmasc
+safe@adj%invmasc
 safet@neut%endy
 saith@neut%invmasc
 sake@neut%normmasc
@@ -1349,6 +1351,7 @@ venerable@adj%invmasc
 vengeance@neut%normmasc
 verse@neut%normmasc
 version@neut%normmasc
+vessel@neut%normmasc
 view@fem%normfem
 video@neut%normmasc
 village@neut%normmasc
