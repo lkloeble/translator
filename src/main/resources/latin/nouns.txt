@@ -67,6 +67,7 @@ ann@masc%us-i
 ant@fem%a-ae
 antiochen@adj%us-a-um
 antiqu@adj%us-a-um
+antiqui@adj%or-or-us
 antiquissim@adj%us-a-um
 antiquit@fem%as-atis
 apert@adj%us-a-um
@@ -75,6 +76,7 @@ apostol@masc%us-i
 apostolic@adj%us-a-um
 appellat@adj%us-a-um
 appi@fem%a-ae
+april@masc%is-is
 aqu@fem%a-ae
 aquitan@adj%us-a-um
 aquitani@fem%a-ae
@@ -188,8 +190,10 @@ comment@adj%us-a-um
 comparat@adj%us-a-um
 complet@adj%us-a-um
 conat@adj%us-a-um
+concedend@adj%us-a-um
 concepti@fem%o-onis
 conciliatur@adj%us-a-um
+conclusi@fem%o-onis
 condit@adj%us-a-um
 conficiend@adj%us-a-um
 confirmat@adj%us-a-um
@@ -256,6 +260,7 @@ defect@masc%us-us
 definiti@fem%o-onis
 delet@masc%us-a-um
 delaps@adj%us-a-um
+deliberand@adj%us-a-um
 deli@fem%a-ae
 delphi@neut%inv
 demonstrat@adj%us-a-um
@@ -296,6 +301,7 @@ don@neut%um-i
 donand@adj%us-a-um
 dubi@adj%us-a-um
 dua@adj%inv
+duabus@adj%inv
 duae@adj%inv
 duas@adj%inv
 dulci@fem%um-i
@@ -351,6 +357,8 @@ fabul@fem%a-ae
 faci@fem%es-ei
 facien@neut%s-tis
 fact@adj%us-a-um
+faciund@adj%us-a-um
+facult@fem%as-atis
 fals@adj%us-a-um
 famili@fem%a-ae
 familiarita@fem%s-tis2
@@ -490,6 +498,7 @@ ingeni@neut%um-i
 inhonest@adj%us-a-um
 inimic@masc%us-i
 initi@neut%um-i
+iniuri@fem%a-ae
 innocenti@fem%a-ae
 innumer@adj%us-a-um
 inquie@adj%s-tis
@@ -514,6 +523,7 @@ itali@fem%a-ae
 itin@neut%us-eris[nomsing:iter,accsing:iter]
 iucund@adj%us-a-um
 iudici@neut%um-i
+iug@neut%um-i
 iuli@masc%us-i
 iuli@fem%a-ae
 iument@neut%um-i
@@ -529,6 +539,7 @@ jov@masc%is-is
 jucund@adj%us-a-um
 judae@fem%a-ae
 judae@adj%us-X-um
+judaic@neut%us-i
 juli@masc%us-i
 juli@fem%a-ae
 just@adj%us-a-um
@@ -653,6 +664,7 @@ mult@adj%us-a-um
 multitud@fem%o-inis
 mund@masc%us-i
 mur@masc%us-i
+mutati@fem%o-onis
 mysteri@neut%um-i
 narrati@fem%o-onis
 nas@masc%us-i
@@ -722,6 +734,7 @@ oratio@fem%x-nis
 orgetorix@neut%inv[gensing:orgetorigis,accsing:orgetoricem]
 orien@adj%s-s-s
 origen@masc%us-i
+orig@fem%o-inis
 oriund@adj%us-a-um
 ornat@masc%us-us
 ort@adj%us-us
@@ -813,6 +826,7 @@ praestanti@adj%or-or-us
 praemi@neut%um-i
 praenom@neut%en-inis
 praenuntiat@adj%us-a-um
+prav@adj%us-a-um
 preti@neut%um-i
 pretios@adj%us-a-um
 prim@adj%us-a-um
@@ -821,6 +835,7 @@ princip@adj%s-s-s2
 princip@masc%x-is2
 principat@masc%us-us
 principi@neut%um-i
+pri@adj%or-or-us
 privat@adj%us-a-um
 prob@adj%us-a-um
 proband@adj%us-a-um
@@ -833,6 +848,7 @@ profess@adj%us-a-um
 progress@masc%us-us
 promiscu@adj%us-a-um
 propagand@adj%us-a-um
+propagat@adj%us-a-um
 prophet@masc%a-ae
 prostrat@adj%us-a-um
 protestat@adj%us-a-um
@@ -853,6 +869,7 @@ pyrenae@fem%x-ri
 qu@adj%i-ae-od-cuius
 quadringent@adj%e-a-ud
 quart@adj%us-a-um
+quatuor@neut%inv
 quattuor@neut%inv
 quinque@neut%inv
 qint@masc%us-i
@@ -982,6 +999,7 @@ suav@adj%is-is-e
 successor@masc%x-is2
 summ@fem%a-ae
 summ@adj%us-a-um
+sumptur@adj%us-a-um
 superfici@fem%es-ei
 supern@adj%us-a-um
 suprem@adj%us-a-um
@@ -1004,6 +1022,7 @@ tant@adj%us-a-um
 tect@neut%um-i
 tecti@adj%or-or-us
 temp@neut%us-oris
+temperatur@adj%us-a-um
 templ@neut%um-i
 tenebr@fem%a-ae
 terenti@fem%a-ae
@@ -1060,6 +1079,7 @@ uxor@fem%x-is
 vacu@adj%us-a-um
 vari@adj%us-a-um
 vas@neut%x-is
+vel@neut%um-i
 vespere@neut%inv
 ver@adj%us-a-um
 verb@neut%um-i
@@ -1069,6 +1089,7 @@ vers@masc%us-us
 vest@adj%er-ra-rum
 vestigi@neut%um-i
 vet@adj%adj-us-eris
+vetusti@adj%or-or-us
 vi@fem%a-ae
 vic@masc%us-i
 victori@fem%a-ae

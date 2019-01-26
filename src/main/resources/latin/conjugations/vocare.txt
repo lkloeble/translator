@@ -4,6 +4,7 @@ PSP=>er,eris,etur,emur,emini,entur
 PIP=>or,aris,atur,amur,amini,antur
 PII=>abar,abaris,abatur,abamur,abamini,abantur
 ASP=>em,es,et,emus,etis,ent
+ASPP=>issem,isses,isset,issemus,issetis,issent
 IMP=>abam,abas,abat,abamus,abatis,abant
 AIF=>abo,abis,abit,abimus,abitis,abunt
 AII=>abam,abas,abat,abamus,abatis,abant

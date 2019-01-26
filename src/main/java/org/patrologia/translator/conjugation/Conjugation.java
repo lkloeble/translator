@@ -15,7 +15,7 @@ import java.util.*;
  * AIP = active indicative perfect
  * AII = active indicative imperfect
  * MPII = middle/passive indicative imperfect
- * PSP = passive subjonctive present
+ * PSP = passive subjonctive perfect
  * PSI = passive subjonctive  imperfect
  * PII = passive indicative imperfect
  * AIF = active indicative future

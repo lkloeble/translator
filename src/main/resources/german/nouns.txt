@@ -977,6 +977,7 @@ muhselig@adj%ausreichend
 multikulturell@adj%ausreichend
 mund@masc%licht
 mundlich@adj%ausreichend
+munze@fem%flasche
 murmeltier@neut%arbeiter
 musaph@neut%inv
 musee@fem%flasche
@@ -1502,6 +1503,7 @@ vater@masc%arbeiter
 vaterlich@adj%ausreichend
 vaterschaft@fem%meinfem
 verabredung@masc%meinmasc
+verachtlich@adj%ausreichend
 verachtung@neut%inv
 verandert@adj%ausreichend
 veranlassung@fem%meinfem

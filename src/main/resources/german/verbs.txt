@@ -217,6 +217,7 @@ helf,en,[leben],(IPR*helft*hilft*0@AIMP*helf*hilf*0)
 heg,en,[leben]
 heiss,en,[genesen],(AII*heiss*hiess*0)
 heranzuzieh,en,[leben]
+herauskomm,en,[rufen],(PAP*herauskomm*herausgekommen*0)
 herbeibring,en,[leben]
 herleit,en,[mochten]
 herstamm,en,[leben]
@@ -456,3 +457,4 @@ zuruckkehr,en,[leben]
 zuruckzieh,en,[rufen],(AIP*zuruckzieh*zuruckzog*0)
 zusammenhal,en,[halten]
 zusteh,en,[stehen],(PAP*zustehen*zugestand*0)
+zuwink,en,[leben],(PAPR*zuwink*zuwinkend*0)
