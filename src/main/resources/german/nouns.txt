@@ -358,6 +358,7 @@ entbehrung@fem%meinfem
 entgegengesetzt@adj%ausreichend
 entsprechend@adj%ausreichend
 entweihter@masc%arbeiter
+entwickelung@masc%meinmasc
 entzuckung@fem%meinfem
 epikur@neut%inv
 epikurisch@adj%ausreichend
@@ -639,6 +640,7 @@ hass@masc%ort
 hasslich@adj%ausreichend
 haufig@adj%ausreichend
 haufiger@adj%ausreichend
+haupt@neut%licht
 hauptmasse@neut%inv
 hauptstadt@fem%flasche
 hauptwasser@neut%inv
@@ -692,6 +694,7 @@ hoch@adj%inv
 hochmutig@adj%ausreichend
 hoffnung@fem%meinfem
 hoh@adj%ausreichend
+hohepunkt@masc%jahrzehnt
 hoher@adj%ausreichend
 hochst@adj%ausreichend
 hochzeit@fem%norm
@@ -1463,6 +1466,7 @@ unerschrockenheit@neut%inv
 unfall@masc%phanomen
 unfruchtbar@adj%ausreichend
 ungarisch@adj%ausreichend
+ungeduldig@adj%ausreichend
 ungeheuerlich@adj%ausreichend
 ungeheur@adj%ausreichend
 ungemein@adj%ausreichend
@@ -1607,6 +1611,7 @@ wahr@adj%ausreichend
 wahrhaftig@adj%ausreichend
 wahrhaftigkeit@fem%meinfem
 wahrheit@fem%norm
+wahrsager@masc%arbeiter
 wahrscheinlich@adj%ausreichend
 wahrscheinlicher@adj%ausreichend
 walfisch@masc%meer
@@ -1691,6 +1696,7 @@ zerstorung@fem%meinfem
 zerstreuung@fem%meinfem
 zeugnis@neut%erkenntnis
 ziehn@neut%inv
+ziel@neut%jahrzehnt
 zigarette@fem%flasche
 zimmer@fem%inv
 zion@neut%inv

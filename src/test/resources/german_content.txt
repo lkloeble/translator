@@ -678,9 +678,9 @@ strackp11par077=>("Sohn des Kozeba" oder "der aus Kozeba" ohne verächtliche Bed
 strackp11par078=>Sein eigentlicher Name ist "Schim’on" gewesen.
 strackp11par079=>Das beweisen die während seiner Herrschaft herausgekommenen Münzen und Midr KL 2,2 (63b) : Zwei Brüder waren in Kephar Charokha,
 strackp11par080=>die keinen Römer vorüberziehn ließen. (<=abbrev) ohne ihn zu töten. Sie sagten :
-strackp11par081=>wir wollen die Krone Hadrians nehmen und sie auf das Haupt Schim’ons (des Ben-Kozeba) setzen. – Anders pTaan 4,69a, 33.
-strackp11par082=>2 Abraham und David werden als Ziel- und Höhepunkte der genealogischen Entwickelung gefeiert GnR 39(24a) :
-strackp11par083=>R. Berekhja (um 340) hat in namen des R. Nechemja (um 150) gesagt :
+strackp11par081=>wir wollen die Krone |Hadrians| nehmen und sie auf das Haupt |Schim’ons| (des Ben-Kozeba) setzen. – Anders pTaan 4,69a, 33.
+strackp11par082=>2 Abraham und David werden als Ziel- und Höhepunkte der genealogischen Entwickelung gefeiert |GnR| 39(24a) :
+strackp11par083=>R. |Berekhja| (um 340) hat in namen des R. |Nechemja| (um 150) gesagt :
 strackp11par084=>Gleich einem Könige, der von Ort zu Ort zog, und dem eine Perle von seinem Haupte fiel.
 strackp11par085=>Der König machte halt und ließ sein Gefolge dort auch haltmachen.
 strackp11par086=>Er ließ den Erdstaub in Haufen zus bringen und Siebe Herbeischaffen.
