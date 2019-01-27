@@ -45,6 +45,7 @@ aliyzr@noun!invmasc%1(noun)=éliezer
 alyzr@noun!invmasc%1(noun)=élazar
 amh@noun!custom(nomsg=amh|cst(nomsg)=amt|nomplr=a67mw331t)%1(noun)=peuple
 amn@verb!norm%1(verb)=faireconfiance
+amn2@verb!norm%1(verb)=faireconfiance
 amnim@noun!invpur%1(noun)=ceux qui sont élevés
 amr@verb!norm%1(verb)=dire
 aw331r@noun!invfem%1(noun)=flamme,feu%2(noun)=lumière
@@ -132,6 +133,7 @@ g63m000@prep%1(prep)aussi%2(prep)=même%3(prep)=encore
 gdl@adj!im-ot%(adj)=grand
 g64dw331l@adj!im-ot%(adj)=grand
 gwi@noun!custom(nomplr=gwim|nomsg=gwi)%1(noun)=gentil%2(noun)=nation
+gidhanasheexpr@noun!invpur%1(noun)=nerf sciatique
 girsa@noun!invpur%1(noun)=variante%2(noun)=version
 gm'@noun!invpur%1(noun)=gémara
 gmlial@noun!invmasc%1(noun)=gamaliel
@@ -141,6 +143,7 @@ d@prep%1(prep)=qui
 dbr@verb!norm%1(verb)=parler
 dbri@noun!invmasc%1(noun)=paroles de
 din@noun!invmasc%1(noun)=droit%2(noun)=justice
+dlt@noun!im%1(noun)=lettre d%2(noun)=porte
 dnn@verb!norm%1(verb)=discuter
 dyt@noun!invpur%1(noun)=opinion
 dp@noun!im%1(noun)=page
@@ -156,6 +159,7 @@ h@prep%1(prep)=le[les,la]
 h?q@prep%1(prep)=ainsi soit-il
 h59@prep%1(prep)=le[les,la]
 hayyimtyrer@noun!invpur%1(noun)=Hayyim ben Solomon Tyrer (rabbin hassidique)
+hdsh@noun!invpur%1(noun)=hadassah
 hwsyih@noun!invpur%1(noun)=hoshaya
 h62m000@prep%1(prep)=eux
 hm@prep%1(prep)=eux
@@ -178,6 +182,7 @@ h64@prep%1(prep)=le[les,la]
 h6469@prep%1(prep)=le[les,la]
 h69@prep%1(prep)=le[les,la]
 hri@prep%1(prep)=voici
+hrmst@noun!invpur%1(noun)=rampant
 hiw@verb!irrg%1(verb)=etre
 h61ik64l@noun!im%1(noun)=palais
 hwa@prep%1(prep)=lui
@@ -284,6 +289,7 @@ k'h@noun!mascot%1(noun)=puissance
 ki@prep%1(prep)=car%2(prep)=lorsque%3(prep)=pour que%4(prep)=que
 k315i@prep%1(prep)=car%2(prep)=lorsque%3(prep)=pour que%4(prep)=que
 k31560i@prep%1(prep)=car%2(prep)=lorsque%3(prep)=pour que%4(prep)=que
+kiwwn@noun!im%1(noun)=direction
 kl@prep%1(prep)=tout
 k31564l@prep%1(prep)=tout
 k64l@prep%1(prep)=tout
@@ -293,6 +299,7 @@ kmw@prep%1(prep)=comme
 kmwk@prep%1(prep)=comme toi
 k64mw331k00064@prep%1(prep)=comme toi
 kn@prep%1(prep)=oui%2(prep)=ainsi
+knp@noun!im%1(noun)=aile
 kns@verb!norm%1(verb)=entrer
 kpr@verb!norm%1(verb)=renier
 knst@noun!invpur%1(noun)=knesset%2(noun)=assemblée
@@ -300,6 +307,7 @@ krt@verb!norm%1(verb)=couper
 ksh@verb!norm%1(verb)=couvrir
 ksh$@verb!norm%1(verb)=couvrir
 krti@noun!invmasc%1(noun)=poireau
+ktb@verb!norm%1(verb)=ecrire
 ktib@noun!invpur%1(noun)=écriture
 ksofit@prep%1(prep)=de-toi
 l@prep%1(prep)=à
@@ -307,6 +315,8 @@ l56@prep%1(prep)=à
 la@prep%1(prep)=ne
 law@prep%1(prep)=ne
 l65a@prep%1(prep)=ne
+lb@noun!mascot%1(noun)=coeur
+lib@noun!mascot%1(noun)=coeur
 lbd@prep%1(prep)=seulement
 lbn@noun!invmasc%1(noun)=blanc%2(noun)=laban
 l63i56l64h@noun!custom(nomplr=lilwt|cst(nomsg)=lil&|nomsg=lilh)%1(noun)=nuit
@@ -315,6 +325,7 @@ lmd@verb!norm%1(verb)=enseigner
 lmd$@verb!norm%1(verb)=enseigner
 lmh@prep%1(prep)=pourquoi
 lminhw@prep%1(prep)=selon son type
+lminhm@prep%1(prep)=selon leur types
 lmyn@prep%1(prep)=afin que
 lpikk@prep%1(prep)=par conséquent
 lpnikm@prep%1(prep)=devant vous
@@ -352,6 +363,7 @@ m63h@prep%1(prep)=quoi
 m64h@prep%1(prep)=quoi
 mi@prep%1(prep)=qui
 m60i@prep%1(prep)=qui
+milh@noun!invpur%1(noun)=circoncision
 milta@noun!invpur%1(noun)=chose%2(noun)=mot
 m64i60m000@noun!invpur%1(noun)=eaux
 min@noun!im%1(noun)=hérétique%2(noun)=genre grammatical%3(noun)=acte sexuel%4(noun)=genre sexuel%5(noun)=espèce%6(noun)=type
@@ -367,6 +379,7 @@ m60n000@prep%1(prep)=de
 m00060n000@prep%1(prep)=de
 mqwh@noun!invpur%1(noun)=rassemblement des eaux
 mqr@noun!mascendingh%1(noun)=accident%2(noun)=occurence
+mqra@noun!invpur%1(noun)=verset biblique%2(noun)=proclamation (biblique)
 mrgl@noun!im%1(noun)=explorateur%2(noun)=espion
 mys@noun!endingh%1(noun)=acte%2(noun)=oeuvre
 mswm@prep%1(prep)=parce que
@@ -446,6 +459,7 @@ qmn@prep%1(prep)=avant
 qra@verb!norm%1(verb)=crier%2(verb)=lire%3(verb)=appeler
 qrbn@noun!mascot%1(noun)=victime%2(noun)=sacrifice rituel (qorban)
 qrwa@noun!invmasc%1(noun)=lecture
+qrwi@noun!invmasc%1(noun)=appelé
 qriat@noun!invpur%1(noun)=appel de
 qxn@adj!im-ot%1(adj)=petit
 qxr@noun!invmasc%1(noun)=encens%2(noun)=combustion
@@ -502,7 +516,7 @@ rb@noun!im%1(noun)=rabbin
 ra65s298@noun!im%1(noun)=tête
 r61as60it@noun!invmasc%1(noun)=commencement
 raexpr@noun!invpur%1(noun)=rabbi eliezer
-raswn@noun!ot%1(noun)=commencement%2(adj)=première
+raswn@adj!im-ot%1(noun)=commencement%2(adj)=premier
 rah@verb!norm%1(noun)=apparaitre%2(verb)=voir
 rdp@verb!norm%1(noun)=suivre
 rbh@noun!invpur%1(noun)=grand
@@ -517,6 +531,7 @@ r63y@noun!im-ot%1(noun)=mauvais
 r'hl@noun!invpur%1(noun)=rachel
 r'hp@verb!norm%1(verb)=planer
 ris@noun!invpur%1(noun)=resh (lettre R)
+rms@verb!norm%1(verb)=ramper
 rqiy@noun!invpur%1(noun)=firmament
 rsai@noun!invpur%1(noun)=autorisé
 rashiexpr@noun!invpur%1(noun)=rashi
@@ -566,6 +581,7 @@ swp@noun!im%1(noun)=fin
 s63y58s298w309y60@noun!im%1(noun)=divertissement
 s62r62ts@noun!im%1(noun)=insecte
 srh@noun!invpur%1(noun)=sarah
+stwm@adj!im-ot%1(adj)=bouché%2(adj)=ambigu
 stiim@noun!invpur%1(noun)=deux
 t56hw65m000@noun!invpur%1(noun)=abîme
 t65hw@noun!invpur%1(noun)=informe
@@ -581,8 +597,10 @@ t63'h63t@prep%1(prep)=à la place de%2(prep)=sous
 tiamr@noun!invpur%1(noun)=il a été dit
 tibt@noun!invpur%1(noun)=arche
 tklt@adj!invmasc%1(adj)=bleu
-tna@noun!im%1(noun)=tannah
 tlwi@adj!im-ot%1(adj)=dépendant
+tna@noun!im%1(noun)=tannah
+tnin@noun!im%1(noun)=crocodile%2(noun)=monstre marin
+tninm@noun!invpur%1(noun)=monstres marins
 tplh@noun!invpur%1(noun)=prière
 trwm@noun!ot%1(noun)=térouma
 tsan@noun!im%1(noun)=troupeau

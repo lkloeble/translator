@@ -773,6 +773,7 @@ further@prep%1(prep)=davantage%2(prep)=plus loin
 galilee@noun!invmasc%1(noun)=galilée
 galler@noun!endy%1(noun)=gallerie
 gallon@noun!normmasc%1(noun)=gallon
+gallows@noun!invmasc%1(noun)=potence
 garden@noun!normmasc%1(noun)=jardin
 gate@noun!normmasc%1(noun)=porte
 gather@verb!norm%1(verb)=reunir
@@ -833,6 +834,7 @@ hand@noun!normmasc%1(noun)=main
 handily@prep%1(prep)=à maintes reprises
 handsomely@prep%1(prep)=généreusement
 handling@noun!invmasc%1(noun)=traitement
+hanging@noun!invmasc%1(noun)=pendaison%2(noun)=pendu
 happily@noun!invmasc%1(noun)=joyeusement
 happy@noun!invmasc%1(adj)=heureux
 hard@adj!invmasc%1(adj)=difficile%2(adj)=dur
@@ -1248,6 +1250,7 @@ navigation@noun!normmasc%1(noun)=navigation
 near@prep%1(prep)=près de
 nearer@prep%1(prep)=plus près de
 nearest@noun!invmasc%1(noun)=le plus proche
+necessit@noun!endy%1(noun)=nécessité
 need@noun!normmasc%1(noun)=besoin
 needful@noun!invmasc%1(noun)=nécessaire
 needfull@noun!invmasc%1(noun)=nécessaire

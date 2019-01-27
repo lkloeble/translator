@@ -516,6 +516,7 @@ furlong@neut%normmasc
 galilee@neut%invmasc
 galler@fem%endy
 gallon@neut%normmasc
+gallows@neut%invmasc
 game@neut%normmasc
 garden@neut%normmasc
 gate@neut%normmasc
@@ -571,6 +572,7 @@ hall@neut%normmasc
 hampstead@neut%invmasc
 hand@neut%normmasc
 handling@neut%invmasc
+hanging@neut%invmasc
 happily@neut%invmasc
 happy@adj%invmasc
 hard@adj%invmasc
@@ -860,6 +862,7 @@ naturall@adj%normmasc
 nature@fem%normfem
 navigation@neut%normmasc
 nearest@neut%invmasc
+necessit@neut%endy
 need@neut%normmasc
 needful@neut%invmasc
 needfull@neut%invmasc

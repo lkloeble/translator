@@ -53,6 +53,7 @@ public class HebrewAnalyzer implements Analizer {
         replace1 = replace1.replace("yp?i","ypiexpr");
         replace1 = replace1.replace("bar mim000 'hiim000","hayyimtyrer");
         replace1 = replace1.replace("b30561it& d60in000","bitdinexpr");
+        replace1 = replace1.replace("g60id h63n64s29862h","gidhanasheexpr");
         return replace1.replace("hqb?h", "hqbhexpr");
     }
 
@@ -125,6 +126,8 @@ public class HebrewAnalyzer implements Analizer {
                     break;
                 case 1440://signe sous lettre
                     break;
+                case 1441://signe sous lettre
+                    break;
                 case 1443://signe (bizarre) sous lettre
                     break;
                 case 1444://signe sous lettre
@@ -134,6 +137,8 @@ public class HebrewAnalyzer implements Analizer {
                 case 1447://signe sous lettre
                     break;
                 case 1448://signe sous lettre
+                    break;
+                case 1449://signe sous lettre
                     break;
                 case 1451://signe < sur lettre
                     //sb.append("51");
@@ -177,6 +182,8 @@ public class HebrewAnalyzer implements Analizer {
                     break;
                 case 1470://sorte de minus supérieur
                     sb.append(" ");
+                    break;
+                case 1472://barre de lecture de cantillation
                     break;
                 case 1473://signe sous lettre
                     break;

@@ -1,24 +1,4 @@
-import org.junit.Before;
 import org.junit.Test;
-import patrologia.translator.TranslatorBridge;
-import patrologia.translator.basicelements.*;
-import patrologia.translator.basicelements.noun.NounRepository;
-import patrologia.translator.basicelements.preposition.PrepositionRepository;
-import patrologia.translator.basicelements.verb.VerbRepository;
-import patrologia.translator.casenumbergenre.hebrew.HebrewCaseFactory;
-import patrologia.translator.conjugation.hebrew.HebrewConjugationFactory;
-import patrologia.translator.declension.Declension;
-import patrologia.translator.declension.hebrew.HebrewDeclension;
-import patrologia.translator.declension.hebrew.HebrewDeclensionFactory;
-import patrologia.translator.linguisticimplementations.FrenchTranslator;
-import patrologia.translator.linguisticimplementations.HebrewAnalyzer;
-import patrologia.translator.linguisticimplementations.Translator;
-import patrologia.translator.rule.hebrew.HebrewRuleFactory;
-import patrologia.translator.utils.Analizer;
-
-import java.util.*;
-
-import static junit.framework.TestCase.assertEquals;
 import static org.junit.Assert.assertTrue;
 
 /**
@@ -202,6 +182,14 @@ public class VokalizedHebrewTranslatorBridgeTest extends HebrewTranslatorBridgeT
         checkInMaps("hebbavli1ApagecommentT", translatorBridge);
         checkInMaps("hebbavli1ApagecommentU", translatorBridge);
         checkInMaps("hebbavli1ApagecommentV", translatorBridge);
+        checkInMaps("hebbavli1ApagecommentW", translatorBridge);
+        checkInMaps("hebbavli1ApagecommentX", translatorBridge);
+        checkInMaps("hebbavli1ApagecommentY", translatorBridge);
+        checkInMaps("hebbavli1ApagecommentZ", translatorBridge);
+        checkInMaps("hebbavli1ApagecommentA1", translatorBridge);
+        checkInMaps("hebbavli1ApagecommentA2", translatorBridge);
+        checkInMaps("hebbavli1ApagecommentA3", translatorBridge);
+        checkInMaps("hebbavli1ApagecommentA4", translatorBridge);
     }
 
 
@@ -252,7 +240,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends HebrewTranslatorBridgeT
     @Test
     public void test_failed_ones() {
         assertTrue(true);
-        checkInMaps("sheilamoreiB9", translatorBridge);
+        checkInMaps("sheilamoreiB11", translatorBridge);
         //checkInMaps("totoacc", translatorBridge);
         //checkInMaps("toto", translatorBridge);
     }
