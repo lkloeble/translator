@@ -3,3 +3,8 @@ abl%sing%neut%de
 acc%sing%neut%dem
 gen%sing%neut%dis
 dat%sing%neut%di
+nom%plr%neut%des
+acc%plr%neut%des
+gen%plr%neut%dum
+dat%plr%neut%dibus
+abl%plr%neut%dibus

@@ -2,6 +2,7 @@
 ab@prep%1(prep + abl)=de (avec point de départ et idee de mouvement)%2(prep + abl)=de (avec eloignement, separation)%3(prep + abl)=du cote de,a partir de%4(prep + abl)=jugement d'apres,du fait que%5(prep + abl)=depuis,aussitot apres%6(prep + abl)=en raison de,sous l'action de%7(prep + abl)=en provenance de
 aberran@adj!s-s-s%1(adj)=déviant
 abject@adj!us-a-um%1(adj)=rejetté
+abjicio@verb!norm%1(verb)=rejeter
 admirabil@adj!is-is-e%1(adj)=admirable
 abominand@adj!us-a-um%1(adj)=détesté
 abrogat@adj!us-a-um%1(adj)=abrogé
@@ -11,6 +12,7 @@ abyss@noun!us-i%1(noun)=abysse,enfer%2(noun)=abime
 ac@prep%1(prep)=et
 ac@adj!er-ris-re%1(adj)=amer%2(adj)=aigre
 accendo@verb!norm%1(verb)=allumer%2(verb)=enflammer
+accido@verb!norm%1(verb)=tomber
 acerbius@prep%1(prep)=aussi sévère que
 accept@adj!us-a-um%1(adj)=accepté
 accipio@verb!norm%1(verb)=recevoir%2(verb)=accepter
@@ -38,6 +40,8 @@ adjugo@verb!norm%1(verb)=reunir
 adjungo@verb!norm%1(verb)=ajouter
 adjuvo@verb!norm%1(verb)=aider
 adhuc@prep%1(prep)=jusqu'à maintenant
+admodum@prep%1(prep)=grandement
+admirati@noun!o-onis%1(noun)=admiration
 adorand@adj!us-a-um%1(adj)=adoré
 adorati@noun!o-onis%1(noun)=adoration
 adoro@verb!norm%1(verb)=admirer%2(verb)=adorer%3(verb)=accuser%4(verb)=negocier
@@ -91,6 +95,7 @@ amic@noun!a-ae%1(noun)=amie
 amiciti@noun!a-ae%1(noun)=alliance%2(noun)=amitié
 amo@verb!norm%1(verb)=aimer
 amoen@noun!us-a-um%1(noun)=délicieux
+amplector@verb!norm%1(verb)=entourer
 amplexand@noun!us-a-um%1(noun)=embrassé
 amplius@prep%1(prep)=en outre
 ancill@noun!a-ae%1(noun)=servante, esclave%2(noun)=devote, servante%3(noun()=moniale%4(noun)=servante
@@ -229,10 +234,12 @@ celerit@noun!as-atis%1(noun)=vitesse
 celt@noun!a-ae%1(noun)=celte
 cen@noun!a-ae%1(noun)=souper%2(noun)=dîner%3(noun)=repas
 ceno@verb!norm%1(verb)=diner
+censeo@verb!norm%1(verb)=penser
 cenacul@noun!um-i%1(noun)=salle  à manger%2(noun)=salle haute
 centum@noun!inv%1(noun)=cent
 cer@noun!a-ae%1(noun)=tablette de cire%2(noun)=cire
 cere@noun!us-i%1(noun)=bougie
+cerno@verb!norm%1(verb)=trier
 cert@adj!us-a-um%1(adj)=certain
 certam@noun!en-inis%1(noun)=lutte
 certe@prep%1(adv)=du moins,en tout cas%2(adv)=certainement
@@ -379,6 +386,7 @@ cur@prep%1(adv interrogatif)=pourquoi ?%(adv indirect avec subj)=que%(adv causal
 cur@noun!a-ae%1(noun)=attention
 custodio@verb!norm%1(verb)=garder
 cynthia@noun!inv%1(noun)=cynthia
+daemon@noun!x-is%1(noun)=démon
 damn@noun!um-i%1(noun)=perte%2(noun)=blessure
 damnand@adj!us-a-um%1(adj)=qui va être condamné
 damnat@adj!us-a-um%1(adj)=condamné
@@ -400,6 +408,7 @@ decret@noun!um-i%1(noun)=décret
 defect@noun!us-us%1(noun)=échec
 deficio@verb!norm%1(verb)=gaspiller%2(verb)=perdre
 definiti@noun!o-onis%1(noun)=définition
+deinceps@noun!inv%1(noun)=suivant
 deinde@prep%1(prep)=après%2(prep)=ensuite%3(prep)=à partir de là
 delaps@adj!us-a-um%1(adj)=tombé
 delecto@verb!norm%1(verb)=serejouir
@@ -508,6 +517,7 @@ ei@prep%1(prep)=à elle
 eidem@prep%1(prep)=même
 eis@prep%1(prep)=eux
 eius@prep%1(prep)=son
+eject@adj!us-a-um%1(adj)=ejecté
 ejus@prep%1(prep)=son
 ejusdem@prep%1(prep)=le même
 elect@adj!us-a-um%1(adj)=élu
@@ -541,6 +551,7 @@ essenti@noun!a-ae%1(noun)=essence
 et@prep%1(prep)=et
 etenim@prep%1(prep)=parce  que
 etiam@prep%1(prep)=bien plus%2(prep)=même
+etiamnum@prep%1(prep)=même encore
 etsi@prep%1(prep)=bien que%2(prep)=néanmoins
 euboe@noun!a-ae%1(noun)=eubée
 eucharisti@noun!a-ae%1(noun)=eucharistie
@@ -566,6 +577,7 @@ exhibeo@verb!norm%1(verb)=exhiber
 existen@adj!s-tis%1(noun)=existant%2(noun)=étant
 existenti@noun!a-ae%1(noun)=existence
 existimo@verb!norm%1(verb)=estimer
+existo@verb!norm%1(verb)=exister
 exitios@adj!us-a-um%1(noun)=mortel%2(adj)=pernicieux
 exort@adj!us-a-um%1(noun)=apparu
 explicand@adj!us-a-um%1(noun)=expliqué
@@ -576,6 +588,7 @@ exsequor@verb!norm%1(verb)=accompagner
 exspectat@adj!us-a-um%1(adj)=attendu
 exspecto@verb!norm%1(verb)=attendre
 exstinct@adj!us-a-um%1(adj)=tué
+exstirpat@adj!us-a-um%1(adj)=extirpé
 extrem@adj!us-a-um%1(adj)=extrême
 exempl@noun!um-i%1(noun)=exemple
 exeo@verb!norm%1(verb)=sortir
@@ -601,6 +614,7 @@ famili@noun!a-ae%1(noun)=ensemble des esclaves de la maison, le personnel des es
 familiarita@noun!s-tis2%1(noun)=familiarité%2(noun)=amitié très proche%3(noun)=intimité
 famul@noun!us-i%1(noun)=esclave
 fau@noun!x-cis%1(noun)=gorge
+fautor@noun!x-is2%1(noun)=protecteur
 felicit@noun!as-atis%1(noun)=fécondité
 femin@noun!a-ae%1(noun)=femme
 fenestr@noun!a-ae%1(noun)=opportunité%2(noun)=orifice%3(noun)=fenêtre
@@ -640,6 +654,7 @@ forsitan@prep%1(prep)=par chance%2(prep)=peut-être
 fortissim@adj!us-a-um%1(adj)=plus fort
 fortitud@noun!o-inis%1(noun)=courage%2(noun)=force
 frat@noun!er-ris%1(noun)=frère
+frau@noun!s-dis%1(noun)=fraude
 fruct@noun!us-i%1(noun)=résultat%2(noun)=profit%3(noun)=satisfaction%4(noun)=fruit
 frument@noun!um-i%1(noun)=grain
 fug@noun!a-ae%1(noun)=exil%2(noun)=fuite
@@ -678,6 +693,7 @@ grand@adj!is-is-e%1(adj)=grand
 grati@noun!a-ae%1(noun)=faveur,complaisance%2(noun)=reconnaissance,gratitude%3(noun)=faveur d'autrui,popularite,credit%4(noun)=charme%5(noun)=faveur divine,grace%6(noun)=grace
 grat@adj!us-a-um%1(adj)=plaisant%2(adj)=agréable
 gravi@adj!or-or-us%1(adj)=plus lourd
+gravissim@adj!us-a-um%1(adj)=le plus lourd
 gregori@noun!us-i%1(noun)=grégoire
 guberno@verb!norm%1(verb)=gerer%2(verb)=piloter%3(verb)=gouverner
 gustati@noun!o-onis%1(noun)=hors d'oeuvre
@@ -690,6 +706,7 @@ hac@prep%1(prep)=cette
 haec@prep%1(prep)=ces
 haeres@noun!is-is%1(noun)=hérésie
 haeresiarch@noun!a-ae%1(noun)=hérésiarque
+haerese@noun!us-i%1(noun)=hérétique
 hanc@prep%1(prep)=ce
 hebrae@adj!us-a-um%1(adj)=judeen%2(adj)=hebreu
 helen@noun!a-ae%1(noun)=hélène
@@ -753,6 +770,7 @@ illustro@verb!norm%1(verb)=eclairer
 im@adj!us-a-um%1(adj)=le plus bas%2(adj)=le plus profond%3(adj)=dernier
 imag@noun!o-inis%1(noun)=image
 imbuo@verb!norm%1(verb)=humidifer%2(verb)=tremper%3(verb)=mouiller
+immedicabile@adj!inv%1(adj)=incurable
 immutat@adj!us-a-um%1(adj)=transformé
 impendeo@verb!norm%1(verb)=menacer%2(verb)=dominer
 impendo@verb!norm%1(verb)=depenser
@@ -801,6 +819,7 @@ infigo@verb!norm%1(verb)=fermer%2(verb)=implanter%3(verb)=reparer
 infirm@adj!us-a-um%1(adj)=infirme
 informati@noun!o-onis%1(noun)=conception%2(noun)=idée
 informo@verb!norm%1(verb)=former
+infra@prep%1(prep)=en-dessous
 ingeni@noun!um-i%1(noun)=génie%2(noun)=talent%3(noun)=intelligence%4(noun)=tempérament%5(noun)=caractère
 inhonest@adj!us-a-um%1(adj)=honteux
 inimic@noun!us-i%1(noun)=ennemi
@@ -821,6 +840,7 @@ inspiro@verb!norm%1(verb)=souffler
 instituend@adj!us-a-um%1(adj)=institué
 institut@noun!um-i%1(noun)=habitude%2(noun)=institution%3(noun)=coutûme
 insto@verb!norm%1(verb)=poursuivre
+instillo@verb!norm%1(verb)=instiller
 insul@noun!a-ae%1(noun)=immeuble%2(noun)=île
 insuper@prep%1(prep)=au dessus
 intelligenti@noun!a-ae%1(noun)=intelligence
@@ -846,6 +866,7 @@ ipsimet@noun!inv%1(noun)=opposant
 irat@noun!us-a-um%1(noun)=en colère
 ire@verb!irrg%1(verb)=aller
 irenae@noun!us-i%1(noun)=irénée
+irrepen@adj!s-s-s%1(adj)=rampant
 irruen@adj!s-s-s%1(adj)=pressé
 isntit@prep%1(prep)=est-ce que
 istae@prep%1(prep)=celles-ci
@@ -910,6 +931,7 @@ legati@noun!o-onis%1(noun)=ambassadeur
 legat@noun!us-i%1(noun)=ambassadeur
 legio@noun!x-nis%1(noun)=légion
 lego@verb!norm%1(verb)=lire
+lepr@noun!a-ae%1(noun)=lèpre
 lesbos@noun!inv%1(noun)=lesbos
 lemann@noun!us-i%1(noun)=léman
 lemnos@noun!inv%1(noun)=lemnos
@@ -965,6 +987,7 @@ mandat@noun!um-i%1(noun)=commandement%2(noun)=ordre
 mando@verb!o-as%1(verb)=ordonner
 maneo@verb!eo-es%1(verb)=attendre, espérer%2(verb)=demeurer
 mane@noun!inv%1(noun)=matin
+manen@adj!s-s-s%1(adj)=restant
 marc@noun!us-i%1(noun)=marcus
 mar@noun!e-is%1(noun)=mer
 marcion@noun!is-is2%1(noun)=marcion
@@ -1020,6 +1043,7 @@ miss@noun!a-ae%1(noun)=messe
 mitto@verb!norm%1(verb)=envoyer
 mod@noun!us-i%1(noun)=manière%2(noun)=façon
 modero@verb!norm%1(verb)=moderer
+molesti@noun!a-ae%1(noun)=trouble
 molit@adj!us-a-um%1(adj)=tenté
 mon@noun!s-tis2%1(noun)=montagne
 moneo@verb!norm%1(verb)=avertir%2(verb)=conseiller%3(verb)=enseigner
@@ -1059,11 +1083,13 @@ nax@noun!us-i%1(noun)=naxos
 nazaren@noun!us-i%1(noun)=nazarénien
 ne@prep%1(prep)=ne
 nec@prep%1(prep)=non plus
+necesse@adj!inv%1(adj)=incontournable
 nefari@adj!us-a-um%1(adj)=néfaste
 nequiti@noun!a-ae%1(noun)=immoralité
 nerv@noun!us-i%1(noun)=nerf
 nihil@prep%1(prep)=rien
 nihil@noun!um-i%1(noun)=rien
+nihilominus@prep%1(prep)=néanmoins
 nil@noun!us-i%1(noun)=nil
 nimis@prep%1(prep)=trop
 nimi@adj!us-a-um%1(adj)=excessif
@@ -1095,6 +1121,7 @@ nunc@prep%1(prep)=maintenant
 numquam@prep%1(prep)=jamais
 nuntiat@adj!us-a-um%1(noun)=annoncé
 nuper@prep%1(prep)=récemment
+nusquam@prep%1(prep)=nulle part
 o@prep%1(prep)=ô
 o@noun!s-ris%1(noun)=parole
 ob@prep%1(prep)=contre%2(prep)=à cause de%3(prep)=vers
@@ -1113,7 +1140,9 @@ obtentur@adj!us-a-um%1(adj)=sur le point de posséder
 obtineo@verb!norm%1(verb)=posseder
 occasi@noun!o-onis%1(noun)=opportunité%2(noun)=occasion
 occis@adj!us-a-um%1(adj)=abattu
+occultan@adj!s-s-s%1(adj)=dissimulé
 occulti@adj!or-or-us%1(adj)=mieux caché
+occulto@verb!norm%1(verb)=cacher
 occupat@adj!us-a-um%1(adj)=occupé
 occupati@noun!o-onis%1(noun)=devoir%2(noun)=occupation
 occupo@verb!norm%1(verb)=occuper
@@ -1184,8 +1213,8 @@ pastor@noun!x-is%1(noun)=pasteur
 pateo@verb!norm%1(verb)=etreouvert
 patior@verb!norm%1(verb)=souffrir
 patro@verb!norm%1(verb)=accomplir
-pat@noun!er-ris%1(noun)=père de famille,maître de maison%2(noun)=fondateur%3(noun)=vieillard%4(noun)=père
 patefact@adj!us-a-um%1(adj)=décrit%2(adj)=ouvert
+pat@noun!er-ris%1(noun)=père de famille,maître de maison%2(noun)=fondateur%3(noun)=vieillard%4(noun)=père
 patern@adj!us-a-um%1(adj)=paternel
 patientissim@adj!us-a-um%1(adj)=le plus patient
 pauc@adj!us-a-um%1(adj)=peu nombreux
@@ -1196,6 +1225,7 @@ pecuni@noun!a-ae%1(noun)=argent
 pene@noun!inv%1(noun)=[pene trad non trouvée]
 penit@adj!us-a-um%1(noun)=intérieur
 per@prep%1(prep)=au moyen de%2(prep)=par
+peragro@verb!norm%1(verb)=traverser
 perculs@adj!us-a-um%1(noun)=battu
 perdo@verb!norm%1(verb)=perdre%2(verb)=detruire
 perduco@verb!norm%1(verb)=détruire%2(verb)=perdre
@@ -1214,6 +1244,7 @@ permitto@verb!o-is%1(verb)=lancer d'un point a un autre, jusqu'a un but%2(verb)=
 perfect@adj!us-a-um%1(adj)=accompli
 permot@adj!us-a-um%1(adj)=excité%2(adj)=agité
 pernego@verb!norm%1(verb)=refuser
+persevero@verb!norm%1(verb)=seconformera
 pernici@noun!es-ei%1(noun)=désastre%2(noun)=ruine
 perniciosi@adj!or-or-us%1(adj)=plus destructif
 perpauc@adj!us-a-um%1(adj)=très peu
@@ -1225,6 +1256,8 @@ persuasur@adj!us-a-um%1(adj)=persuadeur
 pertineo@verb!norm%1(verb)=être la proriété de,appartenir à%2(verb)=avoir tendance à%3(verb)=rejoindre
 pervenio@verb!norm%1(verb)=atteindre%2(verb)=arriver%3(verb)=parvenir
 pervers@adj!us-a-um%1(adj)=pervers
+pessim@adj!us-a-um%1(adj)=pire
+pest@noun!is-is%1(noun)=peste
 petr@noun!us-i%1(noun)=Pierre
 philastri@noun!us-i%1(noun)=Philastrius
 philipp@noun!us-i%1(noun)=Philippe
@@ -1314,6 +1347,7 @@ profero@verb!norm%1(verb)=apparaitre2
 profess@adj!us-a-um%1(adj)=confessé%2(adj)=professé
 proficiscor@verb!norm%1(verb)=partir
 profiteor@verb!norm%1(verb)=professer
+profluo@verb!norm%1(verb)=proceder%2(verb)=couler
 progress@adj!us-us%1(adj)=avancée
 prohibeo@verb!norm%1(verb)=preserver%2(verb)=defendre%3(verb)=proteger%4(verb)=garder
 promo@verb!norm%1(verb)=produire
@@ -1376,6 +1410,7 @@ querimoni@noun!a-ae%1(noun)=plainte
 quia@prep%1(prep)=car
 quibuscum@prep%1(prep)=avec qui
 quibusdam@prep%1(prep)=quelque uns
+quicunque@prep%1(prep)=celui qui
 quid@prep%1(prep interrogative)=quelle chose, quoi, et si, que%2(prep)=pourquoi%3(prep)=quoi
 quidam@prep%1(prep)=quelqu'un/quelques uns
 quidem@prep%1(prep)=du moins%2(prep)=certes
@@ -1412,6 +1447,7 @@ regio@noun!x-nis%1(noun)=sol%2(noun)=région%3(noun)=frontière%4(noun)=directio
 regn@noun!um-i%1(noun)=autorite royale, royaute, monarchie, trone%2(noun)=souverainete, autorite toute puissante%3(noun)=aspirer a la royaute (pejoratif chez les romqins de l'epoque republicaine)%4(noun)=royaume
 regno@verb!norm%1(verb)=regner
 rego@verb!norm%1(verb)=guider%2(verb)=diriger%3(verb)=gouverner
+relabor@verb!norm%1(verb)=glisser
 regul@noun!a-ae%1(noun)=règle
 reject@adj!us-a-um%1(adj)=rejetté
 relict@adj!us-a-um%1(adj)=abandonné%2(adj)=veuf
@@ -1436,6 +1472,7 @@ resto@verb!norm%1(verb)=demeurer%2(verb)=rester
 resulto@verb!norm%1(verb)=retentir
 resurgen@adj!s-s-s%1(adj)=ressuscité
 resurgo@verb!norm%1(verb)=ressusciter
+retect@adj!us-a-um%1(noun)=découvert
 revertor@verb!norm%1(verb)=revenir
 rogo@verb!norm%1(verb)=demander
 resurrecti@noun!o-onis%1(noun)=resurrection
@@ -1473,6 +1510,7 @@ sano@verb!norm%1(verb)=soigner
 sancit@adj!us-a-um%1(adj)=rendu saint
 sanct@adj!us-a-um%1(adj)=saint
 sancti@adj!or-or-us%1(adj)=plus sacré
+sanctita@noun!s-tis%1(noun)=sainteté
 sanctifico@verb!norm%1(verb)=purifier%2(verb)=consacrer%3(verb)=sanctifier
 sanctissim@adj!us-a-um%1(adj)=le plus saint
 sane@prep%1(prep)=vraiment
@@ -1588,6 +1626,7 @@ subeund@adj!us-a-um%1(adj)=qui va être approché
 subicio@verb!norm%1(verb)=soumettre
 subito@prep%1(prep)=subitement
 subjicio@verb!norm%1(verb)=proposer%2(verb)=soumettre%3(verb)=forger%4(verb)=supplier%5(verb)=jeterbas
+subjungo@verb!norm%1(verb)=joindre
 sublat@adj!us-a-um%1(adj)=détruit%2(adj)=enlevé
 subnecto@verb!norm%1(verb)=lier
 successor@noun!x-is2%1(noun)=successeur
@@ -1605,6 +1644,7 @@ suprem@adj!us-a-um%1(adj)=le plus grand
 supero@verb!norm%1(verb)=surmonter
 superposit@adj!us-a-um%1(adj)=superposé
 superstitio@noun!x-nis%1(noun)=superstition
+superstitios@adj!us-a-um%1(adj)=superstitieux
 supposititi@adj!us-a-um%1(adj)=supposé
 suscept@adj!us-a-um%1(adj)=a été repris
 suscitand@adj!us-a-um%1(adj)=qui doit être encouragé%2(adj)=qui doit être élevé%3(adj)=qui doit être éveillé
@@ -1646,7 +1686,10 @@ tessel@noun!a-ae%1(noun)=mosaïque
 test@noun!is-is%1(noun)=témoin
 testat@adj!us-a-um%1(adj)=témoigné
 testament@noun!um-i%1(noun)=alliance%2(noun)=testament
+testificor@verb!norm%1(verb)=testifier
 testimoni@noun!um-i%1(noun)=évidence,preuve%2(noun)=témoignage
+testor@verb!norm%1(verb)=temoigner
+teterrim@adj!us-a-um%1(adj)=très offensant
 theodoret@noun!us-i%1(noun)=Théodoret
 tiberis@noun!inv%1(noun)=tibre
 tigri@noun!s-dis%1(noun)=tigre
@@ -1671,6 +1714,7 @@ transeo@verb!norm%1(verb)=traverser
 transfundo@verb!norm%1(verb)=transfuser
 transmitto@verb!norm%1(verb)=transmettre
 triclini@noun!um-i%1(noun)=salle-à-manger
+triginta@noun!inv%1(noun)=trente
 trinit@noun!as-atis%1(noun)=trinité
 trojan@noun!us-i%1(noun)=troien
 tu@prep%1(prep)=toi
@@ -1711,6 +1755,7 @@ unumquodque@noun!inv%1(noun)=chaque
 urb@noun!s-is%1(noun)=ville
 urs@noun!us-i%1(noun)=ursus
 us@adj!us-a-um%1(adj)=utilisé
+usque@prep%1(prep)=jusqu'au bout
 ut@prep%1(adv)=comme%2(adv)=de quelle maniere%3(adv)=quand,aussitot que,depuis que%4(adv+subj)=afin que,pour que,de telle sorte que%4(adv)=comme
 uterque@noun!inv%1(noun)=chacun
 uti@prep%1(adv)=comme%2(adv)=de quelle maniere%3(adv)=quand,aussitot que,depuis que%4(adv+subj)=afin que,pour que,de telle sorte que%4(adv)=comme
@@ -1731,6 +1776,7 @@ velut@prep%1(prep)=bien que
 vendito@verb!norm%1(verb)=vendre
 vendo@verb!norm%1(verb)=vendre
 veneno@verb!norm%1(verb)=empoisonner
+venen@noun!um-i%1(noun)=poison
 venio@verb!nom%1(verb)=venir
 ver@adj!us-a-um%1(adj)=vrai,veritable,reel%2(adj)=conforme a la morale,juste%3(adj)=veridique,sincere,consciencieux%4(adj)=vrai
 verb@noun!um-i%1(noun)=proverbe%2(noun)=verbe%3(noun)=parole

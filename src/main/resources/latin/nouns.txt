@@ -16,6 +16,7 @@ adimplet@adj%us-a-um
 adipat@neut%um-i
 adiutori@neut%um-i
 adferen@masc%s-tis
+admirati@fem%o-onis
 adorand@adj%us-a-um
 adorati@fem%o-onis
 adult@adj%us-a-um
@@ -242,6 +243,7 @@ cupid@adj%us-a-um
 cupidit@fem%as-atis
 cur@fem%a-ae
 cynthia@fem%inv
+daemon@masc%x-is
 damn@neut%um-i
 damnand@adj%us-a-um
 damnat@adj%us-a-um
@@ -258,6 +260,7 @@ decim@adj%us-a-um
 decret@neut%um-i
 defect@masc%us-us
 definiti@fem%o-onis
+deinceps@neut%inv
 delet@masc%us-a-um
 delaps@adj%us-a-um
 deliberand@adj%us-a-um
@@ -314,6 +317,7 @@ editi@fem%o-onis
 effect@adj%us-a-um
 effeminand@adj%us-a-um
 effus@adj%us-a-um
+eject@adj%us-a-um
 elect@adj%us-a-um
 emendat@adj%us-a-um
 enuntiat@adj%us-a-um
@@ -350,6 +354,7 @@ expositi@fem%o-onis
 expugnator@masc%x-is
 exspectat@adj%us-a-um
 exstinct@adj%us-a-um
+exstirpat@adj%us-a-um
 extrem@adj%us-a-um
 exust@adj%us-a-um
 fabi@fem%a-ae
@@ -364,6 +369,7 @@ famili@fem%a-ae
 familiarita@fem%s-tis2
 famul@masc%us-i
 fau@fem%x-cis
+fautor@masc%x-is2
 felicit@fem%as-atis
 femin@fem%a-ae
 fenestr@fem%a-ae
@@ -393,6 +399,7 @@ for@neut%um-i
 fortissim@adj%us-a-um
 fortitud@fem%o-inis
 frat@masc%er-ris
+frau@fem%s-dis
 fruct@masc%us-i
 frument@neut%um-i
 fug@fem%a-ae
@@ -426,12 +433,14 @@ grand@adj%is-is-e
 grati@fem%a-ae
 grat@adj%us-a-um
 gravi@adj%or-or-us
+gravissim@adj%us-a-um
 gregori@masc%us-i
 gustati@fem%o-onis
 gutt@fem%a-ae
 haben@adj%s-tis
 habit@adj%us-a-um
 haeres@fem%is-is
+haerese@masc%us-i
 haeresiarch@fem%a-ae
 hebrae@adj%us-a-um
 helen@fem%a-ae
@@ -466,6 +475,7 @@ ign@masc%is-is
 ill@adj%e-a-ud
 im@adj%us-a-um
 imag@fem%o-inis
+immedicabile@adj%inv
 immutat@adj%us-a-um
 imperan@adj%s-s-s
 imperi@masc%um-i
@@ -518,6 +528,7 @@ ips@adj%e-a-um
 ipsimet@neut%inv
 irat@adj%us-a-um
 irenae@masc%us-i
+irrepen@adj%s-s-s
 irruen@adj%s-s-s
 itali@fem%a-ae
 itin@neut%us-eris[nomsing:iter,accsing:iter]
@@ -570,6 +581,7 @@ lesbos@neut%inv
 lemnos@neut%inv
 le@fem%x-gis
 legio@fem%x-nis
+lepr@fem%a-ae
 lib@masc%er-ri
 libatio@fem%x-nis
 liber@masc%us-i
@@ -610,6 +622,7 @@ mamm@fem%a-ae
 mandat@neut%um-i
 man@fem%us-us
 mane@neut%inv
+manen@adj%s-s-s
 marc@masc%us-i
 mar@neut%e-is
 marcion@masc%is-is2
@@ -647,6 +660,7 @@ miss@adj%us-a-um
 miss@fem%a-ae
 mod@masc%us-i
 mon@masc%s-tis2
+molesti@fem%a-ae
 molit@adj%us-a-um
 monit@adj%us-a-um
 monstr@neut%um-i
@@ -674,6 +688,7 @@ nat@masc%us-us
 natur@fem%a-ae
 nax@masc%us-i
 nazaren@masc%us-i
+necesse@adj%inv
 nefari@adj%us-a-um
 nequiti@fem%a-ae
 nerv@masc%us-i
@@ -710,6 +725,7 @@ obtentur@adj%us-a-um
 occas@masc%us-us
 occasi@fem%o-onis
 occis@adj%us-a-um
+occultan@adj%s-s-s
 occulti@adj%or-or-us
 occupat@adj%us-a-um
 occupati@fem%o-onis
@@ -788,6 +804,8 @@ persecuti@fem%o-onis
 persuas@adj%us-a-um
 persuasur@adj%us-a-um
 pervers@adj%us-a-um
+pessim@adj%us-a-um
+pest@fem%is-is
 petr@masc%us-i
 philastri@masc%us-i
 philipp@masc%us-i
@@ -900,6 +918,7 @@ resciss@adj%us-a-um
 respons@neut%um-i
 resurgen@adj%s-s-s
 resurrecti@fem%o-onis
+retect@adj%us-a-um
 rhen@masc%us-i
 rhod@masc%us-i
 rhodan@masc%us-i
@@ -926,6 +945,7 @@ samos@neut%inv
 sancit@adj%us-a-um
 sanct@adj%us-a-um
 sancti@adj%or-or-us
+sanctita@fem%s-tis
 sanctissim@adj%us-a-um
 sangui@masc%s-nis
 sanguine@adj%us-a-um
@@ -1010,6 +1030,7 @@ supplici@neut%um-i
 sumpt@adj%us-a-um
 superposit@adj%us-a-um
 superstitio@fem%x-nis
+superstitios@adj%us-a-um
 supposititi@adj%us-a-um
 suscept@adj%us-a-um
 suscitand@adj%us-a-um
@@ -1035,6 +1056,7 @@ test@masc%is-is
 testament@neut%um-i
 testat@adj%us-a-um
 testimoni@neut%um-i
+teterrim@adj%us-a-um
 theodoret@masc%us-i
 tiberis@neut%inv
 tigri@neut%s-dis
@@ -1049,6 +1071,7 @@ tractat@masc%us-us
 tradit@adj%us-a-um
 traditio@fem%x-nis
 triclini@neut%um-i
+triginta@neut%inv
 trinit@fem%as-atis
 trojan@masc%us-i
 tub@fem%a-ae
@@ -1080,6 +1103,7 @@ vacu@adj%us-a-um
 vari@adj%us-a-um
 vas@neut%x-is
 vel@neut%um-i
+venen@neut%um-i
 vespere@neut%inv
 ver@adj%us-a-um
 verb@neut%um-i
