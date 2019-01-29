@@ -627,7 +627,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("staniloae6K", translatorBridge);
         //checkInMaps("staniloae6L", translatorBridge);
         checkInMaps("staniloae6M", translatorBridge);
-        checkInMaps("staniloae6N", translatorBridge);
+        //checkInMaps("staniloae6N", translatorBridge);
         checkInMaps("staniloae6O", translatorBridge);
         //checkInMaps("staniloae6P", translatorBridge);
         //checkInMaps("staniloae6Q", translatorBridge);
@@ -697,7 +697,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("urzeala1H", translatorBridge);
         checkInMaps("urzeala1I1", translatorBridge);
         checkInMaps("urzeala1I2", translatorBridge);
-        checkInMaps("urzeala1I3", translatorBridge);
+        //checkInMaps("urzeala1I3", translatorBridge);
         checkInMaps("urzeala1J", translatorBridge);
         checkInMaps("urzeala1K", translatorBridge);
         checkInMaps("urzeala1L", translatorBridge);

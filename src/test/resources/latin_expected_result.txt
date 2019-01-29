@@ -1090,7 +1090,7 @@ caesar1T4=>foo
 caesar1T5=>foo
 
 
-spinozaethi1A=>définition(e) 1 : par raison(e) (du) son@lui-même@son(s)@ comprends ce de qui essence(e) enroule existence(e) ou si ce de qui nature(e) non peut être reçu à l'exception de étant.
+spinozaethi1A=>définition(e) 1 : par raison(e) (du) son@lui-même@son(s)@ comprends ce de qui essence(e) enroule existence(e) ou si ce de qui nature(e) non peut être reçu à l'exception de existant@étant@.
 spinozaethi1B=>définition(e) 2 : elle chose(e) est dit dans son espèce@espèce(e)@ fini(e) qui(e) autre(s)@un(e)@un(s)@ le même nature(s)(e) être limité peut. (du) exemple grace(e) corps est dit fini car autre toujours plus grand recevons. ainsi pensée(e) un(e) pensée(e) est limité. mais corps non est limité (par) pensée(e) non plus pensée(e) (par) corps.
 spinozaethi1C=>foobar
 spinozaethi1D=>foobar

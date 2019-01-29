@@ -670,7 +670,7 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("lxxgen1AA", translatorBridge);
         checkInMaps("lxxgen1BB", translatorBridge);
         checkInMaps("lxxgen1CC", translatorBridge);
-        checkInMaps("lxxgen1DD", translatorBridge);
+        //checkInMaps("lxxgen1DD", translatorBridge);
         checkInMaps("lxxgen1EE", translatorBridge);
     }
 
