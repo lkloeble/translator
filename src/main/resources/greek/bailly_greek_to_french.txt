@@ -75,6 +75,7 @@
 αναξιμανδρ@noun!ος-ου%1(noun)=anaximandre
 ανατολ@noun!η-ης%1(noun)=est
 ανεμ@noun!ος-ου%1(noun)=agitation de l'âme,passion tumultueuse%2(noun)=vent
+ανεξηρανε@noun!inv%1(noun)=partie
 ανευ@prep%1(prep)=sans
 ανθρωπ@noun!ος-ου%1(noun)=être humain%2(noun)=homme
 αυθαδη@noun!inv%1(noun)=égoïste%2(noun)=têtu
@@ -222,8 +223,10 @@
 δια@prep%1(prep)=au travers de
 διαβολ@noun!ος-ου%1(noun)=diviseur%2(noun)=diable
 διαδοχ@noun!ος-ου%1(noun)=successeur
+διαυγασμ@noun!ος-ου%1(noun)=explosion flamboyante
 διακον@noun!ος-ου%1(noun)=diacre%2(noun)=serviteur
 διακονε@verb!norm%1(verb)=servir
+διαστολ@noun!η-ης%1(noun)=expansion
 διδασκ@verb!norm%1(verb)=enseigner
 διαθηκ@noun!η-ης%1(noun)=testament%2(noun)=alliance
 διαχωριζ@verb!norm%1(verb)=separer
@@ -259,6 +262,7 @@
 εκατον@noun!inv%1(noun)=cent
 εκβαλλ@verb!norm%1(verb)=chasser%2(verb)=jeter dehors
 εκειν@noun!ος-η-ο%1(adj)=ce
+εκκαυσ@noun!ις-εως%1(noun)=brûlant
 εκκλησι@noun!α-ας%1(noun)=assemblée%2(noun)=église
 εκλειψ@noun!inv%1(noun)=éclipse
 εκλεκτ@adj!ος-η-ον%1(adj)=choisi%2(adj)=élu
@@ -492,6 +496,10 @@
 λαθρα@prep%1(prep)=secrètement
 λεγ@verb!norm%1(verb)=dire
 λεγοντ@adj!ος-α-ον%1(noun)=disant
+λειπ@verb!norm%1(verb)=laisser
+λειψαν@noun!ον-ου%1(noun)=reste
+λεπτ@adj!ος-η-ον%1(adj)=fin
+λεπτοτατ@adj!ος-η-ον%1(adj)=le plus fin
 λεπρ@noun!ος-ου%1(noun)=lépreux
 λεπτομερειαι@noun!inv%1(noun)=particules
 λευκιππ@noun!ος-ου%1(noun)=leucippe
@@ -518,6 +526,7 @@
 μεγαλ@adj!ας-η-α%1(noun)=grand
 μεγαλοπρεπ@adj!ης-ης-ες%1(noun)=splendide
 μεγαλως@prep%1(prep)=grandement
+μελανι@noun!α-ας%1(noun)=obscurité
 μεθερμηνευ@verb!norm%1(verb)=traduire
 μει@verb!norm%1(verb)=decroitre
 μελπ@verb!norm%1(verb)=chanter
@@ -530,6 +539,7 @@
 μετα@prep%1(prep)=après
 μεταacc@prep%1(prep)=après
 μεταgen@prep%1(prep)=avec
+μεταβαλλ@verb!norm%1(verb)=changer
 μεταν@verb!norm%1(verb)=réfléchir%2(verb)=changer d'avis%3(verb)=serepentir
 μετανοι@noun!α-ας%1(noun)=conversion%2(noun)=repentance
 μετεωρ@noun!ος-ου%1(noun)=en l'air
@@ -564,6 +574,7 @@
 νεκρ@adj!ος-α-ον%1(adj)=mort
 νεφελ@noun!η-ης%1(noun)=nuée%2(noun)=nuage
 νεφ@noun!ος-εος%1(noun)=nuage
+νεφους@noun!inv%1(noun)=nuage
 νοε@verb!norm%1(verb)=observer
 νομ@noun!ος-ου%1(noun)=loi
 νομιμ@noun!ος-ου%1(noun)=légitime%2(noun)=légal
@@ -700,6 +711,7 @@
 πλατ@noun!ος-ους%1(noun)=largeur
 πλατυν@verb!norm%1(verb)=elargir
 πλατυσμ@noun!ος-ου%1(noun)=expansion%2(noun)=dilatation%3(noun)=élargissement
+πλειον@adj!ων-ων-ον%1(adj)=le plus
 πλοι@noun!ον-ου%1(noun)=bateau%2(noun)=barque
 πλουσι@adj!ος-α-ον%1(adj)=riche
 πνευμ@noun!α-ατος%1(noun)=génie%2(noun)=esprit%3(noun)=vie%4(noun)=respiration%5(noun)=souffle%6(noun)=vent%7(noun)=air
@@ -751,6 +763,7 @@
 ρητωρ@noun!inv%1(noun)=orateur
 ροδ@noun!ον-ου%1(noun)=rose
 ρουθ@noun!inv%1(noun)=ruth
+ρυσ@noun!ις-εως%1(noun)=flux
 ρω@noun!inv%1(noun)=ro
 ρωμ@noun!η-ης%1(noun)=rome
 σαββατ@noun!ον-ου%1(noun)=sabbat
@@ -828,6 +841,7 @@
 τιμ@noun!η-ης%1(noun)=prix%2(noun)=honneur
 τη@prep%1(prep)=la
 την@prep%1(prep)=la
+τηκ@verb!norm%1(verb)=bruler
 τηρ@verb!norm%1(verb)=épier,surveiller%2(verb)=garder
 της@prep%1(prep)=la
 τι@prep%1(prep)=quoi%2(prep)=quelque chose%3(prep)=quelqu'un%4(prep)=qui
@@ -866,6 +880,8 @@
 οφθαλμ@noun!ος-ου%1(noun)=oeil
 υγρ@noun!ο-ου%1(noun)=fluide
 υγρ@adj!ος-η-ον%1(adj)=humide
+υγρασι@noun!α-ας%1(noun)=humidité
+υγροτ@noun!ης-ητος%1(noun)=moisissure%2(noun)=humidité
 υδωρ@noun!x-ος%1(noun)=humidité%2(noun)=pluie%3(noun)=eau
 υδ@noun!α-ατος%1(noun)=humidité%2(noun)=pluie%3(noun)=eau
 υετ@noun!ος-ου%1(noun)=pluie
@@ -878,6 +894,7 @@
 υπαρχ@verb!norm%1(verb)=etrerendupossible%2(verb)=debuter
 υπαρχοντα@noun!inv%1(noun)=circonstances
 υπερ@prep%1(prep)=au dessus
+υπολειπ@verb!norm%1(verb)=laisserpour
 υπν@noun!ος-ου%1(noun)=sommeil
 υπο@prep%1(prep)=au dessous
 υποgen@prep%1(prep)=par

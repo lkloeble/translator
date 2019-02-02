@@ -2,3 +2,4 @@ nom%sing%fem%ης
 gen%sing%fem%ητος
 acc%sing%fem%ητα
 dat%sing%fem%ητι
+gen%plr%fem%ατων
