@@ -1,6 +1,5 @@
 noma%sing%masc%os
 nomb%sing%masc%osul
-nomb%sing%masc%osul
 nom%sing%fem%oasa
 nom%sing%neut%os
 gen%sing%masc%osului

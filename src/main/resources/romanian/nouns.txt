@@ -223,6 +223,7 @@ dumneavoastra@neut%inv
 dumnezeu@neut%inv
 dumnezeul@neut%inv
 dumnezeule@neut%inv
+durer@adj%pacatos
 economic@adj%adj
 eficace@adj%adj
 egipt@masc%ul
@@ -324,6 +325,7 @@ incorporare@fem%fem
 increder@fem%berea
 incredintsar@fem%berea
 indelungar@fem%berea
+indemina@neut%inv
 indirect@adj%adjts
 indrazneal@fem%fem
 indreptar@fem%berea
@@ -476,6 +478,7 @@ neplacut@adj%adj
 nepotrivit@adj%adjts
 neprihanir@fem%berea
 nesfarsit@adj%adjts
+nesuferit@adj%adjts
 nevast@fem%fem
 nici@neut%inv
 niciodata@neut%inv
@@ -798,6 +801,7 @@ vinatoare@fem%inv
 virst@fem%fem
 virtu@adj%pacatos
 virtual@adj%adj
+virtut@fem%bereats
 vit@fem%femts
 vitez@fem%fem
 vizavi@masc%inv

@@ -9,7 +9,7 @@ ajung,,[merg],(AII*ajung*ajunge*0@PAP*ajung*ajuns*0)
 ajut,,[cauta]
 aleg,a,[incerca],(IPR25*aleg*aleag*0)
 alerg,a,[merg]
-am@IRREGULAR%[INFINITIVE]=[avea]%[IPR]=[am,ai,are,avem,avetsi,au]%[CONJ]=[x,x,aiba,x,x,aiba]%[PAPR]=[avand]%[ACPINF]=[aravea]
+am@IRREGULAR%[INFINITIVE]=[avea]%[IPR]=[am,ai,are,avem,avetsi,au]%[CONJ]=[x,x,aiba,x,x,aiba]%[PAPR]=[avand|avind]%[ACPINF]=[aravea]
 amuz,,[bea]
 apar,ea,[face],(ACP*apar*arapar*0)
 apreci,,[aprecia]
@@ -27,6 +27,7 @@ auz,,[dorm],(IPR025*auz*aud*0)
 banu,i,[locuiesc],(PAP*banu*banuit*0)
 bat,e,[merg]
 be,,[bea]
+birui,,[mantui]
 bolt,,[primi]
 cad,,[merg],(AII*cad*cade*0)
 calator,i,[locuiesc]
@@ -82,6 +83,7 @@ folos,,[aciti]
 form,,[fumez]
 fum,,[fumez]
 gas,,[locuiesc]
+gind,,[mantui]
 gol,i,[aciti]
 gon,i,[aciti],(PAP*gon*gonit*0)
 hotar,i,[hotarasc]
@@ -89,6 +91,7 @@ ies,,[dorm]
 impart,,[impart]
 implic,,[cauta],(PAP*implic*implicat*0)
 implin,,[locuiesc]
+impotriv,,[mantui]
 inabus,,[aciti]
 inaint,,[fumez]
 incarc,,[incerca]
@@ -122,6 +125,7 @@ locu,,[locuiesc]
 lua@IRREGULAR%[IPR]=[iau,iei,ia,luam,luatsi,iau]%[PAP]=[luat]%[PAPR]=[luand]%[INFINITIVE]=[lua]
 lucr,,[fumez]
 lumin,,[fumez]
+lupt,,[cauta]
 mani,e,[manie]
 manifest,,[fumez]
 maninc@IRREGULAR%[IPR]=[maninc,maninci,maninca,mancam,mancati,mananca]%[INFINITIVE]=[maninca]

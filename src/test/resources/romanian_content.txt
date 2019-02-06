@@ -523,7 +523,7 @@ filocalia1antonie2I=>Căci în cunoștința si credința cea către Dumnezeu sta
 
 filocaliaantonie3A=>Am primit de la Dumnezeu puteri virtuoase și foarte mari :
 filocaliaantonie3B=>înfrînarea, suferirea răului, neprihănirea, stăruința, răbdarea și cele asemenea,
-filocaliaantonie3C=>care ne ajută să ne împotrivim și să luptăm împotriva celor rele.
+filocaliaantonie3C=>care ne ajută să ne împotrivim și să luptăm împotriva@P celor rele.
 filocaliaantonie3D=>Avînd la îndemînă puterile acestea și punîndu-le la lucru, socotim că nimic nu ni se mai întîmplă neplăcut, dureros sau nesuferit.
 filocaliaantonie3E=>Credem atunci că toate-s omenești și se biruiesc de virtuțile noastre.
 filocaliaantonie3F=>Nu se gîndesc la aceasta însă cei neînțelegători ;
@@ -581,7 +581,7 @@ bocaseumplu7X=>Iisus a fost prigonit personal si omorât.
 bocaseumplu7Y=>au fost prigonite faptele Sale : minunile.
 bocaseumplu7Z=>A fost, si este, prigonita învațatura Sa.
 bocaseumplu7AA=>si au fost si este prigoniți toți ucenicii Sai de-a lungul istoriei.
-bocaseumplu7BB=>Pentru acest lucru s-au rasculat si s-au unit împotriva lui ereziile,
+bocaseumplu7BB=>Pentru acest lucru s-au rasculat si s-au unit împotriva@P lui ereziile,
 bocaseumplu7CC=>prigoanele si toata coloana nesfarsita a salbaticiunii si slabiciunilor omenesti.
 
 patericulegyptantonie1A=>Sfântul avva Antonie, șezând odată în deșert, a fost cuprins de acedie și de o mare întunecare de gânduri.
