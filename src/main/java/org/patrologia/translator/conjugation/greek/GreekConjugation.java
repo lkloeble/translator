@@ -53,6 +53,7 @@ import java.util.List;
  * PERFACTIND => PERFect ACTive INDicative
  * AORACTSUBJ => AORiste ACTive SUBJonctive
  * PERFMIDPART => PERFect MIDdle PARTiciple
+ *
  */
 public class GreekConjugation extends Conjugation {
 

@@ -30,6 +30,7 @@
 αζωρ@noun!inv%1(noun)=azor
 αθην@noun!α-ας%1(noun)=athéna
 ακαθαρτ@adj!ος-η-ον%1(adj)=impur
+ακανθωδ@adj!ης-ης-ες%1(noun)=épineux
 ακεραι@adj!ος-η-ον%1(adj)=innocent
 ακορεστ@adj!ος-η-ον%1(adj)=insatiable
 ακριβο@verb!norm%1(verb)=verifier%2(verb)=enqueter
@@ -97,6 +98,7 @@
 απιστ@noun!ος-η-ον%1(noun)=infidèle%2(noun)=incroyant
 απαγ@verb!norm%1(verb)=emmener
 απο@prep%1(prep)=depuis
+αποβαιν@verb!norm%1(verb)=avancer
 απλως@prep%1(prep)=seulement
 αποθνησκ@verb!norm%1(verb)=mourir
 αποκλει@verb!norm%1(verb)=verouiller%2(verb)=eteindre%3(verb)=exclure%4(verb)=enfermer
@@ -109,6 +111,7 @@
 απορι@noun!α-ας%1(noun)=aporie%2(noun)=embarras%3(noun)=destitution%4(noun)=question
 απορρησσ@verb!norm%1(verb)=dechirer
 αποτελ@verb!norm%1(verb)=accomplir%2(verb)=finir
+αποφαιν@verb!norm%1(verb)=montrer
 αποστασ@noun!ις-εως%1(noun)=distance
 αποστολ@noun!ος-ου%1(noun)=apôtre
 απροσωπολημπτως@prep%1(prep)=de façon impartiale
@@ -169,6 +172,7 @@
 βλασταν@verb!norm%1(verb)=fairegermer
 βλασφημ@verb!norm%1(verb)=prononcer des paroles impies contre les dieux%2(verb)=blasphemer
 βλεπ@verb!norm%1(verb)=voir,regarder%2(verb)=tourner les yeux vers,avoir les yeux sur%3(verb)=avoir un regard sur%4(verb)=voir
+βοηθ@verb!norm%1(verb)=aider
 βο@prep%1(prep)=bo
 βοες@noun!inv%1(noun)=boaz
 βοταν@noun!η-ης%1(noun)=pelouse%2(noun)=herbe
@@ -180,6 +184,7 @@
 βυ@prep%1(prep)=bu
 βω@prep%1(prep)=bo
 γ@noun!η-ης-εων%1(noun)=terre (matière,minerai,élément producteur)%2(noun)=terre
+γαλε@noun!ος-ου%1(noun)=squale
 γαλιλαι@noun!α-ας%1(noun)=galilée
 γαμε@verb!norm%1(verb)=marier
 γαρ@prep%1(prep)=en effet%2(prep)=car
@@ -246,7 +251,9 @@
 δυο@noun!inv%1(noun)=deux
 εικοσαπλασιονα@noun!inv%1(noun)=vingt fois
 εαυτω@prep%1(prep)=lui-même
+εαυτοις@prep%1(prep)=eux-même
 εαυτων@prep%1(prep)=à nous-mêmes%2(prep)=à vous-mêmes%3(prep)=à eux-mêmes
+εγγιγν@verb!norm%1(verb)=etrenedans
 εγειρ@verb!norm%1(verb)=faire lever,ériger,dresser,mettre debout%2(verb)=s'éveiller%3(verb)=lever
 εικ@noun!ων-ονος%1(noun)=image
 ειλικριν@adj!ης-ης-ες%1(adj)=sincère
@@ -257,6 +264,7 @@
 εις@prep%1(prep)=dans%2(prep)=vers
 εισερχ@verb!norm%1(verb)=entrer
 εκ@prep%1(prep)=hors de
+εκβαιν@verb!norm%1(verb)=sortir
 εκκαι@verb!norm%1(verb)=bruler
 εκαστ@adj!ος-η-ον%1(adj)=chacun%2(adj)=chaque
 εκατον@noun!inv%1(noun)=cent
@@ -364,6 +372,7 @@
 ζητ@verb!norm%1(verb)=chercher
 ζοροβαβελ@noun!inv%1(noun)=zorobabel
 ζω@noun!η-ης%1(noun)=vie
+ζωια@noun!inv%1(noun)=vivants
 η@noun!inv%1(noun)=la
 ηγε@verb!norm%1(verb)=preceder%2(verb)=diriger%3(verb)=commander
 ηγεμ@noun!ων-ονος%1(noun)=gouverneur%2(noun)=prince
@@ -374,6 +383,7 @@
 ηθ@noun!ος-ους%1(noun)=coutûme%2(noun)=charactère
 ηλι@noun!ος-ου%1(noun)=soleil
 ηλι@noun!ας-ου%1(noun)=élie
+ηλικι@noun!α-ας%1(noun)=âge
 ημερ@noun!α-ας%1(noun)=jour
 ημιν@prep%1(prep)=à nous
 ημων@prep%1(prep)=notre
@@ -583,6 +593,7 @@
 νυν@prep%1(prep)=maintenant
 ξεν@noun!ος-ου%1(noun)=étranger
 ξηρ@adj!ος-α-ον%1(noun)=terre
+ξηροτερ@adj!ος-α-ον%1(adj)=le plus sec
 ξυλ@noun!ον-ου%1(noun)=arbre%2(noun)=bois
 ο@noun!inv%1(noun)=le
 οδ@noun!ος-ου%1(noun)=chemin
@@ -683,6 +694,8 @@
 περιacc@prep%1(prep)=autour de
 περιgen@prep%1(prep)=à propos
 περιεχ@verb!norm%1(verb)=entourer
+περιεχομεν@noun!ος-η-ον%1(noun)=entourant
+περιρρηγνυμεν@noun!ος-η-ον%1(noun)=eclaté
 περιλαμβαν@verb!norm%1(verb)=encercler
 περιληφθεντ@adj!ος-α-ον%1(adj)=encerclé
 περιπατ@verb!norm%1(verb)=marcher2
@@ -692,6 +705,7 @@
 περιφερ@verb!norm%1(verb)=porter
 περιφυ@verb!norm%1(verb)=verbe des présocratique trouvé nulle part en trad%2(verb)=developper
 πετ@verb!norm%1(verb)=voler
+μεταβιωναι@noun!inv%1(noun)=vie
 πετειν@noun!ον-ου%1(noun)=oiseau
 πετρ@noun!ος-ου%1(noun)=pierre
 πιλημ@noun!α-ατος%1(noun)=mèche
@@ -735,6 +749,7 @@
 πρεσβυτερ@noun!ος-ου%1(noun)=ancien
 πρηστηρ@noun!x-ος2%1(noun)=tourbillon%2(noun)=tonnerre
 πριν@prep%1(prep)=avant
+προβαινουσ@adj!ος-η-ον%1(adj)=avancé
 προβατ@noun!ον-ου%1(noun)=piscine%2(noun)=brebis
 προθυμι@noun!α-ας%1(noun)=disponibilité
 προπετη@noun!inv%1(noun)=imprudent%2(noun)=énervé
@@ -841,6 +856,7 @@
 τιμ@noun!η-ης%1(noun)=prix%2(noun)=honneur
 τη@prep%1(prep)=la
 την@prep%1(prep)=la
+τηνικαυτα@prep%1(prep)=à ce moment là
 τηκ@verb!norm%1(verb)=bruler
 τηρ@verb!norm%1(verb)=épier,surveiller%2(verb)=garder
 της@prep%1(prep)=la
@@ -869,6 +885,7 @@
 τουτου@prep%1(prep)=ce
 τουτω@prep%1(prep)=à ce
 τουτων@prep%1(prep)=de ces
+τρεφ@verb!norm%1(verb)=epaissir
 τριτ@adj!ος-η-ον%1(adj)=trois
 τροχ@noun!ος-ου%1(noun)=roue
 τροχοειδ@adj!ης-ης-ες%1(noun)=rond

@@ -29,6 +29,7 @@
 διο@prep()
 δη@prep()
 εαυτω@prep(dat)
+εαυτοις@prep(dat)
 εαυτων@prep()
 εις@prep()
 εκ@prep()
@@ -145,6 +146,7 @@
 τελος@prep()
 τη@prep%prep(dat)%[electDativeForFollowingNoun]
 την@prep%prep(acc)%[electAccusativeForFollowingNoun]
+τηνικαυτα@prep()
 της@prep%prep(gen)%[electGenitiveForFollowingNoun]
 τι@prep%prep(nom)
 τινα@prep%prep(acc)
