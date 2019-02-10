@@ -56,6 +56,7 @@ cuget,,[incerca]
 culeg,,[face]
 cun,,[cunosc]
 cuprin,de,[crede]
+cuv,ine,[cuvine]
 da,,[da],(PAP*da*dat*0)
 deoseb,,[primi]
 depart,,[fumez]
@@ -99,6 +100,7 @@ incep,,[face],(PAP*incep*inceput*0)
 incerc,a,[incerca]
 inchei,a,[incheia],(ACP*inchei*arinchei*0@ACPINF*inchei*arincheia*0)
 inchin,,[cauta]
+incunun,,[incerca]
 indic,,[incerca]
 inlocu,i,[aciti]
 inmormint,,[fumez]
@@ -160,6 +162,7 @@ pot@IRREGULAR%[INFINITIVE]=[putea]%[IPR]=[pot,potsi,poate,putem,putetsi,pot]%[PA
 povest,,[locuiesc]
 prefer,a,[incerca]
 prelucr,,[fumez]
+pricep,,[merg]
 prigon,,[aciti],(PAP*prigon*prigonit*0)
 prim,,[primi],(PAP*prim*primit*0)
 prin,de,[crede],(PAP*prin*prins*0)
@@ -201,6 +204,7 @@ spun,,[face],(IPR1*uni*ui*1@PAP*spun*spus*0)
 sta,,[stiu]
 stapan,,[aciti],(PAP*stapan*stapanit*0)
 sti,,[stiu],(AIPP*sti*stius*0)
+straluc,,[primi]
 stric,,[incerca]
 strig,,[incerca]
 string,,[merg],(MMCP*string*strins*0)

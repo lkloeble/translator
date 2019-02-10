@@ -48,6 +48,7 @@ alt@adj%us-a-um
 alterius@neut%inv
 alti@adj%or-or-us
 altissim@adj%us-a-um
+altitud@fem%o-inis
 amarissim@adj%us-a-um
 amen@neut%inv
 amicz@adj%us-a-um
@@ -151,6 +152,7 @@ carmin@neut%um-i
 carn@fem%o-nis
 caro@fem%inv
 carr@masc%us-i
+castell@neut%um-i
 castigatio@fem%x-nis
 catholic@adj%us-a-um
 caus@fem%a-ae
@@ -398,6 +400,7 @@ fon@masc%s-tis
 for@neut%um-i
 fortissim@adj%us-a-um
 fortitud@fem%o-inis
+foss@fem%a-ae
 frat@masc%er-ris
 frau@fem%s-dis
 fruct@masc%us-i
@@ -804,6 +807,7 @@ persecuti@fem%o-onis
 persuas@adj%us-a-um
 persuasur@adj%us-a-um
 pervers@adj%us-a-um
+pe@masc%s-dis
 pessim@adj%us-a-um
 pest@fem%is-is
 petr@masc%us-i
@@ -840,6 +844,7 @@ praecept@neut%um-i
 praeconcept@adj%us-a-um
 praedicand@adj%us-a-um
 praedicati@fem%o-onis
+praesidi@neut%um-i
 praestanti@adj%or-or-us
 praemi@neut%um-i
 praenom@neut%en-inis
@@ -864,6 +869,7 @@ profect@adj%us-a-um
 profecti@fem%o-onis
 profess@adj%us-a-um
 progress@masc%us-us
+prohibitur@adj%us-a-um
 promiscu@adj%us-a-um
 propagand@adj%us-a-um
 propagat@adj%us-a-um
@@ -964,6 +970,7 @@ secreti@adj%or-or-us
 sectator@masc%x-is2
 sect@adj%us-a-um
 secund@adj%us-a-um
+sedecim@neut%inv
 semen@fem%x-is
 sement@neut%is-is
 semin@fem%x-is

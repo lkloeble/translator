@@ -321,6 +321,7 @@ inaintar@fem%berea
 inca@neut%inv
 inceput@masc%ul
 inconstient@adj%adjts
+incordar@fem%berea
 incorporare@fem%fem
 increder@fem%berea
 incredintsar@fem%berea
@@ -474,6 +475,7 @@ necunoscut@adj%adj
 nedrept@adj%adj
 negr@adj%adj
 nehotarit@adj%adjts
+neintselegator@adj%adj
 neplacut@adj%adj
 nepotrivit@adj%adjts
 neprihanir@fem%berea

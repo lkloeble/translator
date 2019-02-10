@@ -1,5 +1,6 @@
 a@prep()%[findInfinitiveConstruction,findGenitive,recomposeALui,recomposeAFost,aSeInfinitiveHandler]
 aaxxaa@prep()
+abia@prep()
 acea@prep()
 aceasta@prep()
 aceea@prep()

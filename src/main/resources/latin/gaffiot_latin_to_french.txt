@@ -86,6 +86,7 @@ alt@adj!us-a-um%1(adj)=profond%2(adj)=haut
 alterius@noun!inv%1(noun)=(de) l'autre
 alti@adj!or-or-us%1(adj)=plus profond%2(adj)=plus haut
 altissim@adj!us-a-um%1(adj)=le plus haut
+altitud@noun!o-inis%1(noun)=hauteur
 amarissim@adj!us-a-um%1(adj)=le plus amer
 ambulo@verb!norm%1(verb)=aller et venir,marcher,se promener%2(verb)=marcher, se comporter (christianisme)%3(verb + acc)=marcher dans un espace précis%4(verb)=marcher
 amen@noun!inv%1(noun)=amen
@@ -223,6 +224,7 @@ carn@noun!o-nis%1(noun)=chair
 caro@noun!inv%1(noun)=chair
 carr@noun!us-i%1(noun)=chariot
 carpo@verb!norm%1(verb)=cueillir
+castell@noun!um-i%1(noun)=place-forte
 castigatio@noun!x-nis%1(noun)=punition
 castigo@verb!norm%1(verb)=critiquer
 catholic@adj!us-a-um%1(adj)=catholique
@@ -284,6 +286,7 @@ comburo@verb!norm%1(verb)=consumer
 comedo@verb!norm%1(verb)=consommer
 commeo@verb!norm%1(verb)=voyager%2(verb)=fréquenter%3(verb)=visiter
 comment@adj!us-a-um%1(adj)=inventé%2(adj)=conçu
+communio@verb!norm%1(verb)=renforcer%2(verb)=barricader
 comparat@adj!us-a-um%1(adj)=préparé%2(noun)=comparé
 comparo@verb!norm%1(verb)=comparer%2(verb)=assembler
 compleo@verb!norm%1(verb)=accomplir
@@ -450,6 +453,7 @@ diligen@adj!s-tis%1(adj)=diligence
 dimitto@verb!norm%1(verb)=renvoyer%2(verb)=remettre
 discedo@verb!norm%1(verb)=partir
 discerno@verb!norm%1(verb)=separer
+dispono@verb!norm%1(verb)=arranger
 disputo@verb!norm%1(verb)=debattre
 dissemino@verb!norm%1(verb)=repandre
 dissertati@noun!o-onis%1(noun)=dissertation
@@ -653,6 +657,7 @@ forsan@prep%1(prep)=par chance%2(prep)=peut-être
 forsitan@prep%1(prep)=par chance%2(prep)=peut-être
 fortissim@adj!us-a-um%1(adj)=plus fort
 fortitud@noun!o-inis%1(noun)=courage%2(noun)=force
+foss@noun!a-ae%1(noun)=fossé
 frat@noun!er-ris%1(noun)=frère
 frau@noun!s-dis%1(noun)=fraude
 fruct@noun!us-i%1(noun)=résultat%2(noun)=profit%3(noun)=satisfaction%4(noun)=fruit
@@ -817,6 +822,7 @@ inferi@adj!or-or-us%1(adj)=inférieur
 infero@verb!norm%1(verb)=infliger%2(verb)=attaquer%3(verb)=porter
 infigo@verb!norm%1(verb)=fermer%2(verb)=implanter%3(verb)=reparer
 infirm@adj!us-a-um%1(adj)=infirme
+influo@verb!norm%1(verb)=couler
 informati@noun!o-onis%1(noun)=conception%2(noun)=idée
 informo@verb!norm%1(verb)=former
 infra@prep%1(prep)=en-dessous
@@ -859,6 +865,7 @@ invenio@verb!norm%1(verb)=découvrir%2(verb)=trouver
 invent@adj!us-a-um%1(adj)=découvert
 invict@adj!us-a-um%1(adj)=invaincu
 invictissim@adj!us-a-um%1(adj)=le plus invaincu
+invito@verb!norm%1(verb)=challenger%2(verb)=inviter
 invoco@verb!norm%1(verb)=invoquer,appeler%2(verb)=appeler,nommer%3(verb)=invoquer
 involvo@verb!norm%1(verb)=entourer%2(verb)=mettre en oeuvre%3(verb)=enrouler
 ips@adj!e-a-um%1(adj)=lui-même
@@ -1085,6 +1092,7 @@ ne@prep%1(prep)=ne
 nec@prep%1(prep)=non plus
 necesse@adj!inv%1(adj)=incontournable
 nefari@adj!us-a-um%1(adj)=néfaste
+nego@verb!norm%1(verb)=refuser
 nequiti@noun!a-ae%1(noun)=immoralité
 nerv@noun!us-i%1(noun)=nerf
 nihil@prep%1(prep)=rien
@@ -1256,6 +1264,7 @@ persuasur@adj!us-a-um%1(adj)=persuadeur
 pertineo@verb!norm%1(verb)=être la proriété de,appartenir à%2(verb)=avoir tendance à%3(verb)=rejoindre
 pervenio@verb!norm%1(verb)=atteindre%2(verb)=arriver%3(verb)=parvenir
 pervers@adj!us-a-um%1(adj)=pervers
+pe@noun!s-dis%1(noun)=pied
 pessim@adj!us-a-um%1(adj)=pire
 pest@noun!is-is%1(noun)=peste
 petr@noun!us-i%1(noun)=Pierre
@@ -1311,6 +1320,7 @@ praeconcept@adj!us-a-um%1(adj)=préconçu
 praedicand@adj!us-a-um%1(adj)=qui va être proclamé
 praecept@noun!um-i%1(noun)=leçon%2(noun)=commandement%3(noun)=précepte
 praedicati@noun!o-onis%1(noun)=prédication
+praesidi@noun!um-i%1(noun)=protection%2(noun)=défense
 praestanti@adj!or-or-us%1(adj)=plus excellent
 praemi@noun!um-i%1(noun)=récompense
 praenom@noun!en-inis%1(noun)=nom
@@ -1350,6 +1360,7 @@ profiteor@verb!norm%1(verb)=professer
 profluo@verb!norm%1(verb)=proceder%2(verb)=couler
 progress@adj!us-us%1(adj)=avancée
 prohibeo@verb!norm%1(verb)=preserver%2(verb)=defendre%3(verb)=proteger%4(verb)=garder
+prohibitur@adj!us-a-um%1(adj)=empêcheur
 promo@verb!norm%1(verb)=produire
 propagand@adj!us-a-um%1(adj)=propagé
 propagat@adj!us-a-um%1(adj)=propagé
@@ -1473,6 +1484,7 @@ resulto@verb!norm%1(verb)=retentir
 resurgen@adj!s-s-s%1(adj)=ressuscité
 resurgo@verb!norm%1(verb)=ressusciter
 retect@adj!us-a-um%1(noun)=découvert
+reverto@verb!norm%1(verb)=revenir
 revertor@verb!norm%1(verb)=revenir
 rogo@verb!norm%1(verb)=demander
 resurrecti@noun!o-onis%1(noun)=resurrection
@@ -1539,6 +1551,7 @@ sect@adj!us-a-um%1(adj)=amputé%2(adj)=divisé%3(adj)=coupé
 secund@adj!us-a-um%1(adj)=suivant
 secum@prep%1(conj)=lui-même
 sed@prep%1(conj)=mais
+sedecim@noun!inv%1(noun)=seize
 sedeo@verb!norm%1(verb)=se repose%2(verb)=etreassis
 seduco@verb!norm%1(verb)=séduire%2(verb)=tromper
 semen@noun!x-is%1(noun)=descendance%2(noun)=semence

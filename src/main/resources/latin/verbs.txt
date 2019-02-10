@@ -70,6 +70,7 @@ collaud,o,as,are,avi,atum,[o-as]
 combur,o,is,ere,,,[o-is]
 comed,o,is,ere,,,[o-is]
 comme,o,as,are,avi,atum,[o-as]
+commun,io,is,ire,,,[io-is]
 compar,o,as,are,avi,atum,[o-as]
 compl,eo,es,ere,ui,itum,[eo-es]
 comprehend,o,is,ere,,,[o-is]
@@ -129,6 +130,7 @@ dimitt,o,is,ere,foobar,foobar,[o-is]
 disc,o,is,ere,didici,discitum,[o-is],(AIFP*discs*didic*0)
 disced,o,is,ere,,,[o-is],(AIP*disced*discess*0)
 discern,o,is,ere,,,[o-is]
+dispon,o,is,ere,,,[o-is]
 disput,o,as,are,,,[o-as]
 dissemin,o,as,are,,,[o-as]
 divid,o,is,ere,,,[o-is],(AIP*divid*divis*0)
@@ -200,6 +202,7 @@ induc,o,is,ere,duxi,ductum,[o-is],(AIP*induc*indux*0)
 infer,o,s,re,tuli,latum,[o-s],(AIP*infer*intul*0)
 inform,o,as,are,,,[o-as]
 infig,o,is,ere,,,[o-is]
+influ,o,is,ere,,,[o-is]
 inlumin,o,as,are,,,[o-as]
 inmitt,o,is,ere,,,[o-is],(AIP*inmitt*inmis*0)
 inquam@IRREGULAR%[IPR]=[inquam,inquis,inquit,inquimus,inquitis,inquiunt]
@@ -215,6 +218,7 @@ interrog,o,as,are,,,[o-as]
 intr,o,as,are,avi,atus,[o-as]
 invalesc,o,is,ere,,,[o-is]
 inven,io,is,ere,,,[io-is]
+invit,o,as,are,avi,atum,[o-as]
 invoc,o,as,are,avi,atum,[o-as]
 involv,o,is,ere,,,[o-is]
 ire@IRREGULAR%[INFINITIVE]=[ire]%[IPR]=[eo,is,it,imus,itis,eunt]
@@ -247,6 +251,7 @@ multiplic,o,as,are,,,[o-as]
 mut,o,as,are,,,[o-as]
 narr,o,as,are,,,[o-as]
 nasc,or,eris,i,,,[or-eris]
+neg,o,as,are,,,[o-as]
 nolo@IRREGULAR%[INFINITIVE]=[nolere]%[IPR]=[nolo,non vis,non vult,nollumus,non vultis,nolunt]
 numer,o,as,are,,,[o-as]
 obdorm,io,is,ire,,,[io-is],(ASPP*obdorm*obdormiss*0)
@@ -332,6 +337,7 @@ rest,o,as,are,,,[o-as]
 result,o,as,are,,,[o-as]
 resurg,o,is,are,,,[o-is],(AIP*resurg*resurrex*0)
 revert,or,eris,ere,,,[or-eris],(ASI*revert*reverter*0)
+revert,o,is,ere,,,[o-is]
 rog,o,as,are,,,[o-as]
 rid,eo,es,ere,,,[eo-es]
 salt,o,as,are,,,[o-as]
