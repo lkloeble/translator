@@ -851,9 +851,20 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     }
 
     @Test
+    public void test_patericul4() {
+        checkInMaps("patericulegyptantonia4A", translatorBridge);
+        checkInMaps("patericulegyptantonia4B", translatorBridge);
+        checkInMaps("patericulegyptantonia4C", translatorBridge);
+        checkInMaps("patericulegyptantonia4D", translatorBridge);
+        checkInMaps("patericulegyptantonia4E", translatorBridge);
+        checkInMaps("patericulegyptantonia4F", translatorBridge);
+        checkInMaps("patericulegyptantonia4G", translatorBridge);
+    }
+
+        @Test
     public void test_failedones() {
         assertTrue(true);
-        //checkInMaps("staniloae7AK", translatorBridge);
+        checkInMaps("patericulegyptantonia4A", translatorBridge);
     }
     
 }

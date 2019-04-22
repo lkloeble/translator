@@ -610,6 +610,15 @@ patericulegyptantonia3C=>Iar noi, ieşind din lume, mai înainte de a ne vindeca
 patericulegyptantonia3D=>îndată începem a vindeca pe alţii;
 patericulegyptantonia3E=>şi, întorcându-se boala asupra noastră, se fac nouă cele de pe urmă mai amare decât cele dintâi (Lc. 11, 26),
 patericulegyptantonia3F=>şi auzim de la Domnul: " Doctore, vindecă-te mai întâi pe tine însuţi " (Lc. 4, 23)".
+patericulegyptantonia4A=>Acest avva Antonie, căutând la adâncul judecăților lui Dumnezeu, a cerut zicând
+patericulegyptantonia4B=>« Doamne, cum se face că unii mor de tineri, iar alții prea îmbătranesc ?
+patericulegyptantonia4C=>și pentru ce unii sunt săraci, iar alții bogați ?
+patericulegyptantonia4D=>și cum cei nedrepți sunt bogați, iar cei drepți săraci ? »
+patericulegyptantonia4E=>și a venit lui un glas zicând :
+patericulegyptantonia4F=>« Antonie, ia aminte de tine, că acestea sunt judecăți ale lui Dumnezeu
+patericulegyptantonia4G=>și nu-ți este ție de folos a le ști ».
+
+
 toto=>parasi-ne-vei pre noi
 
 ă

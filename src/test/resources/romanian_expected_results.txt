@@ -586,4 +586,12 @@ patericulegyptantonia3D=>aussitôt commençons guérir sur autre(s);
 patericulegyptantonia3E=>et, retournant se la maladie(e) sur notre, se fais nouveau(e) celles de sur la suite(e)@suivit@ plus amer(e) que celles premier ( lc. 11, 26 ),
 patericulegyptantonia3F=>et entendons de à le seigneur docteur, guérir/guérissait/guérit te plus avant sur toi toi-même ( lc. 4, 23 ).
 
+patericulegyptantonia4A=>foobar
+patericulegyptantonia4B=>foobar
+patericulegyptantonia4C=>foobar
+patericulegyptantonia4D=>foobar
+patericulegyptantonia4E=>foobar
+patericulegyptantonia4F=>foobar
+patericulegyptantonia4G=>foobar
+
 toto=>abandonner nous voudras [XXX] nous

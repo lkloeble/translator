@@ -361,6 +361,7 @@ comparable@noun!normmasc%1(adj)=comparable
 compare@verb!norm%1(verb)=comparer
 comparison@noun!normfem%1(noun)=comparaison
 compass@verb!norm%1(verb)=traverser%2(verb)=entourer
+compell@verb!norm%1(verb)=obliger
 compilation@noun!normfem%1(noun)=compilation
 complain@verb!norm%1(verb)=seplaindre
 complaint@noun!normfem%1(noun)=plainte
