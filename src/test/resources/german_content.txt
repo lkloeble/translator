@@ -928,7 +928,7 @@ nietzscheBookGTversuchCha7S1=>Zarathustra der Wahrsager, Zarathustra der Wahrlac
 nietzscheBookGTversuchCha7S2=>der Sprünge und Seitensprünge liebt: ich selber setzte mir diese Krone auf!
 nietzscheBookGTversuchCha7T1=>Diese Krone des Lachenden, diese Rosenkranz-Krone: euch, meinen Brüdern, werfe ich diese Krone zu!
 nietzscheBookGTversuchCha7T2=>Das Lachen sprach ich heilig: ihr höheren Menschen, lernt mir – lachen!"
-nietzscheBookGTversuchCha7U=>Also sprach Zarathustra, vierter Teil Sils-Maria
+nietzscheBookGTversuchCha7U=>Also sprach Zarathustra, vierter Teil |Sils|-|Maria|
 
 toto=>verfänglich - rattenfängerisch klingen mag: wie?
 

@@ -1080,6 +1080,7 @@ pause@fem%inv
 personlich@adj%ausreichend
 peinlich@adj%ausreichend
 perikles@neut%inv
+perle@fem%flasche
 personal@neut%inv
 perversitat@neut%inv
 pessimismus@neut%inv
@@ -1276,6 +1277,7 @@ sechzehn@neut%inv
 seele@fem%flasche
 segnung@fem%meinfem
 sehnsuchtigst@adj%ausreichend
+seite@fem%flasche
 sekretarin@fem%inv
 selbstandig@adj%ausreichend
 selig@adj%ausreichend
@@ -1318,6 +1320,7 @@ spekulation@fem%norm
 sportlich@adj%inv
 sprache@fem%flasche
 spross@masc%phanomen
+sprunge@fem%inv
 stab@masc%phanomen
 stadt@fem%meinfem
 stadtrat@neut%inv
