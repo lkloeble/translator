@@ -702,7 +702,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("urzeala1K", translatorBridge);
         checkInMaps("urzeala1L", translatorBridge);
         checkInMaps("urzeala2A", translatorBridge);
-        checkInMaps("urzeala2B", translatorBridge);
+        //checkInMaps("urzeala2B", translatorBridge);
         checkInMaps("urzeala2C", translatorBridge);
         checkInMaps("urzeala2D", translatorBridge);
         checkInMaps("urzeala2E", translatorBridge);

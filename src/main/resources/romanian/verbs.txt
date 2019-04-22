@@ -34,7 +34,7 @@ calator,i,[locuiesc]
 cant,,[cauta]
 castig,,[incerca]
 caut,a,[cauta]
-cer,e,[face],(CONJ25*cer*cear*0)
+cer,e,[face],(CONJ25*cer*cear*0@PAP*cer*cerut*0)
 cercet,,[fumez]
 chem,a,[cauta],(PAP*chem*chemat*0)
 cint,,[cauta]

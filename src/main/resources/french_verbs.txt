@@ -117,7 +117,7 @@ chanter2@NORM%[INFINITIVE]=[chanter]%[IPR]=[chante,chantes,chante,chantons,chant
 chanter@NORM%[INFINITIVE]=[chanter]%[IPR]=[chante,chantes,chante,chantons,chantez,chantent]%[PIP]=[suis chanté,es chanté,est chanté,sommes chantés,êtes chantés,sont chantés]%[PAP]=[chanté]%[ASP]=[chante,chantes,chante,chantions,chantiez,chantent]
 charger@NORM%[INFINITIVE]=[charger]%[IPR]=[charge,charges,charge,chargeons,chargez,chargent]%[PAP]=[chargé]%[PAPR]=[chargeant]
 chasser@NORM%[INFINITIVE]=[chasser]%[IPR]=[chasse,chasses,chasse,chassons,chassez,chassent]%[PAP]=[chassé]
-chercher@NORM%[INFINITIVE]=[chercher]%[IPR]=[cherche,cherches,cherche,cherchons,cherchez,cherchent]%[AIMP]=[x,cherche,x,x,cherchez,x]%[AII]=[cherchais,cherchais,cherchait,cherchions,cherchiez,cherchaient]
+chercher@NORM%[INFINITIVE]=[chercher]%[IPR]=[cherche,cherches,cherche,cherchons,cherchez,cherchent]%[AIMP]=[x,cherche,x,x,cherchez,x]%[AII]=[cherchais,cherchais,cherchait,cherchions,cherchiez,cherchaient]%[PAPR]=[cherchant]
 choisir@NORM%[INFINITIVE]=[choisir]%[IPR]=[choisis,choisis,choisit,choisissons,choisissez,choisissent]%[AIP]=[choisis,choisis,choisit,choisîmes,choisîtes,choisirent]%[PIP]=[suis choisi,es choisi,est choisi,sommes choisis,êtes choisis,sont choisis]%[PAP]=[choisi]
 chuter@NORM%[INFINITIVE]=[chuter]%[IPR]=[chute,chutes,chute,chutons,chutez,chutent]%[AORACTSUBJ]=[que je chute,que tu chutes,qu'il chute,que nous chutions,que vous chutiez,qu'ils chutent]
 circoncire@NORM%[INFINITIVE]=[circoncire]%[IPR]=[circoncis,circoncis,circoncit,circoncisons,circoncisez,circoncisent]%[PAP]=[circoncis]

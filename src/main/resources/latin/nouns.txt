@@ -192,6 +192,7 @@ column@fem%a-ae
 comment@adj%us-a-um
 comparat@adj%us-a-um
 complet@adj%us-a-um
+complur@adj%es-es-ia
 conat@adj%us-a-um
 concedend@adj%us-a-um
 concepti@fem%o-onis
@@ -262,6 +263,7 @@ decim@adj%us-a-um
 decret@neut%um-i
 defect@masc%us-us
 definiti@fem%o-onis
+deiect@adj%us-a-um
 deinceps@neut%inv
 delet@masc%us-a-um
 delaps@adj%us-a-um
@@ -541,6 +543,7 @@ iug@neut%um-i
 iuli@masc%us-i
 iuli@fem%a-ae
 iument@neut%um-i
+iunct@adj%us-a-um
 iur@neut%a-ae
 iurand@neut%um-i
 iu@neut%s-ris
@@ -689,6 +692,7 @@ nascen@masc%s-s-s
 nat@adj%us-a-um
 nat@masc%us-us
 natur@fem%a-ae
+nav@fem%is-is
 nax@masc%us-i
 nazaren@masc%us-i
 necesse@adj%inv
@@ -900,6 +904,7 @@ qint@masc%us-i
 querimoni@fem%a-ae
 quint@masc%us-a-um
 radi@fem%x-cis
+rat@fem%is-is
 ratio@fem%x-nis
 raurac@masc%us-i
 recen@neut%s-tis

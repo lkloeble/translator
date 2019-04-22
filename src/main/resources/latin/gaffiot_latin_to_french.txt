@@ -291,6 +291,7 @@ comparat@adj!us-a-um%1(adj)=préparé%2(noun)=comparé
 comparo@verb!norm%1(verb)=comparer%2(verb)=assembler
 compleo@verb!norm%1(verb)=accomplir
 complet@adj!us-a-um%1(adj)=rassasié%2(adj)=complété%3(adj)=terminé
+complur@adj!es-es-ia%1(adj)=nombreux
 comprehendo@verb!norm%1(verb)=saisir
 conat@adj!us-a-um%1(adj)=essayé
 concedend@adj!us-a-um%1(adj)=abandonné
@@ -411,6 +412,7 @@ decret@noun!um-i%1(noun)=décret
 defect@noun!us-us%1(noun)=échec
 deficio@verb!norm%1(verb)=gaspiller%2(verb)=perdre
 definiti@noun!o-onis%1(noun)=définition
+deiect@adj!us-a-um%1(noun)=consterné
 deinceps@noun!inv%1(noun)=suivant
 deinde@prep%1(prep)=après%2(prep)=ensuite%3(prep)=à partir de là
 delaps@adj!us-a-um%1(adj)=tombé
@@ -891,6 +893,7 @@ iuli@noun!us-i%1(noun)=julius
 iucund@adj!us-a-um%1(adj)=agréable
 iuli@noun!a-ae%1(noun)=iulia
 iument@noun!um-i%1(noun)=animal domestique
+iunct@adj!us-a-um%1(noun)=joint
 iur@noun!a-ae%1(noun)=jura
 iurand@noun!um-i%1(noun)=serment
 iu@noun!s-ris%1(noun)=devoir%2(noun)=loi
@@ -1086,6 +1089,7 @@ nascor@verb!norm%1(verb)=estne
 nat@adj!us-a-um%1(adj)=né
 nat@noun!us-us%1(noun)=fils%2(noun)=naissance%3(noun)=années%4(noun)=âge
 natur@noun!a-ae%1(noun)=nature
+nav@noun!is-is%1(noun)=navire
 nax@noun!us-i%1(noun)=naxos
 nazaren@noun!us-i%1(noun)=nazarénien
 ne@prep%1(prep)=ne
@@ -1440,6 +1444,7 @@ quorum@prep%1(adv)=qui
 quorumdam@prep%1(adv)=quelques uns
 quot@prep%1(quot)=combien
 radi@noun!x-cis%1(noun)=racine
+rat@noun!is-is%1(noun)=radeau
 ratio@noun!x-nis%1(noun)=raison%2(noun)=explication
 raurac@noun!us-i%1(noun)=rauraque
 recen@noun!s-tis%1(noun)=récent

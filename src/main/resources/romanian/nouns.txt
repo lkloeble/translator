@@ -369,6 +369,7 @@ italian@adj%adj
 iubir@fem%berea
 jandarm@masc%ul
 joc@masc%ul
+judecat@adj%adjts
 jug@masc%ul
 jumatate@fem%inv
 jurul@masc%inv
@@ -498,6 +499,7 @@ noutate@fem%ereditate
 nume@neut%iepure
 oamen@masc%ul
 obiect@masc%ul
+obisnuit@adj%adjts
 obosit@adj%adj
 och@masc%copil
 ocupat@adj%adj
