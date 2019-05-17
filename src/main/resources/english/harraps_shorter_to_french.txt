@@ -2093,6 +2093,7 @@ wise@adj!normmasc%1(adj)=savant%2(adj)=avisé%3(adj)=sage
 wisdom@noun!invfem%1(noun)=sagesse
 wisedome@noun!invfem%1(noun)=sagesse
 witch@noun!church%1(noun)=sorcière
+witchcraft@noun!invfem%1(noun)=sorcellerie
 witness@noun!church%1(noun)=témoin
 wizard@noun!normmasc%1(noun)=magicien
 woman@noun!invmasc%1(noun)=femme

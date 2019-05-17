@@ -207,6 +207,7 @@ gewinn,en,[leben],(PAPR*gewinn*gewinnend*0)
 gewohn,en,[leben]
 glaub,en,[leben]
 haben@IRREGULAR%[INFINITIVE]=[haben]%[IPR]=[habe,hast,hat,haben,habt,haben]%[AIP]=[hatte,hattest,hatte,hatten,hattet,hatten]%[PAP]=[gehabt]
+haltmach,en,[leben]
 halt,en,[halten],(AII*halt*hielt*0)
 hand,eln,[sammeln]
 hang,en,[leben]

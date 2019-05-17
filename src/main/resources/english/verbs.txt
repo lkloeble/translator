@@ -47,7 +47,7 @@ boast,[call]
 book,[call]
 born,[live],(PAP*bornd*born*0)
 bound,[call]
-break,[break],(PAP*breaken*broken*0)
+break,[break],(PAP*breaken*broken*0@AII*break*broke*0)
 breath,[call]
 bring,[see],(AIP*bring*brought*0)
 bringforth,[see],(AIP*bring*brought*0)

@@ -1410,6 +1410,7 @@ wise@adj%normmasc
 wisdom@fem%invfem
 wisedome@fem%invfem
 witch@neut%church
+witchcraft@neut%invfem
 witness@neut%church
 wizard@neut%normmasc
 wood@neut%normmasc

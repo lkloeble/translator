@@ -149,6 +149,7 @@ guten@prep()%[gutenTagReplace,gutenAbendReplace,gutenMorgenReplace]
 gutentag@prep()
 gutenabend@prep()
 gutenmorgen@prep()
+halt@prep()
 her@prep()
 heran@prep()
 hervor@prep()

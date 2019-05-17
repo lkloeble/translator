@@ -861,6 +861,7 @@ gefahrlichst@adj!ausreichend%1(adj)=le plus dangereux
 gefangen@adj!ausreichend%1(adj)=prisonnier
 gefieder@noun!burger%1(noun)=plumage
 gefiedert@adj!ausreichend%1(adj)=couvert de plumes
+gefolge@noun!flasche%1(noun)=sillage
 geflugel@noun!arbeiter%1(noun)=volaille
 gefuhl@noun!phanomen%1(noun)=sentiment
 gefuhlsam@noun!inv%1(noun)=sentimental
@@ -991,6 +992,8 @@ halb@noun!inv%1(noun)=moitié
 halle@noun!inv%1(noun)=halle
 hallo@noun!inv%1(noun)=allo
 halluzination@noun!meinfem%1(noun)=hallucination
+haltmach@verb!norm%1(verb)=stopper
+halt@prep%1(prep)=halte
 halt@verb!norm%1(verb)=arrêter%2(verb)=tenir
 hand@verb!norm%1(verb)=agir
 hand@noun!rest%1(noun)=main

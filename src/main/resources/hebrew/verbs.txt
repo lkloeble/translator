@@ -86,7 +86,9 @@ rah,,[paal],(AIP%leadingrootletter%r*r64@AIP%secondletterroot%a*a64@AIP%alternat
 rdp,,[paal]
 r'hp,,[binyan],(BINPRE%leadingrootletter%m*m56@BINPRE%secondletterroot%r*r63@BINPRE%alternateaccentuation%'h*'h62@BINPRE%alternateaccentuation%p*p62
 rms,,[paal]
+sal,,[paal],(IPR%substitute%sa*swa*0)
 sap,,[paal]
+swb,,[binyanhifil],(BINHIPRE%substitute%sw*si*0)
 skb,,[paal],(ARAIPR%substitute%sk*swk*0@ARAPAPR%substitute%sk*ski*0)
 skn,,[binyan],(BINPER%substitute%sk*sik*0)
 sl'h,,[paal],(AIP%leadingrootletter%s*s29864@AIP%secondletterroot%l*l63@IPR%substitute%sl*swl*0)

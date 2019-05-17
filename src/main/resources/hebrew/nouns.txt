@@ -116,6 +116,7 @@ itsia@fem%endingh
 i56s298w309y64@fem%ot
 i56s298w309y64h@masc%invpur
 i64s29863r@adj%im-ot
+kbwd@masc%im
 kdai@neut%invpur
 khn@masc%im
 k'h@masc%mascot
@@ -145,6 +146,7 @@ m60d56b30564r@masc%imdir
 mdrs@neut%im
 mawr@masc%custom(nomsg=mawr|nomplr=mart)
 mawr@fem%ot
+mair@masc%invpur
 mwyd@masc%im
 mx@fem%ot
 milh@neut%invpur

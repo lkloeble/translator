@@ -525,6 +525,7 @@ gefahrlichst@adj%ausreichend
 gefangen@adj%ausreichend
 gefieder@neut%burger
 gefiedert@adj%ausreichend
+gefolge@fem%flasche
 geflugel@neut%arbeiter
 gefuhl@neut%phanomen
 gefuhlsam@neut%inv
