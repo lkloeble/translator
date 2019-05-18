@@ -613,6 +613,7 @@ epikur@noun!inv%1(noun)=épicure
 epikurisch@adj!ausreichend%1(adj)=épicurien
 er@prep%1(prep)=il
 erblick@verb!norm%1(verb)=voir
+erd@noun!inv%1(noun)=alcalino-terreux
 erdbevolkerung@noun!inv%1(noun)=population mondiale
 erde@noun!flasche%1(noun)=terre
 erdgeschoss@noun!inv%1(noun)=rez de chaussée
@@ -1003,6 +1004,7 @@ hart@adj!ausreichend%1(adj)=difficile
 harte@noun!inv%1(noun)=difficulté
 hass@noun!ort%1(noun)=haine
 hasslich@adj!ausreichend%1(adj)=horrible
+haufen@noun!zeichen%1(noun)=tas
 haufig@adj!ausreichend%1(adj)=fréquent
 haufiger@adj!ausreichend%1(adj)=plus fréquent
 haupt@noun!licht%1(noun)=chef%2(noun)=tête
@@ -1041,6 +1043,7 @@ heranwachsend@adj!ausreichend%1(adj)=adolescent
 heranzuzieh@verb!norm%1(verb)=expliquer
 herauskomm@verb!norm%1(verb)=sortir
 herbeibring@verb!norm%1(verb)=apporter
+herbeischaff@verb!norm%1(verb)=amener
 herberge@noun!flasche%1(noun)=auberge
 herleit@verb!norm%1(verb)=deduire
 herkunft@noun!norm%1(noun)=origine%2(noun)=ascendance
@@ -1877,6 +1880,7 @@ sicher@prep%1(prep)=sûrement
 sicherlicht@prep%1(prep)=certainement
 sicht@verb!norm%1(verb)=trier%2(verb)=classifier%3(verb)=organiser
 sie@prep%1(prep)=vous%2(prep)=eux%3(prep)=elle[ils]
+sieb@noun!jahrzehnt%1(noun)=tamis
 sieben@noun!inv%1(noun)=sept
 siebenfaltig@noun!inv%1(noun)=septuple
 siebenten@noun!inv%1(noun)=septième
@@ -1950,6 +1954,7 @@ starkst@adj!ausreichend%1(noun)=le plus fort
 statt@noun!inv%1(noun)=place
 statte@noun!inv%1(noun)=lieu
 statthalter@noun!arbeiter%1(noun)=vice-roi%2(noun)=chambellan%3(noun)=gouverneur
+staub@noun!jahrzehnt%1(noun)=poussière
 steh@verb!norm%1(verb)=rester%2(verb)=figurer%3(verb)=tenir
 steig@verb!norm%1(verb)=monter
 stein@noun!jahrzehnt%1(noun)=pierre

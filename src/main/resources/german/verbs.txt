@@ -220,6 +220,7 @@ heiss,en,[genesen],(AII*heiss*hiess*0)
 heranzuzieh,en,[leben]
 herauskomm,en,[rufen],(PAP*herauskomm*herausgekommen*0)
 herbeibring,en,[leben]
+herbeischaff,en,[rufen]
 herleit,en,[mochten]
 herstamm,en,[leben]
 herrsch,en,[leben]

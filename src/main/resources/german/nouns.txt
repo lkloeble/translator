@@ -362,6 +362,7 @@ entwickelung@masc%meinmasc
 entzuckung@fem%meinfem
 epikur@neut%inv
 epikurisch@adj%ausreichend
+erd@neut%inv
 erdbevolkerung@neut%inv
 erde@fem%flasche
 erdgeschoss@masc%inv
@@ -639,6 +640,7 @@ hart@adj%ausreichend
 harte@fem%inv
 hass@masc%ort
 hasslich@adj%ausreichend
+haufen@neut%zeichen
 haufig@adj%ausreichend
 haufiger@adj%ausreichend
 haupt@neut%licht
@@ -1287,6 +1289,7 @@ sensibilitat@fem%inv
 sephorris@neut%inv
 sibyllist@adj%meinmasc
 sicher@adj%ausreichend
+sieb@neut%jahrzehnt
 sieben@neut%inv
 siebenfaltig@neut%inv
 siebenten@neut%inv
@@ -1337,6 +1340,7 @@ starkst@adj%ausreichend
 statt@fem%inv
 statte@fem%flasche
 statthalter@masc%arbeiter
+staub@masc%jahrzehnt
 stein@masc%jahrzehnt
 stelle@fem%flasche
 stern@masc%meer
