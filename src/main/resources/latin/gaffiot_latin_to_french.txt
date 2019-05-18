@@ -854,6 +854,7 @@ insuper@prep%1(prep)=au dessus
 intelligenti@noun!a-ae%1(noun)=intelligence
 intelligo@verb!norm%1(verb)=comprendre
 inter@prep%1(prep)=durant%2(prep)=entre
+interdiu@prep%1(prep)=pendant la journée
 interea@prep%1(prep)=pendant ce temps
 intereo@verb!norm%1(verb)=se perdre dans,disparaitre dans%2(verb)=perir,disparaitre,mourir%3(verb)=disparaitre
 interim@prep%1(prep)=durant%2(prep)=entre-temps
@@ -1041,6 +1042,7 @@ mille@noun!inv%1(noun)=mille
 min@adj!or-or-us%1(adj)=inférieur%2(adj)=plus petit
 minerv@noun!a-ae%1(noun)=minerve
 minime@prep%1(prep)=très peu
+minim@adj!us-a-um%1(adj)=le plus petit
 minist@noun!er-ri%1(noun)=serviteur, domestique%2(noun)=ministre, instrument, agent%3(noun)=intermediaire%4(noun)=pretre de dieu (christianisme)%5(noun)=ministre
 ministeri@noun!um-i%1(noun)=ministère
 mir@adj!us-a-um%1(adj)=merveilleux
@@ -1647,6 +1649,7 @@ subjicio@verb!norm%1(verb)=proposer%2(verb)=soumettre%3(verb)=forger%4(verb)=sup
 subjungo@verb!norm%1(verb)=joindre
 sublat@adj!us-a-um%1(adj)=détruit%2(adj)=enlevé
 subnecto@verb!norm%1(verb)=lier
+substanti@noun!a-ae%1(noun)=nature
 successor@noun!x-is2%1(noun)=successeur
 sui@prep%1(prep)=lui-même
 sum@verb!irrg%1(verb substantif)=etre%2(verb substantif)=etre dans un lieu%3(verb substantif)=etre reellement%4(verb substantif + datif)=appartenir a, s'appliquer a%5(verbe)=etre

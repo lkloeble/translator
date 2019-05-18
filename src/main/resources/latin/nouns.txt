@@ -656,6 +656,7 @@ milit@masc%x-is2[nomsing:miles]
 mille@neut%inv
 min@adj%or-or-us
 minerv@fem%a-ae
+minim@adj%us-a-um
 minist@neut%er-ri
 ministeri@neut%um-i
 mir@adj%us-a-um
@@ -1038,6 +1039,7 @@ suprem@adj%us-a-um
 su@adj%us-a-um
 subeund@adj%us-a-um
 sublat@adj%us-a-um
+substanti@fem%a-ae
 supplici@neut%um-i
 sumpt@adj%us-a-um
 superposit@adj%us-a-um
