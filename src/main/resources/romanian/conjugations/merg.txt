@@ -2,6 +2,7 @@ IPR=>,i,e,em,etsi,
 ACP=>arcond,iarcond,earcond,emarcond,etsiarcond,arcond
 PAP=>[adj]
 AIP=>ei,esi,e,eram,eratsi,era
+AIPP=>em,esi,e,eram,eratsi,era
 AII=>am,ai,a,am,atsi,au
 MMCP=>esem,esesi,ese,eseram,eseratsi,esera
 PAPR=>ind|indu|and|andu

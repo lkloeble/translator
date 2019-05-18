@@ -526,6 +526,7 @@ il@prep%1(prep)=le
 imbogatsir@noun!berea%1(noun)=enrichissement
 imediat@prep%1(prep)=tout de suite
 imi@prep%1(prep)=me
+imbatrani@verb!norm%1(verb)=vieillir
 impart@verb!norm%1(verb)=partager
 implic@verb!norm%1(verb)=impliquer
 implin@verb!norm%1(verb)=accomplir
@@ -883,11 +884,12 @@ pentrucaXX@noun!inv%1(noun)=parce que
 pere@noun!capacitate%1(noun)=mur
 perfect@noun!inv%1(noun)=parfait
 periculos@noun!inv%1(noun)=dangereux
-persista@verb!norm%1(verb)=persisterù2(verb)=subsister
+persista@verb!norm%1(verb)=persister%2(verb)=subsister
 perspectiv@noun!fem%1(noun)=perspective
 persoan@noun!fem%1(noun)=personne
 personal@noun!inv%1(noun)=en personne
 peste@prep%1(prep)=partout
+petrece@verb!norm%1(verb)=passer%2(verb)=feter
 petrecere@noun!inv%1(noun)=fête
 pg@noun!inv%1(noun)=PG
 pian@noun!ul%1(noun)=piano
@@ -1022,6 +1024,7 @@ romanca@noun!inv%1(noun)=roumaine
 romaneasca@noun!inv%1(noun)=roumaine
 romaneste@noun!inv%1(noun)=roumain
 romania@noun!inv%1(noun)=roumanie
+rond@noun!ul%1(noun)=ronde%2(noun)=garde
 ros@adj!adj%1(adj)=rouge
 roscat@noun!adj%1(adj)=roux
 rost@noun!ul%1(noun)=intérêt
@@ -1151,6 +1154,7 @@ tacimuri@noun!inv%1(noun)=couverts
 tacimurile@noun!inv%1(noun)=les couverts
 talentat@noun!adjts%1(adj)=talentueux
 tanar@noun!ul%1(noun)=jeune
+tanar@adj!adj%1(adj)=jeune
 tangui@verb!norm%1(verb)=selamenter
 tare@noun!inv%1(noun)=fort
 tarziu@noun!inv%1(noun)=tard

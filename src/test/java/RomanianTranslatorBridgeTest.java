@@ -78,7 +78,8 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getNouns(String nounFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "pacat@adj%pacatos"
+                "tanar@masc%ul",
+                "tanar@adj%adj[nomplr(mascplri):tineri]"
         });
         */
         return getFileContentForRepository(nounFileDescription);
@@ -864,7 +865,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("patericulegyptantonia4A", translatorBridge);
+        checkInMaps("patericulegyptantonia4B", translatorBridge);
     }
     
 }

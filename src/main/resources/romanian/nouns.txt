@@ -638,6 +638,7 @@ romanca@adj%inv
 romaneasca@fem%inv
 romaneste@masc%inv
 romania@fem%inv
+rond@masc%ul
 ros@adj%adj
 roscat@adj%adj
 rost@neut%ul
@@ -724,6 +725,7 @@ tacimuri@neut%inv
 tacimurile@neut%inv
 talentat@adj%adjts
 tanar@masc%ul
+tanar@adj%adj[nomplr(mascplri):tineri]
 tare@neut%inv
 tarziu@neut%inv
 tata@masc%inv

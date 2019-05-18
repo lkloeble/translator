@@ -89,6 +89,7 @@ gol,i,[aciti]
 gon,i,[aciti],(PAP*gon*gonit*0)
 hotar,i,[hotarasc]
 ies,,[dorm]
+imbatran,i,[aciti]
 impart,,[impart]
 implic,,[cauta],(PAP*implic*implicat*0)
 implin,,[locuiesc]
@@ -151,6 +152,7 @@ pas,,[cresc],(PAP*pas*pascut*0)
 pastr,a,[fumez]
 pedeps,i,[locuiesc]
 persist,a,[incerca]
+petrec,e,[merg],(AIPP*petrec*petrecus*0)
 pier,i,[pieri]
 pierd,e,[vinde],(AII*pie*pia*0@CONJ0134*pierd*pier*0@CONJ25*pierd*piard*0)
 plac,,[merg]
