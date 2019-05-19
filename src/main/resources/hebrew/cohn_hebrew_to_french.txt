@@ -44,9 +44,10 @@ a61l62h@prep%1(prep)=ces
 aliyzr@noun!invmasc%1(noun)=éliezer
 alyzr@noun!invmasc%1(noun)=élazar
 amh@noun!custom(nomsg=amh|cst(nomsg)=amt|nomplr=a67mw331t)%1(noun)=peuple
-amn@verb!norm%1(verb)=faireconfiance
+amn@verb!norm%1(verb)=faireconfiance%2(verb)=elever
 amn2@verb!norm%1(verb)=faireconfiance
 amnim@noun!invpur%1(noun)=ceux qui sont élevés
+amtsy@noun!invpur%1(noun)=milieu
 amr@verb!norm%1(verb)=dire
 aw331r@noun!invfem%1(noun)=flamme,feu%2(noun)=lumière
 awrita@noun!invpur%1(noun)=torah
@@ -137,6 +138,7 @@ gidhanasheexpr@noun!invpur%1(noun)=nerf sciatique
 girsa@noun!invpur%1(noun)=variante%2(noun)=version
 gm'@noun!invpur%1(noun)=gémara
 gmlial@noun!invmasc%1(noun)=gamaliel
+gmra@noun!invmasc%1(noun)=guémara
 g64n000@noun!im%1(noun)=jardin
 grs@verb!norm%1(verb)=declarer
 d@prep%1(prep)=qui
@@ -243,6 +245,7 @@ idy@verb!norm%1(verb)=connaitre
 iw331m000@noun!custom(nomplr=imim000|cst(nomplr)=imi|cst(nomsg)=iwm&|nomsg=iwm000)%1(noun)=jour
 ih@noun!invmasc%1(noun)=le seigneur%1(noun)=YH(VH)
 ihwh@noun!invmasc%1(noun)=le seigneur%1(noun)=YHVH
+ihwdh@noun!invpur%1(noun)=yehouda
 ihwswy@noun!invmasc%1(noun)=yehoshouah
 ikl@verb!norm%1(verb)=pouvoir
 iwsp@noun!invpur%1(noun)=joseph
@@ -320,6 +323,7 @@ lb@noun!mascot%1(noun)=coeur
 lib@noun!mascot%1(noun)=coeur
 lbd@prep%1(prep)=seulement
 lbn@noun!invmasc%1(noun)=blanc%2(noun)=laban
+lhln@prep%1(prep)=ci-dessous
 l63i56l64h@noun!custom(nomplr=lilwt|cst(nomsg)=lil&|nomsg=lilh)%1(noun)=nuit
 l64i56l64h@noun!custom(nomplr=lilwt|cst(nomsg)=lil&|nomsg=lilh)%1(noun)=nuit
 lmd@verb!norm%1(verb)=enseigner
@@ -353,6 +357,7 @@ mad@prep%1(prep)=très
 m56a65d@prep%1(prep)=très
 m64qw331m000@noun!mascot%1(noun)=lieu
 mbdil@noun!invpur%1(noun)=séparation
+mbwar@noun!invpur%1(noun)=adulte%2(noun)=âgé
 m60d56b30564r@noun!imdir%1(noun)=désert
 mdrs@noun!im%1(noun)=midrash
 mawr@noun!custom(nomsg=mawr|nomplr=mart)%1(noun)=luminaire
@@ -557,6 +562,7 @@ s60in64i@noun!invpur%1(noun)=sinai
 skb@noun!invmasc%1(noun)=coucher
 skb@verb!norm%1(verb)=secoucher
 sl@prep%1(prep)=de
+slwm@noun!invpur%1(noun)=shalom
 sw309s@noun!im-ot%1(noun)=cheval
 skn@verb!norm%1(verb)=mettreendanger
 skn@prep%1(prep)=que ainsi

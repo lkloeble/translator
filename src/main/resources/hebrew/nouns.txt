@@ -22,6 +22,7 @@ alyzr@masc%invmasc
 amh@fem%custom(nomsg=amh|cst(nomsg)=amt|nomplr=a67mw331t)
 amnim@neut%invpur
 a64mw331n000@masc%im
+amtsy@neut%invpur
 a62r62ts@fem%custom(nomplr=artswt|nomsg=a62r62ts)
 arwk@adj%adj
 a60s29864h@fem%custom(nomplr=nsim|cst(nomplr)=nsi&|nomsg=a60s29864h|cst(nomsg)=ast|decim-k=a60s29856t56k00064|decimplr-k=n64s29862ik00064|decimplr-h=nsihm000)
@@ -59,6 +60,7 @@ gidhanasheexpr@neut%invpur
 girsa@fem%invpur
 gm'@neut%invpur
 gmlial@masc%invmasc
+gmra@masc%invmasc
 g64n000@masc%im
 dlt@fem%im
 hayyimtyrer@neut%invpur
@@ -99,6 +101,7 @@ ibmwt@neut%invpur
 ibsh@fem%invpur
 ih@masc%invpur
 ihwh@masc%invmasc
+ihwdh@masc%invpur
 ihwswy@masc%invmasc%
 iw331m000@masc%custom(nomplr=imim000|cst(nomplr)=imi|cst(nomsg)=iwm&|nomsg=iwm000)
 iwsp@masc%invpur
@@ -142,6 +145,7 @@ lqrwth@neut%invmasc
 mamr@neut%im
 m64qw331m000@masc%mascot
 mbdil@neut%invpur
+mbwar@masc%invpur
 m60d56b30564r@masc%imdir
 mdrs@neut%im
 mawr@masc%custom(nomsg=mawr|nomplr=mart)
@@ -264,6 +268,7 @@ sdr@masc%im
 swkb@neut%invmasc
 skibh@neut%invmasc
 simn@masc%imsimple
+slwm@neut%invpur
 s29856mw309a61l@masc%invmasc
 slws@adj%im-ot
 slis@masc%im

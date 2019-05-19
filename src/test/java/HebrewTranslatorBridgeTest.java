@@ -343,7 +343,9 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFiles) {
         /*
         return Arrays.asList(new String[]{
-                "lmd$,,[paal],(ARAIPR%substitute%lmd$*lwmd*0)"
+                "amn,,[binyanpual],(BINHUPER%substitute(4)%hamna*hamn*0)",
+                "amn$,,[paal],(AIP*mn$*mn*0)"
+
         });
         */
         return getFileContentForRepository(verbFiles);

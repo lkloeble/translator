@@ -736,6 +736,107 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
     }
 
     @Test
+    public void test_clement4() {
+        checkInMaps("clement4A1", translatorBridge);
+        checkInMaps("clement4A2", translatorBridge);
+        checkInMaps("clement4B", translatorBridge);
+        checkInMaps("clement4C", translatorBridge);
+        checkInMaps("clement4D1", translatorBridge);
+        checkInMaps("clement4D2", translatorBridge);
+        checkInMaps("clement4E", translatorBridge);
+        checkInMaps("clement4F1", translatorBridge);
+        checkInMaps("clement4F2", translatorBridge);
+        checkInMaps("clement4F3", translatorBridge);
+        checkInMaps("clement4G", translatorBridge);
+        checkInMaps("clement4H", translatorBridge);
+        checkInMaps("clement4I", translatorBridge);
+        checkInMaps("clement4J1", translatorBridge);
+        checkInMaps("clement4J2", translatorBridge);
+        checkInMaps("clement4J3", translatorBridge);
+        checkInMaps("clement4K", translatorBridge);
+        checkInMaps("clement4L", translatorBridge);
+        checkInMaps("clement4M1", translatorBridge);
+        checkInMaps("clement4M2", translatorBridge);
+    }
+
+    @Test
+    public void test_hesiode_theogony1to100() {
+        checkInMaps("hesiodtheogony001", translatorBridge);
+        checkInMaps("hesiodtheogony002", translatorBridge);
+        checkInMaps("hesiodtheogony003", translatorBridge);
+        checkInMaps("hesiodtheogony004", translatorBridge);
+        checkInMaps("hesiodtheogony005", translatorBridge);
+        checkInMaps("hesiodtheogony006", translatorBridge);
+        checkInMaps("hesiodtheogony007", translatorBridge);
+        checkInMaps("hesiodtheogony008", translatorBridge);
+        checkInMaps("hesiodtheogony009", translatorBridge);
+        checkInMaps("hesiodtheogony010", translatorBridge);
+        checkInMaps("hesiodtheogony011", translatorBridge);
+        checkInMaps("hesiodtheogony012", translatorBridge);
+        checkInMaps("hesiodtheogony013", translatorBridge);
+        checkInMaps("hesiodtheogony014", translatorBridge);
+        checkInMaps("hesiodtheogony015", translatorBridge);
+        checkInMaps("hesiodtheogony016", translatorBridge);
+        checkInMaps("hesiodtheogony017", translatorBridge);
+        checkInMaps("hesiodtheogony018", translatorBridge);
+        checkInMaps("hesiodtheogony019", translatorBridge);
+        checkInMaps("hesiodtheogony020", translatorBridge);
+        checkInMaps("hesiodtheogony021", translatorBridge);
+        checkInMaps("hesiodtheogony022", translatorBridge);
+        checkInMaps("hesiodtheogony023", translatorBridge);
+        checkInMaps("hesiodtheogony024", translatorBridge);
+        checkInMaps("hesiodtheogony025", translatorBridge);
+        checkInMaps("hesiodtheogony026", translatorBridge);
+        checkInMaps("hesiodtheogony027", translatorBridge);
+        checkInMaps("hesiodtheogony028", translatorBridge);
+    }
+
+    @Test
+    public void test_hesiode_herodote_book1_chapter1() {
+        checkInMaps("herodote110A", translatorBridge);
+        checkInMaps("herodote110B", translatorBridge);
+        checkInMaps("herodote110C", translatorBridge);
+        checkInMaps("herodote110D", translatorBridge);
+        checkInMaps("herodote110E", translatorBridge);
+    }
+
+    @Test
+    public void test_homere_yliad_book1() {
+        checkInMaps("homereliv1lig001", translatorBridge);
+        checkInMaps("homereliv1lig002", translatorBridge);
+        checkInMaps("homereliv1lig003", translatorBridge);
+        checkInMaps("homereliv1lig004", translatorBridge);
+        checkInMaps("homereliv1lig005", translatorBridge);
+        checkInMaps("homereliv1lig006", translatorBridge);
+        checkInMaps("homereliv1lig007", translatorBridge);
+        checkInMaps("homereliv1lig008", translatorBridge);
+        checkInMaps("homereliv1lig009", translatorBridge);
+        checkInMaps("homereliv1lig010", translatorBridge);
+        checkInMaps("homereliv1lig011", translatorBridge);
+        checkInMaps("homereliv1lig012", translatorBridge);
+        checkInMaps("homereliv1lig013", translatorBridge);
+        checkInMaps("homereliv1lig014", translatorBridge);
+        checkInMaps("homereliv1lig015", translatorBridge);
+        checkInMaps("homereliv1lig016", translatorBridge);
+        checkInMaps("homereliv1lig017", translatorBridge);
+        checkInMaps("homereliv1lig018", translatorBridge);
+        checkInMaps("homereliv1lig019", translatorBridge);
+        checkInMaps("homereliv1lig020", translatorBridge);
+        checkInMaps("homereliv1lig021", translatorBridge);
+        checkInMaps("homereliv1lig022", translatorBridge);
+        checkInMaps("homereliv1lig023", translatorBridge);
+        checkInMaps("homereliv1lig024", translatorBridge);
+        checkInMaps("homereliv1lig025", translatorBridge);
+        checkInMaps("homereliv1lig026", translatorBridge);
+        checkInMaps("homereliv1lig027", translatorBridge);
+        checkInMaps("homereliv1lig028", translatorBridge);
+        checkInMaps("homereliv1lig029", translatorBridge);
+        checkInMaps("homereliv1lig030", translatorBridge);
+        checkInMaps("homereliv1lig031", translatorBridge);
+        checkInMaps("homereliv1lig032", translatorBridge);
+    }
+
+    @Test
     public void test_failed_ones() {
         assertTrue(true);
         checkInMaps("anaxQ3", translatorBridge);

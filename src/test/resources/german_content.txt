@@ -687,7 +687,18 @@ strackp11par086=>Er ließ den Erdstaub in Haufen zus bringen und Siebe Herbeisch
 strackp11par087=>Dann siebte man den ersten Haufen, fand sie aber nicht; auch im zweiten fand man sie nicht.
 strackp11par088=>Endlich im dritten fand man sie.
 strackp11par089=>Da riefen sie : Der König hat seine Perle gefunden !
-
+strackp11par090=>So sprach Gott : was hatte ich nötig, den Namen eines Arpakhschad, Schelar, Eber, Peleg, Reu, Serug,
+strackp11par091=>Nachor und Therach in der Genealogie (Gn 11) aufzuführen ?
+strackp11par092=>Aber deinetwillen (Abraham) ist es geschehen : “du hast sein Herz true vor dir erfunden” (Neh 9,8).
+strackp11par093=>Ebenso hat Gott auch zu David gesagt : Was hatte ich nötig, einen Perec, Checron, Ram, Amminadab, Nachson,
+strackp11par094=>Salmon, Boaz, Obed u. Ischai in der Genealogie (Ruth 4) aufzüfuhren ?
+strackp11par095=>David, ist es nicht um deinetwillen geschehen ?
+strackp11par096=>“ich habe David gefunden, meinen Knecht, mit meinem heiligen Öl ihn gesalbt” Ps 89,21.
+strackp11par097=>– In Midrash Ruth Ende warden als Autoren gennant R. Berekhja u. R. Simon (um 280);
+strackp11par098=>in Jalqut Neh 9,8 § 1071 R. Berekhja u. R. Simon in Namen des R. Nechemja;
+strackp11par099=>einzelnes daraus anonym auch Tanch וישב (42b)
+strackp11par100=>– In einer allegorischen Auslegung der Opferdarbringungen Nachsons (Nu 7:15) wird Abraham als ציקר ה-חס,
+strackp11par101=>d.h. als Wurzel oder Hauptsache der Genealogie Israels bezeichnet, s. NuR 13 (170c).
 
 
 genesis1A=>Am Anfang@n schuf Gott Himmel und Erde.

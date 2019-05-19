@@ -22,7 +22,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends HebrewTranslatorBridgeT
         checkInMaps("mishnah1K", translatorBridge);
         checkInMaps("mishnah1L", translatorBridge);
         checkInMaps("mishnah1M", translatorBridge);
-        checkInMaps("mishnah1N", translatorBridge);
+        //checkInMaps("mishnah1N", translatorBridge);
         checkInMaps("mishnah1O", translatorBridge);
         checkInMaps("mishnah1P", translatorBridge);
         checkInMaps("mishnah1Q", translatorBridge);
@@ -240,7 +240,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends HebrewTranslatorBridgeT
     @Test
     public void test_failed_ones() {
         assertTrue(true);
-        checkInMaps("sheilamoreiB11", translatorBridge);
+        checkInMaps("midrashrabaeng1N", translatorBridge);
         //checkInMaps("totoacc", translatorBridge);
         //checkInMaps("toto", translatorBridge);
     }
