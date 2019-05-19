@@ -685,6 +685,40 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         //checkInMaps("staniloae7AK", translatorBridge);
     }
 
+    @Test
+    public void test_staniloae_ch1_point8() {
+        checkInMaps("staniloae8A01", translatorBridge);
+        checkInMaps("staniloae8A02", translatorBridge);
+        checkInMaps("staniloae8A03", translatorBridge);
+        checkInMaps("staniloae8A04", translatorBridge);
+        checkInMaps("staniloae8A05", translatorBridge);
+        checkInMaps("staniloae8A06", translatorBridge);
+        checkInMaps("staniloae8A07", translatorBridge);
+        checkInMaps("staniloae8A08", translatorBridge);
+        checkInMaps("staniloae8A09", translatorBridge);
+        checkInMaps("staniloae8A10", translatorBridge);
+        checkInMaps("staniloae8A11", translatorBridge);
+        checkInMaps("staniloae8A12", translatorBridge);
+        checkInMaps("staniloae8A13", translatorBridge);
+        checkInMaps("staniloae8A14", translatorBridge);
+        checkInMaps("staniloae8A15", translatorBridge);
+        checkInMaps("staniloae8A16", translatorBridge);
+        checkInMaps("staniloae8A17", translatorBridge);
+        checkInMaps("staniloae8A18", translatorBridge);
+        checkInMaps("staniloae8A19", translatorBridge);
+        checkInMaps("staniloae8A20", translatorBridge);
+        checkInMaps("staniloae8A21", translatorBridge);
+        checkInMaps("staniloae8A22", translatorBridge);
+        checkInMaps("staniloae8A23", translatorBridge);
+        checkInMaps("staniloae8A24", translatorBridge);
+        checkInMaps("staniloae8A25", translatorBridge);
+        checkInMaps("staniloae8A26", translatorBridge);
+        checkInMaps("staniloae8A27", translatorBridge);
+        checkInMaps("staniloae8A28", translatorBridge);
+        checkInMaps("staniloae8A29", translatorBridge);
+        checkInMaps("staniloae8A30", translatorBridge);
+        checkInMaps("staniloae8A31", translatorBridge);
+    }
 
     @Test
     public void test_trone_de_fer_chapter1() {
