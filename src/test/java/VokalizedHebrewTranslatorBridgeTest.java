@@ -106,6 +106,15 @@ public class VokalizedHebrewTranslatorBridgeTest extends HebrewTranslatorBridgeT
         checkInMaps("sheilamoreiB10", translatorBridge);
         checkInMaps("sheilamoreiB11", translatorBridge);
         checkInMaps("sheilamoreiB12", translatorBridge);
+        checkInMaps("sheilamoreiC1", translatorBridge);
+        checkInMaps("sheilamoreiC2", translatorBridge);
+        checkInMaps("sheilamoreiC3", translatorBridge);
+        checkInMaps("sheilamoreiC4", translatorBridge);
+        checkInMaps("sheilamoreiC5", translatorBridge);
+        checkInMaps("sheilamoreiC6", translatorBridge);
+        checkInMaps("sheilamoreiC7", translatorBridge);
+        checkInMaps("sheilamoreiC8", translatorBridge);
+        checkInMaps("sheilamoreiC9", translatorBridge);
     }
 
     @Test
@@ -240,7 +249,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends HebrewTranslatorBridgeT
     @Test
     public void test_failed_ones() {
         assertTrue(true);
-        checkInMaps("midrashrabaeng1N", translatorBridge);
+        checkInMaps("bereshit1V", translatorBridge);
         //checkInMaps("totoacc", translatorBridge);
         //checkInMaps("toto", translatorBridge);
     }

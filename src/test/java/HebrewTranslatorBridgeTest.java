@@ -343,8 +343,7 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFiles) {
         /*
         return Arrays.asList(new String[]{
-                "amn,,[binyanpual],(BINHUPER%substitute(4)%hamna*hamn*0)",
-                "amn$,,[paal],(AIP*mn$*mn*0)"
+                "brk$,,[binyanpual],(BINPUFUT%substitute%rk$*rk*0@BINPUPER%substitute%rk$*rk*0)"
 
         });
         */
@@ -439,7 +438,8 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
 
     private List<String> getBinyalPualDefinition() {
         return Arrays.asList(new String[]{
-                "BINPUPER=>ti,t|t,|h,nw,tm|tn,w309"
+                "BINPUPER=>ti,t|t,|h,nw,tm|tn,w309",
+                "BINPUFUT=>*a*@,*t*@|*t*i,*i*@|*t*@,*n*@,*t*w|*t*nh,*i*w|*t*nh"
         });
     }
 
@@ -447,7 +447,8 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
         return Arrays.asList(new String[]{
                 "BINPER=>*@*ti,*@*t,*@*@|*@*h,*@*nw309,*@*m000|*@*n000,*@*w309",
                 "BINPRE=>*m*@|*m*t,*m*@|*m*t,*m*@|*m*t,*m*im000|*m*wt,*m*im000|*m*wt,*m*im000|*m*wt",
-                "BINPART=>*m*h|*m*it,*m*im|*m*wt"
+                "BINPART=>*m*h|*m*it,*m*im|*m*wt",
+                "BINIMPERA=>*@*@|*@*i,*@*w|*@*nh"
         });
     }
 

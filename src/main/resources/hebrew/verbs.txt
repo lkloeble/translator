@@ -1,5 +1,6 @@
 abl,abwl,[paal]
 awr,hair,[binyanhifil],(BINHIPER%substitute(1:2:3:6:7:8)%awr*art*0@BINHIPER%substitute(4:5:9)%awr*air*0@BINHIPRE%substitute%awr*air*0)
+aiir,,[binyan]
 akl,,[paal],(AIP%leadingrootletter%a*a64@AIP%secondletterroot%k*k64@AIP%alternateaccentuation(5:9)%k64*k56@IPR%substitute%akl*awkl*0@ARAIPR%substitute%akl*awkl*0)
 akwl,,[paal]
 amn,,[binyanpual],(BINHUPER%substitute(4)%hamna*hamn*0)
@@ -13,6 +14,7 @@ bwa,hbia,[hiphil]
 b'hr,,[paal],(IPR%substitute%b'h*bw'h*0)
 bra,,[paal],(AIP%leadingrootletter%*b30564@AIP%secondletterroot%r*r64@AIP%secondletterrootexception(5:9)%r*r56@AIP%alternateaccentuation%b30564*b64@IPR%substitute%br*bwr*0
 brk,,[binyan]
+brk$,,[binyanpual],(BINPUFUT%substitute%rk$*rk*0@BINPUPER%substitute%rk$*rk*0)
 grs,,[paal],(ARAIPR%substitute%grs*gwrs*0)
 dbr,,[piel],(PIEPER%leadingrootletter%d*d60@PIEPER%secondletterroot%b*b63@PIEPER%alternateaccentuation(4)%b63*b30562@PIEPER%alternateaccentuation(5:9)%b63*b30556)
 dnn,,[paal],(AIP%substitute%nn*n*0)
@@ -32,6 +34,7 @@ xma,,[nifal]
 zkh,,[paal],(AIP%substitute%kh*ki*0)
 zkr,zkwr,[paal],(IPR%substitute%zk*zwk*0@AIF%alternateaccentuation%zkr*zkwr*)
 zkr$,hzkir,[binyanhifil],(ARAPRE%substitute%kr$*kr*0@ARAPRE%substitute%kr*kir*0)
+zrq,,[nifal]
 zry,,[paal],(IPR%substitute%zr*zwr*0)
 zry$,,[hiphil],(HIFPART%substitute%y$*iy*0)
 idy,,[paal],(AIP%leadingrootletter%i*i64@AIP%secondletterroot%d*d63@AIP%alternateaccentuation(5:9)%d63*d56@AIP%alternateaccentuation(5)%y*y64@IPR%substitute%id*iwd*0)

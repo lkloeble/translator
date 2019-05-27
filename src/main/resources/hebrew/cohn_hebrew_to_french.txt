@@ -24,6 +24,7 @@ a62'h64d@noun!empty%1(noun)=un
 a63'h63t@noun!empty%1(noun)=une
 aikh@noun!invpur%1(noun)=lamentations (livre biblique)
 akilt@noun!invpur%1(noun)=manger
+aiir@verb!norm%1(verb)=illustrer
 ailk000@prep%1(prep)=désormais
 ain@prep%1(prep)=il n'y a pas
 ainw@prep%1(prep)=ce n'est pas
@@ -64,6 +65,7 @@ anki@prep%1(prep)=je
 a64n65k60i@prep%1(prep)=je
 a58n6363'hnw309@prep%1(prep)=nous
 arwk@adj!adj%1(adj)=long
+arih@noun!invpur%1(noun)=lion
 ark@verb!norm%1(verb)=prolonger
 a62r62ts@noun!custom(nomplr=artswt|nomsg=a62r62ts)%1(noun)=pays%2(noun)=terre
 aswr@adj!im-ot%1(noun)=interdit
@@ -118,9 +120,11 @@ b64nw309@prep%1(prep)=en nous
 bytsmk@prep%1(prep)=en personne
 b30565q62r@noun!im%1(noun)=matin
 bwqr@noun!im%1(noun)=matin
+biat@noun!invpur%1(noun)=venue
 b60q62r@noun!im%1(noun)=matin
 bra@verb!norm%1(noun)=creer
 brk@verb!norm%1(noun)=benir
+brk$@verb!norm%1(noun)=benir
 b30556r60it@noun!mascot%1(noun)=alliance
 brii'@noun!invpur%1(noun)=beraitha
 b56r64k64@noun!ot%1(noun)=bénédiction
@@ -134,6 +138,7 @@ g63m000@prep%1(prep)aussi%2(prep)=même%3(prep)=encore
 gdl@adj!im-ot%(adj)=grand
 g64dw331l@adj!im-ot%(adj)=grand
 gwi@noun!custom(nomplr=gwim|nomsg=gwi)%1(noun)=gentil%2(noun)=nation
+gwr@noun!invpur%1(noun)=bébé
 gidhanasheexpr@noun!invpur%1(noun)=nerf sciatique
 girsa@noun!invpur%1(noun)=variante%2(noun)=version
 gm'@noun!invpur%1(noun)=gémara
@@ -144,10 +149,12 @@ grs@verb!norm%1(verb)=declarer
 d@prep%1(prep)=qui
 dbr@verb!norm%1(verb)=parler
 dbri@noun!invmasc%1(noun)=paroles de
+dhai@noun!invpur%1(noun)=xxxdhaixxxpas traduitxxxx
 din@noun!invmasc%1(noun)=droit%2(noun)=justice
 dlt@noun!im%1(noun)=lettre d%2(noun)=porte
 dnn@verb!norm%1(verb)=discuter
 dyt@noun!invpur%1(noun)=opinion
+dm@noun!im%1(noun)=sang
 dp@noun!im%1(noun)=page
 d64b64r@noun!im%1(noun)=chose,acte%2(noun)=parole
 dktib@prep%1(prep)=comme dit l'écriture
@@ -155,6 +162,7 @@ dla@prep%1(prep)=qui n'est pas
 drk@noun!im%1(noun)=voie%2(noun)=chemin
 drs@verb!norm%1(verb)=demander%2(verb)=rechercher
 drsh@noun!invpur%1(noun)=interprétation
+drsinn@noun!invpur%1(noun)=xxxxdarshinenxxxpas traduitxxx
 dsa@noun!im%1(noun)=végétation
 dsa@verb!norm%1(verb)=verdir
 h@prep%1(prep)=le[les,la]
@@ -217,6 +225,7 @@ zwma@noun!invpur%(noun)=zoma
 zry@noun!im%1(noun)=semence
 zry@verb!norm%1(verb)=semer
 zry$@verb!norm%1(verb)=semer
+zrq@verb!norm%1(verb)=etrelance
 ztslexpr@noun!invpur%1(noun)=de mémoire bénie
 'hds@adj!im-ot%1(noun)=mois%2(adj)=nouveau
 'h65d62s@noun!im%1(noun)=mois
@@ -252,6 +261,8 @@ iwsp@noun!invpur%1(noun)=joseph
 ilqwx@noun!invpur%1(noun)=yalkout
 i61y58q65b@noun!invmasc%1(noun)=jacob
 imwt@noun!invpur%1(noun)=jours
+irah@noun!invpur%1(noun)=peur
+irb@noun!invpur%1(noun)=se multiplie
 irwslmi@noun!invpur%1(noun)=iéroushalmi (talmud)
 itsia@noun!endingh%1(noun)=sortie%2(noun)=exode
 i60r56a63t@noun!imonly%1(noun)=crainte
@@ -433,6 +444,7 @@ pirws@noun!im%1(noun)=commentaire
 p64n64@noun!im-fem%1(noun)=face
 p56r60i@noun!im%1(noun)=fruit
 praexpr@noun!invpur%1(noun)=pirqé de rabbi eliezer
+prw@noun!invpur%1(noun)=portez du fruit
 pryh@noun!invpur%1(noun)=pharaon
 prs@noun!endingh%1(noun)=parasha
 prs@verb!norm%1(verb)=interpreter
@@ -441,6 +453,7 @@ psd@verb!norm%1(verb)=perdre
 pswq@noun!im%1(noun)=verset%2(noun)=passage
 pti'h@noun!ot%1(noun)=ouverture
 pt'h@verb!norm%1(verb)=ouvrir
+pt'hih@noun!invpur%1(noun)=petahya (ville d'israël)
 tsat@noun!invpur%1(noun)=sortie
 tsdq@noun!im%1(noun)=justice
 tswh@verb!norm%1(verb)=ordonner
@@ -464,6 +477,7 @@ qm@noun!im%1(noun)=ennemi
 qmlexpr@noun!invpur%1(noun)=il nous enseigne
 qmn000@prep%1(prep)=avant
 qmn@prep%1(prep)=avant
+qnin@noun!invpur%1(noun)=propriété
 qra@verb!norm%1(verb)=crier%2(verb)=lire%3(verb)=appeler
 qrbn@noun!mascot%1(noun)=victime%2(noun)=sacrifice rituel (qorban)
 qrwa@noun!invmasc%1(noun)=lecture
@@ -482,6 +496,7 @@ ydiin000@prep()%1(prep)=toujours
 ywlm@noun!im%1(noun)=globe%2(noun)=terre%2(noun)=monde
 ywp@noun!mascot%1(noun)=oiseau
 yzrih@noun!invpur%1(noun)=azarya
+ykb@noun!ot%1(noun)=retard
 yl@prep%1(prep)=en faveur de%2(prep)=au dessus de%3(noun)=sur
 yli@prep%1(prep)=en faveur de%2(prep)=au dessus de%3(noun)=sur
 y63l@prep%1(prep)=en faveur de%2(prep)=au dessus de%3(noun)=sur
@@ -520,19 +535,20 @@ ytsmi@prep%1(prep)=moi-même
 tswtn@noun!invmasc%1(noun)=précepte
 tsrik@noun!im%1(noun)=besoin
 r'@noun!invpur%1(noun)=rabbi
-rb@noun!im%1(noun)=rabbin
 ra65s298@noun!im%1(noun)=tête
 r61as60it@noun!invmasc%1(noun)=commencement
 raexpr@noun!invpur%1(noun)=rabbi eliezer
 raswn@adj!im-ot%1(noun)=commencement%2(adj)=premier
 rah@verb!norm%1(noun)=apparaitre%2(verb)=voir
-rdp@verb!norm%1(noun)=suivre
+rbw@noun!invpur%1(noun)=multiplie
 rbh@noun!invpur%1(noun)=grand
 rbi@noun!invmasc%1(noun)=rabbi
+rbnw@noun!invmasc%1(noun)=notre rabbi
 r56b60iy60i@noun!invmasc%1(noun)=quatrième
 rbn@noun!invmasc%1(noun)=rabban
 rbta@noun!invpur%1(noun)=important
 rgil@adj!im-ot%1(adj)=habituel
+rdp@verb!norm%1(noun)=suivre
 rwb@prep%1(prep)=la plupart
 rw'h63@noun!invpur%1(noun)=esprit%2(noun)=souffle
 r63y@noun!im-ot%1(noun)=mauvais
@@ -589,6 +605,7 @@ spr@noun!im%1(noun)=livre
 srts@verb!norm%1(verb)=grouiller
 sy@noun!endingh%1(noun)=heure
 swp@noun!im%1(noun)=fin
+sql@noun!imonly%1(noun)=shékel
 s63y58s298w309y60@noun!im%1(noun)=divertissement
 s62r62ts@noun!im%1(noun)=insecte
 srh@noun!invpur%1(noun)=sarah
