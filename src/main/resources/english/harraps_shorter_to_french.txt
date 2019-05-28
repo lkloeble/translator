@@ -874,6 +874,7 @@ heaven@noun!normmasc%1(noun)=ciel
 hebraist@noun!normmasc%1(noun)=hébraïste
 hebrew@noun!normmasc%1(noun)=hébreu
 hebron@noun!invmasc%1(noun)=hébron
+hedge@noun!normmasc%1(noun)=haie
 heed@verb!norm%1(verb)=preterattention
 heel@noun!normmasc%1(noun)=talon
 height@noun!normfem%1(noun)=plénitude%2(noun)=hauteur
@@ -1488,6 +1489,7 @@ providence@noun!invmasc%1(noun)=providence
 provision@noun!normmasc%1(noun)=provision
 psalm@noun!normmasc%1(noun)=psaume
 publican@noun!normmasc%1(noun)=publicain
+publicly@noun!invmasc%1(noun)=publiquement
 publish@verb!norm%1(verb)=publier
 punishment@noun!normmasc%1(noun)=punition
 purify@verb!norm%1(verb)=purifier

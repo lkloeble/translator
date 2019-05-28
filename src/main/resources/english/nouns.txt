@@ -590,6 +590,7 @@ heaven@masc%normmasc
 hebraist@masc%normmasc
 hebrew@masc%normmasc
 hebron@neut%invmasc
+hedge@neut%normmasc
 heel@masc%normmasc
 height@fem%normfem
 heli@masc%invmasc
@@ -1024,6 +1025,7 @@ providence@neut%invmasc
 provision@neut%normmasc
 psalm@neut%normmasc
 publican@neut%normmasc
+publicly@neut%invmasc
 punishment@neut%normmasc
 purpose@neut%normmasc
 purposed@neut%invmasc
