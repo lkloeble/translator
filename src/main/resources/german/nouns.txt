@@ -100,6 +100,7 @@ aufgabe@fem%flasche
 aufgewendet@adj%ausreichend
 auflosung@fem%meinfem
 aufregend@adj%ausreichend
+aufregung@fem%meinfem
 aufstellung@fem%meinfem
 aufwiedersehen@neut%inv
 aufwiederhoren@neut%inv
@@ -148,13 +149,14 @@ bastard@neut%bastard
 baum@neut%jahrzehnt
 bauamt@neut%inv
 beamt@masc%artist
+bedenklichkeit@fem%meinfem
 bedeutsamkeit@fem%meinfem
 bedeutung@fem%meinfem
 bedeutungslos@adj%ausreichend
 bedingung@fem%meinfem
+bedurfnis@neut%erkenntnis
 befreiung@fem%meinfem
 begrundung@fem%meinfem
-bedurfnis@neut%erkenntnis
 befremdlich@adj%ausreichend
 begehren@neut%inv
 begriff@masc%jahrzehnt
@@ -953,6 +955,7 @@ mischna@neut%inv
 missmutigkeit@fem%meinfem
 missratensein@masc%arbeiter
 misstrauisch@adj%ausreichend
+missverstandnis@neut%erkenntnis
 mitarbeiter@masc%norm
 mitgleid@neut%inv
 mitteilbar@adj%ausreichend

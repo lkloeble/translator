@@ -145,6 +145,7 @@ aufles@verb!norm%1(verb)=ramasser
 auflosung@noun!meinfem%1(noun)=dissolution
 aufputz@verb!norm%1(verb)=nettoyer
 aufregend@adj!ausreichend%1(adj)=excitant
+aufregung@noun!meinfem%1(noun)=excitation
 aufricht@verb!norm%1(verb)=dresser
 aufstell@verb!norm%1(verb)=preparer
 aufstellung@noun!meinfem%1(noun)=relevé%2(noun)=inventaire%3(noun)=liste
@@ -220,6 +221,7 @@ bearbeit@verb!norm%1(verb)=editer
 bedarf@verb!norm%1(verb)=avoirbesoin
 bedau@verb!norm%1(verb)=regretter
 bedenk@verb!norm%1(verb)=considerer
+bedenklichkeit@noun!meinfem%1(noun)=préoccupation
 bedeut@verb!norm%1(verb)=signifier
 bedeutsamkeit@noun!meinfem%1(noun)=importance
 bedeutung@noun!meinfem%1(noun)=signification
@@ -1436,6 +1438,7 @@ mischna@noun!inv%1(noun)=mishna
 missmutigkeit@noun!meinfem%1(noun)=morosité
 missratensein@noun!arbeiter%1(noun)=faillite
 misstrauisch@adj!ausreichend%1(adj)=méfiant
+missverstandnis@noun!erkenntnis%1(noun)=incompréhension
 mit@prep%1(prep)=avec
 mitarbeiter@noun!norm%1(noun)=collaborateur
 miteinzuschliess@verb!norm%1(verb)=inclure
@@ -1881,6 +1884,7 @@ sicherlicht@prep%1(prep)=certainement
 sicht@verb!norm%1(verb)=trier%2(verb)=classifier%3(verb)=organiser
 sie@prep%1(prep)=vous%2(prep)=eux%3(prep)=elle[ils]
 sieb@noun!jahrzehnt%1(noun)=tamis
+sieb@verb!norm%1(verb)=trier
 sieben@noun!inv%1(noun)=sept
 siebenfaltig@noun!inv%1(noun)=septuple
 siebenten@noun!inv%1(noun)=septième

@@ -328,6 +328,7 @@ send,en,[mochten]
 servier,en,[leben]
 setz,en,[setzen],(PAP*set*geset*0)
 sicht,en,[mochten]
+sieb,en,[leben]
 sing,en,[leben],(PAPR*sing*singend*0@PAP*sing*gesungen*0)
 sinn,en,[rufen],(AIP*sin*san*0)
 sitz,en,[lassen],(IPR1*sitzst*sitzt*0@AIP*sitz*sass*0)
