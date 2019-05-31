@@ -47,3 +47,4 @@ apas%apas.txt
 ους-ους-ουν%tetrapous.txt
 ους-ουσα-ον%didous.txt
 ων-ουσα-ον%lambanon.txt
+perso%perso.txt

@@ -86,12 +86,12 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
     }
 
     private List<String> getNouns(String nounFileDescription) {
-        /*
+            /*
             return Arrays.asList(new String[]{
-                    "θε@masc%ος-ου"
+                    "αχιλευς@neut%inv[gensg:αχιληος]"
             });
             */
-        return getFileContentForRepository(nounFileDescription);
+            return getFileContentForRepository(nounFileDescription);
         }
 
     private List<Declension> getDeclensionList(String file, String directory) {
@@ -792,7 +792,7 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
     }
 
     @Test
-    public void test_hesiode_herodote_book1_chapter1() {
+    public void test_herodote_book1_chapter1() {
         checkInMaps("herodote110A", translatorBridge);
         checkInMaps("herodote110B", translatorBridge);
         checkInMaps("herodote110C", translatorBridge);
@@ -839,7 +839,7 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failed_ones() {
         assertTrue(true);
-        checkInMaps("anaxQ3", translatorBridge);
+        checkInMaps("hesiodtheogony001", translatorBridge);
         //checkInMaps("toto3", translatorBridge);
     }
 }
