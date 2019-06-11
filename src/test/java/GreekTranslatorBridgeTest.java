@@ -88,7 +88,7 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getNouns(String nounFileDescription) {
             /*
             return Arrays.asList(new String[]{
-                    "αχιλευς@neut%inv[gensg:αχιληος]"
+                    "μωυσης@neut%inv[accsg:μωυσην]"
             });
             */
             return getFileContentForRepository(nounFileDescription);
@@ -108,7 +108,7 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "εκβαιν,ειν,[ω-εις],(PARAORINFACT*εκβαινσ*εκβην*0)"
+                "διερχ,ομαι,[ομαι-η],(AORACTSUBJ*διερχ*διελθ*0)"
         });
         */
         return getFileContentForRepository(verbFileDescription);
@@ -839,7 +839,7 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failed_ones() {
         assertTrue(true);
-        checkInMaps("hesiodtheogony001", translatorBridge);
+        checkInMaps("clement4M2", translatorBridge);
         //checkInMaps("toto3", translatorBridge);
     }
 }

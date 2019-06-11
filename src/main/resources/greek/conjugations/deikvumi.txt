@@ -7,3 +7,5 @@ AORPASSPART=>οι
 AORPASIND=>ην,ης,η,ημεν,ητε,ησαν
 ACAOOP=>ην,ης,η,μεν,τε,εν
 PERFACTIND=>α,ας,ε,αμεν,ατε,ασι
+ACAOIN=>ην,ης,η,ημεν,ητε,ησαν
+ACAOINBIS=>-x,-x,εν,-x,-x,-x

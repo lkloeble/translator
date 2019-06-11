@@ -47,6 +47,8 @@
 επιgen@prep()
 επιdat@prep()
 επιμελως@prep()
+εφ@prep()
+εχθες@prep()
 ηδε@prep()
 ηδη@prep()
 ηι@prep()
@@ -72,7 +74,9 @@
 λαθρα@prep()
 λιαν@prep()
 μαλλον@prep()
+με@prep(acc)
 μεγαλως@prep()
+μεχρι@prep()
 μεθ@prep%[electGenitiveForFollowingNoun(μεταgen),electAccusativeForFollowingNoun(μεταacc)]
 μετ@prep%[electGenitiveForFollowingNoun(μεταgen),electAccusativeForFollowingNoun(μεταacc)]
 μετα@prep%[electGenitiveForFollowingNoun(μεταgen),electAccusativeForFollowingNoun(μεταacc)]
@@ -89,6 +93,7 @@
 νυν@prep()
 οδε@prep()
 οιον@prep()
+ον@prep()
 οντων@prep()
 οπως@prep()
 ορθως@prep()
