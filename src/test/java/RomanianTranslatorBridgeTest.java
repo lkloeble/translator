@@ -899,7 +899,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("patericulegyptantonia4B", translatorBridge);
+        checkInMaps("staniloae8A13", translatorBridge);
     }
     
 }

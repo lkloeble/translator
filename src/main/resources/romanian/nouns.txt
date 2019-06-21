@@ -30,8 +30,10 @@ amintit@adj%adj
 ammonas@masc%inv
 an@masc%ul
 ana@fem%inv
+analiz@fem%fem
 anecdot@fem%fem
-animal@masc%fem
+animal@fem%fem
+animal@masc%ul
 antonie@masc%inv
 ap@fem%fem
 aparat@masc%ul
@@ -474,6 +476,7 @@ necesar@adj%adj
 necesitat@fem%berea
 necunoscut@adj%adj
 nedrept@adj%adj
+nefericit@adj%adjts
 negr@adj%adj
 nehotarit@adj%adjts
 neintselegator@adj%adj
@@ -481,7 +484,9 @@ neplacut@adj%adj
 nepotrivit@adj%adjts
 neprihanir@fem%berea
 nesfarsit@adj%adjts
+nesocotit@adj%adjts
 nesuferit@adj%adjts
+netrecat@adj%adjor
 nevast@fem%fem
 nici@neut%inv
 niciodata@neut%inv
@@ -667,7 +672,7 @@ scump@adj%adj
 seam@fem%fem
 sear@fem%fem
 secret@masc%ul
-sens@masc%ul
+sens@masc%locul
 sens@neut%inv
 sensur@fem%fem
 sentimental@adj%adj
@@ -777,6 +782,7 @@ unitat@fem%berea
 urgi@fem%fem
 urias@masc%ul
 urm@fem%fem
+urmarir@fem%berea
 urmas@masc%ul
 urs@masc%ul
 us@fem%fem
@@ -784,6 +790,7 @@ usor@adj%adj
 usuoar@adj%adj
 va@neut%inv
 vadit@adj%adj
+valoar@fem%berea
 valor@adj%pacatos
 valorificare@neut%inv
 vampir@masc%ul

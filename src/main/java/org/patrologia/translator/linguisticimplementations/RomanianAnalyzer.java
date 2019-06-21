@@ -49,7 +49,8 @@ public class RomanianAnalyzer implements Analizer {
     }
 
     private String replaceExpressions(String characterAlphaOnly) {
-        return characterAlphaOnly.replace("s.a.m.d", "samd");
+        String replace = characterAlphaOnly.replace("s.a.m.d", "samd");
+        return replace.replace("s[a]_si","sasiexpr");
     }
 
     private Phrase identifyFemininePastParticipe(Phrase phrase) {

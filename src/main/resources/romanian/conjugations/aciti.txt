@@ -3,3 +3,4 @@ AII=>am,ai,a,am,atsi,au
 AIPP=>isem,isesi,ise,iseram,iseratsi,isera
 PAPR=>ind|indu
 PAP=>[adj]
+ASP=>esc,esti,asca,im,itsi,asca

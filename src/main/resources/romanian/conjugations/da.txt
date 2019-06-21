@@ -1,3 +1,4 @@
 IPR=>u,i,,m,tsi,u
 PAP=>[adj]
 PAPR=>nd
+ASP=>au,ai,ea,am,atsi,ea

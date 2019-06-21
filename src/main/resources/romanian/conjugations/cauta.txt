@@ -6,3 +6,4 @@ AIP=>ai,asi,a,aram,aratsi,ara
 AIF=>va,siva,ava,amva,atsiva,ava,
 PAPR=>and
 PAP=>[adj]
+ACP=>,si,a,am,atsi,a

@@ -108,13 +108,6 @@ public class VerbRepository {
     }
 
     public boolean hasVerb(String initialValue) {
-        /*
-        List<String> strings = new ArrayList<>(conjugationsMap.keySet());
-        Collections.sort(strings);
-        for(String s : strings) {
-            if(s.startsWith("auto")) System.out.println(s);
-        }
-        */
         boolean firstResult = conjugationsMap.containsKey(accentuer.unaccentued(initialValue));
         return (firstResult) ? firstResult : conjugationsMap.containsKey(accentuer.unaccentued(infinitiveBuilder.getInfinitiveFromInitialValue(initialValue)));
     }
@@ -129,7 +122,9 @@ public class VerbRepository {
     }
 
     public Collection<Verb> getVerbs(String initialValue) {
-        return verbMap.getAllVerbs(initialValue);
+        Collection<Verb> allVerbs = verbMap.getAllVerbs(initialValue);
+        if(allVerbs != null && allVerbs.size() > 0) return allVerbs;
+        return verbMap.getAllVerbs(accentuer.unaccentued(initialValue));
     }
 
     public TranslationInformationBean getAllFormsForTheVerbRoot(String root) {
@@ -145,30 +140,6 @@ public class VerbRepository {
     public String getConjugationSysnonym(String constructionName) {
         return conjugationFactory.getConjugationSynonym(new DefaultVerbDefinition(constructionName));
     }
-
-    /*
-    public List<String> getAllFormsForRoot(List<String> stopWords, Conjugation conjugation) {
-        List<String> allWordsForRoot = new ArrayList<>();
-        Collection<Verb> values = verbMap.values();
-        for (String root : stopWords) {
-            boolean wasFound = false;
-            for (Verb verb : values) {
-                String verbRoot = verb.getRoot();
-                if (root.equals(verbRoot)) {
-                    TranslationInformationBean translationInformationBean = getAllFormsForTheVerbRoot(root);
-                    for (String formConjuged : translationInformationBean.allForms()) {
-                        allWordsForRoot.add(formConjuged);
-                    }
-                    wasFound = true;
-                }
-            }
-            if (!wasFound) {
-                allWordsForRoot.add(root);
-            }
-        }
-        return allWordsForRoot;
-    }
-    */
 
     public List<String> getValuesStartingWith(String beginningPattern) {
         Set<String> verbValues = new HashSet<>();
@@ -270,10 +241,6 @@ public class VerbRepository {
     public boolean isConjugation(Verb verb, String conjugationName) {
         RootedConjugation rootedConjugation = rootedConjugationMap.get(verb.getRoot() + "@PAP");
         return rootedConjugation != null && rootedConjugation.contains(verb.getInitialValue());
-    }
-
-    public void decorateWithLanguage(SpecificLanguageSelector languageSelector) {
-        this.specificLanguageSelector = languageSelector;
     }
 
     public InfinitiveBuilder getInfinitiveBuilder() {
