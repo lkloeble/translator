@@ -39,3 +39,4 @@ scoate%scoate.txt
 succeda%succeda.txt
 incheia%incheia.txt
 cuvine%cuveni.txt
+hrani%hrani.txt

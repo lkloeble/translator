@@ -4,7 +4,7 @@ adanc,i,[aciti]
 adorm,i,[dorm]
 aduc,,[face],(PAP*aduc*adus*0)
 afirm,,[incerca]
-afl,,[intampla]
+afl,,[intampla],(PAP*afl*aflat*0)
 ajung,,[merg],(AII*ajung*ajunge*0@PAP*ajung*ajuns*0)
 ajut,,[cauta]
 aleg,a,[incerca],(IPR25*aleg*aleag*0)
@@ -70,6 +70,9 @@ deschi,,[vinde]
 descop,,[descopar]
 desfasoar,,[incerca]
 deven,i,[deveni],(PAP*devinat*devenit*0@IPR0125*deven*devin*0@AIP01*deven*devi*0@AIP25*deven*devin*0@ACPINF*deven*ardeveni*0)
+dezvolt,,[cauta]
+dispar,,[merg]
+dispu,,[ramane]
 doar,,[dorm],(IPR0*doar*dor*0)
 doband,,[aciti],(PAP*doband*dobandit*0)
 dor,,[aciti],(PAP*dor*dorit*0)
@@ -92,8 +95,10 @@ gind,,[mantui]
 gol,i,[aciti]
 gon,i,[aciti],(PAP*gon*gonit*0)
 hotar,i,[hotarasc]
+hran,,[hrani]
 ies,,[dorm]
 imbatran,i,[aciti]
+imbogats,,[aciti],(ASP25*imbogats*imbogatse*0)
 impart,,[impart]
 implic,,[cauta],(PAP*implic*implicat*0)
 implin,,[locuiesc]
@@ -106,6 +111,7 @@ incerc,a,[incerca]
 incet,a,[fumez]
 inchei,a,[incheia],(ACP*inchei*arinchei*0@ACPINF*inchei*arincheia*0)
 inchin,,[cauta]
+incoron,,[fumez]
 incunun,,[incerca]
 indic,,[incerca]
 inlocu,i,[aciti]
@@ -140,6 +146,7 @@ maninc@IRREGULAR%[IPR]=[maninc,maninci,maninca,mancam,mancati,mananca]%[INFINITI
 mantui,,[mantui]
 ments,,[mentsin]
 merg,e,[merg],(AIP*merg*mers*0@AII*merg*merge*0)
+misc,a,[incerca],(IPR1*misc*mist*0)
 mor,,[dorm],(IPR2*mor*moar*0@IPR34*mor*mur*0@PAP*mor*mur*0)
 mosten,,[locuiesc]
 multsum,,[locuiesc]
@@ -165,7 +172,7 @@ pleaca@IRREGULAR%[IPR]=[plec,pleci,pleaca,plecam,plecatsi,pleaca]%[PAP]=[plecat]
 pomen,,[aciti]
 port,,[cauta],(PAP*port*purtat*0)
 porunc,,[aciti],(PAP*porunc*poruncit*0)
-pot@IRREGULAR%[INFINITIVE]=[putea]%[IPR]=[pot,potsi,poate,putem,putetsi,pot]%[PAP]=[putut]
+pot@IRREGULAR%[INFINITIVE]=[putea]%[IPR]=[pot,potsi,poate|poata,putem,putetsi,pot]%[PAP]=[putut]
 povest,,[locuiesc]
 prefer,a,[incerca]
 prelucr,,[fumez]
@@ -184,6 +191,7 @@ raspun,,[raspund]
 realiz,a,[fumez]
 remarc,a,[cauta],(PAP*remarc*remarcat*0)
 renunts,,[cauta]
+repet,a,[cauta]
 reprezent,a,[cauta],(IPR0125*repreze*reprezi*0)
 restabil,i,[locuiesc]
 retrag,,[merg],(PAP*retrag*retras*0)
@@ -200,6 +208,7 @@ scoat,,[scoate],(PAP*scoat*scos*0@IPR015*scoat*scot*0)
 scri,,[scrie]
 scul@IRREGULAR%[PAPR]=[sculandu]
 serv,i,[aciti],(ASP25*serva*servea*0)
+sfars,,[aciti]
 simt,,[impart]
 sint@IRREGULAR%[IPR]=[sint,esti,este,sintem|suntem,sintetsi,sint|sunt]%[AII]=[eram,erai,era,eram,eratsi,erau]%[PAPR]=[fiind]%[ASP]=[fiu,fii,fie,fim,fitsi,fie]%[ACP]=[asfi,aifi,arfi,amfi,atsifi,arfi]%[PAP]=[fost]%[INFINITIVE]=[fi]
 sluj,,[locuiesc],(PAP*sluj*slujit*0)

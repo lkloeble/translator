@@ -1,2 +1,3 @@
 IPR=>u,i,a,am,atsi,a
 ASP=>u,i,e,am,atsi,e
+PAP=>[adj]

@@ -50,6 +50,7 @@ public class RomanianAnalyzer implements Analizer {
 
     private String replaceExpressions(String characterAlphaOnly) {
         String replace = characterAlphaOnly.replace("s.a.m.d", "samd");
+        replace = characterAlphaOnly.replace("in fond", "infondexpr");
         return replace.replace("s[a]_si","sasiexpr");
     }
 
