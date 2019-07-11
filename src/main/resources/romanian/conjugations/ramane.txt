@@ -2,3 +2,4 @@ IPR=>n,i,ne,nem,netsi,n
 AIF=>nva,iva,neva,nemva,netsiva,nva
 AIFINF=>neava
 PAP=>s
+PAPR=>nand

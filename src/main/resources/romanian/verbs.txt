@@ -40,6 +40,7 @@ cercet,,[fumez]
 chem,a,[cauta],(PAP*chem*chemat*0)
 cint,,[cauta]
 cit,,[aciti]
+colabor,,[fumez]
 conduc,,[face]
 confund,,[incerca]
 consider,,[cauta]
@@ -62,6 +63,7 @@ cun,,[cunosc]
 cuprin,de,[crede]
 cuv,ine,[cuvine]
 da,,[da],(PAP*da*dat*0@ASP*da*d*0)
+descuraj,,[fumez]
 deoseb,,[primi]
 depart,,[fumez]
 deprind,e,[vinde]
@@ -114,6 +116,7 @@ inchin,,[cauta]
 incoron,,[fumez]
 incunun,,[incerca]
 indic,,[incerca]
+infrunt,,[cauta]
 inlocu,i,[aciti]
 inmormint,,[fumez]
 innoi,,[aciti]
@@ -129,7 +132,7 @@ intorc,,[face],(IPR234*intor*intoar*0)
 intovaras,,[locuiesc],(PAP*intovaras*intovarasit*0)
 intreb,,[cauta],(IPR25*intreba*intreaba*0@AIMP*intreba*intreaba*0)
 intrerup,,[face],(PAP*intrerup*intrerupt*0)
-intseleg,e,[merg],(PAP*intseleg*intseles*0)
+intseleg,e,[merg],(PAP*intseleg*intseles*0@ASP*intseleg*intseleag*0)
 intunec,,[cauta]
 inva,,[invata],(IPR*atsi*etsi*1)
 istoris,,[locuiesc],(PAP*istoris*istorisit*0)
@@ -207,6 +210,7 @@ savirs,,[primi]
 scoat,,[scoate],(PAP*scoat*scos*0@IPR015*scoat*scot*0)
 scri,,[scrie]
 scul@IRREGULAR%[PAPR]=[sculandu]
+scuz,,[incerca]
 serv,i,[aciti],(ASP25*serva*servea*0)
 sfars,,[aciti]
 simt,,[impart]

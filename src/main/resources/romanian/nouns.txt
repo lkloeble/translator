@@ -10,6 +10,7 @@ act@masc%ul
 actsiun@masc%ul
 actsiune@fem%ereditate
 actual@adj%adj
+adam@masc%inv
 adancim@fem%berea
 adancir@fem%berea
 adaptare@fem%inv
@@ -90,6 +91,7 @@ bucurie@neut%inv
 bulevard@fem%fem
 bun@adj%adj
 bunic@masc%ul
+cader@fem%berea
 cadr@masc%ul
 cafea@fem%cafea
 cain@masc%caine
@@ -166,6 +168,7 @@ creatsi@fem%ratsiune
 creatur@fem%fem
 credints@fem%fem
 crestin@adj%adj
+crestinism@masc%ul
 cunoaster@fem%berea
 cunoscatoar@adj%adj
 cunoscator@adj%adj
@@ -177,7 +180,7 @@ curajos@adj%adj
 curind@neut%inv
 curs@masc%ul
 cuvant@masc%ul
-cuvint@masc%ul
+cuvint@masc%capul
 dadac@fem%fem
 dan@neut%inv
 dat@fem%fem
@@ -246,6 +249,7 @@ etern@adj%adj
 eternitat@fem%ereditate
 eternizand@neut%inv
 eu@neut%inv
+evanghelic@adj%adj
 eventual@adj%adj
 exact@adj%adj
 exempl@masc%ul
@@ -324,8 +328,10 @@ iisus@masc%inv
 imanent@adj%adjts
 imbogatsir@fem%berea
 impersonal@adj%inv
+implinir@fem%berea
 important@adj%adj
 imposibil@neut%inv
+imprejurar@fem%berea
 impresi@fem%fem
 imprimat@adj%adj
 inaintar@fem%berea
@@ -337,6 +343,7 @@ incoronar@fem%berea
 incorporare@fem%fem
 increder@fem%berea
 incredintsar@fem%berea
+indaratnic@adj%adj
 indelungar@fem%berea
 indemina@neut%inv
 indirect@adj%adjts
@@ -492,6 +499,7 @@ nedrept@adj%adj
 nefericit@adj%adjts
 negr@adj%adj
 nehotarit@adj%adjts
+neimplinir@fem%berea
 neintselegator@adj%adj
 nelimitat@adj%adj
 neplacut@adj%adj
@@ -589,6 +597,7 @@ politic@adj%adj
 politsist@adj%adj
 popescu@masc%inv
 porc@masc%ul
+porunc@fem%fem[nomplr(a):porunci]
 portocal@fem%fem
 posibilitat@fem%bereats
 post@fem%fem
@@ -613,6 +622,7 @@ profund@adj%adj
 progres@masc%ul
 prooroc@masc%ul
 propri@adj%adj
+providents@fem%fem
 punct@masc%ul
 pur@adj%adj
 purtar@fem%berea
@@ -759,6 +769,7 @@ tarziu@neut%inv
 tata@masc%inv
 tatal@masc%inv
 taxi@neut%inv
+teafar@adj%adj[nomplr(mascplri):teferi]
 teatr@masc%ul
 tendints@fem%fem
 terestr@adj%adj
@@ -834,6 +845,7 @@ viats@fem%fem[nomplr(a):vietsi,gensg(a):vietsii]
 vie@fem%fem[nomsing(a):vie,nomsing(b):via,nomplr(a):vii,nomplr(b):viile,gensing(a):viei]
 vier@masc%ul
 vin@masc%ul
+vin@fem%fem
 vinatoare@fem%inv
 virst@fem%fem
 virtu@adj%pacatos
@@ -847,6 +859,7 @@ voc@fem%berea
 voi@neut%inv
 voilor@neut%inv
 voints@fem%fem
+vrajmas@masc%ul
 vrem@fem%berea
 will@neut%inv
 zahar@neut%inv
