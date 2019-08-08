@@ -5,6 +5,7 @@ import patrologia.translator.basicelements.*;
 import patrologia.translator.basicelements.noun.NounRepository;
 import patrologia.translator.basicelements.preposition.PrepositionRepository;
 import patrologia.translator.basicelements.verb.VerbRepository;
+import patrologia.translator.basicelements.verb.VerbRepository2;
 import patrologia.translator.casenumbergenre.german.GermanCaseFactory;
 import patrologia.translator.conjugation.german.GermanConjugationFactory;
 import patrologia.translator.declension.Declension;
@@ -47,7 +48,7 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
         String germanResultFile = localTestPath + "german_expected_results.txt";
         GermanDeclensionFactory germanDeclensionFactory = new GermanDeclensionFactory(getDeclensions(declensionsAndFiles), getDeclensionList(declensionsAndFiles, declensionPath));
         NounRepository nounRepository = new NounRepository(Language.GERMAN, germanDeclensionFactory, new DummyAccentuer(),getFileContentForRepository(nounFileDescription));
-        VerbRepository verbRepository = new VerbRepository(new GermanConjugationFactory(getGermanConjugations(conjugationsAndFiles), getGermanConjugationDefinitions(conjugationsAndFiles, conjugationPath),nounRepository), Language.GERMAN, new DummyAccentuer(),getVerbs(verbFileDescription));
+        VerbRepository2 verbRepository = new VerbRepository2(new GermanConjugationFactory(getGermanConjugations(conjugationsAndFiles), getGermanConjugationDefinitions(conjugationsAndFiles, conjugationPath),germanDeclensionFactory), Language.GERMAN, new DummyAccentuer(),getVerbs(verbFileDescription));
         GermanRuleFactory ruleFactory = new GermanRuleFactory(verbRepository);
         PrepositionRepository prepositionRepository = new PrepositionRepository(Language.GERMAN, new GermanCaseFactory(), ruleFactory, getFileContentForRepository(prepositionFileDescription));
         Analizer germanAnalyzer = new GermanAnalyzer(prepositionRepository, nounRepository, verbRepository);

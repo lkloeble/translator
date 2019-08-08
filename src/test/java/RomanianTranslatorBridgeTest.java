@@ -5,6 +5,7 @@ import patrologia.translator.basicelements.*;
 import patrologia.translator.basicelements.noun.NounRepository;
 import patrologia.translator.basicelements.preposition.PrepositionRepository;
 import patrologia.translator.basicelements.verb.VerbRepository;
+import patrologia.translator.basicelements.verb.VerbRepository2;
 import patrologia.translator.casenumbergenre.romanian.RomanianCaseFactory;
 import patrologia.translator.conjugation.romanian.RomanianConjugationFactory;
 import patrologia.translator.declension.Declension;
@@ -47,7 +48,8 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         String romanianResultFile = localTestPath + "romanian_expected_results.txt";
         RomanianDeclensionFactory romanianDeclensionFactory = new RomanianDeclensionFactory(getDeclensions(declensionsAndFiles), getDeclensionList(declensionsAndFiles, declensionPath));
         NounRepository nounRepository = new NounRepository(patrologia.translator.basicelements.Language.ROMANIAN, romanianDeclensionFactory, new patrologia.translator.basicelements.DummyAccentuer(),getNouns(nounFileDescription));
-        VerbRepository verbRepository = new VerbRepository(new RomanianConjugationFactory(getRomanianConjugations(conjugationsAndFiles), getRomanianConjugationDefinitions(conjugationsAndFiles, conjugationPath), romanianDeclensionFactory), patrologia.translator.basicelements.Language.ROMANIAN, new DummyAccentuer(), getVerbs(verbFileDescription));
+        //VerbRepository verbRepository = new VerbRepository(new RomanianConjugationFactory(getRomanianConjugations(conjugationsAndFiles), getRomanianConjugationDefinitions(conjugationsAndFiles, conjugationPath), romanianDeclensionFactory), patrologia.translator.basicelements.Language.ROMANIAN, new DummyAccentuer(), getVerbs(verbFileDescription));
+        VerbRepository2 verbRepository = new VerbRepository2(new RomanianConjugationFactory(getRomanianConjugations(conjugationsAndFiles), getRomanianConjugationDefinitions(conjugationsAndFiles, conjugationPath), romanianDeclensionFactory), patrologia.translator.basicelements.Language.ROMANIAN, new DummyAccentuer(), getVerbs(verbFileDescription));
         RomanianRuleFactory ruleFactory = new RomanianRuleFactory(verbRepository);
         PrepositionRepository prepositionRepository = new PrepositionRepository(patrologia.translator.basicelements.Language.ROMANIAN, new RomanianCaseFactory(), ruleFactory, getPrepositions(prepositionFileDescription));
         Analizer romanianAnalyzer = new RomanianAnalyzer(prepositionRepository, nounRepository, verbRepository);

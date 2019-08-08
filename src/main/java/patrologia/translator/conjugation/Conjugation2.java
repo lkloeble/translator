@@ -70,6 +70,9 @@ public abstract class Conjugation2 {
     }
 
     protected void processConjugationDescription(List<String> conjugationDescription) {
+        if(conjugationDescription == null) {
+            System.out.println("oh oh");
+        }
         for(String description : conjugationDescription) {
             descriptions.put(extractTimeName(description), extractTimeDescription(description));
         }
@@ -95,6 +98,7 @@ public abstract class Conjugation2 {
         return conjugationDescription.split("=>")[0];
     }
 
-
-
+    public String getConjugationName() {
+        return conjugationName;
+    }
 }

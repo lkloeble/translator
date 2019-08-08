@@ -5,6 +5,7 @@ import patrologia.translator.basicelements.*;
 import patrologia.translator.basicelements.noun.NounRepository;
 import patrologia.translator.basicelements.preposition.PrepositionRepository;
 import patrologia.translator.basicelements.verb.VerbRepository;
+import patrologia.translator.basicelements.verb.VerbRepository2;
 import patrologia.translator.casenumbergenre.hebrew.HebrewCaseFactory;
 import patrologia.translator.conjugation.hebrew.HebrewConjugationFactory;
 import patrologia.translator.declension.Declension;
@@ -46,7 +47,7 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
         PrepositionRepository prepositionRepository = new PrepositionRepository(Language.HEBREW, new HebrewCaseFactory(), ruleFactory, getPrepositions(prepositionFileDescription));
         HebrewDeclensionFactory hebrewDeclensionFactory = new HebrewDeclensionFactory(getDeclensions(), getDeclensionList());
         NounRepository nounRepository = new NounRepository(Language.HEBREW, hebrewDeclensionFactory, new Accentuer(),getNouns(nounFileDescription));
-        VerbRepository verbRepository = new VerbRepository(new HebrewConjugationFactory(getConjugations(), getHebrewConjugationsDefinitions(), nounRepository), Language.HEBREW, new Accentuer(),getVerbs(verbFileDescription));
+        VerbRepository2 verbRepository = new VerbRepository2(new HebrewConjugationFactory(getConjugations(), getHebrewConjugationsDefinitions(), nounRepository), Language.HEBREW, new Accentuer(),getVerbs(verbFileDescription));
         Analizer hebrewAnalyzer = new HebrewAnalyzer(prepositionRepository, nounRepository, verbRepository);
         Translator frenchTranslator = new FrenchTranslator(getHebDico(hebrewFrenchDataFile), getFrenchVerbs(), verbRepository, nounRepository, null, null, hebrewDeclensionFactory);
         translatorBridge = new TranslatorBridge(hebrewAnalyzer, frenchTranslator);

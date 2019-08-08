@@ -98,7 +98,7 @@ buhl,en,[leben]
 bring,en,[leben],(AII*bring*brach*0)
 brumm,en,[leben]
 dank,en,[leben],(PAPR*dank*dankend*0)
-darbiet,en,[mochten](AIP*darbiet*darbot*0)
+darbiet,en,[mochten],(AIP*darbiet*darbot*0)
 darf,en,[wollen]
 darleg,en,[leben]
 dasteh,en,[stehen],(AIP*dasteh*dastand*0)

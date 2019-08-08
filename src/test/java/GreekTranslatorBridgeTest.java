@@ -5,6 +5,7 @@ import patrologia.translator.basicelements.*;
 import patrologia.translator.basicelements.noun.NounRepository;
 import patrologia.translator.basicelements.preposition.PrepositionRepository;
 import patrologia.translator.basicelements.verb.VerbRepository;
+import patrologia.translator.basicelements.verb.VerbRepository2;
 import patrologia.translator.casenumbergenre.greek.GreekCaseFactory;
 import patrologia.translator.conjugation.greek.GreekConjugationFactory;
 import patrologia.translator.declension.Declension;
@@ -48,7 +49,7 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
         GreekDeclensionFactory greekDeclensionFactory = new GreekDeclensionFactory(getDeclensions(declensionsAndFiles), getDeclensionList(declensionsAndFiles, declensionPath));
         PrepositionRepository prepositionRepository = new PrepositionRepository(Language.GREEK, new GreekCaseFactory(), ruleFactory, getPrepositions(prepositionFileDescription));
         NounRepository nounRepository = new NounRepository(Language.GREEK, greekDeclensionFactory, new DummyAccentuer(),getNouns(nounFileDescription));
-        VerbRepository verbRepository = new VerbRepository(new GreekConjugationFactory(getGreekConjugations(conjugationsAndFiles), getGreekConjugationDefinitions(conjugationsAndFiles, conjugationPath), nounRepository), Language.GREEK, new DummyAccentuer(),getVerbs(verbFileDescription));
+        VerbRepository2 verbRepository = new VerbRepository2(new GreekConjugationFactory(getGreekConjugations(conjugationsAndFiles), getGreekConjugationDefinitions(conjugationsAndFiles, conjugationPath), nounRepository), Language.GREEK, new DummyAccentuer(),getVerbs(verbFileDescription));
         Analizer greekAnalyzer = new GreekAnalyzer(prepositionRepository, nounRepository, verbRepository);
         Translator frenchTranslator = new FrenchTranslator(getGreekDico(greekFrenchDataFile), getFrenchVerbs(frenchVerbsDataFile), verbRepository, nounRepository, declensionPath, declensionsAndFiles, greekDeclensionFactory);
         translatorBridge = new TranslatorBridge(greekAnalyzer, frenchTranslator);

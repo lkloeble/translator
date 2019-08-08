@@ -5,6 +5,7 @@ import patrologia.translator.basicelements.*;
 import patrologia.translator.basicelements.noun.NounRepository;
 import patrologia.translator.basicelements.preposition.PrepositionRepository;
 import patrologia.translator.basicelements.verb.VerbRepository;
+import patrologia.translator.basicelements.verb.VerbRepository2;
 import patrologia.translator.casenumbergenre.english.EnglishCaseFactory;
 import patrologia.translator.conjugation.english.EnglishConjugationFactory;
 import patrologia.translator.declension.Declension;
@@ -48,7 +49,7 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
         String englishResultFile = localTestPath + "english_expected_results.txt";
         EnglishDeclensionFactory englishDeclensionFactory = new EnglishDeclensionFactory(getDeclensions(declensionsAndFiles), getDeclensionList(declensionsAndFiles, declensionPath));
         NounRepository nounRepository = new NounRepository(Language.ENGLISH, englishDeclensionFactory, new DummyAccentuer(), getFileContentForRepository(nounFileDescription));
-        VerbRepository verbRepository = new VerbRepository(new EnglishConjugationFactory(getEnglishConjugations(conjugationsAndFiles), getEnglishConjugationDefinitions(conjugationsAndFiles, conjugationPath), nounRepository), Language.ENGLISH, new DummyAccentuer(), getVerbs(verbFileDescription));
+        VerbRepository2 verbRepository = new VerbRepository2(new EnglishConjugationFactory(getEnglishConjugations(conjugationsAndFiles), getEnglishConjugationDefinitions(conjugationsAndFiles, conjugationPath), englishDeclensionFactory), Language.ENGLISH, new DummyAccentuer(), getVerbs(verbFileDescription));
         EnglishRuleFactory ruleFactory = new EnglishRuleFactory();
         PrepositionRepository prepositionRepository = new PrepositionRepository(Language.ENGLISH, new EnglishCaseFactory(), ruleFactory, getFileContentForRepository(prepositionFileDescription));
         Analizer englishAnalyzer = new EnglishAnalyzer(prepositionRepository, nounRepository, verbRepository);

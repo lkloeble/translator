@@ -1,6 +1,6 @@
 IPR=>,,s,,, ,
 IPA=>, ,
 AII=>,,d,,,
-AIMP=>,,,,
+AIMP=>,,, ,
 PAPR=>ming
 AIP=>med,med,med,med,med,med

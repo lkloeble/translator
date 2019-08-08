@@ -7,6 +7,7 @@ import patrologia.translator.basicelements.noun.NounRepository;
 import patrologia.translator.basicelements.preposition.PrepositionRepository;
 import patrologia.translator.basicelements.verb.Verb;
 import patrologia.translator.basicelements.verb.VerbRepository;
+import patrologia.translator.basicelements.verb.VerbRepository2;
 import patrologia.translator.casenumbergenre.CaseOperatorContainer;
 import patrologia.translator.casenumbergenre.Gender;
 import patrologia.translator.utils.Analizer;
@@ -26,9 +27,9 @@ public class RomanianAnalyzer implements Analizer {
     private WordAnalyzer wordAnalyzer = null;
     private PhraseAnalizer phraseAnalizer = new PhraseAnalizer();
     private NounRepository nounRepository;
-    private VerbRepository verbRepository;
+    private VerbRepository2 verbRepository;
 
-    public RomanianAnalyzer(PrepositionRepository prepositionRepository, NounRepository nounRepository, VerbRepository verbRepository) {
+    public RomanianAnalyzer(PrepositionRepository prepositionRepository, NounRepository nounRepository, VerbRepository2 verbRepository) {
         wordAnalyzer = new WordAnalyzer(prepositionRepository, nounRepository,verbRepository, new patrologia.translator.linguisticimplementations.RomanianPhraseChanger(nounRepository,verbRepository), new DefaultModificationLog(), new CustomRule(), new CaseOperatorContainer(nounRepository,prepositionRepository),Language.ROMANIAN);
         this.nounRepository = nounRepository;
         this.verbRepository = verbRepository;
