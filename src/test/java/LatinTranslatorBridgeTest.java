@@ -47,7 +47,7 @@ public class LatinTranslatorBridgeTest extends TranslatorBridgeTest {
         LatinRuleFactory ruleFactory = new LatinRuleFactory();
         PrepositionRepository prepositionRepository = new PrepositionRepository(Language.LATIN, new LatinCaseFactory(), ruleFactory, getFileContentForRepository(prepositionFileDescription));
         NounRepository nounRepository = new NounRepository(Language.LATIN, latinDeclensionFactory, new DummyAccentuer(),getNouns(nounFileDescription));
-        VerbRepository2 verbRepository = new VerbRepository2(new LatinConjugationFactory(getLatinConjugations(conjugationsAndFiles), getLatinConjugationDefinitions(conjugationsAndFiles, conjugationLatinFiles),nounRepository), Language.LATIN, new DummyAccentuer(),getVerbs(verbFileDescription));
+        VerbRepository2 verbRepository = new VerbRepository2(new LatinConjugationFactory(getLatinConjugations(conjugationsAndFiles), getLatinConjugationDefinitions(conjugationsAndFiles, conjugationLatinFiles),latinDeclensionFactory), Language.LATIN, new DummyAccentuer(),getVerbs(verbFileDescription));
         Analizer latinAnalyzer = new LatinAnalyzer(prepositionRepository, nounRepository, verbRepository);
         Translator frenchTranslator = new FrenchTranslator(getFileContentForRepository(latinFrenchDataFile), getFileContentForRepository(frenchVerbsDataFile), verbRepository, nounRepository, declensionLatinFiles, declensionsAndFiles, latinDeclensionFactory);
         translatorBridge = new TranslatorBridge(latinAnalyzer, frenchTranslator);
