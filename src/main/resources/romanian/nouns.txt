@@ -81,6 +81,7 @@ blocat@adj%adj
 blond@adj%adj
 bo@masc%fiul
 boal@fem%fem
+boar@fem%berea
 bogat@adj%adjts
 bolnav@adj%adj
 brichet@fem%fem
@@ -141,7 +142,7 @@ concentrat@adj%adj
 concepts@fem%conceptie
 concomitent@adj%adj
 concret@neut%inv
-conditsi@fem%fem
+conditsi@fem%femi
 conducere@fem%ereditate
 confortabil@adj%adj
 coniac@masc%ul
@@ -169,6 +170,8 @@ creatur@fem%fem
 credints@fem%fem
 crestin@adj%adj
 crestinism@masc%ul
+cruc@fem%berea
+cumpan@fem%fem
 cunoaster@fem%berea
 cunoscatoar@adj%adj
 cunoscator@adj%adj
@@ -203,6 +206,7 @@ destinatsi@fem%fem
 devreme@neut%inv
 dezvoltare@neut%inv
 dialog@masc%ul
+diavol@masc%ul
 dificil@fem%fem
 dimensiun@fem%ratsiune
 dimineatsa@neut%inv
@@ -235,6 +239,7 @@ dumnezeu@neut%inv
 dumnezeul@neut%inv
 dumnezeule@neut%inv
 durer@adj%pacatos
+dusmani@fem%tigara
 economic@adj%adj
 eficace@adj%adj
 egipt@masc%ul
@@ -265,7 +270,7 @@ farmacie@neut%inv
 fat@fem%fem
 fats@fem%fem
 favoar@fem%berea
-fel@neut%inv
+fel@neut%ul
 femei@fem%femei
 fenomen@masc%ul
 fericit@adj%adj
@@ -284,6 +289,7 @@ folosito@adj%adjr
 formar@fem%berea
 fran@fem%fem
 frat@masc%frate
+fric@fem%fem
 fricos@adj%adj
 frig@adj%adj
 frigider@neut%inv
@@ -293,6 +299,7 @@ frumos@masc%ul
 frumusets@fem%berea
 frun@fem%capacitate
 furia@fem%fem
+furi@adj%adjos
 gand@masc%locul
 gar@fem%fem
 gard@masc%ul
@@ -327,6 +334,7 @@ iesir@fem%femi
 iisus@masc%inv
 imanent@adj%adjts
 imbogatsir@fem%berea
+imparatsia@fem%inv
 impersonal@adj%inv
 implinir@fem%berea
 important@adj%adj
@@ -337,6 +345,7 @@ imprimat@adj%adj
 inaintar@fem%berea
 inca@neut%inv
 inceput@masc%ul
+incercar@fem%berea
 inconstient@adj%adjts
 incordar@fem%berea
 incoronar@fem%berea
@@ -346,9 +355,11 @@ incredintsar@fem%berea
 indaratnic@adj%adj
 indelungar@fem%berea
 indemina@neut%inv
+indemn@masc%ul
 indirect@adj%adjts
 indrazneal@fem%fem
 indreptar@fem%berea
+inevitabil@adj%adj
 inexplicabil@adj%adj
 inferi@adj%adjor
 infinit@adj%adj
@@ -383,10 +394,12 @@ ion@masc%inv
 ionescu@masc%inv
 istori@fem%fem
 istoric@adj%adj
+isus@masc%inv
 italia@fem%inv
 italian@adj%adj
 iubir@fem%berea
 jandarm@masc%ul
+jertf@fem%fem
 joc@masc%ul
 judecat@adj%adjts
 jug@masc%ul
@@ -558,6 +571,7 @@ papus@fem%tigara
 par@fem%capacitate
 parasit@adj%adj
 parc@neut%inv
+parer@fem%berea
 parint@neut%parinte
 pas@masc%ul
 pasar@fem%berea
@@ -591,6 +605,7 @@ plant@fem%fem
 plenitudin@fem%berea
 pleonasm@masc%ul
 plin@adj%adj
+ploa@fem%conceptie
 plus@neut%inv
 poft@fem%fem
 politic@adj%adj
@@ -602,6 +617,7 @@ portocal@fem%fem
 posibilitat@fem%bereats
 post@fem%fem
 potrivit@neut%inv
+potrivnic@masc%ul
 pozitsi@fem%fem
 practic@adj%adj
 preajm@fem%fem
@@ -613,7 +629,9 @@ prets@masc%ul
 prieten@adj%adj
 prigoan@fem%fem
 prim@adj%adj
+prob@fem%fem
 probabil@adj%adj
+problem@fem%fem
 proces@masc%ul
 produs@masc%ul
 produs@adj%adj
@@ -645,6 +663,7 @@ rau@adj%inv
 ra@adj%adj
 rauri@masc%inv
 raz@fem%fem
+razbunar@fem%berea
 real@adj%adj
 realita@fem%capacitate
 rece@adj%adj
@@ -663,8 +682,10 @@ retset@fem%fem
 revedere@neut%inv
 revelatsi@fem%femi
 revist@fem%fem
+rezemat@adj%adj
 rezumat@masc%ul
 ridicat@adj%adj
+risc@masc%locul
 roat@fem%fem[nomplr(a):roate,nomplr(b):rotsi,nomplr(c):roatele,nomplr(d):rotsile]
 rod@masc%ul[nomplr(a):roadele]
 rol@masc%ul
@@ -698,6 +719,7 @@ scaun@masc%ul
 scoal@fem%fem
 scop@masc%locul
 scrier@fem%berea
+scriptura@fem%inv
 scrisoar@fem%berea[nomplr(a):scrisori,nomplr(b):scrisorile]
 scump@adj%adj
 seam@fem%fem
@@ -727,6 +749,7 @@ simplu@adj%adj
 sincer@adj%adj
 singur@adj%adj
 singuratate@fem%ereditate
+sinucider@fem%berea
 slabiciun@fem%berea
 soart@fem%fem[nomplr:sortsi]
 sofer@masc%ul
@@ -746,9 +769,11 @@ staruint@fem%femts
 sticl@fem%fem
 stra@fem%adjverde
 stradiani@fem%fem
+stramutar@fem%berea
 strugur@masc%ul
 subiect@masc%ul
 subordonat@adj%adj
+suferints@fem%fem
 suferir@fem%berea
 suficient@neut%inv
 suflet@masc%capul
@@ -792,8 +817,10 @@ trei@neut%inv
 treisprezece@neut%inv
 treizeci@neut%inv
 tren@masc%ul
+truf@fem%conceptie
 trup@masc%ul
 tsaran@masc%ul
+tseser@fem%berea
 tsigar@fem%tigara
 tsint@fem%fem
 tsuic@fem%fem
@@ -814,6 +841,7 @@ un@adj%adj
 unchi@masc%ul
 unic@adj%adj
 unitat@fem%berea
+ur@fem%fem
 urgi@fem%fem
 urias@masc%ul
 urm@fem%fem

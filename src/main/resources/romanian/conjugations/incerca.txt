@@ -1,5 +1,6 @@
 IPR=>,i,a,am,atsi,a
 AII=>am,ai,a,am,atsi,au
 ASP=>,i,e,am,atsi,e
-PAP=>at
+PAP=>[adj,adjts]
 PAPR=>and|andu
+COND=>a,a,a,a,a,a

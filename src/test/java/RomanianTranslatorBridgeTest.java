@@ -47,7 +47,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         String romanianResultFile = localTestPath + "romanian_expected_results.txt";
         RomanianDeclensionFactory romanianDeclensionFactory = new RomanianDeclensionFactory(getDeclensions(declensionsAndFiles), getDeclensionList(declensionsAndFiles, declensionPath));
         NounRepository nounRepository = new NounRepository(patrologia.translator.basicelements.Language.ROMANIAN, romanianDeclensionFactory, new patrologia.translator.basicelements.DummyAccentuer(),getNouns(nounFileDescription));
-        VerbRepository verbRepository = new VerbRepository(new RomanianConjugationFactory(getRomanianConjugations(conjugationsAndFiles), getRomanianConjugationDefinitions(conjugationsAndFiles, conjugationPath), nounRepository), patrologia.translator.basicelements.Language.ROMANIAN, new DummyAccentuer(), getVerbs(verbFileDescription));
+        VerbRepository verbRepository = new VerbRepository(new RomanianConjugationFactory(getRomanianConjugations(conjugationsAndFiles), getRomanianConjugationDefinitions(conjugationsAndFiles, conjugationPath), romanianDeclensionFactory), patrologia.translator.basicelements.Language.ROMANIAN, new DummyAccentuer(), getVerbs(verbFileDescription));
         RomanianRuleFactory ruleFactory = new RomanianRuleFactory(verbRepository);
         PrepositionRepository prepositionRepository = new PrepositionRepository(patrologia.translator.basicelements.Language.ROMANIAN, new RomanianCaseFactory(), ruleFactory, getPrepositions(prepositionFileDescription));
         Analizer romanianAnalyzer = new RomanianAnalyzer(prepositionRepository, nounRepository, verbRepository);
@@ -115,12 +115,10 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     }
 
     private List<String> getVerbs(String verbFileDescription) {
-        /*
         return Arrays.asList(new String[]{
-                "inchei,a,[incheia],(ACP*inchei*arinchei*0@ACPINF*inchei*arincheia*0)"
+                "imbrac,a,[incerca],(PAP*imbrac*imbracat*0)"
         });
-        */
-        return getFileContentForRepository(verbFileDescription);
+        //return getFileContentForRepository(verbFileDescription);
     }
 
     private List<String> getFrenchVerbs(String frenchVerbFileDescription) {
@@ -949,7 +947,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("bocaseumplu807", translatorBridge);
+        checkInMaps("bocaseumplu836", translatorBridge);
     }
     
 }

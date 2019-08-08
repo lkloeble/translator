@@ -51,6 +51,7 @@ public class RomanianAnalyzer implements Analizer {
     private String replaceExpressions(String characterAlphaOnly) {
         String replace = characterAlphaOnly.toLowerCase().replace("s.a.m.d", "samd");
         replace = replace.replace("in fond", "infondexpr");
+        replace = replace.replace("f[a]r[a] seam[a]n", "faraseaman");
         replace = replace.replace("prin urmare", "prinurmare");
         return replace.replace("s[a]_si","sasiexpr");
     }
