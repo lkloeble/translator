@@ -55,7 +55,9 @@ public class VerbRepository2 {
     }
 
     public Collection<Verb> getVerbs(String initialValue) {
-        return Collections.EMPTY_LIST;
+        Collection<Verb> allVerbs = verbMap.getAllVerbs(initialValue);
+        if(allVerbs != null && allVerbs.size() > 0) return allVerbs;
+        return verbMap.getAllVerbs(accentuer.unaccentued(initialValue));
     }
 
     public InfinitiveBuilder getInfinitiveBuilder() {
@@ -105,18 +107,34 @@ public class VerbRepository2 {
 
     private void addVerb(String definition) {
         VerbDefinition verbDefinition = verbDefinitionFactory.getVerbDefinition(language, definition);
+        translationBeansMap.addGlobalVerbKey(verbDefinition.getRoot());
+        rootedConjugationMap.put(verbDefinition.getRoot() + "@INFINITIVE", new RootedConjugation("INFINITIVE", verbDefinition.getInfinitiveForm()));
         Conjugation2 conjugation = conjugationFactory.getConjugationByPattern(verbDefinition);
         conjugation.getTimes().stream().forEach(time -> addAllConjugationAndRoot(time, conjugation, verbDefinition.getBaseConjugationRoot(),verbDefinition));
     }
 
     private void addAllConjugationAndRoot(String time, Conjugation2 conjugation, String baseConjugationRoot, VerbDefinition verbDefinition) {
         String valuesAllInOne = conjugation.getRootWithEveryEndingsByTime(baseConjugationRoot, time);
+        translationBeansMap.addConjugationForGlobalKey(verbDefinition.getRoot(), time);
+        RootedConjugation rootedConjugation = new RootedConjugation(time, valuesAllInOne,conjugation.isRelatedTonoun(time), conjugation.getConjugationName(),conjugation.getDeclension(time));
         String[] values = valuesAllInOne.split(",");
         TranslationInformationReplacement2 translationInformationReplacement = verbDefinition.getTranslationInformationReplacement2();
         int indice = 0;
+        StringBuilder sb = new StringBuilder();
         for (String value : values) {
-            conjugationMap.put(translationInformationReplacement.replace(time,value,ConjugationPosition.getValueByPosition(indice++)), baseConjugationRoot);
+            String replace = translationInformationReplacement.replace(time, value, ConjugationPosition.getValueByPosition(indice++));
+            conjugationMap.put(replace, verbDefinition.getRoot());
+            sb.append(replace).append(",");
         }
+        List<ConjugationPart> conjugationPartList = rootedConjugation.getConjugationPartList(sb.toString());
+        if(rootedConjugation.isParticipleRelatedToNounDeclension()) {
+            rootedConjugationMap.put(verbDefinition.getRoot() + "@" + time, rootedConjugation);
+        } else {
+            rootedConjugationMap.put(verbDefinition.getRoot() + "@" + time, new RootedConjugation(time, conjugationPartList));
+        }
+        Verb verb = new Verb(verbDefinition.getRoot(), this, language);
+        verbMap.put(verbDefinition.getRoot(), verb);
+
     }
 
     public String getEquivalentForOtherRoot(String root, String formerInitialValue, String rootVerb, int verbTranslationPosition) {
@@ -148,7 +166,11 @@ public class VerbRepository2 {
     }
 
     public Verb updatePreferedTranslation(Verb verb) {
-        return null;
+        int preferedTranslation = getVerb(verb.getRoot()).getPreferedTranslation();
+        if (verb.getPreferedTranslation() == 0) {
+            verb.setPreferedTranslation(preferedTranslation);
+        }
+        return verb;
     }
 
     public String getConjugationSynonym(String constructionName) {

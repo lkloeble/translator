@@ -49,16 +49,25 @@ public class LatinTranslatorBridgeTest extends TranslatorBridgeTest {
         NounRepository nounRepository = new NounRepository(Language.LATIN, latinDeclensionFactory, new DummyAccentuer(),getNouns(nounFileDescription));
         VerbRepository2 verbRepository = new VerbRepository2(new LatinConjugationFactory(getLatinConjugations(conjugationsAndFiles), getLatinConjugationDefinitions(conjugationsAndFiles, conjugationLatinFiles),latinDeclensionFactory), Language.LATIN, new DummyAccentuer(),getVerbs(verbFileDescription));
         Analizer latinAnalyzer = new LatinAnalyzer(prepositionRepository, nounRepository, verbRepository);
-        Translator frenchTranslator = new FrenchTranslator(getFileContentForRepository(latinFrenchDataFile), getFileContentForRepository(frenchVerbsDataFile), verbRepository, nounRepository, declensionLatinFiles, declensionsAndFiles, latinDeclensionFactory);
+        Translator frenchTranslator = new FrenchTranslator(getFrenchDictionary(latinFrenchDataFile), getFileContentForRepository(frenchVerbsDataFile), verbRepository, nounRepository, declensionLatinFiles, declensionsAndFiles, latinDeclensionFactory);
         translatorBridge = new TranslatorBridge(latinAnalyzer, frenchTranslator);
         mapValuesForTest = loadMapFromFiles(latinPathFile);
         mapValuesForResult = loadMapFromFiles(latinResultFile);
     }
 
+    private List<String> getFrenchDictionary(String latinFrenchDataFile) {
+        /*
+        return Arrays.asList(new String[]{
+                "do@verb!norm%1(verb)=octroyer, conceder%2(verb)=faire une concession%3(verb)=placer, mettre%4(verb)=apporter, causer%5(verb)=accorder, concéder%6(verb)=exposer, dire%7(verb)=donner"
+        });
+        */
+        return getFileContentForRepository(latinFrenchDataFile);
+    }
+
     private List<String> getVerbs(String verbFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "lic,,,ere,,,[eo-es2],(ASP*lic*lice*0)"
+                "persuad,eo,es,ere,,,[eo-es],(AIP*persuad*persuas*0@AIPP*persuad*persuas*0)"
         });
         */
         return getFileContentForRepository(verbFileDescription);
@@ -88,10 +97,9 @@ public class LatinTranslatorBridgeTest extends TranslatorBridgeTest {
     private Map<String, List<String>> getLatinConjugationDefinitions(String file, String directory) {
         /*
         Map<String, List<String>> latinConjugationDefinitionsMap = new HashMap<>();
-        latinConjugationDefinitionsMap.put("o-is", getOIslDefinition());
+        latinConjugationDefinitionsMap.put("eo-es", Arrays.asList("ASI=>erem,eres,eret,eremus,eretis,erent"));
         return latinConjugationDefinitionsMap;
         */
-
 
         List<String> conjugationNameList = getFileContentForRepository(file);
         Map<String, List<String>> latinConjugationDefinitionsMap = new HashMap<>();
@@ -115,7 +123,7 @@ public class LatinTranslatorBridgeTest extends TranslatorBridgeTest {
 
     @Test
     public void test_failing_one() {
-        checkInMaps("patrologiacaput3A03", translatorBridge);
+        checkInMaps("patrologiacaput2C", translatorBridge);
     }
 
 

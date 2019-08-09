@@ -30,9 +30,9 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
 
     private TranslatorBridge translatorBridge;
 
-    private String localTestPath="C:\\Users\\kloeblel\\IdeaProjects\\translator\\src\\test\\resources\\";
-    private String localResourcesPath="C:\\Users\\kloeblel\\IdeaProjects\\translator\\src\\main\\resources\\english\\";
-    private String localCommonPath="C:\\Users\\kloeblel\\IdeaProjects\\translator\\src\\main\\resources\\";
+    private String localTestPath = "C:\\Users\\kloeblel\\IdeaProjects\\translator\\src\\test\\resources\\";
+    private String localResourcesPath = "C:\\Users\\kloeblel\\IdeaProjects\\translator\\src\\main\\resources\\english\\";
+    private String localCommonPath = "C:\\Users\\kloeblel\\IdeaProjects\\translator\\src\\main\\resources\\";
 
     @Before
     public void init() {
@@ -53,10 +53,20 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
         EnglishRuleFactory ruleFactory = new EnglishRuleFactory();
         PrepositionRepository prepositionRepository = new PrepositionRepository(Language.ENGLISH, new EnglishCaseFactory(), ruleFactory, getFileContentForRepository(prepositionFileDescription));
         Analizer englishAnalyzer = new EnglishAnalyzer(prepositionRepository, nounRepository, verbRepository);
-        Translator frenchTranslator = new FrenchTranslator(getFileContentForRepository(englishFrenchDataFile), getFileContentForRepository(frenchVerbsDataFile), verbRepository, nounRepository, declensionPath, declensionsAndFiles, englishDeclensionFactory);
+        Translator frenchTranslator = new FrenchTranslator(getDictionaryData(englishFrenchDataFile), getFileContentForRepository(frenchVerbsDataFile), verbRepository, nounRepository, declensionPath, declensionsAndFiles, englishDeclensionFactory);
         translatorBridge = new TranslatorBridge(englishAnalyzer, frenchTranslator);
         mapValuesForTest = loadMapFromFiles(englishPathFile);
         mapValuesForResult = loadMapFromFiles(englishResultFile);
+    }
+
+    private List<String> getDictionaryData(String englishFrenchDataFile) {
+        /*
+        return Arrays.asList(new String[]{
+                "live@verb!norm%1(verb)=vivre"
+        });
+        */
+        return getFileContentForRepository(englishFrenchDataFile);
+
     }
 
     private List<Declension> getDeclensionList(String file, String directory) {
@@ -100,12 +110,9 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "be@IRREGULAR%[INFINITIVE]=[to be]%[IPR]=[am,are,is,are,are,are]%[AII]=[was,was,was,were,were,were]%[PAPR]=[being]%[AIF]=[bewill,bewill,bewill,bewill,bewill,bewill]%[ACP]=[bewould,bewould,bewould,bewould,bewould,bewould]%[ASP]=[ambe,arebe,be,ambe,arebe,bebe]%[AIMP]=[letbe,letbe,letbe,letbe,letbe,letbe]%[PAP]=[been]",
-                "hang,[live],(AIP*hangd*hung*0)",
-                "would,[live],(IPR*woulds*would*0)"
+                "live,[live]"
         });
         */
-
         return getFileContentForRepository(verbFileDescription);
     }
 
@@ -1486,6 +1493,6 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("lightfoot_ch1472", translatorBridge);
+        checkInMaps("assimil8D", translatorBridge);
     }
 }

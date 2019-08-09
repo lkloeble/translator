@@ -1,9 +1,8 @@
 package patrologia.translator.conjugation;
 
-import patrologia.translator.basicelements.noun.NounRepository;
 import patrologia.translator.declension.Declension;
 import patrologia.translator.declension.DeclensionFactory;
-import patrologia.translator.declension.romanian.RomanianDeclensionFactory;
+import patrologia.translator.declension.NullDeclension;
 
 import java.util.*;
 
@@ -101,4 +100,16 @@ public abstract class Conjugation2 {
     public String getConjugationName() {
         return conjugationName;
     }
+
+    public List<Declension> getDeclension(String time) {
+        if(relatedToNounMap.get(time) == null || !relatedToNounMap.get(time)) return Arrays.asList(new NullDeclension());
+        List<Declension> declensionList = new ArrayList<>();
+        String declensionName = descriptions.get(time).replace("[","").replace("]","");
+        String allNames[] = declensionName.split(",");
+        for(String name : allNames) {
+            declensionList.add(declensionFactory.getDeclensionByPattern(name));
+        }
+        return declensionList;
+    }
+
 }

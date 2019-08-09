@@ -4,7 +4,6 @@ import patrologia.translator.TranslatorBridge;
 import patrologia.translator.basicelements.*;
 import patrologia.translator.basicelements.noun.NounRepository;
 import patrologia.translator.basicelements.preposition.PrepositionRepository;
-import patrologia.translator.basicelements.verb.VerbRepository;
 import patrologia.translator.basicelements.verb.VerbRepository2;
 import patrologia.translator.casenumbergenre.romanian.RomanianCaseFactory;
 import patrologia.translator.conjugation.romanian.RomanianConjugationFactory;
@@ -117,10 +116,12 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     }
 
     private List<String> getVerbs(String verbFileDescription) {
+        /*
         return Arrays.asList(new String[]{
                 "imbrac,a,[incerca],(PAP*imbrac*imbracat*0)"
         });
-        //return getFileContentForRepository(verbFileDescription);
+        */
+        return getFileContentForRepository(verbFileDescription);
     }
 
     private List<String> getFrenchVerbs(String frenchVerbFileDescription) {

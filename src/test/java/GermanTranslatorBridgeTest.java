@@ -52,10 +52,28 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
         GermanRuleFactory ruleFactory = new GermanRuleFactory(verbRepository);
         PrepositionRepository prepositionRepository = new PrepositionRepository(Language.GERMAN, new GermanCaseFactory(), ruleFactory, getFileContentForRepository(prepositionFileDescription));
         Analizer germanAnalyzer = new GermanAnalyzer(prepositionRepository, nounRepository, verbRepository);
-        Translator frenchTranslator = new FrenchTranslator(getFileContentForRepository(germanFrenchDataFile), getFileContentForRepository(frenchVerbsDataFile), verbRepository, nounRepository, declensionPath, declensionsAndFiles, germanDeclensionFactory);
+        Translator frenchTranslator = new FrenchTranslator(getDictionaryData(germanFrenchDataFile), getFrenchVerbs(frenchVerbsDataFile), verbRepository, nounRepository, declensionPath, declensionsAndFiles, germanDeclensionFactory);
         translatorBridge = new TranslatorBridge(germanAnalyzer, frenchTranslator);
         mapValuesForTest = loadMapFromFiles(germanPathFile);
         mapValuesForResult = loadMapFromFiles(germanResultFile);
+    }
+
+    private List<String> getFrenchVerbs(String frenchVerbsDataFile) {
+        /*
+        return Arrays.asList(new String[]{
+                "etre@IRREGULAR%[INFINITIVE]=[être]%[IPR]=[suis,es,est,sommes,êtes,sont]%[AII]=[étais,étais,était,étions,étiez,étaient]%[AIF]=[serai,seras,sera,serons,serez,seront]%[ASP]=[sois,sois,soit,soyons,soyez,soient]%[ASI]=[étais,étais,était,étions,étiez,étaient]%[AIP]=[fus,fus,fut,fûmes,fûtes,fûrent]%[AIMP]=[sois,soit,soyons,soyez,soient]%[AIPP]=[ai été,as été,a été,avons  été,avez été,ont été]%[PAPR]=[étant]%[ACP]=[serais,serais,serait,serions,seriez,seraient]%[PAP]=[été]%[IAP]=[avoir été]%[ACOPPR]=[serais,serais,serait,serions,seriez,seraient]%[AIFP]=[aurai été,auras été,aura été,aurons été,aurez été,auront été]%[ASPP]=[eusse été,eusses été,eut été,eussions été,eussiez été,eussent été]"
+        });
+        */
+        return getFileContentForRepository(frenchVerbsDataFile);
+    }
+
+    private List<String> getDictionaryData(String germanFrenchDataFile) {
+        /*
+        return Arrays.asList(new String[]{
+                "sein@verb!irrg%1(verb)=etre"
+        });
+        */
+        return getFileContentForRepository(germanFrenchDataFile);
     }
 
     private List<Declension> getDeclensionList(String file, String directory) {
@@ -72,7 +90,7 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "plan,en,[leben],(PAP*plan*geplant*0)"
+                "sein@IRREGULAR%[INFINITIVE]=[sein]%[IPR]=[bin,bist,ist,sind,seid,sind]%[AII]=[war,warst,war,waren,wart,waren]%[AIF]=[werde,wirst,wird,werden,werdet,werden]%[AIMP]=[sei,sei]%[ASP]=[sei,seist,sei,seien,seiet,seien]%[ASI]=[ware,warest,ware,waren,waret,waren]"
         });
         */
         return getFileContentForRepository(verbFileDescription);
@@ -103,7 +121,6 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
                 "o-is%permittere.txt"
         });
         */
-
         return getFileContentForRepository(conjugationsAndFiles);
     }
 
@@ -1186,6 +1203,6 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("strackp11par018", translatorBridge);
+        checkInMaps("lecon1A", translatorBridge);
     }
 }
