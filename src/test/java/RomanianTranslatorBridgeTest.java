@@ -47,7 +47,6 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         String romanianResultFile = localTestPath + "romanian_expected_results.txt";
         RomanianDeclensionFactory romanianDeclensionFactory = new RomanianDeclensionFactory(getDeclensions(declensionsAndFiles), getDeclensionList(declensionsAndFiles, declensionPath));
         NounRepository nounRepository = new NounRepository(patrologia.translator.basicelements.Language.ROMANIAN, romanianDeclensionFactory, new patrologia.translator.basicelements.DummyAccentuer(),getNouns(nounFileDescription));
-        //VerbRepository verbRepository = new VerbRepository(new RomanianConjugationFactory(getRomanianConjugations(conjugationsAndFiles), getRomanianConjugationDefinitions(conjugationsAndFiles, conjugationPath), romanianDeclensionFactory), patrologia.translator.basicelements.Language.ROMANIAN, new DummyAccentuer(), getVerbs(verbFileDescription));
         VerbRepository2 verbRepository = new VerbRepository2(new RomanianConjugationFactory(getRomanianConjugations(conjugationsAndFiles), getRomanianConjugationDefinitions(conjugationsAndFiles, conjugationPath), romanianDeclensionFactory), patrologia.translator.basicelements.Language.ROMANIAN, new DummyAccentuer(), getVerbs(verbFileDescription));
         RomanianRuleFactory ruleFactory = new RomanianRuleFactory(verbRepository);
         PrepositionRepository prepositionRepository = new PrepositionRepository(patrologia.translator.basicelements.Language.ROMANIAN, new RomanianCaseFactory(), ruleFactory, getPrepositions(prepositionFileDescription));
@@ -118,7 +117,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "imbrac,a,[incerca],(PAP*imbrac*imbracat*0)"
+                "da,,[da],(PAP*da*dat*0@ASP*da*d*0)"
         });
         */
         return getFileContentForRepository(verbFileDescription);
@@ -950,7 +949,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("bocaseumplu836", translatorBridge);
+        checkInMaps("assimil12C", translatorBridge);
     }
     
 }

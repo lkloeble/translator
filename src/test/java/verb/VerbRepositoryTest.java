@@ -4,10 +4,12 @@ import org.junit.Test;
 import patrologia.translator.basicelements.DummyAccentuer;
 import patrologia.translator.basicelements.Language;
 import patrologia.translator.basicelements.verb.VerbRepository2;
+import patrologia.translator.conjugation.english.EnglishConjugation;
+import patrologia.translator.conjugation.english.EnglishConjugationFactory;
 import patrologia.translator.conjugation.romanian.RomanianConjugationFactory;
+import patrologia.translator.declension.english.EnglishDeclensionFactory;
 import patrologia.translator.declension.romanian.RomanianDeclension;
 import patrologia.translator.declension.romanian.RomanianDeclensionFactory;
-import patrologia.translator.utils.DictionaryLoader;
 
 import java.util.*;
 
@@ -92,6 +94,24 @@ public class VerbRepositoryTest {
         //THEN
         assertTrue(verbRepository.hasVerb("imbogatsesc"));
         assertTrue(verbRepository.hasVerb("imbogatseasca"));
+
+    }
+
+    @Test
+    public void verbs_with_adverb_construction_is_handled() {
+        //GIVEN
+        List<String> verbDefinitions = getParams("bringforth,[see],(AIP*bring*brought*0)");
+        List<String> conjugationDefinitions = getParams("see%see.txt");
+        Map<String, List<String>> conjugationsDefinitionsList = new HashMap<>();
+        conjugationsDefinitionsList.put("see",Arrays.asList("IPR=>,,s,,, ,","AIP=>,,,,, ,"));
+        EnglishDeclensionFactory declensionFactory = new EnglishDeclensionFactory(Collections.EMPTY_LIST,Collections.EMPTY_LIST);
+        EnglishConjugationFactory conjugationFactory = new EnglishConjugationFactory(conjugationDefinitions, conjugationsDefinitionsList, declensionFactory);
+        verbRepository = new VerbRepository2(conjugationFactory, Language.ENGLISH, new DummyAccentuer(), verbDefinitions);
+
+        //WHEN
+
+        //THEN
+        assertTrue(verbRepository.hasVerb("broughtforth"));
 
     }
 

@@ -83,7 +83,7 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getEnglishConjugations(String conjugationsAndFiles) {
         /*
         return Arrays.asList(new String[]{
-                "live%live.txt"
+                "see%see.txt"
         });
         */
         return getFileContentForRepository(conjugationsAndFiles);
@@ -92,7 +92,7 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
     private Map<String, List<String>> getEnglishConjugationDefinitions(String file, String directory) {
         /*
         Map<String, List<String>> englishConjugationDefinitionsMap = new HashMap<>();
-        englishConjugationDefinitionsMap.put("live", getLiveDefinition());
+        englishConjugationDefinitionsMap.put("see", getSeeDefinition());
         return englishConjugationDefinitionsMap;
         */
 
@@ -110,23 +110,17 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "live,[live]"
+                "bring,[see],(AIP*bring*brought*0)",
+                "bringforth,[see],(AIP*bring*brought*0)"
         });
         */
         return getFileContentForRepository(verbFileDescription);
     }
 
-    private List<String> getLiveDefinition() {
+    private List<String> getSeeDefinition() {
         return Arrays.asList(new String[]{
                 "IPR=>,,s,,, ,",
-                "PAP=>d",
-                "AII=>d,d,d,d,d,d",
-                "AIMP=>xxx,,xxx,xxx,,xxx",
-                "PAPR=>ing",
-                "AIP=>d,d,d,d,d,d",
-                "ACP=>would,would,swould,would,would,would",
-                "AIF=>will,will,will,will,will,will",
-                "ASP=>am,are,is,are,are,are,are"
+                "AIP=>,,,,, ,"
         });
 
     }
@@ -1493,6 +1487,6 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("assimil8D", translatorBridge);
+        checkInMaps("toto", translatorBridge);
     }
 }

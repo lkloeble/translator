@@ -2,6 +2,7 @@ package patrologia.translator.basicelements.verb;
 
 import patrologia.translator.basicelements.Accentuer;
 import patrologia.translator.basicelements.Language;
+import patrologia.translator.basicelements.NullVerb;
 import patrologia.translator.basicelements.TranslationInformationBean;
 import patrologia.translator.conjugation.*;
 
@@ -14,6 +15,7 @@ public class VerbRepository2 {
     private Accentuer accentuer;
     private VerbDefinitionFactory verbDefinitionFactory = new VerbDefinitionFactory();
 
+    private ConjugationComparator conjugationComparator;
     private VerbMap verbMap;
 
     private TranslationBeanMap translationBeansMap = new TranslationBeanMap();
@@ -29,6 +31,7 @@ public class VerbRepository2 {
         this.infinitiveBuilder = InfinitiveBuilderFactory.getInfinitiveBuilder(language);
         this.conjugationMap = new ConjugationMap(accentuer, infinitiveBuilder);
         this.verbMap = new VerbMap(conjugationMap);
+        conjugationComparator = conjugationFactory.getComparator();
         definitionList.stream().forEach(definition -> addAllVerbs(definition));
     }
 
@@ -36,8 +39,13 @@ public class VerbRepository2 {
         return conjugationMap.containsKey(initialValue);
     }
 
-    public Verb getVerb(String key) {
-        return new Verb(verbMap.getVerb(key));
+    public Verb getVerb(String initialValue) {
+        String key = conjugationMap.getFirstKey(initialValue);
+        if (key == null) key = conjugationMap.getFirstKey(accentuer.unaccentued(initialValue));
+        if (key == null) key = initialValue;
+        Verb toClone = verbMap.getVerb(key);
+        if (toClone == null) return new NullVerb(language, null, null);
+        return new Verb(toClone);
     }
 
     public boolean isPossibleInfinitive(Verb verb) {
@@ -111,6 +119,7 @@ public class VerbRepository2 {
         rootedConjugationMap.put(verbDefinition.getRoot() + "@INFINITIVE", new RootedConjugation("INFINITIVE", verbDefinition.getInfinitiveForm()));
         Conjugation2 conjugation = conjugationFactory.getConjugationByPattern(verbDefinition);
         conjugation.getTimes().stream().forEach(time -> addAllConjugationAndRoot(time, conjugation, verbDefinition.getBaseConjugationRoot(),verbDefinition));
+        translationBeansMap.addConjugationForGlobalKey(verbDefinition.getRoot(), "INFINITIVE");
     }
 
     private void addAllConjugationAndRoot(String time, Conjugation2 conjugation, String baseConjugationRoot, VerbDefinition verbDefinition) {
@@ -138,30 +147,48 @@ public class VerbRepository2 {
     }
 
     public String getEquivalentForOtherRoot(String root, String formerInitialValue, String rootVerb, int verbTranslationPosition) {
-        return null;
+        TranslationInformationBean allFormsForTheFormerVerbRoot = getAllFormsForTheVerbRoot(rootVerb);
+        List<String> constructionNameForInitialValueList = allFormsForTheFormerVerbRoot.getConstructionNameForInitialValue(formerInitialValue, infinitiveBuilder);
+        Collections.sort(constructionNameForInitialValueList,conjugationComparator);
+        for (String constructionNameForInitialValue : constructionNameForInitialValueList) {
+            int positionFound = verbTranslationPosition;
+            TranslationInformationBean allFormsForTheTargetVerb = getAllFormsForTheVerbRoot(root);
+            RootedConjugation targetRootedConjugation = allFormsForTheTargetVerb.getNameForms().get(root + "@" + constructionNameForInitialValue);
+            if (targetRootedConjugation.hasValueForPosition(positionFound)) {
+                String result = targetRootedConjugation.getValueByPosition(positionFound);
+                return result.replace("-", "");
+            }
+        }
+        return "UNKNOWN_EQUIVALENT";
     }
 
     public boolean isConjugation(Verb followingVerb, String pap) {
+
         return false;
     }
 
     public Collection<? extends String> getValuesStartingWith(String value) {
+
         return Collections.EMPTY_LIST;
     }
 
     public Collection<? extends String> getValuesEndingWith(String value) {
+
         return Collections.EMPTY_LIST;
     }
 
     public int knowsThisInitialValues(List<String> decorateInitialValuesForRomanianInfinitive) {
+
         return 0;
     }
 
     public String isOnlyInThisTime(Verb followingVerb, List<String> futureTimes) {
+
         return null;
     }
 
     public Verb affectTime(Verb followingVerb, String onlyInThisTime, List<String> pastTimes) {
+
         return null;
     }
 
@@ -174,6 +201,7 @@ public class VerbRepository2 {
     }
 
     public String getConjugationSynonym(String constructionName) {
+
         return null;
     }
 
