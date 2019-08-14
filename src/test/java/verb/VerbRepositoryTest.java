@@ -169,6 +169,53 @@ public class VerbRepositoryTest {
     }
 
 
+    @Test
+    public void verbs_with_conjugation_having_more_than_two_construction_for_the_same_person_is_well_handled() {
+        //GIVEN
+        List<String> verbDefinitions = getParams("zic,,[merg],(AIP*zic*zis*0@AII*zic*zice*0@PAP*zic*zis*0)");
+        List<String> conjugationDefinitions = getParams("merg%merg.txt");
+        Map<String, List<String>> conjugationsDefinitionsList = new HashMap<>();
+        conjugationsDefinitionsList.put("merg",Arrays.asList("PAPR=>ind|indu|and|andu"));
+        RomanianDeclensionFactory declensionFactory = new RomanianDeclensionFactory(Collections.EMPTY_LIST,Collections.EMPTY_LIST);
+        RomanianConjugationFactory conjugationFactory = new RomanianConjugationFactory(conjugationDefinitions, conjugationsDefinitionsList, declensionFactory);
+        verbRepository = new VerbRepository2(conjugationFactory, Language.ROMANIAN, new DummyAccentuer(), verbDefinitions);
+        Translator frenchTranslator = new FrenchTranslator(Arrays.asList("zic@verb!norm%1(verb)=dire"), Arrays.asList("dire@NORM%[INFINITIVE]=[dire]%[IPR]=[dis,dis,dit,disons,dîtes,disent]%[AIP]=[dis,dis,dit,dîmes,dîtes,dirent]%[PIP]=[suis dit,es dit,est dit,sommes dits, êtes dits, sont dit]%[AIP]=[x,dis,x,x,dites,x]%[AII]=[disais,disais,disait,disions,disiez,disaient]%[PAPR]=[disant]%[AIPP]=[ai dit,as dit,a dit,avons dit,avez dit,ont dit]%[ACAOIM]=[dis,dis,disons,dites]%[AIF]=[dirai,diras,dira,dirons,direz,diront]%[AIMP]=[-,dis,-,disons,dîtes,-]%[PAP]=[dit]%[ACAOIN]=[dis,dis,dit,dîmes,dîtes,dirent]%[ARAIPR]=[dis,dis,dit,disons,dîtes,disent]%[PPP]=[dit]%[PRESACTPART]=[disant,disant,disant,-,-,-]%[NIFALAIP]=[suis dit,es dit,est dit,sommes dits,êtes dits,sont dits]%[ACAOINBIS]=[dis,dis,dit,disons,dites,dirent]%[ASI]=[dise,dises,dise,disions,disiez,disent]%[BINHIPER]=[dis,dis,dit,dîmes,dîtes,dirent]%[AIFP]=[aurai dis, auras dit,aura dit,aurons dit,aurez dit,auront dit]%[ASP]=[dise,dises,dise,disions,disiez,disent]%[ASPP]=[eusse dit,eusses dit,eut dit,eussions dits,eussiez dit,eurent dit]%[IPRPLU]=[disent]"), verbRepository, null, null, null, declensionFactory);
+        Phrase phrase = new Phrase(1,Language.ROMANIAN);
+        Verb verb = verbRepository.getVerb("zicand");
+        verb.updateInitialValue("zicand");
+        phrase.addWordAtPosition(1, verb);
+        Analysis analysis = new Analysis(Language.ROMANIAN,phrase);
+        //WHEN
+
+        //THEN
+        assertTrue(verbRepository.hasVerb("zicand"));
+        assertEquals("disant",frenchTranslator.translateToRead(analysis));
+    }
+
+    @Test
+    public void verbs_with_conjugation_having_multiple_construction_for_the_same_person_translates_well_other_velurd() {
+        //GIVEN
+        List<String> verbDefinitions = getParams("locu,,[locuiesc]");
+        List<String> conjugationDefinitions = getParams("locuiesc%locuiesc.txt");
+        Map<String, List<String>> conjugationsDefinitionsList = new HashMap<>();
+        conjugationsDefinitionsList.put("locuiesc",Arrays.asList("IPR=>iesc,iesti,este|ieste,im,itsi,iesc"));
+        RomanianDeclensionFactory declensionFactory = new RomanianDeclensionFactory(Collections.EMPTY_LIST,Collections.EMPTY_LIST);
+        RomanianConjugationFactory conjugationFactory = new RomanianConjugationFactory(conjugationDefinitions, conjugationsDefinitionsList, declensionFactory);
+        verbRepository = new VerbRepository2(conjugationFactory, Language.ROMANIAN, new DummyAccentuer(), verbDefinitions);
+        Translator frenchTranslator = new FrenchTranslator(Arrays.asList("locu@verb!norm%1(verb)=habiter"), Arrays.asList("habiter@NORM%[INFINITIVE]=[habiter]%[IPR]=[habite,habites,habite,habitons,habitez,habitent]"), verbRepository, null, null, null, declensionFactory);
+        Phrase phrase = new Phrase(1,Language.ROMANIAN);
+        Verb verb = verbRepository.getVerb("locuim");
+        verb.updateInitialValue("locuim");
+        phrase.addWordAtPosition(1, verb);
+        Analysis analysis = new Analysis(Language.ROMANIAN,phrase);
+        //WHEN
+
+        //THEN
+        assertTrue(verbRepository.hasVerb("locuim"));
+        assertEquals("habitons",frenchTranslator.translateToRead(analysis));
+    }
+
+
     private List<String> getParams(String... testData) {
         List<String> params = new ArrayList<>();
         for(String data : testData) {

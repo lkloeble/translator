@@ -30,8 +30,16 @@ public abstract class Conjugation2 {
         String[] allValues = allEndings.split(",");
         for(String value : allValues) {
             if(value.contains("|")) {
+                int indicePipe = 1;
                 String[] multipleValues = value.split("\\|");
-                sb.append(root).append(multipleValues[0]).append("|").append(root).append(multipleValues[1]).append(",");
+                for(String partValue : multipleValues) {
+                    sb.append(root).append(partValue);
+                    if(indicePipe < multipleValues.length) {
+                        sb.append("|");
+                    }
+                    indicePipe++;
+                }
+                sb.append(",");
             } else {
                 sb.append(root).append(value).append(",");
             }

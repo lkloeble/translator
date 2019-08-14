@@ -173,8 +173,11 @@ public class VerbRepository2 {
     }
 
     public int knowsThisInitialValues(List<String> decorateInitialValuesForRomanianInfinitive) {
-
-        return 0;
+        int numberOfInitialValuesKnown = 0;
+        for (String initialValue : decorateInitialValuesForRomanianInfinitive) {
+            if (hasVerb(initialValue)) numberOfInitialValuesKnown++;
+        }
+        return numberOfInitialValuesKnown;
     }
 
     public String isOnlyInThisTime(Verb followingVerb, List<String> futureTimes) {

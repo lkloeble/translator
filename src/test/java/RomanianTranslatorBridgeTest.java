@@ -116,7 +116,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "fac,e,[face],(AIMP*fac*fa*0@PAP*fac*facut*0)"
+                "zic,,[merg],(AIP*zic*zis*0@AII*zic*zice*0@PAP*zic*zis*0)"
         });
         */
         return getFileContentForRepository(verbFileDescription);
