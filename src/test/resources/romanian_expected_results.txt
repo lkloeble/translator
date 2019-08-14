@@ -674,4 +674,4 @@ patericulegyptantonia4E=>foobar
 patericulegyptantonia4F=>foobar
 patericulegyptantonia4G=>foobar
 
-toto=>abandonner nous voudras [XXX] nous
+toto=>nous habitons

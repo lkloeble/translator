@@ -1,5 +1,6 @@
 package patrologia.translator.basicelements.verb;
 
+import patrologia.translator.conjugation.ConjugationPart;
 import patrologia.translator.conjugation.ConjugationPosition;
 
 import java.util.*;
@@ -116,5 +117,9 @@ public class TranslationInformationReplacement2 {
         return "TranslationInformationReplacement2{" +
                 "description='" + description + '\'' +
                 '}';
+    }
+
+    public String replace(String time,ConjugationPart conjugationPart) {
+        return replace(time,conjugationPart.getValue(),conjugationPart.getConjugationPosition());
     }
 }

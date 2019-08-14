@@ -1,8 +1,11 @@
 package verb;
 
 import org.junit.Test;
+import patrologia.translator.basicelements.Analysis;
 import patrologia.translator.basicelements.DummyAccentuer;
 import patrologia.translator.basicelements.Language;
+import patrologia.translator.basicelements.Phrase;
+import patrologia.translator.basicelements.verb.Verb;
 import patrologia.translator.basicelements.verb.VerbRepository2;
 import patrologia.translator.conjugation.english.EnglishConjugation;
 import patrologia.translator.conjugation.english.EnglishConjugationFactory;
@@ -10,10 +13,13 @@ import patrologia.translator.conjugation.romanian.RomanianConjugationFactory;
 import patrologia.translator.declension.english.EnglishDeclensionFactory;
 import patrologia.translator.declension.romanian.RomanianDeclension;
 import patrologia.translator.declension.romanian.RomanianDeclensionFactory;
+import patrologia.translator.linguisticimplementations.FrenchTranslator;
+import patrologia.translator.linguisticimplementations.Translator;
 
 import java.util.*;
 
 import static junit.framework.TestCase.assertTrue;
+import static org.junit.Assert.assertEquals;
 
 public class VerbRepositoryTest {
 
@@ -114,6 +120,54 @@ public class VerbRepositoryTest {
         assertTrue(verbRepository.hasVerb("broughtforth"));
 
     }
+
+
+    @Test
+    public void verbs_with_conjugation_having_multiple_construction_for_the_same_person() {
+        //GIVEN
+        List<String> verbDefinitions = getParams("locu,,[locuiesc]");
+        List<String> conjugationDefinitions = getParams("locuiesc%locuiesc.txt");
+        Map<String, List<String>> conjugationsDefinitionsList = new HashMap<>();
+        conjugationsDefinitionsList.put("locuiesc",Arrays.asList("IPR=>iesc,iesti,este|ieste,im,itsi,iesc"));
+        RomanianDeclensionFactory declensionFactory = new RomanianDeclensionFactory(Collections.EMPTY_LIST,Collections.EMPTY_LIST);
+        RomanianConjugationFactory conjugationFactory = new RomanianConjugationFactory(conjugationDefinitions, conjugationsDefinitionsList, declensionFactory);
+        verbRepository = new VerbRepository2(conjugationFactory, Language.ROMANIAN, new DummyAccentuer(), verbDefinitions);
+        Translator frenchTranslator = new FrenchTranslator(Arrays.asList("locu@verb!norm%1(verb)=habiter"), Arrays.asList("habiter@NORM%[INFINITIVE]=[habiter]%[IPR]=[habite,habites,habite,habitons,habitez,habitent]"), verbRepository, null, null, null, declensionFactory);
+        Phrase phrase = new Phrase(1,Language.ROMANIAN);
+        Verb verb = verbRepository.getVerb("locuieste");
+        verb.updateInitialValue("locuieste");
+        phrase.addWordAtPosition(1, verb);
+        Analysis analysis = new Analysis(Language.ROMANIAN,phrase);
+        //WHEN
+
+        //THEN
+        assertTrue(verbRepository.hasVerb("locuieste"));
+        assertEquals("habite",frenchTranslator.translateToRead(analysis));
+    }
+
+    @Test
+    public void verbs_with_conjugation_having_translation_replacement_is_well_translated() {
+        //GIVEN
+        List<String> verbDefinitions = getParams("intseleg,e,[merg],(PAP*intseleg*intseles*0@ASP*intseleg*intseleag*0)");
+        List<String> conjugationDefinitions = getParams("merg%merg.txt");
+        Map<String, List<String>> conjugationsDefinitionsList = new HashMap<>();
+        conjugationsDefinitionsList.put("merg",Arrays.asList("IPR=>,i,e,em,etsi,","ASP=>,i,a,em,etsi,a"));
+        RomanianDeclensionFactory declensionFactory = new RomanianDeclensionFactory(Collections.EMPTY_LIST,Collections.EMPTY_LIST);
+        RomanianConjugationFactory conjugationFactory = new RomanianConjugationFactory(conjugationDefinitions, conjugationsDefinitionsList, declensionFactory);
+        verbRepository = new VerbRepository2(conjugationFactory, Language.ROMANIAN, new DummyAccentuer(), verbDefinitions);
+        Translator frenchTranslator = new FrenchTranslator(Arrays.asList("intselege@verb!norm%1(verb)=comprendre"), Arrays.asList("comprendre@NORM%[INFINITIVE]=[comprendre]%[IPR]=[comprends,comprends,comprend,comprenons,comprenez,comprennent]%[PAP]=[compris]%[ASP]=[comprenne,comprennes,comprenne,comprenions,compreniez,comprennent]"), verbRepository, null, null, null, declensionFactory);
+        Phrase phrase = new Phrase(1,Language.ROMANIAN);
+        Verb verb = verbRepository.getVerb("intseleg");
+        verb.updateInitialValue("intseleg");
+        phrase.addWordAtPosition(1, verb);
+        Analysis analysis = new Analysis(Language.ROMANIAN,phrase);
+        //WHEN
+
+        //THEN
+        assertTrue(verbRepository.hasVerb("intseleg"));
+        assertEquals("comprends",frenchTranslator.translateToRead(analysis));
+    }
+
 
     private List<String> getParams(String... testData) {
         List<String> params = new ArrayList<>();

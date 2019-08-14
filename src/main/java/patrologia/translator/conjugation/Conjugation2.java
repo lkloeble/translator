@@ -22,15 +22,19 @@ public abstract class Conjugation2 {
         StringBuilder sb = new StringBuilder();
         String allEndings = null;
         if(isRelatedTonoun(time)) {
-            List<String> declensions = extractNounDeclensionsFromDescription(time);
-            allEndings = getAllEndingsByDeclensions(declensions);
+            return root;
         } else {
             allEndings = descriptions.get(time);
         }
         if(allEndings == null) return root;
         String[] allValues = allEndings.split(",");
         for(String value : allValues) {
-            sb.append(root).append(value).append(",");
+            if(value.contains("|")) {
+                String[] multipleValues = value.split("\\|");
+                sb.append(root).append(multipleValues[0]).append("|").append(root).append(multipleValues[1]).append(",");
+            } else {
+                sb.append(root).append(value).append(",");
+            }
         }
         return sb.deleteCharAt(sb.length()-1).toString();
     }

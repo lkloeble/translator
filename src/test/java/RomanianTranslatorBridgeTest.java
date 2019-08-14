@@ -60,7 +60,8 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getRomanianDico(String romanianFrenchDataFile) {
         /*
         return Arrays.asList(new String[]{
-                        "autoformare@verb!norm%1(verb)=autoformer",
+                        "face@verb!norm%1(verb)=faire",
+                        "scump@noun!adj%1(adj)=cher"
                 });
                 */
         return getFileContentForRepository(romanianFrenchDataFile);
@@ -78,8 +79,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getNouns(String nounFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "tanar@masc%ul",
-                "tanar@adj%adj[nomplr(mascplri):tineri]"
+                "scump@adj%adj"
         });
         */
         return getFileContentForRepository(nounFileDescription);
@@ -87,11 +87,10 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
 
     private Map<String, List<String>> getRomanianConjugationDefinitions(String file, String directory) {
         /*
-        Map<String, List<String>> latinConjugationDefinitionsMap = new HashMap<>();
-        latinConjugationDefinitionsMap.put("o-is", getOIslDefinition());
-        return latinConjugationDefinitionsMap;
+        Map<String, List<String>> conjugationDefinitionsMap = new HashMap<>();
+        conjugationDefinitionsMap.put("face", Arrays.asList("IPR=>,i,e,em,etsi,,","PAP=>[adjts]","AIMP=> ,"));
+        return conjugationDefinitionsMap;
         */
-
 
         List<String> conjugationNameList = getFileContentForRepository(file);
         Map<String, List<String>> romanianConjugationDefinitionsMap = new HashMap<>();
@@ -117,7 +116,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "da,,[da],(PAP*da*dat*0@ASP*da*d*0)"
+                "fac,e,[face],(AIMP*fac*fa*0@PAP*fac*facut*0)"
         });
         */
         return getFileContentForRepository(verbFileDescription);
@@ -949,7 +948,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("assimil12C", translatorBridge);
+        checkInMaps("toto", translatorBridge);
     }
     
 }
