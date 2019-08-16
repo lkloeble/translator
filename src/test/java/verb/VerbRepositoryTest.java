@@ -7,7 +7,6 @@ import patrologia.translator.basicelements.Language;
 import patrologia.translator.basicelements.Phrase;
 import patrologia.translator.basicelements.verb.Verb;
 import patrologia.translator.basicelements.verb.VerbRepository2;
-import patrologia.translator.conjugation.english.EnglishConjugation;
 import patrologia.translator.conjugation.english.EnglishConjugationFactory;
 import patrologia.translator.conjugation.romanian.RomanianConjugationFactory;
 import patrologia.translator.declension.english.EnglishDeclensionFactory;
@@ -215,6 +214,53 @@ public class VerbRepositoryTest {
         assertEquals("habitons",frenchTranslator.translateToRead(analysis));
     }
 
+    @Test
+    public void participle_past_are_well_translated() {
+        //GIVEN
+        List<String> verbDefinitions = getParams("incarc,,[incerca],(PAP*incarc*incarcat)");
+        List<String> conjugationDefinitions = getParams("incerca%incerca.txt");
+        Map<String, List<String>> conjugationsDefinitionsList = new HashMap<>();
+        conjugationsDefinitionsList.put("incerca",Arrays.asList("IPR=>,i,a,am,atsi,a","AII=>am,ai,a,am,atsi,au","PAP=>[adj,adjts]"));
+        RomanianDeclension adjective = new RomanianDeclension("adjective.txt", Arrays.asList("nomadjmascsga%sing%masc%","nomnounmascsg%sing%masc%ul","nomnounfemsga%sing%fem%a"),false);
+        RomanianDeclension adjectivets = new RomanianDeclension("adjectivets.txt", Arrays.asList("nom%sing%masc%","nom%sing%fem%a","gen%plr%masc%silor"),false);
+        RomanianDeclensionFactory declensionFactory = new RomanianDeclensionFactory(Arrays.asList("adj%adjective.txt","adjts%adjectivets.txt"),Arrays.asList(adjective,adjectivets));
+        RomanianConjugationFactory conjugationFactory = new RomanianConjugationFactory(conjugationDefinitions, conjugationsDefinitionsList, declensionFactory);
+        verbRepository = new VerbRepository2(conjugationFactory, Language.ROMANIAN, new DummyAccentuer(), verbDefinitions);
+        Translator frenchTranslator = new FrenchTranslator(Arrays.asList("incarc@verb!norm%1(verb)=charger"), Arrays.asList("charger@NORM%[INFINITIVE]=[charger]%[IPR]=[charge,charges,charge,chargeons,chargez,chargent]%[PAP]=[chargé]%[PAPR]=[chargeant]"), verbRepository, null, null, null, declensionFactory);
+        Phrase phrase = new Phrase(1,Language.ROMANIAN);
+        Verb verb = verbRepository.getVerb("incarcat");
+        verb.updateInitialValue("incarcat");
+        phrase.addWordAtPosition(1, verb);
+        Analysis analysis = new Analysis(Language.ROMANIAN,phrase);
+        //WHEN
+
+        //THEN
+        assertTrue(verbRepository.hasVerb("incarcat"));
+        assertEquals("chargé",frenchTranslator.translateToRead(analysis));
+    }
+
+    @Test
+    public void subjonctive_are_well_translated() {
+        //GIVEN
+        List<String> verbDefinitions = getParams("pierd,e,[vinde],(AII*pie*pia@CONJ0134*pierd*pier@CONJ25*pierd*piard)");
+        List<String> conjugationDefinitions = getParams("vinde%vinde.txt");
+        Map<String, List<String>> conjugationsDefinitionsList = new HashMap<>();
+        conjugationsDefinitionsList.put("vinde",Arrays.asList("IPR=>d,zi,de,dem,detsi,d","PSP=>d,zi,da,dem,detsi,d","CONJ=>z,zi,da,em,etsi,a"));
+        RomanianDeclensionFactory declensionFactory = new RomanianDeclensionFactory(Collections.EMPTY_LIST,Collections.EMPTY_LIST);
+        RomanianConjugationFactory conjugationFactory = new RomanianConjugationFactory(conjugationDefinitions, conjugationsDefinitionsList, declensionFactory);
+        verbRepository = new VerbRepository2(conjugationFactory, Language.ROMANIAN, new DummyAccentuer(), verbDefinitions);
+        Translator frenchTranslator = new FrenchTranslator(Arrays.asList("pierde@verb!norm%1(verb)=perdre"), Arrays.asList("perdre@NORM%[INFINITIVE]=[perdre]%[IPR]=[perds,perds,perd,perdons,perdez,perdent]%[PIF]=[serai perdu,seras perdu,sera perdu,serons perdus,serez perdus,seront perdus]%[HIFPER]=[causais de perdre,causais de perdre,causa de perdre,causâmes de perdre,causâtes de perdre,causèrent de perdre]%[PAP]=[perdu]%[ACP]=[perdrais,perdrais,perdrait,perdrions,perdriez,perdraient]%[AII]=[perdais,perdais,perdait,perdions,perdiez,perdaient]%[CONJ]=[perdre]"), verbRepository, null, null, null, declensionFactory);
+        Phrase phrase = new Phrase(1,Language.ROMANIAN);
+        Verb verb = verbRepository.getVerb("piarda");
+        verb.updateInitialValue("piarda");
+        phrase.addWordAtPosition(1, verb);
+        Analysis analysis = new Analysis(Language.ROMANIAN,phrase);
+        //WHEN
+
+        //THEN
+        assertTrue(verbRepository.hasVerb("piarda"));
+        assertEquals("perdre",frenchTranslator.translateToRead(analysis));
+    }
 
     private List<String> getParams(String... testData) {
         List<String> params = new ArrayList<>();

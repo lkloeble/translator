@@ -8,10 +8,8 @@ import java.util.*;
 public class TranslationInformationReplacement2 {
 
     private String description;
-    private Map<Integer,String> timeMap = new HashMap<>();
-    private Map<String, List<Integer>> timePositions = new HashMap<>();
-    private Map<Integer,String> patternMap = new HashMap<>();
-    private Map<Integer,String> replaceMap = new HashMap<>();
+    private Map<String,String> patternMap = new HashMap<>();
+    private Map<String,String> replaceMap = new HashMap<>();
 
     public TranslationInformationReplacement2(String description) {
         this.description = description;
@@ -29,77 +27,70 @@ public class TranslationInformationReplacement2 {
     private void processDescription(String description, int indice) {
         if(description == null || description.length() == 0) return;
         String[] infos = description.split("\\*");
-        String time = infos[0];
-        boolean timePosition = isTimePosition(time);
-        if(timePosition) {
-            timePositions.put(cleanTimeFromPosition(time),getPositions(time));
+        String timeAndPosition = infos[0];
+        String patternToFind =infos[1];
+        String replacementForPattern =infos[2];
+        List<String> allPositionsPossibleForTheTime = getAllPositions(timeAndPosition);
+        for(String positionAndTime : allPositionsPossibleForTheTime) {
+            patternMap.put(positionAndTime,patternToFind);
+            replaceMap.put(positionAndTime,replacementForPattern);
         }
-        timeMap.put(indice,cleanTimeFromPosition(time));
-        String patternToSearch = infos[1];
-        patternMap.put(indice,patternToSearch);
-        String replacement = infos[2];
-        replaceMap.put(indice,replacement);
-
-    }
-
-    private List<Integer> getPositions(String time) {
-        List<Integer> positions = new ArrayList<>();
-        char[] chars = time.toCharArray();
-        for(char c : chars) {
-            if(c >= '0' && c <= '9') {
-                positions.add(Character.getNumericValue(c));
-            }
-        }
-        return positions;
-    }
-
-    private boolean isTimePosition(String time) {
-        char[] chars = time.toCharArray();
-        for(char c : chars) {
-            if(c >= '0' && c <= '9') return true;
-        }
-        return false;
     }
 
     public String replace(String time, String patternToUpdate, ConjugationPosition position) {
         if(!hasReplacementForTime(time)) {
             return patternToUpdate;
         }
-        int indiceOfReplacement = getIndiceReplacementInMaps(time);
         if(hasReplacementForPosition(time,position)) {
-            String patternToSearch = patternMap.get(indiceOfReplacement);
-            String replacementToProceed =replaceMap.get(indiceOfReplacement);
+            String keyForTimeAndPosition = time + position.getIndice();
+            String patternToSearch = patternMap.get(keyForTimeAndPosition);
+            String replacementToProceed =replaceMap.get(keyForTimeAndPosition);
             return patternToUpdate.replace(patternToSearch,replacementToProceed);
-        } else if (!hasReplacementForPosition(time,position) && timeContainsPositionsToHandle(time)) {
-            return patternToUpdate;
         }
-        String patternToSearch = patternMap.get(indiceOfReplacement);
-        String replacementToProceed =replaceMap.get(indiceOfReplacement);
-        return patternToUpdate.replace(patternToSearch,replacementToProceed);
-    }
-
-    private boolean timeContainsPositionsToHandle(String time) {
-        return timePositions.containsKey(time);
+        return patternToUpdate;
     }
 
     private boolean hasReplacementForPosition(String time, ConjugationPosition position) {
-        if(!timePositions.containsKey(time)) return false;
-        List<Integer> authorizedPositions = timePositions.get(time);
-        return authorizedPositions.contains(position.getIndice());
-    }
-
-    private int getIndiceReplacementInMaps(String time) {
-        int indice = 0;
-        Set<Map.Entry<Integer, String>> entries = timeMap.entrySet();
-        for(Map.Entry entry : entries) {
-            String timeValue = (String)entry.getValue();
-            if(timeValue.equals(time)) return (Integer)entry.getKey();
-        }
-        return indice;
+        return patternMap.containsKey(time + position.getIndice()) && replaceMap.containsKey(time + position.getIndice());
     }
 
     public boolean hasReplacementForTime(String time) {
-        return timeMap.values().contains(time);
+        Set<String> allPossibleTimesWithPositions = patternMap.keySet();
+        for(String possibleTimeWithPosition : allPossibleTimesWithPositions) {
+            if(possibleTimeWithPosition.startsWith(time)) return true;
+        }
+        return false;
+    }
+
+
+    private List<String> getAllPositions(String time) {
+        List<String> allPositions = new ArrayList<>();
+        String timeOnly = cleanTimeFromPosition(time);
+        List<Integer> positionsOnly = extractPositionsOnly(time);
+        for(Integer position : positionsOnly) {
+            allPositions.add(timeOnly + position);
+        }
+        return allPositions;
+    }
+
+    private List<Integer> extractPositionsOnly(String time) {
+        char[] chars = time.toCharArray();
+        List<Integer> positionList = new ArrayList<>();
+        for(char c : chars) {
+            if(c >= '0' && c <= '9') positionList.add(Character.getNumericValue(c));
+        }
+        if(thereIsNoPositionForThisTime(positionList)) {
+            return getAllPositionsByDefault();
+        }
+        return positionList;
+    }
+
+    private List<Integer> getAllPositionsByDefault() {
+        return Arrays.asList(0,1,2,3,4,5);
+    }
+
+    private boolean thereIsNoPositionForThisTime(List<Integer> positionList) {
+        return positionList.size() == 0;
     }
 
     private String cleanTimeFromPosition(String time) {

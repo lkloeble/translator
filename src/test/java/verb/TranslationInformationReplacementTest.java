@@ -30,4 +30,12 @@ public class TranslationInformationReplacementTest {
         assertEquals("foobar", translationInformationReplacement.replace("IPR","foobar", ConjugationPosition.SINGULAR_FIRST_PERSON));
         assertEquals("onoffbar", translationInformationReplacement.replace("IPR","foobar", ConjugationPosition.SINGULAR_SECOND_PERSON));
     }
+
+    @Test
+    public void replacement_should_handle_multiple_specific_position_in_alteration() {
+        translationInformationReplacement = new TranslationInformationReplacement2("IPR1*foo*first@IPR2*foo*second");
+        assertEquals("foobar",translationInformationReplacement.replace("IPR","foobar",ConjugationPosition.PLURAL_THIRD_PERSON));
+        assertEquals("firstbar",translationInformationReplacement.replace("IPR","foobar",ConjugationPosition.SINGULAR_SECOND_PERSON));
+        assertEquals("secondbar",translationInformationReplacement.replace("IPR","foobar",ConjugationPosition.SINGULAR_THIRD_PERSON));
+    }
 }
