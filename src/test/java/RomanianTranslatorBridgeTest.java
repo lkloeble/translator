@@ -60,8 +60,8 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getRomanianDico(String romanianFrenchDataFile) {
         /*
         return Arrays.asList(new String[]{
-                        "face@verb!norm%1(verb)=faire",
-                        "scump@noun!adj%1(adj)=cher"
+                        "pot@verb!irrg%1(verb)=pouvoir",
+                        "deveni@verb!norm%1(verb)=devenir"
                 });
                 */
         return getFileContentForRepository(romanianFrenchDataFile);
@@ -116,7 +116,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "zic,,[merg],(AIP*zic*zis*0@AII*zic*zice*0@PAP*zic*zis*0)"
+                "cuget,,[incerca],(PAP*cuget*cugetat)"
         });
         */
         return getFileContentForRepository(verbFileDescription);
@@ -948,7 +948,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("toto", translatorBridge);
+        checkInMaps("assimil18J", translatorBridge);
     }
     
 }

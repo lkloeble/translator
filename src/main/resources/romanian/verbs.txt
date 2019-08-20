@@ -3,7 +3,7 @@ actualiz,,[fumez]
 adanc,i,[aciti]
 adorm,i,[dorm]
 aduc,,[face],(PAP*aduc*adus)
-afirm,,[incerca]
+afirm,,[incerca],(PAP*afirm*afirmat)
 afl,,[intampla],(PAP*afl*aflat)
 ajung,,[merg],(AII*ajung*ajunge@PAP*ajung*ajuns)
 ajut,,[cauta]
@@ -16,7 +16,7 @@ apreci,,[aprecia]
 aprind,e,[merg],(IPR1*di*zi*1)
 apropri,,[aprecia]
 arat,,[incerca],(AII*arat*aratar)
-arunc,,[incerca]
+arunc,,[incerca],(PAP*arunc*aruncat)
 as,eza,[aprecia],(PAP*asat*asezat)
 ascult,,[cauta]
 aspir,a,[incerca]
@@ -56,7 +56,7 @@ corespun,,[vinde]
 cost,,[cauta]
 cre,de,[crede]
 cres,c,[cresc]
-cuget,,[incerca]
+cuget,,[incerca],(PAP*cuget*cugetat)
 culeg,,[face]
 culmin,,[fumez]
 cun,,[cunosc]
@@ -120,7 +120,7 @@ incoron,,[fumez]
 incremen,,[primi]
 incunun,,[incerca]
 indemn,a,[incerca],(PAP*indemn*indemnat)
-indic,,[incerca]
+indic,,[incerca],(PAP*indic*indicat)
 infrunt,,[cauta]
 inlocu,i,[aciti]
 inmormint,,[fumez]
@@ -143,7 +143,7 @@ intunec,,[cauta]
 inva,,[invata],(IPR*atsi*etsi*1)
 istoris,,[locuiesc],(PAP*istoris*istorisit)
 iub,,[aciti]
-lepad,,[incerca],(IPR25*lepad*leapad@IPR1*lepad*lepez)
+lepad,,[incerca],(IPR25*lepad*leapad@IPR1*lepad*lepez@PAP*lepad*lepadat)
 locu,,[locuiesc]
 lua@IRREGULAR%[IPR]=[iau,iei,ia,luam,luatsi,iau]%[PAP]=[luat]%[PAPR]=[luand]%[INFINITIVE]=[lua]
 lucr,,[fumez]
@@ -198,7 +198,7 @@ propovadu,,[locuiesc]
 pun,e,[merg]
 rama,nea,[ramane]
 rasad,,[aciti],(PAP*rasad*rasadit)
-rascul,a,[incerca]
+rascul,a,[incerca],(PAP*rascul*rasculat)
 raspun,,[raspund]
 realiz,a,[fumez]
 remarc,a,[cauta],(PAP*remarc*remarcat)
@@ -235,15 +235,15 @@ sta,,[stiu]
 stapan,,[aciti],(PAP*stapan*stapanit)
 sti,,[stiu],(AIPP*sti*stius)
 straluc,,[primi]
-stric,,[incerca]
-strig,,[incerca]
+stric,,[incerca],(PAP*stric*stricat)
+strig,,[incerca],(PAP*strig*strigat)
 string,,[merg],(MMCP*string*strins)
 studi,a,[fumez]
 sublini,,[aprecia]
 succe,,[succeda]
 sufer,,[suferi],(IPR0*er*ar*1)
 suport,,[cauta]
-surp,,[incerca]
+surp,,[incerca],(PAP*surp*surpat)
 sustsi,,[ramane]
 tangui,,[trebui]
 tax,,[fumez]

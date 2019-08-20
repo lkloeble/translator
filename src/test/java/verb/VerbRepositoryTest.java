@@ -262,6 +262,33 @@ public class VerbRepositoryTest {
         assertEquals("perdre",frenchTranslator.translateToRead(analysis));
     }
 
+    @Test
+    public void poate_verbal_romanian_construction_is_handled() {
+        //GIVEN
+        List<String> verbDefinitions = getParams("pot@IRREGULAR%[INFINITIVE]=[putea]%[IPR]=[pot,potsi,poate|poata,putem,putetsi,pot]%[PAP]=[putut]","deven,i,[deveni],(PAP*devinat*devenit@IPR0125*deven*devin@AIP01*deven*devi@AIP25*deven*devin@ACPINF*deven*ardeveni)");
+        List<String> conjugationDefinitions = getParams("deveni%deveni.txt");
+        Map<String, List<String>> conjugationsDefinitionsList = new HashMap<>();
+        conjugationsDefinitionsList.put("deveni",Arrays.asList("IPR=>,i,e,im,itsi,","AIP=>u,i,a,im,itsi,a","PAP=>it","ACPINF=>,xx"));
+        RomanianDeclensionFactory declensionFactory = new RomanianDeclensionFactory(Collections.EMPTY_LIST,Collections.EMPTY_LIST);
+        RomanianConjugationFactory conjugationFactory = new RomanianConjugationFactory(conjugationDefinitions, conjugationsDefinitionsList, declensionFactory);
+        verbRepository = new VerbRepository2(conjugationFactory, Language.ROMANIAN, new DummyAccentuer(), verbDefinitions);
+        Translator frenchTranslator = new FrenchTranslator(Arrays.asList("pot@verb!irrg%1(verb)=pouvoir","deveni@verb!norm%1(verb)=devenir"), Arrays.asList("pouvoir@NORM%[INFINITIVE]=[pouvoir]%[IPR]=[peux,peux,peut,pouvons,pouvez,peuvent]","devenir@NORM%[INFINITIVE]=[devenir]%[IPR]=[deviens,deviens,devient,devenons,devenez,deviennent]"), verbRepository, null, null, null, declensionFactory);
+        Phrase phrase = new Phrase(1,Language.ROMANIAN);
+        Verb verbPoate = verbRepository.getVerb("poate");
+        verbPoate.updateInitialValue("poate");
+        Verb verbDeveni = verbRepository.getVerb("deveni");
+        verbDeveni.updateInitialValue("deveni");
+        phrase.addWordAtPosition(1, verbPoate);
+        phrase.addWordAtPosition(2, verbDeveni);
+        Analysis analysis = new Analysis(Language.ROMANIAN,phrase);
+        //WHEN
+
+        //THEN
+        assertTrue(verbRepository.hasVerb("poate"));
+        assertTrue(verbRepository.hasVerb("deveni"));
+        assertEquals("peut devenir",frenchTranslator.translateToRead(analysis));
+    }
+
     private List<String> getParams(String... testData) {
         List<String> params = new ArrayList<>();
         for(String data : testData) {

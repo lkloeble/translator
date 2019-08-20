@@ -11,6 +11,8 @@ public class TranslationInformationReplacement2 {
     private Map<String,String> patternMap = new HashMap<>();
     private Map<String,String> replaceMap = new HashMap<>();
 
+    private static final String RELATED_TO_NOUN_POSITION = "0";
+
     public TranslationInformationReplacement2(String description) {
         this.description = description;
         processAllDescriptions(description);
@@ -39,19 +41,27 @@ public class TranslationInformationReplacement2 {
 
     public String replace(String time, String patternToUpdate, ConjugationPosition position) {
         if(!hasReplacementForTime(time)) {
-            return patternToUpdate;
+            return patternToUpdate.trim();
         }
         if(hasReplacementForPosition(time,position)) {
-            String keyForTimeAndPosition = time + position.getIndice();
+            String keyForTimeAndPosition = getKeyByTimeAndPosition(time,position);
             String patternToSearch = patternMap.get(keyForTimeAndPosition);
             String replacementToProceed =replaceMap.get(keyForTimeAndPosition);
-            return patternToUpdate.replace(patternToSearch,replacementToProceed);
+            return patternToUpdate.replace(patternToSearch,replacementToProceed).trim();
         }
-        return patternToUpdate;
+        return patternToUpdate.trim();
+    }
+
+    private String getKeyByTimeAndPosition(String time, ConjugationPosition position) {
+        if(!position.isRelatedToNoun()) {
+            return time + position.getIndice();
+        }
+        return time + RELATED_TO_NOUN_POSITION;
     }
 
     private boolean hasReplacementForPosition(String time, ConjugationPosition position) {
-        return patternMap.containsKey(time + position.getIndice()) && replaceMap.containsKey(time + position.getIndice());
+        String key = getKeyByTimeAndPosition(time,position);
+        return patternMap.containsKey(key) && replaceMap.containsKey(key);
     }
 
     public boolean hasReplacementForTime(String time) {

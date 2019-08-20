@@ -36,7 +36,7 @@ public class VerbRepository2 {
     }
 
     public boolean hasVerb(String initialValue) {
-        return conjugationMap.containsKey(initialValue);
+        return conjugationMap.containsKey(initialValue) || verbMap.hasVerb(initialValue);
     }
 
     public Verb getVerb(String initialValue) {
@@ -64,6 +64,10 @@ public class VerbRepository2 {
 
     public Collection<Verb> getVerbs(String initialValue) {
         Collection<Verb> allVerbs = verbMap.getAllVerbs(initialValue);
+        if(allVerbs.size() == 0 && lookForInfinitive(language,initialValue).getRoot() != null) {
+            allVerbs = new ArrayList<>();
+            ((ArrayList<Verb>) allVerbs).add(0,lookForInfinitive(language,initialValue));
+        }
         if (allVerbs != null && allVerbs.size() > 0) return allVerbs;
         return verbMap.getAllVerbs(accentuer.unaccentued(initialValue));
     }
@@ -134,7 +138,7 @@ public class VerbRepository2 {
             conjugationMap.put(replace, verbDefinition.getRoot());
             sb.append(replace).append(",");
         }
-        rootedConjugation.updateValues(translationInformationReplacement,time);
+        rootedConjugation.updateValues(translationInformationReplacement, time);
         rootedConjugationMap.put(verbDefinition.getRoot() + "@" + time, rootedConjugation);
         Verb verb = new Verb(verbDefinition.getRoot(), this, language);
         verbMap.put(verbDefinition.getRoot(), verb);
@@ -191,6 +195,9 @@ public class VerbRepository2 {
     }
 
     public Verb updatePreferedTranslation(Verb verb) {
+        if(verb.getRoot() == null) {
+            verb.setRoot(infinitiveBuilder.eraseInfinitiveForm(verb.getInitialValue()));
+        }
         int preferedTranslation = getVerb(verb.getRoot()).getPreferedTranslation();
         if (verb.getPreferedTranslation() == 0) {
             verb.setPreferedTranslation(preferedTranslation);
@@ -206,5 +213,23 @@ public class VerbRepository2 {
         Verb verb = getVerb(root);
         verb.setPreferedTranslation(indiceOfPreferedTranslation - 1);
         verbMap.put(root, verb);
+    }
+
+    public Verb lookForInfinitive(Language language, String initialValue) {
+        String infinitiveFromInitialValue = infinitiveBuilder.getInfinitiveFromInitialValue(initialValue);
+        RootedConjugation rootedConjugation = rootedConjugationMap.get(initialValue + "@INFINITIVE");
+        if (rootedConjugation != null && rootedConjugation.getValueByPosition(0).equals(infinitiveFromInitialValue)) {
+            Verb verb = new Verb(language, initialValue, 0);
+            verb.updateInitialValue(infinitiveFromInitialValue);
+            return verb;
+        } else {
+            return new NullVerb(language, null, null);
+        }
+
+
+    }
+
+    public String getInfinitiveForm(String initiaValue) {
+        return infinitiveBuilder.getInfinitiveFromInitialValue(initiaValue);
     }
 }
