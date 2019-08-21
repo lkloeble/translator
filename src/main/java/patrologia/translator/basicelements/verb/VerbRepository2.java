@@ -161,9 +161,9 @@ public class VerbRepository2 {
         return "UNKNOWN_EQUIVALENT";
     }
 
-    public boolean isConjugation(Verb followingVerb, String pap) {
-
-        return false;
+    public boolean isConjugation(Verb verb, String conjugationName) {
+        RootedConjugation rootedConjugation = rootedConjugationMap.get(verb.getRoot() + "@" + conjugationName);
+        return rootedConjugation != null && rootedConjugation.contains(verb.getInitialValue());
     }
 
     public Collection<? extends String> getValuesStartingWith(String value) {

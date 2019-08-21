@@ -3,6 +3,7 @@ actualiz,,[fumez]
 adanc,i,[aciti]
 adorm,i,[dorm]
 aduc,,[face],(PAP*aduc*adus)
+adun,a,[incerca],(PAP*adun*adunat)
 afirm,,[incerca],(PAP*afirm*afirmat)
 afl,,[intampla],(PAP*afl*aflat)
 ajung,,[merg],(AII*ajung*ajunge@PAP*ajung*ajuns)
@@ -112,7 +113,7 @@ inabus,,[aciti]
 inaint,,[fumez]
 incarc,,[incerca],(PAP*incarc*incarcat)
 incep,,[face],(PAP*incep*inceput)
-incerc,a,[incerca]
+incerc,a,[incerca],(PAP*incerc*incercat)
 incet,a,[fumez]
 inchei,a,[incheia],(ACP*inchei*arinchei@ACPINF*inchei*arincheia)
 inchin,,[cauta]
@@ -201,6 +202,7 @@ rasad,,[aciti],(PAP*rasad*rasadit)
 rascul,a,[incerca],(PAP*rascul*rasculat)
 raspun,,[raspund]
 realiz,a,[fumez]
+refuz,a,[incerca]
 remarc,a,[cauta],(PAP*remarc*remarcat)
 renunts,,[cauta]
 repet,a,[cauta]

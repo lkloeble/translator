@@ -51,6 +51,7 @@ ascet@masc%ul
 ascuns@adj%adj
 ascunzis@masc%ul
 asemanatoare@adj%inv
+asezar@fem%berea
 asimilare@fem%ereditate
 asimilat@adj%adj
 aspect@fem%fem
@@ -83,6 +84,7 @@ bo@masc%fiul
 boal@fem%fem
 boar@fem%berea
 bogat@adj%adjts
+bogatsi@fem%fem
 bolnav@adj%adj
 brichet@fem%fem
 brunet@adj%adj
@@ -171,7 +173,7 @@ credints@fem%fem
 crestin@adj%adj
 crestinism@masc%ul
 cruc@fem%berea
-cumpan@fem%fem
+cumpan@fem%fem[nomplr(a):cumpene]
 cunoaster@fem%berea
 cunoscatoar@adj%adj
 cunoscator@adj%adj
@@ -204,6 +206,7 @@ desis@neut%locul
 despartsit@adj%adj
 destinatsi@fem%fem
 devreme@neut%inv
+dezlegar@fem%berea
 dezvoltare@neut%inv
 dialog@masc%ul
 diavol@masc%ul
@@ -335,6 +338,7 @@ iisus@masc%inv
 imanent@adj%adjts
 imbogatsir@fem%berea
 imparatsia@fem%inv
+imperativ@adj%adj
 impersonal@adj%inv
 implinir@fem%berea
 important@adj%adj
@@ -559,6 +563,7 @@ originare@neut%inv
 origine@fem%ereditate
 orizont@masc%locul
 ortodox@fem%fem
+pacat@masc%ul
 pacat@adj%pacatos
 pachet@fem%fem
 pacient@masc%ul
@@ -647,6 +652,7 @@ purtar@fem%berea
 pusti@fem%ratsiune
 puter@fem%berea
 puternic@adj%adj
+putsin@adj%adj
 ra@masc%fiul
 rabdar@fem%berea
 radacin@fem%fem
@@ -767,6 +773,7 @@ stapan@masc%ul
 stare@fem%fem
 staruint@fem%femts
 sticl@fem%fem
+stiints@fem%fem
 stra@fem%adjverde
 stradiani@fem%fem
 stramutar@fem%berea
@@ -797,6 +804,7 @@ taxi@neut%inv
 teafar@adj%adj[nomplr(mascplri):teferi]
 teatr@masc%ul
 tendints@fem%fem
+tensiun@fem%berea
 terestr@adj%adj
 termen@masc%ul
 text@neut%ul
