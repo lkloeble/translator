@@ -89,6 +89,7 @@ exist,,[incerca]
 exprim,,[incerca]
 extind,,[merg]
 fac,e,[face],(AIMP*fac*fa@PAP*fac*facut)
+fagadui,,[locuiesc]
 fer,,[primi]
 fierb,,[merg]
 folos,,[aciti]

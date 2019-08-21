@@ -131,6 +131,7 @@ cincizeci@neut%inv
 circulatsi@fem%fem
 cirmuir@fem%berea
 clar@adj%adj
+clip@fem%fem
 coborat@adj%adj
 cofetarie@neut%inv
 confundar@fem%berea
@@ -184,6 +185,7 @@ curaj@masc%ul
 curajos@adj%adj
 curind@neut%inv
 curs@masc%ul
+cutezat@adj%adjor
 cuvant@masc%ul
 cuvint@masc%capul
 dadac@fem%fem
@@ -617,6 +619,7 @@ politic@adj%adj
 politsist@adj%adj
 popescu@masc%inv
 porc@masc%ul
+pornir@fem%berea
 porunc@fem%fem[nomplr(a):porunci]
 portocal@fem%fem
 posibilitat@fem%bereats
@@ -625,6 +628,7 @@ potrivit@neut%inv
 potrivnic@masc%ul
 pozitsi@fem%fem
 practic@adj%adj
+preainalt@adj%inv
 preajm@fem%fem
 precis@adj%adj
 prelucrar@fem%berea
@@ -793,6 +797,7 @@ suprem@adj%adj
 sut@fem%fem
 tacimuri@neut%inv
 tacimurile@neut%inv
+tain@fem%fem
 talentat@adj%adjts
 tanar@masc%ul
 tanar@adj%adj[nomplr(mascplri):tineri]

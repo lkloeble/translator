@@ -661,8 +661,8 @@ bocaseumplu841=>A incercat omul toate : bogăția, puterea, știința, păcatul,
 bocaseumplu842=>"Iisus ne îmbie încercarea Sa, cea din urmă : încercarea Sa, cea din urmă : încercarea iubirii.
 bocaseumplu843=>Aceea pe care nimeni n-a făcut-o, sau pe care puțini au încercat-o doar clipe ale vieții lor.
 bocaseumplu844=>Cea mai cutezătoare, cea mai potrivnică pornirilor din noi :
-bocaseumplu845=>dar singura care se poate ține de ceea ce făgăduiește » (Papini).
-bocaseumplu846=>Iată de ce crucea e o taină, și se dezleagă numai celor ce o iubesc. Aceștia sunt « Fii Celui Preaînalt ».
+bocaseumplu845=>dar singura care se poate ține de ceea ce făgăduiește" (|Papini|).
+bocaseumplu846=>Iată de ce crucea e o taină, și se dezleagă numai celor ce o iubesc. Aceștia sunt "Fii Celui Preaînalt" .
 
 
 
