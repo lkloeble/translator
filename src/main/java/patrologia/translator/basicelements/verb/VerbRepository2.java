@@ -123,6 +123,7 @@ public class VerbRepository2 {
         rootedConjugationMap.put(verbDefinition.getRoot() + "@INFINITIVE", new RootedConjugation("INFINITIVE", verbDefinition.getInfinitiveForm()));
         Conjugation2 conjugation = conjugationFactory.getConjugationByPattern(verbDefinition);
         conjugation.getTimes().stream().forEach(time -> addAllConjugationAndRoot(time, conjugation, verbDefinition.getBaseConjugationRoot(), verbDefinition));
+        conjugationMap.put(verbDefinition.getInfinitiveForm(),verbDefinition.getRoot());
         translationBeansMap.addConjugationForGlobalKey(verbDefinition.getRoot(), "INFINITIVE");
     }
 
@@ -166,14 +167,27 @@ public class VerbRepository2 {
         return rootedConjugation != null && rootedConjugation.contains(verb.getInitialValue());
     }
 
-    public Collection<? extends String> getValuesStartingWith(String value) {
-
-        return Collections.EMPTY_LIST;
+    public Collection<? extends String> getValuesStartingWith(String beginningPattern) {
+        Set<String> verbValues = new HashSet<>();
+        List<String> verbsInRepository = conjugationMap.keySet();
+        for (String verbValue : verbsInRepository) {
+            if (verbValue.startsWith(beginningPattern)) {
+                verbValues.add(verbValue);
+                verbValues.add(accentuer.unaccentued(verbValue));
+                verbValues.add(accentuer.unaccentuedWithSofit(verbValue));
+            }
+        }
+        return new ArrayList<>(verbValues);
     }
 
-    public Collection<? extends String> getValuesEndingWith(String value) {
-
-        return Collections.EMPTY_LIST;
+    public Collection<? extends String> getValuesEndingWith(String endingPattern) {
+        List<String> verbValues = new ArrayList<>();
+        for (String verbValue : conjugationMap.allConjugations()) {
+            if (verbValue.endsWith(endingPattern)) {
+                verbValues.add(verbValue);
+            }
+        }
+        return verbValues;
     }
 
     public int knowsThisInitialValues(List<String> decorateInitialValuesForRomanianInfinitive) {

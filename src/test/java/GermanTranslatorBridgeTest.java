@@ -1203,6 +1203,6 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("lecon1A", translatorBridge);
+        checkInMaps("toto", translatorBridge);
     }
 }

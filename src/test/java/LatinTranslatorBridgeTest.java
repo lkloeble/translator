@@ -67,7 +67,8 @@ public class LatinTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "persuad,eo,es,ere,,,[eo-es],(AIP*persuad*persuas*0@AIPP*persuad*persuas*0)"
+                "possum@IRREGULAR%[INFINITIVE]=[posse]%[IPR]=[possum,potes,potest,possumus,potestis,possunt]%[AIP]=[potui,potuisti,potuit,potuimus,potuistis,potuerunt]%[AIF]=[potero,poteris,poterit,poterimus,poteritis,poterunt]%[ASI]=[possem,posses,posset,possemus,possetis,possent]%[ASP]=[possim,possis,possit,possimus,possitis,possint]%[AIFP]=[potuero,potueris,potuerit,potuerimus,potueritis,potuerint]",
+                "sc,io,is,ire,,,[io-is],(AIP*sc*sciv*0@AIPP*sc*sciv*0)"
         });
         */
         return getFileContentForRepository(verbFileDescription);
@@ -97,10 +98,9 @@ public class LatinTranslatorBridgeTest extends TranslatorBridgeTest {
     private Map<String, List<String>> getLatinConjugationDefinitions(String file, String directory) {
         /*
         Map<String, List<String>> latinConjugationDefinitionsMap = new HashMap<>();
-        latinConjugationDefinitionsMap.put("eo-es", Arrays.asList("ASI=>erem,eres,eret,eremus,eretis,erent"));
+        latinConjugationDefinitionsMap.put("io-is", Arrays.asList("IPR=>io,is,it,imus,itis,iunt","AIF=>iam,ies,iet,iemus,ietis,ient"));
         return latinConjugationDefinitionsMap;
         */
-
         List<String> conjugationNameList = getFileContentForRepository(file);
         Map<String, List<String>> latinConjugationDefinitionsMap = new HashMap<>();
         for(String conjugationName : conjugationNameList) {
@@ -123,7 +123,7 @@ public class LatinTranslatorBridgeTest extends TranslatorBridgeTest {
 
     @Test
     public void test_failing_one() {
-        checkInMaps("patrologiacaput2C", translatorBridge);
+        checkInMaps("collins12L", translatorBridge);
     }
 
 
