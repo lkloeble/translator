@@ -29,9 +29,9 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
 
     private TranslatorBridge translatorBridge;
 
-    private String localTestPath="C:\\Users\\kloeblel\\IdeaProjects\\translator\\src\\test\\resources\\";
-    private String localResourcesPath="C:\\Users\\kloeblel\\IdeaProjects\\translator\\src\\main\\resources\\german\\";
-    private String localCommonPath="C:\\Users\\kloeblel\\IdeaProjects\\translator\\src\\main\\resources\\";
+    private String localTestPath = "C:\\Users\\kloeblel\\IdeaProjects\\translator\\src\\test\\resources\\";
+    private String localResourcesPath = "C:\\Users\\kloeblel\\IdeaProjects\\translator\\src\\main\\resources\\german\\";
+    private String localCommonPath = "C:\\Users\\kloeblel\\IdeaProjects\\translator\\src\\main\\resources\\";
 
     @Before
     public void init() {
@@ -47,8 +47,8 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
         String germanPathFile = localTestPath + "german_content.txt";
         String germanResultFile = localTestPath + "german_expected_results.txt";
         GermanDeclensionFactory germanDeclensionFactory = new GermanDeclensionFactory(getDeclensions(declensionsAndFiles), getDeclensionList(declensionsAndFiles, declensionPath));
-        NounRepository nounRepository = new NounRepository(Language.GERMAN, germanDeclensionFactory, new DummyAccentuer(),getFileContentForRepository(nounFileDescription));
-        VerbRepository2 verbRepository = new VerbRepository2(new GermanConjugationFactory(getGermanConjugations(conjugationsAndFiles), getGermanConjugationDefinitions(conjugationsAndFiles, conjugationPath),germanDeclensionFactory), Language.GERMAN, new DummyAccentuer(),getVerbs(verbFileDescription));
+        NounRepository nounRepository = new NounRepository(Language.GERMAN, germanDeclensionFactory, new DummyAccentuer(), getFileContentForRepository(nounFileDescription));
+        VerbRepository2 verbRepository = new VerbRepository2(new GermanConjugationFactory(getGermanConjugations(conjugationsAndFiles), getGermanConjugationDefinitions(conjugationsAndFiles, conjugationPath), germanDeclensionFactory), Language.GERMAN, new DummyAccentuer(), getVerbs(verbFileDescription));
         GermanRuleFactory ruleFactory = new GermanRuleFactory(verbRepository);
         PrepositionRepository prepositionRepository = new PrepositionRepository(Language.GERMAN, new GermanCaseFactory(), ruleFactory, getFileContentForRepository(prepositionFileDescription));
         Analizer germanAnalyzer = new GermanAnalyzer(prepositionRepository, nounRepository, verbRepository);
@@ -70,7 +70,8 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getDictionaryData(String germanFrenchDataFile) {
         /*
         return Arrays.asList(new String[]{
-                "sein@verb!irrg%1(verb)=etre"
+                "halt@prep%1(prep)=halte",
+                "halt@verb!norm%1(verb)=arrêter%2(verb)=tenir"
         });
         */
         return getFileContentForRepository(germanFrenchDataFile);
@@ -90,7 +91,7 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "sein@IRREGULAR%[INFINITIVE]=[sein]%[IPR]=[bin,bist,ist,sind,seid,sind]%[AII]=[war,warst,war,waren,wart,waren]%[AIF]=[werde,wirst,wird,werden,werdet,werden]%[AIMP]=[sei,sei]%[ASP]=[sei,seist,sei,seien,seiet,seien]%[ASI]=[ware,warest,ware,waren,waret,waren]"
+                "seh,en,[rufen],(IPR14*seh*sieh*0@AIP*seh*sah*0@PAP*seh*geseh*0@AIMP1*seh*sieh*0@ASI*seh*sah*0)"
         });
         */
         return getFileContentForRepository(verbFileDescription);
@@ -106,11 +107,11 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
 
         List<String> conjugationNameList = getFileContentForRepository(file);
         Map<String, List<String>> germanConjugationDefinitionsMap = new HashMap<>();
-        for(String conjugationName : conjugationNameList) {
+        for (String conjugationName : conjugationNameList) {
             String parts[] = conjugationName.split("%");
             String fileName = parts[1];
             String nameOnly = parts[0];
-            germanConjugationDefinitionsMap.put(nameOnly, getConjugationElements(directory,fileName));
+            germanConjugationDefinitionsMap.put(nameOnly, getConjugationElements(directory, fileName));
         }
         return germanConjugationDefinitionsMap;
     }
@@ -421,7 +422,7 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
     }
 
     @Test
-    public void test_talmud_help_strack()  {
+    public void test_talmud_help_strack() {
         //checkInMaps("strackp1notBA", translatorBridge);
         checkInMaps("strackp1notBB", translatorBridge);
         checkInMaps("strackp1notBC", translatorBridge);
@@ -899,7 +900,8 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("strackp11par100", translatorBridge);
         checkInMaps("strackp11par101", translatorBridge);
     }
-        @Test
+
+    @Test
     public void test_genesis_chapter1() {
         checkInMaps("genesis1A", translatorBridge);
         checkInMaps("genesis1B", translatorBridge);
@@ -1005,7 +1007,7 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
     }
 
     @Test
-    public  void test_nietzsche_birth_tragedy_firstbook_chap03() {
+    public void test_nietzsche_birth_tragedy_firstbook_chap03() {
         //checkInMaps("nietzscheBookGTversuchCha3A", translatorBridge);
         checkInMaps("nietzscheBookGTversuchCha3B1", translatorBridge);
         checkInMaps("nietzscheBookGTversuchCha3B2", translatorBridge);

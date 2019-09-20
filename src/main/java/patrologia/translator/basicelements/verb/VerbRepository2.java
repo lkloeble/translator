@@ -36,7 +36,7 @@ public class VerbRepository2 {
     }
 
     public boolean hasVerb(String initialValue) {
-        return conjugationMap.containsKey(initialValue) || verbMap.hasVerb(initialValue);
+        return conjugationMap.containsKey(initialValue);// || verbMap.hasVerb(initialValue);
     }
 
     public Verb getVerb(String initialValue) {
@@ -133,17 +133,24 @@ public class VerbRepository2 {
         RootedConjugation rootedConjugation = new RootedConjugation(time, valuesAllInOne, conjugation.isRelatedTonoun(time), conjugation.getConjugationName(), conjugation.getDeclension(time));
         TranslationInformationReplacement2 translationInformationReplacement = verbDefinition.getTranslationInformationReplacement2();
         int indice = 0;
+        int positionIndice = 0;
         StringBuilder sb = new StringBuilder();
         for (String value : rootedConjugation.allFormsByTime()) {
-            String replace = translationInformationReplacement.replace(time, value, ConjugationPosition.getValueByPosition(indice++));
+            positionIndice = correctIndiceForMultipleValuesInSameConjugationPosition(indice,rootedConjugation);
+            String replace = translationInformationReplacement.replace(time, value, ConjugationPosition.getValueByPosition(positionIndice));
             conjugationMap.put(replace, verbDefinition.getRoot());
             sb.append(replace).append(",");
+            indice++;
         }
         rootedConjugation.updateValues(translationInformationReplacement, time);
         rootedConjugationMap.put(verbDefinition.getRoot() + "@" + time, rootedConjugation);
         Verb verb = new Verb(verbDefinition.getRoot(), this, language);
         verbMap.put(verbDefinition.getRoot(), verb);
 
+    }
+
+    private int correctIndiceForMultipleValuesInSameConjugationPosition(int indice, RootedConjugation rootedConjugation) {
+        return  rootedConjugation.getPositionForConstructionNumber(indice);
     }
 
     public String getEquivalentForOtherRoot(String root, String formerInitialValue, String rootVerb, int verbTranslationPosition) {

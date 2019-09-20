@@ -30,12 +30,13 @@ adferen@adj!s-tis%1(adj)=produisant
 adfero@verb!norm%1(verb)=apporter2
 adficio@verb!norm%1(verb)=influencer
 adfor@verb!norm%1(verb)=apporter
+adhibeo@verb!norm%1(verb)=inviter%2(verb)=employer%3(verb)=resister%4(verb)=etendre
+adhereo@verb!norm%1(verb)=separer
 adimpleo@verb!norm%1(verb)=accomplir%2(verb)=remplir
 adimplet@adj!us-a-um%1(adj)=accompli
 adipat@noun!um-i%1(noun)=pâtisserie
 adiutori@noun!um-i%1(noun)=aide
-adhereo@verb!norm%1(verb)=separer
-adhibeo@verb!norm%1(verb)=inviter%2(verb)=employer%3(verb)=resister%4(verb)=etendre
+adjicio@verb!norm%1(verb)=lancer
 adjugo@verb!norm%1(verb)=reunir
 adjungo@verb!norm%1(verb)=ajouter
 adjuvo@verb!norm%1(verb)=aider
@@ -111,6 +112,7 @@ ann@noun!us-i%1(noun)=saison%2(noun)=annee
 annuntio@verb!norm%1(verb)=annoncer
 ant@noun!a-ae%1(noun)=pilier
 ante@prep%1(prep)=devant,en face%2(prep)=avant,auparavant,anterieurement%3(prep + acc)=devant%4(prep + acc)=avant
+antecessor@noun!scriptor%1(noun)=prédécesseur
 antequam@prep%1(prep)=jusqu'à%2(prep)=avant
 antiochen@adj!us-a-um%1(adj)=antiochien
 antiqu@adj!us-a-um%1(adj)=antique%2(adj)=ancien
@@ -295,6 +297,7 @@ complur@adj!es-es-ia%1(adj)=nombreux
 comprehendo@verb!norm%1(verb)=saisir
 conat@adj!us-a-um%1(adj)=essayé
 concedend@adj!us-a-um%1(adj)=abandonné
+concept@adj!us-a-um%1(adj)=contenu%2(adj)=dérivé de%3(adj)=reçu
 concepti@noun!o-onis%1(noun)=idée%2(noun)=notion%3(noun)=concept
 conciliatur@adj!us-a-um%1(adj)=sur le point de s'unir
 concilio@verb!norm%1(verb)=acquerir%2(verb)=recommander%3(verb)=rassembler
@@ -803,6 +806,7 @@ incendo@verb!norm%1(verb)=incendier
 incens@noun!um-i%1(noun)=encens
 incis@adj!us-a-um%1(adj)=coupé
 incitat@adj!us-a-um%1(adj)=incité
+incognit@adj!us-a-um%1(adj)=inconnu
 inclino@verb!norm%1(verb)=incliner
 incipio@verb!norm%1(verb)=demarrer
 incolo@verb!norm%1(verb)=cultiver%2(verb)=resider
@@ -868,6 +872,7 @@ invenio@verb!norm%1(verb)=découvrir%2(verb)=trouver
 invent@adj!us-a-um%1(adj)=découvert
 invict@adj!us-a-um%1(adj)=invaincu
 invictissim@adj!us-a-um%1(adj)=le plus invaincu
+invisibil@adj!is-is-e%1(adj)=invisible
 invito@verb!norm%1(verb)=challenger%2(verb)=inviter
 invoco@verb!norm%1(verb)=invoquer,appeler%2(verb)=appeler,nommer%3(verb)=invoquer
 involvo@verb!norm%1(verb)=entourer%2(verb)=mettre en oeuvre%3(verb)=enrouler
@@ -900,6 +905,7 @@ iurand@noun!um-i%1(noun)=serment
 iu@noun!s-ris%1(noun)=devoir%2(noun)=loi
 iuxta@prep%1(prep)=à côté de%2(prep)=selon
 jactito@verb!norm%1(verb)=remarquer
+jacto@verb!norm%1(verb)=proferer
 jactur@adj!us-a-um%1(adj)=sur le point de faire
 jam@prep%1(prep)=déjà%2(prep)=maintenant%3(prep)=plus
 janu@noun!a-ae%1(noun)=porte
@@ -1025,6 +1031,7 @@ memori@noun!a-ae%1(noun)=mémoire
 memoro@verb!o-as%1(verb)=sesouvenir
 metuo@verb!o-as%1(verb)=avoirpeur
 men@noun!s-tis2%1(noun)=esprit
+menand@noun!er-ri%1(noun)=ménandre
 mens@noun!a-ae%1(noun)=autel%2(noun)=table
 mens@adj!us-a-um%1(noun)=mois
 mentio@noun!x-nis%1(noun)=mention
@@ -1079,6 +1086,7 @@ multiplico@verb!norm%1(verb)=multiplier
 muto@verb!norm%1(verb)=enlever
 multitud@noun!o-inis%1(noun)=multitude
 mund@noun!us-i%1(noun)=monde
+muniti@noun!o-onis%1(noun)=fortification%2(noun)=rempart
 mur@noun!us-i%1(noun)=mur
 mutati@noun!o-onis%1(noun)=altération
 nam@prep%1(prep)=car
@@ -1111,6 +1119,7 @@ nisi@prep%1(prep)=à l'exception de
 nobilissim@adj!us-a-um%1(adj)=le plus noble
 nobilitat@adj!us-a-um%1(adj)=noble
 nobis@prep%1(prep)=nous
+noctu@prep%1(prep)=de nuit
 nolo@verb!irrg%1(verb)=refuser
 non@prep%1(prep)=ne...pas...%2(prep)=non
 nondum@prep%1(prep)=pas encore
@@ -1258,6 +1267,7 @@ permitto@verb!o-is%1(verb)=lancer d'un point a un autre, jusqu'a un but%2(verb)=
 perfect@adj!us-a-um%1(adj)=accompli
 permot@adj!us-a-um%1(adj)=excité%2(adj)=agité
 pernego@verb!norm%1(verb)=refuser
+perrumpo@verb!norm%1(verb)=forcer
 persevero@verb!norm%1(verb)=seconformera
 pernici@noun!es-ei%1(noun)=désastre%2(noun)=ruine
 perniciosi@adj!or-or-us%1(adj)=plus destructif
@@ -1325,6 +1335,7 @@ praeter@prep%1(prep)=excepté
 praeconcept@adj!us-a-um%1(adj)=préconçu
 praedicand@adj!us-a-um%1(adj)=qui va être proclamé
 praecept@noun!um-i%1(noun)=leçon%2(noun)=commandement%3(noun)=précepte
+praeceptor@noun!scriptor%1(noun)=précepteur
 praedicati@noun!o-onis%1(noun)=prédication
 praesidi@noun!um-i%1(noun)=protection%2(noun)=défense
 praestanti@adj!or-or-us%1(adj)=plus excellent
@@ -1368,6 +1379,7 @@ progress@adj!us-us%1(adj)=avancée
 prohibeo@verb!norm%1(verb)=preserver%2(verb)=defendre%3(verb)=proteger%4(verb)=garder
 prohibitur@adj!us-a-um%1(adj)=empêcheur
 promo@verb!norm%1(verb)=produire
+promereo@verb!norm%1(verb)=meriter
 propagand@adj!us-a-um%1(adj)=propagé
 propagat@adj!us-a-um%1(adj)=propagé
 prope@prep%1(prep)=près
@@ -1518,12 +1530,16 @@ sacrosanct@adj!us-a-um%1(adj)=sacro-saint%2(adj)=vénérable
 saecul@noun!um-i%1(noun)=generation, race%2(noun)=duree d'une generation humaine%3(noun)=siecle, espace de cent ans%4(noun)=le monde, la vie du monde, le paganisme (vision chretienne)%5(noun)=siècle
 saevien@noun!s-tis%1(noun)=enragé
 saepe@prep%1(prep)=à nouveau%2(prep)=souvent
+saepius@prep%1(prep)=plus souvent
 salto@verb!norm%1(verb)=danser
+salu@noun!s-tis2%1(noun)=salut
 salutif@adj!er-era-erum%1(adj)=salutaire
 saluto@verb!norm%1(verb)=saluer
+salvator@noun!x-is2%1(noun)=sauveur
 salve@noun!inv%1(noun)=salut
 salvo@verb!norm%1(verb)=sauver
 samari@noun!a-ae%1(noun)=samarie
+samaritan@adj!us-a-um%1(adj)=samaritain
 samos@noun!inv%1(noun)=samos
 sano@verb!norm%1(verb)=soigner
 sancit@adj!us-a-um%1(adj)=rendu saint
@@ -1717,6 +1733,7 @@ tigri@noun!s-dis%1(noun)=tigre
 tibi@prep%1(prep)=à toi
 timeo@verb!norm%1(verb)=craindre
 tit@noun!us-i%1(noun)=titus
+titul@noun!us-i%1(noun)=titre
 tolerand@adj!us-a-um%1(adj)=toléré
 tollo@verb!norm%1(verb)=détruire%2(verb)=élever%3(verb)=enlever
 tot@prep%1(prep)=si nombreux

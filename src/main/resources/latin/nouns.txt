@@ -67,6 +67,7 @@ anim@fem%a-ae[ablplr:animabus,datplr:animabus]
 animan@masc%s-tis
 ann@masc%us-i
 ant@fem%a-ae
+antecessor@masc%scriptor
 antiochen@adj%us-a-um
 antiqu@adj%us-a-um
 antiqui@adj%or-or-us
@@ -195,6 +196,7 @@ complet@adj%us-a-um
 complur@adj%es-es-ia
 conat@adj%us-a-um
 concedend@adj%us-a-um
+concept@adj%us-a-um
 concepti@fem%o-onis
 conciliatur@adj%us-a-um
 conclusi@fem%o-onis
@@ -497,6 +499,7 @@ incarnati@fem%o-onis
 incens@neut%um-i
 incis@adj%us-a-um
 incitat@adj%us-a-um
+incognit@adj%us-a-um
 incredibil@adj%is-is-e
 indici@neut%um-i
 indifferen@adj%s-s-s
@@ -529,6 +532,7 @@ intervall@neut%um-i
 invent@adj%us-a-um
 invict@adj%us-a-um
 invictissim@adj%us-a-um
+invisibil@adj%is-is-e
 ips@adj%e-a-um
 ipsimet@neut%inv
 irat@adj%us-a-um
@@ -645,6 +649,7 @@ medi@adj%us-a-um
 melit@fem%a-ae
 memori@fem%a-ae
 men@fem%s-tis2
+menand@masc%er-ri
 mens@fem%a-ae
 mens@adj%us-a-um
 mentio@fem%x-nis
@@ -684,6 +689,7 @@ muls@neut%um-i
 mult@adj%us-a-um
 multitud@fem%o-inis
 mund@masc%us-i
+muniti@fem%o-onis
 mur@masc%us-i
 mutati@fem%o-onis
 mysteri@neut%um-i
@@ -846,6 +852,7 @@ potentissim@adj%us-a-um
 potest@fem%as-atis
 potissim@adj%us-a-um
 praecept@neut%um-i
+praeceptor@masc%scriptor
 praeconcept@adj%us-a-um
 praedicand@adj%us-a-um
 praedicati@fem%o-onis
@@ -950,9 +957,12 @@ sacrosanct@adj%us-a-um
 saccul@masc%us-i
 saecul@neut%um-i
 saevien@masc%s-tis
+salu@fem%s-tis2
 salutif@adj%er-era-erum
+salvator@masc%x-is2
 salve@neut%inv
 samari@fem%a-ae
+samaritan@adj%us-a-um
 samos@neut%inv
 sancit@adj%us-a-um
 sanct@adj%us-a-um
@@ -1075,6 +1085,7 @@ theodoret@masc%us-i
 tiberis@neut%inv
 tigri@neut%s-dis
 tit@masc%us-i
+titul@masc%us-i
 tolerand@adj%us-a-um
 torment@neut%um-i
 tot@adj%us-a-um

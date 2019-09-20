@@ -67,8 +67,7 @@ public class LatinTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "possum@IRREGULAR%[INFINITIVE]=[posse]%[IPR]=[possum,potes,potest,possumus,potestis,possunt]%[AIP]=[potui,potuisti,potuit,potuimus,potuistis,potuerunt]%[AIF]=[potero,poteris,poterit,poterimus,poteritis,poterunt]%[ASI]=[possem,posses,posset,possemus,possetis,possent]%[ASP]=[possim,possis,possit,possimus,possitis,possint]%[AIFP]=[potuero,potueris,potuerit,potuerimus,potueritis,potuerint]",
-                "sc,io,is,ire,,,[io-is],(AIP*sc*sciv*0@AIPP*sc*sciv*0)"
+                "ori,or,ris,ri,,,[or-ris],(IPR*orint*oriunt*0@ASI*ori*orir*0@ASI2*ori*orer*0)"
         });
         */
         return getFileContentForRepository(verbFileDescription);
@@ -123,7 +122,7 @@ public class LatinTranslatorBridgeTest extends TranslatorBridgeTest {
 
     @Test
     public void test_failing_one() {
-        checkInMaps("collins12L", translatorBridge);
+        checkInMaps("genesis2E", translatorBridge);
     }
 
 

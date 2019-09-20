@@ -11,6 +11,7 @@ add,o,is,ere,,,[o-is]
 adf,or,aris,ere,,,[or-aris]
 adfic,io,is,ere,,,[io-is]
 adfer,o,s,re,tuli,latum,[o-s]
+adjic,io,is,ere,,,[io-is],(AIP*adjic*adjec*0)
 adher,eo,es,ere,,,[eo-es]
 adhib,eo,es,ere,,,[eo-es]
 adimpl,eo,es,ere,,,[eo-es]
@@ -224,6 +225,7 @@ involv,o,is,ere,,,[o-is]
 ire@IRREGULAR%[INFINITIVE]=[ire]%[IPR]=[eo,is,it,imus,itis,eunt]
 iter,o,as,are,,,[o-as]
 iub,eo,es,ere,,,[eo-es]
+jact,o,as,are,,,[o-as]
 jactit,o,as,are,,,[o-as]
 labor,o,as,are,,,[o-as]
 lat,eo,es,ere,,,[eo-es]
@@ -264,7 +266,7 @@ oper,o,as,are,,,[o-as],(PSI*oper*operar*0)
 oppugn,o,as,are,,,[o-as]
 oport,eo,es,ere,,,[eo-es]
 or,o,as,are,,,[o-as]
-ori,or,ris,ri,,,[or-ris],(IPR*orint*oriunt*0@ASI*ori*orir*0@ASI2*ori*ore*0)
+ori,or,ris,ri,,,[or-ris],(IPR*orint*oriunt*0@ASI*ori*orir*0@ASI2*ori*orer*0)
 orn,o,as,are,,,[o-as]
 ostend,o,is,ere,tendi,tentum,[o-is]
 par,o,as,are,,,[o-as],(ASPP*par*parass*0@ASI*par*parar*0)
@@ -282,6 +284,7 @@ perhib,eo,es,ere,ui,itum,[eo-es]
 perman,eo,es,ere,ui,itum,[eo-es]
 permitt,o,is,ere,misi,missum,[o-is],(AIFP*permitts*permis*0@AIP*permitt*permis*0)
 perneg,o,as,are,,,[o-as]
+perrump,o,is,ere,,,[o-is]
 persever,o,as,are,,,[o-as]
 persuad,eo,es,ere,,,[eo-es],(AIP*persuad*persuas*0@AIPP*persuad*persuas*0)
 pertin,eo,es,ere,ui,itum,[eo-es]
@@ -307,6 +310,7 @@ profite,or,ris,ri,,,[or-ris]
 proflu,o,is,ere,,,[o-is],(AIP*proflu*proflux*0)
 prohib,eo,es,ere,,,[eo-es]
 prom,o,is,ere,,,[o-is]
+promer,eo,es,ere,,,[eo-es],(AIP*promer*promeru*0)
 prosemin,o,as,are,,,[o-as]
 prosequ,or,eris,i,,,[or-eris]
 prostern,o,is,ere,,,[o-is],(AIFP*prosterns*prostrav*0)

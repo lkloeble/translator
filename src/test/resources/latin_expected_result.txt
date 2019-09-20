@@ -852,6 +852,26 @@ patrologiacaput3B73=>ce certain@certainement@ information est non plus (au) dout
 patrologiacaput3B74=>d'où conclues incontournable est, hérésie celui la(e) non de façon continue ensuite soit conforme à, et rapidement avoir été tué(e).
 
 
+patrologiacaput401=>de (au) hérésie (du) ménandre
+patrologiacaput402=>ménandre samaritain espèce@espèce(e)@ en dehors de (au) village caparateia,
+patrologiacaput403=>καπαρατειας ou χαβραι, originaire de, (du) simon(e) disciple
+patrologiacaput404=>plus grand@plus grand(e)@ se (par) prédécesseur et (par) précepteur (au) son@(par) son@ proférait
+patrologiacaput405=>pourquoi (aux) quelque(s)@(par) quelque(s)(e)@quelque@ quelque uns (aux) erreur(s) (du) impie(e) professeur(s) (du) son@lui-même@son(s)@ doctrine(s)(e) ajoutez ou (aux) transformé(s)@(par) transformé(s)(e)@transformé@,
+patrologiacaput406=>nouveau(e) assembla coupé(e), et hérésiarque(s)(e) titre et nom mérita.
+patrologiacaput407=>vas c'est pourquoi avec simon eut dit le plus haut@sommet@ se être dieu virilité(e), instruisit ( [XXX]. [XXX] [XXX] [XXX] 21 ) :
+patrologiacaput408=>premier(e) certes virilité(e) inconnu(e) tous@tous(e)@tous(s)@, se or le être,
+patrologiacaput409=>qui envoyé soit en provenance de invisible@invisible(e)@invisible(s)@, sauveur pour salut(e) (des) tous(s)@tous@tous(e)@.
+patrologiacaput410=>ceux-ci lança : resurrection(e) par ce qui est dans le baptême(s),
+patrologiacaput411=>foobar
+patrologiacaput412=>foobar
+patrologiacaput413=>foobar
+patrologiacaput414=>foobar
+patrologiacaput415=>foobar
+patrologiacaput416=>foobar
+patrologiacaput417=>foobar
+patrologiacaput418=>foobar
+patrologiacaput419=>foobar
+
 genese1A=>dans commencement créa dieu ciel et terre(e)
 genese1B=>terre(e) or était (du) vide@vide@vide(e)@ et desert(e)@desert(s)@ et tenebre(s)(e) sur face (du) abime et souffle (du) dieu est porté sur eau(s)(e)
 genese1C=>et dit dieu soit advenu lumiere(e) et fait(e)@fait(s)@ est lumiere(e)
@@ -1030,7 +1050,7 @@ caesar1H3C=>si force faire essaient, empêcheur montra/montre.
 caesar1H4'=>Les Helvètes, déçus dans cette espérance, essaient de passer le Rhône, les uns sur des barques jointes ensemble et sur des radeaux faits dans ce dessein, les autres à gué, à l'endroit où le fleuve a le moins de profondeur, quelquefois le jour, plus souvent la nuit. Arrêtés par le rempart, par le nombre et par les armes de nos soldats, ils renoncent à cette tentative.
 caesar1H4A=>(du) helvète@helvète(s)@ elle (par) espoir consterné(s) navire(s) (aux) joint(s) et (aux) radeau(s) (aux) nombreux(s) fait(s),
 caesar1H4B=>(au) un(e)@(du) un@autre@un@un(s)@ marches rhône(s), (par) qui(e) le plus petit(e) hauteur(e) (du) rivière était, non jamais pendant la journée,
-caesar1H4C=>Les Helvètes, déçus dans cette espérance, essaient de passer le Rhône, les uns sur des barques jointes ensemble et sur des radeaux faits dans ce dessein, les autres à gué, à l'endroit où le fleuve a le moins de profondeur, quelquefois le jour, plus souvent la nuit. Arrêtés par le rempart, par le nombre et par les armes de nos soldats, ils renoncent à cette tentative.
+caesar1H4C=>plus souvent de nuit, si forcer pussent (du) essayé@essayé(s)@, (aux) oeuvre(s)(e)@(du) travail@ (par) rempart(e)
 caesar1H4D=>Les Helvètes, déçus dans cette espérance, essaient de passer le Rhône, les uns sur des barques jointes ensemble et sur des radeaux faits dans ce dessein, les autres à gué, à l'endroit où le fleuve a le moins de profondeur, quelquefois le jour, plus souvent la nuit. Arrêtés par le rempart, par le nombre et par les armes de nos soldats, ils renoncent à cette tentative.
 caesar1I1=>foo
 caesar1I2=>foo
