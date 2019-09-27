@@ -41,6 +41,7 @@ agn@masc%us-i
 ale@fem%a-ae
 alexandrin@adj%us-a-um
 ali@adj%us-a-um
+aliqu@adj%is-is-id
 ali@adj%us-a-ud
 allobrog@masc%scriptor
 alter@adj%us-a-um
@@ -68,6 +69,7 @@ animan@masc%s-tis
 ann@masc%us-i
 ant@fem%a-ae
 antecessor@masc%scriptor
+antioch@fem%a-ae
 antiochen@adj%us-a-um
 antiqu@adj%us-a-um
 antiqui@adj%or-or-us
@@ -91,7 +93,7 @@ argument@neut%um-i
 arid@adj%us-a-um
 arimin@neut%um-i
 arm@fem%a-ae
-ar@fem%s-tis
+ar@fem%s-tis2
 asi@fem%a-ae
 aspectabil@adj%is-is-e
 assertor@masc%x-is2
@@ -99,6 +101,7 @@ assyri@masc%us-i
 atlantic@adj%us-a-um
 atrament@neut%um-i
 atri@neut%um-i
+attent@adj%us-a-um
 auctor@masc%x-is
 auctorita@fem%s-tis2
 audaci@adj%or-or-us
@@ -116,6 +119,7 @@ baptist@masc%a-ae
 baptizat@adj%us-a-um
 barnabe@masc%inv
 bas@fem%is-is
+basilid@fem%a-ae
 bdelli@neut%um-i
 beat@adj%us-a-um
 belg@fem%a-ae
@@ -234,6 +238,7 @@ creatur@fem%a-ae
 cret@fem%a-ae
 cristat@adj%us-a-um
 criteri@neut%on-i
+critic@masc%us-i
 crudel@adj%is-is-e
 cruor@masc%x-is
 crustat@fem%a-ae
@@ -286,6 +291,7 @@ dicend@adj%us-a-um
 dict@neut%um-i
 dictio@fem%x-nis
 difficil@neut%is-is
+difficult@fem%as-atis
 digit@masc%us-i
 dign@adj%us-a-um
 diligen@adj%s-tis
@@ -356,8 +362,10 @@ exitios@adj%us-a-um
 exort@adj%us-a-um
 explicand@adj%us-a-um
 explicati@fem%o-onis
+explicat@masc%us-us
 expositi@fem%o-onis
 expugnator@masc%x-is
+expugnat@adj%us-a-um
 exspectat@adj%us-a-um
 exstinct@adj%us-a-um
 exstirpat@adj%us-a-um
@@ -412,6 +420,7 @@ frument@neut%um-i
 fug@fem%a-ae
 fugien@adj%s-s-s
 fus@masc%us-i
+fusi@adj%or-or-us
 galilae@fem%a-ae
 gall@masc%us-i
 galilae@adj%us-a-um
@@ -483,6 +492,7 @@ ill@adj%e-a-ud
 im@adj%us-a-um
 imag@fem%o-inis
 immedicabile@adj%inv
+immortal@adj%is-is-e
 immutat@adj%us-a-um
 imperan@adj%s-s-s
 imperi@masc%um-i
@@ -650,6 +660,7 @@ melit@fem%a-ae
 memori@fem%a-ae
 men@fem%s-tis2
 menand@masc%er-ri
+menandrian@adj%us-a-um
 mens@fem%a-ae
 mens@adj%us-a-um
 mentio@fem%x-nis
@@ -670,6 +681,7 @@ miser@adj%us-a-um[nomsing:miser]
 misericordi@fem%a-ae
 miss@adj%us-a-um
 miss@fem%a-ae
+missio@fem%x-nis
 mod@masc%us-i
 mon@masc%s-tis2
 molesti@fem%a-ae
@@ -714,6 +726,7 @@ nonnull@adj%us-a-um
 nost@adj%er-ra-rum
 no@neut%x-es
 nobilitat@adj%us-a-um
+nod@masc%us-i
 nom@neut%en-inis
 norei@fem%a-ae
 noric@neut%um-i
@@ -807,6 +820,7 @@ perculs@adj%us-a-um
 perduell@fem%is-is
 perfect@adj%us-a-um
 pericul@masc%um-i
+periti@adj%or-or-us
 peristyl@masc%um-i
 perpauc@adj%us-a-um
 permot@adj%us-a-um
@@ -832,6 +846,7 @@ pir@neut%um-i
 pisc@masc%is-is
 pistor@masc%x-is
 placenti@fem%a-ae
+plani@adj%or-or-us
 pleb@fem%s-is
 plen@adj%us-a-um
 pler@adj%us-a-um
@@ -856,6 +871,7 @@ praeceptor@masc%scriptor
 praeconcept@adj%us-a-um
 praedicand@adj%us-a-um
 praedicati@fem%o-onis
+praescripti@fem%o-onis
 praesidi@neut%um-i
 praestanti@adj%or-or-us
 praemi@neut%um-i
@@ -876,6 +892,7 @@ prob@adj%us-a-um
 proband@adj%us-a-um
 procreat@adj%us-a-um
 prodigi@neut%um-i
+prodit@adj%us-a-um
 proeli@neut%um-i
 profect@adj%us-a-um
 profecti@fem%o-onis
@@ -973,6 +990,7 @@ sangui@masc%s-nis
 sanguine@adj%us-a-um
 sardini@fem%a-ae
 satiat@adj%us-a-um
+saturnili@fem%inv
 scel@neut%us-eris
 scienti@fem%a-ae
 schisma@neut%x-tis
@@ -992,7 +1010,9 @@ sement@neut%is-is
 semin@fem%x-is
 sempitern@adj%us-a-um
 senat@masc%us-us
+senescen@adj%s-s-s
 sequen@adj%s-s-s
+sens@masc%us-us
 sententi@fem%a-ae
 septentrio@masc%x-nis
 septim@adj%us-a-um
@@ -1012,7 +1032,7 @@ simil@adj%is-is-e
 similitud@fem%o-inis
 sim@masc%o-onis
 simon@masc%inv
-simonian@masc%us-i
+simonian@masc%us-a-um
 simplici@adj%or-or-us
 singul@adj%us-a-um
 sinistr@fem%a-ae
@@ -1045,6 +1065,7 @@ summ@adj%us-a-um
 sumptur@adj%us-a-um
 superfici@fem%es-ei
 supern@adj%us-a-um
+superst@masc%es-itis
 suprem@adj%us-a-um
 su@adj%us-a-um
 subeund@adj%us-a-um

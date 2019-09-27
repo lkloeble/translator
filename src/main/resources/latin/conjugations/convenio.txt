@@ -13,3 +13,4 @@ ASI=>irem,ires,iret,iremus,iretis,irent
 PSI=>erer,ereris,eretur,eremur,eremini,erentur
 ASPP=>em,es,et,emus,etis,ent
 IAPP=>ere,isse,turus,i,tus,tum
+VENO=>ere,iendi,iendo,iendum,tum,tu
