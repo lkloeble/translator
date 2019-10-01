@@ -36,7 +36,7 @@ public class VerbRepository2 {
     }
 
     public boolean hasVerb(String initialValue) {
-        return conjugationMap.containsKey(initialValue);// || verbMap.hasVerb(initialValue);
+        return conjugationMap.containsKey(initialValue) || conjugationMap.containsKey(infinitiveBuilder.getInfinitiveFromInitialValue(initialValue));
     }
 
     public Verb getVerb(String initialValue) {

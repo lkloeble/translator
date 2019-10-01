@@ -1113,7 +1113,7 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
 
     @Test
     public void test_nietzsche_birth_tragedy_firstbook_chap06() {
-        checkInMaps("nietzscheBookGTversuchCha6A", translatorBridge);
+        //checkInMaps("nietzscheBookGTversuchCha6A", translatorBridge);
         checkInMaps("nietzscheBookGTversuchCha6B", translatorBridge);
         checkInMaps("nietzscheBookGTversuchCha6C", translatorBridge);
         checkInMaps("nietzscheBookGTversuchCha6D", translatorBridge);
