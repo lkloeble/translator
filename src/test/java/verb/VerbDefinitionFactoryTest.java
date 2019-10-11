@@ -1,6 +1,7 @@
 package verb;
 
 import org.junit.Test;
+import patrologia.translator.basicelements.DummyAccentuer;
 import patrologia.translator.basicelements.Language;
 import patrologia.translator.conjugation.VerbDefinition;
 import patrologia.translator.conjugation.VerbDefinitionFactory;
@@ -14,7 +15,7 @@ public class VerbDefinitionFactoryTest {
 
     @Test
     public void romanian_factory_should_return_romanian_verb_definition() {
-        VerbDefinition verbDefinition = factory.getVerbDefinition(Language.ROMANIAN, "foobar");
+        VerbDefinition verbDefinition = factory.getVerbDefinition(Language.ROMANIAN, "foobar", new DummyAccentuer());
         assertTrue(verbDefinition != null);
         assertEquals(verbDefinition.getLanguage(),Language.ROMANIAN);
     }

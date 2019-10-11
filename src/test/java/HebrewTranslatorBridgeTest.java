@@ -19,6 +19,7 @@ import patrologia.translator.utils.Analizer;
 
 import java.util.*;
 
+import static junit.framework.Assert.assertTrue;
 import static junit.framework.TestCase.assertEquals;
 
 /**
@@ -325,7 +326,7 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getNouns(String nounFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "knst@neut%invpur"
+                "m62l62k000@masc%im"
         });
         */
         return getFileContentForRepository(nounFileDescription);
@@ -334,8 +335,9 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getHebDico(String dictionaryFile) {
         /*
         return Arrays.asList(new String[]{
-                "knst@noun!invpur%1(noun)=knesset%2(noun)=assemblée",
-                "lmd$@verb!norm%1(verb)=enseigner"
+                "m62l62k000@noun!im%1(noun)=roi",
+                "h@prep%1(prep)=le[les,la]",
+                "xw331b@noun!im-ot%1(noun)=bon"
         });
         */
         return getFileContentForRepository(dictionaryFile);
@@ -344,7 +346,7 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFiles) {
         /*
         return Arrays.asList(new String[]{
-                "brk$,,[binyanpual],(BINPUFUT%substitute%rk$*rk*0@BINPUPER%substitute%rk$*rk*0)"
+                "isb,,[paal],(AIP%leadingrootletter%i*i64@AIP%secondletterroot%s*s29863@AIP%alternateaccentuation(5:9)%s29863*s29856@AIP%alternateaccentuation(5)%b*b64@IPR%substitute%is*iws*0)"
 
         });
         */
@@ -392,6 +394,11 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     }
 
     private List<String> getPaalDefinition() {
+        /*
+        return Arrays.asList(new String[]{
+                "AIP=>ti,t|t,|h,nw,tm|tn,w309"
+        });
+        */
         return Arrays.asList(new String[]{
                 "AIP=>ti,t|t,|h,nw,tm|tn,w309",
                 "AIPSHORT=>x-,x-,zz,x-,x-,x-",
@@ -462,6 +469,7 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getPrepositions(String prepositionFileDescription) {
         /*
         return Arrays.asList(new String[]{
+                "h@prep()",
                 "wavend@prep()"
         });
         */
@@ -1066,6 +1074,12 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("bereshit1CC", translatorBridge);
         checkInMaps("bereshit1DD", translatorBridge);
         checkInMaps("bereshit1EE", translatorBridge);
+    }
+
+    @Test
+    public void test_failedones() {
+        assertTrue(true);
+        checkInMaps("wein16F1", translatorBridge);
     }
 
 }

@@ -55,7 +55,7 @@ awrita@noun!invpur%1(noun)=torah
 awr'h@noun!im-ot%1(noun)=invité%2(noun)=hôte
 awt@noun!custom(nomplr=awtiwt)%1(noun)=lettre
 awt@noun!custom(nomplr=awtwt)%1(noun)=signe
-al65h60im000@noun!custom(nomsg=alhim|cst(nomsg)=alhi&|decim-inwplr=alhinw|decim-ik=alhik)%1(noun)=dieu
+alhim000@noun!custom(nomsg=alhim000|cst(nomsg)=alhi&|decim-inwplr=alhinw|decim-ik=alhik)%1(noun)=dieu
 am@prep%1(prep)=si
 a64mw331n000@noun!im%1(noun)=artisan
 an'hnw@prep%1(prep)=nous
@@ -236,7 +236,7 @@ ztslexpr@noun!invpur%1(noun)=de mémoire bénie
 'hzlexpr@noun!invpur%1(noun)='hazal (sages de bienheureuse mémoire)
 'hi@noun!im-ot%1(noun)=vivant
 'hidaexpr@noun!invpur%1(noun)='hida (rabbin azoulay)
-'hs29862k00056@noun!im-fem%1(noun)=arrêt,pause%2(noun)=sombre,obscur%3(noun)=obscurité
+'hs29862k000@noun!im-fem%1(noun)=arrêt,pause%2(noun)=sombre,obscur%3(noun)=obscurité
 'h63k63m000@adj!adj%1(noun)=sage
 'hlb@noun!im%1(noun)=lait%2(noun)=graisse
 'h58lw331m000@noun!mascot%1(noun)=rêve
@@ -389,7 +389,7 @@ mkan000@prep%1(prep)=de là
 mkiwn000@prep%1(prep)=puisque
 mktb@noun!im%1(noun)=lettre
 mlak@noun!im%1(noun)=messager%2(noun)=ange
-m62l62k00056@noun!im%1(noun)=roi
+m62l62k000@noun!im%1(noun)=roi
 mmk@prep%1(prep)=depuis toi
 mmni@prep%1(prep)=depuis moi
 mn@prep%1(prep)=de
@@ -535,7 +535,7 @@ ytsmi@prep%1(prep)=moi-même
 tswtn@noun!invmasc%1(noun)=précepte
 tsrik@noun!im%1(noun)=besoin
 r'@noun!invpur%1(noun)=rabbi
-ra65s298@noun!im%1(noun)=tête
+ra65s@noun!im%1(noun)=tête
 r61as60it@noun!invmasc%1(noun)=commencement
 raexpr@noun!invpur%1(noun)=rabbi eliezer
 raswn@adj!im-ot%1(noun)=commencement%2(adj)=premier

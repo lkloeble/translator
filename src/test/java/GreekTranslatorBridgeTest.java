@@ -87,7 +87,7 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
     }
 
     private List<String> getNouns(String nounFileDescription) {
-            /*
+        /*
             return Arrays.asList(new String[]{
                     "μωυσης@neut%inv[accsg:μωυσην]"
             });
@@ -109,7 +109,7 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "διερχ,ομαι,[ομαι-η],(AORACTSUBJ*διερχ*διελθ*0)"
+                "λυ,ειν,[ω-εις]"
         });
         */
         return getFileContentForRepository(verbFileDescription);

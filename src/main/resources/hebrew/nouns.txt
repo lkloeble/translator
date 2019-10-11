@@ -15,7 +15,7 @@ awrita@neut%invpur
 awt@fem%custom(nomplr=awtiwt)
 awt@masc%custom(nomplr=awtwt)
 a'h@masc%im
-al65h60im000@masc%custom(nomsg=alhim|cst(nomsg)=alhi&|decim-inwplr=alhinw|decim-ik=alhik)
+alhim000@masc%custom(nomsg=alhim000|cst(nomsg)=alhi&|decim-inwplr=alhinw|decim-ik=alhik)
 alh@neut%invpur
 aliyzr@masc%invmasc
 alyzr@masc%invmasc
@@ -96,7 +96,7 @@ ztslexpr@neut%invpur
 'hidaexpr@masc%invpur
 'hmh@fem%invfem
 'htswt@masc%invmasc
-'hs29862k00056@fem%im-fem
+'hs29862k000@fem%im-fem
 'h63k63m000@adj%adj
 'hlb@masc%im
 'h58lw331m000@masc%mascot
@@ -169,7 +169,7 @@ mktb@masc%im
 m60ts56r63i60m000@masc%invmasc
 mtsriim000@masc%invmasc
 mlak@masc%im
-m62l62k00056@masc%im
+m62l62k000@masc%im
 mqwh@neut%invpur
 mqr@masc%mascendingh
 mqra@masc%invpur
@@ -255,7 +255,7 @@ rbh@neut%invpur
 rbnw@neut%invpur
 r61as60it@masc%invmasc
 raexpr@masc%invpur
-ra65s298@fem%im
+ra65s@fem%im
 rbi@masc%invmasc
 r56b60iy60i@masc%invmasc
 rbn@masc%invmasc
