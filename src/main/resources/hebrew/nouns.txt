@@ -8,7 +8,7 @@ a62'h64d@masc%empty
 a63'h63t@masc%empty
 aikh@neut%invpur
 akilt@neut%invpur
-a60is298@masc%custom(nomplr=ansim|cst(nomplr)=ansi&|dechsofit=aish|nomsg=a60is298)
+a60is@masc%custom(nomplr=ansim|cst(nomplr)=ansi&|dechsofit=aish|nomsg=a60is)
 aw331r@fem%invfem
 awr'h@masc%im-ot
 awrita@neut%invpur
@@ -232,7 +232,7 @@ tsrik@masc%im
 qbiyh@fem%invpur
 qdmt@neut%im
 qds@adj%im-ot
-q64dw331s298@adj%im-ot
+q64dw331s@adj%im-ot
 qw331l@masc%mascot
 qrbn@masc%mascot
 qrwa@neut%invpur
@@ -264,6 +264,7 @@ rgil@adj%im-ot
 rw'h63@neut%invpur
 r'hl@fem%invpur
 ris@neut%invpur
+ry63@adj%im-ot
 r63y@adj%im-ot
 rqiy@masc%invpur
 rsai@neut%invpur

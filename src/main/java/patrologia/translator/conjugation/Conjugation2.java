@@ -33,7 +33,7 @@ public abstract class Conjugation2 {
                 int indicePipe = 1;
                 String[] multipleValues = value.split("\\|");
                 for(String partValue : multipleValues) {
-                    sb.append(root).append(partValue);
+                    sb.append(appendTerminationWithMultipleValues(root, partValue));
                     if(indicePipe < multipleValues.length) {
                         sb.append("|");
                     }
@@ -41,10 +41,22 @@ public abstract class Conjugation2 {
                 }
                 sb.append(",");
             } else {
-                sb.append(root).append(value).append(",");
+                sb.append(appendTermination(root,value,","));
             }
         }
         return sb.deleteCharAt(sb.length()-1).toString();
+    }
+
+    public String appendTerminationWithMultipleValues(String root, String partValue) {
+        StringBuilder sb = new StringBuilder();
+        sb.append(root).append(partValue);
+        return sb.toString();
+    }
+
+    public String appendTermination(String root, String value, String s) {
+        StringBuilder sb = new StringBuilder();
+        sb.append(root).append(value).append(",");
+        return sb.toString();
     }
 
     private String getAllEndingsByDeclensions(List<String> declensions) {

@@ -49,7 +49,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         NounRepository nounRepository = new NounRepository(patrologia.translator.basicelements.Language.ROMANIAN, romanianDeclensionFactory, new patrologia.translator.basicelements.DummyAccentuer(),getNouns(nounFileDescription));
         VerbRepository2 verbRepository = new VerbRepository2(new RomanianConjugationFactory(getRomanianConjugations(conjugationsAndFiles), getRomanianConjugationDefinitions(conjugationsAndFiles, conjugationPath), romanianDeclensionFactory), patrologia.translator.basicelements.Language.ROMANIAN, new DummyAccentuer(), getVerbs(verbFileDescription));
         RomanianRuleFactory ruleFactory = new RomanianRuleFactory(verbRepository);
-        PrepositionRepository prepositionRepository = new PrepositionRepository(patrologia.translator.basicelements.Language.ROMANIAN, new RomanianCaseFactory(), ruleFactory, getPrepositions(prepositionFileDescription));
+        PrepositionRepository prepositionRepository = new PrepositionRepository(patrologia.translator.basicelements.Language.ROMANIAN, new RomanianCaseFactory(), ruleFactory, getPrepositions(prepositionFileDescription),new DummyAccentuer());
         Analizer romanianAnalyzer = new RomanianAnalyzer(prepositionRepository, nounRepository, verbRepository);
         Translator frenchTranslator = new FrenchTranslator(getRomanianDico(romanianFrenchDataFile), getFrenchVerbs(frenchVerbsDataFile), verbRepository, nounRepository, declensionPath, declensionsAndFiles, romanianDeclensionFactory);
         translatorBridge = new TranslatorBridge(romanianAnalyzer, frenchTranslator);

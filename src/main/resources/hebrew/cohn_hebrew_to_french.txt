@@ -29,7 +29,7 @@ ailk000@prep%1(prep)=désormais
 ain@prep%1(prep)=il n'y a pas
 ainw@prep%1(prep)=ce n'est pas
 a61in000@prep%1(prep)=il n'y a pas
-a60is298@noun!custom(nomplr=ansim|cst(nomplr)=ansi&|dechsofit=aish|nomsg=a60is298)%1(noun)=homme
+a60is@noun!custom(nomplr=ansim|cst(nomplr)=ansi&|dechsofit=aish|nomsg=a60is)%1(noun)=homme
 ait@prep%1(prep)=il y a
 akl@verb!norm%1(verb)=manger
 akwl@verb!norm%1(verb)=manger2
@@ -91,6 +91,7 @@ atw@prep%1(prep)=avec lui
 atm@prep%1(prep)=vous%2(prep)=eux
 att@noun!invpur%1(noun)=signes
 b@prep%1(prep)=dans
+b30556@prep%1(prep)=dans
 b30558@prep%1(prep)=dans
 b30560@prep%1(prep)=dans
 b30564@prep%1(prep)=dans
@@ -464,7 +465,7 @@ qbiyh@noun!invpur%1(noun)=décision
 qby@verb!norm%1(verb)=determiner
 qdmt@noun!im%1(noun)=introduction
 qds@adj!im-ot%1(noun)=saint
-q64dw331s298@adj!im-ot%1(noun)=saint
+q64dw331s@adj!im-ot%1(noun)=saint
 qdm@verb!norm%1(verb)=preceder
 qwdm@prep%1(prep)=d'abord
 qwh@verb!norm%1(verb)=couler
@@ -551,6 +552,7 @@ rgil@adj!im-ot%1(adj)=habituel
 rdp@verb!norm%1(noun)=suivre
 rwb@prep%1(prep)=la plupart
 rw'h63@noun!invpur%1(noun)=esprit%2(noun)=souffle
+ry63@noun!im-ot%1(noun)=mauvais
 r63y@noun!im-ot%1(noun)=mauvais
 r'hl@noun!invpur%1(noun)=rachel
 r'hp@verb!norm%1(verb)=planer

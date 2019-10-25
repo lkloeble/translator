@@ -45,7 +45,7 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     @Before
     public void init() {
         HebrewRuleFactory ruleFactory = new HebrewRuleFactory();
-        PrepositionRepository prepositionRepository = new PrepositionRepository(Language.HEBREW, new HebrewCaseFactory(), ruleFactory, getPrepositions(prepositionFileDescription));
+        PrepositionRepository prepositionRepository = new PrepositionRepository(Language.HEBREW, new HebrewCaseFactory(), ruleFactory, getPrepositions(prepositionFileDescription),new Accentuer());
         HebrewDeclensionFactory hebrewDeclensionFactory = new HebrewDeclensionFactory(getDeclensions(), getDeclensionList());
         NounRepository nounRepository = new NounRepository(Language.HEBREW, hebrewDeclensionFactory, new Accentuer(),getNouns(nounFileDescription));
         VerbRepository2 verbRepository = new VerbRepository2(new HebrewConjugationFactory(getConjugations(), getHebrewConjugationsDefinitions(), hebrewDeclensionFactory), Language.HEBREW, new Accentuer(),getVerbs(verbFileDescription));
@@ -316,7 +316,7 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
         /*
         return Arrays.asList(
                 new String[]{
-                        "enseigner@NORM%[INFINITIVE]=[enseigner]%[IPR]=[enseigne,enseignes,enseigne,enseignons,enseignez,enseignent]%[PII]=[étais enseigné,étais enseigné,était enseigné,étions enseignés,étiez enseignés,étaient enseignés]%[AII]=[enseignais,enseignais,enseignait,enseignions,enseigniez,enseignaient]%[AIFP]=[aurai enseigné,auras enseigné,aura enseigné,aurons enseigné,aurez enseigné,auront enseigné]%[PAPR]=[enseignant]%[NIFAIP]=[ai été enseigné,as été enseigné,a été enseigné,avons été enseignés,avez été enseignés,ont été enseignés]%[PAP]=[enseigné]%[AIP]=[enseignai,enseignas,enseigna,enseignâmes,enseignâtes,enseignèrent]%[ARAIPR]=[enseigne,enseignes,enseigne,enseignons,enseignez,enseignent]",
+                        "donner@NORM%[INFINITIVE]=[donner]%[IPR]=[donne,donnes,donne,donnons,donnez,donnent]%[AIP]=[donnai,donnas,donna,donnâmes,donnâtes,donnèrent]%[PIP]=[suis donné,es donné,est donné,sommes donnés,êtes donnés,sont donnés]%[AIF]=[donnerai,donneras,donnera,donnerons,donnerez,donneront]%[PIF]=[serai donné,seras donné,sera donné,serons donnés,serez donnés,seront donnés]%[PAP]=[donné]%[AIMP]=[donne,donnez]%[PAPR]=[donnant]%[PALINF]=[donner]%[AIPP]=[ai donné,as donné,a donné,avons donné,avez donné,ont donné]%[VENO]=[donner,donné,donné,donné,donné,donné]%[ASP]=[donne,donnes,donne,donnions,donniez,donnent]",
                 }
         );
         */
@@ -326,7 +326,7 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getNouns(String nounFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "m62l62k000@masc%im"
+                "'h63k63m000@adj%adj"
         });
         */
         return getFileContentForRepository(nounFileDescription);
@@ -335,9 +335,7 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getHebDico(String dictionaryFile) {
         /*
         return Arrays.asList(new String[]{
-                "m62l62k000@noun!im%1(noun)=roi",
-                "h@prep%1(prep)=le[les,la]",
-                "xw331b@noun!im-ot%1(noun)=bon"
+                "ntn@verb!norm%1(verb)=donner"
         });
         */
         return getFileContentForRepository(dictionaryFile);
@@ -346,8 +344,7 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFiles) {
         /*
         return Arrays.asList(new String[]{
-                "isb,,[paal],(AIP%leadingrootletter%i*i64@AIP%secondletterroot%s*s29863@AIP%alternateaccentuation(5:9)%s29863*s29856@AIP%alternateaccentuation(5)%b*b64@IPR%substitute%is*iws*0)"
-
+                "ntn,tt,[paal],(AIP%leadingrootletter%n*n64@AIP%secondletterroot%t*t63@AIP%sofitrootletter%n3*n000@AIP%alternateaccentuation(5:9)%t63*t56@AIP%alternateaccentuation(5)%56n*56n64@IPR%substitute%nt*nwt*0@AIF%substitute%ntn*tn*0)"
         });
         */
         return getFileContentForRepository(verbFiles);
@@ -396,7 +393,7 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getPaalDefinition() {
         /*
         return Arrays.asList(new String[]{
-                "AIP=>ti,t|t,|h,nw,tm|tn,w309"
+                "AIF=>*a*@,*t*@|*t*i,*i*@|*t*@,*n*@,*t*w|*t*nh,*i*w|*t*nh"
         });
         */
         return Arrays.asList(new String[]{
@@ -469,8 +466,7 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getPrepositions(String prepositionFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "h@prep()",
-                "wavend@prep()"
+                "m60n000@prep()"
         });
         */
         return getFileContentForRepository(prepositionFileDescription);
@@ -1079,7 +1075,7 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("wein16F1", translatorBridge);
+        checkInMaps("wein20T1", translatorBridge);
     }
 
 }

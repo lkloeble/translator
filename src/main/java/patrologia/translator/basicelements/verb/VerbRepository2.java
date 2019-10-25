@@ -33,7 +33,7 @@ public class VerbRepository2 {
     }
 
     public boolean hasVerb(String initialValue) {
-        return conjugationMap.containsKey(initialValue) || conjugationMap.containsKey(infinitiveBuilder.getInfinitiveFromInitialValue(initialValue));
+        return conjugationMap.containsKey(accentuer.cleanAll(initialValue)) || conjugationMap.containsKey(infinitiveBuilder.getInfinitiveFromInitialValue(initialValue));
     }
 
     public Verb getVerb(String initialValue) {
@@ -60,7 +60,7 @@ public class VerbRepository2 {
     }
 
     public Collection<Verb> getVerbs(String initialValue) {
-        Collection<Verb> allVerbs = verbMap.getAllVerbs(initialValue);
+        Collection<Verb> allVerbs = verbMap.getAllVerbs(accentuer.cleanAll(initialValue));
         if(allVerbs.size() == 0 && lookForInfinitive(language,initialValue).getRoot() != null) {
             allVerbs = new ArrayList<>();
             ((ArrayList<Verb>) allVerbs).add(0,lookForInfinitive(language,initialValue));
@@ -129,26 +129,31 @@ public class VerbRepository2 {
         translationBeansMap.addConjugationForGlobalKey(verbDefinition.getRoot(), time);
         RootedConjugation rootedConjugation = new RootedConjugation(time, valuesAllInOne, conjugation.isRelatedTonoun(time), conjugation.getConjugationName(), conjugation.getDeclension(time),accentuer);
         TranslationInformationReplacement2 translationInformationReplacement = verbDefinition.getTranslationInformationReplacement2();
-        int indice = 0;
-        int positionIndice = 0;
-        StringBuilder sb = new StringBuilder();
-        for (String value : rootedConjugation.allFormsByTime()) {
-            positionIndice = correctIndiceForMultipleValuesInSameConjugationPosition(indice,rootedConjugation);
-            String replace = translationInformationReplacement.replace(time, value, ConjugationPosition.getValueByPosition(positionIndice));
-            conjugationMap.put(replace, verbDefinition.getRoot());
-            sb.append(replace).append(",");
-            indice++;
-        }
         rootedConjugation.updateValues(translationInformationReplacement, time);
         if(verbDefinition.hasTranslationRules() && verbDefinition.getTranslationRules().hasTransformationForThisTime(time)) {
             TranslationRules translationRules = verbDefinition.getTranslationRules();
             List<ConjugationPart> transformedConjugationPartList = translationRules.transform(rootedConjugation.getPartLists(),time);
             rootedConjugation = new RootedConjugation(time, transformedConjugationPartList,accentuer);
         }
+        storeAllConjugations(rootedConjugation,translationInformationReplacement,time,verbDefinition);
         rootedConjugationMap.put(verbDefinition.getRoot() + "@" + time, rootedConjugation);
         Verb verb = new Verb(verbDefinition.getRoot(), this, language);
         verbMap.put(verbDefinition.getRoot(), verb);
 
+    }
+
+    private void storeAllConjugations(RootedConjugation rootedConjugation, TranslationInformationReplacement2 translationInformationReplacement, String time, VerbDefinition verbDefinition) {
+        int indice = 0;
+        int positionIndice = 0;
+        for (String value : rootedConjugation.allFormsByTime()) {
+            positionIndice = correctIndiceForMultipleValuesInSameConjugationPosition(indice,rootedConjugation);
+            String replace = translationInformationReplacement.replace(time, value, ConjugationPosition.getValueByPosition(positionIndice));
+            conjugationMap.put(replace, verbDefinition.getRoot());
+            if(!conjugationMap.containsKey(accentuer.cleanAll(replace))) {
+                conjugationMap.put(accentuer.cleanAll(replace),verbDefinition.getRoot());
+            }
+            indice++;
+        }
     }
 
     private int correctIndiceForMultipleValuesInSameConjugationPosition(int indice, RootedConjugation rootedConjugation) {
