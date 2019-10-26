@@ -48,10 +48,10 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
         String englishPathFile = localTestPath + "english_content.txt";
         String englishResultFile = localTestPath + "english_expected_results.txt";
         EnglishDeclensionFactory englishDeclensionFactory = new EnglishDeclensionFactory(getDeclensions(declensionsAndFiles), getDeclensionList(declensionsAndFiles, declensionPath));
-        NounRepository nounRepository = new NounRepository(Language.ENGLISH, englishDeclensionFactory, new DummyAccentuer(), getFileContentForRepository(nounFileDescription));
+        NounRepository nounRepository = new NounRepository(Language.ENGLISH, englishDeclensionFactory, new DummyAccentuer(), getNouns(nounFileDescription));
         VerbRepository2 verbRepository = new VerbRepository2(new EnglishConjugationFactory(getEnglishConjugations(conjugationsAndFiles), getEnglishConjugationDefinitions(conjugationsAndFiles, conjugationPath), englishDeclensionFactory), Language.ENGLISH, new DummyAccentuer(), getVerbs(verbFileDescription));
         EnglishRuleFactory ruleFactory = new EnglishRuleFactory();
-        PrepositionRepository prepositionRepository = new PrepositionRepository(Language.ENGLISH, new EnglishCaseFactory(), ruleFactory, getFileContentForRepository(prepositionFileDescription),new DummyAccentuer());
+        PrepositionRepository prepositionRepository = new PrepositionRepository(Language.ENGLISH, new EnglishCaseFactory(), ruleFactory, getPrepositions(prepositionFileDescription),new DummyAccentuer());
         Analizer englishAnalyzer = new EnglishAnalyzer(prepositionRepository, nounRepository, verbRepository);
         Translator frenchTranslator = new FrenchTranslator(getDictionaryData(englishFrenchDataFile), getFileContentForRepository(frenchVerbsDataFile), verbRepository, nounRepository, declensionPath, declensionsAndFiles, englishDeclensionFactory);
         translatorBridge = new TranslatorBridge(englishAnalyzer, frenchTranslator);
@@ -59,10 +59,29 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
         mapValuesForResult = loadMapFromFiles(englishResultFile);
     }
 
+    private List<String> getNouns(String nounFileDescription) {
+        /*
+        return Arrays.asList(new String[]{
+                "abel@masc%invmasc"
+        });
+        */
+        return getFileContentForRepository(nounFileDescription);
+    }
+
+    private List<String> getPrepositions(String prepositionFileDescription) {
+        /*
+        return Arrays.asList(new String[]{
+                "above@prep()"
+        });
+        */
+        return getFileContentForRepository(prepositionFileDescription);
+    }
+
+
     private List<String> getDictionaryData(String englishFrenchDataFile) {
         /*
         return Arrays.asList(new String[]{
-                "live@verb!norm%1(verb)=vivre"
+                "sit@verb!norm%1(verb)=s'asseoir%2(verb)=sieger"
         });
         */
         return getFileContentForRepository(englishFrenchDataFile);
@@ -92,7 +111,7 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
     private Map<String, List<String>> getEnglishConjugationDefinitions(String file, String directory) {
         /*
         Map<String, List<String>> englishConjugationDefinitionsMap = new HashMap<>();
-        englishConjugationDefinitionsMap.put("see", getSeeDefinition());
+        englishConjugationDefinitionsMap.put("live", getLiveDefinition());
         return englishConjugationDefinitionsMap;
         */
 
@@ -110,17 +129,16 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "bring,[see],(AIP*bring*brought*0)",
-                "bringforth,[see],(AIP*bring*brought*0)"
+                "sit,[live],(AIP*sitd*sat*0@PAPR*sit*sitt*0)"
         });
         */
         return getFileContentForRepository(verbFileDescription);
     }
 
-    private List<String> getSeeDefinition() {
+    private List<String> getLiveDefinition() {
         return Arrays.asList(new String[]{
                 "IPR=>,,s,,, ,",
-                "AIP=>,,,,, ,"
+                "PAPR=>ing"
         });
 
     }
@@ -1487,6 +1505,6 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("lightfoot_ch1123", translatorBridge);
+        checkInMaps("toto", translatorBridge);
     }
 }

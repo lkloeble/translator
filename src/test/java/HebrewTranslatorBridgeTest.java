@@ -316,7 +316,7 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
         /*
         return Arrays.asList(
                 new String[]{
-                        "donner@NORM%[INFINITIVE]=[donner]%[IPR]=[donne,donnes,donne,donnons,donnez,donnent]%[AIP]=[donnai,donnas,donna,donnâmes,donnâtes,donnèrent]%[PIP]=[suis donné,es donné,est donné,sommes donnés,êtes donnés,sont donnés]%[AIF]=[donnerai,donneras,donnera,donnerons,donnerez,donneront]%[PIF]=[serai donné,seras donné,sera donné,serons donnés,serez donnés,seront donnés]%[PAP]=[donné]%[AIMP]=[donne,donnez]%[PAPR]=[donnant]%[PALINF]=[donner]%[AIPP]=[ai donné,as donné,a donné,avons donné,avez donné,ont donné]%[VENO]=[donner,donné,donné,donné,donné,donné]%[ASP]=[donne,donnes,donne,donnions,donniez,donnent]",
+                        "separer@NORM%[INFINITIVE]=[séparer]%[IPR]=[sépare,sépares,sépare,séparons,séparez,séparent]%[AIP]=[séparais,séparais,sépara,séparâmes,séparâtes,séparèrent]%[PII]=[étais séparé,étais séparé,était séparé,étions séparés,étiez séparés,étaient séparés]%[ASP]=[que  je sépare,que tu sépares,qu'il sépare,que  nous séparons,que vous séparez,qu'ils séparent]%[AIFP]=[aurai séparé,auras séparé,aura séparé,aurons séparés,aurez séparés,auront séparés]%[PSI]=[fus séparé,fus séparé,fut séparé,fûmes séparés,fûtes séparés,furent séparés]%[ACAOIN]=[séparais,séparais,sépara,séparâmes,séparâtes,séparèrent]%[PEPASPAR]=[qui a été séparé]%[AORPASSPART]=[-,-,séparé,-,-,-]%[AIF]=[séparera,sépareras,séparera,séparerons,séparerez,sépareront]%[PALFUT]=[séparera,sépareras,séparera,séparerons,séparerez,sépareront]%[HIFPER]=[causais de séparer,causais de séparer,causa de séparer,causâmes de séparer,causâtes de séparer,causèrent de séparer]%[HIFIPR]=[sépare,sépares,sépare,séparons,séparez,séparent]%[PAP]=[séparé]%[PAPR]=[séparant]",
                 }
         );
         */
@@ -335,7 +335,7 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getHebDico(String dictionaryFile) {
         /*
         return Arrays.asList(new String[]{
-                "ntn@verb!norm%1(verb)=donner"
+                "bdl@verb!norm%1(verb)=separer"
         });
         */
         return getFileContentForRepository(dictionaryFile);
@@ -344,7 +344,7 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFiles) {
         /*
         return Arrays.asList(new String[]{
-                "ntn,tt,[paal],(AIP%leadingrootletter%n*n64@AIP%secondletterroot%t*t63@AIP%sofitrootletter%n3*n000@AIP%alternateaccentuation(5:9)%t63*t56@AIP%alternateaccentuation(5)%56n*56n64@IPR%substitute%nt*nwt*0@AIF%substitute%ntn*tn*0)"
+                "bdl,,[hiphil],(HIFPER%leadingrootletter%h*h60@HIFPER%secondletterroot%b*b56@HIFPER%alternateaccentuation(4:5:9)%d*d60i"
         });
         */
         return getFileContentForRepository(verbFiles);
@@ -418,6 +418,11 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     }
 
     private List<String> getHiphilDefinition() {
+        /*
+        return Arrays.asList(new String[]{
+                "HIFPER=>*h*ti,*h*t|*h*t,*h*@|*h*h,*h*nw309,*h*tm|*h*tn,*h*w309"
+        });
+        */
         return Arrays.asList(new String[]{
                 "HIFPER=>*h*ti,*h*t|*h*t,*h*@|*h*h,*h*nw309,*h*tm|*h*tn,*h*w309",
                 "HIFFUT=>*a*@,*t*@|*t*i,*i*@|*t*@,*n*@,*t*w|*t*nh,*i*w|*t*nh",
@@ -1075,7 +1080,7 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("wein20T1", translatorBridge);
+        checkInMaps("toto", translatorBridge);
     }
 
 }

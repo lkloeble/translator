@@ -136,8 +136,8 @@ public class VerbRepository2 {
             rootedConjugation = new RootedConjugation(time, transformedConjugationPartList,accentuer);
         }
         storeAllConjugations(rootedConjugation,translationInformationReplacement,time,verbDefinition);
-        rootedConjugationMap.put(verbDefinition.getRoot() + "@" + time, rootedConjugation);
         Verb verb = new Verb(verbDefinition.getRoot(), this, language);
+        rootedConjugationMap.put(verbDefinition.getRoot() + "@" + time, rootedConjugation);
         verbMap.put(verbDefinition.getRoot(), verb);
 
     }
@@ -146,8 +146,9 @@ public class VerbRepository2 {
         int indice = 0;
         int positionIndice = 0;
         for (String value : rootedConjugation.allFormsByTime()) {
-            positionIndice = correctIndiceForMultipleValuesInSameConjugationPosition(indice,rootedConjugation);
-            String replace = translationInformationReplacement.replace(time, value, ConjugationPosition.getValueByPosition(positionIndice));
+            //positionIndice = correctIndiceForMultipleValuesInSameConjugationPosition(indice,rootedConjugation);
+            //String replace = translationInformationReplacement.replace(time, value, ConjugationPosition.getValueByPosition(positionIndice));
+            String replace = value;
             conjugationMap.put(replace, verbDefinition.getRoot());
             if(!conjugationMap.containsKey(accentuer.cleanAll(replace))) {
                 conjugationMap.put(accentuer.cleanAll(replace),verbDefinition.getRoot());

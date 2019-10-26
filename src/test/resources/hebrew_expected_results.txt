@@ -769,5 +769,5 @@ midrashrabahebcom1N=>foobar
 midrashrabahebcom1O=>foobar
 midrashrabahebcom1P=>foobar
 
-toto=>donna/donnerons
+toto=>causa de séparer
 totoacc=>enseignent

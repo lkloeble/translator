@@ -786,7 +786,7 @@ midrashrabahebcom1O=>בספרי מדרש תנאים בלקוטים וחידוש�
 midrashrabahebcom1P=>continuer saisie après crochet [, première ligne en dessous du midrash encadré
 
 totoacc=>לוֹמְדִים
-toto=>נָתַן
+toto=>הִבְדִיל
 א
 ב
 ג
