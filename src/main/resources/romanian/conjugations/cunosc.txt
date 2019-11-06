@@ -1,3 +1,4 @@
 IPR=>osc,osti,oaste,oastem,oastetsi,osc
 PAP=>oscut
 ASP=>xxx,xxx,oasca,xxx,xxx,xxx
+AIF=>oastevoi,oastevei,oasteva,oastevomoastevetsi,oastevor

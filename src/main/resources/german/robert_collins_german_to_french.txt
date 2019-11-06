@@ -2108,7 +2108,7 @@ ublich@adj!ausreichend%1(adj)=habituel
 ubrig@adj!ausreichend%1(adj)=restant
 ubrigens@prep%1(prep)=du reste
 uhr@noun!inv%1(noun)=heure
-um@prep%1(prep)=autour%2(prep)=autour
+um@prep%1(prep)=autour%2(prep)=à propos
 umander@verb!norm%1(verb)=alterer
 umgekehrt@prep%1(prep)=inversement
 umfang@noun!meinmasc%1(noun)=étendue

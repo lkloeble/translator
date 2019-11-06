@@ -2,7 +2,7 @@
 ab@noun!mascot%1(noun)=père
 abl@verb!norm%1(verb)=pleurer
 abr@noun!imonly%1(noun)=membre
-abrhm@noun!invpur%1(noun)=abraham
+abrhm000@noun!invpur%1(noun)=abraham
 agb@prep%1(prep)=d'ailleurs%2(prep)=à cause de
 a58d64m64h@noun!custom(nomsg=admh|decim-nw=admtnw)%1(noun)=terre
 a64d64m000@noun!invmasc%1(noun)=homme
@@ -352,7 +352,7 @@ l'hm@noun!invpur%1(noun)=pain
 li@prep%1(prep)=à moi
 l56k00064@prep%1(prep)=à toi
 lk@prep%1(prep)=à toi
-lkm@prep%1(prep)=à vous
+lkm000@prep%1(prep)=à vous
 lkt@noun!invmasc%1(noun)=départ
 lqrwth@noun!invmasc%1(noun)=lire comme
 lpninw@prep%1(prep)=devant nous
@@ -527,7 +527,7 @@ yrbit@noun!invmasc%1(noun)=prière du soir
 y62r62b@noun!im%1(noun)=soir
 yrib@noun!invpur%1(noun)=soir
 yrl@adj!im-ot%1(noun)=incirconcis
-y61s29964w309@noun!invmasc%1(noun)=esav
+y61s29964w@noun!invmasc%1(noun)=esav
 ysh@verb!norm%1(verb)=faire
 ysb@noun!im%1(noun)=herbe
 yt@noun!im%1(noun)=temps

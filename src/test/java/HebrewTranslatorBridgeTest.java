@@ -29,9 +29,9 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
 
     protected TranslatorBridge translatorBridge;
 
-    private String localTestPath="C:\\Users\\kloeblel\\IdeaProjects\\translator\\src\\test\\resources\\";
-    private String localResourcesPath="C:\\Users\\kloeblel\\IdeaProjects\\translator\\src\\main\\resources\\hebrew\\";
-    private String localCommonPath="C:\\Users\\kloeblel\\IdeaProjects\\translator\\src\\main\\resources\\";
+    private String localTestPath = "C:\\Users\\kloeblel\\IdeaProjects\\translator\\src\\test\\resources\\";
+    private String localResourcesPath = "C:\\Users\\kloeblel\\IdeaProjects\\translator\\src\\main\\resources\\hebrew\\";
+    private String localCommonPath = "C:\\Users\\kloeblel\\IdeaProjects\\translator\\src\\main\\resources\\";
 
     String nounFileDescription = localResourcesPath + "nouns.txt";
     String verbFileDescription = localResourcesPath + "verbs.txt";
@@ -45,15 +45,66 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     @Before
     public void init() {
         HebrewRuleFactory ruleFactory = new HebrewRuleFactory();
-        PrepositionRepository prepositionRepository = new PrepositionRepository(Language.HEBREW, new HebrewCaseFactory(), ruleFactory, getPrepositions(prepositionFileDescription),new Accentuer());
+        PrepositionRepository prepositionRepository = new PrepositionRepository(Language.HEBREW, new HebrewCaseFactory(), ruleFactory, getPrepositions(prepositionFileDescription), new Accentuer());
         HebrewDeclensionFactory hebrewDeclensionFactory = new HebrewDeclensionFactory(getDeclensions(), getDeclensionList());
-        NounRepository nounRepository = new NounRepository(Language.HEBREW, hebrewDeclensionFactory, new Accentuer(),getNouns(nounFileDescription));
-        VerbRepository2 verbRepository = new VerbRepository2(new HebrewConjugationFactory(getConjugations(), getHebrewConjugationsDefinitions(), hebrewDeclensionFactory), Language.HEBREW, new Accentuer(),getVerbs(verbFileDescription));
+        NounRepository nounRepository = new NounRepository(Language.HEBREW, hebrewDeclensionFactory, new Accentuer(), getNouns(nounFileDescription));
+        VerbRepository2 verbRepository = new VerbRepository2(new HebrewConjugationFactory(getConjugations(), getHebrewConjugationsDefinitions(), hebrewDeclensionFactory), Language.HEBREW, new Accentuer(), getVerbs(verbFileDescription));
         Analizer hebrewAnalyzer = new HebrewAnalyzer(prepositionRepository, nounRepository, verbRepository);
         Translator frenchTranslator = new FrenchTranslator(getHebDico(hebrewFrenchDataFile), getFrenchVerbs(), verbRepository, nounRepository, null, null, hebrewDeclensionFactory);
         translatorBridge = new TranslatorBridge(hebrewAnalyzer, frenchTranslator);
         mapValuesForTest = loadMapFromFiles(hebrewPathFile);
         mapValuesForResult = loadMapFromFiles(hebrewResultFile);
+    }
+
+    private List<String> getFrenchVerbs() {
+        /*
+        return Arrays.asList(
+                new String[]{
+                        "obscurcir@NORM%[INFINITIVE]=[obscurcir]%[IPR]=[obscurcis,obscurcis,obscurcit,obscurcissons,obscurcissez,obscurcissent]%[CONJ]=[obscurcir,obscurcir,obscurcir,obscurcir,obscurcir,obscurcir]%[AIF]=[obscurcirai,obscurciras,obscurcira,obscurcirons,obscurcirez,obscurciront]"
+                }
+        );
+        */
+        return getFileContentForRepository(frenchVerbsDataFile);
+    }
+
+    private List<String> getNouns(String nounFileDescription) {
+        /*
+        return Arrays.asList(new String[]{
+                "aw331r@fem%invfem"
+        });
+        */
+        return getFileContentForRepository(nounFileDescription);
+    }
+
+    private List<String> getHebDico(String dictionaryFile) {
+        /*
+        return Arrays.asList(new String[]{
+                "aw331r@noun!invfem%1(noun)=flamme,feu%2(noun)=lumière",
+                "ksofit@prep%1(prep)=de-toi",
+                "at@prep%1(prep)=COD"
+        });
+        */
+        return getFileContentForRepository(dictionaryFile);
+    }
+
+    private List<String> getPrepositions(String prepositionFileDescription) {
+        /*
+        return Arrays.asList(new String[]{
+                "b@prep()",
+                "wavend@prep()",
+                "lkm000@prep()"
+        });
+        */
+        return getFileContentForRepository(prepositionFileDescription);
+    }
+
+    private List<String> getVerbs(String verbFiles) {
+        /*
+        return Arrays.asList(new String[]{
+                "'hsk,'hswk,[paal]"
+        });
+        */
+        return getFileContentForRepository(verbFiles);
     }
 
     private List<String> getDeclensions() {
@@ -132,8 +183,8 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
 
     private List<String> getImElements() {
         return Arrays.asList(new String[]{
-                "nomsg%sing%masc%",
-                "cst(nomsg)%sing%masc%&",
+                "nomsg(nomsg)%sing%masc%",
+                "cst(nomsgcst)%sing%masc%&",
                 "decim-h%sing%masc%h",
                 "decim-iw%sing%masc%iw",
                 "decim-nw%plr%masc%nw",
@@ -224,7 +275,7 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "decim-i%sing%masc%i",
                 "decim-ih%sing%masc%ih",
                 "decim-iw%sing%masc%iw",
-                "decim-w%sing%masc%w331",
+                "decim-w%sing%masc%w",
                 "decim-tw%sing%masc%tw",
                 "decim-nw%sing%masc%nw",
                 "decim-inw%sing%masc%inw",
@@ -296,7 +347,7 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getInvfemElements() {
         return Arrays.asList(new String[]{
                 "nomsg%sing%fem%",
-                "decim-i%sing%fem%i60",
+                "decim-i%sing%fem%i",
                 "cst(nomsg)%sing%fem%&"
         });
     }
@@ -312,43 +363,6 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
         });
     }
 
-    private List<String> getFrenchVerbs() {
-        /*
-        return Arrays.asList(
-                new String[]{
-                        "separer@NORM%[INFINITIVE]=[séparer]%[IPR]=[sépare,sépares,sépare,séparons,séparez,séparent]%[AIP]=[séparais,séparais,sépara,séparâmes,séparâtes,séparèrent]%[PII]=[étais séparé,étais séparé,était séparé,étions séparés,étiez séparés,étaient séparés]%[ASP]=[que  je sépare,que tu sépares,qu'il sépare,que  nous séparons,que vous séparez,qu'ils séparent]%[AIFP]=[aurai séparé,auras séparé,aura séparé,aurons séparés,aurez séparés,auront séparés]%[PSI]=[fus séparé,fus séparé,fut séparé,fûmes séparés,fûtes séparés,furent séparés]%[ACAOIN]=[séparais,séparais,sépara,séparâmes,séparâtes,séparèrent]%[PEPASPAR]=[qui a été séparé]%[AORPASSPART]=[-,-,séparé,-,-,-]%[AIF]=[séparera,sépareras,séparera,séparerons,séparerez,sépareront]%[PALFUT]=[séparera,sépareras,séparera,séparerons,séparerez,sépareront]%[HIFPER]=[causais de séparer,causais de séparer,causa de séparer,causâmes de séparer,causâtes de séparer,causèrent de séparer]%[HIFIPR]=[sépare,sépares,sépare,séparons,séparez,séparent]%[PAP]=[séparé]%[PAPR]=[séparant]",
-                }
-        );
-        */
-        return getFileContentForRepository(frenchVerbsDataFile);
-    }
-
-    private List<String> getNouns(String nounFileDescription) {
-        /*
-        return Arrays.asList(new String[]{
-                "'h63k63m000@adj%adj"
-        });
-        */
-        return getFileContentForRepository(nounFileDescription);
-    }
-
-    private List<String> getHebDico(String dictionaryFile) {
-        /*
-        return Arrays.asList(new String[]{
-                "bdl@verb!norm%1(verb)=separer"
-        });
-        */
-        return getFileContentForRepository(dictionaryFile);
-    }
-
-    private List<String> getVerbs(String verbFiles) {
-        /*
-        return Arrays.asList(new String[]{
-                "bdl,,[hiphil],(HIFPER%leadingrootletter%h*h60@HIFPER%secondletterroot%b*b56@HIFPER%alternateaccentuation(4:5:9)%d*d60i"
-        });
-        */
-        return getFileContentForRepository(verbFiles);
-    }
 
     private Map<String, List<String>> getHebrewConjugationsDefinitions() {
         Map<String, List<String>> hebrewConjugationDefinitionsMap = new HashMap<>();
@@ -468,14 +482,6 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
         });
     }
 
-    private List<String> getPrepositions(String prepositionFileDescription) {
-        /*
-        return Arrays.asList(new String[]{
-                "m60n000@prep()"
-        });
-        */
-        return getFileContentForRepository(prepositionFileDescription);
-    }
 
     @Test
     public void test_weingreen_chapter_16() {

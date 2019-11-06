@@ -25,6 +25,7 @@ alexandri@fem%fem
 alipir@masc%ul
 alo@neut%inv
 alt@adj%adjts
+amagir@fem%berea
 amar@adj%adj
 ambigua@neut%inv
 amintir@fem%berea
@@ -68,6 +69,7 @@ autoformare@neut%inv
 avva@neut%inv
 bai@masc%baiat
 balta@neut%inv
+ban@masc%ul
 barbat@masc%ul
 batran@adj%adj
 baz@fem%fem
@@ -113,6 +115,7 @@ cartier@masc%ul
 cartof@masc%ul
 cas@fem%fem
 casatorit@adj%adj
+castigar@fem%berea
 cautar@fem%berea
 caz@masc%ul
 ceai@masc%ul
@@ -500,6 +503,7 @@ motiv@masc%ul
 mult@adj%adjts
 multsumesc@neut%inv
 multsumir@fem%ratsiune
+multul@masc%inv
 mun@fem%capacitate
 munt@masc%frate
 muscat@fem%fem
@@ -526,6 +530,7 @@ nepotrivit@adj%adjts
 neprihanir@fem%berea
 nesfarsit@adj%adjts
 nesocotit@adj%adjts
+nestiints@fem%fem
 nesuferit@adj%adjts
 netrecat@adj%adjor
 nevast@fem%fem
@@ -583,6 +588,7 @@ parint@neut%parinte
 pas@masc%ul
 pasar@fem%berea
 pasiv@adj%inv
+patim@fem%fem
 patriarh@masc%ul
 patru@neut%inv
 patruzeci@neut%inv
@@ -596,7 +602,7 @@ persoan@fem%fem
 personal@neut%inv
 personal@adj%adj
 perspectiv@fem%fem
-petrecere@fem%inv
+petrecer@fem%berea
 pg@neut%inv
 pian@masc%ul
 pic@neut%inv
@@ -674,6 +680,7 @@ ra@adj%adj
 rauri@masc%inv
 raz@fem%fem
 razbunar@fem%berea
+rea@adj%inv
 real@adj%adj
 realita@fem%capacitate
 rece@adj%adj
@@ -762,6 +769,7 @@ singuratate@fem%ereditate
 sinucider@fem%berea
 slabiciun@fem%berea
 soart@fem%fem[nomplr:sortsi]
+socot@fem%socoteala
 sofer@masc%ul
 soi@neut%inv
 somn@masc%ul
@@ -902,6 +910,7 @@ voilor@neut%inv
 voints@fem%fem
 vrajmas@masc%ul
 vrem@fem%berea
+vremelnic@adj%adj
 will@neut%inv
 zahar@neut%inv
 zambet@neut%ul

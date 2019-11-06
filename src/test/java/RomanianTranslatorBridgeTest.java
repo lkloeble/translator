@@ -116,7 +116,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "cuget,,[incerca],(PAP*cuget*cugetat)"
+                "plac,,[merg],(PAP*plac*placut)"
         });
         */
         return getFileContentForRepository(verbFileDescription);
@@ -810,7 +810,17 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("filocaliaantonie3F", translatorBridge);
         checkInMaps("filocaliaantonie3G", translatorBridge);
         checkInMaps("filocaliaantonie3H", translatorBridge);
+    }
 
+    @Test
+    public void test_filocalia1_antonie4() {
+        checkInMaps("filocaliaantonie4A", translatorBridge);
+        checkInMaps("filocaliaantonie4B", translatorBridge);
+        checkInMaps("filocaliaantonie4C", translatorBridge);
+        checkInMaps("filocaliaantonie4D", translatorBridge);
+        checkInMaps("filocaliaantonie4E", translatorBridge);
+        checkInMaps("filocaliaantonie4F", translatorBridge);
+        checkInMaps("filocaliaantonie4G", translatorBridge);
     }
 
     @Test
@@ -948,7 +958,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("bocaseumplu840", translatorBridge);
+        checkInMaps("filocaliaantonie4B", translatorBridge);
     }
     
 }

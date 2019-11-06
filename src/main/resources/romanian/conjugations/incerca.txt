@@ -1,7 +1,7 @@
 IPR=>,i,a,am,atsi,a
 AII=>am,ai,a,am,atsi,au
 ASP=>,i,e,am,atsi,e
-AIF=>va,iva,ava,amva,atsiva,va
+AIF=>voi,vei,va,vom,vetsi,vor
 PAP=>[adj,adjts]
 PAPR=>and|andu
 COND=>a,a,a,a,a,a

@@ -35,3 +35,4 @@ conceptie%conceptie.txt
 adjos%gros.txt
 greu%greu.txt
 neut%neut.txt
+socoteala%socoteala.txt

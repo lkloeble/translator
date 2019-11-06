@@ -30,7 +30,7 @@ public class RomanianAnalyzer implements Analizer {
     private VerbRepository2 verbRepository;
 
     public RomanianAnalyzer(PrepositionRepository prepositionRepository, NounRepository nounRepository, VerbRepository2 verbRepository) {
-        wordAnalyzer = new WordAnalyzer(prepositionRepository, nounRepository,verbRepository, new patrologia.translator.linguisticimplementations.RomanianPhraseChanger(nounRepository,verbRepository), new DefaultModificationLog(), new CustomRule(), new CaseOperatorContainer(nounRepository,prepositionRepository,new DummyAccentuer()),Language.ROMANIAN);
+        wordAnalyzer = new WordAnalyzer(prepositionRepository, nounRepository,verbRepository, new patrologia.translator.linguisticimplementations.RomanianPhraseChanger(nounRepository,verbRepository), new DefaultModificationLog(), new CustomRule(), new CaseOperatorContainer(nounRepository,prepositionRepository,verbRepository,new DummyAccentuer()),Language.ROMANIAN);
         this.nounRepository = nounRepository;
         this.verbRepository = verbRepository;
     }

@@ -1,6 +1,7 @@
 IPR=>esc,esti,este,im,itsi,esc
 ASP=>,,e,m,tsi,e
 AII=>am,ai,a,am,atsi,au
-AIF=>escva,estiva,esteva,imva,itsiva,escva
+AIP=>ii,isi,i,iram,iratsi,ira
+AIF=>ivoi,ivei,iva,ivom,ivetsi,ivor
 AIFINF=>va
-PAPR=>ind
+PAPR=>ind|indu

@@ -1,7 +1,7 @@
 a@masc%invpur
 ab@masc%mascot
 abr@masc%imonly
-abrhm@masc%invpur
+abrhm000@masc%invpur
 a58d64m64h@fem%custom(nomsg=admh|decim-nw=admtnw)
 a64d64m000@masc%invmasc
 a62'h64d@masc%empty
@@ -209,7 +209,7 @@ yrib@masc%invpur
 yrl@adj%im-ot
 ysb@masc%im
 yts@masc%custom(nomsg=yts|cst(nomsg)=ytst&|nomplr=ytsim|cst(nomplr)=ytsi&)
-y61s29964w309@masc%invmasc
+y61s29964w@masc%invmasc
 yt@fem%im-fem
 p64n64@fem%im-fem
 pdgwg@masc%im

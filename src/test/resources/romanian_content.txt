@@ -563,7 +563,13 @@ filocaliaantonie3F=>Nu se gîndesc la aceasta însă cei neînțelegători ;
 filocaliaantonie3G=>de aceea ei nici nu pricep că toate ni se fac spre bine și precum se cuvine pentru folosul nostru,
 filocaliaantonie3H=>ca să strălucească virtuțile noastre și să ne încununăm de la Dumnezeu.
 
-
+filocaliaantonie4A=>Când vei socoti câştigarea banilor şi multul lor folos,
+filocaliaantonie4B=>ca pe-o amăgire vremelnică, vei cunoaşte că petrecerea cea virtuoasă şi plăcută lui Dumnezeu,
+filocaliaantonie4C=>e altceva decât bogăţia.
+filocaliaantonie4D=>Gândindu-te la aceasta cu încredinţare şi cu ţinere de minte,
+filocaliaantonie4E=>nu vei suspina, nu vei plânge, nu vei învinui pe nimeni, ci pentru toate vei mulţumi lui Dumnezeu.
+filocaliaantonie4F=>Nu te vei clăti văzând pe cei mai răi ca tine rezemându-se pe bani şi pe socoteli,
+filocaliaantonie4G=>căci foarte rea patimă a sufletului este pofta, părerea şi neştiinţa.
 
 urzeala1A=>ar trebui să ne întoarcem, ceru Gared pe când desișurile începură să se întunece  tot mai tare în jurul lor. Ierburile sunt moarte.
 urzeala1B=>moartea te înspăimântă ? întrebă ser |Waymar| |Royce| cu umbra unui zâmbet.
