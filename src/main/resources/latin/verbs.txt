@@ -131,6 +131,7 @@ depon,o,is,ere,,,[o-is]
 deput,o,as,are,,,[o-as]
 descend,o,is,ere,,,[o-is],(AIFP*descends*descend*0)
 desin,o,is,ere,,,[o-is],(AIP*desin*desi*0)
+desist,o,is,ere,,,[o-is],(AIP*desist*destit)
 devinc,io,is,ire,,,[io-is],(AIP*devinc*devinx*0)
 dic,o,is,ere,foobar,foobar,[o-is],(AIP*dic*dix*0@AIPP*dic*dix*0@AIFP*dics*dix*0@ASPP*dic*dixiss*0)
 dict,o,as,are,,,[o-as]

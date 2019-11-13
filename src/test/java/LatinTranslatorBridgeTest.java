@@ -122,7 +122,7 @@ public class LatinTranslatorBridgeTest extends TranslatorBridgeTest {
 
     @Test
     public void test_failing_one() {
-        checkInMaps("genesis2E", translatorBridge);
+        checkInMaps("caesar1H4D", translatorBridge);
     }
 
 

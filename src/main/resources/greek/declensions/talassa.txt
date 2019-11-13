@@ -2,7 +2,8 @@ nom%sing%fem%α
 nom%plr%fem%αι
 gen%sing%fem%ης
 gen%plr%fem%ων
-acc%sing%fem%αν
+acca%sing%fem%αν
+accb%sing%fem%ην
 acc%plr%fem%ας
 voc%sing%fem%α
 voc%plr%fem%αι

@@ -45,12 +45,15 @@
 αιγυπτι@adj!ος-ος-ον%1(adj)=égyptien
 αιδης@noun!inv%1(noun)=hades
 αιδι@noun!ος-ου%1(noun)=éternel
+αιτι@noun!α-ης%1(noun)=culpabilité
 αιφνιδι@noun!ος-ου%1(noun)=soudain
 αιτ@verb!norm%1(verb)=demander
 αιχμαλωσι@noun!α-ας%1(noun)=captivité
 ακ@adj!ων-ουσα-ον%1(adj)=involontaire
 ακατασκευαστ@adj!ος-ος-ον%1(adj)=non fini
 ακαταστασι@noun!α-ας%1(noun)=confusion%2(noun)=désordre
+ακλε@adj!ης-ης-ες%1(adj)=anonyme%2(adj)=inconnu
+ακλεα@adj!inv%1(adj)=anonyme
 ακολουθε@verb!norm%1(verb)=suivre
 ακου@verb!norm%1(verb)=ecouter%2(verb)=entendre
 αλαζονευ@verb!norm%1(verb)=etrearrogant
@@ -59,6 +62,7 @@
 αλλα@prep%1(prep)=mais
 αλλ@adj!ος-η-ο%1(adj)=autre
 αλλ@prep%1(prep)=mais
+αλληλ@adj!ω-α-ω%1(adj)=l'un l'autre
 αλληλα@prep%1(prep)=autres
 αλληλους@prep%1(prep)=autres
 αλληλων@prep%1(prep)=autres
@@ -113,6 +117,7 @@
 απαγ@verb!norm%1(verb)=emmener
 απο@prep%1(prep)=depuis
 αποβαιν@verb!norm%1(verb)=avancer
+αποδεχ@verb!norm%1(verb)=accepter
 απλως@prep%1(prep)=seulement
 αποδιδρασκ@verb!norm%1(verb)=fuir
 αποθνησκ@verb!norm%1(verb)=mourir
@@ -166,7 +171,7 @@
 αφ@prep%1(prep)=loin de%2(prep)=à partir de
 αφρον@adj!ων-ων-ον%1(adj)=stupide
 βα@noun!inv%1(noun)=ba
-βαβυλων@noun!x-ος%1(noun)=babylone
+βαβυλω@noun!x-ος%1(noun)=babylone
 βαδιζ@verb!norm%1(verb)=aller
 βαθ@noun!ος-ους%1(noun)=profondeur%2(noun)=hauteur
 βαθ@adj!υς-εια-υ%1(adj)=profond
@@ -174,6 +179,7 @@
 βαλλ@verb!norm%1(verb)=lancer,jeter,renverser,laisser tomber%2(verb)=frapper à distance%3(verb)=jeter
 βαπτιστ@noun!ης-ου%1(noun)=baptiste
 βαρβαρ@noun!ος-ου%1(noun)=barbare
+βαρβαροισι@noun!inv%1(noun)=barbares
 βασιλε@noun!υς-ως%1(noun)=roi
 βασιλει@noun!α-ας%1(noun)=règne%2(noun)=royaume
 βδελυκτ@adj!ος-η-ο%1(adj)=abominable
@@ -316,7 +322,7 @@
 ελε@noun!ος-ου%1(noun)=pitié%2(noun)=miséricorde
 ελευθερ@adj!ος-η-ο%1(adj)=libre
 ελικωνιαδ@noun!x-ος2%1(noun)=héliconien
-ελλην@noun!x-ος%1(noun)=grec
+ελλη@noun!x-ος%1(noun)=grec
 ελληνικ@noun!ος-η-ον%1(adj)=grec
 εμμανουηλ@noun!inv%1(noun)=emmanuel
 εμπλε@adj!ος-α-ον%1(adj)=plein
@@ -340,6 +346,7 @@
 επαγειρ@verb!norm%1(verb)=rassembler
 επεντιθη@verb!norm%1(verb)=
 εξουσι@noun!α-ας%1(noun)=autorité
+εξιτηλ@adj!ος-α-ον%1(adj)=sorti
 επ@prep%1(prep)=au temps de%2(prep)=sur
 επαγγελι@noun!α-ας%1(noun)=promesse
 επαλληλ@noun!ος-ου%1(noun)=se suit rapidement
@@ -432,6 +439,7 @@
 θαμαρ@noun!inv%1(noun)=tamar
 θανατ@noun!ος-ου%1(noun)=mort
 θαυμαζ@verb!norm%1(verb)=admirer
+θαυμαστ@adj!ος-η-ον%1(adj)=admirable
 θε@noun!ος-ου%1(noun)=dieu
 θε@noun!α-ας%1(noun)=déesse
 θελημ@noun!α-ατος%1(noun)=désir%2(noun)=volonté
@@ -445,6 +453,7 @@
 θρον@noun!ος-ου%1(noun)=trône
 θυρ@noun!α-ας%1(noun)=porte
 θυσι@noun!α-ας%1(noun)=sacrifice
+θωμαστ@adj!ος-η-ον%1(adj)=admirable
 ιακωβ@noun!inv%1(noun)=jacob
 ιατρ@noun!ος-ου%1(noun)=médecin
 ιδι@adj!ος-α-ον%1(adj)=appartenant à%2(adj)=propre
@@ -476,8 +485,8 @@
 ιουδαι@noun!ος-ου%1(noun)=juif
 ιουδαι@noun!α-ας%1(noun)=judée
 ιχθ@noun!υς-υος%1(noun)=poisson
-ιστορι@noun!α-ας%1(noun)=histoire
-ιστοριης@noun!inv%1(noun)=histoire
+ιστορι@noun!α-ας%1(noun)=enquête%2(noun)=histoire
+ιστοριης@noun!inv%1(noun)=enquête%2(noun)=histoire
 ιωαθαμ@noun!inv%1(noun)=joatham
 ιωανν@noun!ης-ου%1(noun)=jean
 ιωραμ@noun!inv%1(noun)=joram
@@ -790,6 +799,7 @@
 ποθ@noun!ος-ου%1(noun)=désir
 ποι@verb!norm%1(verb)=fabriquer,exécuter,confectionner%2(verb)=créer,produire,enfanter%3(verb)=imaginer,inventer%4(verb)=faire
 ποιμαιν@verb!norm%1(verb)=diriger%2(verb)=mener%3(verb)=rassembler
+πολεμε@verb!norm%1(verb)=fairelaguerre
 ποιητικ@noun!ος-ου%1(noun)=poétique
 ποιουν@noun!inv%1(noun)=qui fait
 πολεμ@noun!ος-ου%1(noun)=guerre
@@ -828,7 +838,7 @@
 πρωτ@adj!ος-η-ον%1(adj)=premier
 πτερωτ@adj!ος-η-ον%1(adj)=ailé
 πτωχ@adj!ος-η-ον%1(adj)=pauvre
-πυρ@noun!x-ος%1(noun)=feu
+πυρ@noun!x-ος2%1(noun)=feu
 ραψωδ@noun!ος-ου%1(noun)=rapsode
 ραχαβ@noun!inv%1(noun)=rahab
 ροβοαμ@noun!inv%1(noun)=roboam

@@ -199,11 +199,13 @@ comparat@adj%us-a-um
 complet@adj%us-a-um
 complur@adj%es-es-ia
 conat@adj%us-a-um
+conat@masc%us-us
 concedend@adj%us-a-um
 concept@adj%us-a-um
 concepti@fem%o-onis
 conciliatur@adj%us-a-um
 conclusi@fem%o-onis
+concurs@masc%us-us
 condit@adj%us-a-um
 conficiend@adj%us-a-um
 confirmat@adj%us-a-um
@@ -948,6 +950,7 @@ relict@adj%us-a-um
 religi@fem%o-onis
 reliqu@adj%us-a-um
 reptil@adj%is-is-e
+repuls@adj%us-a-um
 res@fem%a-ae[nomsing:res,gensing:rei,datsing:rei,accsing:rem,ablsing:re,nomplr:res,accplr:rerum,ablplr:rebus,datplr:rebus]
 resarcitum@masc%inv
 resciss@adj%us-a-um
@@ -1087,6 +1090,7 @@ tabern@fem%a-ae
 tant@adj%us-a-um
 tect@neut%um-i
 tecti@adj%or-or-us
+tel@fem%a-ae
 temp@neut%us-oris
 temperatur@adj%us-a-um
 templ@neut%um-i

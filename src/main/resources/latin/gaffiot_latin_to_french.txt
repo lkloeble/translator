@@ -308,12 +308,14 @@ complet@adj!us-a-um%1(adj)=rassasié%2(adj)=complété%3(adj)=terminé
 complur@adj!es-es-ia%1(adj)=nombreux
 comprehendo@verb!norm%1(verb)=saisir
 conat@adj!us-a-um%1(adj)=essayé
+conat@noun!us-us%1(noun)=essai
 concedend@adj!us-a-um%1(adj)=abandonné
 concept@adj!us-a-um%1(adj)=contenu%2(adj)=dérivé de%3(adj)=reçu
 concepti@noun!o-onis%1(noun)=idée%2(noun)=notion%3(noun)=concept
 conciliatur@adj!us-a-um%1(adj)=sur le point de s'unir
 concilio@verb!norm%1(verb)=acquerir%2(verb)=recommander%3(verb)=rassembler
 conclusi@noun!o-onis%1(noun)=conclusion%2(noun)=blocage
+concurs@noun!us-us%1(noun)=assemblée
 condit@adj!us-a-um%1(adj)=rassemblé
 confirmo@verb!norm%1(verb)=confirmer
 confuto@verb!norm%1(verb)=supprimer
@@ -452,6 +454,7 @@ deputo@verb!norm%1(verb)=considerercomme
 descendo@verb!norm%1(verb)=descendre
 desert@adj!us-a-um%1(adj)=désert
 desino@verb!norm%1(verb)=cesser%2(noun)=stopper
+desisto@verb!norm%1(verb)=renoncer
 despect@adj!us-a-um%1(adj)=dédaigné%2(adj)=méprisé
 detriment@noun!um-i%1(noun)=détriment
 desideri@noun!um-i%1(noun)=besoin%2(noun)=regret%3(noun)=désir
@@ -1529,6 +1532,7 @@ renascor@verb!norm%1(verb)=naitredenouveau
 reperio@verb!norm%1(verb)=realiser
 repleo@verb!norm%1(verb)=remplir
 reptil@adj!is-is-e%1(adj)=reptile
+repuls@adj!us-a-um%1(adj)=repoussé
 repudio@verb!norm%1(verb)=repudier
 repugno@verb!norm%1(verb)=resister%2(verb)=combattre
 requiesco@verb!norm%1(verb)=stopper%2(verb)=sereposer
@@ -1757,6 +1761,7 @@ te@prep%1(prep)=te
 temere@prep%1(prep)=par chance
 tect@noun!um-i%1(noun)=toit
 tecti@adj!or-or-us%1(adj)=mieux caché
+tel@noun!a-ae%1(noun)=chaîne
 temp@noun!us-oris%1(noun)=âge%2(noun)=période%3(noun)=temps
 temperatur@adj!us-a-um%1(adj)=abstenant
 templ@noun!um-i%1(noun)=temple
