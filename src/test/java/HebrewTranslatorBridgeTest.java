@@ -60,7 +60,7 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
         /*
         return Arrays.asList(
                 new String[]{
-                        "obscurcir@NORM%[INFINITIVE]=[obscurcir]%[IPR]=[obscurcis,obscurcis,obscurcit,obscurcissons,obscurcissez,obscurcissent]%[CONJ]=[obscurcir,obscurcir,obscurcir,obscurcir,obscurcir,obscurcir]%[AIF]=[obscurcirai,obscurciras,obscurcira,obscurcirons,obscurcirez,obscurciront]"
+                        "garder@NORM%[INFINITIVE]=[garder]%[IPR]=[garde,gardes,garde,gardons,gardez,gardent]%[PIP]=[suis gardé,es gardé,est gardé,sommes gardés,êtes gardés,sont gardés]%[AIP]=[gardais,gardais,garda,gardions,gardiez,gardaient]%[SPA]=[aie gardé,aies gardé,ait gardé,ayons gardés,ayez gardés,aient gardés]%[ASI]=[garde,gardes,garde,gardions,gardiez,gardent]%[PAP]=[gardé]%[AIF]=[garderai,garderas,gardera,garderons,garderez,garderont]"
                 }
         );
         */
@@ -70,7 +70,7 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getNouns(String nounFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "aw331r@fem%invfem"
+                ""
         });
         */
         return getFileContentForRepository(nounFileDescription);
@@ -79,9 +79,8 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getHebDico(String dictionaryFile) {
         /*
         return Arrays.asList(new String[]{
-                "aw331r@noun!invfem%1(noun)=flamme,feu%2(noun)=lumière",
-                "ksofit@prep%1(prep)=de-toi",
-                "at@prep%1(prep)=COD"
+                "smy@verb!norm%1(verb)=entendre",
+                "bnw@prep%1(prep)=en nous"
         });
         */
         return getFileContentForRepository(dictionaryFile);
@@ -90,9 +89,7 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getPrepositions(String prepositionFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "b@prep()",
-                "wavend@prep()",
-                "lkm000@prep()"
+                ""
         });
         */
         return getFileContentForRepository(prepositionFileDescription);
@@ -101,7 +98,7 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFiles) {
         /*
         return Arrays.asList(new String[]{
-                "'hsk,'hswk,[paal]"
+                "smy,,[paal],(AIP%leadingrootletter%s*s29864@AIP%secondletterroot%m*m63@AIP%alternateaccentuation(5:9)%m63*m56@IPR%substitute%sm*swm*0@ARAIPR%substitute%smy*swmy*0"
         });
         */
         return getFileContentForRepository(verbFiles);
@@ -407,17 +404,17 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getPaalDefinition() {
         /*
         return Arrays.asList(new String[]{
-                "AIF=>*a*@,*t*@|*t*i,*i*@|*t*@,*n*@,*t*w|*t*nh,*i*w|*t*nh"
+                "AIP=>ti,t|t,|h,nw,tm000|tn,w309"
         });
         */
         return Arrays.asList(new String[]{
-                "AIP=>ti,t|t,|h,nw,tm|tn,w309",
+                "AIP=>ti,t|t,|h,nw,tm000|tn,w309",
                 "AIPSHORT=>x-,x-,zz,x-,x-,x-",
                 "ARAIPR=>x-,x-,,x-,x-,im000|in000",
                 "ARAPAPR=>*d*h",
                 "AIF=>*a*@,*t*@|*t*i,*i*@|*t*@,*n*@,*t*w|*t*nh,*i*w|*t*nh",
                 "CONVFUT=>x-,x-,*i*@,x-,x-,x-",
-                "NIFALAIP=>*n*ti,*n*t,*n*@|*n*h,*n*nw,*n*tm|*n*tn,*n*w",
+                "NIFALAIP=>*n*ti,*n*t,*n*@|*n*h,*n*nw,*n*tm000|*n*tn,*n*w",
                 "IPR=>|t,|t,|t,im|wt,im|wt,im|wt",
                 "IPRPLU=>im",
                 "SUBST=>i"

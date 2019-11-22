@@ -88,7 +88,7 @@ a65t56k00064@prep%1(prep)=avec toi
 atkm@prep%1(prep)=vous
 a62t56k62m000@prep%1(prep)=vous
 atw@prep%1(prep)=avec lui
-atm@prep%1(prep)=vous%2(prep)=eux
+atm000@prep%1(prep)=vous%2(prep)=eux
 att@noun!invpur%1(noun)=signes
 b@prep%1(prep)=dans
 b30556@prep%1(prep)=dans
@@ -113,11 +113,11 @@ b61in000@prep%1(prep)=entre
 bini@prep%1(prep)=entre moi
 bit@noun!im%1(noun)=maison
 bitdinexpr@noun!invpur%1(noun)=tribunal (beit din)
-bk@prep%1(prep)=en toi
-bkm@prep%1(prep)=en nous
+bk000@prep%1(prep)=en toi
+bkm000@prep%1(prep)=en nous
 b62n000@noun!im-ot%1(noun)=fils
 bnw@prep%1(prep)=en nous
-b64nw309@prep%1(prep)=en nous
+b64nw@prep%1(prep)=en nous
 bytsmk@prep%1(prep)=en personne
 b30565q62r@noun!im%1(noun)=matin
 bwqr@noun!im%1(noun)=matin
@@ -391,7 +391,7 @@ mkiwn000@prep%1(prep)=puisque
 mktb@noun!im%1(noun)=lettre
 mlak@noun!im%1(noun)=messager%2(noun)=ange
 m62l62k000@noun!im%1(noun)=roi
-mmk@prep%1(prep)=depuis toi
+mmk000@prep%1(prep)=depuis toi
 mmni@prep%1(prep)=depuis moi
 mn@prep%1(prep)=de
 m60n000@prep%1(prep)=de
