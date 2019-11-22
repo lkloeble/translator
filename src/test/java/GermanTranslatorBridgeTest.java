@@ -51,7 +51,7 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
         VerbRepository2 verbRepository = new VerbRepository2(new GermanConjugationFactory(getGermanConjugations(conjugationsAndFiles), getGermanConjugationDefinitions(conjugationsAndFiles, conjugationPath), germanDeclensionFactory), Language.GERMAN, new DummyAccentuer(), getVerbs(verbFileDescription));
         GermanRuleFactory ruleFactory = new GermanRuleFactory(verbRepository);
         PrepositionRepository prepositionRepository = new PrepositionRepository(Language.GERMAN, new GermanCaseFactory(), ruleFactory, getFileContentForRepository(prepositionFileDescription),new DummyAccentuer());
-        Analizer germanAnalyzer = new GermanAnalyzer(prepositionRepository, nounRepository, verbRepository);
+        Analizer germanAnalyzer = new GermanAnalyzer(prepositionRepository, nounRepository, verbRepository,new DummyAccentuer());
         Translator frenchTranslator = new FrenchTranslator(getDictionaryData(germanFrenchDataFile), getFrenchVerbs(frenchVerbsDataFile), verbRepository, nounRepository, declensionPath, declensionsAndFiles, germanDeclensionFactory);
         translatorBridge = new TranslatorBridge(germanAnalyzer, frenchTranslator);
         mapValuesForTest = loadMapFromFiles(germanPathFile);
@@ -1205,6 +1205,6 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("strackp4not014", translatorBridge);
+        checkInMaps("nietzscheBookGTversuchCha6M", translatorBridge);
     }
 }

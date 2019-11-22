@@ -214,12 +214,31 @@ public class VerbRepository2 {
     }
 
     public String isOnlyInThisTime(Verb followingVerb, List<String> futureTimes) {
-
+        TranslationInformationBean allFormsForTheVerbRoot = getAllFormsForTheVerbRoot(followingVerb.getRoot());
+        List<String> constructionNamesForInitialValue = allFormsForTheVerbRoot.getConstructionNameForInitialValue(followingVerb.getInitialValue(), infinitiveBuilder);
+        if (constructionNamesForInitialValue.size() == 1 && futureTimes.contains(constructionNamesForInitialValue.get(0)))
+            return constructionNamesForInitialValue.get(0);
+        Collections.sort(futureTimes);
+        Collections.sort(constructionNamesForInitialValue);
+        for (String time : futureTimes) {
+            if (constructionNamesForInitialValue.contains(time)) return time;
+        }
         return null;
     }
 
     public Verb affectTime(Verb followingVerb, String onlyInThisTime, List<String> pastTimes) {
-
+        TranslationInformationBean allFormsForTheVerbRoot = getAllFormsForTheVerbRoot(followingVerb.getRoot());
+        RootedConjugation rootedConjugationOld = allFormsForTheVerbRoot.getNameForms().get(followingVerb.getRoot() + "@" + onlyInThisTime);
+        List<Integer> indices = rootedConjugationOld.positionFound(followingVerb.getInitialValue());
+        int position = indices.get(0);
+        RootedConjugation rootedConjugation = null;
+        for(String newTime : pastTimes) {
+            if(!allFormsForTheVerbRoot.hasThisTime(newTime)) continue;
+            RootedConjugation rootedConjugationNew = allFormsForTheVerbRoot.getNameForms().get(followingVerb.getRoot() + "@" + newTime);
+            String valueByPosition = rootedConjugationNew.getValueByPosition(ConjugationPosition.getValueByPosition(position));
+            followingVerb.updateInitialValue(valueByPosition);
+            return followingVerb;
+        }
         return null;
     }
 
