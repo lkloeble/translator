@@ -38,4 +38,11 @@ public class TranslationInformationReplacementTest {
         assertEquals("firstbar",translationInformationReplacement.replace("IPR","foobar",ConjugationPosition.SINGULAR_SECOND_PERSON));
         assertEquals("secondbar",translationInformationReplacement.replace("IPR","foobar",ConjugationPosition.SINGULAR_THIRD_PERSON));
     }
+
+    @Test
+    public void replacement_should_handle_multiple_steps_in_correct_order() {
+        translationInformationReplacement = new TranslationInformationReplacement2("IPR*toto*toti@IPR*toti*totu");
+        assertEquals("totafoo", translationInformationReplacement.replace("IPR", "totafoo", ConjugationPosition.SINGULAR_FIRST_PERSON));
+        assertEquals("totufoo", translationInformationReplacement.replace("IPR", "totofoo", ConjugationPosition.SINGULAR_FIRST_PERSON));
+    }
 }

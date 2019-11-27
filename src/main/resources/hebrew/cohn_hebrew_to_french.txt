@@ -56,7 +56,7 @@ awr'h@noun!im-ot%1(noun)=invité%2(noun)=hôte
 awt@noun!custom(nomplr=awtiwt)%1(noun)=lettre
 awt@noun!custom(nomplr=awtwt)%1(noun)=signe
 alhim000@noun!custom(nomsg=alhim000|cst(nomsg)=alhi&|decim-inwplr=alhinw|decim-ik=alhik)%1(noun)=dieu
-am@prep%1(prep)=si
+am000@prep%1(prep)=si
 a64mw331n000@noun!im%1(noun)=artisan
 an'hnw@prep%1(prep)=nous
 ani@prep%1(prep)=je
@@ -76,6 +76,7 @@ a60s29864h@noun!custom(nomplr=nsim|cst(nomplr)=nsi&|nomsg=a60s29864h|cst(nomsg)=
 astr@noun!invpur%1(noun)=esther
 atsxrik@noun!invpur%1(noun)=il est nécessaire
 at@prep%1(prep)=COD
+at56@prep%1(prep)=COD
 a61t@prep%1(prep)=COD
 ati@prep%1(prep)=moi
 a65t60i@prep%1(prep)=moi
@@ -97,6 +98,7 @@ b30560@prep%1(prep)=dans
 b30564@prep%1(prep)=dans
 b56@prep%1(prep)=dans
 b63@prep%1(prep)=dans
+b64@prep%1(prep)=dans
 ba@verb!norm%1(verb)=venir
 bar@verb!norm%1(verb)=expliquer
 bdl@verb!norm%1(verb)=separer
@@ -117,8 +119,8 @@ bk000@prep%1(prep)=en toi
 bkm000@prep%1(prep)=en nous
 b62n000@noun!im-ot%1(noun)=fils
 bnw@prep%1(prep)=en nous
-b64nw@prep%1(prep)=en nous
-bytsmk@prep%1(prep)=en personne
+b64nw309@prep%1(prep)=en nous
+bytsmk000@prep%1(prep)=en personne
 b30565q62r@noun!im%1(noun)=matin
 bwqr@noun!im%1(noun)=matin
 biat@noun!invpur%1(noun)=venue
@@ -288,7 +290,7 @@ k31563@prep%1(prep)=comme
 k31564@prep%1(prep)=comme
 k3156369@prep%1(prep)=comme
 k3156469@prep%1(prep)=comme
-kan@prep%1(prep)=ici
+kan000@prep%1(prep)=ici
 kbr@prep%1(prep)=déjà
 kbs@verb!norm%1(verb)=conquerir
 kgwn000@prep%1(prep)=par exemple
@@ -314,7 +316,7 @@ klwmr@prep%1(prep)=ce qui signifie
 kmw@prep%1(prep)=comme
 kmwk@prep%1(prep)=comme toi
 k64mw331k00064@prep%1(prep)=comme toi
-kn@prep%1(prep)=oui%2(prep)=ainsi
+kn000@prep%1(prep)=oui%2(prep)=ainsi
 knp@noun!im%1(noun)=aile
 kns@verb!norm%1(verb)=entrer
 kpr@verb!norm%1(verb)=renier
@@ -335,7 +337,7 @@ lb@noun!mascot%1(noun)=coeur
 lib@noun!mascot%1(noun)=coeur
 lbd@prep%1(prep)=seulement
 lbn@noun!invmasc%1(noun)=blanc%2(noun)=laban
-lhln@prep%1(prep)=ci-dessous
+lhln000@prep%1(prep)=ci-dessous
 l63i56l64h@noun!custom(nomplr=lilwt|cst(nomsg)=lil&|nomsg=lilh)%1(noun)=nuit
 l64i56l64h@noun!custom(nomplr=lilwt|cst(nomsg)=lil&|nomsg=lilh)%1(noun)=nuit
 lmd@verb!norm%1(verb)=enseigner
@@ -343,8 +345,8 @@ lmd$@verb!norm%1(verb)=enseigner
 lmh@prep%1(prep)=pourquoi
 lminhw@prep%1(prep)=selon son type
 lminhm@prep%1(prep)=selon leur types
-lmyn@prep%1(prep)=afin que
-lpikk@prep%1(prep)=par conséquent
+lmyn000@prep%1(prep)=afin que
+lpikk000@prep%1(prep)=par conséquent
 lpnikm000@prep%1(prep)=devant vous
 lw@prep%1(prep)=pour lui
 lw331@prep%1(prep)=pour lui
@@ -357,13 +359,14 @@ lkt@noun!invmasc%1(noun)=départ
 lqrwth@noun!invmasc%1(noun)=lire comme
 lpninw@prep%1(prep)=devant nous
 lpnih@prep%1(prep)=devant elle
-lpymim@prep%1(prep)=parfois
+lpymim000@prep%1(prep)=parfois
 lq'h@verb!norm%1(verb)=prendre
 lsxim000@noun!invpur%1(noun)=brigand
 lsxin000@noun!invpur%1(noun)=brigand
 lswn@noun!ot2%1(noun)=langue
 m@prep%1(prep)=de
 m60@prep%1(prep)=de
+m61@prep%1(prep)=de
 mamr@noun!im%1(noun)=expression%2(noun)=discours
 mad@prep%1(prep)=très
 m56a65d@prep%1(prep)=très
@@ -402,7 +405,7 @@ mqr@noun!mascendingh%1(noun)=accident%2(noun)=occurence
 mqra@noun!invpur%1(noun)=verset biblique%2(noun)=proclamation (biblique)
 mrgl@noun!im%1(noun)=explorateur%2(noun)=espion
 mys@noun!endingh%1(noun)=acte%2(noun)=oeuvre
-mswm@prep%1(prep)=parce que
+mswm000@prep%1(prep)=parce que
 mtsw@noun!ot%1(noun)=commandement
 mtswry@noun!invmasc%1(noun)=lépreux
 m60ts56r63i60m000@noun!invmasc%1(noun)=égypte
@@ -467,7 +470,7 @@ qdmt@noun!im%1(noun)=introduction
 qds@adj!im-ot%1(noun)=saint
 q64dw331s@adj!im-ot%1(noun)=saint
 qdm@verb!norm%1(verb)=preceder
-qwdm@prep%1(prep)=d'abord
+qwdm000@prep%1(prep)=d'abord
 qwh@verb!norm%1(verb)=couler
 qw331l@noun!mascot%1(noun)=voix
 qwm@noun!invmasc%1(noun)=lever
@@ -583,7 +586,7 @@ sl@prep%1(prep)=de
 slwm@noun!invpur%1(noun)=shalom
 sw309s@noun!im-ot%1(noun)=cheval
 skn@verb!norm%1(verb)=mettreendanger
-skn@prep%1(prep)=que ainsi
+skn000@prep%1(prep)=que ainsi
 slws@adj!im-ot%1(adj)=troisième
 slis@noun!im%1(noun)=tiers
 slisi@noun!invpur%1(noun)=troisième

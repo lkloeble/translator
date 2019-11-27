@@ -146,9 +146,16 @@ public class VerbRepository2 {
         int indice = 0;
         int positionIndice = 0;
         for (String value : rootedConjugation.allFormsByTime()) {
-            //positionIndice = correctIndiceForMultipleValuesInSameConjugationPosition(indice,rootedConjugation);
-            //String replace = translationInformationReplacement.replace(time, value, ConjugationPosition.getValueByPosition(positionIndice));
             String replace = value;
+            /*
+            positionIndice = correctIndiceForMultipleValuesInSameConjugationPosition(indice,rootedConjugation);
+            String replace = null;
+            if(translationInformationReplacement != null) {
+                replace = translationInformationReplacement.replace(time, value, ConjugationPosition.getValueByPosition(positionIndice));
+            } else {
+                replace = value;
+            }
+            */
             conjugationMap.put(replace, verbDefinition.getRoot());
             if(!conjugationMap.containsKey(accentuer.cleanAll(replace))) {
                 conjugationMap.put(accentuer.cleanAll(replace),verbDefinition.getRoot());

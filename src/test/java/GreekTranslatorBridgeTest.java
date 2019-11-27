@@ -109,19 +109,24 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "λυ,ειν,[ω-εις]"
+                "βλασταν,ειν,[ω-εις],(ACAOIM*βλασταν*βλαστησ*0@ACAOIM*βλαστησε*βλαστησα*0)"
         });
         */
         return getFileContentForRepository(verbFileDescription);
     }
 
+    private List<String> getLuoDefinitions() {
+        return Arrays.asList(new String[]{
+                "ACAOIM=>ε,ετω,ετε,οντων"
+        });
+    }
+
     private Map<String, List<String>> getGreekConjugationDefinitions(String file, String directory) {
         /*
         Map<String, List<String>> latinConjugationDefinitionsMap = new HashMap<>();
-        latinConjugationDefinitionsMap.put("o-is", getOIslDefinition());
+        latinConjugationDefinitionsMap.put("ω-εις", getLuoDefinitions());
         return latinConjugationDefinitionsMap;
         */
-
 
         List<String> conjugationNameList = getFileContentForRepository(file);
         Map<String, List<String>> germanConjugationDefinitionsMap = new HashMap<>();
@@ -840,7 +845,7 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failed_ones() {
         assertTrue(true);
-        checkInMaps("herodote110D", translatorBridge);
+        checkInMaps("lxxgen1K", translatorBridge);
         //checkInMaps("toto3", translatorBridge);
     }
 }

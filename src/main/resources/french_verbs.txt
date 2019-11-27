@@ -192,7 +192,7 @@ couvrir@NORM%[INFINITIVE]=[couvrir]%[IPR]=[couvre,couvres,couvre,couvrons,couvre
 coûter@NORM%[IPR]=[coûte,coûtes,coûte,coûtons,coûtez,coûtent]%[INFINITIVE]=[coûter]
 craindre@NORM%[INFINITIVE]=[craindre]%[IPR]=[crains,crains,craint,craignons,craignez,craignent]%[AORPASSUB]=[crains,crains,craint,craignons,craignez,craignent]%[PIP]=[suis craint,es craint,est craint,sommes craints,êtes craints,sont craints]%[AIP]=[craignis,craignis,craignit,craignîmes,craignîtes,craignirent]%[AII]=[craignais,craignais,craignait,craignions,craigniez,craignaient]%[PAP]=[craint]
 creer@NORM%[INFINITIVE]=[créer]%[IPR]=[crée,crées,crée,créons,créez,créent]%[AIP]=[créai,créas,créa,créames,créates,créèrent]%[PAP]=[crée]%[PAPR]=[créant]%[PEACINF]=[soit créé]
-crier@NORM%[INFINITIVE]=[crier]%[IPR]=[crie,cries,crie,crions,criez,crient]
+crier@NORM%[INFINITIVE]=[crier]%[IPR]=[crie,cries,crie,crions,criez,crient]%[AIP]=[criai,crias,cria,criâmes,criâtes,crièrent]
 critiquer@NORM%[IPR]=[critique,critiques,critique,critiquons,critiquez,critiquent]%[INFINITIVE]=[critiquer]
 croire@NORM%[INFINITIVE]=[croire]%[IPR]=[crois,crois,croit,croyons,croyez,croient]%[AII]=[croyais,croyais,croyait,croyions,croyiez,croyaient]%[AIP]=[crus,crus,crut,crûmes,crûtes,crûrent]%[AIF]=[croirai,croiras,croira,croirons,croirez,croiront]%[PAP]=[cru]%[AIFP]=[aurai cru,auras cru,aura cru,aurons cru,aurez cru,auront cru]%[CONJ]=[crois,crois,croit,croyons,croyez,croient]
 croitre@NORM%[INFINITIVE]=[croître]%[IPR]=[croîs,crois,croît,croissons,croissez,croissent]%[AIMP]=[-,crois,-,croissons,croissez,-]%[MFI]=[serai accru,seras accru,sera accru,serons accrus,serez accrus,seront accrus]

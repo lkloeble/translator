@@ -20,34 +20,56 @@ public class TranslationInformationReplacement2 {
 
     private void processAllDescriptions(String allDescriptions) {
         String[] allDescriptionsArray = allDescriptions.split("@");
-        int indice = 0;
         for(String singleDescription : allDescriptionsArray) {
-            processDescription(singleDescription, indice++);
+            processDescription(singleDescription);
         }
     }
 
-    private void processDescription(String description, int indice) {
+    private void processDescription(String description) {
         if(description == null || description.length() == 0) return;
         String[] infos = description.split("\\*");
         String timeAndPosition = infos[0];
         String patternToFind =infos[1];
         String replacementForPattern =infos[2];
-        List<String> allPositionsPossibleForTheTime = getAllPositions(timeAndPosition);
+        int indice = getPreviousExistingIndiceForTimeAndPosition(timeAndPosition);
+        List<String> allPositionsPossibleForTheTime = getAllPositions(timeAndPosition,indice);
         for(String positionAndTime : allPositionsPossibleForTheTime) {
             patternMap.put(positionAndTime,patternToFind);
             replaceMap.put(positionAndTime,replacementForPattern);
         }
     }
 
+    private int getPreviousExistingIndiceForTimeAndPosition(String timeAndPosition) {
+        int indice = 0;
+        while(patternMapIsEmptyForEveryPositions(indice,timeAndPosition)) {
+            indice++;
+        }
+        return indice;
+    }
+
+    private boolean patternMapIsEmptyForEveryPositions(int indice,String timeAndPosition) {
+        for(int position = 0;position<6;position++) {
+            if(patternMap.containsKey(indice+timeAndPosition+position)) return true;
+        }
+        return false;
+    }
+
     public String replace(String time, String patternToUpdate, ConjugationPosition position) {
         if(!hasReplacementForTime(time)) {
             return patternToUpdate.trim();
         }
-        if(hasReplacementForPosition(time,position)) {
+        int indiceOfReplacementUpdate = 0;
+        String updated = null;
+        while(hasReplacementForPosition(time,position,indiceOfReplacementUpdate)) {
+            if(updated == null) updated = patternToUpdate;
             String keyForTimeAndPosition = getKeyByTimeAndPosition(time,position);
-            String patternToSearch = patternMap.get(keyForTimeAndPosition);
-            String replacementToProceed =replaceMap.get(keyForTimeAndPosition);
-            return patternToUpdate.replace(patternToSearch,replacementToProceed).trim();
+            String patternToSearch = patternMap.get(indiceOfReplacementUpdate+keyForTimeAndPosition);
+            String replacementToProceed =replaceMap.get(indiceOfReplacementUpdate+keyForTimeAndPosition);
+            updated =  updated.replace(patternToSearch,replacementToProceed).trim();
+            indiceOfReplacementUpdate++;
+        }
+        if(updated != null) {
+            return updated;
         }
         return patternToUpdate.trim();
     }
@@ -59,26 +81,34 @@ public class TranslationInformationReplacement2 {
         return time + RELATED_TO_NOUN_POSITION;
     }
 
-    private boolean hasReplacementForPosition(String time, ConjugationPosition position) {
+    private boolean hasReplacementForPosition(String time, ConjugationPosition position, int indice) {
         String key = getKeyByTimeAndPosition(time,position);
-        return patternMap.containsKey(key) && replaceMap.containsKey(key);
+        return patternMap.containsKey(indice+key) && replaceMap.containsKey(indice+key);
     }
 
     public boolean hasReplacementForTime(String time) {
-        Set<String> allPossibleTimesWithPositions = patternMap.keySet();
+        Set<String> allPossibleTimesWithPositions = cleanOccurenceOfTime(patternMap.keySet());
         for(String possibleTimeWithPosition : allPossibleTimesWithPositions) {
             if(possibleTimeWithPosition.startsWith(time)) return true;
         }
         return false;
     }
 
+    private Set<String> cleanOccurenceOfTime(Set<String> keySet) {
+        Set<String> cleanSet = new HashSet<>();
+        for(String key : keySet) {
+            cleanSet.add(key.substring(1));
+        }
+        return cleanSet;
+    }
 
-    private List<String> getAllPositions(String time) {
+
+    private List<String> getAllPositions(String time,int indice) {
         List<String> allPositions = new ArrayList<>();
         String timeOnly = cleanTimeFromPosition(time);
         List<Integer> positionsOnly = extractPositionsOnly(time);
         for(Integer position : positionsOnly) {
-            allPositions.add(timeOnly + position);
+            allPositions.add(indice + timeOnly + position);
         }
         return allPositions;
     }

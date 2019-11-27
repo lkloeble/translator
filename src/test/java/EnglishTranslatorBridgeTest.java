@@ -136,6 +136,7 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
     }
 
     private List<String> getLiveDefinition() {
+
         return Arrays.asList(new String[]{
                 "IPR=>,,s,,, ,",
                 "PAPR=>ing"
