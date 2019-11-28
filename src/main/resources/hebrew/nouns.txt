@@ -124,6 +124,7 @@ irah@fem%invpur
 irb@neut%invpur
 irwslmi@neut%invpur
 itsia@fem%endingh
+itsib@adj%im-ot
 i56s298w309y64@fem%ot
 i56s298w309y64h@masc%invpur
 i64s29863r@adj%im-ot
@@ -170,6 +171,7 @@ m60ts56r63i60m000@masc%invmasc
 mtsriim000@masc%invmasc
 mlak@masc%im
 m62l62k000@masc%im
+mlkwt@fem%ot2
 mqwh@neut%invpur
 mqr@masc%mascendingh
 mqra@masc%invpur
@@ -192,6 +194,7 @@ n56h63r@masc%mascot
 n64y63r@masc%im
 nts@masc%im
 ybir@fem%ot
+ywl@masc%invpur
 ywlm@masc%im
 ywp@masc%mascot
 yzrih@masc%invpur
@@ -230,10 +233,12 @@ tswtn@neut%invmasc
 ts63d60iq@adj%im-ot
 tsrik@masc%im
 qbiyh@fem%invpur
+qdm@adj%adj
 qdmt@neut%im
 qds@adj%im-ot
 q64dw331s@adj%im-ot
 qw331l@masc%mascot
+qwr'hh@masc%invpur
 qrbn@masc%mascot
 qrwa@neut%invpur
 qrwi@neut%invpur
@@ -290,14 +295,17 @@ slisi@masc%invpur
 s29856l65m65h@masc%empty
 s29861m000@masc%mascot
 smai@neut%invpur
+smwy@masc%invmasc
 s29864m6351i60m000@masc%invmasc
 s29864m63i60m000@masc%invmasc
 s29864m64i60m000@masc%invmasc
+smiim000@masc%invmasc
 smy@masc%invmasc
 smywni@neut%invpur
 sms@fem%ot2
 sn@fem%im-fem
 sni@neut%invpur
+sniih@fem%invpur
 sy@fem%endingh
 spr@masc%im
 sw309s@masc%im-ot

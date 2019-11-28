@@ -59,6 +59,7 @@ msl,,[paal],(AIP%leadingrootletter%m*m64@AIP%secondletterroot%s*s29863@IPR%subst
 mtsa,,[nifal]
 ngd,,[binyanhifil],(BINHIPER%substitute(1:2:3:6:7:8:9)%ngd*gd*0@BINHIPER%substitute(4:5)%ngd*gid*0@BINHIPER%substitute(4)%hgidh*hgid*0@BINHIPER%substitute(5)%hgidth*hgidh*0)
 ngy,,[hiphil],(HIFPER%substitute(1:2:3:6:7:8)%ng*g*0@HIFPER%substitute(4:5:9)%ng*gi*0)
+nhg,,[paal],(IPR%substitute%nh*nwh*0)
 n'hl,,[paal],(IPR%substitute%n'h*nw'h*0)
 nia,,[binyanhifil]
 nkns,,[mishna]
@@ -77,9 +78,11 @@ ykb,,[binyan]
 ylh,,[paal],(IPR%substitute%yl*ywl*0@ARAIPR%substitute%ylh*ywlh*0)
 ymd,,[paal],(ARAIPR%substitute%ym*ywm*0@AIF%substitute%ymd*ymwd*0)
 ysh,yswt,[paal],(AIP%leadingrootletter%y*y64@AIP%secondletterroot%s*s29964@AIPSHORT%substitute%yshzz*iys*0@IPR%substitute%ys*yws*0)
+psq,,[hiphil],(HIFFUT%substitute%ps*psi*0)
 prs,,[piel]
 pt'h,,[paal],(IPR%substitute%pt*pwt*0)
 tswh,,[hitpael],(HITAIP%substitute%tswh*tsxw*0)
+qbl,,[piel]
 qby,,[paal]
 qdm,,[binyanhifil],(BINHIPER%substitute(4:5:9)%qdm*qdim*0@BINHIPER%substitute(4)%dimh*dim*2)
 qwh,,[nifal],(NIFAIF%substitute%qwh*qw*0)

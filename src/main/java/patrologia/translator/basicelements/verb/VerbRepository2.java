@@ -143,29 +143,13 @@ public class VerbRepository2 {
     }
 
     private void storeAllConjugations(RootedConjugation rootedConjugation, TranslationInformationReplacement2 translationInformationReplacement, String time, VerbDefinition verbDefinition) {
-        int indice = 0;
-        int positionIndice = 0;
         for (String value : rootedConjugation.allFormsByTime()) {
             String replace = value;
-            /*
-            positionIndice = correctIndiceForMultipleValuesInSameConjugationPosition(indice,rootedConjugation);
-            String replace = null;
-            if(translationInformationReplacement != null) {
-                replace = translationInformationReplacement.replace(time, value, ConjugationPosition.getValueByPosition(positionIndice));
-            } else {
-                replace = value;
-            }
-            */
             conjugationMap.put(replace, verbDefinition.getRoot());
             if(!conjugationMap.containsKey(accentuer.cleanAll(replace))) {
                 conjugationMap.put(accentuer.cleanAll(replace),verbDefinition.getRoot());
             }
-            indice++;
         }
-    }
-
-    private int correctIndiceForMultipleValuesInSameConjugationPosition(int indice, RootedConjugation rootedConjugation) {
-        return  rootedConjugation.getPositionForConstructionNumber(indice);
     }
 
     public String getEquivalentForOtherRoot(String root, String formerInitialValue, String rootVerb, int verbTranslationPosition) {
@@ -238,7 +222,6 @@ public class VerbRepository2 {
         RootedConjugation rootedConjugationOld = allFormsForTheVerbRoot.getNameForms().get(followingVerb.getRoot() + "@" + onlyInThisTime);
         List<Integer> indices = rootedConjugationOld.positionFound(followingVerb.getInitialValue());
         int position = indices.get(0);
-        RootedConjugation rootedConjugation = null;
         for(String newTime : pastTimes) {
             if(!allFormsForTheVerbRoot.hasThisTime(newTime)) continue;
             RootedConjugation rootedConjugationNew = allFormsForTheVerbRoot.getNameForms().get(followingVerb.getRoot() + "@" + newTime);
@@ -280,11 +263,5 @@ public class VerbRepository2 {
         } else {
             return new NullVerb(language, null, null);
         }
-
-
-    }
-
-    public String getInfinitiveForm(String initiaValue) {
-        return infinitiveBuilder.getInfinitiveFromInitialValue(initiaValue);
     }
 }
