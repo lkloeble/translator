@@ -545,8 +545,11 @@ clement4M1=>au travers de envie david jalousie a ne seul par des étranger de la
 clement4M2=>autre(s)@mais@ et au dessous saül (du) roi Israël fut persécuté.
 
 hesiodtheogony001=>(des) muse(s)(e) (des) héliconien(s) sont commencés chanter,
-hesiodtheogony002=>foobar
-hesiodtheogony003=>foobar
+hesiodtheogony002=>qui (du) hélicon ont montagne grand(s) aussi très sacré aussi
+hesiodtheogony003=>et aussi autour de source(e) comme une fleur (aux) pieds (aux) doux(s)
+hesiodtheogony004=>dansent et autel (du) très puissant (du) fils de chronos.
+hesiodtheogony005=>foobar
+hesiodtheogony006=>foobar
 
 herodote110A=>(du) hérodote halicarnasse enquête réalisation cette,
 herodote110B=>comme ni le ancien(s) hors de (des) homme(s) au temps sorti(e)@sorti(s)@ devenu,

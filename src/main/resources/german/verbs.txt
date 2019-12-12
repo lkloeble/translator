@@ -123,6 +123,7 @@ empfang,en,[leben]
 empfehl,en,[leben]
 end,en,[segnen]
 entdeck,en,[leben]
+entfess,eln,[sammeln],(PAP*entfess*entfesselt*0)
 enthalt,en,[gelten]
 entlass,en,[genesen]
 entnehm,en,[leben]
@@ -131,6 +132,7 @@ entsprech,en,[leben],(PAP*entsprech*entsprochen*0)
 entsteh,en,[entstehen],(AIP*entsteh*entstand*0)
 entweih,en,[leben]
 erblick,en,[leben]
+erdenk,en,[leben],(AII*erdenk*erdach*0)
 erdruck,en,[leben]
 ereign,en,[segnen]
 erfind,en,[mochten],(PAP*erfind*erfunden*0@AIP*erfind*erfand*0)
@@ -147,7 +149,7 @@ erkies,en,[genesen],(PAP*erkies*erkoren*0)
 erklar,en,[leben]
 erlaub,en,[leben]
 erlos,en,[leben]
-ermang,en,[sammeln]
+ermang,en,[sammeln],(PAP*ermang*ermangelt*0)
 ermess,en,[leben]
 ernenn,en,[leben],(AII*ernenn*ernann*0)
 errat,en,[werden]
@@ -203,13 +205,13 @@ gernhaben@IRREGULAR%[INFINITIVE]=[gernhaben]%[IPR]=[gernhabe,gernhast,gernhat,ge
 gescheh,en,[rufen],(AIP*gescheh*geschah*0@IPR12*gescheh*geschieh*0)
 gestatt,en,[segnen]
 gesteh,en,[entstehen],(AIP*gesteh*gestand*0)
-gewinn,en,[leben],(PAPR*gewinn*gewinnend*0)
+gewinn,en,[leben],(PAPR*gewinn*gewinnend*0@PAP*gewinn*gewonnen*0)
 gewohn,en,[leben]
 glaub,en,[leben]
 haben@IRREGULAR%[INFINITIVE]=[haben]%[IPR]=[habe,hast,hat,haben,habt,haben]%[AIP]=[hatte,hattest,hatte,hatten,hattet,hatten]%[PAP]=[gehabt]
 haltmach,en,[leben]
 halt,en,[halten],(AII*halt*hielt*0)
-hand,eln,[sammeln]
+hand,eln,[sammeln],(PAP*hand*handelt*0)
 hang,en,[leben]
 heb,en,[leben],(PAP*heb*gehoben*0)
 heilig,en,[leben]
@@ -379,9 +381,11 @@ unterzieh,en,[rufen],(AIP*unterzieh*unterzog*0@PAP*unterzieh*unterzog*0)
 verberg,en,[leben],(IPR12*verbe*verbi*0)
 verbind,en,[mochten],(AIP*verbind*verband*0)
 verdamm,en,[leben],(PAP*verdamm*verdammt*0)
+vereinig,en,[leben],(PAP*vereinig*vereinigt*0)
 verderb,en,[rufen],(AIP*verderb*verdarb*0)
 verdicht,en,[segnen],(PAP*verdicht*verdichtet*0)
 verdunk,eln,[sammeln]
+vergegenwartig,en,[leben]
 vergess,en,[wollen]
 verhalt,en,[halten]
 verheirat,en,[segnen],(PAP*verheirat*verheiratet*0)

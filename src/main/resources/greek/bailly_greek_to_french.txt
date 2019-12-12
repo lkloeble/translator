@@ -45,6 +45,7 @@
 αιγυπτι@adj!ος-ος-ον%1(adj)=égyptien
 αιδης@noun!inv%1(noun)=hades
 αιδι@noun!ος-ου%1(noun)=éternel
+αιθ@prep%1(prep)=qui
 αιτι@noun!α-ης%1(noun)=culpabilité
 αιφνιδι@noun!ος-ου%1(noun)=soudain
 αιτ@verb!norm%1(verb)=demander
@@ -105,6 +106,7 @@
 αξιαγαπητ@adj!ος-ος-ον%1(adj)=digne d'amour
 αορατ@adj!ος-ος-ον%1(adj)=invisible
 απα@adj!apas%1(noun)=tout
+απαλ@adj!ος-α-ον%1(adj)=doux
 απειμι@verb!irrg%1(verb)=etreabsent
 απαγγελλ@verb!norm%1(verb)=relater
 απειρ@noun!ος-ου%1(noun)=infini
@@ -207,6 +209,7 @@
 βρωσ@noun!ις-εως%1(noun)=acte de manger
 βυ@prep%1(prep)=bu
 βω@prep%1(prep)=bo
+βωμ@noun!ος-ου%1(noun)=piédestal%2(noun)=autel
 γ@noun!η-ης-εων%1(noun)=terre (matière,minerai,élément producteur)%2(noun)=terre
 γαλε@noun!ος-ου%1(noun)=squale
 γαλιλαι@noun!α-ας%1(noun)=galilée
@@ -322,6 +325,7 @@
 ελε@noun!ος-ου%1(noun)=pitié%2(noun)=miséricorde
 ελευθερ@adj!ος-η-ο%1(adj)=libre
 ελικωνιαδ@noun!x-ος2%1(noun)=héliconien
+ελικων@noun!x-ος2%1(noun)=hélicon
 ελλη@noun!x-ος%1(noun)=grec
 ελληνικ@noun!ος-η-ον%1(adj)=grec
 εμμανουηλ@noun!inv%1(noun)=emmanuel
@@ -378,6 +382,7 @@
 εργατ@noun!ης-ου%1(noun)=travailleur%2(noun)=ouvrier
 ερημ@adj!ος-η-ον%1(adj)=solitaire%2(adj)=désolé%3(adj)=désert
 ερι@noun!ς-δος%1(noun)=querelle
+ερισθεν@noun!ος-εος%1(noun)=très puissant
 ερπ@verb!norm%1(verb)=ramper
 ερπετ@noun!ον-ου%1(noun)=reptile%2(noun)=animal rampant
 ερχ@verb!norm%1(verb)=venir
@@ -403,12 +408,15 @@
 εψιλον@noun!inv%1(noun)=epsilon
 εως@prep%1(prep)=jusqu'à
 ζ@verb!norm%1(verb)=vivre
+ζαθε@adj!ος-η-ον%1(adj)=sacrosaint%2(adj)=très sacré
+ζαρα@noun!inv%1(noun)=zara
 ζευς@noun!inv%1(noun)=zeus
 ζηλ@noun!ος-ου%1(noun)=zèle%2(noun)=envie
 ζητ@verb!norm%1(verb)=chercher
 ζοροβαβελ@noun!inv%1(noun)=zorobabel
 ζω@noun!η-ης%1(noun)=vie
 ζωια@noun!inv%1(noun)=vivants
+ζω@noun!ον-ου%1(noun)=animal
 η@noun!inv%1(noun)=la
 ηγε@verb!norm%1(verb)=preceder%2(verb)=diriger%3(verb)=commander
 ηγεμ@noun!ων-ονος%1(noun)=gouverneur%2(noun)=prince
@@ -476,11 +484,10 @@
 ιωβηδ@noun!inv%1(noun)=obed
 ιωσηφ@noun!inv%1(noun)=joseph
 ιωσι@noun!ας-ου%1(noun)=josias
-ζαρα@noun!inv%1(noun)=zara
-ζω@noun!ον-ου%1(noun)=animal
 ιαχωβ@noun!ος-ου%1(noun)=jacob
 ιεσσαι@noun!inv%1(noun)=isaï
 ιησ@noun!ους-ου%1(noun)=Jésus
+ιοειδ@noun!ης-ου%1(noun)=comme une fleur
 ισραηλ@noun!inv%1(noun)=Israël
 ιουδαι@noun!ος-ου%1(noun)=juif
 ιουδαι@noun!α-ας%1(noun)=judée
@@ -542,10 +549,12 @@
 κουφοτ@noun!ης-ητος%1(noun)=luminosité
 κρατ@verb!norm%1(verb)=dominer
 κρατουμεν@noun!η-ης%1(noun)=prisonnier
+κρην@noun!η-ης%1(noun)=puits%2(noun)=fontaine%3(noun)=source
 κριν@verb!norm%1(verb)=séparer,distinguer,choisir%2(verb)=décider,trancher,résoudre,expliquer,interpréter%3(verb)=juger
 κριτ@noun!ης-ου%1(noun)=juge
 κροκοδειλ@noun!ος-ου%1(noun)=crocodile
 κρον@noun!ος-ου%1(noun)=temps
+κρονιων@noun!ος-ος%1(noun)=fils de chronos
 κτην@noun!ος-εος%1(noun)=animal domestique
 κυλινδροειδ@noun!ης-ου%1(noun)=cylindre
 κυκλ@noun!ος-ου%1(noun)=roue%2(noun)=cercle%3(noun)=anneau
@@ -682,9 +691,11 @@
 οπως@prep%1(prep)=de telle façon que
 οπισω@prep%1(prep)=derrière%2(prep)=à nouveau
 ορ@verb!norm%1(verb)=voir
+ορ@noun!ος-ους%1(noun)=colline%2(noun)=montagne
 ορα@verb!norm%1(verb)=voir
 οργ@noun!η-ης%1(noun)=colère
 ορθως@prep%1(prep)=correctement
+ορχε@verb!norm%1(verb)=danser
 οσ@adj!ος-η-ον%1(adj)=et aussi grand
 οσι@adj!ος-α-ον%1(adj)=pieux
 οστις@prep%1(prep)=quiconque%2(prep)=qui
@@ -805,6 +816,7 @@
 πολεμ@noun!ος-ου%1(noun)=guerre
 πολιτευ@verb!norm%1(verb)=gouverner%2(verb)=menerunevie
 πονηρ@adj!ος-α-ον%1(adj)=mauvais%(adj)=méchant%3(adj)=malin
+ποσσ@noun!inv%1(noun)=(aux) pieds
 πορ@noun!ος-ου%1(noun)=passage
 πορευ@verb!norm%1(verb)=suivrefort
 πορρω@prep%1(prep)=très loin

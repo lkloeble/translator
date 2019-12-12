@@ -1,6 +1,7 @@
 α@prep()
 αει@prep()
 αι@prep()
+αιθ@prep()
 αλλ@prep()
 αλληλα@prep(nom)
 αλληλους@prep(acc)

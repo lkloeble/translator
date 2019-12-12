@@ -1,6 +1,7 @@
 a@neut%inv
 abaje@neut%inv
 abend@neut%inv
+abendlich@adj%ausreichend
 abendessen@neut%inv
 abends@neut%inv
 aber@neut%inv
@@ -60,6 +61,7 @@ angesehn@neut%inv
 angst@fem%angst
 anhanglichkeit@fem%meinfem
 ankunft@fem%kunst
+anlass@masc%jahrzehnt
 anlehnung@masc%meinmasc
 anm@neut%inv
 anerkennung@fem%meinfem
@@ -184,6 +186,7 @@ berg@neut%arbeiter
 bergpredigt@fem%inv
 berlin@neut%inv
 beschaftigung@fem%meinfem
+beschaulich@adj%ausreichend
 bescheiden@adj%ausreichend
 beseitigung@fem%meinfem
 besonder@adj%ausreichend
@@ -214,6 +217,7 @@ billerbeck@neut%inv
 bindend@adj%ausreichend
 birne@fem%flasche
 bisherig@adj%ausreichend
+blatt@neut%licht
 blick@masc%ort
 blitz@masc%jahrzehnt
 blume@fem%flasche
@@ -320,6 +324,7 @@ eigen@adj%ausreichend
 eigenschaft@fem%meinfem
 eigentlich@adj%ausreichend
 ein@adj%ausreichend
+eindringlich@adj%ausreichend
 einfach@adj%ausreichend
 eingeweiht@adj%ausreichend
 einheitlich@adj%ausreichend
@@ -415,6 +420,7 @@ explosiv@neut%norm
 examen@neut%norm
 fabel@fem%flasche
 fahigkeit@fem%meinfem
+fakt@masc%zeh
 faktor@masc%autor
 falschheit@fem%meinfem
 familie@fem%flasche
@@ -697,6 +703,7 @@ hinzunahme@fem%flasche
 hirte@masc%hirte
 hoch@adj%inv
 hochmutig@adj%ausreichend
+hochverehrt@adj%ausreichend
 hoffnung@fem%meinfem
 hoh@adj%ausreichend
 hohepunkt@masc%jahrzehnt
@@ -1055,6 +1062,7 @@ odem@neut%inv
 offb@neut%inv
 offenbarung@fem%inv
 offentlich@adj%ausreichend
+offentlichkeit@fem%inv
 ohr@neut%schmerz
 okolog@neut%meinmasc
 ol@neut%inv%
@@ -1092,6 +1100,7 @@ perversitat@neut%inv
 pessimismus@neut%inv
 pessimist@adj%meinmasc
 peter@neut%inv
+petre@neut%inv
 petrus@masc%inv
 physiologisch@adj%ausreichend
 pfleger@masc%arbeiter
@@ -1244,6 +1253,7 @@ schlussel@neut%inv
 schlussfolgerung@fem%meinfem
 schlusssatz@fem%inv
 schmerz@masc%schmerz
+schnee@fem%arbeiter
 schon@adj%ausreichend
 schonheit@fem%meinfem
 schonst@adj%ausreichend
@@ -1292,6 +1302,7 @@ sensibilitat@fem%inv
 sephorris@neut%inv
 sibyllist@adj%meinmasc
 sicher@adj%ausreichend
+sicherheit@fem%meinfem
 sieb@neut%jahrzehnt
 sieben@neut%inv
 siebenfaltig@neut%inv
@@ -1489,6 +1500,7 @@ unheimlichst@adj%ausreichend
 unhold@masc%jahrzehnt
 unklarheit@fem%meinfem
 unlustigkeit@neut%inv
+unmittelbar@adj%ausreichend
 unmoglich@neut%meinmasc
 unmoralisch@adj%ausreichend
 unrecht@masc%arbeiter
@@ -1626,6 +1638,7 @@ wahrsager@masc%arbeiter
 wahrscheinlich@adj%ausreichend
 wahrscheinlicher@adj%ausreichend
 walfisch@masc%meer
+wanderung@fem%meinfem
 ware@fem%flasche
 wasser@fem%masc
 webend@fem%meinfem
@@ -1663,6 +1676,7 @@ wille@fem%wille
 willkurlich@adj%ausreichend
 wind@masc%phanomen
 winkel@masc%arbeiter
+winter@masc%arbeiter
 wirbel@masc%arbeiter
 wirklichkeit@fem%meinfem
 wirkung@fem%meinfem
@@ -1674,6 +1688,7 @@ wissenschaftlichkeit@fem%inv
 witwe@fem%flasche
 woche@fem%flasche
 wohnung@masc%meinmasc
+wonne@fem%flasche
 worden@neut%inv
 wort@neut%holz
 wortlaute@fem%flasche

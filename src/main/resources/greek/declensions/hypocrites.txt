@@ -1,6 +1,7 @@
 nom%sing%masc%ης
 voc%sing%masc%α
-acc%sing%masc%ην
+acca%sing%masc%ην
+accb%sing%masc%εα
 dat%sing%masc%η
 gen%sing%masc%ου
 nom%plr%masc%αι

@@ -25,6 +25,7 @@ acc%plr%neut%α
 voc%plr%masc%οι
 voc%plr%fem%αι
 voc%plr%neut%α
-dat%plr%masc%οις
+data%plr%masc%οις
+datb%plr%masc%οισιν
 dat%plr%fem%αις
 dat%plr%neut%οις
