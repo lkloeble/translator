@@ -35,6 +35,8 @@
 αηρ@noun!inv%1(noun)=air
 αζωρ@noun!inv%1(noun)=azor
 αθην@noun!α-ας%1(noun)=athéna
+αθλε@verb!norm%1(verb)=combattre
+αθλητ@noun!ης-ου%1(noun)=athlète%2(noun)=champion
 ακαθαρτ@adj!ος-η-ον%1(adj)=impur
 ακανθωδ@adj!ης-ης-ες%1(noun)=épineux
 ακεραι@adj!ος-η-ον%1(adj)=innocent
@@ -109,6 +111,7 @@
 απαλ@adj!ος-α-ον%1(adj)=doux
 απειμι@verb!irrg%1(verb)=etreabsent
 απαγγελλ@verb!norm%1(verb)=relater
+απαλλασσ@verb!norm%1(verb)=liberer
 απειρ@noun!ος-ου%1(noun)=infini
 απιστ@noun!ος-η-ον%1(noun)=infidèle%2(noun)=incroyant
 αποδεξ@noun!ις-εως%1(noun)=réalisation
@@ -151,6 +154,7 @@
 αρχ@noun!η-ης%1(noun)=principe,origine%2(noun)=point de depart%3(noun)=extremite finale,recapitulation,total%4(noun)=commandement,pouvoir,autorite%5(noun)=commencement
 αρκε@verb!norm%1(verb)=assister%2(verb)=ecarter
 αρχ@verb!norm%1(verb)=gouverner%2(verb)=commencer
+αρχαι@adj!ος-α-ον%1(noun)=ancien
 αρχετωσαν@noun!inv%1(noun)=qu'ils gouvernent
 αρχιερε@noun!υς-ως%1(noun)=grand prêtre
 ασεβ@adj!ης-ης-ες%1(adj)=impie%2(adj)=sacrilège
@@ -204,6 +208,7 @@
 βοταν@noun!η-ης%1(noun)=pelouse%2(noun)=herbe
 βουλ@noun!η-ης%1(noun)=résolution%2(noun)=volonté
 βουλ@verb!norm%1(verb)=preferer%2(verb)=planifier%3(verb)=souhaiter
+βραβει@noun!ον-ου%1(noun)=récompense
 βραδ@adj!υς-εια-υ%1(adj)=tardif
 βροντ@noun!η-ης%1(noun)=tonnerre
 βρωσ@noun!ις-εως%1(noun)=acte de manger
@@ -220,6 +225,7 @@
 γεν@noun!ος-ους2%1(noun)=espèce%2(noun)=gens%3(noun)=nation%4(noun)=famille%5(noun)=race
 γενε@noun!α-ας%1(noun)=génération
 γενεσ@noun!ις-εως%1(noun)=création%2(noun)=source%3(noun)=origine
+γενναι@adj!ος-α-ον%1(adj)=noble%2(adj)=authentique
 γενν@verb!norm%1(verb)=donner naissance à%2(verb)=engendrer
 γεννα@verb!norm%1(verb)=donner naissance à%2(verb)=engendrer2
 γενομεν@noun!ος-η-ον%1(noun)=ayant-été%2(noun)=ex%3(noun)=déroulé%4(noun)=ancien
@@ -249,6 +255,7 @@
 δε@noun!inv%1(noun)=d'autre part
 δειγματι@verb!norm%1(verb)=montrer2%2(verb)=faireunexemple%3(verb)=exposer
 δεικνυ@verb!norm%1(verb)=montrer
+δεσμ@noun!ος-ου2%1(noun)=entrave%2(noun)=chaîne
 δευτερ@noun!ος-α-ον%1(adj)=deuxième
 δενδρ@noun!ον-ου%1(noun)=arbre
 δη@prep%1(prep)=maintenant%2(prep)=déjà%3(prep)=donc
@@ -271,6 +278,7 @@
 δικαι@adj!ος-α-ον%1(adj)=équitable%2(adj)=juste
 δικαιωμ@noun!α-ατος%1(noun)=précepte
 δικαιοσυν@noun!η-ης%1(noun)=justice
+δικαιοτατ@adj!ος-η-ον%1(adj)=plus juste
 δικαστ@noun!ης-ου%1(noun)=juge
 διο@prep%1(prep)=par quoi
 διωγμ@noun!ος-ου%1(noun)=persécution
@@ -281,6 +289,7 @@
 δουλ@noun!ος-ου%1(noun)=esclave%2(noun)=serviteur
 δουλει@noun!α-ας%1(noun)=esclavage
 δυο@noun!inv%1(noun)=deux
+δυσ@noun!ις-εως%1(noun)=ouest%2(noun)=levant
 δωρ@noun!ον-ου%1(noun)=don
 εαν@prep%1(prep)=lorsque%2(prep)=si
 εικοσαπλασιονα@noun!inv%1(noun)=vingt fois
@@ -288,6 +297,8 @@
 εαυτοις@prep%1(prep)=eux-même
 εαυτων@prep%1(prep)=à nous-mêmes%2(prep)=à vous-mêmes%3(prep)=à eux-mêmes
 εγγιγν@verb!norm%1(verb)=etrenedans
+εγγυς@prep%1(prep)=près
+εγγιστα@prep%1(prep)=plus près
 εγειρ@verb!norm%1(verb)=faire lever,ériger,dresser,mettre debout%2(verb)=s'éveiller%3(verb)=lever
 εικ@noun!ων-ονος%1(noun)=image
 ειλικριν@adj!ης-ης-ες%1(adj)=sincère
@@ -333,6 +344,7 @@
 εμπροσθεν@prep%1(prep)=devant
 εν@prep%1(prep)=dans
 εναντιωσ@noun!ις-εως%1(noun)=opposition
+ενα@prep%1(prep)=dans%2(prep)=vers
 ενδεχεται@noun!inv%1(noun)=il est possible
 ενδοξ@adj!ος-η-ον%1(adj)=glorieux%2(adj)=honoré
 ενδυ@verb!norm%1(verb)=entrer%2(verb)=habiller
@@ -378,6 +390,7 @@
 επτακαιεικοσα@noun!inv%1(noun)=dix sept fois
 επτακαιεικοσαπλασιονα@noun!inv%1(noun)=dix sept fois plus grand
 επτακαιεικοσαπλασιω@noun!inv%1(noun)=vingt sept fois plus grand
+επτακις@prep%1(prep)=sept fois
 εργ@noun!ον-ου%1(noun)=travail%2(noun)=oeuvre
 εργατ@noun!ης-ου%1(noun)=travailleur%2(noun)=ouvrier
 ερημ@adj!ος-η-ον%1(adj)=solitaire%2(adj)=désolé%3(adj)=désert
@@ -532,6 +545,7 @@
 κατωτατω@prep%1(prep)=le plus bas
 κεραυν@noun!ος-ου%1(noun)=éclairs
 κεφαλ@noun!η-ης%1(noun)=dirigeant%2(noun)=tête
+κηρυ@noun!ξ-κος%1(noun)=héraut
 κηρυσσ@verb!norm%1(verb)=proclamer
 κητ@noun!ος-ους2%1(noun)=monstre marin
 κινησ@noun!ις-εως%1(noun)=changement%2(noun)=danse%3(noun)=mouvement
@@ -539,6 +553,7 @@
 κιονι@noun!inv%1(noun)=colonne
 κλαι@verb!norm%1(verb)=pleurer
 κλητ@noun!ος-ου%1(noun)=invoqué%2(noun)=choisi%3(noun)=appelé
+κλε@noun!ος-εος%1(noun)=célébrité%2(noun)=gloire
 κοιλ@adj!ος-η-ον%1(adj)=creux
 πολιτει@noun!α-ας%1(noun)=façon d'être%2(noun)=citoyenneté
 κομισας@noun!inv%1(noun)=pris en compte
@@ -575,6 +590,7 @@
 λευκιππ@noun!ος-ου%1(noun)=leucippe
 λιαν@prep%1(prep)=grandement
 λιθ@noun!ος-ου%1(noun)=pierre
+λιθαζ@verb!norm%1(verb)=lapider
 λιπαρ@noun!ος-α-ον%1(noun)=huileux%2(noun)=gras
 λογ@noun!ος-ου%1(noun)=parole,sentence,question%2(noun)=mot%3(noun)=recit%4(noun)=raison,intelligence%5(noun)=opinion%6(noun)=relation,proportion,analogie%7(noun)=justification,explication%8(noun)=verbe
 λοιπ@adj!ος-η-ον%1(adj)=restant
@@ -592,6 +608,7 @@
 μαριαμ@noun!inv%1(noun)=myriam
 μαρτυρ@verb!norm%1(verb)=attester,donner l'assurance%2(verb)=temoigner
 μαρτυρι@noun!α-ας%1(noun)=témoignage
+μαρτυρησ@noun!ας-ου%1(noun)=témoignage
 ματθαν@noun!inv%1(noun)=matthan
 ματηρ@noun!inv%1(noun)=mère
 με@prep%1(prep)=me
@@ -599,10 +616,10 @@
 μεγαλ@adj!ας-η-α%1(noun)=grand
 μεγαλοπρεπ@adj!ης-ης-ες%1(noun)=splendide
 μεγαλως@prep%1(prep)=grandement
-μεχρι@prep%1(prep)=jusqu'à
-μελανι@noun!α-ας%1(noun)=obscurité
+μεγιστ@adj!ος-η-ον%1(adj)=plus grand
 μεθερμηνευ@verb!norm%1(verb)=traduire
 μει@verb!norm%1(verb)=decroitre
+μελανι@noun!α-ας%1(noun)=obscurité
 μελπ@verb!norm%1(verb)=chanter
 μεν@verb!norm%1(verb)=être fixe,stable,rester de pied ferme,tenir bon%2(verb)=demeurer,habiter%3(verb)=rester
 μεν@noun!inv%1(noun)=d'une part
@@ -619,6 +636,7 @@
 μετεωρ@noun!ος-ου%1(noun)=en l'air
 μετοικεσι@noun!α-ας%1(noun)=déportation
 μετρι@adj!ος-α-ον%1(adj)=moyen%2(adj)=mesuré
+μεχρι@prep%1(prep)=jusqu'à
 μια@noun!inv%1(noun)=un
 μιαν@noun!inv%1(noun)=un
 μιαρ@noun!ος-α-ον%1(masc)=taché%2(noun)=souillé%3(noun)=pollué
@@ -696,7 +714,9 @@
 οργ@noun!η-ης%1(noun)=colère
 ορθως@prep%1(prep)=correctement
 ορχε@verb!norm%1(verb)=danser
+οφειλ@verb!norm%1(verb)=devoir
 οσ@adj!ος-η-ον%1(adj)=et aussi grand
+ος@prep%1(prep)=qui
 οσι@adj!ος-α-ον%1(adj)=pieux
 οστις@prep%1(prep)=quiconque%2(prep)=qui
 οταν@prep%1(prep)=quand%2(prep)=chaque fois que
@@ -759,6 +779,7 @@
 παυλ@noun!ος-ου%1(noun)=paul
 παχ@adj!υς-εια-υ2%1(adj)=gras%2(adj)=gros%3(adj)=large
 παχυν@verb!norm%1(verb)=engraisser
+παυ@verb!norm%1(verb)=fairecesser
 πεδι@noun!ον-ου%1(noun)=plaine
 πειθ@verb!norm%1(verb)=persuader
 πειρασμ@noun!ος-ου%1(noun)=preuve%2(noun)=tentation%3(noun)=épreuve
@@ -815,6 +836,7 @@
 ποιουν@noun!inv%1(noun)=qui fait
 πολεμ@noun!ος-ου%1(noun)=guerre
 πολιτευ@verb!norm%1(verb)=gouverner%2(verb)=menerunevie
+πον@noun!ος-ου%1(noun)=affliction%2(noun)=détresse%3(noun)=souffrance
 πονηρ@adj!ος-α-ον%1(adj)=mauvais%(adj)=méchant%3(adj)=malin
 ποσσ@noun!inv%1(noun)=(aux) pieds
 πορ@noun!ος-ου%1(noun)=passage
@@ -884,20 +906,21 @@
 σοφι@noun!α-ας%1(noun)=sagesse
 σου@prep%1(prep)=toi
 σπειρ@verb!norm%1(noun)=semer
-στασιαζ@verb!norm%1(noun)=serebeller
-σταυρ@noun!ος-ου%1(noun)=croix
-στερεωμ@noun!α-ατος%1(noun)=fondation%2(noun)=firmament
-στοιχει@noun!ος-ου%1(noun)=élément%2(noun)=cause%3(noun)=principe
-στοιχει@noun!ον-ου%1(noun)=élément
-στομι@noun!ο-ου%1(noun)=orifice
 σπερμ@noun!α-ατος%1(noun)=semence
 σπλαγχν@noun!ον-ου%1(noun)=entraille
 σποριμ@noun!ος-ου%1(noun)=germinant
 στασ@noun!ις-εως%1(noun)=lieu%2(noun)=construction%3(noun)=position
-στρογγυλ@adj!ος-η-ον%1(adj)=rond%2(adj)=sphérique
+στασιαζ@verb!norm%1(noun)=serebeller
+σταυρ@noun!ος-ου%1(noun)=croix
 στεα@noun!ς-τος%1(noun)=meilleure graisse
+στερεωμ@noun!α-ατος%1(noun)=fondation%2(noun)=firmament
+στοιχει@noun!ος-ου%1(noun)=élément%2(noun)=cause%3(noun)=principe
+στοιχει@noun!ον-ου%1(noun)=élément
+στομι@noun!ο-ου%1(noun)=orifice
+στρογγυλ@adj!ος-η-ον%1(adj)=rond%2(adj)=sphérique
 στεργουσ@noun!α-ης%&(noun)=aimant
 στρατιωτ@noun!ης-ου%1(noun)=soldat
+στυλ@noun!ος-ου%1(noun)=colonne
 συμβαιν@verb!norm%1(verb)=saccomplir
 σφαιρ@noun!α-ας%1(noun)=boule%2(noun)=sphère
 σφιγξ@noun!inv%1(noun)=sphynx
@@ -935,6 +958,7 @@
 τε@prep%1(prep)=aussi
 τεκν@noun!ον-ου%1(noun)=enfant
 τελει@adj!ος-α-ον%1(adj)=parfait%2(adj)=accompli%3(adj)=terminé
+τερμ@noun!α-ατος%1(noun)=limite
 τεταρτ@adj!ος-η-ον%1(adj)=quatrième
 τετραπ@adj!ους-ους-ουν%1(adj)=quadrupède
 τελος@prep%1(prep)=enfin
@@ -998,17 +1022,21 @@
 υπαρχ@verb!norm%1(verb)=etrerendupossible%2(verb)=debuter
 υπαρχοντα@noun!inv%1(noun)=circonstances
 υπερ@prep%1(prep)=au dessus
+υπογραμμ@noun!ος-ου%1(noun)=exemple
+υποδεικνυ@verb!norm%1(verb)=montrer
 υπολειπ@verb!norm%1(verb)=laisserpour
 υπν@noun!ος-ου%1(noun)=sommeil
 υπο@prep%1(prep)=au dessous
 υποgen@prep%1(prep)=par
 υποacc@prep%1(prep)=au dessous
+υποδειγμ@noun!α-ατος%1(noun)=figure%2(noun)=imitation%3(noun)=exemple
 υποκατω@prep%1(prep)=au dessous
 υποκριτ@noun!ης-ου%1(noun)=hypocrite
 υπομον@noun!η-ης%1(noun)=constance%2(noun)=persévérance
 υποταγ@noun!η-ης%1(noun)=obéissance%2(noun)=soumission
 υποτασσ@verb!norm%1(verb)=soumettre
 υποτιθη@verb!norm%1(verb)=voie moyenne:suggérer,ordonner,apprendre%2(verb)=placersous
+υποφερ@verb!norm%1(verb)=endurer
 υστατ@adj!ος-η-ον%1(adj)=dernier
 υστερ@adj!ος-α-ον%1(adj)=tardif
 υστερημ@noun!α-ατος%1(noun)=déficience
@@ -1035,7 +1063,9 @@
 φλοι@noun!ος-ου%1(noun)=écorce
 φοβ@noun!ος-ου%1(noun)=crainte%2(noun)=peur
 φοβε@verb!norm%1(verb)=craindre
+φορε@verb!norm%1(verb)=porter
 φρονιμ@noun!ος-ου%1(noun)=sage
+φυγαδευ@verb!norm%1(verb)=exiler
 φυλακ@noun!η-ης%1(noun)=garde%2(noun)=prison
 φυλλ@noun!ον-ου%1(noun)=feuille
 φυσ@noun!ις-εως%1(noun)=action de faire naître,formation,production%2(noun)=nature du corps,forme,traits%3(noun)=nature de l'esprit,caractère%4(noun)=condition de nature(liens de parenté,sexe,sang,rang social)%5(noun)=force productrice et créatrice de la nature%6(noun)=substance des choses (aristote)%7(noun)=nature

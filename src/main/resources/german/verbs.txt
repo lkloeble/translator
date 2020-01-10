@@ -25,6 +25,7 @@ aufputz,en,[pflanzen]
 aufricht,en,[segnen]
 aufstell,en,[leben],(PAP*aufstell*aufgestellt*0)
 auftret,en,[leben]
+ausbrech,en,[leben],(PAP*ausbrech*ausgebrochen*0)
 ausbreit,en,[segnen]
 aufwachs,en,[genesen]
 auswahl,en,[leben],(PAP*auswahl*ausgewahlt*0)
@@ -235,6 +236,7 @@ hor,en,[leben],(PAPR*hor*horend*0@PAP*hor*gehort*0)
 informier,en,[leben]
 innewerd,en,[werden]
 interessier,en,[leben]
+irr,en,[leben]
 jogg,en,[leben]
 kampf,en,[leben]
 kauf,en,[leben]
@@ -282,6 +284,7 @@ nachsinn,en,[rufen],(AIP*nachsin*nachsan*0)
 nah,en,[rufen]
 nehm,en,[rufen],(IPR12*nehm*nimm*0@AIP*nehm*nahm*0@PAP*nehm*genommen*0@ASP*nehm*nahm*0)
 nenn,en,[leben],(AII*nenn*nann*0@PAP*nenn*gennant*0)
+niederschreib,en,[rufen]
 offenbar,en,[leben]
 pass,en,[leben]
 pflanz,en,[pflanzen]
@@ -305,7 +308,7 @@ ruf,en,[rufen],(AIP*ruf*rief*0)
 ruh,en,[leben],(PAP*ruh*geruht*0)
 ruhr,en,[leben]
 sag,en,[leben],(PAPR*sag*sagend*0@AIP*sag*sagt*0@PAP*sag*gesagt*0)
-samm,eln,[sammeln],(PAP*sam*gesam*0)
+samm,eln,[sammeln],(PAP*sam*gesam*0@AII*samm*sammel*0)
 schaff,en,[rufen],(AIP*schaff*schuf*0@PAP*sch*gesch*0)
 scham,en,[leben]
 schau,en,[leben]

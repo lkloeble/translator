@@ -89,7 +89,7 @@ evit,,[cauta]
 exist,,[incerca]
 exprim,,[incerca]
 extind,,[merg]
-fac,e,[face],(AIMP*fac*fa@PAP*fac*facut)
+fac,e,[face],(AIMP*fac*fa@PAP*fac*facut@AIF*fac*face)
 fagadui,,[locuiesc]
 fer,,[primi]
 fierb,,[merg]
@@ -140,7 +140,7 @@ interv,,[mentsin]
 intorc,,[face],(IPR234*intor*intoar)
 intovaras,,[locuiesc],(PAP*intovaras*intovarasit)
 intr,a,[intampla],(PAP*intr*intrat)
-intreb,,[cauta],(IPR25*intreba*intreaba@AIMP*intreba*intreaba)
+intreb,,[cauta],(IPR25*intreba*intreaba@AIMP*intreba*intreaba@PAP*intreb*intrebat)
 intrerup,,[face],(PAP*intrerup*intrerupt)
 intseleg,e,[merg],(PAP*intseleg*intseles@ASP*intseleg*intseleag)
 intunec,,[cauta]
@@ -159,7 +159,7 @@ manifest,,[fumez]
 maninc@IRREGULAR%[IPR]=[maninc,maninci,maninca,mancam,mancati,mananca]%[INFINITIVE]=[maninca]
 mantui,,[mantui]
 ments,,[mentsin]
-merg,e,[merg],(AIP*merg*mers@AII*merg*merge)
+merg,e,[merg],(AIP*merg*mers@AII*merg*merge@AIF*merg*merge)
 misc,a,[incerca],(IPR1*misc*mist)
 mor,,[dorm],(IPR2*mor*moar@IPR34*mor*mur@PAP*mor*mur)
 mosten,,[locuiesc]
@@ -177,6 +177,7 @@ paras,i,[mantui],(AIF*par*vapar)
 pas,,[cresc],(PAP*pas*pascut)
 pastr,a,[fumez]
 pats,i,[hrani]
+paz,i,[aciti]
 pedeps,i,[locuiesc]
 persist,a,[incerca]
 petrec,e,[merg],(AIPP*petrec*petrecus)
@@ -228,6 +229,7 @@ scoat,,[scoate],(PAP*scoat*scos@IPR015*scoat*scot)
 scri,,[scrie]
 scul@IRREGULAR%[PAPR]=[sculandu]
 scuz,,[incerca]
+sed,ea,[face],(AIF*sed*sedea)
 seman,a,[incerca],(COND*sem*arsem)
 serv,i,[aciti],(ASP25*serva*servea)
 sfars,,[primi]

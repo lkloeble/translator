@@ -701,11 +701,21 @@ patericulegyptantonia3F=>şi auzim de la Domnul: " Doctore, vindecă-te mai înt
 patericulegyptantonia4A=>Acest avva Antonie, căutând la adâncul judecăților lui Dumnezeu, a cerut zicând
 patericulegyptantonia4B=>Doamne, cum se face că unii mor de tineri, iar alții prea îmbătranesc ?
 patericulegyptantonia4C=>și pentru ce unii sunt săraci, iar alții bogați ?
-patericulegyptantonia4D=>și cum cei nedrepți sunt bogați, iar cei drepți săraci ? »
+patericulegyptantonia4D=>și cum cei nedrepți sunt bogați, iar cei drepți săraci ? "
 patericulegyptantonia4E=>și a venit lui un glas zicând :
-patericulegyptantonia4F=>« Antonie, ia aminte de tine, că acestea sunt judecăți ale lui Dumnezeu
-patericulegyptantonia4G=>și nu-ți este ție de folos a le ști ».
+patericulegyptantonia4F=>" Antonie, ia aminte de tine, că acestea sunt judecăți ale lui Dumnezeu
+patericulegyptantonia4G=>și nu-ți este ție de folos a le ști ".
 
+patericulegyptantonia5A=>A întrebat cineva pe avva Antonie, zicând:
+patericulegyptantonia5B=>"Ce trebuie să păzesc eu ca să plac lui Dumnezeu?"
+patericulegyptantonia5C=>Și răspunzând bătrânul, a zis lui:
+patericulegyptantonia5D=>"Cele ce­ți poruncesc ție, păzește­le:
+patericulegyptantonia5E=>Oriunde vei merge, pe Dumnezeu să­L ai înaintea ta totdeauna;
+patericulegyptantonia5F=>orice vei face, să ai mărturie din Sfintele Scripturi;
+patericulegyptantonia5G=>și ori în ce loc vei ședea, să nu te miști degrabă.
+patericulegyptantonia5H=>Acestea trei păzește­le și te vei mântui".
+
+url2=>https://ro.orthodoxwiki.org/Patericul_egiptean#Pentru_avva_Antonie
 
 toto=>poate da
 

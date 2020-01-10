@@ -677,9 +677,18 @@ patericulegyptantonia3F=>et entendons de à le seigneur docteur, guérir/guéris
 patericulegyptantonia4A=>ce avva antoine, cherchant à approfondi (des) jugé(s) de dieu, ah demandé disant
 patericulegyptantonia4B=>seigneur, comment se faire/fait que un(s)(e) meurs/mourir de jeune(s), tandis que autre(s) trop vieillis ?
 patericulegyptantonia4C=>et pour comment un(s)(e) sont pauvre(s), tandis que autre(s) riche(e)@richesse(e)@ ?
-patericulegyptantonia4D=>foobar
-patericulegyptantonia4E=>foobar
-patericulegyptantonia4F=>foobar
-patericulegyptantonia4G=>foobar
+patericulegyptantonia4D=>et comment ceux injuste(s) sont riche(e)@richesse(e)@, tandis que ceux droit@droit(s)@ pauvre(s) ?
+patericulegyptantonia4E=>et ah venu son un voix disant :
+patericulegyptantonia4F=>antoine, prend mémoire(e) de toi, que celles-ci sont jugé(s) de son dieu
+patericulegyptantonia4G=>et ne toi est à toi de utiliser ah lui savoir.
+
+patericulegyptantonia5A=>ah demandé qui sur avva antoine, disant
+patericulegyptantonia5B=>comment il faut que  garde je que  plaire/plais son dieu
+patericulegyptantonia5C=>et répondant vieux, ah dit son
+patericulegyptantonia5D=>celles ce que ordonne à toi, garde lui
+patericulegyptantonia5E=>n'importe où ira, sur dieu  le as avant ta toujours;
+patericulegyptantonia5F=>n'importe quel fera,  as témoignage(e) de saint(s) écriture(s);
+patericulegyptantonia5G=>et où dans comment place siégera,  ne te déplaces plutôt.
+patericulegyptantonia5H=>celles-ci trois garde lui et te va sauver.
 
 toto=>peut donner

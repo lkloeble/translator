@@ -79,7 +79,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getNouns(String nounFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "scump@adj%adj"
+                "batran@adj%adj"
         });
         */
         return getFileContentForRepository(nounFileDescription);
@@ -955,10 +955,21 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("patericulegyptantonia4G", translatorBridge);
     }
 
+    @Test
+    public void test_patericul5() {
+        checkInMaps("patericulegyptantonia5A", translatorBridge);
+        checkInMaps("patericulegyptantonia5B", translatorBridge);
+        checkInMaps("patericulegyptantonia5C", translatorBridge);
+        checkInMaps("patericulegyptantonia5D", translatorBridge);
+        checkInMaps("patericulegyptantonia5E", translatorBridge);
+        checkInMaps("patericulegyptantonia5F", translatorBridge);
+        checkInMaps("patericulegyptantonia5G", translatorBridge);
+        checkInMaps("patericulegyptantonia5H", translatorBridge);
+    }
         @Test
     public void test_failedones() {
         assertTrue(true);
-        //checkInMaps("filocaliaantonie4B", translatorBridge);
+        checkInMaps("patericulegyptantonia5D", translatorBridge);
     }
     
 }

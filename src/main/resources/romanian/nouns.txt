@@ -28,6 +28,7 @@ alt@adj%adjts
 amagir@fem%berea
 amar@adj%adj
 ambigua@neut%inv
+amint@fem%berea
 amintir@fem%berea
 amintit@adj%adj
 ammonas@masc%inv
@@ -518,7 +519,7 @@ necaz@masc%ul
 necesar@adj%adj
 necesitat@fem%berea
 necunoscut@adj%adj
-nedrept@adj%adj
+nedrept@adj%adjts
 nefericit@adj%adjts
 negr@adj%adj
 nehotarit@adj%adjts
@@ -737,6 +738,7 @@ scoal@fem%fem
 scop@masc%locul
 scrier@fem%berea
 scriptura@fem%inv
+script@fem%locul
 scrisoar@fem%berea[nomplr(a):scrisori,nomplr(b):scrisorile]
 scump@adj%adj
 seam@fem%fem

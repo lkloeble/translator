@@ -1,3 +1,4 @@
 IPR=>le,elst,elt,eln,elt,eln
+AII=>te,test,te,ten,tet,ten
 AIMP=>le,elt
 PAP=>[ausreichend]

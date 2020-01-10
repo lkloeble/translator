@@ -766,6 +766,28 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
     }
 
     @Test
+    public void test_clement5() {
+        checkInMaps("clement5A1", translatorBridge);
+        checkInMaps("clement5A2", translatorBridge);
+        checkInMaps("clement5A3", translatorBridge);
+        checkInMaps("clement5B1", translatorBridge);
+        checkInMaps("clement5B2", translatorBridge);
+        checkInMaps("clement5C1", translatorBridge);
+        checkInMaps("clement5D1", translatorBridge);
+        checkInMaps("clement5D2", translatorBridge);
+        checkInMaps("clement5D3", translatorBridge);
+        checkInMaps("clement5E1", translatorBridge);
+        checkInMaps("clement5F1", translatorBridge);
+        checkInMaps("clement5F2", translatorBridge);
+        checkInMaps("clement5F3", translatorBridge);
+        checkInMaps("clement5G1", translatorBridge);
+        checkInMaps("clement5G2", translatorBridge);
+        checkInMaps("clement5G3", translatorBridge);
+        checkInMaps("clement5G4", translatorBridge);
+    }
+
+
+    @Test
     public void test_hesiode_theogony1to100() {
         checkInMaps("hesiodtheogony001", translatorBridge);
         checkInMaps("hesiodtheogony002", translatorBridge);

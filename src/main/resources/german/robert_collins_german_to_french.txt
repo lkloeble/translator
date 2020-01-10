@@ -162,6 +162,7 @@ auge@noun!flasche%1(noun)=oeil
 augenblick@noun!inv%1(noun)=moment
 augenblicklich@prep%1(prep)=pour le moment
 aus@prep%1(prep)=de
+ausbrech@verb!norm%1(verb)=sevader%2(verb)=eclater
 ausbreit@verb!norm%1(verb)=repandre
 ausdeutung@noun!meinfem%1(noun)=explication
 ausdruck@noun!jahrzehnt%1(noun)=expression
@@ -170,6 +171,7 @@ ausdrucklich@adj!ausreichend%1(adj)=explicite
 ausflucht@noun!angst%1(noun)=excuse
 ausfuhrung@noun!meinfem%1(noun)=mise en oeuvre
 ausgabe@noun!flasche%1(noun)=édition
+ausgebrochnen@adj!inv%1(adj)=éclatés
 ausgezeichnet@noun!norm%1(adj)=superbe%2(adj)=excellent
 ausland@noun!jahrzehnt%1(noun)=pays étranger
 auslass@verb!norm%1(verb)=decharger%2(verb)=omettre
@@ -635,6 +637,7 @@ erfolg@noun!jahrzehnt%1(noun)=succès
 erforderlich@adj!ausreichend%1(adj)=essentiel%2(adj)=nécessaire
 erfreulich@adj!ausreichend%1(noun)=plaisant
 erfull@verb!norm%1(verb)=remplir
+erhabenheit@noun!meinfem%1(noun)=transcendance%2(noun)=grandeur
 erhalt@verb!norm%1(verb)=recevoir
 erheb@verb!norm%1(verb)=prelever%2(verb)=monter
 erhebung@noun!meinfem%1(noun)=enquête%2(noun)=élévation
@@ -667,6 +670,7 @@ ernst@noun!jahrzehnt%1(noun)=sérieux
 erprob@verb!norm%1(verb)=essayer
 errat@verb!norm%1(verb)=deviner
 erreg@verb!norm%1(verb)=exciter%2(verb)=susciter
+erregung@noun!meinfem%1(noun)=excitation
 erreich@verb!norm%1(verb)=atteindre
 erscheinung@noun!meinfem%1(noun)=apparence
 erschein@verb!norm%1(verb)=publier%2(verb)=apparaitre
@@ -1060,6 +1064,7 @@ herkunft@noun!norm%1(noun)=origine%2(noun)=ascendance
 heroisch@adj!ausreichend%1(adj)=héroïque
 herr@noun!meinmasc%1(noun)=seigneur%2(noun)=monsieur
 herrichtung@noun!meinmasc%1(noun)=aménagement
+herrlich@adj!ausreichend%1(adj)=glorieux
 herrlichkeit@noun!meinfem%1(noun)=gloire
 herrsch@verb!norm%1(verb)=gouverner
 herrschaft@noun!meinfem%1(noun)=règne
@@ -1162,6 +1167,7 @@ irgendwann@prep%1(prep)=n'importe quand
 irgendwo@prep%1(prep)=quelque part
 ironie@noun!inv%1(noun)=ironie
 ironiker@noun!inv%1(noun)=ironiste
+irr@verb!norm%1(verb)=errer
 irrenarzte@noun!inv%1(noun)=psychiatre
 irrtum@noun!licht%1(noun)=erreur
 isais@noun!inv%1(noun)=de isaïe
@@ -1554,6 +1560,7 @@ nichts@prep%1(prep)=rien
 nichtdeterminiert@adj!ausreichend%1(adj)=indéterminé
 nieder@adj!ausreichend%1(adj)=faible
 niedergang@noun!arbeiter%1(noun)=déclin
+niederschreib@verb!norm%1(verb)=consigner
 niemand@prep%1(prep)=personne
 nihilismus@noun!inv%1(noun)=nihilisme
 nirgends@prep%1(prep)=nulle part
@@ -1611,6 +1618,7 @@ partei@noun!meinmasc%1(noun)=parti%2(noun)=parti politique
 pass@verb!norm%1(verb)=convenir
 pastor@noun!inv%1(noun)=pasteur
 patriarch@noun!meinmasc%1(noun)=patriarche
+patriotisch@adj!ausreichend%1(adj)=patriotique
 paul@noun!inv%1(noun)=paul
 paulus@noun!inv%1(noun)=paul
 pause@noun!inv%1(noun)=pause
@@ -1849,6 +1857,7 @@ schwarz@adj!ausreichend%1(adj)=noir
 schweb@verb!norm%1(verb)=planer
 schweigen@noun!burger%1(noun)=silence
 schweigsamkeit@noun!inv%1(noun)=réticence
+schwelgerei@noun!inv%1(noun)=débauche%2(noun)=libertinage
 schwelle@noun!flasche%1(noun)=seuil
 schwer@noun!ausreichend%1(noun)=difficile
 schwerfallig@noun!ausreichend%1(noun)=lourd
@@ -2237,6 +2246,7 @@ verheiratung@noun!meinfem%1(noun)=mariage
 verheiss@verb!norm%1(verb)=promettre
 verhute@noun!inv%1(noun)=préserve
 verkauf@noun!norm%1(noun)=vente
+verkehrt@adj!ausreichend%1(adj)=faux
 verkleid@verb!norm%1(verb)=deguiser
 verkleinerung@noun!arbeiter%1(noun)=réduction
 verleumdung@noun!meinfem%1(noun)=calomnie

@@ -6,4 +6,4 @@ PAP=>[adjts]
 CONJ=>x,x,a,x,x,a
 AIMP=> ,
 PAPR=>and|andu
-AIF=>va,iva,eva,emva,etsiva,va
+AIF=>voi,vei,va,vom,vetsi,vor

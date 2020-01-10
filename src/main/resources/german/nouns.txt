@@ -109,6 +109,7 @@ aufwiederhoren@neut%inv
 aufzeichnungen@fem%meinfem
 auge@neut%flasche
 augenblick@neut%inv
+ausgebrochnen@adj%inv
 ausdeutung@fem%meinfem
 ausdruck@masc%jahrzehnt
 ausdrucklich@adj%ausreichend
@@ -378,6 +379,7 @@ erfahrung@fem%meinfem
 erfolg@masc%jahrzehnt
 erforderlich@adj%ausreichend
 erfreulich@adj%ausreichend
+erhabenheit@fem%meinfem
 erhebung@fem%meinfem
 erkenntnis@fem%erkenntnis
 erkennungszeichen@neut%inv
@@ -392,6 +394,7 @@ ermudet@adj%ausreichend
 ermudung@fem%meinfem
 erneut@adj%ausreichend
 ernst@masc%jahrzehnt
+erregung@fem%meinfem
 erscheinung@fem%meinfem
 erschopfung@fem%meinfem
 erste@neut%masc
@@ -681,6 +684,7 @@ herkunft@fem%norm
 heroisch@adj%ausreichend
 herr@neut%meinmasc
 herrichtung@neut%meinmasc
+herrlich@adj%ausreichend
 herrlichkeit@fem%meinfem
 herrschaft@fem%meinfem
 herrscher@masc%arbeiter
@@ -1088,6 +1092,7 @@ parallel@adj%ausreichend
 partei@masc%meinmasc
 pastor@neut%inv
 patriarch@masc%meinmasc
+patriotisch@adj%ausreichend
 paul@masc%inv
 paulus@masc%inv
 pause@fem%inv
@@ -1280,6 +1285,7 @@ schwarmerisch@adj%ausreichend
 schwarz@adj%ausreichend
 schweigen@masc%burger
 schweigsamkeit@neut%inv
+schwelgerei@fem%inv
 schwelle@fem%flasche
 schwer@adj%ausreichend
 schwerfallig@adj%ausreichend
@@ -1558,6 +1564,7 @@ verhangnisvoll@adj%ausreichend
 verheiratung@fem%meinfem
 verhute@neut%inv
 verkauf@neut%norm
+verkehrt@adj%ausreichend
 verkleinerung@neut%arbeiter
 verleumdung@fem%meinfem
 verlobt@adj%meinmasc

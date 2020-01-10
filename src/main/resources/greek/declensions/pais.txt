@@ -1,6 +1,7 @@
 nom%sing%neut%ς
 voc%sing%neut%δε
-acc%sing%neut%δα
+acca%sing%neut%δα
+accb%sing%neut%ν
 gen%sing%neut%δος
 dat%sing%neut%δι
 nom%plr%neut%δες

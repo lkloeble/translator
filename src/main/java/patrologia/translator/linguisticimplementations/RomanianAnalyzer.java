@@ -51,10 +51,25 @@ public class RomanianAnalyzer implements Analizer {
 
     private String replaceExpressions(String characterAlphaOnly) {
         String replace = characterAlphaOnly.toLowerCase().replace("s.a.m.d", "samd");
+        replace = eraseMinus(replace);
         replace = replace.replace("in fond", "infondexpr");
         replace = replace.replace("f[a]r[a] seam[a]n", "faraseaman");
         replace = replace.replace("prin urmare", "prinurmare");
-        return replace.replace("s[a]_si","sasiexpr");
+        replace = replace.replace("s[a]_si","sasiexpr");
+        return replace.replace("ce tsi","cetsiexpr");
+    }
+
+    private String eraseMinus(String replace) {
+        char[] withoutMinus = replace.toCharArray();
+        StringBuilder stringBuilder = new StringBuilder();
+        for(char c : withoutMinus) {
+            if((int)c == 173) {
+                stringBuilder.append(" ");
+                continue;
+            }
+            stringBuilder.append(c);
+        }
+        return stringBuilder.toString();
     }
 
     private patrologia.translator.basicelements.Phrase identifyFemininePastParticipe(patrologia.translator.basicelements.Phrase phrase) {
