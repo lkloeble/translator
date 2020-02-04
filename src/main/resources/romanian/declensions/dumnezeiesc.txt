@@ -1,0 +1,3 @@
+nom%sing%neut%iesc
+nom%sing%fem%iasca
+nom%plr%neut%iesti

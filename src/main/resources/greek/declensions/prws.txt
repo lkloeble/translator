@@ -1,0 +1,9 @@
+nom%sing%masc%ς
+acc%sing%masc%α
+dat%sing%masc%ι
+gen%sing%masc%ος
+nom%plr%masc%ες
+acc%plr%masc%ας
+data%plr%masc%σι
+datb%plr%masc%σιν
+gen%plr%masc%ων

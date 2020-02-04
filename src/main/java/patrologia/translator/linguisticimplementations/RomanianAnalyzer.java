@@ -56,6 +56,7 @@ public class RomanianAnalyzer implements Analizer {
         replace = replace.replace("f[a]r[a] seam[a]n", "faraseaman");
         replace = replace.replace("prin urmare", "prinurmare");
         replace = replace.replace("s[a]_si","sasiexpr");
+        replace = replace.replace("ndu-l","ndu lexpr");
         return replace.replace("ce tsi","cetsiexpr");
     }
 

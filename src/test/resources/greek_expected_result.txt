@@ -4,7 +4,7 @@ assimil1C=>la mer(e), la tête(e), la âme(e), le arbre
 assimil1D=>la mère(e), la femme(e), le père, le homme
 assimil1E=>la terre(e), le cultivateur, le zeus, la nature, le vent, cent
 assimil2A=>le barbare, le crocodile, le ami, le rose
-assimil2B=>la chant(e), le animal, la hades, le grec, le peuple
+assimil2B=>la chant(e), le animal, la hadès, le grec, le peuple
 assimil2C=>le serviteur, le ange, (au) ange@annonce@, le vie, le médecin
 assimil2D=>le sphynx, le guerre, (aux) guerre(s), le mort, le fleuve
 assimil2E=>le rapsode, le orateur, le livre, le feuille
@@ -583,7 +583,10 @@ herodote110D=>le d'une part (aux) grec(s) le d'autre part barbares accepté, ano
 herodote110E=>le aussi autre(s)@mais@ et au travers de la@était@ culpabilité(e) nous font la guerre (aux) l'un l'autre(s).
 
 homereliv1lig001=>colère (divine) chante déesse(e) (du) Péléïdes (fils de Peleus) (du) achille
-homereliv1lig002=>foobar
-homereliv1lig003=>foobar
+homereliv1lig002=>maudit(e), la sans nombre(s) (aux) achéen(s) douleur(s) placèrent,
+homereliv1lig003=>nombreux(s)(e) et robuste(s) âme(s)(e) (au) hadès envoya
+homereliv1lig004=>(des) héros(s), le(s) d'autre part oiseau de mer(s) réalise (aux) chien(s)
+homereliv1lig005=>(aux) augure (oiseau)(s) aussi tous, zeus et accomplissait souhaites@volonté(e)@,
+homereliv1lig006=>foobar
 
 toto=>de telle façon que et que moi aussi venu que j'adore (au) le.

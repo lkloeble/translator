@@ -7,4 +7,5 @@ acc%plr%masc%ους
 voc%sing%masc%ε
 voc%plr%masc%οι
 dat%sing%masc%ω
-dat%plr%masc%οις
+data%plr%masc%οις
+datb%plr%masc%οισι

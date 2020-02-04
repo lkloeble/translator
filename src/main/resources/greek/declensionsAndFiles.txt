@@ -52,3 +52,7 @@ apas%apas.txt
 perso%perso.txt
 ω-α-ω%allelw.txt
 ξ-κος%keroux.txt
+ης-αο%aides.txt
+ος-α-υ%polus.txt
+ων-νος%kuwn.txt
+ς-ος%prws.txt

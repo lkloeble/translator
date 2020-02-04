@@ -45,7 +45,7 @@
 αι@prep%1(prep)=les
 αιγυπτ@noun!ος-ου%1(noun)=égypte
 αιγυπτι@adj!ος-ος-ον%1(adj)=égyptien
-αιδης@noun!inv%1(noun)=hades
+αιδ@noun!ης-αο%1(noun)=hadès
 αιδι@noun!ος-ου%1(noun)=éternel
 αιθ@prep%1(prep)=qui
 αιτι@noun!α-ης%1(noun)=culpabilité
@@ -60,6 +60,7 @@
 ακολουθε@verb!norm%1(verb)=suivre
 ακου@verb!norm%1(verb)=ecouter%2(verb)=entendre
 αλαζονευ@verb!norm%1(verb)=etrearrogant
+αλγ@noun!ος-εος%1(noun)=douleur
 αληθει@noun!α-ας%1(noun)=vérité
 αλικαρνησσεος@noun!inv%1(noun)=halicarnasse
 αλλα@prep%1(prep)=mais
@@ -171,6 +172,7 @@
 αυται@prep%1(prep)=ces(e)
 αυτ@adj!αυτος%1(adj)=le
 αψιδ@noun!α-ας%1(noun)=arche
+αχαι@adj!ος-α-ον%1(adj)=achéen
 αχας@noun!inv%1(noun)=achaz
 αχιλευς@noun!perso%1(noun)=achille
 αχιμ@noun!inv%1(noun)=achim
@@ -281,6 +283,7 @@
 δικαιοτατ@adj!ος-η-ον%1(adj)=plus juste
 δικαστ@noun!ης-ου%1(noun)=juge
 διο@prep%1(prep)=par quoi
+διος@noun!inv%1(noun)=zeus
 διωγμ@noun!ος-ου%1(noun)=persécution
 διωκ@verb!norm%1(verb)=poursuivre%2(verb)=persecuter
 δοκε@verb!norm%1(verb)=ressembler
@@ -339,6 +342,7 @@
 ελικων@noun!x-ος2%1(noun)=hélicon
 ελλη@noun!x-ος%1(noun)=grec
 ελληνικ@noun!ος-η-ον%1(adj)=grec
+ελωρι@noun!ον-ου%1(noun)=oiseau de mer
 εμμανουηλ@noun!inv%1(noun)=emmanuel
 εμπλε@adj!ος-α-ον%1(adj)=plein
 εμπροσθεν@prep%1(prep)=devant
@@ -395,6 +399,7 @@
 εργατ@noun!ης-ου%1(noun)=travailleur%2(noun)=ouvrier
 ερημ@adj!ος-η-ον%1(adj)=solitaire%2(adj)=désolé%3(adj)=désert
 ερι@noun!ς-δος%1(noun)=querelle
+ερισαντε@noun!inv%1(noun)=lutte
 ερισθεν@noun!ος-εος%1(noun)=très puissant
 ερπ@verb!norm%1(verb)=ramper
 ερπετ@noun!ον-ου%1(noun)=reptile%2(noun)=animal rampant
@@ -447,9 +452,9 @@
 ημων@prep%1(prep)=notre
 ην@noun!inv%1(noun)=la
 ηροδοτ@noun!ος-ου%1(noun)=hérodote
+ηρω@noun!ς-ος%1(noun)=héros
 ηρωδης@noun!inv%1(noun)=hérode
 ηρωδου@noun!inv%1(noun)=de hérode
-ηρως@noun!inv%1(noun)=héros
 ησαυ@noun!inv%1(noun)=esau
 ηστινος@prep%1(prep)=de celle-qui
 ησυχαζ@verb!norm%1(verb)=tranquiliser%2(verb)=calmer
@@ -507,6 +512,7 @@
 ιχθ@noun!υς-υος%1(noun)=poisson
 ιστορι@noun!α-ας%1(noun)=enquête%2(noun)=histoire
 ιστοριης@noun!inv%1(noun)=enquête%2(noun)=histoire
+ιφθιμ@adj!ος-η-ον%1(adj)=robuste
 ιωαθαμ@noun!inv%1(noun)=joatham
 ιωανν@noun!ης-ου%1(noun)=jean
 ιωραμ@noun!inv%1(noun)=joram
@@ -574,6 +580,7 @@
 κυλινδροειδ@noun!ης-ου%1(noun)=cylindre
 κυκλ@noun!ος-ου%1(noun)=roue%2(noun)=cercle%3(noun)=anneau
 κυρι@noun!ος-ου%1(noun)=Dieu%2(noun)=seigneur
+κυ@noun!ων-νος%1(noun)=chien
 κωμ@noun!η-ης%1(noun)=quartier%2(noun)=village
 λα@noun!ος-ου%1(noun)=peuple
 λαλ@verb!norm%1(verb)=faire entendre des sons(animaux,musique)%2(verb)=bavarder%3(verb)=parler
@@ -661,6 +668,7 @@
 μουσ@noun!α-ης%1(noun)=muse
 μνημει@noun!ον-ου%1(noun)=tombeau
 μυ@noun!inv%1(noun)=mu
+μυρι@adj!ος-α-ον%1(adj)=sans nombre
 μυστηρι@noun!ον-ου%1(noun)=sacrement%2(noun)=mystère
 μωυσης@noun!inv%1(noun)=moïse
 να@noun!ος-ου%1(noun)=temple
@@ -693,6 +701,7 @@
 οικουργ@verb!norm%1(verb)=garderlamaison
 οιν@noun!ος-ου%1(noun)=vin
 οιον@prep%1(prep)=seul
+οιων@noun!ος-ου2%1(noun)=augure (oiseau)
 ολ@noun!ος-η-ον%1(noun)=actuel%2(noun)=général%3(noun)=complet%4(noun)=entier%5(noun)=tout
 ολιγ@noun!ος-η-ον%1(noun)=peu
 ομηρ@noun!ος-ου%1(noun)=homère
@@ -725,6 +734,7 @@
 ουδαμως@prep%1(prep)=en aucune façon
 ουδε@prep%1(prep)=non plus%2(prep)=ni
 ουθ@prep%1(prep)=et pas
+ουλομεν@adj!ος-η-ον%1(adj)=maudit
 ουκ@prep%1(prep)=ne
 ουκι@prep%1(prep)=ne
 ουν@prep%1(noun)=alors%2(noun)=donc
@@ -836,6 +846,7 @@
 ποιουν@noun!inv%1(noun)=qui fait
 πολεμ@noun!ος-ου%1(noun)=guerre
 πολιτευ@verb!norm%1(verb)=gouverner%2(verb)=menerunevie
+πολλ@adj!ος-α-υ%1(adj)=nombreux
 πον@noun!ος-ου%1(noun)=affliction%2(noun)=détresse%3(noun)=souffrance
 πονηρ@adj!ος-α-ον%1(adj)=mauvais%(adj)=méchant%3(adj)=malin
 ποσσ@noun!inv%1(noun)=(aux) pieds
@@ -854,6 +865,7 @@
 προβαινουσ@adj!ος-η-ον%1(adj)=avancé
 προβατ@noun!ον-ου%1(noun)=piscine%2(noun)=brebis
 προθυμι@noun!α-ας%1(noun)=disponibilité
+προιαπτ@verb!norm%1(verb)=envoyer
 προπετη@noun!inv%1(noun)=imprudent%2(noun)=énervé
 προφητ@noun!ης-ου%1(noun)=prophète
 προφητευ@verb!norm%1(verb)=prophetiser
@@ -866,12 +878,12 @@
 προσκυν@verb!norm%1(verb)=adorer
 προσφερ@verb!norm%1(verb)=apporter%2(verb)=offrir
 προσταγμ@noun!α-ατος%1(noun)=commandement
-πρωτοτοκ@adj!ος-ος-ον%1(adj)=premier-né
-πυνθαν@verb!norm%1(verb)=apprendre%2(verb)=demander
 πρωι@prep%1(prep)=tôt le matin
 πρωτ@adj!ος-η-ον%1(adj)=premier
+πρωτοτοκ@adj!ος-ος-ον%1(adj)=premier-né
 πτερωτ@adj!ος-η-ον%1(adj)=ailé
 πτωχ@adj!ος-η-ον%1(adj)=pauvre
+πυνθαν@verb!norm%1(verb)=apprendre%2(verb)=demander
 πυρ@noun!x-ος2%1(noun)=feu
 ραψωδ@noun!ος-ου%1(noun)=rapsode
 ραχαβ@noun!inv%1(noun)=rahab
@@ -939,12 +951,12 @@
 σχημ@noun!α-ατος%1(noun)=nature%2(noun)=forme%3(noun)=apparence
 σωμ@noun!α-ατος%1(noun)=corps
 σωζ@verb!norm%1(verb)=préserver,mettre à l'abri%2(verb)=laisser vivre,épargner%3(verb)=conserver%4(verb)=sauver
+σωτηρι@noun!α-ας%1(noun)=salut
+σωφρον@adj!ων-ων-ον%1(adj)=modéré
 σωφρον@verb!norm%1(verb)=etresaindesprit
 ταπεινοφρον@verb!norm%1(verb)=etremodeste
 ταρασσ@verb!norm%1(verb)=agiter%2(verb)=deranger
 τασσ@verb!norm%1(verb)=arranger
-σωτηρι@noun!α-ας%1(noun)=salut
-σωφρον@adj!ων-ων-ον%1(adj)=modéré
 τα@noun!inv%1(noun)=le
 ταδε@noun!inv%1(noun)=ceci
 ταλλ@adj!ος-η-ο%1(adj)=autre
@@ -957,12 +969,14 @@
 ταυτι@prep%1(prep)=ceux-ci
 τε@prep%1(prep)=aussi
 τεκν@noun!ον-ου%1(noun)=enfant
+τελε@verb!norm%1(verb)=accomplir
 τελει@adj!ος-α-ον%1(adj)=parfait%2(adj)=accompli%3(adj)=terminé
+τελος@prep%1(prep)=enfin
+τελων@noun!ης-ου%1(noun)=péagier%2(noun)=collecteur de taxes%3(noun)=douanier
 τερμ@noun!α-ατος%1(noun)=limite
 τεταρτ@adj!ος-η-ον%1(adj)=quatrième
 τετραπ@adj!ους-ους-ουν%1(adj)=quadrupède
-τελος@prep%1(prep)=enfin
-τελων@noun!ης-ου%1(noun)=péagier%2(noun)=collecteur de taxes%3(noun)=douanier
+τευχ@verb!norm%1(verb)=realiser
 τιμ@noun!η-ης%1(noun)=prix%2(noun)=honneur
 τη@prep%1(prep)=la
 την@prep%1(prep)=la

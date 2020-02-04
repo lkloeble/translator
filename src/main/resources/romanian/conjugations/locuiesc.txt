@@ -5,3 +5,4 @@ AII=>eam,eai,ea,eam,eatsi,eau
 AIP=>ii,isi,i,iram,iratsi,ira
 PAPR=>ind|indu
 AIF=>ivoi,ivei,iva,ivom,ivetsi,ivor
+CONJ=>esc,esti,easca,im,itsi,easca

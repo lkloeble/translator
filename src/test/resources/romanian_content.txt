@@ -14,8 +14,8 @@ assimil1M=>ea nu  este româncă
 assimil2A=>alo ? da ?
 assimil2B=>bună ziua, domnule popescu. Sînt tudor ionescu.
 assimil2C=>A, salut, tudor ! Ce mai faci ?
-assimil2D=>bine mulțumesc ! și dumneavoastră ? Ce mai faceți ?
-assimil2E=>foarte bine, mulțumesc !
+assimil2D=>bine mulțumesc@N ! și dumneavoastră ? Ce mai faceți ?
+assimil2E=>foarte bine, mulțumesc@N !
 assimil2F=>Ion este acasă ?
 assimil2G=>Nu, nu incă. Cred că vine@V la ora cinci.
 assimil2H=>Atunci încerc mai tîrziu. La revedere, domnule Popescu.
@@ -494,6 +494,47 @@ staniloae8A29=>ca apoi să dispărem în el. Omul tinde spre o realitate persona
 staniloae8A30=>din care să se poată hrăni la infinit, fără să poată dispune de ea, date fiind posibilitățile lui limitate,
 staniloae8A31=>dar și fără să dispară apoi în ea.
 
+staniloae9A001=>Ordinea sensurilor nu e produsul psihicului uman si nici nu se încheie cu produsele acestuia.
+staniloae9A002=>Căci ea ni se impune fără să vrem si prin aspirațiile ce le sădește în noi depășește posibilitățile noastre psihice.
+staniloae9A003=>Omul nu poate trăi fără ea.
+staniloae9A004=>Dar ea se impune ca un orizont personal, infinit și superior omului,
+staniloae9A005=>care solicita libertatea lui pentru a se împărtăși@1 de ea.
+staniloae9A006=>Ea îl cheama pe om la o anumita împartasire de ea în libertate înca. din existentsa pamânteasca.
+staniloae9A007=>Sfântul Maxim Marturisitorul a remarcat faptul că totul își atinge împlinirea în om,
+staniloae9A008=>iar acesta își realizează sensul său în unirea cu Persoana dumnezeiască infinită în viața Ei spirituală.
+staniloae9A009=>Sensul sau scopul final spre care tinde acesta trebuie înțeles în conformitate cu ființa umană liberă
+staniloae9A010=>si capabila de a se dezvolta ea însăși Ia infinit.
+staniloae9A011=>Dacă raționalitatea ordinii impersonale inferioare își găsește împlinirea
+staniloae9A012=>si rostul în servirea ființei omului superior naturii, acesta, ca persoană conștientă și liberă,
+staniloae9A013=>aspiră să-și găsească împlinirea raționalității și a sensului sau nu în desființarea sa într-o esența
+staniloae9A014=>și mai înalta decât toata ordinea materiala și spirituala,
+staniloae9A015=>dar supusă monotoniei și limitării imanente, ci într-o comuniune cu o persoana transcendenta și libera.
+staniloae9A016=>Căci ființa superioară omului nu poate fi decât tot de caracter personal.
+staniloae9A017=>Iar dacă relația superioară între persoane se realizează în comuniune,
+staniloae9A018=>relația noastră deplin si etern satisfăcătoare trebuie să fie o comuniune cu o ființă de caracter personal,
+staniloae9A019=>înzestrată cu infinitate si libertate. Numai o ființă transcendentă în acest sens
+staniloae9A020=>poate fi mereu noua si datatoare de viața în aceasta comuniune cu omul.
+staniloae9A021=>Așa cum omul, ca ființa cea mai înalta din lume, este o persoana și, ca atare,
+staniloae9A022=>conștient de sensul întregii ordini inferioare pe care o împlinește,
+staniloae9A023=>tot așa el trebuie să-și găsească, cu toate sensurile treptelor inferioare lui,
+staniloae9A024=>împlinirea sensului lui într-o persoană conștientă de acest sens și de toate sensurile din lumea ce îi este inferioară.
+staniloae9A025=>Numai o persoana și mai înaltă, și în ultimă analiză Persoană supremă,
+staniloae9A026=>poate fi conștientă de sensul întregii existențe, cum este omul conștient de sensurile lumii inferioare lui.
+staniloae9A027=>Dar Persoana supremă nu mai proiectează acest sens total asupra omului
+staniloae9A028=>fără ca acesta să-și însușească el însuși într-un mod conștient acest sens;
+staniloae9A029=>ci îl comunica acestuia, ca unei persoane care si-1 însușește în mod conștient
+staniloae9A030=>si prin aceasta își îmbogățește conștiința și toată ființa sa,
+staniloae9A031=>aflându-și chiar în aceasta împlinirea propriului său sens.
+staniloae9A032=>Prin aceasta Persoana supremă promovează caracterul de persoană conștientă
+staniloae9A033=>și libera a ființei noastre.
+staniloae9A034=>Numai o persoană superioară poate promova și satisface aspirația naturii umane după împlinirea sensului ei,
+staniloae9A035=>întrucât numai ea face ca această natură umană sa nu mai fie obiect înghițit de o treaptă așa zisă "superioară",
+staniloae9A036=>dar în fond inferioară, pentru ca e inconștientă.
+staniloae9A037=>Dacă treptele inferioare omului ar fi personale, nici el nu le-ar putea reduce la starea de obiect,
+staniloae9A038=>deci nici Persoana superioară omului nu-l reduce pe el la starea de obiect, dizolvându-l sau confundându-l în Ea.
+
+
+
 https://archive.org/stream/dumitru-staniloae-teologia-dogmatica-ortodoxa-vol-i/dumitru-staniloae-teologia-dogmatica-ortodoxa-vol-i_djvu.txt
 
 ă
@@ -717,7 +758,7 @@ patericulegyptantonia5H=>Acestea trei păzește­le și te vei mântui".
 
 url2=>https://ro.orthodoxwiki.org/Patericul_egiptean#Pentru_avva_Antonie
 
-toto=>poate da
+toto=>putea reduce
 
 ă
 ș

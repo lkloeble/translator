@@ -4,6 +4,6 @@ PSP=>,i,e,am,atsi,e
 CONJ=>,i,e,am,atsi,e
 AIP=>ai,asi,a,aram,aratsi,ara
 AIF=>va,siva,ava,amva,atsiva,ava,
-PAPR=>and
+PAPR=>and|andu
 PAP=>[adj]
 ACP=>,si,a,am,atsi,a
