@@ -5,7 +5,7 @@ import java.util.*;
 public class PaninChecker {
 
     private String text;
-    private PaninVocabularyStore vocabularyStore;
+    public PaninVocabularyStore vocabularyStore;
     public List<String> greekVowels = Arrays.asList("α","ε","η","ι","ω","ο","υ");
     public List<String> greekConsons = Arrays.asList("β","γ","δ","ζ","θ","κ","λ","μ","ν","π","ξ","ρ","σ","ς","τ","φ","χ","ψ");
     public Map<String, Integer> letterValues = new HashMap<String,Integer>();
@@ -16,9 +16,22 @@ public class PaninChecker {
         this.vocabularyStore = vocabularyStore;
     }
 
-    public PaninChecker() {
+    public PaninChecker(PaninTextPart textPart) {
         populateLetterValues();
-        this.text = cleanText(getMarkFinal());
+        switch (textPart) {
+            case FULL_FINAL_MARK:
+                this.text = cleanText(getMarkFinal());
+                break;
+            case MARK_FINAL_BEFORE_JESUS_SPEECH:
+                this.text = cleanText(getMarkAfterBeforeJesusSpeech());
+                break;
+            case MARK_FINAL_JESUS_SPEECH:
+                this.text = cleanText(getJesusSpeech());
+                break;
+            case MARK_FINAL_AFTER_JESUS_SPEECH:
+                this.text = cleanText(getMarkAfterBeforeJesusSpeech());
+                break;
+        }
         this.vocabularyStore = getGreekPaninVocabularyStore();
     }
 
@@ -68,17 +81,22 @@ public class PaninChecker {
         }
         return total;
     }
-    public int vowelCount() {
-        return eraseLetters(greekConsons).replace(" ","").length();
+    public int vowelCount(PaninVocabularyStore vocabularyStore) {
+        return eraseLetters(greekConsons, vocabularyStore).replace(" ","").length();
+    }
+
+    public int consonantCount(PaninVocabularyStore vocabularyStore) {
+        return eraseLetters(greekVowels, vocabularyStore).replace(" ","").length();
     }
 
     public int vocabularyCount() {
         return vocabularyStore != null ? vocabularyStore.checkNumberOfWordsInVocabulary(text) : 0;
     }
 
-    public String eraseLetters(List<String> toErase) {
+    public String eraseLetters(List<String> toErase, PaninVocabularyStore vocabularyStore) {
         StringBuilder keepLetters = new StringBuilder();
-        char[] allLetters = text.toCharArray();
+        String localText = vocabularyStore.getAllInOneSentence(text);
+        char[] allLetters = localText.toCharArray();
         for(char c : allLetters) {
             String letter = Character.toString(c);
             if(toErase.contains(letter)) continue;
@@ -102,8 +120,30 @@ public class PaninChecker {
                 "20 εκεινοι δε εξελθοντες εκηρυξαν πανταχου, του Κυριου συνεργουντος, και τον λογον βεβαιουντος δια των επακολουθουντων σημειων.";
     }
 
+    private String getMarkFinalBeforeJesusSpeech() {
+        return "9 Αναστας δε πρωι πρωτη σαββατου εφανη πρωτον Μαρια τη Μαγδαληνη, παρ ης εκβεβληκει επτα δαιμονια.\n" +
+                "10 εκεινη πορευθεισα απηγγειλεν τοις μετ αυτου γενομενοις πενθουσι και κλαιουσιν.\n" +
+                "11 κα κεινοι ακουσαντες οτι ζη και εθεαθη υπ αυτης ηπιστησαν.\n" +
+                "12 Μετα δε ταυτα δυσιν εξ αυτων περιπατουσιν εφανερωθη εν ετερα μορφη, πορευομενοις εις αγρον\n" +
+                "13 κα κεινοι απελθοντες απηγγειλαν τοις λοιποις ουδε εκεινοις επιστευσαν.\n" +
+                "14 Υστερον δε ανακειμενοις αυτοις τοις ενδεκα εφανερωθη, και ωνειδισεν την απιστιαν αυτων και σκληροκαρδιαν οτι τοις θεασαμενοις αυτον εγηγερμενον εκ νεκρων ουκ επιστευσαν.\n" +
+                "15 και ειπεν αυτοις";
+    }
+
+    private String getJesusSpeech() {
+        return " Πορευθεντες εις τον κοσμον απαντα κηρυξατε το ευαγγελιον παση τη κτισει.\n" +
+                "16 ο πιστευσας και βαπτισθεις σωθησεται, ο δε απιστησας κατακριθησεται.\n" +
+                "17 σημεια δε τοις πιστευσασιν ακολουθησει ταυτα εν τω ονοματι μου δαιμονια εκβαλουσιν, γλωσσαις λαλησουσιν,\n" +
+                "18 και εν ταις χερσιν οφεις αρουσιν καν θανασιμον τι πιωσιν ου μη αυτους βλαψη επι αρρωστους χειρας επιθησουσιν και καλως εξουσιν.";
+    }
+
+    private String getMarkAfterBeforeJesusSpeech() {
+        return "19 Ο μεν ουν Κυριος Ιησους μετα το λαλησαι αυτοις, ανελημφθη εις τον ουρανον και εκαθισεν εκ δεξιων του Θεου.\n" +
+                "20 εκεινοι δε εξελθοντες εκηρυξαν πανταχου, του Κυριου συνεργουντος, και τον λογον βεβαιουντος δια των επακολουθουντων σημειων.";
+    }
+
     private PaninVocabularyStore getGreekPaninVocabularyStore() {
-        PaninVocabularyStore store = new PaninVocabularyStore();
+        PaninVocabularyStore store = new PaninVocabularyStore(getGreekPaninDictionary());
         store.addFullSentenceOfVocabulary(erasePonctuation("Αναστας@450 δε@1161 πρωι@4404 πρωτη@4413 σαββατου@4521 εφανη@5316 πρωτον@4413 Μαρια@3137 τη@3588 Μαγδαληνη@3094, παρ@3844 ης@3739 εκβεβληκει@1544 επτα@2033 δαιμονια@1140."));
         store.addFullSentenceOfVocabulary(erasePonctuation("εκεινη@1565 πορευθεισα@4198 απηγγειλεν@518 τοις@3588 μετ@3326 αυτου@846 γενομενοις@1096 πενθουσι@3996 και@2532 κλαιουσιν@2799."));
         store.addFullSentenceOfVocabulary(erasePonctuation("κα@2532 κεινοι@1565 ακουσαντες@191 οτι@3754 ζη@2198 και@2532 εθεαθη@2300 υπ@5259 αυτης@846 ηπιστησαν@569."));
@@ -117,6 +157,110 @@ public class PaninChecker {
         store.addFullSentenceOfVocabulary(erasePonctuation("Ο@3588 μεν@3303 ουν@3767 Κυριος@2962 Ιησους@2424 μετα@3326 το@3588 λαλησαι@2980 αυτοις@846, ανελημφθη@353 εις@1519 τον@3588 ουρανον@3772 και@2532 εκαθισεν@2523 εκ@1537 δεξιων@1188 του@3588 Θεου@2316"));
         store.addFullSentenceOfVocabulary(erasePonctuation("εκεινοι@1565 δε@1161 εξελθοντες@1831 εκηρυξαν@2784 πανταχου@3837, του@3588 Κυριου@2962 συνεργουντος@4903, και@2532 τον@3588 λογον@3056 βεβαιουντος@950 δια@1223 των@3588 επακολουθουντων@1872 σημειων@4592."));
         return store;
+    }
+
+    private PaninGreekRepository getGreekPaninDictionary() {
+        PaninGreekRepository repository = new PaninGreekRepository();
+        repository.addStrongReference("αγρος@68");
+        repository.addStrongReference("αιρω@142");
+        repository.addStrongReference("ακολουθεω@190");
+        repository.addStrongReference("ακουω@191");
+        repository.addStrongReference("ανακειμαι@345");
+        repository.addStrongReference("αναλαμβανω@353");
+        repository.addStrongReference("ανιστημι@450");
+        repository.addStrongReference("απαγγελλω@518");
+        repository.addStrongReference("απας@537");
+        repository.addStrongReference("απελθω@565");
+        repository.addStrongReference("απιστεω@569");
+        repository.addStrongReference("απιστια@570");
+        repository.addStrongReference("αρρωστος@732");
+        repository.addStrongReference("αυτος@846");
+        repository.addStrongReference("βαπιζω@907");
+        repository.addStrongReference("βεβαιοω@950");
+        repository.addStrongReference("βλαπτω@984");
+        repository.addStrongReference("γινομαι@1096");
+        repository.addStrongReference("γλωσσα@1100");
+        repository.addStrongReference("δαιμονιον@1140");
+        repository.addStrongReference("δε@1161");
+        repository.addStrongReference("δεξιος@1188");
+        repository.addStrongReference("δια@1223");
+        repository.addStrongReference("δυο@1417");
+        repository.addStrongReference("εγειρω@1453");
+        repository.addStrongReference("ειπω@2036"); //classified in 2036 because of form επω
+        repository.addStrongReference("εις@1519");
+        repository.addStrongReference("εκ@1537");
+        repository.addStrongReference("εκβαλλω@1544");
+        repository.addStrongReference("εκεινος@1565");
+        repository.addStrongReference("εν@1722");
+        repository.addStrongReference("ενδεκα@1733");
+        repository.addStrongReference("εξελθω@1831");
+        repository.addStrongReference("επι@1909");
+        repository.addStrongReference("επακολουθεω@1872");
+        repository.addStrongReference("επιτιθημι@2007");
+        repository.addStrongReference("επτα@2033");
+        repository.addStrongReference("ετερος@2087");
+        repository.addStrongReference("ευαγγελιον@2098");
+        repository.addStrongReference("εχω@2192");
+        repository.addStrongReference("ζαω@2198");
+        repository.addStrongReference("θανασιμος@2286");
+        repository.addStrongReference("θεαομαι@2300");
+        repository.addStrongReference("θεος@2316");
+        repository.addStrongReference("ιησους@2424");
+        repository.addStrongReference("καθιζω@2523");
+        repository.addStrongReference("και@2532");
+        repository.addStrongReference("καλος@2573");
+        repository.addStrongReference("καν@2579");
+        repository.addStrongReference("κατακρινω@2632");
+        repository.addStrongReference("κηρυσσω@2784");
+        repository.addStrongReference("κλαιω@2799");
+        repository.addStrongReference("κοσμος@1889");
+        repository.addStrongReference("κτισις@2937");
+        repository.addStrongReference("κυριος@2962");
+        repository.addStrongReference("λαλεω@2980");
+        repository.addStrongReference("λογος@3056");
+        repository.addStrongReference("λοιπος@3062");
+        repository.addStrongReference("μαγδαληνη@3094");
+        repository.addStrongReference("μαρια@3137");
+        repository.addStrongReference("μεν@3303");
+        repository.addStrongReference("μετα@3326");
+        repository.addStrongReference("μη@3361");
+        repository.addStrongReference("μορφη@3444");
+        repository.addStrongReference("μου@1473");
+        repository.addStrongReference("νεκρος@3498");
+        repository.addStrongReference("ο@3588");
+        repository.addStrongReference("ονειδιζω@3679");
+        repository.addStrongReference("ονομα@3686");
+        repository.addStrongReference("ος@3739");
+        repository.addStrongReference("οτι@3754");
+        repository.addStrongReference("ου@3756");
+        repository.addStrongReference("ουδε@3761");
+        repository.addStrongReference("ουν@3767");
+        repository.addStrongReference("ουρανος@3772");
+        repository.addStrongReference("ουτος@3778");
+        repository.addStrongReference("οφις@3789");
+        repository.addStrongReference("πανταχου@3837");
+        repository.addStrongReference("παρα@3844");
+        repository.addStrongReference("πας@3956");
+        repository.addStrongReference("πενθεω@3996");
+        repository.addStrongReference("περιπατεω@4043");
+        repository.addStrongReference("πινω@4095");
+        repository.addStrongReference("πιστευω@4100");
+        repository.addStrongReference("πορευομαι@4198");
+        repository.addStrongReference("πρωι@4404");
+        repository.addStrongReference("προτερος@4413");
+        repository.addStrongReference("σαββατον@4521");
+        repository.addStrongReference("σημειον@4592");
+        repository.addStrongReference("σκληροκαρδια@4641");
+        repository.addStrongReference("συνεργεω@4903");
+        repository.addStrongReference("σωζω@4982");
+        repository.addStrongReference("τις@5100");
+        repository.addStrongReference("υπο@5259");
+        repository.addStrongReference("υστερος@5305");
+        repository.addStrongReference("φαινω@5316");
+        repository.addStrongReference("φαινεροω@5319");
+        repository.addStrongReference("χειρ@5495");
+
+        return repository;
     }
 
     public String getHeptadicFormat(PaninSearch paninSearch) {
@@ -143,10 +287,23 @@ public class PaninChecker {
             case FORMS_TWICE_MIN:
                 result = form_occurence_min_counter(2);
                 break;
+            case VOCABULARY_LETTERS:
+                result = vocabularyLetterCount();
+                break;
+            case VOCABULARY_LETTERS_VOWELS:
+                result = vowelCount(vocabularyStore);
+                break;
+            case VOCABULARY_LETTERS_CONSONANTS:
+                result = consonantCount(vocabularyStore);
+                break;
             default:
                 break;
         }
         return paninSearch.getViewLabel() + " " + printHeptadic(result);
+    }
+
+    private int vocabularyLetterCount() {
+        return vocabularyStore.letterCountForText(text);
     }
 
     private Map<String,Integer> computeWordsAndOccurence() {
@@ -187,7 +344,14 @@ public class PaninChecker {
     }
 
     private String printHeptadic(int result) {
+        if(doubleHeptadic(result)) {
+            return "7*7*" + result/49;
+        }
         return isHeptadic(result) ? "7*" + result/7 : "NOHEPTADIC : " + result;
+    }
+
+    private boolean doubleHeptadic(int result) {
+        return result%49 == 0;
     }
 
     private boolean isHeptadic(int result) {

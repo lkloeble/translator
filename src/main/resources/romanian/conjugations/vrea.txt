@@ -1,2 +1,3 @@
 IPR=>eau,ei,ea,em,etsi,eau
 AIF=>oi,ei,a,om,etsi,or
+PAP=>ut

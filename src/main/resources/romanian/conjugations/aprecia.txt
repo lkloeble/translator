@@ -1,3 +1,4 @@
 IPR=>ez,ezi,aza,em,atsi,aza
 AIP=>ai,asi,e,aram,aratsi,ara
 PAP=>at
+CONJ=>ez,ezi,eze,ezam,ezatsi,eze

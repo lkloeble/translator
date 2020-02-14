@@ -30,7 +30,7 @@ public class RomanianAnalyzer implements Analizer {
     private VerbRepository2 verbRepository;
 
     public RomanianAnalyzer(PrepositionRepository prepositionRepository, NounRepository nounRepository, VerbRepository2 verbRepository) {
-        wordAnalyzer = new WordAnalyzer(prepositionRepository, nounRepository,verbRepository, new patrologia.translator.linguisticimplementations.RomanianPhraseChanger(nounRepository,verbRepository), new DefaultModificationLog(), new CustomRule(), new CaseOperatorContainer(nounRepository,prepositionRepository,verbRepository,new DummyAccentuer()),Language.ROMANIAN);
+        wordAnalyzer = new WordAnalyzer(prepositionRepository, nounRepository,verbRepository, new patrologia.translator.linguisticimplementations.RomanianPhraseChanger(nounRepository,prepositionRepository,verbRepository), new DefaultModificationLog(), new CustomRule(), new CaseOperatorContainer(nounRepository,prepositionRepository,verbRepository,new DummyAccentuer()),Language.ROMANIAN);
         this.nounRepository = nounRepository;
         this.verbRepository = verbRepository;
     }
@@ -57,6 +57,7 @@ public class RomanianAnalyzer implements Analizer {
         replace = replace.replace("prin urmare", "prinurmare");
         replace = replace.replace("s[a]_si","sasiexpr");
         replace = replace.replace("ndu-l","ndu lexpr");
+        replace = replace.replace("intr_adev[a]r","intradevar");
         return replace.replace("ce tsi","cetsiexpr");
     }
 
@@ -165,6 +166,9 @@ public class RomanianAnalyzer implements Analizer {
                     break;
                 case 45://- replaced by _ for hebrew compatibility
                     sb.append("_");
+                    break;
+                case 350://S majuscule
+                    sb.append("s");
                     break;
                 default:
                     sb.append(c);

@@ -4,3 +4,4 @@ nomc%sing%fem%e
 gen%sing%fem%ei
 noma%plr%fem%i
 nomb%plr%fem%ele
+nomc%plr%fem%ile

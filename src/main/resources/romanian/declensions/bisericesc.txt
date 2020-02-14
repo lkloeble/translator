@@ -1,3 +1,4 @@
 nom%sing%neut%esc
 nom%sing%fem%easca
 nom%plr%neut%esti
+nom%plr%fem%este
