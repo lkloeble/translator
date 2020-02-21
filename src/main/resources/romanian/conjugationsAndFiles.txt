@@ -40,3 +40,6 @@ succeda%succeda.txt
 incheia%incheia.txt
 cuvine%cuveni.txt
 hrani%hrani.txt
+invalui%invalui.txt
+cobor%cobor.txt
+indoi%indoi.txt

@@ -4,6 +4,6 @@ AII=>eam,eai,ea,eam,eatsi,eau
 AIP=>ui,usi,u,uram,uratsi,ura
 PAP=>[adjts]
 CONJ=>x,x,a,x,x,a
-AIMP=> ,
+AIMP=> ,tsiva
 PAPR=>and|andu
 AIF=>voi,vei,va,vom,vetsi,vor

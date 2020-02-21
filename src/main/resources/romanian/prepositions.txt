@@ -265,6 +265,7 @@ vei@prep()%[recomposeVaVerb]
 varog@prep()
 veci@prep()
 vorba@prep()
+voua@prep()
 vreo@prep()%[electGenitiveForFollowingNoun]
 vreun@prep()%[electGenitiveForFollowingNoun]
 vreunei@prep()%[electGenitiveForFollowingNoun]

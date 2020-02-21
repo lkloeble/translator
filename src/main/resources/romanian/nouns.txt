@@ -5,6 +5,7 @@ acasa@neut%inv
 accentuat@adj%adj
 acedie@neut%inv
 acesta@neut%inv
+aci@neut%inv
 acomodat@adj%adj
 act@masc%ul
 actsiun@masc%ul
@@ -27,6 +28,7 @@ alo@neut%inv
 alt@adj%adjts
 amagir@fem%berea
 amar@adj%adj
+amaraciun@fem%berea
 amarat@adj%adj
 ambigua@neut%inv
 amint@fem%berea
@@ -185,6 +187,7 @@ creatoare@adj%inv
 creator@masc%ul
 creatsi@fem%ratsiune
 creatur@fem%fem
+credinciosul@neut%parinte
 credints@fem%fem
 crestin@adj%adj
 crestinism@masc%ul
@@ -330,6 +333,8 @@ frumusets@fem%berea
 frun@fem%capacitate
 furia@fem%fem
 furi@adj%adjos
+furtun@fem%fem
+galeat@fem%fem
 galile@fem%tigara
 gand@masc%locul
 gar@fem%fem
@@ -411,6 +416,7 @@ inrudiri@neut%inv
 insemnar@fem%ratsiune
 insomnie@fem%fem
 insurat@adj%adjts
+intampinar@fem%berea
 intamplar@fem%berea
 inteligent@adj%adjts
 interes@masc%ul
@@ -428,6 +434,7 @@ intunecare@neut%inv
 intunecat@adj%adj
 intuneric@masc%ul
 invatsat@adj%adjts
+invatsatorule@neut%inv
 invatsatur@fem%femi
 invers@neut%inv
 inzestrat@adj%adj
@@ -484,6 +491,8 @@ magazin@neut%inv
 main@fem%berea
 mal@masc%ul
 mam@fem%fem
+man@fem%fem
+mancar@fem%berea
 mandri@fem%fem
 mantuir@fem%berea
 manuscris@neut%inv
@@ -580,7 +589,7 @@ niciodata@neut%inv
 nil@masc%ul
 nisipos@adj%adj
 nitri@fem%fem
-noapte@fem%fem
+noapte@fem%fem[gensg(a):noptsii]
 noi@neut%inv
 nor@masc%ul
 nord@neut%inv
@@ -636,6 +645,7 @@ pasar@fem%berea
 pasiv@adj%inv
 pastile@neut%inv
 patim@fem%fem
+patra@neut%inv
 patriarh@masc%ul
 patru@neut%inv
 patruzeci@neut%inv
@@ -658,6 +668,7 @@ pic@neut%inv
 picatur@fem%fem
 pierder@fem%berea
 pierdut@adj%adjts
+pierit@adj%adjor
 pild@fem%fem
 pip@fem%fem
 piperat@adj%adj
@@ -777,6 +788,7 @@ salbatic@adj%adj
 salbaticit@adj%adj
 salbaticiun@fem%berea
 salut@masc%inv
+samari@fem%fem
 sampani@fem%fem
 sanatate@fem%ereditate
 saptamin@fem%fem
@@ -844,12 +856,14 @@ splendid@adj%adj
 sporit@adj%adj
 sportiv@adj%adj
 stabilit@adj%adj
+stadi@masc%fiul
 stapan@masc%ul
 stare@fem%fem
 staruint@fem%femts
 sticl@fem%fem
 stiints@fem%fem
 stra@fem%adjverde
+straj@fem%fem
 stradiani@fem%fem
 stramutar@fem%berea
 strugur@masc%ul
@@ -948,6 +962,7 @@ valorificare@neut%inv
 val@masc%locul
 vampir@masc%ul
 vanatoare@fem%inv
+vant@masc%ul
 varietate@fem%ereditate
 varst@fem%fem
 vatamato@adj%adjr
@@ -959,6 +974,7 @@ veder@fem%berea
 ver@adj%adjverde
 vesel@adj%adj
 vesnic@adj%adj
+vest@fem%berea
 veterinar@masc%ul
 vi@adj%adj
 viats@fem%fem[nomplr(a):vietsi,gensg(a):vietsii]

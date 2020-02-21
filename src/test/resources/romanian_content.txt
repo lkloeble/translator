@@ -746,7 +746,7 @@ bocaseumplu931=>Şi intrând în corabie, mergeau spre Capernaum, dincolo de mar
 bocaseumplu932=>Iar corabia era acum la multe stadii departe de pământ, fiind învăluită de valuri, căci vântul era împotrivă.
 bocaseumplu933=>Iar la a patra strajă din noapte, a venit la ei Iisus, umblând pe mare.
 bocaseumplu934=>Văzându-L umblând pe mare, ucenicii s-au înspăimântat, zicând că e nălucă şi de frică au strigat.
-bocaseumplu935=>Dar El le-a vorbit îndată, zicându-le: Îndrăzniţi, Eu sunt; nu vă temeţi!
+bocaseumplu935=>Dar El le-a vorbit îndată, zicându-le: Îndrăzniţi, Eu sunt; nu vă temeţi !
 bocaseumplu936=>Iar Petru, răspunzând, a zis: Doamne, dacă eşti Tu, porunceşte să vin la Tine pe apă.
 bocaseumplu937=>El i-a zis: Vino. Iar Petru, coborându-se din corabie, a mers pe apă şi a venit către Iisus.
 bocaseumplu938=>Dar văzând vântul, s-a temut şi, începând să se scufunde, a strigat, zicând: Doamne, scapă-mă!
@@ -772,7 +772,7 @@ bocaseumplu957=>la o învățătură și la o veste care a făcut-o să-și lase
 bocaseumplu958=>Dar aci, cu mulțimile n-a izbutit același lucru.
 bocaseumplu959=>De aceea, din cauza amărăciunii, că n-a avut pe cine ridica la trebuința după o pâine a vieții veșnice,
 bocaseumplu960=>de aceea a încheiat repede cu ei, i-a silit pe ucenicii Săi să intre în corabie,
-bocaseumplu961=>îndreptându-i de cealaltă a mării Galileii, iar El S-a retras ingur să se roage.
+bocaseumplu961=>îndreptându-i de cealaltă a mării Galileii, iar El S-a retras singur să se roage.
 bocaseumplu962=>Era seară și-s-a făcut noapte. Pe mare s-a iscat furtună. Corabia era in mijlocul mării Si în mijlocul nopții.
 bocaseumplu963=>Ucenicii îngrijorați – dacă nu chiar speriați – se gândeau la Iisus.
 bocaseumplu964=>Când erau mai bântuiți de groază, iată văd pe Domnul umblând pe mare Si apropiindu-Se de ei.
@@ -870,7 +870,7 @@ patericulegyptantonia5H=>Acestea trei păzește­le și te vei mântui".
 
 url2=>https://ro.orthodoxwiki.org/Patericul_egiptean#Pentru_avva_Antonie
 
-toto=>putea reduce
+toto=>care o va da vouă
 
 ă
 ș

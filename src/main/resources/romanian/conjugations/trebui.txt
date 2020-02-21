@@ -1,3 +1,4 @@
 IPR=>,,e,im,tsi,e
 ACP=>xxx,xxx,,xxx,xxx,xxx
 PAP=>[adj]
+PAPR=>nd|ndu

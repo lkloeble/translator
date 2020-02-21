@@ -1,0 +1,2 @@
+IPR=>r,ri,ara,ram,ratsi,ara
+PAPR=>rand|randu

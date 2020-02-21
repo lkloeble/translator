@@ -1,0 +1,2 @@
+IPR=>i,i,ie,im,itsi,ie
+PAP=>[adj]
