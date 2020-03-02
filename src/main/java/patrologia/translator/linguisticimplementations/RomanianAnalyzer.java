@@ -6,11 +6,11 @@ import patrologia.translator.basicelements.noun.Noun;
 import patrologia.translator.basicelements.noun.NounRepository;
 import patrologia.translator.basicelements.preposition.PrepositionRepository;
 import patrologia.translator.basicelements.verb.Verb;
-import patrologia.translator.basicelements.verb.VerbRepository;
 import patrologia.translator.basicelements.verb.VerbRepository2;
 import patrologia.translator.casenumbergenre.CaseOperatorContainer;
 import patrologia.translator.casenumbergenre.Gender;
-import patrologia.translator.utils.Analizer;
+import patrologia.translator.rule.romanian.RomanianPhraseChanger;
+import patrologia.translator.utils.Analyzer;
 import patrologia.translator.utils.PhraseAnalizer;
 import patrologia.translator.utils.WordAnalyzer;
 import patrologia.translator.utils.WordSplitter;
@@ -21,7 +21,7 @@ import java.util.Set;
 /**
  * Created by Laurent KLOEBLE on 16/10/2015.
  */
-public class RomanianAnalyzer implements Analizer {
+public class RomanianAnalyzer implements Analyzer {
 
     private WordSplitter wordSplitter = new WordSplitter();
     private WordAnalyzer wordAnalyzer = null;
@@ -30,7 +30,7 @@ public class RomanianAnalyzer implements Analizer {
     private VerbRepository2 verbRepository;
 
     public RomanianAnalyzer(PrepositionRepository prepositionRepository, NounRepository nounRepository, VerbRepository2 verbRepository) {
-        wordAnalyzer = new WordAnalyzer(prepositionRepository, nounRepository,verbRepository, new patrologia.translator.linguisticimplementations.RomanianPhraseChanger(nounRepository,prepositionRepository,verbRepository), new DefaultModificationLog(), new CustomRule(), new CaseOperatorContainer(nounRepository,prepositionRepository,verbRepository,new DummyAccentuer()),Language.ROMANIAN);
+        wordAnalyzer = new WordAnalyzer(prepositionRepository, nounRepository,verbRepository, new RomanianPhraseChanger(nounRepository,prepositionRepository,verbRepository), new DefaultModificationLog(), new CustomRule(), new CaseOperatorContainer(nounRepository,prepositionRepository),Language.ROMANIAN);
         this.nounRepository = nounRepository;
         this.verbRepository = verbRepository;
     }

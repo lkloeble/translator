@@ -14,12 +14,13 @@ import patrologia.translator.linguisticimplementations.FrenchTranslator;
 import patrologia.translator.linguisticimplementations.RomanianAnalyzer;
 import patrologia.translator.linguisticimplementations.Translator;
 import patrologia.translator.rule.romanian.RomanianRuleFactory;
-import patrologia.translator.utils.Analizer;
+import patrologia.translator.utils.Analyzer;
 
 import java.util.*;
 
 import static junit.framework.Assert.assertTrue;
 import static junit.framework.TestCase.assertEquals;
+import static patrologia.translator.basicelements.Language.ROMANIAN;
 
 /**
  * Created by Laurent KLOEBLE on 16/10/2015.
@@ -28,9 +29,9 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
 
     private TranslatorBridge translatorBridge;
 
-    private String localTestPath="C:\\Users\\kloeblel\\IdeaProjects\\translator\\src\\test\\resources\\";
-    private String localResourcesPath="C:\\Users\\kloeblel\\IdeaProjects\\translator\\src\\main\\resources\\romanian\\";
-    private String localCommonPath="C:\\Users\\kloeblel\\IdeaProjects\\translator\\src\\main\\resources\\";
+    private String localTestPath="C:\\Users\\kloeble.l\\IdeaProjects\\translator\\src\\test\\resources\\";
+    private String localResourcesPath="C:\\Users\\kloeble.l\\IdeaProjects\\translator\\src\\main\\resources\\romanian\\";
+    private String localCommonPath="C:\\Users\\kloeble.l\\IdeaProjects\\translator\\src\\main\\resources\\";
 
     @Before
     public void init() {
@@ -46,11 +47,12 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         String romanianPathFile = localTestPath + "romanian_content.txt";
         String romanianResultFile = localTestPath + "romanian_expected_results.txt";
         RomanianDeclensionFactory romanianDeclensionFactory = new RomanianDeclensionFactory(getDeclensions(declensionsAndFiles), getDeclensionList(declensionsAndFiles, declensionPath));
-        NounRepository nounRepository = new NounRepository(patrologia.translator.basicelements.Language.ROMANIAN, romanianDeclensionFactory, new patrologia.translator.basicelements.DummyAccentuer(),getNouns(nounFileDescription));
-        VerbRepository2 verbRepository = new VerbRepository2(new RomanianConjugationFactory(getRomanianConjugations(conjugationsAndFiles), getRomanianConjugationDefinitions(conjugationsAndFiles, conjugationPath), romanianDeclensionFactory), patrologia.translator.basicelements.Language.ROMANIAN, new DummyAccentuer(), getVerbs(verbFileDescription));
+        NounRepository nounRepository = new NounRepository(ROMANIAN, romanianDeclensionFactory, new patrologia.translator.basicelements.DummyAccentuer(),getNouns(nounFileDescription));
+        RomanianConjugationFactory romanianConjugationFactory = new RomanianConjugationFactory(getRomanianConjugations(conjugationsAndFiles), getRomanianConjugationDefinitions(conjugationsAndFiles, conjugationPath), romanianDeclensionFactory);
+        VerbRepository2 verbRepository = new VerbRepository2(romanianConjugationFactory, ROMANIAN, new DummyAccentuer(), getVerbs(verbFileDescription));
         RomanianRuleFactory ruleFactory = new RomanianRuleFactory(verbRepository);
-        PrepositionRepository prepositionRepository = new PrepositionRepository(patrologia.translator.basicelements.Language.ROMANIAN, new RomanianCaseFactory(), ruleFactory, getPrepositions(prepositionFileDescription),new DummyAccentuer());
-        Analizer romanianAnalyzer = new RomanianAnalyzer(prepositionRepository, nounRepository, verbRepository);
+        PrepositionRepository prepositionRepository = new PrepositionRepository(ROMANIAN, new RomanianCaseFactory(), ruleFactory, getPrepositions(prepositionFileDescription));
+        Analyzer romanianAnalyzer = new RomanianAnalyzer(prepositionRepository, nounRepository, verbRepository);
         Translator frenchTranslator = new FrenchTranslator(getRomanianDico(romanianFrenchDataFile), getFrenchVerbs(frenchVerbsDataFile), verbRepository, nounRepository, declensionPath, declensionsAndFiles, romanianDeclensionFactory);
         translatorBridge = new TranslatorBridge(romanianAnalyzer, frenchTranslator);
         mapValuesForTest = loadMapFromFiles(romanianPathFile);

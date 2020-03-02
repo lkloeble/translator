@@ -4,18 +4,11 @@ import patrologia.translator.TranslatorBridge;
 import patrologia.translator.basicelements.*;
 import patrologia.translator.basicelements.noun.NounRepository;
 import patrologia.translator.basicelements.preposition.PrepositionRepository;
-import patrologia.translator.basicelements.verb.VerbRepository;
 import patrologia.translator.basicelements.verb.VerbRepository2;
 import patrologia.translator.casenumbergenre.greek.GreekCaseFactory;
-import patrologia.translator.conjugation.greek.GreekConjugationFactory;
 import patrologia.translator.declension.Declension;
-import patrologia.translator.declension.greek.GreekDeclension;
-import patrologia.translator.declension.greek.GreekDeclensionFactory;
 import patrologia.translator.linguisticimplementations.FrenchTranslator;
-import patrologia.translator.linguisticimplementations.GreekAnalyzer;
 import patrologia.translator.linguisticimplementations.Translator;
-import patrologia.translator.rule.greek.GreekRuleFactory;
-import patrologia.translator.utils.Analizer;
 
 import java.util.*;
 
@@ -45,6 +38,7 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
         String conjugationsAndFiles = localResourcesPath + "conjugationsAndFiles.txt";
         String greekPathFile = localTestPath + "greek_content.txt";
         String greekResultFile = localTestPath + "greek_expected_result.txt";
+        /*
         GreekRuleFactory ruleFactory = new GreekRuleFactory();
         GreekDeclensionFactory greekDeclensionFactory = new GreekDeclensionFactory(getDeclensions(declensionsAndFiles), getDeclensionList(declensionsAndFiles, declensionPath));
         PrepositionRepository prepositionRepository = new PrepositionRepository(Language.GREEK, new GreekCaseFactory(), ruleFactory, getPrepositions(prepositionFileDescription),new DummyAccentuer());
@@ -55,6 +49,8 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
         translatorBridge = new TranslatorBridge(greekAnalyzer, frenchTranslator);
         mapValuesForTest = loadMapFromFiles(greekPathFile);
         mapValuesForResult = loadMapFromFiles(greekResultFile);
+
+         */
     }
 
     private List<String> getFrenchVerbs(String frenchVerbsDataFile) {
@@ -101,7 +97,7 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
         for (String declensionName : declensionNameList) {
             String parts[] = declensionName.split("%");
             String fileName = parts[1];
-            declensionList.add(new GreekDeclension(fileName, getDeclensionElements(fileName, directory)));
+            //declensionList.add(new GreekDeclension(fileName, getDeclensionElements(fileName, directory)));
         }
         return declensionList;
     }

@@ -98,7 +98,7 @@ public class VerbRepository2 {
         String time = cleanBrackets(formParts[0]);
         String value = cleanBrackets(formParts[1]);
         RootedConjugation rootedConjugation = new RootedConjugation(time, value,new DummyAccentuer());
-        List<ConjugationPart> conjugationPartList = rootedConjugation.getConjugationPartList(value);
+        List<ConjugationPart2> conjugationPartList = rootedConjugation.getConjugationPartList(value);
         conjugationPartList.stream().forEach(conjugation -> conjugationMap.put(conjugation.getValue(), verbDefinition.getRoot()));
         conjugationPartList.stream().forEach(conjugation -> conjugationMap.put(accentuer.unaccentued(conjugation.getValue()), verbDefinition.getRoot()));
         rootedConjugationMap.put(verbDefinition.getRoot() + "@" + verbDefinition.getName(), new RootedConjugation(verbDefinition.getName(), verbDefinition.getConjugations(),accentuer));
@@ -132,7 +132,7 @@ public class VerbRepository2 {
         rootedConjugation.updateValues(translationInformationReplacement, time);
         if(verbDefinition.hasTranslationRules() && verbDefinition.getTranslationRules().hasTransformationForThisTime(time)) {
             TranslationRules translationRules = verbDefinition.getTranslationRules();
-            List<ConjugationPart> transformedConjugationPartList = translationRules.transform(rootedConjugation.getPartLists(),time);
+            List<ConjugationPart2> transformedConjugationPartList = translationRules.transform(rootedConjugation.getPartLists(),time);
             rootedConjugation = new RootedConjugation(time, transformedConjugationPartList,accentuer);
         }
         storeAllConjugations(rootedConjugation,translationInformationReplacement,time,verbDefinition);
@@ -263,5 +263,10 @@ public class VerbRepository2 {
         } else {
             return new NullVerb(language, null, null);
         }
+    }
+
+    public String getConjugationSysnonym(String constructionName) {
+        //TODO
+        return null;
     }
 }

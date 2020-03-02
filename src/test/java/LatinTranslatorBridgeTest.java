@@ -4,18 +4,11 @@ import patrologia.translator.TranslatorBridge;
 import patrologia.translator.basicelements.*;
 import patrologia.translator.basicelements.noun.NounRepository;
 import patrologia.translator.basicelements.preposition.PrepositionRepository;
-import patrologia.translator.basicelements.verb.VerbRepository;
 import patrologia.translator.basicelements.verb.VerbRepository2;
 import patrologia.translator.casenumbergenre.latin.LatinCaseFactory;
-import patrologia.translator.conjugation.latin.LatinConjugationFactory;
 import patrologia.translator.declension.Declension;
-import patrologia.translator.declension.latin.LatinDeclension;
-import patrologia.translator.declension.latin.LatinDeclensionFactory;
 import patrologia.translator.linguisticimplementations.FrenchTranslator;
-import patrologia.translator.linguisticimplementations.LatinAnalyzer;
 import patrologia.translator.linguisticimplementations.Translator;
-import patrologia.translator.rule.latin.LatinRuleFactory;
-import patrologia.translator.utils.Analizer;
 
 import java.util.*;
 
@@ -43,6 +36,7 @@ public class LatinTranslatorBridgeTest extends TranslatorBridgeTest {
         String conjugationsAndFiles = localResourcesPath + "conjugationsAndFiles.txt";
         String latinPathFile = localTestPath + "latin_content.txt";
         String latinResultFile = localTestPath + "latin_expected_result.txt";
+        /*
         LatinDeclensionFactory latinDeclensionFactory = new LatinDeclensionFactory(getDeclensions(declensionsAndFiles), getDeclensionList(declensionsAndFiles, declensionLatinFiles));
         LatinRuleFactory ruleFactory = new LatinRuleFactory();
         PrepositionRepository prepositionRepository = new PrepositionRepository(Language.LATIN, new LatinCaseFactory(), ruleFactory, getFileContentForRepository(prepositionFileDescription),new DummyAccentuer());
@@ -53,6 +47,8 @@ public class LatinTranslatorBridgeTest extends TranslatorBridgeTest {
         translatorBridge = new TranslatorBridge(latinAnalyzer, frenchTranslator);
         mapValuesForTest = loadMapFromFiles(latinPathFile);
         mapValuesForResult = loadMapFromFiles(latinResultFile);
+
+         */
     }
 
     private List<String> getFrenchDictionary(String latinFrenchDataFile) {
@@ -79,7 +75,7 @@ public class LatinTranslatorBridgeTest extends TranslatorBridgeTest {
         for (String declensionName : declensionNameList) {
             String parts[] = declensionName.split("%");
             String fileName = parts[1];
-            declensionList.add(new LatinDeclension(fileName, getDeclensionElements(fileName, directory)));
+            //declensionList.add(new LatinDeclension(fileName, getDeclensionElements(fileName, directory)));
         }
         return declensionList;
     }

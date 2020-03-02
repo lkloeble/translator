@@ -136,4 +136,7 @@ public abstract class Conjugation2 {
         return declensionList;
     }
 
+    public String getSynonym() {
+        return null;
+    }
 }

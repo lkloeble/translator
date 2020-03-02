@@ -4,18 +4,11 @@ import patrologia.translator.TranslatorBridge;
 import patrologia.translator.basicelements.*;
 import patrologia.translator.basicelements.noun.NounRepository;
 import patrologia.translator.basicelements.preposition.PrepositionRepository;
-import patrologia.translator.basicelements.verb.VerbRepository;
 import patrologia.translator.basicelements.verb.VerbRepository2;
 import patrologia.translator.casenumbergenre.english.EnglishCaseFactory;
-import patrologia.translator.conjugation.english.EnglishConjugationFactory;
 import patrologia.translator.declension.Declension;
-import patrologia.translator.declension.english.EnglishDeclension;
-import patrologia.translator.declension.english.EnglishDeclensionFactory;
-import patrologia.translator.linguisticimplementations.EnglishAnalyzer;
 import patrologia.translator.linguisticimplementations.FrenchTranslator;
 import patrologia.translator.linguisticimplementations.Translator;
-import patrologia.translator.rule.english.EnglishRuleFactory;
-import patrologia.translator.utils.Analizer;
 import patrologia.translator.basicelements.Language;
 
 
@@ -47,6 +40,7 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
         String conjugationsAndFiles = localResourcesPath + "conjugationsAndFiles.txt";
         String englishPathFile = localTestPath + "english_content.txt";
         String englishResultFile = localTestPath + "english_expected_results.txt";
+        /*
         EnglishDeclensionFactory englishDeclensionFactory = new EnglishDeclensionFactory(getDeclensions(declensionsAndFiles), getDeclensionList(declensionsAndFiles, declensionPath));
         NounRepository nounRepository = new NounRepository(Language.ENGLISH, englishDeclensionFactory, new DummyAccentuer(), getNouns(nounFileDescription));
         VerbRepository2 verbRepository = new VerbRepository2(new EnglishConjugationFactory(getEnglishConjugations(conjugationsAndFiles), getEnglishConjugationDefinitions(conjugationsAndFiles, conjugationPath), englishDeclensionFactory), Language.ENGLISH, new DummyAccentuer(), getVerbs(verbFileDescription));
@@ -57,6 +51,8 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
         translatorBridge = new TranslatorBridge(englishAnalyzer, frenchTranslator);
         mapValuesForTest = loadMapFromFiles(englishPathFile);
         mapValuesForResult = loadMapFromFiles(englishResultFile);
+
+         */
     }
 
     private List<String> getNouns(String nounFileDescription) {
@@ -94,7 +90,7 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
         for (String declensionName : declensionNameList) {
             String parts[] = declensionName.split("%");
             String fileName = parts[1];
-            declensionList.add(new EnglishDeclension(fileName, getDeclensionElements(fileName, directory)));
+            //declensionList.add(new EnglishDeclension(fileName, getDeclensionElements(fileName, directory)));
         }
         return declensionList;
     }
