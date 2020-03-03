@@ -1,6 +1,7 @@
 package patrologia.translator.conjugation.romanian;
 
 import patrologia.translator.basicelements.TranslationInformationReplacement;
+import patrologia.translator.basicelements.verb.TranslationInformationReplacement2;
 import patrologia.translator.conjugation.NullTranslationInformationReplacement;
 import patrologia.translator.conjugation.VerbDefinition;
 
@@ -27,7 +28,7 @@ public class RomanianVerbDefinition extends VerbDefinition {
         alternateRootByTime = Collections.EMPTY_MAP;
         String translationDefinition = nameForms.length == 4 ? removeParenthesis(nameForms[3]) : null;
         if(translationDefinition != null && isNotARulePattern(translationDefinition)) {
-            translationInformationReplacement = new TranslationInformationReplacement(translationDefinition);
+            translationInformationReplacement = new TranslationInformationReplacement2(translationDefinition);
         }
         infinitiveForm = "a " + baseConjugationRoot + nameForms[1];
     }
@@ -42,8 +43,4 @@ public class RomanianVerbDefinition extends VerbDefinition {
         return true;
     }
 
-    @Override
-    public TranslationInformationReplacement getTranslationInformationReplacement() {
-        return translationInformationReplacement != null ? translationInformationReplacement : new NullTranslationInformationReplacement();
-    }
 }

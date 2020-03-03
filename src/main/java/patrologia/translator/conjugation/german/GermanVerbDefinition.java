@@ -1,6 +1,7 @@
 package patrologia.translator.conjugation.german;
 
 import patrologia.translator.basicelements.TranslationInformationReplacement;
+import patrologia.translator.basicelements.verb.TranslationInformationReplacement2;
 import patrologia.translator.conjugation.VerbDefinition;
 
 import java.util.Collections;
@@ -27,7 +28,7 @@ public class GermanVerbDefinition extends VerbDefinition {
         alternateRootByTime = nameForms.length == 4 ? createAlternateRoot(removeBrackets(nameForms[3])) : null;
         String translationDefinition = nameForms.length == 4 ? removeParenthesis(nameForms[3]) : null;
         if(translationDefinition != null && isNotARulePattern(translationDefinition)) {
-            translationInformationReplacement = new TranslationInformationReplacement(translationDefinition);
+            translationInformationReplacement = new TranslationInformationReplacement2(translationDefinition);
         }
         infinitiveForm = baseConjugationRoot + nameForms[1];
     }

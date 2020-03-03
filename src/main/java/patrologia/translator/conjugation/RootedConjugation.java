@@ -4,6 +4,7 @@ import patrologia.translator.basicelements.Accentuer;
 import patrologia.translator.basicelements.DummyAccentuer;
 import patrologia.translator.basicelements.verb.TranslationInformationReplacement2;
 import patrologia.translator.casenumbergenre.CaseNumberGenre;
+import patrologia.translator.casenumbergenre.NullCaseNumberGenre;
 import patrologia.translator.declension.Declension;
 
 import java.util.*;
@@ -14,28 +15,28 @@ public class RootedConjugation {
     private String constructionName;
     private boolean isParticipleRelatedToNounDeclension;
     private String declensionPattern;
-    private Declension declension;
+    private List<Declension> declensionList;
+    private Accentuer accentuer;
 
-    public RootedConjugation(String constructionName, String values, boolean isParticipleRelatedToNounDeclension, String declensionPattern, Declension declension) {
+    public RootedConjugation(String constructionName, String values, boolean isParticipleRelatedToNounDeclension, String declensionPattern, List<Declension> declensionList) {
         this.constructionName = constructionName;
         this.isParticipleRelatedToNounDeclension = isParticipleRelatedToNounDeclension;
         this.declensionPattern = declensionPattern;
-        this.declension = declension;
+        this.declensionList = declensionList;
+        this.accentuer = new DummyAccentuer();
         this.conjugationPartList = getConjugationPartList(values);
     }
 
     public RootedConjugation(String constructionName, String values, Accentuer accentuer) {
+        this.accentuer = accentuer;
         this.constructionName = constructionName;
         this.conjugationPartList = getConjugationPartList(values);
     }
 
-    public RootedConjugation(String constructionName, List<ConjugationPart2> conjugationPartList, Accentuer accentuer) {
+    public RootedConjugation(String constructionName, List<ConjugationPart2> conjugationPartList) {
         this.constructionName = constructionName;
         this.conjugationPartList = conjugationPartList;
-    }
-
-    public RootedConjugation(String time, String valuesAllInOne, boolean relatedTonoun, String conjugationName, List<Declension> declension, Accentuer accentuer) {
-        //TODO
+        this.accentuer = new DummyAccentuer();
     }
 
     public List<ConjugationPart2> getConjugationPartList(String conjugationValues) {
@@ -48,12 +49,14 @@ public class RootedConjugation {
     private List<ConjugationPart2> getNounRelatedConjugationPartList(String prefix) {
         if(conjugationPartList != null && conjugationPartList.size() > 0) return conjugationPartList;
         List<ConjugationPart2> conjugationPartList = new ArrayList<>();
-        Set<Map.Entry<CaseNumberGenre, String>> entries = declension.getAllEndings().entrySet();
-        for(Map.Entry entry : entries) {
-            CaseNumberGenre caseNumberGenre =  (CaseNumberGenre)entry.getKey();
-            String conjugationValue = (String)entry.getValue();
-            ConjugationPart2 conjugationPart = new ConjugationPart2(caseNumberGenre, prefix + conjugationValue, prefix + conjugationValue);
-            conjugationPartList.add(conjugationPart);
+        for(Declension declension : declensionList) {
+            Set<Map.Entry<CaseNumberGenre, String>> entries = declension.getAllEndings().entrySet();
+            for (Map.Entry entry : entries) {
+                CaseNumberGenre caseNumberGenre = (CaseNumberGenre) entry.getKey();
+                String conjugationValue = (String) entry.getValue();
+                ConjugationPart2 conjugationPart = new ConjugationPart2(caseNumberGenre, prefix + conjugationValue, prefix + conjugationValue);
+                conjugationPartList.add(conjugationPart);
+            }
         }
         return conjugationPartList;
     }
@@ -209,7 +212,10 @@ public class RootedConjugation {
 
 
     public CaseNumberGenre getElectedCaseNumber(String initialValue) {
-        return declension.getCaseNumberGenreByEndingValue(initialValue);
+        for(Declension declension : declensionList) {
+            return declension.getCaseNumberGenreByEndingValue(initialValue);
+        }
+        return new NullCaseNumberGenre();
     }
 
     public void updateValues(TranslationInformationReplacement2 translationInformationReplacement, String time) {
@@ -217,7 +223,8 @@ public class RootedConjugation {
     }
 
     public List<String> allFormsByTime() {
-        return null;
+        //TODO
+        return Collections.EMPTY_LIST;
     }
 
     public int getPositionForConstructionNumber(int i) {

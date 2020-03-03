@@ -3,6 +3,7 @@ package patrologia.translator.conjugation;
 import patrologia.translator.basicelements.Language;
 import patrologia.translator.basicelements.TranslationInformationReplacement;
 import patrologia.translator.basicelements.TranslationRules;
+import patrologia.translator.basicelements.verb.NullTranslationInformationReplacement2;
 import patrologia.translator.basicelements.verb.TranslationInformationReplacement2;
 
 import java.util.Map;
@@ -15,7 +16,7 @@ public abstract class VerbDefinition {
     protected Map<String,String> alternateRootByTime;
     protected String infinitiveForm;
 
-    protected TranslationInformationReplacement translationInformationReplacement;
+    protected TranslationInformationReplacement2 translationInformationReplacement;
     protected TranslationRules translationRules;
 
     public String getRoot() {
@@ -52,8 +53,8 @@ public abstract class VerbDefinition {
         return false;
     }
 
-    public TranslationInformationReplacement getTranslationInformationReplacement() {
-        return translationInformationReplacement != null ? translationInformationReplacement : new NullTranslationInformationReplacement();
+    public TranslationInformationReplacement2 getTranslationInformationReplacement() {
+        return translationInformationReplacement != null ? translationInformationReplacement : new NullTranslationInformationReplacement2();
     }
 
     protected String removeParenthesis(String definitionDescription) {
@@ -74,7 +75,7 @@ public abstract class VerbDefinition {
     }
 
     public TranslationInformationReplacement2 getTranslationInformationReplacement2() {
-        return null;
+        return translationInformationReplacement;
     }
 
     public boolean hasTranslationRules() {

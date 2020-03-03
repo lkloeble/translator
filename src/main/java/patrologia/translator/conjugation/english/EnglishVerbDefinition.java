@@ -1,6 +1,7 @@
 package patrologia.translator.conjugation.english;
 
 import patrologia.translator.basicelements.TranslationInformationReplacement;
+import patrologia.translator.basicelements.verb.TranslationInformationReplacement2;
 import patrologia.translator.conjugation.VerbDefinition;
 
 import java.util.Collections;
@@ -27,7 +28,7 @@ public class EnglishVerbDefinition extends VerbDefinition {
         alternateRootByTime = nameForms.length == 4 ? createAlternateRoot(removeBrackets(nameForms[3])) : null;
         String translationDefinition = nameForms.length == 3 ? removeParenthesis(nameForms[2]) : null;
         if(translationDefinition != null && isNotARulePattern(translationDefinition)) {
-            translationInformationReplacement = new TranslationInformationReplacement(translationDefinition);
+            translationInformationReplacement = new TranslationInformationReplacement2(translationDefinition);
         }
         infinitiveForm = "to " + baseConjugationRoot;
     }

@@ -97,11 +97,11 @@ public class VerbRepository2 {
         String[] formParts = form.split("=");
         String time = cleanBrackets(formParts[0]);
         String value = cleanBrackets(formParts[1]);
-        RootedConjugation rootedConjugation = new RootedConjugation(time, value,new DummyAccentuer());
+        RootedConjugation rootedConjugation = new RootedConjugation(time, value, accentuer);
         List<ConjugationPart2> conjugationPartList = rootedConjugation.getConjugationPartList(value);
         conjugationPartList.stream().forEach(conjugation -> conjugationMap.put(conjugation.getValue(), verbDefinition.getRoot()));
         conjugationPartList.stream().forEach(conjugation -> conjugationMap.put(accentuer.unaccentued(conjugation.getValue()), verbDefinition.getRoot()));
-        rootedConjugationMap.put(verbDefinition.getRoot() + "@" + verbDefinition.getName(), new RootedConjugation(verbDefinition.getName(), verbDefinition.getConjugations(),accentuer));
+        rootedConjugationMap.put(verbDefinition.getRoot() + "@" + verbDefinition.getName(), new RootedConjugation(verbDefinition.getName(), verbDefinition.getConjugations(), accentuer));
         translationBeansMap.addConjugationForGlobalKey(verbDefinition.getRoot(), verbDefinition.getName());
 
     }
@@ -127,13 +127,13 @@ public class VerbRepository2 {
     private void addAllConjugationAndRoot(String time, Conjugation2 conjugation, String baseConjugationRoot, VerbDefinition verbDefinition) {
         String valuesAllInOne = conjugation.getRootWithEveryEndingsByTime(baseConjugationRoot, time);
         translationBeansMap.addConjugationForGlobalKey(verbDefinition.getRoot(), time);
-        RootedConjugation rootedConjugation = new RootedConjugation(time, valuesAllInOne, conjugation.isRelatedTonoun(time), conjugation.getConjugationName(), conjugation.getDeclension(time),accentuer);
+        RootedConjugation rootedConjugation = new RootedConjugation(time, valuesAllInOne, conjugation.isRelatedTonoun(time), conjugation.getConjugationName(), conjugation.getDeclension(time));
         TranslationInformationReplacement2 translationInformationReplacement = verbDefinition.getTranslationInformationReplacement2();
         rootedConjugation.updateValues(translationInformationReplacement, time);
         if(verbDefinition.hasTranslationRules() && verbDefinition.getTranslationRules().hasTransformationForThisTime(time)) {
             TranslationRules translationRules = verbDefinition.getTranslationRules();
             List<ConjugationPart2> transformedConjugationPartList = translationRules.transform(rootedConjugation.getPartLists(),time);
-            rootedConjugation = new RootedConjugation(time, transformedConjugationPartList,accentuer);
+            rootedConjugation = new RootedConjugation(time, transformedConjugationPartList);
         }
         storeAllConjugations(rootedConjugation,translationInformationReplacement,time,verbDefinition);
         Verb verb = new Verb(verbDefinition.getRoot(), this, language);

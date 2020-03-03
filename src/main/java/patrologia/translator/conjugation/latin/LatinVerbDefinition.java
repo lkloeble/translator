@@ -1,6 +1,7 @@
 package patrologia.translator.conjugation.latin;
 
 import patrologia.translator.basicelements.TranslationInformationReplacement;
+import patrologia.translator.basicelements.verb.TranslationInformationReplacement2;
 import patrologia.translator.conjugation.VerbDefinition;
 
 public class LatinVerbDefinition  extends VerbDefinition {
@@ -22,7 +23,7 @@ public class LatinVerbDefinition  extends VerbDefinition {
         conjugationPattern = removeBrackets(nameForms[6]);
         String translationDefinition = nameForms.length == 8 ? removeParenthesis(nameForms[7]) : null;
         if(translationDefinition != null && isNotARulePattern(translationDefinition)) {
-            translationInformationReplacement = new TranslationInformationReplacement(translationDefinition);
+            translationInformationReplacement = new TranslationInformationReplacement2(translationDefinition);
         }
         infinitiveForm = baseConjugationRoot + nameForms[3];
     }

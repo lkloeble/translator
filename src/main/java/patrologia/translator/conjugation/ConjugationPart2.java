@@ -6,6 +6,8 @@ public class ConjugationPart2 {
 
     private ConjugationPosition conjugationPosition;
     private String value;
+    private String unaccentuedValue;
+    private int indice;
 
     public ConjugationPart2(ConjugationPosition conjugationPosition, String value) {
         this.conjugationPosition = conjugationPosition;
@@ -16,8 +18,11 @@ public class ConjugationPart2 {
         //TODO
     }
 
-    public ConjugationPart2(ConjugationPosition valueByPosition, String value, String value1, int i) {
-        //TODO
+    public ConjugationPart2(ConjugationPosition conjugationPosition, String value, String unaccentuedValue, int indice) {
+        this.conjugationPosition = conjugationPosition;
+        this.value=value;
+        this.unaccentuedValue = unaccentuedValue;
+        this.indice = indice;
     }
 
     public String getValue() {
@@ -36,17 +41,15 @@ public class ConjugationPart2 {
 
     public Integer getIndice() {
         //TODO
-        return 0;
+        return conjugationPosition.getIndice();
     }
 
     public String getUnaccentuedValue() {
-        //TODO
-        return null;
+        return unaccentuedValue;
     }
 
     public boolean contains(String toTranslate) {
-        //TODO
-        return false;
+        return toTranslate.equals(value) || toTranslate.equals(unaccentuedValue);
     }
 
     public ConjugationPosition getConjugationPosition() {
@@ -54,6 +57,7 @@ public class ConjugationPart2 {
     }
 
     public void updateValue(String target, String replacement) {
+        System.out.println("stop");
         //TODO
     }
 

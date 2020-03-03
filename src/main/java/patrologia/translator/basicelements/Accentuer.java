@@ -33,6 +33,6 @@ public class Accentuer {
 
     public String cleanAll(String initialValue) {
         //TODO
-        return null;
+        return unaccentued(initialValue);
     }
 }

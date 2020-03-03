@@ -302,7 +302,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
 
     @Test
     public void test_assimil_chapter10() {
-        checkInMaps("assimil10A", translatorBridge);
+        checkInMaps("", translatorBridge);
         checkInMaps("assimil10B", translatorBridge);
         checkInMaps("assimil10C", translatorBridge);
         checkInMaps("assimil10D", translatorBridge);
@@ -1125,7 +1125,8 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("patericulegyptantonia5G", translatorBridge);
         checkInMaps("patericulegyptantonia5H", translatorBridge);
     }
-        @Test
+
+    @Test
     public void test_failedones() {
         assertTrue(true);
         checkInMaps("toto", translatorBridge);

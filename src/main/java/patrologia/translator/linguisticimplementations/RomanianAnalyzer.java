@@ -77,7 +77,7 @@ public class RomanianAnalyzer implements Analyzer {
         return stringBuilder.toString();
     }
 
-    private patrologia.translator.basicelements.Phrase identifyFemininePastParticipe(patrologia.translator.basicelements.Phrase phrase) {
+    private Phrase identifyFemininePastParticipe(Phrase phrase) {
         Set<Integer> indices = phrase.keySet();
         for(Integer indice : indices) {
             patrologia.translator.basicelements.Word unknowYet = phrase.getYetUnknownWordAtPosition(indice);
