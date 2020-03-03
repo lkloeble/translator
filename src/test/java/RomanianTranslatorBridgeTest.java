@@ -116,12 +116,10 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     }
 
     private List<String> getVerbs(String verbFileDescription) {
-        /*
         return Arrays.asList(new String[]{
-                "plac,,[merg],(PAP*plac*placut)"
+                "acoper,,[suferi],(PAP*acoper*acoperit)"
         });
-        */
-        return getFileContentForRepository(verbFileDescription);
+        //return getFileContentForRepository(verbFileDescription);
     }
 
     private List<String> getFrenchVerbs(String frenchVerbFileDescription) {

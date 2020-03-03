@@ -14,8 +14,11 @@ public class ConjugationPart2 {
         this.value=value;
     }
 
-    public ConjugationPart2(CaseNumberGenre caseNumberGenre, String s, String s1) {
-        //TODO
+    public ConjugationPart2(CaseNumberGenre caseNumberGenre, String value, String unaccentuedValue) {
+        this.conjugationPosition = ConjugationPosition.SINGULAR_FIRST_PERSON;
+        this.value=value;
+        this.unaccentuedValue = unaccentuedValue;
+        this.indice = 0;
     }
 
     public ConjugationPart2(ConjugationPosition conjugationPosition, String value, String unaccentuedValue, int indice) {
@@ -57,12 +60,22 @@ public class ConjugationPart2 {
     }
 
     public void updateValue(String target, String replacement) {
-        System.out.println("stop");
-        //TODO
+        this.value = value.replace(target,replacement);
+        this.unaccentuedValue = unaccentuedValue.replace(target,replacement);
     }
 
     public Integer getPositionInDefinition() {
         //TODO
         return 0;
+    }
+
+    @Override
+    public String toString() {
+        return "ConjugationPart2{" +
+                "conjugationPosition=" + conjugationPosition +
+                ", value='" + value + '\'' +
+                ", unaccentuedValue='" + unaccentuedValue + '\'' +
+                ", indice=" + indice +
+                '}';
     }
 }

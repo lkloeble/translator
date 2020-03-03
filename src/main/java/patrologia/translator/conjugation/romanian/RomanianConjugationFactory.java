@@ -14,10 +14,12 @@ public class RomanianConjugationFactory extends ConjugationFactory {
 
     private Map<String, List<String>> conjugationsDefinitionsList;
     private NounRepository nounRepository;
+    private DeclensionFactory declensionFactory;
 
     public RomanianConjugationFactory(List<String> conjugationDefinitions, Map<String, List<String>> conjugationsDefinitionsList, DeclensionFactory declensionFactory) {
         conjugations = new HashMap<>();
         this.conjugationsDefinitionsList = conjugationsDefinitionsList;
+        this.declensionFactory = declensionFactory;
         this.nounRepository = nounRepository;
         populateConjugationMap(conjugationDefinitions);
     }
@@ -25,10 +27,11 @@ public class RomanianConjugationFactory extends ConjugationFactory {
     @Override
     public Conjugation2 getConjugationByPattern(VerbDefinition verbDefinition) {
         String conjugationPattern = verbDefinition.getConjugationPattern();
-        if(conjugationPattern == null) {
+        if (conjugationPattern == null) {
             return new NullRomanianConjugation2();
         }
-        return new RomanianConjugation2(conjugationsDefinitionsList.get(conjugationPattern), verbDefinition, nounRepository);
+        return new RomanianConjugation2(conjugationPattern, conjugationsDefinitionsList.get(conjugationPattern), declensionFactory);
+        //return new RomanianConjugation2(conjugationsDefinitionsList.get(conjugationPattern), verbDefinition, nounRepository);
     }
 
     @Override

@@ -219,12 +219,20 @@ public class RootedConjugation {
     }
 
     public void updateValues(TranslationInformationReplacement2 translationInformationReplacement, String time) {
-        //TODO
+        if(!constructionName.equals(time)) return;
+        if(!translationInformationReplacement.hasReplacementForTime(time)) return;
+        for(ConjugationPart2 conjugationPart : conjugationPartList) {
+            conjugationPart.updateValue(conjugationPart.getValue(),translationInformationReplacement.replace(time, conjugationPart));
+        }
     }
 
     public List<String> allFormsByTime() {
-        //TODO
-        return Collections.EMPTY_LIST;
+        Set<String> allForms = new HashSet<>();
+        for(ConjugationPart2 conjugationPart : conjugationPartList) {
+            allForms.add(conjugationPart.getValue());
+            allForms.add(conjugationPart.getUnaccentuedValue());
+        }
+        return new ArrayList<>(allForms);
     }
 
     public int getPositionForConstructionNumber(int i) {

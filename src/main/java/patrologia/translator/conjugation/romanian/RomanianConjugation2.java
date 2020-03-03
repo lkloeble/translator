@@ -18,6 +18,7 @@ public class RomanianConjugation2 extends Conjugation2 {
 
 
     public RomanianConjugation2(List<String> strings, VerbDefinition verbDefinition, NounRepository nounRepository) {
+        System.out.println("toto");
         //TODO
     }
 }
