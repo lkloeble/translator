@@ -168,7 +168,7 @@ isc,a,[cauta],(PAP*isc*iscat)
 istoris,,[locuiesc],(PAP*istoris*istorisit)
 iub,,[aciti]
 izbut,i,[aciti],(PAP*izbut*izbutit)
-las,a,[cauta]
+las,a,[cauta],(PAP*las*lasat)
 lepad,,[incerca],(IPR25*lepad*leapad@IPR1*lepad*lepez@PAP*lepad*lepadat)
 locu,,[locuiesc]
 lua@IRREGULAR%[IPR]=[iau,iei,ia,luam,luatsi,iau]%[PAP]=[luat]%[PAPR]=[luand]%[INFINITIVE]=[lua]

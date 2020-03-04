@@ -53,7 +53,7 @@ public abstract class VerbDefinition {
         return false;
     }
 
-    public TranslationInformationReplacement2 getTranslationInformationReplacement() {
+    public TranslationInformationReplacement2 getTranslationInformationReplacement2() {
         return translationInformationReplacement != null ? translationInformationReplacement : new NullTranslationInformationReplacement2();
     }
 
@@ -72,10 +72,6 @@ public abstract class VerbDefinition {
 
     public String getBaseConjugationRoot() {
         return baseConjugationRoot;
-    }
-
-    public TranslationInformationReplacement2 getTranslationInformationReplacement2() {
-        return translationInformationReplacement;
     }
 
     public boolean hasTranslationRules() {

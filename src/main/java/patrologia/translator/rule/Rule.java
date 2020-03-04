@@ -15,6 +15,8 @@ public abstract class Rule implements Comparable {
 
     protected Language language;
 
+    protected Integer precedenceOrder = 0;
+
     public abstract void apply(Word word, Phrase phrase, int position);
 
     protected boolean checkByGender(Gender genre, Word nextWord, Case _case) {
@@ -35,6 +37,7 @@ public abstract class Rule implements Comparable {
     @Override
     public int compareTo(Object o) {
         Rule otherRule = (Rule)o;
+        if(otherRule.precedenceOrder != this.precedenceOrder) return precedenceOrder.compareTo(otherRule.precedenceOrder);
         return this.getClass().toString().compareTo(otherRule.getClass().toString());
     }
 

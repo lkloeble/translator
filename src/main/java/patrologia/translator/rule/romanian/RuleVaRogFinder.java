@@ -2,7 +2,7 @@ package patrologia.translator.rule.romanian;
 
 public class RuleVaRogFinder extends RulePrepAndWordToAssemble {
 
-    public RuleVaRogFinder() {
-        super("va", "rog", "varog");
+    public RuleVaRogFinder(int precedenceOrder) {
+        super("va", "rog", "varog", precedenceOrder);
     }
 }

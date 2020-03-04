@@ -116,10 +116,12 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     }
 
     private List<String> getVerbs(String verbFileDescription) {
+        /*
         return Arrays.asList(new String[]{
                 "acoper,,[suferi],(PAP*acoper*acoperit)"
         });
-        //return getFileContentForRepository(verbFileDescription);
+        */
+        return getFileContentForRepository(verbFileDescription);
     }
 
     private List<String> getFrenchVerbs(String frenchVerbFileDescription) {
@@ -300,7 +302,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
 
     @Test
     public void test_assimil_chapter10() {
-        checkInMaps("", translatorBridge);
+        checkInMaps("assimil10A", translatorBridge);
         checkInMaps("assimil10B", translatorBridge);
         checkInMaps("assimil10C", translatorBridge);
         checkInMaps("assimil10D", translatorBridge);

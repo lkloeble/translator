@@ -266,7 +266,7 @@ public class Phrase {
     public Phrase getSubPhraseFrom(int startPoint) {
         Phrase subPhrase = new Phrase(size()-startPoint, language);
         int subIndice = 0;
-        for(int indice = startPoint;indice<size();indice++) {
+        for(int indice = startPoint;indice<=size();indice++) {
             subPhrase.addWordContainerAtPosition(subIndice++, getWordContainerAtPosition(indice),subPhrase);
         }
         return subPhrase;

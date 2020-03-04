@@ -12,10 +12,11 @@ public class RulePrepAndWordToAssemble extends Rule {
     protected String followingNounValue;
     protected String resultToSubstitue;
 
-    public RulePrepAndWordToAssemble(String leadingPrepositionValue, String followingNounValue, String resultToSubstitue) {
+    public RulePrepAndWordToAssemble(String leadingPrepositionValue, String followingNounValue, String resultToSubstitue, int precedenceOrder) {
         this.leadingPrepositionValue = leadingPrepositionValue;
         this.followingNounValue = followingNounValue;
         this.resultToSubstitue = resultToSubstitue;
+        this.precedenceOrder = precedenceOrder;
     }
 
     @Override

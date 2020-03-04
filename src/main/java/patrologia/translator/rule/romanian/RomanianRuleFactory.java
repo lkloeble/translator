@@ -24,7 +24,7 @@ public class RomanianRuleFactory  extends RuleFactory {
         } else if("electAsVreaFinder".equals(ruleName)) {
             return new RuleAsVreaFinder();
         } else if("varogFinder".equals(ruleName)) {
-            return new RuleVaRogFinder();
+            return new RuleVaRogFinder(100);
         } else if("terogFinder".equals(ruleName)) {
             return new RuleTeRogFinder();
         } else if("dinpacateFinder".equals(ruleName)) {
@@ -60,7 +60,7 @@ public class RomanianRuleFactory  extends RuleFactory {
         }  else if("recomposeArVerb".equals(ruleName)) {
             return new RuleComposeArVerb();
         } else if("recomposeVaVerb".equals(ruleName)) {
-            return new RuleComposeVaVerb();
+            return new RuleComposeVaVerb(101);
         } else if("electGenitiveForFollowingNoun".equals(ruleName)) {
             return new RuleElectGenitiveForFollowingNoun();
         } else if("aSeInfinitiveHandler".equals(ruleName)) {
