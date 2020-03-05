@@ -61,6 +61,7 @@ public class RomanianAnalyzer implements Analyzer {
         replace = replace.replace("v_atsi","avetsi");
         replace = replace.replace(" atsi"," avetsi");
         replace = replace.replace("intr_adev[a]r","intradevar");
+        replace = replace.replace("v[a] rog","varog");
         return replace.replace("ce tsi","cetsiexpr");
     }
 

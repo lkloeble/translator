@@ -260,7 +260,7 @@ tsie@prep()
 tuturor@prep()
 unde@prep()
 unora@prep(gen)
-va@prep()%[varogFinder,recomposeVaVerb]
+va@prep()%[recomposeVaVerb]
 vei@prep()%[recomposeVaVerb]
 varog@prep()
 veci@prep()

@@ -1,5 +1,5 @@
 IPR=>n,i,ne,nem,netsi,n
-AIF=>nva,iva,neva,nemva,netsiva,nva
+AIF=>nevoi,nevei,neva,nevom,nevetsi,nevor
 AIFINF=>neava
 PAP=>s
 PAPR=>nand

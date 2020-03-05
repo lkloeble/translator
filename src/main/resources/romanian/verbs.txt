@@ -320,7 +320,7 @@ vin@IRREGULAR%[IPR]=[vin,vii,vine,venim,venitsi,vin]%[AII]=[veneam,veneai,venea,
 vindec,a,[incerca]
 voi,,[aciti],(PAP*voi*voit)
 vorb,i,[aciti],(PAP*vorb*vorbit)
-vr,,[vrea],(AIF*vr*v)
+vr,ea,[vrea],(AIF*vr*v)
 zar,,[aciti],(AII*zar*zare)
 zbor,,[incerca],(PAPR*zbor*zbur@AII*zbor*zbur)
 zic,,[merg],(AIP*zic*zis@AII*zic*zice@PAP*zic*zis)

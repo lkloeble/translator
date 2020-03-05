@@ -23,8 +23,6 @@ public class RomanianRuleFactory  extends RuleFactory {
             return new RuleOArticleFinder();
         } else if("electAsVreaFinder".equals(ruleName)) {
             return new RuleAsVreaFinder();
-        } else if("varogFinder".equals(ruleName)) {
-            return new RuleVaRogFinder(100);
         } else if("terogFinder".equals(ruleName)) {
             return new RuleTeRogFinder();
         } else if("dinpacateFinder".equals(ruleName)) {

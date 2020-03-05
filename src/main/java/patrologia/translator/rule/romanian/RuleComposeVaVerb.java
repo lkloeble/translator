@@ -12,7 +12,7 @@ public class RuleComposeVaVerb extends Rule {
 
     public void apply(Word word, Phrase phrase, int position) {
         Word followingWord = phrase.getWordContainerAtPosition(position+1).getUniqueWord();
-        if(!word.isPreposition() && followingWord.isVerb()) {
+        if(followingWord.isVerb()) {
             followingWord.setInitialValue(followingWord.getInitialValue() + "va");
             word.setInitialValue("xxtoremovexx");
         }
