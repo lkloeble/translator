@@ -15,11 +15,12 @@ public class EnglishConjugationFactory extends ConjugationFactory {
 
     private Map<String, List<String>> conjugationsDefinitionsList;
     private NounRepository nounRepository;
+    private DeclensionFactory declensionFactory;
 
     public EnglishConjugationFactory(List<String> conjugationDefinitions, Map<String, List<String>> conjugationsDefinitionsList, DeclensionFactory declensionFactory) {
         conjugations = new HashMap<>();
         this.conjugationsDefinitionsList = conjugationsDefinitionsList;
-        this.nounRepository = nounRepository;
+        this.declensionFactory = declensionFactory;
         populateConjugationMap(conjugationDefinitions);
     }
 
@@ -30,7 +31,7 @@ public class EnglishConjugationFactory extends ConjugationFactory {
             return new NullEnglishConjugation2();
         }
         //return new EnglishConjugation2(conjugationsDefinitionsList.get(conjugationPattern), verbDefinition, nounRepository);
-        return new EnglishConjugation2(null,null,null);
+        return new EnglishConjugation2(conjugationPattern, conjugationsDefinitionsList.get(conjugationPattern), declensionFactory);
     }
 
     @Override

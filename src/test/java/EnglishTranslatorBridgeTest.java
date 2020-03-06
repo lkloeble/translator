@@ -8,6 +8,7 @@ import patrologia.translator.basicelements.verb.VerbRepository2;
 import patrologia.translator.casenumbergenre.english.EnglishCaseFactory;
 import patrologia.translator.conjugation.english.EnglishConjugationFactory;
 import patrologia.translator.declension.Declension;
+import patrologia.translator.declension.english.EnglishDeclension;
 import patrologia.translator.declension.english.EnglishDeclensionFactory;
 import patrologia.translator.linguisticimplementations.EnglishAnalyzer;
 import patrologia.translator.linguisticimplementations.FrenchTranslator;
@@ -92,7 +93,7 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
         for (String declensionName : declensionNameList) {
             String parts[] = declensionName.split("%");
             String fileName = parts[1];
-            //declensionList.add(new EnglishDeclension(fileName, getDeclensionElements(fileName, directory)));
+            declensionList.add(new EnglishDeclension(fileName, getDeclensionElements(fileName, directory)));
         }
         return declensionList;
     }
@@ -131,15 +132,6 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
         });
         */
         return getFileContentForRepository(verbFileDescription);
-    }
-
-    private List<String> getLiveDefinition() {
-
-        return Arrays.asList(new String[]{
-                "IPR=>,,s,,, ,",
-                "PAPR=>ing"
-        });
-
     }
 
     @Test
