@@ -6,7 +6,46 @@ import patrologia.translator.declension.NullDeclension;
 
 import java.util.*;
 
+/**
+ * IPR = active indicative present
+ * SPA = active subjonctive perfect
+ * ASP = active subjonctive present
+ * AIP = active indicative perfect
+ * AII = active indicative imperfect
+ * MPII = middle/passive indicative imperfect
+ * PSP = passive subjonctive present
+ * PSI = passive subjonctive  imperfect
+ * PII = passive indicative imperfect
+ * AIF = active indicative future
+ * PAP = participe passé TODO : à changer
+ * AIMP = active imperative present
+ * PIP = passive indicative present
+ * ASI = active subjonctive imparfait
+ * PIF = passive indicative future
+ * AIFP = active indicative future perfect
+ * INFINITIVE = infinitive
+ * PAPR = participe présent
+ * PASUPR = passive subjonctif present
+ * AIPP = active indicative pluperfect
+ * IAPP = infinitive active passive  present
+ * ACP = active conditional present
+ * IAP = infinitive active perfect
+ * VENO = verbal nouns
+ * PEACIN => Perfect Active Indicative
+ * PRPARPASS => Present Participle Middle/Passive
+ * PASANT => passé antérieur
+ * ASPP => Active Subjonctive PluPerfect
+ * PEACIN => PErfect ACtive INfinitive
+ * INACPAS => INFINITIVE ACTIVE PASSIVE
+ */
+
+
 public abstract class Conjugation2 {
+
+    public static final String ACTIVE_IMPERATIVE_PRESENT = "AIMP";
+    public static final String ACTIVE_INDICATIVE_PRESENT = "IPR";
+    public static final String INFINITIVE = "INFINITIVE";
+    public static final String PAST_PARTICIPE = "PAP";
 
     protected String conjugationName;
     protected Map<String,Boolean> relatedToNounMap = new HashMap<>();

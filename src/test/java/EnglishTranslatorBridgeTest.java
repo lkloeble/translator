@@ -6,10 +6,15 @@ import patrologia.translator.basicelements.noun.NounRepository;
 import patrologia.translator.basicelements.preposition.PrepositionRepository;
 import patrologia.translator.basicelements.verb.VerbRepository2;
 import patrologia.translator.casenumbergenre.english.EnglishCaseFactory;
+import patrologia.translator.conjugation.english.EnglishConjugationFactory;
 import patrologia.translator.declension.Declension;
+import patrologia.translator.declension.english.EnglishDeclensionFactory;
+import patrologia.translator.linguisticimplementations.EnglishAnalyzer;
 import patrologia.translator.linguisticimplementations.FrenchTranslator;
 import patrologia.translator.linguisticimplementations.Translator;
 import patrologia.translator.basicelements.Language;
+import patrologia.translator.rule.english.EnglishRuleFactory;
+import patrologia.translator.utils.Analyzer;
 
 
 import java.util.*;
@@ -23,9 +28,9 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
 
     private TranslatorBridge translatorBridge;
 
-    private String localTestPath = "C:\\Users\\kloeblel\\IdeaProjects\\translator\\src\\test\\resources\\";
-    private String localResourcesPath = "C:\\Users\\kloeblel\\IdeaProjects\\translator\\src\\main\\resources\\english\\";
-    private String localCommonPath = "C:\\Users\\kloeblel\\IdeaProjects\\translator\\src\\main\\resources\\";
+    private String localTestPath = "C:\\Users\\kloeble.l\\IdeaProjects\\translator\\src\\test\\resources\\";
+    private String localResourcesPath = "C:\\Users\\kloeble.l\\IdeaProjects\\translator\\src\\main\\resources\\english\\";
+    private String localCommonPath = "C:\\Users\\kloeble.l\\IdeaProjects\\translator\\src\\main\\resources\\";
 
     @Before
     public void init() {
@@ -40,19 +45,16 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
         String conjugationsAndFiles = localResourcesPath + "conjugationsAndFiles.txt";
         String englishPathFile = localTestPath + "english_content.txt";
         String englishResultFile = localTestPath + "english_expected_results.txt";
-        /*
         EnglishDeclensionFactory englishDeclensionFactory = new EnglishDeclensionFactory(getDeclensions(declensionsAndFiles), getDeclensionList(declensionsAndFiles, declensionPath));
         NounRepository nounRepository = new NounRepository(Language.ENGLISH, englishDeclensionFactory, new DummyAccentuer(), getNouns(nounFileDescription));
         VerbRepository2 verbRepository = new VerbRepository2(new EnglishConjugationFactory(getEnglishConjugations(conjugationsAndFiles), getEnglishConjugationDefinitions(conjugationsAndFiles, conjugationPath), englishDeclensionFactory), Language.ENGLISH, new DummyAccentuer(), getVerbs(verbFileDescription));
         EnglishRuleFactory ruleFactory = new EnglishRuleFactory();
-        PrepositionRepository prepositionRepository = new PrepositionRepository(Language.ENGLISH, new EnglishCaseFactory(), ruleFactory, getPrepositions(prepositionFileDescription),new DummyAccentuer());
-        Analizer englishAnalyzer = new EnglishAnalyzer(prepositionRepository, nounRepository, verbRepository);
+        PrepositionRepository prepositionRepository = new PrepositionRepository(Language.ENGLISH, new EnglishCaseFactory(), ruleFactory, getPrepositions(prepositionFileDescription));
+        Analyzer englishAnalyzer = new EnglishAnalyzer(prepositionRepository, nounRepository, verbRepository);
         Translator frenchTranslator = new FrenchTranslator(getDictionaryData(englishFrenchDataFile), getFileContentForRepository(frenchVerbsDataFile), verbRepository, nounRepository, declensionPath, declensionsAndFiles, englishDeclensionFactory);
         translatorBridge = new TranslatorBridge(englishAnalyzer, frenchTranslator);
         mapValuesForTest = loadMapFromFiles(englishPathFile);
         mapValuesForResult = loadMapFromFiles(englishResultFile);
-
-         */
     }
 
     private List<String> getNouns(String nounFileDescription) {

@@ -1508,6 +1508,7 @@ un@adj!adj%1(adj)=un
 uni@verb!norm%1(verb)=unir
 unchi@noun!ul%1(noun)=oncle
 unde@prep%1(prep)=où
+underscoreexpr@prep%1(prep)=-
 unic@adj!adj%1(adj)=unique
 unir@noun!berea%1(noun)=union
 unitat@noun!berea%1(noun)=unité

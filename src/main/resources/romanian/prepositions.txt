@@ -259,6 +259,7 @@ tsi@prep()
 tsie@prep()
 tuturor@prep()
 unde@prep()
+underscoreexpr@prep()
 unora@prep(gen)
 va@prep()%[recomposeVaVerb]
 vei@prep()%[recomposeVaVerb]

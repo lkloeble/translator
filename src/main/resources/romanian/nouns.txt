@@ -765,7 +765,6 @@ revelatsi@fem%femi
 revist@fem%fem
 rezemat@adj%adj
 rezumat@masc%ul
-ridicat@adj%adj
 risc@masc%locul
 roat@fem%fem[nomplr(a):roate,nomplr(b):rotsi,nomplr(c):roatele,nomplr(d):rotsile]
 rod@masc%ul[nomplr(a):roadele]
