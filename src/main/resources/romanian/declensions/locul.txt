@@ -4,4 +4,5 @@ nomc%sing%masc%u
 gen%sing%masc%ului
 noma%plr%masc%uri
 nomb%plr%masc%urile
-nomc%plr%masc%urilor
+nomc%plr%masc%arile
+gen%plr%masc%urilor

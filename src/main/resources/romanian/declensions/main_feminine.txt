@@ -1,9 +1,11 @@
 noma%sing%fem%
 nomb%sing%fem%a
 gena%sing%fem%ei
+genb%sing%fem%ii
 data%sing%fem%ei
 noma%plr%fem%e
 nomb%plr%fem%ele
 nomc%plr%fem%ile
 nomd%plr%fem%irii
-gen%plr%fem%elor
+gena%plr%fem%elor
+genb%plr%fem%ilor

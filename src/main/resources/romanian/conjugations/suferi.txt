@@ -1,2 +1,3 @@
 IPR=>,i,a,im,itsi,a
+AII=>am,ai,a,am,atsi,au
 PAP=>[adj]

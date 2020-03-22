@@ -81,7 +81,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getNouns(String nounFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "batran@adj%adj"
+                "ploa@fem%conceptie[nomplr(a):ploile]"
         });
         */
         return getFileContentForRepository(nounFileDescription);

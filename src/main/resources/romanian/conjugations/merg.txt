@@ -8,3 +8,4 @@ AII=>am,ai,a,am,atsi,au
 MMCP=>esem,esesi,ese,eseram,eseratsi,esera
 PAPR=>ind|indu|and|andu
 ASP=>,i,a,em,etsi,a
+CONJ=>,i,a,em,etsi,a

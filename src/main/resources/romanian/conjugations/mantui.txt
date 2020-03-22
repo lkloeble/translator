@@ -5,3 +5,4 @@ AIP=>ii,isi,i,iram,iratsi,ira
 AIF=>ivoi,ivei,iva,ivom,ivetsi,ivor
 AIFINF=>va
 PAPR=>ind|indu
+MMCP=>em,esi,e,eram,eratsi,era

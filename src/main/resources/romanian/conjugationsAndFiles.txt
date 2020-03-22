@@ -43,3 +43,4 @@ hrani%hrani.txt
 invalui%invalui.txt
 cobor%cobor.txt
 indoi%indoi.txt
+bantui%bantui.txt
