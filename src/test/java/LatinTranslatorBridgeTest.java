@@ -6,9 +6,16 @@ import patrologia.translator.basicelements.noun.NounRepository;
 import patrologia.translator.basicelements.preposition.PrepositionRepository;
 import patrologia.translator.basicelements.verb.VerbRepository2;
 import patrologia.translator.casenumbergenre.latin.LatinCaseFactory;
+import patrologia.translator.conjugation.latin.LatinConjugationFactory;
 import patrologia.translator.declension.Declension;
+import patrologia.translator.declension.latin.LatinDeclension;
+import patrologia.translator.declension.latin.LatinDeclensionFactory;
+import patrologia.translator.declension.romanian.RomanianDeclension;
 import patrologia.translator.linguisticimplementations.FrenchTranslator;
+import patrologia.translator.linguisticimplementations.LatinAnalyzer;
 import patrologia.translator.linguisticimplementations.Translator;
+import patrologia.translator.rule.latin.LatinRuleFactory;
+import patrologia.translator.utils.Analyzer;
 
 import java.util.*;
 
@@ -19,9 +26,9 @@ public class LatinTranslatorBridgeTest extends TranslatorBridgeTest {
 
     protected TranslatorBridge translatorBridge;
 
-    private String localTestPath="C:\\Users\\kloeblel\\IdeaProjects\\translator\\src\\test\\resources\\";
-    private String localResourcesPath="C:\\Users\\kloeblel\\IdeaProjects\\translator\\src\\main\\resources\\latin\\";
-    private String localCommonPath="C:\\Users\\kloeblel\\IdeaProjects\\translator\\src\\main\\resources\\";
+    private String localTestPath="C:\\Users\\kloeble.l\\IdeaProjects\\translator\\src\\test\\resources\\";
+    private String localResourcesPath="C:\\Users\\kloeble.l\\IdeaProjects\\translator\\src\\main\\resources\\latin\\";
+    private String localCommonPath="C:\\Users\\kloeble.l\\IdeaProjects\\translator\\src\\main\\resources\\";
 
     @Before
     public void init() {
@@ -36,19 +43,16 @@ public class LatinTranslatorBridgeTest extends TranslatorBridgeTest {
         String conjugationsAndFiles = localResourcesPath + "conjugationsAndFiles.txt";
         String latinPathFile = localTestPath + "latin_content.txt";
         String latinResultFile = localTestPath + "latin_expected_result.txt";
-        /*
         LatinDeclensionFactory latinDeclensionFactory = new LatinDeclensionFactory(getDeclensions(declensionsAndFiles), getDeclensionList(declensionsAndFiles, declensionLatinFiles));
         LatinRuleFactory ruleFactory = new LatinRuleFactory();
-        PrepositionRepository prepositionRepository = new PrepositionRepository(Language.LATIN, new LatinCaseFactory(), ruleFactory, getFileContentForRepository(prepositionFileDescription),new DummyAccentuer());
+        PrepositionRepository prepositionRepository = new PrepositionRepository(Language.LATIN, new LatinCaseFactory(), ruleFactory, getFileContentForRepository(prepositionFileDescription));
         NounRepository nounRepository = new NounRepository(Language.LATIN, latinDeclensionFactory, new DummyAccentuer(),getNouns(nounFileDescription));
         VerbRepository2 verbRepository = new VerbRepository2(new LatinConjugationFactory(getLatinConjugations(conjugationsAndFiles), getLatinConjugationDefinitions(conjugationsAndFiles, conjugationLatinFiles),latinDeclensionFactory), Language.LATIN, new DummyAccentuer(),getVerbs(verbFileDescription));
-        Analizer latinAnalyzer = new LatinAnalyzer(prepositionRepository, nounRepository, verbRepository);
+        Analyzer latinAnalyzer = new LatinAnalyzer(prepositionRepository, nounRepository, verbRepository);
         Translator frenchTranslator = new FrenchTranslator(getFrenchDictionary(latinFrenchDataFile), getFileContentForRepository(frenchVerbsDataFile), verbRepository, nounRepository, declensionLatinFiles, declensionsAndFiles, latinDeclensionFactory);
         translatorBridge = new TranslatorBridge(latinAnalyzer, frenchTranslator);
         mapValuesForTest = loadMapFromFiles(latinPathFile);
         mapValuesForResult = loadMapFromFiles(latinResultFile);
-
-         */
     }
 
     private List<String> getFrenchDictionary(String latinFrenchDataFile) {
@@ -63,9 +67,9 @@ public class LatinTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "ori,or,ris,ri,,,[or-ris],(IPR*orint*oriunt*0@ASI*ori*orir*0@ASI2*ori*orer*0)"
+                "sum@IRREGULAR%[IPR]=[sum,es,est,sumus,estis,sunt]%[AII]=[eram,eras,erat,eramus,eratis,erant]%[AIF]=[ero,eris,erit,erimus,eritis,erunt]%[INFINITIVE]=[esse]%[ASP]=[sim,sis,sit,simus,sitis,sint]%[ASI]=[essem,esses,esset,essemus,essetis,essent]%[AIP]=[fui,fuisti,fuit,fuimus,fuistis,fuerunt]%[AIPP]=[fueram,fueras,fuerat,fueramus,fueratis,fuerant]%[IAP]=[fuisse]%[AIFP]=[fuero,fueris,fuerit,fuerimus,fueritis,fuerint]%[ASPP]=[fuissem,fuisses,fuisset,fuissemus,fuissetis,fuissent]"
         });
-        */
+         */
         return getFileContentForRepository(verbFileDescription);
     }
 
@@ -75,7 +79,8 @@ public class LatinTranslatorBridgeTest extends TranslatorBridgeTest {
         for (String declensionName : declensionNameList) {
             String parts[] = declensionName.split("%");
             String fileName = parts[1];
-            //declensionList.add(new LatinDeclension(fileName, getDeclensionElements(fileName, directory)));
+            //declensionList.add(new LatinDeclension(fileName, getDeclensionElements(fileName, directory), false));
+            declensionList.add(new LatinDeclension(fileName, getDeclensionElements(fileName, directory)));
         }
         return declensionList;
     }
@@ -118,7 +123,7 @@ public class LatinTranslatorBridgeTest extends TranslatorBridgeTest {
 
     @Test
     public void test_failing_one() {
-        checkInMaps("caesar1H4D", translatorBridge);
+        checkInMaps("toto", translatorBridge);
     }
 
 

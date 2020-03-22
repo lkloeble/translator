@@ -1160,4 +1160,4 @@ spinozaethi1F=>foobar
 spinozaethi1G=>foobar
 spinozaethi1H=>foobar
 
-toto=>semblable
+toto=>sont rose(s)(e)

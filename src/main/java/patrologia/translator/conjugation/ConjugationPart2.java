@@ -38,8 +38,7 @@ public class ConjugationPart2 {
     }
 
     public boolean isPlural() {
-        //TODO
-        return false;
+        return conjugationPosition.isPlural();
     }
 
     public Integer getIndice() {
