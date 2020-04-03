@@ -5,10 +5,7 @@ import patrologia.translator.basicelements.modifier.DefaultFinalModifier;
 import patrologia.translator.basicelements.noun.NounRepository;
 import patrologia.translator.basicelements.verb.VerbRepository2;
 import patrologia.translator.declension.DeclensionFactory;
-import patrologia.translator.linguisticimplementations.EnglishToFrench;
-import patrologia.translator.linguisticimplementations.LatinLanguageDecorator;
-import patrologia.translator.linguisticimplementations.LatinToFrench;
-import patrologia.translator.linguisticimplementations.RomanianToFrench;
+import patrologia.translator.linguisticimplementations.*;
 
 import java.util.List;
 
@@ -35,7 +32,7 @@ public class TranslatorRepositoryFactory {
         } else if(sourceLanguage.equals(Language.ROMANIAN) && destinationLanguage.equals(Language.FRENCH)) {
             return new RomanianToFrench(dictionaryReferenceData, destinationVerbFile, verbRepository, nounRepository, declensionFactory, new DefaultFinalModifier());
         } else if(sourceLanguage.equals(Language.GERMAN) && destinationLanguage.equals(Language.FRENCH)) {
-            //return new GermanToFrench(dictionaryReferenceData, destinationVerbFile, verbRepository, nounRepository, declensionFactory, new GermanLanguageDecorator(), new DefaultFinalModifier());
+            return new GermanToFrench(dictionaryReferenceData, destinationVerbFile, verbRepository, nounRepository, declensionFactory, new GermanLanguageDecorator(), new DefaultFinalModifier());
         } else if(sourceLanguage.equals(Language.ENGLISH) && destinationLanguage.equals(Language.FRENCH)) {
             return new EnglishToFrench(dictionaryReferenceData, destinationVerbFile, verbRepository, nounRepository, declensionFactory, new DefaultFinalModifier());
         }

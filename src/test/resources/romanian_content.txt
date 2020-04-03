@@ -866,9 +866,33 @@ patericulegyptantonia5F=>orice vei face, să ai mărturie din Sfintele Scripturi
 patericulegyptantonia5G=>și ori în ce loc vei ședea, să nu te miști degrabă.
 patericulegyptantonia5H=>Acestea trei păzește­le și te vei mântui".
 
+stanibotez01=>Necesitatea absolută a Botezului pentru mântuire și Botezul copiilor.
+stanibotez02=>Dacă Botezul produce, prin unirea cu Hristos, desființarea păcatului originar al despărțirii de Dumnezeu,
+stanibotez03=>imprimată în firea noastră, și dăcă fără această unire cu Hristos nu se poate intra în Împărăția lui Dumnezeu,
+stanibotez04=>evident că Botezul ne este absolut necesar pentru mântuire (In 3,3).
+stanibotez05=>EL este absolut necesar și pentru copii, căci și ei au această stare de despărțire de Dumnezeu,
+stanibotez06=>prin nașterea lor din trup, și deci și ei trebuie să treacă de la starea de născuți din apă si din Duh si,
+stanibotez07=>prin aceasta, de mântuiți (In 3:5-6). Întrucât nimeni nu e curat de întinăciune
+stanibotez08=>chiar dacă viața lui de pe pământ ar fi de o singură zi (Iov 14:4),
+stanibotez09=>evident că această întinăciune o au și copiii, nu prin păcătuire personală, ci prin naștere.
+stanibotez10=>Numai Hristos Se deosebește de noi ca om în privința aceasta,
+stanibotez11=>căci S-a făcut întru toate asemenea nouă afară numai de păcat (Evr. 4:15).
+stanibotez12=>Sfântul Apostol Pavel socotește pe toți trebuie să îngroape în Botez pe omul cel vechi al păcatului,
+stanibotez13=>pentru a se naște ca oameni ca oameni noi în Hristos.
+stanibotez14=>Faptul că moartea domnește peste toți este pentru el un semn că peste toți domnește păcatul și osânda lui,
+stanibotez15=>căci moartea e plata@N păcatului :
+stanibotez16=>"Precum printr-un om a intrat păcatul în lume, și prin păcat moartea, așa la toți oamenii moartea a trecut,
+stanibotez17=>întrucat în acela toți au păcătuit" (Rom. 5 12).
+stanibotez18=>El le spune creștinilor :
+stanibotez19=>"Așa și voi socotiți-vă pe voi morți păcatului și vii lui Dumnezeu întru Hristos Iisus, Domnul nostru" (Rom 6 11).
+stanibotez20=>Prin botez "s-a stricat trupul păcatului" (Rom 6 6). Acum chiar dacă murim fizic, nu mai suntem supuși morții eterne.
+stanibotez21=>"Că de am murit împreună cu Hristos, credem că vom și viețui împreuna cu El" (Rom 6 8).
+stanibotez22=>Vom viețui împreună cu Hristos, pe Care moartea nu-L mai stăpânește (Rom 6 9).
+
+
 url2=>https://ro.orthodoxwiki.org/Patericul_egiptean#Pentru_avva_Antonie
 
-toto=>ploile
+toto=>ei trebuie să treacă
 
 ă
 ș

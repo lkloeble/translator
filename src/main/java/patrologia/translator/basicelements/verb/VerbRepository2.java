@@ -266,7 +266,8 @@ public class VerbRepository2 {
     }
 
     public String getConjugationSysnonym(String constructionName) {
-        //TODO
-        return null;
+        //System.out.println("il faut écrire getConjugationSysnonym");
+        return conjugationFactory.getConjugationSynonym(new DefaultVerbDefinition(constructionName));
+        //return null;
     }
 }

@@ -1127,6 +1127,32 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     }
 
     @Test
+    public void test_staniloae_despre_botezul() {
+        checkInMaps("stanibotez01", translatorBridge);
+        checkInMaps("stanibotez02", translatorBridge);
+        checkInMaps("stanibotez03", translatorBridge);
+        checkInMaps("stanibotez04", translatorBridge);
+        checkInMaps("stanibotez05", translatorBridge);
+        checkInMaps("stanibotez06", translatorBridge);
+        checkInMaps("stanibotez07", translatorBridge);
+        checkInMaps("stanibotez08", translatorBridge);
+        checkInMaps("stanibotez09", translatorBridge);
+        checkInMaps("stanibotez10", translatorBridge);
+        checkInMaps("stanibotez11", translatorBridge);
+        checkInMaps("stanibotez12", translatorBridge);
+        checkInMaps("stanibotez13", translatorBridge);
+        checkInMaps("stanibotez14", translatorBridge);
+        checkInMaps("stanibotez15", translatorBridge);
+        checkInMaps("stanibotez16", translatorBridge);
+        checkInMaps("stanibotez17", translatorBridge);
+        checkInMaps("stanibotez18", translatorBridge);
+        checkInMaps("stanibotez19", translatorBridge);
+        checkInMaps("stanibotez20", translatorBridge);
+        checkInMaps("stanibotez21", translatorBridge);
+        checkInMaps("stanibotez22", translatorBridge);
+    }
+
+    @Test
     public void test_failedones() {
         assertTrue(true);
         checkInMaps("toto", translatorBridge);

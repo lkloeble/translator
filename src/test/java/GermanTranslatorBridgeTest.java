@@ -6,9 +6,15 @@ import patrologia.translator.basicelements.noun.NounRepository;
 import patrologia.translator.basicelements.preposition.PrepositionRepository;
 import patrologia.translator.basicelements.verb.VerbRepository2;
 import patrologia.translator.casenumbergenre.german.GermanCaseFactory;
+import patrologia.translator.conjugation.german.GermanConjugationFactory;
 import patrologia.translator.declension.Declension;
+import patrologia.translator.declension.german.GermanDeclension;
+import patrologia.translator.declension.german.GermanDeclensionFactory;
 import patrologia.translator.linguisticimplementations.FrenchTranslator;
+import patrologia.translator.linguisticimplementations.GermanAnalyzer;
 import patrologia.translator.linguisticimplementations.Translator;
+import patrologia.translator.rule.german.GermanRuleFactory;
+import patrologia.translator.utils.Analyzer;
 
 
 import java.util.*;
@@ -22,9 +28,9 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
 
     private TranslatorBridge translatorBridge;
 
-    private String localTestPath = "C:\\Users\\kloeblel\\IdeaProjects\\translator\\src\\test\\resources\\";
-    private String localResourcesPath = "C:\\Users\\kloeblel\\IdeaProjects\\translator\\src\\main\\resources\\german\\";
-    private String localCommonPath = "C:\\Users\\kloeblel\\IdeaProjects\\translator\\src\\main\\resources\\";
+    private String localTestPath = "C:\\Users\\kloeble.l\\IdeaProjects\\translator\\src\\test\\resources\\";
+    private String localResourcesPath = "C:\\Users\\kloeble.l\\IdeaProjects\\translator\\src\\main\\resources\\german\\";
+    private String localCommonPath = "C:\\Users\\kloeble.l\\IdeaProjects\\translator\\src\\main\\resources\\";
 
     @Before
     public void init() {
@@ -39,19 +45,16 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
         String conjugationsAndFiles = localResourcesPath + "conjugationsAndFiles.txt";
         String germanPathFile = localTestPath + "german_content.txt";
         String germanResultFile = localTestPath + "german_expected_results.txt";
-        /*
         GermanDeclensionFactory germanDeclensionFactory = new GermanDeclensionFactory(getDeclensions(declensionsAndFiles), getDeclensionList(declensionsAndFiles, declensionPath));
         NounRepository nounRepository = new NounRepository(Language.GERMAN, germanDeclensionFactory, new DummyAccentuer(), getFileContentForRepository(nounFileDescription));
         VerbRepository2 verbRepository = new VerbRepository2(new GermanConjugationFactory(getGermanConjugations(conjugationsAndFiles), getGermanConjugationDefinitions(conjugationsAndFiles, conjugationPath), germanDeclensionFactory), Language.GERMAN, new DummyAccentuer(), getVerbs(verbFileDescription));
         GermanRuleFactory ruleFactory = new GermanRuleFactory(verbRepository);
-        PrepositionRepository prepositionRepository = new PrepositionRepository(Language.GERMAN, new GermanCaseFactory(), ruleFactory, getFileContentForRepository(prepositionFileDescription),new DummyAccentuer());
-        Analizer germanAnalyzer = new GermanAnalyzer(prepositionRepository, nounRepository, verbRepository,new DummyAccentuer());
+        PrepositionRepository prepositionRepository = new PrepositionRepository(Language.GERMAN, new GermanCaseFactory(), ruleFactory, getFileContentForRepository(prepositionFileDescription));
+        Analyzer germanAnalyzer = new GermanAnalyzer(prepositionRepository, nounRepository, verbRepository);
         Translator frenchTranslator = new FrenchTranslator(getDictionaryData(germanFrenchDataFile), getFrenchVerbs(frenchVerbsDataFile), verbRepository, nounRepository, declensionPath, declensionsAndFiles, germanDeclensionFactory);
         translatorBridge = new TranslatorBridge(germanAnalyzer, frenchTranslator);
         mapValuesForTest = loadMapFromFiles(germanPathFile);
         mapValuesForResult = loadMapFromFiles(germanResultFile);
-
-         */
     }
 
     private List<String> getFrenchVerbs(String frenchVerbsDataFile) {
@@ -79,7 +82,7 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
         for (String declensionName : declensionNameList) {
             String parts[] = declensionName.split("%");
             String fileName = parts[1];
-            //declensionList.add(new GermanDeclension(fileName, getDeclensionElements(fileName, directory)));
+            declensionList.add(new GermanDeclension(fileName, getDeclensionElements(fileName, directory)));
         }
         return declensionList;
     }
@@ -1317,6 +1320,6 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("nietzscheBookGTWagner11", translatorBridge);
+        checkInMaps("lecon1A", translatorBridge);
     }
 }

@@ -40,6 +40,7 @@ public class LatinConjugationFactory extends ConjugationFactory {
         String conjugationFile = conjugations.get(verbDefinition.getConjugationPattern().toLowerCase());
         return conjugationFile != null ? new LatinConjugation(conjugationsFilesPath + "\\" + conjugationFile, verbDefinition) : new NullLatinConjugation();
         */
+        if(conjugationsDefinitionsList.get(conjugationPattern) == null) return new NullLatinConjugation2();
         return new LatinConjugation2(conjugationPattern, conjugationsDefinitionsList.get(conjugationPattern), declensionFactory);
         //return new RomanianConjugation2(conjugationPattern, conjugationsDefinitionsList.get(conjugationPattern), declensionFactory);
     }

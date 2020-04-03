@@ -95,6 +95,7 @@ dispu,,[ramane]
 dizolv,a,[cauta]
 doar,,[dorm],(IPR0*doar*dor)
 doband,,[aciti],(PAP*doband*dobandit)
+domn,i,[aciti]
 dor,,[aciti],(PAP*dor*dorit)
 dorm,i,[dorm]
 dot,,[fumez],(PAP*dot*dotat)
@@ -150,6 +151,7 @@ infrunt,,[cauta]
 infuri,a,[manie],(PAP*infuri*infuriat)
 inghits,i,[aciti],(PAP*inghits*inghitsit)
 ingrijor,a,[fumez]
+ingrop,a,[cauta],(CONJ25*ingro*ingroa)
 ingroz,i,[aciti],(PAP*ingroz*ingrozit)
 inlocu,i,[aciti]
 inmormint,,[fumez],(PAP*inmormint*inmormintat)
@@ -200,6 +202,7 @@ munc,,[aciti]
 mus,,[musca]
 mustr,a,[cauta],(PAP*mustr*mustrat)
 mut,,[cauta],(PAP*mut*mutat)
+nast,e,[merg]
 num,i,[primi],(AII*num*nume)
 obos,,[locuiesc]
 omor,i,[merg],(PAP*omor*omorat)
@@ -337,6 +340,7 @@ urm,,[fumez],(PAP*urm*urmat)
 urmar,,[aciti],(PAP*urmar*urmarit)
 vad@IRREGULAR%[IPR]=[vad,vezi,vede,vedem,vedetsi,vad]%[AIPP]=[vazusem,vazusesi,vazuse,vazuseram,vazuseratsi,vazusera]%[INFINITIVE]=[vedea]%[PAP]=[vazut]%[PAPR]=[vazand|vazandu]%[AII]=[vedeam,vedeai,vedea,vedeam,vedeatsi,vedeau]
 van,,[vinde],(IPR1234*van*vin@PSP1234*van*vin)
+vietsu,i,[locuiesc]
 vin@IRREGULAR%[IPR]=[vin,vii,vine,venim,venitsi,vin]%[AII]=[veneam,veneai,venea,veneam,veneatsi,veneau]%[PAPR]=[venind]%[PAP]=[venit]%[MMCP]=[venisem,venisesi,venise,veniseram,veniseratsi,venisera]%[AIMP]=[vino,venitsi][INFINITIVE]=[veni]
 vindec,a,[incerca]
 voi,,[aciti],(PAP*voi*voit@MMCP*voi*voixxxx)

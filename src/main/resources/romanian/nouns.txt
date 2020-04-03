@@ -51,6 +51,7 @@ aparat@masc%ul
 apartament@masc%ul
 apartsinand@neut%inv
 apetit@masc%ul
+apostol@masc%ul
 arab@adj%adj
 ardeleneasc@adj%adj
 argument@masc%ul
@@ -99,6 +100,7 @@ boar@fem%berea
 bogat@adj%adjts
 bogatsi@fem%fem
 bolnav@adj%adj
+botez@masc%ul
 brichet@fem%fem
 brunet@adj%adj
 bucatarie@neut%inv
@@ -209,6 +211,7 @@ cunostints@fem%fem
 cuprins@masc%ul
 curaj@masc%ul
 curajos@adj%adj
+curat@adj%adjts
 curind@neut%inv
 curs@masc%ul
 cutezat@adj%adjor
@@ -234,6 +237,7 @@ deseara@neut%inv
 desert@neut%locul
 desis@neut%locul
 desfiintsar@fem%berea
+despartsir@fem%berea
 despartsit@adj%adj
 destinatsi@fem%fem
 devreme@neut%inv
@@ -270,6 +274,7 @@ drept@adj%adjts
 drept@masc%ul
 dreptate@neut%inv
 drum@masc%ul
+duh@masc%ul
 dumneavoastra@neut%inv
 dumneze@adj%iesc
 dumnezeir@fem%berea
@@ -437,6 +442,7 @@ inteligent@adj%adjts
 interes@masc%ul
 intim@adj%adj
 intimplat@neut%inv
+intinaciun@fem%berea
 intins@adj%adj
 intreaga@fem%inv
 intreg@adj%adj
@@ -576,7 +582,8 @@ mun@fem%capacitate
 munt@masc%frate
 muscat@fem%fem
 naluc@fem%fem
-nascut@adj%adj
+nascut@adj%adjts
+naster@fem%berea
 natur@fem%tigara
 natural@adj%adj
 neagr@adj%adj
@@ -638,13 +645,17 @@ oras@masc%ul
 ordin@fem%berea
 organic@adj%adj
 original@adj%adj
+originar@adj%adj
 originare@neut%inv
 origine@fem%ereditate
 orizont@masc%locul
 ortodox@fem%fem
 orz@masc%ul
+osand@fem%fem
 pacat@masc%ul
 pacat@adj%pacatos
+pacatuire@masc%inv
+pacatuit@adj%adjts
 pachet@fem%fem
 pacient@masc%ul
 padur@fem%berea
@@ -698,6 +709,7 @@ piperat@adj%adj
 placere@neut%inv
 plan@masc%ul
 plant@fem%fem
+plat@fem%fem
 plenitudin@fem%berea
 pleonasm@masc%ul
 plin@adj%adj
@@ -728,6 +740,7 @@ prieten@adj%adj
 prigoan@fem%fem
 prim@adj%adj
 primejd@fem%conceptie
+privints@fem%fem
 prob@fem%fem
 probabil@adj%adj
 problem@fem%fem
@@ -836,6 +849,7 @@ scurt@adj%adjts
 seam@fem%fem
 sear@fem%fem
 secret@masc%ul
+semn@masc%ul
 semnificatsi@fem%fem
 sens@masc%locul
 sens@neut%inv

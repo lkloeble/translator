@@ -239,4 +239,11 @@ public class RootedConjugation {
         //TODO
         return 0;
     }
+
+    public int getPositionByForm(String form) {
+        for(ConjugationPart2 conjugationPart : conjugationPartList) {
+            if(conjugationPart.getValue().equals(form)) return conjugationPart.getIndice();
+        }
+        return 0;
+    }
 }
