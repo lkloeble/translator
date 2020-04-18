@@ -67,9 +67,9 @@ public class LatinTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "sum@IRREGULAR%[IPR]=[sum,es,est,sumus,estis,sunt]%[AII]=[eram,eras,erat,eramus,eratis,erant]%[AIF]=[ero,eris,erit,erimus,eritis,erunt]%[INFINITIVE]=[esse]%[ASP]=[sim,sis,sit,simus,sitis,sint]%[ASI]=[essem,esses,esset,essemus,essetis,essent]%[AIP]=[fui,fuisti,fuit,fuimus,fuistis,fuerunt]%[AIPP]=[fueram,fueras,fuerat,fueramus,fueratis,fuerant]%[IAP]=[fuisse]%[AIFP]=[fuero,fueris,fuerit,fuerimus,fueritis,fuerint]%[ASPP]=[fuissem,fuisses,fuisset,fuissemus,fuissetis,fuissent]"
+                "excell,o,is,ere,,,[o-is],(INACPAS*excellpsiss*excelluiss*)"
         });
-         */
+        */
         return getFileContentForRepository(verbFileDescription);
     }
 
@@ -91,7 +91,6 @@ public class LatinTranslatorBridgeTest extends TranslatorBridgeTest {
                 "o-is%permittere.txt"
         });
         */
-
         return getFileContentForRepository(conjugationsAndFiles);
     }
 
@@ -123,7 +122,7 @@ public class LatinTranslatorBridgeTest extends TranslatorBridgeTest {
 
     @Test
     public void test_failing_one() {
-        checkInMaps("caesar1A3", translatorBridge);
+        checkInMaps("patrologiacaput526", translatorBridge);
     }
 
 

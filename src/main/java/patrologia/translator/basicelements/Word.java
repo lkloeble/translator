@@ -80,7 +80,7 @@ public class Word {
     }
 
     public String getInitialValue() {
-        if(!initialValue.contains("@")) return initialValue;
+        if(!initialValue.contains("@")) return initialValue.trim();
         String[] contentWithPreferedTranslation = initialValue.split("@");
         if(contentWithPreferedTranslation[1].length() == 1) {
             try {
@@ -94,7 +94,7 @@ public class Word {
         } else if (contentWithPreferedTranslation[1].length() == 5 && contentWithPreferedTranslation[1].startsWith("[") && contentWithPreferedTranslation[1].endsWith("]")) {
             this.preferedElected = contentWithPreferedTranslation[1].substring(1,4);
         }
-        return contentWithPreferedTranslation[0];
+        return contentWithPreferedTranslation[0].trim();
     }
 
     public boolean hasType(WordType expectedWordType) {

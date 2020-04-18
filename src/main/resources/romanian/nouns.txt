@@ -703,6 +703,7 @@ picatur@fem%fem
 pierder@fem%berea
 pierdut@adj%adjts
 pierit@adj%adjor
+pierzan@fem%conceptie
 pild@fem%fem
 pip@fem%fem
 piperat@adj%adj

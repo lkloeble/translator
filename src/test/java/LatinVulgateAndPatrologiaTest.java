@@ -309,4 +309,74 @@ public class LatinVulgateAndPatrologiaTest extends LatinTranslatorBridgeTest {
         checkInMaps("patrologiacaput447", translatorBridge);
         checkInMaps("patrologiacaput448", translatorBridge);
     }
+    
+    @Test
+    public void test_patrologia_chapter5() {
+        checkInMaps("patrologiacaput501", translatorBridge);
+        checkInMaps("patrologiacaput502", translatorBridge);
+        checkInMaps("patrologiacaput503", translatorBridge);
+        checkInMaps("patrologiacaput504", translatorBridge);
+        checkInMaps("patrologiacaput505", translatorBridge);
+        checkInMaps("patrologiacaput506", translatorBridge);
+        checkInMaps("patrologiacaput507", translatorBridge);
+        checkInMaps("patrologiacaput508", translatorBridge);
+        checkInMaps("patrologiacaput509", translatorBridge);
+        checkInMaps("patrologiacaput510", translatorBridge);
+        checkInMaps("patrologiacaput511", translatorBridge);
+        checkInMaps("patrologiacaput512", translatorBridge);
+        checkInMaps("patrologiacaput513", translatorBridge);
+        checkInMaps("patrologiacaput514", translatorBridge);
+        checkInMaps("patrologiacaput515", translatorBridge);
+        checkInMaps("patrologiacaput516", translatorBridge);
+        checkInMaps("patrologiacaput517", translatorBridge);
+        checkInMaps("patrologiacaput518", translatorBridge);
+        checkInMaps("patrologiacaput519", translatorBridge);
+        checkInMaps("patrologiacaput520", translatorBridge);
+        checkInMaps("patrologiacaput521", translatorBridge);
+        checkInMaps("patrologiacaput522", translatorBridge);
+        checkInMaps("patrologiacaput523", translatorBridge);
+        checkInMaps("patrologiacaput524", translatorBridge);
+        checkInMaps("patrologiacaput525", translatorBridge);
+        checkInMaps("patrologiacaput526", translatorBridge);
+        checkInMaps("patrologiacaput527", translatorBridge);
+        checkInMaps("patrologiacaput528", translatorBridge);
+        checkInMaps("patrologiacaput529", translatorBridge);
+        checkInMaps("patrologiacaput530", translatorBridge);
+        checkInMaps("patrologiacaput531", translatorBridge);
+        checkInMaps("patrologiacaput532", translatorBridge);
+        checkInMaps("patrologiacaput533", translatorBridge);
+        checkInMaps("patrologiacaput534", translatorBridge);
+        checkInMaps("patrologiacaput535", translatorBridge);
+        checkInMaps("patrologiacaput536", translatorBridge);
+        checkInMaps("patrologiacaput537", translatorBridge);
+        checkInMaps("patrologiacaput538", translatorBridge);
+        checkInMaps("patrologiacaput539", translatorBridge);
+        checkInMaps("patrologiacaput540", translatorBridge);
+        checkInMaps("patrologiacaput541", translatorBridge);
+        checkInMaps("patrologiacaput542", translatorBridge);
+        checkInMaps("patrologiacaput543", translatorBridge);
+        checkInMaps("patrologiacaput544", translatorBridge);
+        checkInMaps("patrologiacaput545", translatorBridge);
+        checkInMaps("patrologiacaput546", translatorBridge);
+        checkInMaps("patrologiacaput547", translatorBridge);
+        checkInMaps("patrologiacaput548", translatorBridge);
+        checkInMaps("patrologiacaput549", translatorBridge);
+        checkInMaps("patrologiacaput550", translatorBridge);
+        checkInMaps("patrologiacaput551", translatorBridge);
+        checkInMaps("patrologiacaput552", translatorBridge);
+        checkInMaps("patrologiacaput553", translatorBridge);
+        checkInMaps("patrologiacaput554", translatorBridge);
+        checkInMaps("patrologiacaput555", translatorBridge);
+        checkInMaps("patrologiacaput556", translatorBridge);
+        checkInMaps("patrologiacaput556", translatorBridge);
+        checkInMaps("patrologiacaput557", translatorBridge);
+        checkInMaps("patrologiacaput558", translatorBridge);
+        checkInMaps("patrologiacaput559", translatorBridge);
+        checkInMaps("patrologiacaput560", translatorBridge);
+        checkInMaps("patrologiacaput561", translatorBridge);
+        checkInMaps("patrologiacaput562", translatorBridge);
+        checkInMaps("patrologiacaput563", translatorBridge);
+        checkInMaps("patrologiacaput564", translatorBridge);
+        checkInMaps("patrologiacaput565", translatorBridge);
+    }
 }

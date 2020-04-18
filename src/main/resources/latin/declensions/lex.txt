@@ -1,4 +1,4 @@
-nom%sing%fem%
+nom%sing%fem%x
 abl%sing%fem%ge
 acc%sing%fem%gem
 gen%sing%fem%gis

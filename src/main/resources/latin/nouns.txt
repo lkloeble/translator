@@ -1,5 +1,6 @@
 aberran@adj%s-s-s
 abject@adj%us-a-um
+ablut@adj%us-a-um
 admirabil@adj%is-is-e
 abominand@adj%us-a-um
 abrogat@adj%us-a-um
@@ -15,6 +16,7 @@ adduct@adj%us-a-um
 adimplet@adj%us-a-um
 adipat@neut%um-i
 adiutori@neut%um-i
+adjut@masc%or-oris
 adferen@masc%s-tis
 admirati@fem%o-onis
 adorand@adj%us-a-um
@@ -35,6 +37,7 @@ aethiopi@fem%a-ae
 aeta@fem%s-tis
 aetern@adj%us-a-um
 afficiend@adj%us-a-um
+affirman@adj%s-s-s
 afric@fem%a-ae
 ag@masc%er-ri
 agn@masc%us-i
@@ -46,6 +49,7 @@ ali@adj%us-a-ud
 allobrog@masc%scriptor
 alter@adj%us-a-um
 alt@adj%us-a-um
+alter@adj%x-a-um
 alterius@neut%inv
 alti@adj%or-or-us
 altissim@adj%us-a-um
@@ -114,6 +118,7 @@ aus@adj%us-a-um
 av@fem%is-is
 ave@neut%inv
 bacul@neut%um-i
+balne@neut%um-i
 baptism@neut%um-i
 baptist@masc%a-ae
 baptizat@adj%us-a-um
@@ -141,6 +146,7 @@ caelest@adj%is-is-e
 caeremoni@fem%a-ae
 caesar@masc%x-is
 caeter@adj%us-a-um
+caius@masc%inv
 calam@masc%us-i
 campani@fem%a-ae
 can@masc%is-is
@@ -153,6 +159,7 @@ capharnaum@neut%inv
 capitul@neut%um-i
 capu@fem%a-ae
 car@adj%us-a-um
+car@fem%o-nis
 carmin@neut%um-i
 carn@fem%o-nis
 caro@fem%inv
@@ -168,6 +175,9 @@ cenacul@neut%um-i
 centum@neut%inv
 cer@fem%a-ae
 cere@masc%us-i
+cerinth@masc%us-i
+cerinthiani@masc%inv
+cerinthianos@masc%inv
 cert@adj%us-a-um
 certam@neut%en-inis
 certi@adj%or-or-us
@@ -175,12 +185,14 @@ cet@masc%us-i
 ceter@adj%us-a-um
 charact@masc%er-eris
 chart@fem%a-ae
+chiliast@adj%us-a-um
 chor@masc%us-i
 christ@masc%us-i2
 christian@adj%us-a-um
 chios@neut%inv
 cib@masc%us-i
 cibari@adj%us-a-um
+circumcisi@fem%o-onis
 civit@fem%as-atis
 clar@adj%us-a-um
 claudia@fem%inv
@@ -193,9 +205,11 @@ coct@adj%us-a-um
 cogitati@fem%o-onis
 cognit@adj%us-a-um
 collect@fem%a-ae
+columb@fem%a-ae
 column@fem%a-ae
 comment@adj%us-a-um
 comparat@adj%us-a-um
+compert@adj%us-a-um
 complet@adj%us-a-um
 complur@adj%es-es-ia
 conat@adj%us-a-um
@@ -213,6 +227,7 @@ congregat@adj%us-a-um
 congregatio@neut%x-nis
 coniurati@fem%o-onis
 conjectur@adj%us-a-um
+conscript@adj%us-a-um
 consepult@adj%us-a-um
 consili@neut%um-i
 conspurcat@adj%us-a-um
@@ -241,6 +256,7 @@ cret@fem%a-ae
 cristat@adj%us-a-um
 criteri@neut%on-i
 critic@masc%us-i
+crucifix@adj%us-a-um
 crudel@adj%is-is-e
 cruor@masc%x-is
 crustat@fem%a-ae
@@ -272,6 +288,7 @@ decim@adj%us-a-um
 decret@neut%um-i
 defect@masc%us-us
 definiti@fem%o-onis
+degen@adj%s-s-s
 deiect@adj%us-a-um
 deinceps@neut%inv
 delet@masc%us-a-um
@@ -292,16 +309,20 @@ diacon@masc%us-i
 dicend@adj%us-a-um
 dict@neut%um-i
 dictio@fem%x-nis
+dict@adj%us-a-um
 difficil@neut%is-is
 difficult@fem%as-atis
 digit@masc%us-i
 dign@adj%us-a-um
 diligen@adj%s-tis
 dimiss@adj%us-a-um
+dionysi@masc%us-i
 disciplin@fem%a-ae
 discipul@masc%us-i
 disputand@adj%us-a-um
 dissertati@fem%o-onis
+distan@adj%s-s-s
+distinct@adj%us-a-um
 ditissim@adj%us-a-um
 divin@adj%us-a-um
 divinit@fem%as-atis
@@ -343,6 +364,7 @@ ereb@masc%us-i
 erect@adj%us-a-um
 erran@adj%s-s-s
 error@masc%x-is2
+erudit@adj%us-a-um
 esc@fem%a-ae
 essenti@fem%a-ae
 ev@fem%a-ae
@@ -352,9 +374,11 @@ eufrates@neut%inv
 europ@fem%a-ae
 eusebi@masc%us-i
 evangeli@neut%um-i
+evangelist@fem%a-ae
 exempl@neut%um-i
 excels@adj%us-a-um
 except@adj%us-a-um
+excitand@adj%us-a-um
 excus@adj%us-a-um
 exercit@adj%us-a-um
 exercit@masc%us-us
@@ -394,6 +418,7 @@ fest@neut%um-i
 fici@fem%a-ae
 fid@fem%es-ei
 fidi@masc%us-i
+figment@neut%um-i
 figur@fem%a-ae
 fili@masc%us-i
 fili@fem%a-ae
@@ -423,6 +448,7 @@ fug@fem%a-ae
 fugien@adj%s-s-s
 fus@masc%us-i
 fusi@adj%or-or-us
+futur@adj%us-a-um
 galilae@fem%a-ae
 gall@masc%us-i
 galilae@adj%us-a-um
@@ -432,6 +458,7 @@ gaudi@neut%um-i
 gen@neut%adj-us-eris
 gen@fem%s-tis
 genav@fem%a-ae
+genealogi@fem%a-ae
 generati@fem%o-onis
 genit@adj%us-a-um
 genital@adj%is-is-e
@@ -460,6 +487,7 @@ habit@adj%us-a-um
 haeres@fem%is-is
 haerese@masc%us-i
 haeresiarch@fem%a-ae
+haeretic@adj%us-a-um
 hebrae@adj%us-a-um
 helen@fem%a-ae
 helveti@adj%us-a-um
@@ -468,6 +496,7 @@ hercul@masc%es-is
 heri@neut%inv
 hermas@neut%inv
 hermae@neut%inv
+hierosolym@fem%a-orum
 hispani@fem%a-ae
 histori@fem%a-ae
 hodie@neut%inv
@@ -476,6 +505,7 @@ homi@masc%x-nis
 homo@masc%inv
 honor@masc%x-is2
 hor@fem%a-ae
+horror@masc%x-is
 hort@masc%us-i
 host@masc%is-is
 hosti@fem%a-ae
@@ -490,12 +520,14 @@ idololatri@fem%a-ae
 ignar@adj%us-a-um
 ignati@masc%us-i2
 ign@masc%is-is
+ignoran@adj%s-s-s
 ill@adj%e-a-ud
 im@adj%us-a-um
 imag@fem%o-inis
 immedicabile@adj%inv
 immortal@adj%is-is-e
 immutat@adj%us-a-um
+impassibil@adj%is-is-e
 imperan@adj%s-s-s
 imperi@masc%um-i
 imperiti@fem%a-ae
@@ -509,6 +541,7 @@ inan@adj%is-is-e
 incarnat@adj%us-a-um
 incarnati@fem%o-onis
 incens@neut%um-i
+incert@adj%us-a-um
 incis@adj%us-a-um
 incitat@adj%us-a-um
 incognit@adj%us-a-um
@@ -525,9 +558,11 @@ inferi@adj%or-or-us
 infirm@adj%us-a-um
 informati@fem%o-onis
 ingeni@neut%um-i
+ingress@adj%us-a-um
 inhonest@adj%us-a-um
 inimic@masc%us-i
 initi@neut%um-i
+initiat@adj%us-a-um
 iniuri@fem%a-ae
 innocenti@fem%a-ae
 innumer@adj%us-a-um
@@ -538,6 +573,7 @@ insecut@adj%us-a-um
 instituend@adj%us-a-um
 institut@neut%um-i
 insul@fem%a-ae
+integ@adj%er-ra-rum
 intelligenti@fem%a-ae
 interit@masc%us-us
 intervall@neut%um-i
@@ -551,6 +587,7 @@ irat@adj%us-a-um
 irenae@masc%us-i
 irrepen@adj%s-s-s
 irruen@adj%s-s-s
+ist@adj%e-a-ud
 itali@fem%a-ae
 itin@neut%us-eris[nomsing:iter,accsing:iter]
 iucund@adj%us-a-um
@@ -568,6 +605,7 @@ janu@fem%a-ae
 jentacul@neut%um-i
 jes@masc%jesus
 joann@masc%es-is
+joseph@masc%inv
 jov@masc%is-is
 jucund@adj%us-a-um
 judae@fem%a-ae
@@ -575,6 +613,8 @@ judae@adj%us-X-um
 judaic@neut%us-i
 juli@masc%us-i
 juli@fem%a-ae
+ju@neut%s-ris
+judam@masc%inv
 just@adj%us-a-um
 justin@masc%us-i
 justiti@fem%a-ae
@@ -591,6 +631,7 @@ latitud@fem%o-inis
 latobrig@masc%us-i
 lat@neut%us-eris
 laudat@adj%us-a-um
+lavand@adj%us-a-um
 leander@neut%inv
 leandr@neut%x-ri
 lect@masc%us-i
@@ -604,6 +645,7 @@ lemnos@neut%inv
 le@fem%x-gis
 legio@fem%x-nis
 lepr@fem%a-ae
+le@fem%x-gis
 lib@masc%er-ri
 libatio@fem%x-nis
 liber@masc%us-i
@@ -655,6 +697,7 @@ mascul@adj%us-a-um
 mat@fem%er-ris
 matrimoni@neut%um-i
 matron@fem%a-ae
+matthae@neut%um-i
 maxim@adj%us-a-um
 med@masc%us-i
 medi@adj%us-a-um
@@ -667,6 +710,8 @@ mens@fem%a-ae
 mens@adj%us-a-um
 mentio@fem%x-nis
 mercator@masc%x-is2
+merinthianos@neut%inv
+merinth@masc%us-i
 merit@neut%um-i
 messi@masc%as-ae
 mili@neut%um-i
@@ -695,6 +740,7 @@ mor@fem%s-tis2
 morien@adj%s-s-s
 moritur@adj%us-a-um
 mortu@adj%us-a-um
+mosaic@adj%us-a-um
 mo@masc%s-ris
 motabil@adj%is-is-e
 moys@masc%es-is
@@ -740,11 +786,13 @@ null@adj%us-a-um
 numer@masc%us-i
 numm@masc%us-i
 nuntiat@adj%us-a-um
+nuptial@adj%is-is-e
 o@neut%s-ris
 obaerat@adj%us-a-um
 oblati@fem%o-onis
 oblit@adj%us-a-um
 oblivi@fem%o-onis
+obnoxi@adj%us-a-um
 obtrit@adj%us-a-um
 obscenit@fem%as-atis
 obscuri@adj%or-or-us
@@ -785,6 +833,7 @@ ornat@masc%us-us
 ort@adj%us-us
 ort@adj%us-a-um
 os@neut%x-sis
+ostens@adj%us-a-um
 osti@masc%um-i
 ostre@fem%a-ae
 oti@neut%um-i
@@ -805,6 +854,7 @@ parv@adj%us-a-um
 parvul@adj%us-a-um
 pasch@fem%a-ae
 pass@masc%us-us
+pass@neut%um-i
 passion@fem%o-nis
 pastor@masc%x-is
 pat@masc%er-ris
@@ -831,6 +881,7 @@ perniciosi@adj%or-or-us
 perpetu@adj%us-a-um
 persecutor@masc%x-is2
 persecuti@fem%o-onis
+person@fem%a-ae
 persuas@adj%us-a-um
 persuasur@adj%us-a-um
 pervers@adj%us-a-um
@@ -840,6 +891,7 @@ pest@fem%is-is
 petr@masc%us-i
 philastri@masc%us-i
 philipp@masc%us-i
+philosophic@adj%us-a-um
 phoeni@fem%x-cis
 pi@adj%us-a-um
 piet@fem%as-atis
@@ -886,6 +938,7 @@ prim@adj%us-a-um
 primigeni@adj%us-a-um
 princip@adj%s-s-s2
 princip@masc%x-is2
+principalit@fem%as-atis
 principat@masc%us-us
 principi@neut%um-i
 pri@adj%or-or-us
@@ -895,6 +948,7 @@ proband@adj%us-a-um
 procreat@adj%us-a-um
 prodigi@neut%um-i
 prodit@adj%us-a-um
+prodit@masc%or-oris
 proeli@neut%um-i
 profect@adj%us-a-um
 profecti@fem%o-onis
@@ -905,6 +959,7 @@ promiscu@adj%us-a-um
 propagand@adj%us-a-um
 propagat@adj%us-a-um
 prophet@masc%a-ae
+propri@adj%us-a-um
 prostrat@adj%us-a-um
 protestat@adj%us-a-um
 providenti@fem%a-ae
@@ -923,6 +978,7 @@ puri@adj%or-or-us
 pyrenae@fem%x-ri
 qu@adj%i-ae-od-cuius
 quadringent@adj%e-a-ud
+quant@adj%us-a-um
 quart@adj%us-a-um
 quatuor@neut%inv
 quattuor@neut%inv
@@ -958,6 +1014,8 @@ respons@neut%um-i
 resurgen@adj%s-s-s
 resurrecti@fem%o-onis
 retect@adj%us-a-um
+revelati@fem%o-onis
+revolasse@neut%inv
 rhen@masc%us-i
 rhod@masc%us-i
 rhodan@masc%us-i
@@ -1017,6 +1075,7 @@ senescen@adj%s-s-s
 sequen@adj%s-s-s
 sens@masc%us-us
 sententi@fem%a-ae
+separat@adj%us-a-um
 septentrio@masc%x-nis
 septim@adj%us-a-um
 sequan@masc%us-i
@@ -1052,6 +1111,7 @@ spati@neut%um-i
 speci@fem%es-ei
 spiracul@neut%um-i
 spirit@masc%us-i
+spirital@adj%is-is-e
 spuri@adj%us-a-um
 statu@fem%a-ae
 statut@adj%us-a-um
@@ -1092,6 +1152,7 @@ tect@neut%um-i
 tecti@adj%or-or-us
 tel@fem%a-ae
 temp@neut%us-oris
+temperanti@fem%a-ae
 temperatur@adj%us-a-um
 templ@neut%um-i
 tenebr@fem%a-ae
@@ -1120,6 +1181,7 @@ tractand@adj%us-a-um
 tractat@masc%us-us
 tradit@adj%us-a-um
 traditio@fem%x-nis
+transact@adj%us-a-um
 triclini@neut%um-i
 triginta@neut%inv
 trinit@fem%as-atis
@@ -1159,7 +1221,9 @@ ver@adj%us-a-um
 verb@neut%um-i
 veren@adj%s-s-s
 verit@fem%as-atis
+verit@adj%us-a-um
 vers@masc%us-us
+versat@adj%us-a-um
 vest@adj%er-ra-rum
 vestigi@neut%um-i
 vet@adj%adj-us-eris

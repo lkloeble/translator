@@ -13,6 +13,7 @@ AIPP=>eram,eras,erat,eramus,eratis,erant
 PSI=>erer,ereris,eretur,eremur,eremini,erentur
 PAPR=>ens
 AIMP=>xxx,e,xxx,xxx,ite,xxx
+AIMF=>xx,o,o,xxx,ote,o
 IAP=>isse
 VENO=>ere,endi,endo,endum
 INACPAS=>ere,psisse,pturus esse,i,ptus esse,ptum iri

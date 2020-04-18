@@ -1,0 +1,12 @@
+nom%sing%masc%or
+voc%sing%masc%or
+acc%sing%masc%orem
+gen%sing%masc%oris
+dat%sing%masc%ori
+abl%sing%masc%ore
+nom%plr%masc%ores
+voc%plr%masc%ores
+acc%plr%masc%ores
+gen%plr%masc%orum
+dat%plr%masc%oribus
+abl%plr%masc%oribus

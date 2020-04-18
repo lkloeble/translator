@@ -1147,6 +1147,7 @@ pierder@noun!berea%1(noun)=perte
 pierdut@adj!adjts%1(adj)=perdu
 pieri@verb!norm%1(verb)=mourir
 pierit@adj!adjor%1(adj)=corruptible
+pierzan@noun!conceptie%1(noun)=perdition
 pild@noun!fem%1(noun)=parabole
 pina@prep%1(prep)=jusqu'à
 pip@noun!fem%1(noun)=pipe

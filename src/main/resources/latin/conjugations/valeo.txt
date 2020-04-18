@@ -3,6 +3,7 @@ PSP=>i,isti,it,imus,istis,erunt
 AIP=>i,isti,it,imus,istis,erunt
 PII=>ebar,ebaris,ebatur,ebamur,ebamini,ebantur
 ASP=>eam,eas,eat,eamus,eatis,eant
+ASI=>erem,eres,eret,eremus,eretis,erent
 PIP=>eor,eris,etur,emur,emini,entur
 PIF=>ar,eris,etur,emur,emini,entur
 AII=>ebam,ebas,ebat,ebamus,ebatis,ebant

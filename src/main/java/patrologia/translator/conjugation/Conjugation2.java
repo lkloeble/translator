@@ -19,6 +19,7 @@ import java.util.*;
  * AIF = active indicative future
  * PAP = participe passé TODO : à changer
  * AIMP = active imperative present
+ * AIMF = active imperative futur
  * PIP = passive indicative present
  * ASI = active subjonctive imparfait
  * PIF = passive indicative future

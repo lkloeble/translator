@@ -61,3 +61,5 @@ es-es-ia%tres.txt
 s-s-s2%princeps.txt
 is-is-id%aliquis.txt
 es-itis%superstes.txt
+or-oris%adjutor.txt
+x-a-um%adjectiveXAUm.txt

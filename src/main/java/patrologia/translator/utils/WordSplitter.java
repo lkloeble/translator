@@ -18,7 +18,8 @@ public class WordSplitter {
         int indice = Word.STARTING_COUNTINDICE_IN_SENTENCE;
         Phrase result = new Phrase(stringTokenizer.countTokens(), language);
         while(stringTokenizer.hasMoreTokens()) {
-            Word word = new Word(WordType.UNKNOWN, correctOnlyNumberWithNoTranslationMark(stringTokenizer.nextToken()), language);
+            String wordToCorrect = stringTokenizer.nextToken();
+            Word word = new Word(WordType.UNKNOWN, correctOnlyNumberWithNoTranslationMark(wordToCorrect), language);
             result.addWordAtPosition(indice++, word);
         }
         return result;
