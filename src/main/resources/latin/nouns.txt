@@ -19,6 +19,7 @@ adiutori@neut%um-i
 adjut@masc%or-oris
 adferen@masc%s-tis
 admirati@fem%o-onis
+adoptat@adj%us-a-um
 adorand@adj%us-a-um
 adorati@fem%o-onis
 adult@adj%us-a-um
@@ -61,6 +62,7 @@ amic@masc%us-i
 amic@fem%a-ae
 amiciti@fem%a-ae
 amoen@adj%us-a-um
+amor@masc%x-is
 amplexand@adj%us-a-um
 ancill@fem%a-ae
 angel@masc%us-i
@@ -75,6 +77,7 @@ ant@fem%a-ae
 antecessor@masc%scriptor
 antioch@fem%a-ae
 antiochen@adj%us-a-um
+antiochi@fem%a-ae
 antiqu@adj%us-a-um
 antiqui@adj%or-or-us
 antiquissim@adj%us-a-um
@@ -146,7 +149,7 @@ caelest@adj%is-is-e
 caeremoni@fem%a-ae
 caesar@masc%x-is
 caeter@adj%us-a-um
-caius@masc%inv
+cai@masc%us-i
 calam@masc%us-i
 campani@fem%a-ae
 can@masc%is-is
@@ -327,6 +330,7 @@ ditissim@adj%us-a-um
 divin@adj%us-a-um
 divinit@fem%as-atis
 divis@adj%us-a-um
+doctissim@adj%us-a-um
 doctor@masc%x-is
 doctrin@fem%a-ae
 document@neut%um-i
@@ -346,6 +350,7 @@ dulci@fem%um-i
 duo@adj%inv
 duodecim@adj%inv
 duos@adj%inv
+ebion@masc%us-i
 edit@adj%us-a-um
 ecclesi@fem%a-ae
 editi@fem%o-onis
@@ -356,6 +361,7 @@ eject@adj%us-a-um
 elect@adj%us-a-um
 emendat@adj%us-a-um
 enuntiat@adj%us-a-um
+ephes@masc%us-i
 epiphani@masc%us-i
 episcop@masc%us-i
 epistol@fem%a-ae
@@ -368,6 +374,7 @@ erudit@adj%us-a-um
 esc@fem%a-ae
 essenti@fem%a-ae
 ev@fem%a-ae
+evertend@adj%us-a-um
 euboe@fem%a-ae
 eucharisti@fem%a-ae
 eufrates@neut%inv
@@ -390,6 +397,7 @@ explicand@adj%us-a-um
 explicati@fem%o-onis
 explicat@masc%us-us
 expositi@fem%o-onis
+expugnand@adj%us-a-um
 expugnator@masc%x-is
 expugnat@adj%us-a-um
 exspectat@adj%us-a-um
@@ -496,6 +504,7 @@ hercul@masc%es-is
 heri@neut%inv
 hermas@neut%inv
 hermae@neut%inv
+hieronymus@masc%inv
 hierosolym@fem%a-orum
 hispani@fem%a-ae
 histori@fem%a-ae
@@ -600,6 +609,7 @@ iunct@adj%us-a-um
 iur@neut%a-ae
 iurand@neut%um-i
 iu@neut%s-ris
+jacob@masc%us-i
 jactur@adj%us-a-um
 janu@fem%a-ae
 jentacul@neut%um-i
@@ -626,6 +636,7 @@ laet@adj%us-a-um
 latin@adj%us-a-um
 lapid@neut%x-is2[nomsing:lapis]
 lapide@adj%us-a-um
+laps@masc%us-us
 latissim@adj%us-a-um
 latitud@fem%o-inis
 latobrig@masc%us-i
@@ -646,6 +657,7 @@ le@fem%x-gis
 legio@fem%x-nis
 lepr@fem%a-ae
 le@fem%x-gis
+lev@neut%e-is
 lib@masc%er-ri
 libatio@fem%x-nis
 liber@masc%us-i
@@ -922,6 +934,7 @@ potest@fem%as-atis
 potissim@adj%us-a-um
 praecept@neut%um-i
 praeceptor@masc%scriptor
+praecipu@adj%us-a-um
 praeconcept@adj%us-a-um
 praedicand@adj%us-a-um
 praedicati@fem%o-onis
@@ -1021,6 +1034,7 @@ rhod@masc%us-i
 rhodan@masc%us-i
 ridicul@adj%us-a-um
 rip@fem%a-ae
+rogat@masc%us-us
 rom@fem%a-ae
 roman@adj%us-a-um
 ros@fem%a-ae
@@ -1122,6 +1136,7 @@ stupend@adj%us-a-um
 styl@masc%us-i
 studi@neut%um-i
 suav@adj%is-is-e
+succens@adj%us-a-um
 successor@masc%x-is2
 summ@fem%a-ae
 summ@adj%us-a-um
