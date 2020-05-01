@@ -33,8 +33,7 @@ public class ConjugationPart2 {
     }
 
     public boolean isIndiceThirPlural() {
-        //TODO
-        return false;
+        return conjugationPosition.isThirdPlural();
     }
 
     public boolean isPlural() {

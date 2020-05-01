@@ -41,6 +41,8 @@ public enum ConjugationPosition {
         return position>2;
     }
 
+    public boolean isThirdPlural() { return position == PLURAL_THIRD_PERSON.position; }
+
     public boolean isRelatedToNoun() {
         //TODO
         return false;

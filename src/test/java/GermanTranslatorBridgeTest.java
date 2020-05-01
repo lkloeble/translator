@@ -90,7 +90,7 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "seh,en,[rufen],(IPR14*seh*sieh*0@AIP*seh*sah*0@PAP*seh*geseh*0@AIMP1*seh*sieh*0@ASI*seh*sah*0)"
+                "sein@IRREGULAR%[INFINITIVE]=[sein]%[IPR]=[bin,bist,ist,sind,seid,sind]"
         });
         */
         return getFileContentForRepository(verbFileDescription);
@@ -1320,6 +1320,6 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("lecon1A", translatorBridge);
+        checkInMaps("toto", translatorBridge);
     }
 }

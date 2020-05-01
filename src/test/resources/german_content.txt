@@ -1086,6 +1086,6 @@ nietzscheBookGTChap1112=>»Ihr stürzt nieder, Millionen? Ahnest du den Schöpfe
 
 urlnietzsche=>http://www.zeno.org/Philosophie/M/Nietzsche,+Friedrich
 
-toto=>Winterschnee
+toto=>hier sind
 
 ß
