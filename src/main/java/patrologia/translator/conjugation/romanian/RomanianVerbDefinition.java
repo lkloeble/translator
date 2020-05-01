@@ -1,5 +1,6 @@
 package patrologia.translator.conjugation.romanian;
 
+import patrologia.translator.basicelements.Language;
 import patrologia.translator.basicelements.TranslationInformationReplacement;
 import patrologia.translator.basicelements.verb.TranslationInformationReplacement2;
 import patrologia.translator.conjugation.NullTranslationInformationReplacement;
@@ -13,6 +14,7 @@ public class RomanianVerbDefinition extends VerbDefinition {
 
     public RomanianVerbDefinition(String definition) {
         this.definition = definition;
+        this.language = Language.ROMANIAN;
         extractValuesFromDefinition();
     }
 
@@ -43,4 +45,8 @@ public class RomanianVerbDefinition extends VerbDefinition {
         return true;
     }
 
+    @Override
+    public Language getLanguage() {
+        return super.getLanguage();
+    }
 }

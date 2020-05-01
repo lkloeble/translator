@@ -1,5 +1,6 @@
 package patrologia.translator.conjugation.latin;
 
+import patrologia.translator.basicelements.Language;
 import patrologia.translator.basicelements.TranslationInformationReplacement;
 import patrologia.translator.basicelements.verb.TranslationInformationReplacement2;
 import patrologia.translator.conjugation.VerbDefinition;
@@ -10,6 +11,7 @@ public class LatinVerbDefinition  extends VerbDefinition {
 
     public LatinVerbDefinition(String definition) {
         this.definition = definition;
+        this.language = Language.LATIN;
         extractValuesFromDefinition();
     }
 

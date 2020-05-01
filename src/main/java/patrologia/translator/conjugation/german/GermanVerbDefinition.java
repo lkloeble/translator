@@ -1,5 +1,6 @@
 package patrologia.translator.conjugation.german;
 
+import patrologia.translator.basicelements.Language;
 import patrologia.translator.basicelements.TranslationInformationReplacement;
 import patrologia.translator.basicelements.verb.TranslationInformationReplacement2;
 import patrologia.translator.conjugation.VerbDefinition;
@@ -13,6 +14,7 @@ public class GermanVerbDefinition extends VerbDefinition {
 
     public GermanVerbDefinition(String definition) {
         this.definition = definition;
+        this.language = Language.GERMAN;
         extractValuesFromDefinition();
     }
 

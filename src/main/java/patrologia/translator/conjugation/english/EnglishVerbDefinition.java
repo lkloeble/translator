@@ -1,5 +1,6 @@
 package patrologia.translator.conjugation.english;
 
+import patrologia.translator.basicelements.Language;
 import patrologia.translator.basicelements.TranslationInformationReplacement;
 import patrologia.translator.basicelements.verb.TranslationInformationReplacement2;
 import patrologia.translator.conjugation.VerbDefinition;
@@ -13,6 +14,7 @@ public class EnglishVerbDefinition extends VerbDefinition {
 
     public EnglishVerbDefinition(String definition) {
         this.definition = definition;
+        this.language = Language.ENGLISH;
         extractValuesFromDefinition();
     }
 

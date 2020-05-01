@@ -15,6 +15,7 @@ public abstract class VerbDefinition {
     protected String conjugationPattern;
     protected Map<String,String> alternateRootByTime;
     protected String infinitiveForm;
+    protected Language language;
 
     protected TranslationInformationReplacement2 translationInformationReplacement;
     protected TranslationRules translationRules;
@@ -80,6 +81,6 @@ public abstract class VerbDefinition {
     }
 
     public Language getLanguage() {
-        return null;
+        return language;
     }
 }

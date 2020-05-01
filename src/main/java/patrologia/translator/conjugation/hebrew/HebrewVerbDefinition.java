@@ -1,5 +1,6 @@
 package patrologia.translator.conjugation.hebrew;
 
+import patrologia.translator.basicelements.Language;
 import patrologia.translator.basicelements.TranslationRules;
 import patrologia.translator.conjugation.VerbDefinition;
 
@@ -12,6 +13,7 @@ public class HebrewVerbDefinition extends VerbDefinition {
 
     public HebrewVerbDefinition(String definition) {
         this.definition = definition;
+        this.language = Language.HEBREW;
         extractValuesFromDefinition();
     }
 
