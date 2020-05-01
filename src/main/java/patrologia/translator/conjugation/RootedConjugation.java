@@ -236,8 +236,7 @@ public class RootedConjugation {
     }
 
     public int getPositionForConstructionNumber(int i) {
-        //TODO
-        return 0;
+        return conjugationPartList.get(i).getIndice();
     }
 
     public int getPositionByForm(String form) {
