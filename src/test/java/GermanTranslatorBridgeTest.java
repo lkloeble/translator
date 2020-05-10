@@ -90,7 +90,7 @@ public class GermanTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "sein@IRREGULAR%[INFINITIVE]=[sein]%[IPR]=[bin,bist,ist,sind,seid,sind]"
+                "heirat,en,[mochten],(PAP*heirat*geheiratet*0@AIP*heirat*heiratet*0)"
         });
         */
         return getFileContentForRepository(verbFileDescription);

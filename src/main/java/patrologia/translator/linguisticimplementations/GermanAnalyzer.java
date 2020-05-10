@@ -46,7 +46,8 @@ public class GermanAnalyzer  implements Analyzer {
     }
 
     private String replaceAbbreviateExpressions(String sentence) {
-        return sentence.replace("d.h.","dh");
+        sentence = sentence.replace("d.i.","diexpr");
+        return sentence.replace("d.h.","dhexpr");
     }
 
     private String substituteTwinVerbs(String sentence) {

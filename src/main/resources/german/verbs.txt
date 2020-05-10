@@ -144,7 +144,7 @@ erhell,en,[leben]
 erhoh,en,[leben]
 erhol,en,[leben]
 erhor,en,[leben],(PAPR*erhor*erhorend*0)
-erinner,en,[mochten]
+erinner,n,[mochten]
 erkenn,en,[leben],(PAP*erke*erka*0)
 erkies,en,[genesen],(PAP*erkies*erkoren*0)
 erklar,en,[leben]
@@ -216,7 +216,7 @@ hand,eln,[sammeln],(PAP*hand*handelt*0)
 hang,en,[leben]
 heb,en,[leben],(PAP*heb*gehoben*0)
 heilig,en,[leben]
-heirat,en,[mochten],(PAP*heirat*geheiratet*0)
+heirat,en,[mochten],(PAP*heirat*geheiratet*0@AIP*heirat*heiratet*0)
 helf,en,[leben],(IPR*helft*hilft*0@AIMP*helf*hilf*0)
 heg,en,[leben]
 heiss,en,[genesen],(AII*heiss*hiess*0)

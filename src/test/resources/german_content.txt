@@ -643,7 +643,7 @@ strackp11par042=>der die Sonne einstmals stillstehn machte (Vers 258), redend mi
 strackp11par043=>– Schürer 3,443 hat die ganze Stelle für eine christliche Interpolation erklärt.
 strackp11par044=>Allein wenn man nach Zahns Vorgang (Apokaliptische Studien, Zeitschrift f. kirchl. Wissensch. Und kirschl. Leben 1886, 43f)
 strackp11par045=>den einen Vers 257 als christlichen Zusatz streicht, so gewinnt die Stelle einen guten einheitlichen Charakter.
-strackp11par046=>Sie handlet da von Josua und bezeichnet diesen unter Hinzunahme von Vers 414ff,
+strackp11par046=>Sie handelt da von Josua und bezeichnet diesen unter Hinzunahme von Vers 414ff,
 strackp11par047=>wo der Messias ebenfalls ein seliger Mann heißt, der von Himmelsgewölbe kommt, als den zukünftigen Messias.
 strackp11par048=>Es darf jedoch nicht übersehen werden, daß die Baraitha AZ 25A, Ta’an 20A, derner DtR 11 (207D) und PesiqR4 (13b) zu berichten wissen,
 strackp11par049=>daß auch Mose die Sonne zum Stillstehn gebracht habe.
@@ -1086,6 +1086,6 @@ nietzscheBookGTChap1112=>»Ihr stürzt nieder, Millionen? Ahnest du den Schöpfe
 
 urlnietzsche=>http://www.zeno.org/Philosophie/M/Nietzsche,+Friedrich
 
-toto=>hier sind
+toto=>vorliegt
 
 ß

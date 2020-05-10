@@ -669,6 +669,7 @@ heiligtum@neut%heiligtum
 heim@neut%meer
 heimlich@adj%ausreichend
 heimlichkeit@neut%meinmasc
+heirat@fem%meinfem
 heiss@adj%ausreichend
 heiter@adj%ausreichend
 heiterer@adj%ausreichend
@@ -889,6 +890,7 @@ leuchter@masc%arbeiter
 leute@fem%flasche
 levi@neut%inv
 levirat@neut%inv
+leviratsehe@neut%inv
 levit@neut%meinmasc
 levitentum@neut%autor
 levitenschaft@neut%inv

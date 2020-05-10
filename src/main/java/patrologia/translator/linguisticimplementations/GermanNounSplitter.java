@@ -3,6 +3,7 @@ package patrologia.translator.linguisticimplementations;
 import patrologia.translator.basicelements.*;
 import patrologia.translator.basicelements.noun.NounRepository;
 import patrologia.translator.basicelements.preposition.PrepositionRepository;
+import patrologia.translator.basicelements.verb.Verb;
 import patrologia.translator.basicelements.verb.VerbRepository2;
 
 import java.util.Set;
@@ -85,7 +86,9 @@ public class GermanNounSplitter {
         } else  if(prepositionRepository.hasPreposition(word)) {
             return prepositionRepository.getPreposition(word);
         } else {
-            return verbRepository.getVerb(word);
+            Verb verb = verbRepository.getVerb(word);
+            verb.setInitialValue(word);
+            return verb;
         }
     }
 

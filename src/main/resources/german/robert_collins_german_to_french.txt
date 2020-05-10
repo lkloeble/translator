@@ -1039,6 +1039,7 @@ heiligtum@noun!heiligtum%1(noun)=sanctuaire
 heim@noun!meer%1(noun)=asile%2(noun)=hôtel%3(noun)=maison
 heimlich@adj!ausreichend%1(adj)=secret
 heimlichkeit@noun!meinmasc%1(noun)=secret
+heirat@noun!meinfem%1(noun)=mariage
 heirat@verb!norm%1(verb)=epouser
 heiss@adj!ausreichend%1(adj)=chaud
 heiss@verb!norm%1(verb)=appeler%2(verb)=signifier%3(verb)=nommer
@@ -1355,6 +1356,7 @@ leuchter@noun!arbeiter%1(noun)=chandelier
 leute@noun!flasche%1(noun)=gens
 levi@noun!inv%1(noun)=lévi
 levirat@noun!inv%1(noun)=lévirat
+leviratsehe@noun!inv%1(noun)=lévirat
 levit@noun!meinmasc%1(noun)=lévite
 levitenschaft@noun!inv%1(noun)=lévit(isme)
 levitentum@noun!autor%1(noun)=lévit(isme)
