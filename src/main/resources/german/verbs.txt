@@ -25,9 +25,10 @@ aufputz,en,[pflanzen]
 aufricht,en,[segnen]
 aufstell,en,[leben],(PAP*aufstell*aufgestellt*0)
 auftret,en,[leben]
+aufwachs,en,[genesen]
+aufzufuhr,en,[leben]
 ausbrech,en,[leben],(PAP*ausbrech*ausgebrochen*0)
 ausbreit,en,[segnen]
-aufwachs,en,[genesen]
 auswahl,en,[leben],(PAP*auswahl*ausgewahlt*0)
 aufzieh,en,[leben],(PAP*aufzieh*aufgezogen*0)
 auslass,en,[genesen],(AII*auslass*ausliess*0)
@@ -90,6 +91,7 @@ bezeichn,en,[segnen],(PAP*bezeichn*bezeichnet*0)
 bezeug,en,[leben]
 biet,en,[leben],(PAPR*biet*bietend*0)
 bild,en,[segnen]
+bind,en,[mochten],(PAP*bind*gebunden*0)
 blas,en,[genesen],(AII*bla*blie*0)
 bleib,en,[rufen],(AIP*blei*blie*0)
 bluh,en,[leben]
@@ -127,6 +129,7 @@ entdeck,en,[leben]
 entfess,eln,[sammeln],(PAP*entfess*entfesselt*0)
 enthalt,en,[gelten]
 entlass,en,[genesen]
+entlehn,en,[leben]
 entnehm,en,[leben]
 entschlaf,en,[leben],(PAP*entschlaf*entschlafen*0)
 entsprech,en,[leben],(PAP*entsprech*entsprochen*0)
@@ -273,6 +276,7 @@ mart,ern,[bedauern]
 mehr,en,[leben]
 mein,en,[leben],(PAPR*mein*meinend*0@PAP*mein*gemeint*0)
 miet,en,[leben]
+miss,en,[leben],(PAPR*miss*missend*0)
 miteinzuschliess,en,[schliessen]
 mitteil,en,[leben],(PAP*mitteil*mitgeteilt*0)
 mitwirk,en,[leben],(PAP*mitwirk*mitgewirkt*0)
@@ -308,6 +312,7 @@ ruf,en,[rufen],(AIP*ruf*rief*0)
 ruh,en,[leben],(PAP*ruh*geruht*0)
 ruhr,en,[leben]
 sag,en,[leben],(PAPR*sag*sagend*0@AIP*sag*sagt*0@PAP*sag*gesagt*0)
+salb,en,[leben],(PAP*salb*gesalbt*0)
 samm,eln,[sammeln],(PAP*sam*gesam*0@AII*samm*sammel*0)
 schaff,en,[rufen],(AIP*schaff*schuf*0@PAP*sch*gesch*0)
 scham,en,[leben]

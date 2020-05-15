@@ -36,6 +36,7 @@ ahroniden@neut%inv
 ailonith@neut%inv
 alkohol@neut%inv
 all@adj%ausreichend
+allegorisch@adj%ausreichend
 allein@adj%inv
 allergisch@adj%norm
 almosen@neut%zeichen
@@ -66,10 +67,12 @@ anlehnung@masc%meinmasc
 anm@neut%inv
 anerkennung@fem%meinfem
 annahme@fem%flasche
+anonym@adj%ausreichend
 anrufung@fem%meinfem
 anschauung@fem%meinfem
 anschein@masc%arbeiter
 ansicht@fem%meinfem
+anstossig@adj%ausreichend
 anti@neut%inv
 antichrist@neut%inv
 antichristlich@adj%ausreichend
@@ -77,6 +80,7 @@ antiq@neut%inv
 antwort@fem%meinfem
 anzuglich@adj%ausreichend
 apfel@neut%inv
+apollinisch@adj%ausreichend
 apokalyptiker@masc%arbeiter
 apokriphe@fem%flasche
 arabisch@adj%ausreichend
@@ -270,6 +274,7 @@ davidide@masc%inv
 davidische@masc%inv
 davids@masc%inv
 deckung@fem%meinfem
+deinetwillen@neut%inv
 demokrat@masc%meinmasc
 demokratie@fem%flasche
 demokratisch@adj%ausreichend
@@ -310,6 +315,7 @@ druck@masc%meinmasc
 druckerei@fem%meinfem
 dt@neut%inv
 dukhan@neut%inv
+duplizitat@fem%inv
 durchfigurierung@fem%inv
 durchsicht@fem%meinfem
 durst@neut%inv
@@ -394,9 +400,11 @@ ermudet@adj%ausreichend
 ermudung@fem%meinfem
 erneut@adj%ausreichend
 ernst@masc%jahrzehnt
+ernsthaft@adj%ausreichend
 erregung@fem%meinfem
 erscheinung@fem%meinfem
 erschopfung@fem%meinfem
+erstaunen@neut%burger
 erste@neut%masc
 erstehn@neut%inv
 erstling@neut%inv
@@ -552,6 +560,7 @@ geheimnis@neut%erkenntnis
 geheimnisvoller@adj%ausreichend
 gehilfin@fem%meinfem
 geist@neut%norm
+geklingel@neut%inv
 gelachter@neut%arbeiter
 geld@neut%inv
 gelehrt@adj%ausreichend
@@ -732,6 +741,7 @@ idealistisch@adj%ausreichend
 idee@fem%invfem[nomplr:ideen]
 illegitim@adj%ausreichend
 illegitimitat@neut%inv
+imstande@neut%inv
 inder@masc%arbeiter
 indisch@adj%ausreichend
 ingrimmig@adj%ausreichend
@@ -958,7 +968,9 @@ messias@masc%inv
 metaphysik@neut%inv
 metaphysisch@adj%ausreichend
 mid@neut%inv
+midr@neut%inv
 midrasch@masc%meinmasc
+midrash@neut%inv
 mild@adj%mein
 minderwertig@adj%ausreichend
 minderwertigst@adj%ausreichend
@@ -973,6 +985,7 @@ mitarbeiter@masc%norm
 mitgleid@neut%inv
 mitteilbar@adj%ausreichend
 mittagessen@neut%inv
+mitte@fem%flasche
 mittelalter@neut%meer
 mittwoch@neut%inv
 mk@neut%inv
@@ -1075,6 +1088,7 @@ ol@neut%inv%
 olbaum@neut%jahrzehnt
 olivenol@neut%jahrzehnt
 oper@neut%flasche
+opferdarbringung@fem%meinfem
 opfergabe@neut%flasche
 optik@neut%meinmasc
 optimist@neut%meinmasc
@@ -1101,6 +1115,7 @@ pause@fem%inv
 personlich@adj%ausreichend
 peinlich@adj%ausreichend
 perikles@neut%inv
+periodisch@adj%ausreichend
 perle@fem%flasche
 personal@neut%inv
 perversitat@neut%inv
@@ -1218,6 +1233,7 @@ rucken@neut%zeichen
 ruckkehr@neut%inv
 rucksicht@fem%meinfem
 ruhelager@neut%inv
+ruth@neut%inv
 s@neut%inv
 sabbat@neut%jahrzehnt
 sabine@fem%inv
@@ -1239,6 +1255,7 @@ schauerlich@adj%ausreichend
 schauspielerisch@adj%ausreichend
 scheck@fem%meinfem
 schein@neut%phanomen
+schelle@fem%flasche
 schenk@masc%meinmasc
 schicklichkeit@fem%meinfem
 schimson@neut%inv
@@ -1300,6 +1317,7 @@ sechst@adj%ausreichend
 sechzehn@neut%inv
 seele@fem%flasche
 segnung@fem%meinfem
+sehn@neut%inv
 sehnsuchtigst@adj%ausreichend
 seite@fem%flasche
 sekretarin@fem%inv
@@ -1343,6 +1361,7 @@ spater@adj%ausreichend
 speise@fem%flasche
 spekulant@masc%meinmasc
 spekulation@fem%norm
+spiel@masc%meinmasc
 sportlich@adj%inv
 sprache@fem%flasche
 spross@masc%phanomen
@@ -1400,6 +1419,7 @@ tabelle@fem%flasche
 tag@masc%jahrzehnt
 talmud@masc%meinmasc
 tanz@masc%phanomen
+tapfer@adj%ausreichend
 tapferkeit@fem%meinfem
 tapferst@adj%ausreichend
 targ@neut%inv
@@ -1430,6 +1450,7 @@ theoretisch@adj%ausreichend
 thron@masc%jahrzehnt
 thukydides@neut%inv
 tief@adj%ausreichend
+tiefsinnig@adj%ausreichend
 tiefst@adj%ausreichend
 tiefe@fem%norm
 tier@masc%meer
@@ -1596,6 +1617,7 @@ verwohnter@adj%ausreichend
 verwegen@adj%ausreichend
 verwegenheit@neut%inv
 verzeichnis@neut%erkenntnis
+versohnung@fem%meinfem
 verzuckert@adj%inv
 vgl@neut%inv
 videokassette@fem%flasche
@@ -1664,6 +1686,7 @@ weiter@adj%ausreichend
 welch@adj%ausreichend
 welt@fem%meinfem
 weltmacht@fem%angst
+wendepunkt@masc%reis
 wenig@neut%meinmasc
 werk@neut%meer
 wertschatzung@fem%meinfem
@@ -1687,6 +1710,7 @@ wind@masc%phanomen
 winkel@masc%arbeiter
 winter@masc%arbeiter
 wirbel@masc%arbeiter
+wirklich@adj%ausreichend
 wirklichkeit@fem%meinfem
 wirkung@fem%meinfem
 wirtschaft@fem%inv
@@ -1710,6 +1734,7 @@ wurde@fem%flasche
 wurdig@adj%ausreichend
 wurf@masc%jahrzehnt
 wurst@fem%wurst
+wurzel@fem%flasche
 wust@adj%mein
 wutend@adj%ausreichend
 zahl@neut%meinmasc
@@ -1758,5 +1783,6 @@ zuteil@neut%inv
 zweck@masc%jahrzehnt
 zwei@neut%inv
 zweifel@masc%zeichen
+zweiheit@fem%inv
 zweit@adj%ausreichend
 zwiegesprach@neut%inv
