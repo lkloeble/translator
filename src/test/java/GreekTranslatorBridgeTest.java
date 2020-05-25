@@ -5,10 +5,17 @@ import patrologia.translator.basicelements.*;
 import patrologia.translator.basicelements.noun.NounRepository;
 import patrologia.translator.basicelements.preposition.PrepositionRepository;
 import patrologia.translator.basicelements.verb.VerbRepository2;
+import patrologia.translator.casenumbergenre.german.GermanCaseFactory;
 import patrologia.translator.casenumbergenre.greek.GreekCaseFactory;
+import patrologia.translator.conjugation.greek.GreekConjugationFactory;
 import patrologia.translator.declension.Declension;
+import patrologia.translator.declension.greek.GreekDeclension;
+import patrologia.translator.declension.greek.GreekDeclensionFactory;
 import patrologia.translator.linguisticimplementations.FrenchTranslator;
+import patrologia.translator.linguisticimplementations.GreekAnalyzer;
 import patrologia.translator.linguisticimplementations.Translator;
+import patrologia.translator.rule.greek.GreekRuleFactory;
+import patrologia.translator.utils.Analyzer;
 
 import java.util.*;
 
@@ -21,9 +28,9 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
 
     private TranslatorBridge translatorBridge;
 
-    private String localTestPath="C:\\Users\\kloeblel\\IdeaProjects\\translator\\src\\test\\resources\\";
-    private String localResourcesPath="C:\\Users\\kloeblel\\IdeaProjects\\translator\\src\\main\\resources\\greek\\";
-    private String localCommonPath="C:\\Users\\kloeblel\\IdeaProjects\\translator\\src\\main\\resources\\";
+    private String localTestPath="C:\\Users\\kloeble.l\\IdeaProjects\\translator\\src\\test\\resources\\";
+    private String localResourcesPath="C:\\Users\\kloeble.l\\IdeaProjects\\translator\\src\\main\\resources\\greek\\";
+    private String localCommonPath="C:\\Users\\kloeble.l\\IdeaProjects\\translator\\src\\main\\resources\\";
 
     @Before
     public void init() {
@@ -38,19 +45,16 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
         String conjugationsAndFiles = localResourcesPath + "conjugationsAndFiles.txt";
         String greekPathFile = localTestPath + "greek_content.txt";
         String greekResultFile = localTestPath + "greek_expected_result.txt";
-        /*
         GreekRuleFactory ruleFactory = new GreekRuleFactory();
         GreekDeclensionFactory greekDeclensionFactory = new GreekDeclensionFactory(getDeclensions(declensionsAndFiles), getDeclensionList(declensionsAndFiles, declensionPath));
-        PrepositionRepository prepositionRepository = new PrepositionRepository(Language.GREEK, new GreekCaseFactory(), ruleFactory, getPrepositions(prepositionFileDescription),new DummyAccentuer());
+        PrepositionRepository prepositionRepository = new PrepositionRepository(Language.GREEK, new GreekCaseFactory(), ruleFactory, getFileContentForRepository(prepositionFileDescription));
         NounRepository nounRepository = new NounRepository(Language.GREEK, greekDeclensionFactory, new DummyAccentuer(),getNouns(nounFileDescription));
         VerbRepository2 verbRepository = new VerbRepository2(new GreekConjugationFactory(getGreekConjugations(conjugationsAndFiles), getGreekConjugationDefinitions(conjugationsAndFiles, conjugationPath), greekDeclensionFactory), Language.GREEK, new DummyAccentuer(),getVerbs(verbFileDescription));
-        Analizer greekAnalyzer = new GreekAnalyzer(prepositionRepository, nounRepository, verbRepository);
+        Analyzer greekAnalyzer = new GreekAnalyzer(prepositionRepository, nounRepository, verbRepository);
         Translator frenchTranslator = new FrenchTranslator(getGreekDico(greekFrenchDataFile), getFrenchVerbs(frenchVerbsDataFile), verbRepository, nounRepository, declensionPath, declensionsAndFiles, greekDeclensionFactory);
         translatorBridge = new TranslatorBridge(greekAnalyzer, frenchTranslator);
         mapValuesForTest = loadMapFromFiles(greekPathFile);
         mapValuesForResult = loadMapFromFiles(greekResultFile);
-
-         */
     }
 
     private List<String> getFrenchVerbs(String frenchVerbsDataFile) {
@@ -97,7 +101,7 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
         for (String declensionName : declensionNameList) {
             String parts[] = declensionName.split("%");
             String fileName = parts[1];
-            //declensionList.add(new GreekDeclension(fileName, getDeclensionElements(fileName, directory)));
+            declensionList.add(new GreekDeclension(fileName, getDeclensionElements(fileName, directory)));
         }
         return declensionList;
     }
@@ -125,14 +129,14 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
         */
 
         List<String> conjugationNameList = getFileContentForRepository(file);
-        Map<String, List<String>> germanConjugationDefinitionsMap = new HashMap<>();
+        Map<String, List<String>> greekConjugationDefinitionsMap = new HashMap<>();
         for(String conjugationName : conjugationNameList) {
             String parts[] = conjugationName.split("%");
             String fileName = parts[1];
             String nameOnly = parts[0];
-            germanConjugationDefinitionsMap.put(nameOnly, getConjugationElements(directory,fileName));
+            greekConjugationDefinitionsMap.put(nameOnly, getConjugationElements(directory,fileName));
         }
-        return germanConjugationDefinitionsMap;
+        return greekConjugationDefinitionsMap;
     }
 
     private List<String> getGreekConjugations(String conjugationsAndFiles) {
