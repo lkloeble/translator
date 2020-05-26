@@ -29,7 +29,7 @@ public class TranslatorRepositoryFactory {
         } else if(sourceLanguage.equals(Language.GREEK) && destinationLanguage.equals(Language.FRENCH)) {
             return new GreekToFrench(dictionaryReferenceData, destinationVerbFile, verbRepository, nounRepository, declensionFactory, new GreekLanguageDecorator(), new GreekFinalModifier());
         } else if(sourceLanguage.equals(Language.HEBREW) && destinationLanguage.equals(Language.FRENCH)) {
-            //return new HebrewToFrench(dictionaryReferenceData, destinationVerbFile, verbRepository, nounRepository, declensionFactory, new DefaultFinalModifier());
+            return new HebrewToFrench(dictionaryReferenceData, destinationVerbFile, verbRepository, nounRepository, declensionFactory, new DefaultFinalModifier());
         } else if(sourceLanguage.equals(Language.ROMANIAN) && destinationLanguage.equals(Language.FRENCH)) {
             return new RomanianToFrench(dictionaryReferenceData, destinationVerbFile, verbRepository, nounRepository, declensionFactory, new DefaultFinalModifier());
         } else if(sourceLanguage.equals(Language.GERMAN) && destinationLanguage.equals(Language.FRENCH)) {

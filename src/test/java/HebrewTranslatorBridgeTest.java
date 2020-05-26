@@ -5,10 +5,17 @@ import patrologia.translator.basicelements.*;
 import patrologia.translator.basicelements.noun.NounRepository;
 import patrologia.translator.basicelements.preposition.PrepositionRepository;
 import patrologia.translator.basicelements.verb.VerbRepository2;
+import patrologia.translator.casenumbergenre.greek.GreekCaseFactory;
 import patrologia.translator.casenumbergenre.hebrew.HebrewCaseFactory;
+import patrologia.translator.conjugation.hebrew.HebrewConjugationFactory;
 import patrologia.translator.declension.Declension;
+import patrologia.translator.declension.hebrew.HebrewDeclension;
+import patrologia.translator.declension.hebrew.HebrewDeclensionFactory;
 import patrologia.translator.linguisticimplementations.FrenchTranslator;
+import patrologia.translator.linguisticimplementations.HebrewAnalyzer;
 import patrologia.translator.linguisticimplementations.Translator;
+import patrologia.translator.rule.hebrew.HebrewRuleFactory;
+import patrologia.translator.utils.Analyzer;
 
 import java.util.*;
 
@@ -22,9 +29,9 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
 
     protected TranslatorBridge translatorBridge;
 
-    private String localTestPath = "C:\\Users\\kloeblel\\IdeaProjects\\translator\\src\\test\\resources\\";
-    private String localResourcesPath = "C:\\Users\\kloeblel\\IdeaProjects\\translator\\src\\main\\resources\\hebrew\\";
-    private String localCommonPath = "C:\\Users\\kloeblel\\IdeaProjects\\translator\\src\\main\\resources\\";
+    private String localTestPath = "C:\\Users\\kloeble.l\\IdeaProjects\\translator\\src\\test\\resources\\";
+    private String localResourcesPath = "C:\\Users\\kloeble.l\\IdeaProjects\\translator\\src\\main\\resources\\hebrew\\";
+    private String localCommonPath = "C:\\Users\\kloeble.l\\IdeaProjects\\translator\\src\\main\\resources\\";
 
     String nounFileDescription = localResourcesPath + "nouns.txt";
     String verbFileDescription = localResourcesPath + "verbs.txt";
@@ -37,19 +44,16 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
 
     @Before
     public void init() {
-        /*
         HebrewRuleFactory ruleFactory = new HebrewRuleFactory();
-        PrepositionRepository prepositionRepository = new PrepositionRepository(Language.HEBREW, new HebrewCaseFactory(), ruleFactory, getPrepositions(prepositionFileDescription), new Accentuer());
+        PrepositionRepository prepositionRepository = new PrepositionRepository(Language.HEBREW, new HebrewCaseFactory(), ruleFactory, getFileContentForRepository(prepositionFileDescription));
         HebrewDeclensionFactory hebrewDeclensionFactory = new HebrewDeclensionFactory(getDeclensions(), getDeclensionList());
         NounRepository nounRepository = new NounRepository(Language.HEBREW, hebrewDeclensionFactory, new Accentuer(), getNouns(nounFileDescription));
         VerbRepository2 verbRepository = new VerbRepository2(new HebrewConjugationFactory(getConjugations(), getHebrewConjugationsDefinitions(), hebrewDeclensionFactory), Language.HEBREW, new Accentuer(), getVerbs(verbFileDescription));
-        Analizer hebrewAnalyzer = new HebrewAnalyzer(prepositionRepository, nounRepository, verbRepository);
+        Analyzer hebrewAnalyzer = new HebrewAnalyzer(prepositionRepository, nounRepository, verbRepository);
         Translator frenchTranslator = new FrenchTranslator(getHebDico(hebrewFrenchDataFile), getFrenchVerbs(), verbRepository, nounRepository, null, null, hebrewDeclensionFactory);
         translatorBridge = new TranslatorBridge(hebrewAnalyzer, frenchTranslator);
         mapValuesForTest = loadMapFromFiles(hebrewPathFile);
         mapValuesForResult = loadMapFromFiles(hebrewResultFile);
-
-         */
     }
 
     private List<String> getFrenchVerbs() {
@@ -125,7 +129,6 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
 
     private List<Declension> getDeclensionList() {
         List<Declension> declensionList = new ArrayList<>();
-        /*
         declensionList.add(new HebrewDeclension("im.txt", getImElements()));
         declensionList.add(new HebrewDeclension("imsimple.txt", getImSimpleElements()));
         declensionList.add(new HebrewDeclension("imdir.txt", getImDirectionalElements()));
@@ -143,7 +146,6 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
         declensionList.add(new HebrewDeclension("invpur.txt", getInvPur()));
         declensionList.add(new HebrewDeclension("endingh.txt", getEndingH()));
         declensionList.add(new HebrewDeclension("mascendingh.txt", getMascEndingH()));
-         */
         return declensionList;
 
     }
