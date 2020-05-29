@@ -589,4 +589,4 @@ homereliv1lig004=>(des) héros(s), le(s) d'autre part oiseau de mer(s) réalise 
 homereliv1lig005=>(aux) augure (oiseau)(s) aussi tous, zeus et accomplissait souhaites@volonté(e)@,
 homereliv1lig006=>foobar
 
-toto=>de telle façon que et que moi aussi venu que j'adore (au) le.
+toto=>rupture

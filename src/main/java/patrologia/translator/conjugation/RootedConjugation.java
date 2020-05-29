@@ -54,7 +54,7 @@ public class RootedConjugation {
             for (Map.Entry entry : entries) {
                 CaseNumberGenre caseNumberGenre = (CaseNumberGenre) entry.getKey();
                 String conjugationValue = (String) entry.getValue();
-                ConjugationPart2 conjugationPart = new ConjugationPart2(caseNumberGenre, prefix + conjugationValue, prefix + conjugationValue);
+                ConjugationPart2 conjugationPart = new ConjugationPart2(prefix + conjugationValue, prefix + conjugationValue);
                 conjugationPartList.add(conjugationPart);
             }
         }

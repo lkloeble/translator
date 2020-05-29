@@ -153,7 +153,7 @@ public abstract class LanguageToFrench implements TranslatorRepository {
             Set<String> constructionNames = construction.getConstructionName(toTranslate, verb);
             constructionNames = filterPastParticipleForVerbalNoun(constructionNames);
             Map<String, Integer> formPositionByConstructionName = construction.getFormPosition(constructionNames, toTranslate, (Verb)word);
-            List<String> possibleVerbs = extractTranslation(formPositionByConstructionName, frenchVerbs.get(frenchRoot), verb.getPositionInTranslationTable(), verb);
+            List<String> possibleVerbs = extractVerbTranslation(formPositionByConstructionName, frenchVerbs.get(frenchRoot), verb.getPositionInTranslationTable(), verb);
             if(possibleVerbs.size() == 0 || possibleVerbs.get(0).equals("[XXX]")) {
                 System.out.println(word + " " + frenchRoot + " "  + formPositionByConstructionName.keySet().toString());
             }
@@ -292,7 +292,7 @@ public abstract class LanguageToFrench implements TranslatorRepository {
     protected abstract SpecificLanguageSelector getLanguageSelector();
 
 
-    private List<String> extractTranslation(Map<String, Integer> formPositionByConstructionName, String frenchVerbDescription, int suggestedPositionInTranslation, Verb verb) {
+    private List<String> extractVerbTranslation(Map<String, Integer> formPositionByConstructionName, String frenchVerbDescription, int suggestedPositionInTranslation, Verb verb) {
         if(frenchVerbDescription == null) return Collections.singletonList(UNKNOWN_TRANSLATION);
         List<String> allForms = Arrays.asList(frenchVerbDescription.split("%"));
         List<String> resultsFound = new ArrayList<>();
@@ -313,7 +313,7 @@ public abstract class LanguageToFrench implements TranslatorRepository {
                 resultsFound.add(translations.get(0));
             }
         }
-        if(resultsFound.size() == 0 && suggestedPositionInTranslation != 100) resultsFound = extractTranslation(formPositionByConstructionName, frenchVerbDescription, 100, verb);
+        if(resultsFound.size() == 0 && suggestedPositionInTranslation != 100) resultsFound = extractVerbTranslation(formPositionByConstructionName, frenchVerbDescription, 100, verb);
         return resultsFound;
     }
 

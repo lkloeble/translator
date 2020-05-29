@@ -37,6 +37,7 @@ public class GreekConjugationFactory  extends ConjugationFactory {
 
     @Override
     public String getConjugationSynonym(VerbDefinition verbDefinition) {
-        return null;
+        //return null;
+        return getConjugationByPattern(verbDefinition).getSynonym();
     }
 }

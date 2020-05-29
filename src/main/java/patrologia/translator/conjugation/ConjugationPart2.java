@@ -14,8 +14,8 @@ public class ConjugationPart2 {
         this.value=value;
     }
 
-    public ConjugationPart2(CaseNumberGenre caseNumberGenre, String value, String unaccentuedValue) {
-        this.conjugationPosition = ConjugationPosition.SINGULAR_FIRST_PERSON;
+    public ConjugationPart2(String value, String unaccentuedValue) {
+        this.conjugationPosition = ConjugationPosition.RELATED_TO_NOUN;
         this.value=value;
         this.unaccentuedValue = unaccentuedValue;
         this.indice = 0;

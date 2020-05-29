@@ -46,7 +46,10 @@ public class GreekAnalyzer implements Analyzer {
         if(sentence == null) return "";
         StringBuilder sb = new StringBuilder();
         char[] chars = sentence.toLowerCase().toCharArray();
-        int[] charsz = new int[]{7936,7937,7938,7939,7940,7941,7942,7952,7953,7955,7956,7957,7968,7969,7970,7971,7972,7973,7974,7975,7984,7985,7987,7988,7990,8000,8001,8003,8004,8005,8016,8017,8019,8020,8021,8023,8033,8036,8037,8039,8048,8049,8050,8051,8052,8053,8054,8055,8056,8057,8058,8059,8060,8061,8103,8115,8118,8127,8131,8134,8135,8147,8150,8166,8179,8180,8182,8183,8230};
+        int[] charsz = new int[]{7936,7937,7938,7939,7940,7941,7942,7952,7953,7955,7956,7957,7968,7969,7970,7971,7972,7973,7974,7975,
+                7984,7985,7987,7988,7989,7990,8000,8001,8003,8004,8005,8016,8017,8019,8020,8021,8023,8033,8036,8037,8039,8048,8049,
+                8050,8051,8052,8053,8054,8055,8056,8057,8058,8059,8060,8061,8069,8103,8115,8118,8125,8127,8131,8134,8135,8147,8150,8165,
+                8166,8179,8180,8182,8183,8230};
         for (char c : chars) {
             int i = (int) c;
             if(i>6000 && notInTab(i,charsz)) {
@@ -78,6 +81,12 @@ public class GreekAnalyzer implements Analyzer {
                     break;
                 case 942://'ἡ' 942
                     sb.append("η");
+                    break;
+                case 970://''ϊ' 970
+                    sb.append("ι");
+                    break;
+                case 971://'ϋ' 971
+                    sb.append("υ");
                     break;
                 case 972://'ό' 972
                     sb.append("ο");
@@ -161,6 +170,9 @@ public class GreekAnalyzer implements Analyzer {
                     sb.append("ι");
                     break;
                 case 7988://'ἴ' 7988
+                    sb.append("ι");
+                    break;
+                case 7989://'ἵ' 7989
                     sb.append("ι");
                     break;
                 case 7990://'ἶ' 7990
@@ -253,6 +265,9 @@ public class GreekAnalyzer implements Analyzer {
                 case 8061://'ώ' 8061
                     sb.append("ω");
                     break;
+                case 8069://'ᾅ' 8069
+                    sb.append("α");
+                    break;
                 case 8103://'ᾧ' 8103
                     sb.append("ω");
                     break;
@@ -261,6 +276,9 @@ public class GreekAnalyzer implements Analyzer {
                     break;
                 case 8118://'ᾶ' 8118
                     sb.append("α");
+                    break;
+                case 8125://'᾽' 8125
+                    sb.append("");//on efface l'apostrophe
                     break;
                 case 8127://' 81éè
                     sb.append("");
@@ -279,6 +297,9 @@ public class GreekAnalyzer implements Analyzer {
                     break;
                 case 8150://'ῖ' 8150
                     sb.append("ι");
+                    break;
+                case 8165://'ῥ' 8165
+                    sb.append("ρ");
                     break;
                 case 8166://'ῦ' 8166
                     sb.append("υ");

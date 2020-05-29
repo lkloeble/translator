@@ -1,5 +1,7 @@
 package patrologia.translator.conjugation;
 
+import patrologia.translator.casenumbergenre.CaseNumberGenre;
+
 public enum ConjugationPosition {
 
     SINGULAR_FIRST_PERSON(0), SINGULAR_SECOND_PERSON(1), SINGULAR_THIRD_PERSON(2),
@@ -33,6 +35,13 @@ public enum ConjugationPosition {
         }
     }
 
+    public static ConjugationPosition getValueByCaseNumberGenre(CaseNumberGenre caseNumberGenre) {
+        if(caseNumberGenre.isPlural()) {
+            return PLURAL_THIRD_PERSON;
+        }
+        return SINGULAR_FIRST_PERSON;
+    }
+
     public int getIndice() {
         return position;
     }
@@ -44,7 +53,6 @@ public enum ConjugationPosition {
     public boolean isThirdPlural() { return position == PLURAL_THIRD_PERSON.position; }
 
     public boolean isRelatedToNoun() {
-        //TODO
-        return false;
+        return position == RELATED_TO_NOUN.position;
     }
 }
