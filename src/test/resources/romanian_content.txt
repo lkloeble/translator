@@ -610,6 +610,11 @@ filocaliaantonie4E=>nu vei suspina, nu vei plânge, nu vei învinui pe nimeni, c
 filocaliaantonie4F=>Nu te vei clăti văzând pe cei mai răi ca tine rezemându-se pe bani şi pe socoteli,
 filocaliaantonie4G=>căci foarte rea patimă a sufletului este pofta, părerea şi neştiinţa.
 
+filocaliaantonie5A=>Omul cu judecată luînd aminte la sine cumpănește cele ce i se cuvin și-i sînt spre folos.
+filocaliaantonie5B=>Acela cugetă care lucruri sînt folositoare pentru firea sufletului său și care nu.
+filocaliaantonie5C=>Așa se ferește el de cele nepotrivite, care i-ar vătăma sufletul și l-ar despărți de nemurire.
+
+
 urzeala1A=>ar trebui să ne întoarcem, ceru Gared pe când desișurile începură să se întunece  tot mai tare în jurul lor. Ierburile sunt moarte.
 urzeala1B=>moartea te înspăimântă ? întrebă ser |Waymar| |Royce| cu umbra unui zâmbet.
 urzeala1C=>gared nu mușcă din momeală. Era un om bătrân, trecut de cincizeci de ani, și văzuse destui stăpâni venind și plecând.
@@ -892,7 +897,7 @@ stanibotez22=>Vom viețui împreună cu Hristos, pe Care moartea nu-L mai stăp�
 
 url2=>https://ro.orthodoxwiki.org/Patericul_egiptean#Pentru_avva_Antonie
 
-toto=>ei trebuie să treacă
+toto=>i-a zis: Vino.
 
 ă
 ș

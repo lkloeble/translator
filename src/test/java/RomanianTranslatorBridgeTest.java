@@ -29,9 +29,9 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
 
     private TranslatorBridge translatorBridge;
 
-    private String localTestPath="C:\\Users\\kloeble.l\\IdeaProjects\\translator\\src\\test\\resources\\";
-    private String localResourcesPath="C:\\Users\\kloeble.l\\IdeaProjects\\translator\\src\\main\\resources\\romanian\\";
-    private String localCommonPath="C:\\Users\\kloeble.l\\IdeaProjects\\translator\\src\\main\\resources\\";
+    private String localTestPath = "C:\\Users\\kloeble.l\\IdeaProjects\\translator\\src\\test\\resources\\";
+    private String localResourcesPath = "C:\\Users\\kloeble.l\\IdeaProjects\\translator\\src\\main\\resources\\romanian\\";
+    private String localCommonPath = "C:\\Users\\kloeble.l\\IdeaProjects\\translator\\src\\main\\resources\\";
 
     @Before
     public void init() {
@@ -47,7 +47,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         String romanianPathFile = localTestPath + "romanian_content.txt";
         String romanianResultFile = localTestPath + "romanian_expected_results.txt";
         RomanianDeclensionFactory romanianDeclensionFactory = new RomanianDeclensionFactory(getDeclensions(declensionsAndFiles), getDeclensionList(declensionsAndFiles, declensionPath));
-        NounRepository nounRepository = new NounRepository(ROMANIAN, romanianDeclensionFactory, new patrologia.translator.basicelements.DummyAccentuer(),getNouns(nounFileDescription));
+        NounRepository nounRepository = new NounRepository(ROMANIAN, romanianDeclensionFactory, new patrologia.translator.basicelements.DummyAccentuer(), getNouns(nounFileDescription));
         RomanianConjugationFactory romanianConjugationFactory = new RomanianConjugationFactory(getRomanianConjugations(conjugationsAndFiles), getRomanianConjugationDefinitions(conjugationsAndFiles, conjugationPath), romanianDeclensionFactory);
         VerbRepository2 verbRepository = new VerbRepository2(romanianConjugationFactory, ROMANIAN, new DummyAccentuer(), getVerbs(verbFileDescription));
         RomanianRuleFactory ruleFactory = new RomanianRuleFactory(verbRepository);
@@ -96,11 +96,11 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
 
         List<String> conjugationNameList = getFileContentForRepository(file);
         Map<String, List<String>> romanianConjugationDefinitionsMap = new HashMap<>();
-        for(String conjugationName : conjugationNameList) {
+        for (String conjugationName : conjugationNameList) {
             String parts[] = conjugationName.split("%");
             String fileName = parts[1];
             String nameOnly = parts[0];
-            romanianConjugationDefinitionsMap.put(nameOnly, getConjugationElements(directory,fileName));
+            romanianConjugationDefinitionsMap.put(nameOnly, getConjugationElements(directory, fileName));
         }
         return romanianConjugationDefinitionsMap;
     }
@@ -413,6 +413,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("assimil15T", translatorBridge);
         checkInMaps("assimil15U", translatorBridge);
     }
+
     @Test
     public void test_assimil_chapter16() {
         checkInMaps("assimil16A", translatorBridge);
@@ -532,7 +533,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("assimil20T", translatorBridge);
     }
 
-        @Test
+    @Test
     public void test_staniloae_page1() {
         checkInMaps("staniloae1A", translatorBridge);
         checkInMaps("staniloae1B", translatorBridge);
@@ -868,6 +869,13 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     }
 
     @Test
+    public void test_filocalia5() {
+        //checkInMaps("filocaliaantonie5A", translatorBridge);
+        checkInMaps("filocaliaantonie5B", translatorBridge);
+        checkInMaps("filocaliaantonie5C", translatorBridge);
+    }
+
+    @Test
     public void test_boca1() {
         //checkInMaps("bocaseumplu7A", translatorBridge);
         //checkInMaps("bocaseumplu7B", translatorBridge);
@@ -1063,7 +1071,8 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("bocaseumplu99I", translatorBridge);
         checkInMaps("bocaseumplu99J", translatorBridge);
         checkInMaps("bocaseumplu99K", translatorBridge);
-        checkInMaps("bocaseumplu99L", translatorBridge);    }
+        checkInMaps("bocaseumplu99L", translatorBridge);
+    }
 
     @Test
     public void test_patericul1() {
@@ -1157,5 +1166,5 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         assertTrue(true);
         checkInMaps("toto", translatorBridge);
     }
-    
+
 }

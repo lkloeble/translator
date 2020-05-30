@@ -70,6 +70,7 @@ cres,c,[cresc]
 cuget,,[incerca],(PAP*cuget*cugetat)
 culeg,,[face]
 culmin,,[fumez]
+cumpan,i,[aciti]
 cumpar,a,[cauta]
 cun,,[cunosc]
 cuprin,de,[crede]
@@ -86,6 +87,7 @@ deranj,,[fumez]
 deschi,,[vinde]
 descop,,[descopar]
 desfasoar,,[incerca]
+despart,si,[impart],(ACPINF*despart*ardespartsi)
 destept,a,[cauta],(PAP*destept*desteptat)
 deven,i,[deveni],(PAP*devinat*devenit@IPR0125*deven*devin@AIP01*deven*devi@AIP25*deven*devin@ACPINF*deven*ardeveni)
 dezleg,,[incerca],(IPR2*dezleg*dezleag)
@@ -184,7 +186,7 @@ izbut,i,[aciti],(PAP*izbut*izbutit)
 las,a,[cauta],(PAP*las*lasat)
 lepad,,[incerca],(IPR25*lepad*leapad@IPR1*lepad*lepez@PAP*lepad*lepadat)
 locu,,[locuiesc]
-lua@IRREGULAR%[IPR]=[iau,iei,ia,luam,luatsi,iau]%[PAP]=[luat]%[PAPR]=[luand]%[INFINITIVE]=[lua]
+lua@IRREGULAR%[IPR]=[iau,iei,ia,luam,luatsi,iau]%[PAP]=[luat]%[PAPR]=[luand|luind]%[INFINITIVE]=[lua]
 lucr,,[fumez],(PAP*lucr*lucrat)
 lumin,,[fumez]
 lupt,,[cauta]
@@ -340,6 +342,7 @@ urm,,[fumez],(PAP*urm*urmat)
 urmar,,[aciti],(PAP*urmar*urmarit)
 vad@IRREGULAR%[IPR]=[vad,vezi,vede,vedem,vedetsi,vad]%[AIPP]=[vazusem,vazusesi,vazuse,vazuseram,vazuseratsi,vazusera]%[INFINITIVE]=[vedea]%[PAP]=[vazut]%[PAPR]=[vazand|vazandu]%[AII]=[vedeam,vedeai,vedea,vedeam,vedeatsi,vedeau]
 van,,[vinde],(IPR1234*van*vin@PSP1234*van*vin)
+vatam,a,[cauta],(ACPINF*vatam*arvatama)
 vietsu,i,[locuiesc]
 vin@IRREGULAR%[IPR]=[vin,vii,vine,venim,venitsi,vin]%[AII]=[veneam,veneai,venea,veneam,veneatsi,veneau]%[PAPR]=[venind]%[PAP]=[venit]%[MMCP]=[venisem,venisesi,venise,veniseram,veniseratsi,venisera]%[AIMP]=[vino,venitsi][INFINITIVE]=[veni]
 vindec,a,[incerca]

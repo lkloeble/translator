@@ -602,6 +602,7 @@ nehotarit@adj%adjts
 neimplinir@fem%berea
 neintselegator@adj%adj
 nelimitat@adj%adj
+nemurir@fem%berea
 neplacut@adj%adj
 nepotrivit@adj%adjts
 neprihanir@fem%berea

@@ -7,3 +7,4 @@ AIF=>va,siva,ava,amva,atsiva,ava,
 PAPR=>and|andu
 PAP=>[adj]
 ACP=>,si,a,am,atsi,a
+ACPINF=>,xx
