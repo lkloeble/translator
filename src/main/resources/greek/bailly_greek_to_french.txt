@@ -289,7 +289,7 @@
 δοκε@verb!norm%1(verb)=ressembler
 δοκιμαζ@verb!norm%1(verb)=prouver%2(verb)=tester%3(verb)=verifier
 δοξ@noun!α-ης%1(noun)=gloire
-δουλ@noun!ος-ου%1(noun)=esclave%2(noun)=serviteur
+δουλ@noun!ος-ου%1(noun)=esclave
 δουλει@noun!α-ας%1(noun)=esclavage
 δυο@noun!inv%1(noun)=deux
 δυσ@noun!ις-εως%1(noun)=ouest%2(noun)=levant
