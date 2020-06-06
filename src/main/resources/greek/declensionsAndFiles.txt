@@ -27,6 +27,7 @@ x-ος2%xeip.txt
 ος-η-ο%eremos.txt
 αυτος%autos-n-o.txt
 υς-ως%basileus.txt
+υς-ος%basileos.txt
 salomon%salomon.txt
 apas%apas.txt
 ος-ος-ον%aoratos.txt

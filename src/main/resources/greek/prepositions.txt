@@ -52,6 +52,7 @@
 επιgen@prep()
 επιdat@prep()
 επιμελως@prep()
+ες@prep()
 εφ@prep()
 εχθες@prep()
 ηδε@prep()
@@ -64,6 +65,7 @@
 ιλεως@prep()
 ινα@prep()
 ινατι@prep()
+ισα@prep()
 ισον@prep()
 καγω@prep()
 και@prep()
@@ -152,6 +154,7 @@
 σου@prep(gen)
 συ@prep()
 συν@prep(acc)
+σφι@prep(dat)
 τας@prep%prep(acc)%[electAccusativeForFollowingNoun]
 ταις@prep%prep(acc)%[electDativeForFollowingNoun]
 ταυτα@prep()

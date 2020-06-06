@@ -19,3 +19,4 @@ AORACTPART=>[ων-ουσα-ον]
 AORACTSUBJ=>ω,ης,η,ωμεν,ητε,ωσιν
 AORPASSUB=>-,-,αι,-,-,-
 AORPASSPART=>θεντα
+AORINFMID=>θαι

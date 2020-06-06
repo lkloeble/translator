@@ -25,6 +25,7 @@
 αδελφοκτονι@noun!α-ας%1(noun)=fratricide
 αδελφοτ@noun!ης-ητος%(noun)=fraternité
 αδ@noun!ης-ου%1(noun)=hadès
+αδικημ@noun!α-ατος%1(noun)=offense%2(noun)=tort
 αδικε@verb!norm%1(verb)=pecher
 αδικ@adj!ος-ος-ον%1(adj)=injuste
 αδικι@noun!α-ας%1(noun)=injustice
@@ -48,6 +49,7 @@
 αιδ@noun!ης-αο%1(noun)=hadès
 αιδι@noun!ος-ου%1(noun)=éternel
 αιθ@prep%1(prep)=qui
+αιτι@adj!ος-α-ον%1(adj)=coupable de
 αιτι@noun!α-ης%1(noun)=culpabilité
 αιφνιδι@noun!ος-ου%1(noun)=soudain
 αιτ@verb!norm%1(verb)=demander
@@ -152,6 +154,7 @@
 αρσεν@noun!inv%1(adj)=mâle
 αρτ@noun!ος-ου%1(noun)=pain
 ατιμ@adj!ος-ος-ον%1(adj)=deshonoré
+αρπαζ@verb!norm%1(verb)=transporter loin%2(verb)=arracher
 αρχ@noun!η-ης%1(noun)=principe,origine%2(noun)=point de depart%3(noun)=extremite finale,recapitulation,total%4(noun)=commandement,pouvoir,autorite%5(noun)=commencement
 αρκε@verb!norm%1(verb)=assister%2(verb)=ecarter
 αρχ@verb!norm%1(verb)=gouverner%2(verb)=commencer
@@ -171,6 +174,8 @@
 αυξαν@verb!norm%1(verb)=croitre
 αυται@prep%1(prep)=ces(e)
 αυτ@adj!αυτος%1(adj)=le
+αφηγε@verb!norm%1(verb)=diriger
+αφικνε@verb!norm%1(verb)=arriver
 αψιδ@noun!α-ας%1(noun)=arche
 αχαι@adj!ος-α-ον%1(adj)=achéen
 αχας@noun!inv%1(noun)=achaz
@@ -189,6 +194,7 @@
 βαρβαρ@noun!ος-ου%1(noun)=barbare
 βαρβαροισι@noun!inv%1(noun)=barbares
 βασιλε@noun!υς-ως%1(noun)=roi
+βασιλε@noun!υς-ος%1(noun)=roi
 βασιλει@noun!α-ας%1(noun)=règne%2(noun)=royaume
 βδελυκτ@adj!ος-η-ο%1(adj)=abominable
 βε@noun!inv%1(noun)=be
@@ -259,6 +265,7 @@
 δεικνυ@verb!norm%1(verb)=montrer
 δεσμ@noun!ος-ου2%1(noun)=entrave%2(noun)=chaîne
 δευτερ@noun!ος-α-ον%1(adj)=deuxième
+δευτερ@adj!η-ης%1(adj)=seconde
 δενδρ@noun!ον-ου%1(noun)=arbre
 δη@prep%1(prep)=maintenant%2(prep)=déjà%3(prep)=donc
 δι@prep%1(prep)=au travers de
@@ -341,6 +348,7 @@
 ελικωνιαδ@noun!x-ος2%1(noun)=héliconien
 ελικων@noun!x-ος2%1(noun)=hélicon
 ελλη@noun!x-ος%1(noun)=grec
+ελλην@noun!x-ος2%1(noun)=grec (hellène)
 ελληνικ@noun!ος-η-ον%1(adj)=grec
 ελωρι@noun!ον-ου%1(noun)=oiseau de mer
 εμμανουηλ@noun!inv%1(noun)=emmanuel
@@ -405,6 +413,7 @@
 ερπετ@noun!ον-ου%1(noun)=reptile%2(noun)=animal rampant
 ερχ@verb!norm%1(verb)=venir
 ερωτ@verb!norm%1(verb)=interroger%2(verb)=demander
+ες@prep%1(prep)=dans%2(prep)=vers
 εσθι@verb!norm%1(verb)=dévorer,consumer%2(verb)=manger
 εσπερ@noun!α-ας%1(noun)=ouest%2(noun)=soir
 εσρωμ@noun!inv%1(noun)=esrom
@@ -415,6 +424,7 @@
 ευαγγελι@noun!ον-ου%1(noun)=bonne nouvelle%2(noun)=évangile
 ευλογ@verb!norm%1(verb)=parler avec bienveillance%2(verb)=dire du bien,célébrer%3(verb)=honorer%4(verb)=benir
 ευρισκ@verb!norm%1(verb)=rencontrer%2(verb)=trouver
+ευρωπ@noun!η-ης%1(noun)=europe
 ευσεβ@adj!ης-ης-ες%1(adj)=dévot
 ευσεβει@noun!α-ας%1(noun)=piété
 ευχαριστ@verb!norm%1(verb)=remercier
@@ -477,6 +487,7 @@
 θηλ@adj!υς-εια-υ%1(adj)=femelle
 θηρι@noun!ον-ου%1(noun)=animal sauvage
 θρον@noun!ος-ου%1(noun)=trône
+θυγατ@noun!ηρ-ερος%1(noun)=servante%2(noun)=fille
 θυρ@noun!α-ας%1(noun)=porte
 θυσι@noun!α-ας%1(noun)=sacrifice
 θωμαστ@adj!ος-η-ον%1(adj)=admirable
@@ -496,9 +507,11 @@
 ιματι@noun!ον-ου%1(noun)=manteau%2(noun)=vêtement
 ινα@prep%1(prep)=en accord avec%2(prep)=à cause de%3(prep)=afin que
 ινατι@prep%1(prep)=pour quelle raison
+ισα@prep%1(prep)=égal à
 ισον@prep%1(prep)=égal à
 ιουδ@noun!ας-ου%1(noun)=judas
 ισαακ@noun!inv%1(noun)=isaac
+ιω@noun!inv%1(noun)=io (lune)
 ιωβηδ@noun!inv%1(noun)=obed
 ιωσηφ@noun!inv%1(noun)=joseph
 ιωσι@noun!ας-ου%1(noun)=josias
@@ -571,6 +584,7 @@
 κρατ@verb!norm%1(verb)=dominer
 κρατουμεν@noun!η-ης%1(noun)=prisonnier
 κρην@noun!η-ης%1(noun)=puits%2(noun)=fontaine%3(noun)=source
+κρη@noun!ς-τος%1(noun)=crétois
 κριν@verb!norm%1(verb)=séparer,distinguer,choisir%2(verb)=décider,trancher,résoudre,expliquer,interpréter%3(verb)=juger
 κριτ@noun!ης-ου%1(noun)=juge
 κροκοδειλ@noun!ος-ου%1(noun)=crocodile
@@ -812,6 +826,7 @@
 περισσευ@verb!norm%1(verb)=abonder
 περιφερ@verb!norm%1(verb)=porter
 περιφυ@verb!norm%1(verb)=verbe des présocratique trouvé nulle part en trad%2(verb)=developper
+περσ@noun!ης-ου%1(noun)=perse
 πετ@verb!norm%1(verb)=voler
 μεταβιωναι@noun!inv%1(noun)=vie
 πετειν@noun!ον-ου%1(noun)=oiseau
@@ -947,6 +962,7 @@
 συνεχ@verb!norm%1(verb)=assembler
 συνερχ@verb!norm%1(verb)=voyager%2(verb)=sassembler%3(verb)=avoirdesrelationssexuelles
 συστημα@noun!inv%1(noun)=système
+σφι@prep%1(prep)=eux
 σχισμ@noun!α-ατος%1(noun)=schisme%2(noun)=division
 σχημ@noun!α-ατος%1(noun)=nature%2(noun)=forme%3(noun)=apparence
 σωμ@noun!α-ατος%1(noun)=corps
@@ -1014,6 +1030,7 @@
 τροπ@noun!ον-ου%1(noun)=façon
 τροχ@noun!ος-ου%1(noun)=roue
 τροχοειδ@adj!ης-ης-ες%1(noun)=rond
+τυρ@noun!ος-ου%1(noun)=tyr
 τυφλ@adj!ος-η-ον%1(adj)=aveugle
 τυφων@noun!x-ος2%1(noun)=typhon
 τοθ@prep%1(prep)=à ce moment
@@ -1077,6 +1094,7 @@
 φλοι@noun!ος-ου%1(noun)=écorce
 φοβ@noun!ος-ου%1(noun)=crainte%2(noun)=peur
 φοβε@verb!norm%1(verb)=craindre
+φοινικ@noun!η-ης%1(noun)=phénicie
 φορε@verb!norm%1(verb)=porter
 φρονιμ@noun!ος-ου%1(noun)=sage
 φυγαδευ@verb!norm%1(verb)=exiler
