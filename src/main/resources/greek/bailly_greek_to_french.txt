@@ -111,10 +111,11 @@
 αξιαγαπητ@adj!ος-ος-ον%1(adj)=digne d'amour
 αορατ@adj!ος-ος-ον%1(adj)=invisible
 απα@adj!apas%1(noun)=tout
-απαλ@adj!ος-α-ον%1(adj)=doux
-απειμι@verb!irrg%1(verb)=etreabsent
+απαγινεοντας@noun!inv%1(noun)=transportant
 απαγγελλ@verb!norm%1(verb)=relater
+απαλ@adj!ος-α-ον%1(adj)=doux
 απαλλασσ@verb!norm%1(verb)=liberer
+απειμι@verb!irrg%1(verb)=etreabsent
 απειρ@noun!ος-ου%1(noun)=infini
 απιστ@noun!ος-η-ον%1(noun)=infidèle%2(noun)=incroyant
 αποδεξ@noun!ις-εως%1(noun)=réalisation
@@ -146,6 +147,7 @@
 απροσωπολημπτως@prep%1(prep)=de façon impartiale
 αρα@prep%1(prep)=c'est pourquoi
 αραμ@noun!inv%1(noun)=aram
+αργος@noun!inv%1(noun)=argos
 αργυρι@noun!ον-ου%1(noun)=monnaie%2(noun)=argent
 αριθμ@noun!ος-ου%1(noun)=somme
 αρματει@noun!ος-ου%1(noun)=char
@@ -161,8 +163,9 @@
 αρχαι@adj!ος-α-ον%1(noun)=ancien
 αρχετωσαν@noun!inv%1(noun)=qu'ils gouvernent
 αρχιερε@noun!υς-ως%1(noun)=grand prêtre
-ασεβ@adj!ης-ης-ες%1(adj)=impie%2(adj)=sacrilège
 ασαφ@noun!inv%1(noun)=asa
+ασεβ@adj!ης-ης-ες%1(adj)=impie%2(adj)=sacrilège
+ασσυρια@noun!inv%1(noun)=assyrie
 ασθεν@verb!norm%1(verb)=etrefaible
 ασφαλ@adj!ης-ης-ες%1(adj)=sûr
 αστ@noun!ηρ-ερος%1(noun)=étoile
@@ -173,6 +176,7 @@
 αυλιζ@verb!norm%1(verb)=chasser
 αυξαν@verb!norm%1(verb)=croitre
 αυται@prep%1(prep)=ces(e)
+αυτικα@prep%1(prep)=simultanément%2(prep)=à ce moment
 αυτ@adj!αυτος%1(adj)=le
 αφηγε@verb!norm%1(verb)=diriger
 αφικνε@verb!norm%1(verb)=arriver
@@ -276,6 +280,7 @@
 διακον@noun!ος-ου%1(noun)=diacre%2(noun)=serviteur
 διακονε@verb!norm%1(verb)=servir
 διαστολ@noun!η-ης%1(noun)=expansion
+διαφορ@noun!α-ας%1(noun)=différence%2(noun)=inimitié
 διδασκ@verb!norm%1(verb)=enseigner
 διαθηκ@noun!η-ης%1(noun)=testament%2(noun)=alliance
 διαχωριζ@verb!norm%1(verb)=separer
@@ -317,6 +322,7 @@
 ειρ@verb!norm%1(verb)=appeler
 ειρην@noun!η-ης%1(noun)=paix
 εις@prep%1(prep)=dans%2(prep)=vers
+εισαφικνε@verb!norm%1(verb)=arriver
 εισερχ@verb!norm%1(verb)=entrer
 εκ@prep%1(prep)=hors de
 εκβαιν@verb!norm%1(verb)=sortir
@@ -396,6 +402,7 @@
 επιστολ@noun!η-ης%1(noun)=lettre
 επιστροφ@noun!η-ης%1(noun)=retour
 επιτρεπ@verb!norm%1(verb)=permettre%2(verb)=instruire
+επιτιθη@verb!norm%1(verb)=placer
 επιφερ@verb!norm%1(verb)=poser
 επιφρασσ@verb!norm%1(verb)=bloquer
 επορα@verb!norm%1(verb)=considerer%2(verb)=contempler%3(verb)=surveiller%4(verb)=agreer
@@ -413,6 +420,7 @@
 ερπετ@noun!ον-ου%1(noun)=reptile%2(noun)=animal rampant
 ερχ@verb!norm%1(verb)=venir
 ερωτ@verb!norm%1(verb)=interroger%2(verb)=demander
+ερυθρ@adj!ος-α-ον%1(adj)=rouge
 ες@prep%1(prep)=dans%2(prep)=vers
 εσθι@verb!norm%1(verb)=dévorer,consumer%2(verb)=manger
 εσπερ@noun!α-ας%1(noun)=ouest%2(noun)=soir
@@ -614,12 +622,14 @@
 λιθαζ@verb!norm%1(verb)=lapider
 λιπαρ@noun!ος-α-ον%1(noun)=huileux%2(noun)=gras
 λογ@noun!ος-ου%1(noun)=parole,sentence,question%2(noun)=mot%3(noun)=recit%4(noun)=raison,intelligence%5(noun)=opinion%6(noun)=relation,proportion,analogie%7(noun)=justification,explication%8(noun)=verbe
+λογι@noun!ος-ου%1(noun)=érudit
 λοιπ@adj!ος-η-ον%1(adj)=restant
 λυ@verb!norm%1(verb)=delier,delivrer,lacher,laisser aller,mettre en liberte%2(verb)=dissoudre,rompre,briser,achever,terminer,resoudre,expliquer,se liberer de%3(verb)=delier
 λυπε@verb!norm%1(verb)=irriter
 μαγ@noun!ος-ου%1(noun)=mage
 μαθημ@noun!α-ατος%1(noun)=sujet%2(noun)=leçon
 μαθητ@noun!ης-ου%1(noun)=disciple
+μακρ@adj!ος-α-ον%1(adj)=grand
 μακαρι@adj!ος-α-ον%1(adj)=bienheureux%2(adj)=heureux
 μακαριζ@verb!norm%1(verb)=rendre heureux%2(verb)=benir
 μαλλον@prep%1(prep)=plus
@@ -686,6 +696,8 @@
 μυστηρι@noun!ον-ου%1(noun)=sacrement%2(noun)=mystère
 μωυσης@noun!inv%1(noun)=moïse
 να@noun!ος-ου%1(noun)=temple
+ναυτιλ@noun!ος-ου%1(noun)=marin
+ναυτιλι@noun!inv%1(noun)=expédition maritime
 ναασσων@noun!inv%1(noun)=naason
 νε@adj!ος-α-ον%1(adj)=nouveau
 νεανι@noun!ας-ου%1(noun)=jeune homme
@@ -711,6 +723,7 @@
 οι@noun!inv%1(noun)=les
 οικ@noun!ος-ου%1(noun)=maison
 οικι@noun!α-ας%1(noun)=maison
+οικε@verb!norm%1(verb)=habiter
 οικοδομ@verb!norm%1(verb)=construire
 οικουργ@verb!norm%1(verb)=garderlamaison
 οιν@noun!ος-ου%1(noun)=vin
@@ -827,6 +840,7 @@
 περιφερ@verb!norm%1(verb)=porter
 περιφυ@verb!norm%1(verb)=verbe des présocratique trouvé nulle part en trad%2(verb)=developper
 περσ@noun!ης-ου%1(noun)=perse
+περσε@noun!α-ας%1(noun)=perse
 πετ@verb!norm%1(verb)=voler
 μεταβιωναι@noun!inv%1(noun)=vie
 πετειν@noun!ον-ου%1(noun)=oiseau
@@ -996,6 +1010,7 @@
 τιμ@noun!η-ης%1(noun)=prix%2(noun)=honneur
 τη@prep%1(prep)=la
 την@prep%1(prep)=la
+τηνδε@prep%1(prep)=ce
 τηνικαυτα@prep%1(prep)=à ce moment là
 τηκ@verb!norm%1(verb)=bruler
 τηρ@verb!norm%1(verb)=épier,surveiller%2(verb)=garder
@@ -1022,7 +1037,9 @@
 τουτεστι@prep%1(prep)=c'est à dire
 τουτεστιν@prep%1(prep)=c'est à dire
 τουτο@prep%1(prep)=ce
+τουτον@prep%1(prep)=ce
 τουτου@prep%1(prep)=ce
+τουτους@prep%1(prep)=ces
 τουτω@prep%1(prep)=à ce
 τουτων@prep%1(prep)=de ces
 τρεφ@verb!norm%1(verb)=epaissir
@@ -1095,6 +1112,7 @@
 φοβ@noun!ος-ου%1(noun)=crainte%2(noun)=peur
 φοβε@verb!norm%1(verb)=craindre
 φοινικ@noun!η-ης%1(noun)=phénicie
+φορτι@noun!ο-ου%1(noun)=marchandise
 φορε@verb!norm%1(verb)=porter
 φρονιμ@noun!ος-ου%1(noun)=sage
 φυγαδευ@verb!norm%1(verb)=exiler
@@ -1120,6 +1138,7 @@
 χριστ@noun!ος-ου%1(noun)=Christ
 χρον@noun!ος-ου%1(noun)=époque%2(noun)=temps
 χωμ@noun!η-ης%1(noun)=village
+χωρ@noun!ος-ου%1(noun)=pays%2(noun)=territoire%3(noun)=endroit
 χωριςgen@prep%1(prep)=sans
 ψοφ@noun!ος-ου%1(noun)=bruit
 ψυχρ@noun!ος-ου%1(noun)=froid

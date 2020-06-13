@@ -582,6 +582,18 @@ herodote110C=>ni oeuvre(s) grand(s) aussi et admirable(s),
 herodote110D=>le d'une part (aux) grec(s) le d'autre part barbares accepté, anonyme devenu,
 herodote110E=>le aussi autre(s)@mais@ et au travers de la@était@ culpabilité(e) nous font la guerre (aux) l'un l'autre(s).
 
+herodote111fullenglish=>The Persian learned men say that the Phoenicians were the cause of the dispute.
+herodote111fullenglish=>These (they say) came to our seas from the sea which is called Red,
+herodote111fullenglish=>and having settled in the country which they still occupy,
+herodote111fullenglish=>at once began to make long voyages.
+herodote111fullenglish=>Among other places to which they carried Egyptian and Assyrian merchandise, they came to Argos,
+herodote111A=>(des) perse(s)(e) d'une part maintenant les érudit(s) phénicie(s)(e) coupable de(s) disent devenu la (du) inimitié(e).
+herodote111B=>ces car depuis la (du) rouge(e) (du) appelé(e) (du) mer(e) arrivé(s) sur ce la mer(e),
+herodote111C=>et habitant ce le endroit le et maintenant habitent,
+herodote111D=>à ce moment (aux) expédition maritime(s) (aux) grand(s)(e) placer,
+herodote111E=>transportant d'autre part marchandise(s) égyptien(s) aussi et assyrie la aussi autre(e) être arrivé et donc et vers argos.
+
+
 herodote121fullenglish=>In this way, the Persians say (and not as the Greeks), was how Io came to Egypt, and this, according to them,
 herodote121fullenglish=>was the first wrong that was done. Next, according to their story, some Greeks (they cannot say who) landed at Tyre in Phoenicia
 herodote121fullenglish=>and carried off the king's daughter Europa. These Greeks must, I suppose, have been Cretans.

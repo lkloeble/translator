@@ -2,3 +2,4 @@ nom%sing%neut%
 acc%sing%neut%
 nom%plr%neut%
 acc%plr%neut%
+dat%plr%neut%

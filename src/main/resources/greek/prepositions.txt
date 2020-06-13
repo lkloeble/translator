@@ -19,6 +19,7 @@
 αφ@prep()
 αρα@prep()
 αυται@prep()
+αυτικα@prep()
 βι@prep()
 βο@prep()
 βυ@prep()
@@ -165,6 +166,7 @@
 τελος@prep()
 τη@prep%prep(dat)%[electDativeForFollowingNoun]
 την@prep%prep(acc)%[electAccusativeForFollowingNoun]
+τηνδε@prep%prep(acc)%[electAccusativeForFollowingNoun]
 τηνικαυτα@prep()
 της@prep%prep(gen)%[electGenitiveForFollowingNoun]
 τι@prep%prep(nom)
@@ -182,6 +184,8 @@
 τουτεστι@prep()
 τουτεστιν@prep()
 τουτο@prep()
+τουτον@prep()
+τουτους@prep()
 τουτου@prep()
 τουτω@prep(dat)
 τουτων@prep(gen)

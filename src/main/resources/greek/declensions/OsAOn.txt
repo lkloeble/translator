@@ -2,7 +2,8 @@ nom%sing%masc%ος
 nom%sing%fem%α
 nom%sing%neut%ον
 gen%sing%masc%ου
-gen%sing%fem%ας
+gena%sing%fem%ας
+genb%sing%fem%ης
 gen%sing%neut%ου
 acc%sing%masc%ον
 acc%sing%fem%αν
@@ -27,5 +28,6 @@ voc%plr%fem%αι
 voc%plr%neut%α
 data%plr%masc%οις
 datb%plr%masc%οισιν
-dat%plr%fem%αις
+data%plr%fem%αις
+datb%plr%fem%ησι
 dat%plr%neut%οις
