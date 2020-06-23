@@ -68,6 +68,7 @@ ancill@fem%a-ae
 angel@masc%us-i
 angelic@adj%us-a-um
 angust@adj%us-a-um
+angusti@fem%a-ae
 anil@adj%is-is-e
 anim@masc%us-i
 anim@fem%a-ae[ablplr:animabus,datplr:animabus]
@@ -135,6 +136,7 @@ bell@neut%um-i
 belland@adj%us-a-um
 bene@neut%inv
 benedict@adj%us-a-um
+benefici@neut%um-i
 besti@fem%a-ae
 bibliothec@fem%a-ae
 bienni@neut%um-i
@@ -301,6 +303,7 @@ deli@fem%a-ae
 delphi@neut%inv
 demonstrat@adj%us-a-um
 demonstrati@fem%o-onis
+deprecat@masc%or-oris
 desert@adj%us-a-um
 desideri@neut%um-i
 despect@adj%us-a-um
@@ -347,6 +350,8 @@ duabus@adj%inv
 duae@adj%inv
 duas@adj%inv
 dulci@fem%um-i
+dumnorigem@masc%inv
+dumnorix@masc%inv
 duo@adj%inv
 duodecim@adj%inv
 duos@adj%inv
@@ -492,6 +497,7 @@ gustati@fem%o-onis
 gutt@fem%a-ae
 haben@adj%s-tis
 habit@adj%us-a-um
+haedu@masc%us-i
 haeres@fem%is-is
 haerese@masc%us-i
 haeresiarch@fem%a-ae
@@ -590,6 +596,7 @@ invent@adj%us-a-um
 invict@adj%us-a-um
 invictissim@adj%us-a-um
 invisibil@adj%is-is-e
+invit@adj%us-a-um
 ips@adj%e-a-um
 ipsimet@neut%inv
 irat@adj%us-a-um
@@ -633,6 +640,7 @@ labor@masc%x-is2
 lac@masc%us-us
 laetiti@fem%a-ae
 laet@adj%us-a-um
+largiti@fem%o-onis
 latin@adj%us-a-um
 lapid@neut%x-is2[nomsing:lapis]
 lapide@adj%us-a-um
@@ -810,6 +818,8 @@ obscenit@fem%as-atis
 obscuri@adj%or-or-us
 obscur@adj%us-a-um
 observat@adj%us-a-um
+obs@masc%es-idis
+obstrict@adj%us-a-um
 obtentur@adj%us-a-um
 occas@masc%us-us
 occasi@fem%o-onis

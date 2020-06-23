@@ -118,6 +118,7 @@ ancill@noun!a-ae%1(noun)=servante, esclave%2(noun)=devote, servante%3(noun()=mon
 angel@noun!us-i%1(noun)=ange
 angelic@adj!us-a-um%1(adj)=angélique
 angust@adj!us-a-um%1(adj)=étroit
+angusti@noun!a-ae%1(noun)=étroitesse
 anil@adj!is-is-e%1(adj)=vieille femme
 anim@noun!us-i%1(noun)=principe vital distinct du corps%2(noun)=siege de la pensee, ensemble des facultes de l'ame%3(noun)=siege du desir et de la volonte%4(noun)=siege du sentiment et des passions%5(noun)=terme de cajolerie : <exp>mi anime</exp><trad>moncoeur</trad>%6(noun)=caractere, nature (poesie)%7(noun)=âme
 anim@noun!a-ae%1(noun)=âme
@@ -208,9 +209,10 @@ beat@adj!us-a-um%1(adj)=bienheureux, heureux%2(adj)=comble de tous les biens, ri
 belg@noun!a-ae%1(noun)=belge
 bell@noun!um-i%1(noun)=guerre
 belland@adj!us-a-um%1(adj)=à combattre
-benedict@adj!us-a-um%1(adj)=béni
 bene@noun!inv%1(noun)=bien
 benedico@verb!norm%1(verb)=benir
+benedict@adj!us-a-um%1(adj)=béni
+benefici@noun!um-i%1(noun)=bénéfice
 besti@noun!a-ae%1(noun)=bête
 bibliothec@noun!a-ae%1(noun)=bibliotheque
 bibo@verb!norm%1(verb)=boire
@@ -480,6 +482,7 @@ demonstrati@noun!o-onis%1(noun)=indication%2(noun)=preuve
 demonstro@verb!nom%1(verb)=montrer,faire voir,designer,indiquer%2(verb)=exposer,decrire,mentionner%3(verb)=montrer
 denique@prep%1(prep)=à côté de cela%2(prep)=finalement
 depono@verb!norm%1(verb)=placer
+deprecat@noun!or-oris%1(noun)=intercesseur
 deputo@verb!norm%1(verb)=considerercomme
 descendo@verb!norm%1(verb)=descendre
 desert@adj!us-a-um%1(adj)=désert
@@ -557,6 +560,8 @@ dubi@adj!us-a-um%1(adj)=incertain,indecis%2(adj)=critique,dangereux%3(adj)=doute
 duco@verb!norm%1(verb)=conduire%2(verb)=diriger
 dulci@noun!um-i%1(noun)=gâteau
 dum@prep%1(prep)=tant que%2(prep)=aussi longtemps que%3(prep)=jusqu'à%4(prep)=tandis que
+dumnorigem@noun!inv%1(noun)=dumnorix
+dumnorix@noun!inv%1(noun)=dumnorix
 duntaxat@prep%1(prep)=à ce point
 duro@verb!norm%1(verb)=durcir
 e@prep%1(prep)=en dehors de
@@ -798,6 +803,7 @@ habit@adj!us-a-um%1(adj)=maintenu
 habito@verb!norm%1(verb)=habiter
 hac@prep%1(prep)=cette
 haec@prep%1(prep)=ces
+haedu@noun!us-i%1(noun)=héduen
 haeres@noun!is-is%1(noun)=hérésie
 haeresiarch@noun!a-ae%1(noun)=hérésiarque
 haerese@noun!us-i%1(noun)=hérétique
@@ -882,6 +888,7 @@ imperan@adj!s-s-s%1(adj)=gouvernant
 imperi@noun!um-i%1(noun)=empire
 imperiti@noun!a-ae%1(noun)=ignorance
 impero@verb!norm%1(verb)=commander
+impetro@verb!norm%1(verb)=accomplir%2(verb)=obtenir
 impi@adj!us-a-um%1(noun)=maudit%2(noun)=impie
 impleo@verb!norm%1(verb)=satisfaire%2(noun)=rendre enceinte%3(noun)=couvrir%4(noun)=remplir
 impluvi@noun!um-i%1(noun)=bassin
@@ -979,6 +986,7 @@ invicem@prep%1(prep)=alternativement
 invict@adj!us-a-um%1(adj)=invaincu
 invictissim@adj!us-a-um%1(adj)=le plus invaincu
 invisibil@adj!is-is-e%1(adj)=invisible
+invit@adj!us-a-um%1(adj)=réticent
 invito@verb!norm%1(verb)=challenger%2(verb)=inviter
 invoco@verb!norm%1(verb)=invoquer,appeler%2(verb)=appeler,nommer%3(verb)=invoquer
 involvo@verb!norm%1(verb)=entourer%2(verb)=mettre en oeuvre%3(verb)=enrouler
@@ -1044,6 +1052,7 @@ laetiti@noun!a-ae%1(noun)=bonheur%2(noun)=joie
 lapid@noun!x-is2%1(noun)=pierre
 lapide@adj!us-a-um%1(adj)=pierreux
 laps@noun!us-us%1(noun)=glissant
+largiti@noun!o-onis%1(noun)=attribution
 late@prep%1(prep)=largement
 latin@adj!us-a-um%1(noun)=latin
 latissim@adj!us-a-um%1(noun)=le plus large
@@ -1289,6 +1298,8 @@ obscur@adj!us-a-um%1(adj)=sombre
 obscuri@adj!or-or-us%1(adj)=plus sombre
 observat@adj!us-a-um%1(adj)=observé
 observo@verb!norm%1(verb)=observer
+obs@noun!es-idis%1(noun)=otage
+obstrict@adj!us-a-um%1(adj)=tenu
 obtempero@verb!norm%1(verb)=obeir
 obtentur@adj!us-a-um%1(adj)=sur le point de posséder
 obtineo@verb!norm%1(verb)=posseder
@@ -1803,6 +1814,7 @@ specio@verb!norm%1(verb)=observer
 specto@verb!norm%1(verb)=regarder%2(verb)=observer
 sperno@verb!norm%1(verb)=separer
 spero@verb!norm%1(verb)=esperer
+sponte@prep%1(prep)=spontanément
 sto@verb!norm%1(verb)=demeurer
 spiracul@noun!um-i%1(noun)=souffle
 spirit@noun!us-i%1(noun)=air (respire)%2(noun)=vie,soupir%3(noun)=odeur,suffisance,arrogance%4(noun)=esprit,ame%5(noun)=le saint esprit (christianisme)%6(noun)=souffle

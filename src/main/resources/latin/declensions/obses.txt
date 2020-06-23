@@ -1,0 +1,10 @@
+nom%sing%masc%es
+gen%sing%masc%idis
+dat%sing%masc%idi
+acc%sing%masc%idem
+abl%sing%masc%ide
+nom%plr%masc%ides
+gen%plr%masc%idum
+dat%plr%masc%idibus
+acc%plr%masc%ides
+abl%plr%masc%idibus

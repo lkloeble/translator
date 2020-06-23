@@ -262,6 +262,7 @@ sic@prep()
 simul@prep()
 sine@prep(abl)%[electAblativeForFollowingNoun]
 siquidem@prep()
+sponte@prep()
 statim@prep()
 studiose@prep()
 sub@prep()%[electAblativeForFollowingNoun]

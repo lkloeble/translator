@@ -159,7 +159,7 @@ domin,or,aris,ari,,,[or-aris]
 don,o,as,are,edi,atum,[o-as]
 dorm,io,is,ire,,,[io-is]
 dubit,o,as,are,,,[o-as]
-duc,o,is,ere,foobar,foobar,[o-is],(AIP*duc*dux*0)
+duc,o,is,ere,foobar,foobar,[o-is],(AIP*duc*dux*0@AIPP*duc*dux*0)
 dur,o,as,are,,,[o-as]
 ed,o,is,ere,foobar,foobar,[o-is],(IAP*ed*edid*0@AIP*ed*edid*0@AIPP*ed*edid*0)
 edoc,eo,es,ere,,,[eo-es]
@@ -216,6 +216,7 @@ illud,o,is,ere,,,[o-is]
 illustr,o,as,are,,,[o-as],(ASP*illustr*illustrass*0)
 imbu,o,is,ere,,,[o-is]
 imper,o,as,are,avi,atus,[o-as],(ASI*imper*imperar*0)
+impetr,o,as,are,avi,atus,[o-as],(ASI*impetr*impetrar*0)
 impl,eo,es,ere,,,[eo-es]
 impend,o,is,ere,,,[o-is]
 impend,eo,es,ere,,,[eo-es]
@@ -313,7 +314,7 @@ par,o,as,are,,,[o-as],(ASPP*par*parass*0@ASI*par*parar*0)
 par,eo,es,ere,,,[eo-es]
 par,io,is,ere,,,[io-is],(AIP*par*peper*0@ASPP*par*parxxx*0)
 pat,eo,es,ere,,,[eo-es]
-pati,or,ris,,,,[or-ris],(IPR1*pati*pate*0@ASI*pati*pater*0)
+pat,ior,eris,,,,[ior-eris],(ASI*pat*pater*0)
 patr,o,as,are,,,[o-as],(ASI*patr*patrar*0)
 peragr,o,as,are,,,[o-as]
 perd,o,is,ere,,,[o-is],(AIP*perd*perdid*0)
@@ -335,7 +336,7 @@ plant,o,as,are,,,[o-as]
 plor,o,as,are,,,[o-as]
 pon,o,is,ere,,,[o-is],(AIP*pon*posu*0)
 port,o,as,are,,,[o-as]
-possum@IRREGULAR%[INFINITIVE]=[posse]%[IPR]=[possum,potes,potest,possumus,potestis,possunt]%[AIP]=[potui,potuisti,potuit,potuimus,potuistis,potuerunt]%[AIF]=[potero,poteris,poterit,poterimus,poteritis,poterunt]%[ASI]=[possem,posses,posset,possemus,possetis,possent]%[ASP]=[possim,possis,possit,possimus,possitis,possint]%[AIFP]=[potuero,potueris,potuerit,potuerimus,potueritis,potuerint]%[INACPAS]=[posse,potuisse,,,,,]
+possum@IRREGULAR%[INFINITIVE]=[posse]%[IPR]=[possum,potes,potest,possumus,potestis,possunt]%[AIP]=[potui,potuisti,potuit,potuimus,potuistis,potuerunt]%[AIF]=[potero,poteris,poterit,poterimus,poteritis,poterunt]%[ASI]=[possem,posses,posset,possemus,possetis,possent]%[ASP]=[possim,possis,possit,possimus,possitis,possint]%[AIFP]=[potuero,potueris,potuerit,potuerimus,potueritis,potuerint]%[INACPAS]=[posse,potuisse,,,,,]%[AII]=[poteram,poteras,poterat,poteramus,poteratis,poterant]
 poti,or,ris,ri,,,[or-ris],(IAPP*poti*potitus*0)
 praeced,o,is,ere,,,[o-is]
 praedic,o,as,are,,,[o-as]
@@ -460,4 +461,4 @@ vid,eo,es,ere,foo,bar,[eo-es2],(PSP*vid*visus*0@AIFP*vidue*vide*0@ASI*vid*vider*
 vinc,o,is,ere,,,[o-is],(AIP*vinc*vic*0)
 viv,o,is,ere,,,[o-is]
 voc,o,as,are,avi,atus,[o-as],(ASI*voc*vocar*0)
-volo@IRREGULAR%[INFINITIVE]=[volire]%[IPR]=[volo,vis,v?,v?,v?,volunt]%[ASI]=[vellem,velles,vellet,vellemus,velletis,vellent]%[AIFP]=[voluero,volueris,voluerit,voluerimus,volueritis,voluerint]
+volo@IRREGULAR%[INFINITIVE]=[volire]%[IPR]=[volo,vis,v?,v?,v?,volunt]%[ASI]=[vellem,velles,vellet,vellemus,velletis,vellent]%[AIFP]=[voluero,volueris,voluerit,voluerimus,volueritis,voluerint]%[AII]=[volebam,volebas,volebat,volebamus,volebatis,volebant]

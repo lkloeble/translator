@@ -1,0 +1,3 @@
+IPR=>ior,eris,itur,imur,imini,iuntur
+ASP=>iar,iaris,iatur,iamur,iamini,iantur
+ASI=>er,eris,etur,emus,emini,entur
