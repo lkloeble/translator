@@ -35,4 +35,7 @@ public abstract class TranslationRule {
     }
 
 
+    public boolean concernsThisTime(String time) {
+        return conjugationName.equals(time);
+    }
 }

@@ -98,8 +98,8 @@ swb,,[binyanhifil],(BINHIPRE%substitute%sw*si*0)
 skb,,[paal],(ARAIPR%substitute%sk*swk*0@ARAPAPR%substitute%sk*ski*0)
 skn,,[binyan],(BINPER%substitute%sk*sik*0)
 sl'h,,[paal],(AIP%leadingrootletter%s*s29864@AIP%secondletterroot%l*l63@IPR%substitute%sl*swl*0)
-smy,,[paal],(AIP%leadingrootletter%s*s29864@AIP%secondletterroot%m*m63@AIP%alternateaccentuation(5:9)%m63*m56@IPR%substitute%sm*swm*0@ARAIPR%substitute%smy*swmy*0
-smr,,[paal],(AIP%leadingrootletter%s*s29864@AIP%secondletterroot%m*m63@AIP%alternateaccentuation(5:9)%m63*m56@IPR%substitute%sm*swm*0
+smy,,[paal],(AIP%leadingrootletter%s*s29864@AIP%secondletterroot%m*m63@AIP%alternateaccentuation(5:9)%m63*m56@IPR%substitute%sm*swm*0@ARAIPR%substitute%smy*swmy*0)
+smr,,[paal],(AIP%leadingrootletter%s*s29864@AIP%secondletterroot%m*m63@AIP%alternateaccentuation(5:9)%m63*m56@IPR%substitute%sm*swm*0)
 spx,,[paal]
 srts,,[paal]
 t'hl,ht'hil,[hiphil]

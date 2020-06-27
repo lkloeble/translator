@@ -29,7 +29,9 @@ public class TranslationRules {
     }
 
     public boolean hasTransformationForThisTime(String time) {
-        //TODO
+        for(TranslationRule translationRule : translationRuleMap.values()) {
+            if(translationRule != null && translationRule.concernsThisTime(time)) return true;
+        }
         return false;
     }
 }

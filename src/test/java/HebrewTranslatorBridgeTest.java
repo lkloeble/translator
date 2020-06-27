@@ -79,8 +79,7 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getHebDico(String dictionaryFile) {
         /*
         return Arrays.asList(new String[]{
-                "smy@verb!norm%1(verb)=entendre",
-                "bnw@prep%1(prep)=en nous"
+                "hiw@verb!irrg%1(verb)=etre"
         });
         */
         return getFileContentForRepository(dictionaryFile);
@@ -99,9 +98,9 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFiles) {
         /*
         return Arrays.asList(new String[]{
-                "toto,toto,[paal2]"
+                "smy,,[paal],(AIP%leadingrootletter%s*s29864@AIP%secondletterroot%m*m63@AIP%alternateaccentuation(5:9)%m63*m56@IPR%substitute%sm*swm*0@ARAIPR%substitute%smy*swmy*0)"
         });
-        */
+         */
         return getFileContentForRepository(verbFiles);
     }
 
@@ -1084,7 +1083,7 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("wein16M1", translatorBridge);
+        checkInMaps("toto", translatorBridge);
     }
 
 }

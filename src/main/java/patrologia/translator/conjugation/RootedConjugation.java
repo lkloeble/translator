@@ -70,11 +70,11 @@ public class RootedConjugation {
             if(valueTab[i].contains("|")) {
                 String[] allValuesForIndice = valueTab[i].split("\\|");
                 for(String value : allValuesForIndice) {
-                    conjugationPartList.add(new ConjugationPart2(ConjugationPosition.getValueByPosition(i),value,value,positionInDefinition++));
+                    conjugationPartList.add(new ConjugationPart2(ConjugationPosition.getValueByPosition(i),value,accentuer.unaccentued(value),positionInDefinition++));
                 }
             } else {
                 if(valueTab[i] == null || valueTab[i].isEmpty()) continue;
-                conjugationPartList.add(new ConjugationPart2(ConjugationPosition.getValueByPosition(i),valueTab[i],valueTab[i],positionInDefinition++));
+                conjugationPartList.add(new ConjugationPart2(ConjugationPosition.getValueByPosition(i),valueTab[i],accentuer.unaccentued(valueTab[i]),positionInDefinition++));
             }
         }
         return conjugationPartList;

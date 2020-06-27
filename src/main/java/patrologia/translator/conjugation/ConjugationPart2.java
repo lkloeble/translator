@@ -64,7 +64,7 @@ public class ConjugationPart2 {
 
     public Integer getPositionInDefinition() {
         //TODO
-        return 0;
+        return conjugationPosition.getIndice();
     }
 
     @Override
