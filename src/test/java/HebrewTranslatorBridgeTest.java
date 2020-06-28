@@ -182,7 +182,7 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getImElements() {
         return Arrays.asList(new String[]{
                 "nomsg(nomsg)%sing%masc%",
-                "cst(nomsgcst)%sing%masc%&",
+                "cst(nomsg)%sing%masc%&",
                 "decim-h%sing%masc%h",
                 "decim-iw%sing%masc%iw",
                 "decim-nw%plr%masc%nw",

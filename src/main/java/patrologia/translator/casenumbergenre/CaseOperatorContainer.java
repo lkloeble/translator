@@ -78,6 +78,12 @@ public class CaseOperatorContainer {
         List<String> prepositionsStartingWithKaf = filterPrepositionsByAccentuation(prepositionRepository.getValuesStartingWith("k"));
         List<String> prepositionsStartingWithLamed = filterPrepositionsByAccentuation(prepositionRepository.getValuesStartingWith("l"));
         List<String> combinationsWithWavToPerform = new ArrayList<>();
+        Collections.sort(prepositionsStartingWithWav);
+        Collections.reverse(prepositionsStartingWithWav);
+        Collections.sort(prepositionsStartingWithBeth);
+        Collections.reverse(prepositionsStartingWithBeth);
+        Collections.sort(prepositionsStartingWithKaf);
+        Collections.reverse(prepositionsStartingWithKaf);
         combinationsWithWavToPerform.addAll(prepositionsStartingWithBeth);
         combinationsWithWavToPerform.addAll(prepositionsStartingWithKaf);
         combinationsWithWavToPerform.addAll(prepositionsStartingWithLamed);

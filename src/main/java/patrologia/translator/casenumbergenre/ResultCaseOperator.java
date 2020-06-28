@@ -30,7 +30,15 @@ public class ResultCaseOperator {
     }
 
     public String getDifferentierOfSubstitution() {
+        if(caseIsConstructed()) {
+            String temp = caseOperator.getCase().getDifferentier();
+            return "cst" + temp;
+        }
         return caseOperator.getCase().getDifferentier().replace("(","").replace(")","");
+    }
+
+    private boolean caseIsConstructed() {
+        return caseOperator.isConstructed();
     }
 
     @Override

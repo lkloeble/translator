@@ -76,4 +76,7 @@ public abstract class CaseOperator implements Comparable {
         return null;
     }
 
+    public boolean isConstructed() {
+        return _case.getTrigramForCase().equals("cst");
+    }
 }
