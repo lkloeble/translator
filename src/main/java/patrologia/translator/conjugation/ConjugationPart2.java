@@ -23,8 +23,8 @@ public class ConjugationPart2 {
 
     public ConjugationPart2(ConjugationPosition conjugationPosition, String value, String unaccentuedValue, int indice) {
         this.conjugationPosition = conjugationPosition;
-        this.value=value;
-        this.unaccentuedValue = unaccentuedValue;
+        this.value=value.trim();
+        this.unaccentuedValue = unaccentuedValue.trim();
         this.indice = indice;
     }
 

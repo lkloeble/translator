@@ -1496,6 +1496,6 @@ public class EnglishTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("assimil18J", translatorBridge);
+        checkInMaps("toto", translatorBridge);
     }
 }
