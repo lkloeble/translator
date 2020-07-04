@@ -23,7 +23,7 @@ public abstract class TranslationRule {
 
     protected boolean isPositionAllowedForChange(ConjugationPart2 conjugationPart, List<Integer> indices) {
         if(indices.size() == 0) return true;
-        return indices.contains(conjugationPart.getPositionInDefinition());
+        return indices.contains(conjugationPart.getIndice());
     }
 
     protected boolean isAllowedForAnyPosition(List<Integer> indices) {

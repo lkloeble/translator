@@ -6,7 +6,7 @@ public enum ConjugationPosition {
 
     SINGULAR_FIRST_PERSON(0), SINGULAR_SECOND_PERSON(1), SINGULAR_THIRD_PERSON(2),
     PLURAL_FIRST_PERSON(3), PLURAL_SECOND_PERSON(4), PLURAL_THIRD_PERSON(5),
-    RELATED_TO_NOUN(-10);
+    RELATED_TO_NOUN(-10), UNKNOWN(-1);
 
     private int position;
 
@@ -30,6 +30,8 @@ public enum ConjugationPosition {
                 return PLURAL_THIRD_PERSON;
             case -10:
                 return RELATED_TO_NOUN;
+            case -1:
+                return UNKNOWN;
             default:
                 return SINGULAR_FIRST_PERSON;
         }

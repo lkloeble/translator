@@ -152,7 +152,7 @@ public abstract class LanguageToFrench implements TranslatorRepository {
             }
             Set<String> constructionNames = construction.getConstructionName(toTranslate, verb);
             constructionNames = filterPastParticipleForVerbalNoun(constructionNames);
-            Map<String, Integer> formPositionByConstructionName = construction.getFormPosition(constructionNames, toTranslate, (Verb)word);
+            Map<String, ConjugationPosition> formPositionByConstructionName = construction.getFormPosition(constructionNames, toTranslate, (Verb)word);
             List<String> possibleVerbs = extractVerbTranslation(formPositionByConstructionName, frenchVerbs.get(frenchRoot), verb.getPositionInTranslationTable(), verb);
             if(possibleVerbs.size() == 0 || possibleVerbs.get(0).equals("[XXX]")) {
                 System.out.println(word + " " + frenchRoot + " "  + formPositionByConstructionName.keySet().toString());
@@ -186,10 +186,10 @@ public abstract class LanguageToFrench implements TranslatorRepository {
         return noun;
     }
 
-    private boolean isVerbalNounCase(Set<String> constructionNames, Map<String, Integer> formPositionByConstructionName) {
+    private boolean isVerbalNounCase(Set<String> constructionNames, Map<String, ConjugationPosition> formPositionByConstructionName) {
         if(constructionNames.size() != 1) return false;
         String uniqueConstructionName = constructionNames.iterator().next();
-        return formPositionByConstructionName.get(uniqueConstructionName).intValue() == ConjugationPosition.RELATED_TO_NOUN.getIndice();
+        return formPositionByConstructionName.get(uniqueConstructionName) == ConjugationPosition.RELATED_TO_NOUN;
     }
 
     private List<String> decorateVerbs(List<String> possibleVerbs, Verb verb) {
@@ -292,7 +292,7 @@ public abstract class LanguageToFrench implements TranslatorRepository {
     protected abstract SpecificLanguageSelector getLanguageSelector();
 
 
-    private List<String> extractVerbTranslation(Map<String, Integer> formPositionByConstructionName, String frenchVerbDescription, int suggestedPositionInTranslation, Verb verb) {
+    private List<String> extractVerbTranslation(Map<String, ConjugationPosition> formPositionByConstructionName, String frenchVerbDescription, ConjugationPosition suggestedPositionInTranslation, Verb verb) {
         if(frenchVerbDescription == null) return Collections.singletonList(UNKNOWN_TRANSLATION);
         List<String> allForms = Arrays.asList(frenchVerbDescription.split("%"));
         List<String> resultsFound = new ArrayList<>();
@@ -304,16 +304,16 @@ public abstract class LanguageToFrench implements TranslatorRepository {
             String rightForm = allForms.stream().filter(form -> new FrenchVerbPattern(form).hasExactKey (handleConstructionSynonyms(constructionNameAlone))).findFirst().get();
             //String rightForm = allForms.stream().filter(form -> form.contains(handleConstructionSynonyms(constructionNameAlone))).findFirst().get();
             List<String> translations = Arrays.asList(rightForm.split("=")[1].replace("]", "").replace("[", "").split(","));
-            Integer formPosition = formPositionByConstructionName.get(constructionName);
-            if(suggestedPositionInTranslation != 100 && suggestedPositionInTranslation > translations.size()) continue;
-            if(formPosition == -1) continue;
-            if(translations.size() > formPosition && formPosition > 0) {
-                resultsFound.add(translations.get(formPosition));
+            ConjugationPosition formPosition = formPositionByConstructionName.get(constructionName);
+            if(suggestedPositionInTranslation != ConjugationPosition.UNKNOWN && suggestedPositionInTranslation.getIndice() > translations.size()) continue;
+            if(formPosition == ConjugationPosition.UNKNOWN) continue;
+            if(translations.size() > formPosition.getIndice() && formPosition.getIndice() > 0) {
+                resultsFound.add(translations.get(formPosition.getIndice()));
             } else {
                 resultsFound.add(translations.get(0));
             }
         }
-        if(resultsFound.size() == 0 && suggestedPositionInTranslation != 100) resultsFound = extractVerbTranslation(formPositionByConstructionName, frenchVerbDescription, 100, verb);
+        if(resultsFound.size() == 0 && suggestedPositionInTranslation.getIndice() != 100) resultsFound = extractVerbTranslation(formPositionByConstructionName, frenchVerbDescription, ConjugationPosition.UNKNOWN, verb);
         return resultsFound;
     }
 

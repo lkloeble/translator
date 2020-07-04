@@ -9,6 +9,7 @@ import patrologia.translator.basicelements.verb.VerbRepository2;
 import patrologia.translator.casenumbergenre.CaseOperatorContainer;
 import patrologia.translator.casenumbergenre.NullCase;
 import patrologia.translator.conjugation.Conjugation2;
+import patrologia.translator.conjugation.ConjugationPosition;
 import patrologia.translator.rule.english.EnglishRuleFactory;
 import patrologia.translator.utils.Analyzer;
 import patrologia.translator.utils.PhraseAnalizer;
@@ -178,7 +179,7 @@ public class EnglishAnalyzer  implements Analyzer {
         if(possibleVerbs == null ||  possibleVerbs.size() == 0) return phrase;
         boolean hasSearchedVerb = false;
         int verbPosition = 0;
-        int verbTranslationPosition = -1;
+        ConjugationPosition verbTranslationPosition = ConjugationPosition.UNKNOWN;
         String formerInitialValue = "";
         for(WordContainer wordContainer : possibleVerbs) {
             Verb verb = (Verb)wordContainer.getWordByType(WordType.VERB);
@@ -239,8 +240,8 @@ public class EnglishAnalyzer  implements Analyzer {
                 List<String> constructionNameForInitialValueList = translationInformationBean.getConstructionNameForInitialValue(currentVerb.getInitialValue(), verbRepository.getInfinitiveBuilder());
                 Collections.sort(constructionNameForInitialValueList);
                 String constructionName = constructionNameForInitialValueList.get(0);
-                List<Integer> possibleTranlationPositions = translationInformationBean.getPossibleTranslationPositions(currentVerb.getInitialValue(),constructionName, "be");
-                int correctPosition = possibleTranlationPositions.size() == 1 ? possibleTranlationPositions.get(0) :  Language.ENGLISH.getDefaultPositionInTranslationTableVerb();
+                List<ConjugationPosition> possibleTranlationPositions = translationInformationBean.getPossibleTranslationPositions(currentVerb.getInitialValue(),constructionName, "be");
+                ConjugationPosition correctPosition = possibleTranlationPositions.size() == 1 ? possibleTranlationPositions.get(0) :  Language.ENGLISH.getDefaultPositionInTranslationTableVerb();
                 followingVerb.setConjugation(constructionName);
                 followingVerb.setPositionInTranslationTable(correctPosition);
                 followingVerb.updateInitialValue(verbRepository.getEquivalentForOtherRoot(followingVerb.getRoot(), currentVerb.getInitialValue(), "be", correctPosition));
@@ -342,6 +343,7 @@ public class EnglishAnalyzer  implements Analyzer {
                 if(the.isDoubleNumberTranslation()) {
                     Verb are = (Verb)phrase.getWordByContent("are").getUniqueWord();
                     are.setPluralKnown(true);
+                    are.setPositionInTranslationTable(VerbRepository2.ENGLISH_PLURAL_POSITION);
                     newPhrase.addWordAtPosition(phrase.getIndiceByContent("are"), are);
                     newPhrase.addWordAtPosition(indice, the);
                     continue;

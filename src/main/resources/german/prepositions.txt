@@ -165,7 +165,7 @@ hinter@prep()
 hinweg@prep()
 hinzu@prep()
 hoffnungslos@prep()
-ich@prep()%[electPersonInFollowingVerb(0)]%!article!
+ich@prep()%[electPersonInFollowingVerb(SINGULAR_FIRST_PERSON)]%!article!
 ihm@prep()
 ihn@prep()
 ihnen@prep()
@@ -314,7 +314,7 @@ wie@prep()
 wieder@prep()
 wieviel@prep()
 wider@prep()
-wir@prep()%[electPersonInFollowingVerb(3)]%!article!
+wir@prep()%[electPersonInFollowingVerb(PLURAL_FIRST_PERSON)]%!article!
 wirklich@prep()
 wo@prep()
 woher@prep()

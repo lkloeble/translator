@@ -12,6 +12,7 @@ import patrologia.translator.basicelements.verb.Verb;
 import patrologia.translator.basicelements.verb.VerbRepository2;
 import patrologia.translator.casenumbergenre.Gender;
 import patrologia.translator.casenumbergenre.NullCase;
+import patrologia.translator.conjugation.ConjugationPosition;
 import patrologia.translator.rule.german.GermanRuleFactory;
 import patrologia.translator.utils.ExpressionHolder;
 
@@ -126,6 +127,7 @@ public class GermanPhraseChanger extends CustomLanguageRulePhraseChanger {
                 if(previous == null || !previous.getInitialValue().equals("wir")) {
                     Verb verb = (Verb)word;
                     verb.setPluralKnown(true);
+                    verb.setPositionInTranslationTable(ConjugationPosition.PLURAL_THIRD_PERSON);
                 }
             }
         }
@@ -142,7 +144,7 @@ public class GermanPhraseChanger extends CustomLanguageRulePhraseChanger {
                     Verb verb = (Verb)word;
                     Preposition sie = (Preposition)previous;
                     if(verb.isPlural(verb.getInitialValue())) {
-                        verb.setPositionInTranslationTable(5);
+                        verb.setPositionInTranslationTable(ConjugationPosition.PLURAL_THIRD_PERSON);
                         sie.setDistinctiveTranslationByNumber();
                     }
                 }
@@ -161,7 +163,7 @@ public class GermanPhraseChanger extends CustomLanguageRulePhraseChanger {
                 if((previous != null && previous.getInitialValue().equals("wir")) || (next != null && next.getInitialValue().equals("wir"))) {
                     Verb verb = (Verb)word;
                     if(verb.isPlural(verb.getInitialValue())) {
-                        verb.setPositionInTranslationTable(3);
+                        verb.setPositionInTranslationTable(ConjugationPosition.PLURAL_FIRST_PERSON);
                     }
                 }
             }

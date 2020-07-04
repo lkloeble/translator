@@ -9,6 +9,7 @@ import patrologia.translator.basicelements.verb.Verb;
 import patrologia.translator.basicelements.verb.VerbRepository2;
 import patrologia.translator.casenumbergenre.CaseOperatorContainer;
 import patrologia.translator.conjugation.Conjugation2;
+import patrologia.translator.conjugation.ConjugationPosition;
 import patrologia.translator.rule.german.GermanRuleFactory;
 import patrologia.translator.utils.Analyzer;
 import patrologia.translator.utils.PhraseAnalizer;
@@ -76,7 +77,7 @@ public class GermanAnalyzer  implements Analyzer {
                     if(previousWordVerb.isVerb()) {
                         currentVerb.addForbiddenConjugation(Conjugation2.ACTIVE_INDICATIVE_PRESENT);
                     }
-                    currentVerb.setPositionInTranslationTable(0);
+                    currentVerb.setPositionInTranslationTable(ConjugationPosition.SINGULAR_FIRST_PERSON);
                 }
             }
             //VERBE SUIVANT UN VERBE => infinitive d'office

@@ -95,23 +95,23 @@ public class RootedConjugation {
         return false;
     }
 
-    public int getMaxPosition() {
+    public ConjugationPosition getMaxPosition() {
         int positionFound = -1;
         for(ConjugationPart2 conjugationPart : conjugationPartList) {
             if(conjugationPart.getIndice() > positionFound) positionFound = conjugationPart.getIndice();
         }
-        return positionFound;
+        return ConjugationPosition.getValueByPosition(positionFound);
     }
 
-    public List<Integer> positionFound(String toTranslate) {
-        List<Integer> positions = new ArrayList<>();
+    public List<ConjugationPosition> positionFound(String toTranslate) {
+        List<ConjugationPosition> positions = new ArrayList<>();
         for(ConjugationPart2 conjugationPart : conjugationPartList) {
-            if(conjugationPart.getValue().equals(toTranslate)) positions.add(conjugationPart.getIndice());
-            if(conjugationPart.getValue().equals(unaccentued(toTranslate))) positions.add(conjugationPart.getIndice());
-            if(conjugationPart.getUnaccentuedValue().equals(toTranslate)) positions.add(conjugationPart.getIndice());
-            if(conjugationPart.getUnaccentuedValue().equals(unaccentued(toTranslate))) positions.add(conjugationPart.getIndice());
+            if(conjugationPart.getValue().equals(toTranslate)) positions.add(conjugationPart.getConjugationPosition());
+            if(conjugationPart.getValue().equals(unaccentued(toTranslate))) positions.add(conjugationPart.getConjugationPosition());
+            if(conjugationPart.getUnaccentuedValue().equals(toTranslate)) positions.add(conjugationPart.getConjugationPosition());
+            if(conjugationPart.getUnaccentuedValue().equals(unaccentued(toTranslate))) positions.add(conjugationPart.getConjugationPosition());
         }
-        if(positions.size() == 0) positions.add(0);
+        if(positions.size() == 0) positions.add(ConjugationPosition.SINGULAR_FIRST_PERSON);
         return positions;
     }
 
@@ -183,10 +183,9 @@ public class RootedConjugation {
         return sb.length() > 0 ? sb.deleteCharAt(0).toString() : sb.toString();
     }
 
-    public boolean positionIsCorrect(int positionInTranslationTable, String toTranslate) {
-        if(conjugationPartList.size() <= positionInTranslationTable) return false;
+    public boolean positionIsCorrect(ConjugationPosition positionInTranslationTable, String toTranslate) {
         for(ConjugationPart2 conjugationPart : conjugationPartList) {
-            int positionCheck = conjugationPart.getIndice().intValue();
+            ConjugationPosition positionCheck = conjugationPart.getConjugationPosition();
             if (positionCheck == positionInTranslationTable) {
                 return conjugationPart.getValue().equals(toTranslate);
             }
@@ -194,8 +193,8 @@ public class RootedConjugation {
         return false;
     }
 
-    public boolean hasValueForPosition(int positionFound) {
-        return !getValueByPosition(ConjugationPosition.getValueByPosition(positionFound)).equals("NOTFOUND");
+    public boolean hasValueForPosition(ConjugationPosition positionFound) {
+        return !getValueByPosition(positionFound).equals("NOTFOUND");
     }
 
     public String getValueByPosition(int positionFound) {

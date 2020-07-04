@@ -5,6 +5,7 @@ import patrologia.translator.basicelements.Word;
 import patrologia.translator.basicelements.noun.Noun;
 import patrologia.translator.basicelements.verb.Verb;
 import patrologia.translator.casenumbergenre.CaseNumberGenre;
+import patrologia.translator.conjugation.ConjugationPosition;
 
 public class RulePlurialNeutralWithSingularVerbMustChangeTimeVerbToPlural extends GreekRule {
 
@@ -13,7 +14,7 @@ public class RulePlurialNeutralWithSingularVerbMustChangeTimeVerbToPlural extend
         //if(!previousWordIsTaArticle(phrase,position) && !currentWordIsPluralAndNeutral(word) && !followingWordIsVerb(phrase,position))  {
         if(currentWordIsPluralAndNeutral(word) && followingWordIsVerb(phrase,position)) {
             Verb verb = (Verb) (phrase.getWordContainerAtPosition(position + 1).getUniqueWord());
-            verb.setPositionInTranslationTable(5);
+            verb.setPositionInTranslationTable(ConjugationPosition.PLURAL_THIRD_PERSON);
             verb.setPluralKnown(true);
         }
     }

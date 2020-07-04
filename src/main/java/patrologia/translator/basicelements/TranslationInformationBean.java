@@ -2,6 +2,7 @@ package patrologia.translator.basicelements;
 
 import patrologia.translator.basicelements.verb.InfinitiveBuilder;
 import patrologia.translator.basicelements.verb.Verb;
+import patrologia.translator.conjugation.ConjugationPosition;
 import patrologia.translator.conjugation.RootedConjugation;
 
 import java.util.*;
@@ -111,8 +112,8 @@ public class TranslationInformationBean {
         return sb.toString();
     }
 
-    public Map<String, Integer> getFormPosition(Set<String> constructionNames, String toTranslate, Verb verb) {
-        Map<String, Integer> formPositions = new HashMap<String, Integer>();
+    public Map<String, ConjugationPosition> getFormPosition(Set<String> constructionNames, String toTranslate, Verb verb) {
+        Map<String, ConjugationPosition> formPositions = new HashMap<String, ConjugationPosition>();
         boolean wasFoundConstruction = false;
         boolean mustConstructionKnownBeFound = false;
         for (String constructionName : constructionNames) {
@@ -132,7 +133,7 @@ public class TranslationInformationBean {
         return formPositions;
     }
 
-    private int getFormPositionByConstructionName(String constructionName, String toTranslate, Verb verb) {
+    private ConjugationPosition getFormPositionByConstructionName(String constructionName, String toTranslate, Verb verb) {
         //String nameForm = nameForms.get(constructionName);
         //List<String> allForms = Arrays.asList(nameForm.split(","));
         RootedConjugation rootedConjugation = nameForms.get(root + "@" + constructionName);
@@ -203,7 +204,7 @@ public class TranslationInformationBean {
         return root.equals(word.getRoot());
     }
 
-    public List<Integer> getPossibleTranslationPositions(String initialValue, String constructionName, String root) {
+    public List<ConjugationPosition> getPossibleTranslationPositions(String initialValue, String constructionName, String root) {
         RootedConjugation rootedConjugation = nameForms.get(root + "@" + constructionName);
         return rootedConjugation.positionFound(initialValue);
     }

@@ -41,8 +41,7 @@ public class ConjugationPart2 {
     }
 
     public Integer getIndice() {
-        //TODO
-        return conjugationPosition.getIndice();
+        return indice;
     }
 
     public String getUnaccentuedValue() {
@@ -63,8 +62,7 @@ public class ConjugationPart2 {
     }
 
     public Integer getPositionInDefinition() {
-        //TODO
-        return conjugationPosition.getIndice();
+        return getConjugationPosition().getIndice();
     }
 
     @Override

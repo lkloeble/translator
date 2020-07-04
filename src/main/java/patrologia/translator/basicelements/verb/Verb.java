@@ -4,6 +4,7 @@ import patrologia.translator.basicelements.Language;
 import patrologia.translator.basicelements.TranslationInformationBean;
 import patrologia.translator.basicelements.Word;
 import patrologia.translator.basicelements.WordType;
+import patrologia.translator.conjugation.ConjugationPosition;
 
 import java.util.HashSet;
 import java.util.Set;
@@ -12,7 +13,7 @@ public class Verb extends Word {
 
     private boolean pluralKnown;
     private VerbRepository2 verbRepository;
-    private int positionInTranslationTable = -1;
+    private ConjugationPosition positionInTranslationTable = ConjugationPosition.UNKNOWN;
     private boolean isOnlyFormKnown;
     private String onlyFormKnown;
     private String conjugation;
@@ -46,7 +47,7 @@ public class Verb extends Word {
         this.preferedTranslation = toClone.preferedTranslation;
     }
 
-    public Verb(Language language, String initialValue, int positionInTranslationTable) {
+    public Verb(Language language, String initialValue, ConjugationPosition positionInTranslationTable) {
         super(WordType.VERB, initialValue, language);
         this.positionInTranslationTable = positionInTranslationTable;
         forbiddenConjugations = new HashSet<>();
@@ -70,16 +71,16 @@ public class Verb extends Word {
         return allFormsForTheVerbRoot.isThirdPlural(valueToCheck);
     }
 
-    public int getPositionInTranslationTable() {
+    public ConjugationPosition getPositionInTranslationTable() {
         return positionInTranslationTable;
     }
 
-    public void setPositionInTranslationTable(int positionInTranslationTable) {
-        this.positionInTranslationTable = positionInTranslationTable;
+    public void setPositionInTranslationTable(ConjugationPosition conjugationPosition) {
+        this.positionInTranslationTable = conjugationPosition;
     }
 
     public boolean isPositionInTranslationTableKnown() {
-        return positionInTranslationTable != -1;
+        return positionInTranslationTable != ConjugationPosition.UNKNOWN;
     }
 
     public String getOnlyFormKnown() {

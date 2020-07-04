@@ -5,16 +5,17 @@ import patrologia.translator.basicelements.Word;
 import patrologia.translator.basicelements.WordType;
 import patrologia.translator.basicelements.verb.Verb;
 import patrologia.translator.conjugation.Conjugation2;
+import patrologia.translator.conjugation.ConjugationPosition;
 import patrologia.translator.rule.Rule;
 
 public class RuleElectPersonInFollowingVerb extends Rule {
 
-    private Integer personIndex;
+    private ConjugationPosition personIndex;
 
     public RuleElectPersonInFollowingVerb(String personIndexParameter) {
         try {
-            personIndex = Integer.parseInt(personIndexParameter);
-        } catch (NumberFormatException nfe) {
+            personIndex = ConjugationPosition.valueOf(personIndexParameter);
+        } catch (Exception nfe) {
             System.out.println("wrong indexParameter " + personIndexParameter + "\n" + nfe);
         }
     }

@@ -7,6 +7,7 @@ import java.util.*;
 
 public class VerbRepository2 {
 
+    public static final ConjugationPosition ENGLISH_PLURAL_POSITION = ConjugationPosition.PLURAL_THIRD_PERSON;
     private ConjugationFactory conjugationFactory;
     private Language language;
     private Accentuer accentuer;
@@ -152,12 +153,12 @@ public class VerbRepository2 {
         }
     }
 
-    public String getEquivalentForOtherRoot(String root, String formerInitialValue, String rootVerb, int verbTranslationPosition) {
+    public String getEquivalentForOtherRoot(String root, String formerInitialValue, String rootVerb, ConjugationPosition verbTranslationPosition) {
         TranslationInformationBean allFormsForTheFormerVerbRoot = getAllFormsForTheVerbRoot(rootVerb);
         List<String> constructionNameForInitialValueList = allFormsForTheFormerVerbRoot.getConstructionNameForInitialValue(formerInitialValue, infinitiveBuilder);
         Collections.sort(constructionNameForInitialValueList, conjugationComparator);
         for (String constructionNameForInitialValue : constructionNameForInitialValueList) {
-            int positionFound = verbTranslationPosition;
+            ConjugationPosition positionFound = verbTranslationPosition;
             TranslationInformationBean allFormsForTheTargetVerb = getAllFormsForTheVerbRoot(root);
             RootedConjugation targetRootedConjugation = allFormsForTheTargetVerb.getNameForms().get(root + "@" + constructionNameForInitialValue);
             if (targetRootedConjugation.hasValueForPosition(positionFound)) {
@@ -220,12 +221,12 @@ public class VerbRepository2 {
     public Verb affectTime(Verb followingVerb, String onlyInThisTime, List<String> pastTimes) {
         TranslationInformationBean allFormsForTheVerbRoot = getAllFormsForTheVerbRoot(followingVerb.getRoot());
         RootedConjugation rootedConjugationOld = allFormsForTheVerbRoot.getNameForms().get(followingVerb.getRoot() + "@" + onlyInThisTime);
-        List<Integer> indices = rootedConjugationOld.positionFound(followingVerb.getInitialValue());
-        int position = indices.get(0);
+        List<ConjugationPosition> indices = rootedConjugationOld.positionFound(followingVerb.getInitialValue());
+        ConjugationPosition conjugationPosition = indices.get(0);
         for(String newTime : pastTimes) {
             if(!allFormsForTheVerbRoot.hasThisTime(newTime)) continue;
             RootedConjugation rootedConjugationNew = allFormsForTheVerbRoot.getNameForms().get(followingVerb.getRoot() + "@" + newTime);
-            String valueByPosition = rootedConjugationNew.getValueByPosition(ConjugationPosition.getValueByPosition(position));
+            String valueByPosition = rootedConjugationNew.getValueByPosition(conjugationPosition);
             followingVerb.updateInitialValue(valueByPosition);
             return followingVerb;
         }
@@ -257,7 +258,7 @@ public class VerbRepository2 {
         String infinitiveFromInitialValue = infinitiveBuilder.getInfinitiveFromInitialValue(initialValue);
         RootedConjugation rootedConjugation = rootedConjugationMap.get(initialValue + "@INFINITIVE");
         if (rootedConjugation != null && rootedConjugation.getValueByPosition(0).equals(infinitiveFromInitialValue)) {
-            Verb verb = new Verb(language, initialValue, 0);
+            Verb verb = new Verb(language, initialValue, ConjugationPosition.SINGULAR_FIRST_PERSON);
             verb.updateInitialValue(infinitiveFromInitialValue);
             return verb;
         } else {

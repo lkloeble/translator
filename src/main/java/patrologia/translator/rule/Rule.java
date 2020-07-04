@@ -34,6 +34,10 @@ public abstract class Rule implements Comparable {
         return false;
     }
 
+    protected String extractParameterInsideParenthesis(String parameterInside) {
+        return parameterInside.split("\\(")[1].split("\\)")[0];
+    }
+
     @Override
     public int compareTo(Object o) {
         Rule otherRule = (Rule)o;

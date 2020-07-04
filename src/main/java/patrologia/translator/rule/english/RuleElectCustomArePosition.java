@@ -4,20 +4,20 @@ import patrologia.translator.basicelements.Phrase;
 import patrologia.translator.basicelements.Word;
 import patrologia.translator.basicelements.WordContainer;
 import patrologia.translator.basicelements.verb.Verb;
+import patrologia.translator.conjugation.ConjugationPosition;
 import patrologia.translator.rule.Rule;
 
 public class RuleElectCustomArePosition extends Rule {
 
-    private int areVerbPosition;
+    private ConjugationPosition conjugationPosition;
 
     public RuleElectCustomArePosition(String ruleName) {
-        areVerbPosition = extractCustomPosition(ruleName);
+        conjugationPosition = extractCustomPosition(ruleName);
     }
 
-    private int extractCustomPosition(String ruleName) {
-        if(ruleName == null || ruleName.indexOf("(") == 0) return 6;
-        String position = ruleName.substring(ruleName.indexOf("(")+1, ruleName.indexOf(")"));
-        return Integer.parseInt(position);
+    private ConjugationPosition extractCustomPosition(String ruleName) {
+        if(ruleName == null || ruleName.indexOf("(") == 0) return ConjugationPosition.PLURAL_THIRD_PERSON;
+        return ConjugationPosition.valueOf(extractParameterInsideParenthesis(ruleName));
     }
 
     @Override
@@ -29,7 +29,7 @@ public class RuleElectCustomArePosition extends Rule {
         }
         Verb verb = (Verb)nextWord;
         verb.setPluralKnown(true);
-        verb.setPositionInTranslationTable(areVerbPosition-1);
+        verb.setPositionInTranslationTable(conjugationPosition);
         //System.out.println(word);
     }
 
