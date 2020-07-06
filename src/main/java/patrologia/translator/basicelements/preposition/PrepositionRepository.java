@@ -34,13 +34,13 @@ public class PrepositionRepository extends Accentuer {
             System.out.println(s);
         }
         */
-        return prepositionMap.containsKey(initialValue) || prepositionMap.containsKey(unaccentued(initialValue));
+        return prepositionMap.containsKey(initialValue) || prepositionMap.containsKey(unaccentuedWithSofit(initialValue));
     }
 
     public Preposition getPreposition(String initialValue) {
         return prepositionMap.get(initialValue) != null ?
                 prepositionMap.get(initialValue) :
-                prepositionMap.get(unaccentued(initialValue));
+                prepositionMap.get(unaccentuedWithSofit(initialValue));
     }
 
     private void addPreposition(String definition) {

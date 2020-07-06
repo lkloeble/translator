@@ -249,7 +249,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends HebrewTranslatorBridgeT
     @Test
     public void test_failed_ones() {
         assertTrue(true);
-        checkInMaps("rachitext1K", translatorBridge);
+        checkInMaps("toto", translatorBridge);
         //checkInMaps("totoacc", translatorBridge);
         //checkInMaps("toto", translatorBridge);
     }

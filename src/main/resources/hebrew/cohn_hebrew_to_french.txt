@@ -4,7 +4,7 @@ abl@verb!norm%1(verb)=pleurer
 abr@noun!imonly%1(noun)=membre
 abrhm000@noun!invpur%1(noun)=abraham
 agb@prep%1(prep)=d'ailleurs%2(prep)=à cause de
-a58d64m64h@noun!custom(nomsg=admh|decim-nw=admtnw)%1(noun)=terre
+a58d64m64h@noun!custom(nomsg=a58d64m64h|decim-nw=admtnw)%1(noun)=terre
 a64d64m000@noun!invmasc%1(noun)=homme
 awi@prep%1(prep)=oï
 aw331i@prep%1(prep)=oï
@@ -26,7 +26,7 @@ aikh@noun!invpur%1(noun)=lamentations (livre biblique)
 akilt@noun!invpur%1(noun)=manger
 aiir@verb!norm%1(verb)=illustrer
 ailk000@prep%1(prep)=désormais
-ain@prep%1(prep)=il n'y a pas
+ain000@prep%1(prep)=il n'y a pas
 ainw@prep%1(prep)=ce n'est pas
 a61in000@prep%1(prep)=il n'y a pas
 a60is@noun!custom(nomplr=ansim|cst(nomplr)=ansi&|dechsofit=aish|nomsg=a60is)%1(noun)=homme
@@ -56,7 +56,7 @@ awrita@noun!invpur%1(noun)=torah
 awr'h@noun!im-ot%1(noun)=invité%2(noun)=hôte
 awt@noun!custom(nomplr=awtiwt)%1(noun)=lettre
 awt@noun!custom(nomplr=awtwt)%1(noun)=signe
-alhim000@noun!custom(nomsg=alhim000|cst(nomsg)=alhi&|decim-inwplr=alhinw|decim-ik=alhik)%1(noun)=dieu
+al65h60im000@noun!custom(nomsg=al65h60im000|cst(nomsg)=alhi&|decim-inwplr=alhinw|decim-ik=alhik)%1(noun)=dieu
 am000@prep%1(prep)=si
 a64mw331n000@noun!im%1(noun)=artisan
 an'hnw@prep%1(prep)=nous
@@ -176,7 +176,7 @@ hayyimtyrer@noun!invpur%1(noun)=Hayyim ben Solomon Tyrer (rabbin hassidique)
 hdsh@noun!invpur%1(noun)=hadassah
 hwsyih@noun!invpur%1(noun)=hoshaya
 h62m000@prep%1(prep)=eux
-hm@prep%1(prep)=eux
+hm000@prep%1(prep)=eux
 hn000@prep%1(prep)=eux
 h60n61h@prep%1(prep)=voici
 hnh@prep%1(prep)=voici
@@ -241,7 +241,7 @@ ztslexpr@noun!invpur%1(noun)=de mémoire bénie
 'hzlexpr@noun!invpur%1(noun)='hazal (sages de bienheureuse mémoire)
 'hi@noun!im-ot%1(noun)=vivant
 'hidaexpr@noun!invpur%1(noun)='hida (rabbin azoulay)
-'hs29862k000@noun!im-fem%1(noun)=arrêt,pause%2(noun)=sombre,obscur%3(noun)=obscurité
+'hs29862k00056@noun!im-fem%1(noun)=arrêt,pause%2(noun)=sombre,obscur%3(noun)=obscurité
 'h63k63m000@adj!adj%1(noun)=sage
 'hlb@noun!im%1(noun)=lait%2(noun)=graisse
 'h58lw331m000@noun!mascot%1(noun)=rêve
@@ -256,7 +256,7 @@ ibmwt@noun!invpur%1(noun)=yevamot (traité du talmud)
 ibsh@noun!invpur%1(noun)=sec
 i63d@noun!im%1(noun)=main
 idy@verb!norm%1(verb)=connaitre
-iw331m000@noun!custom(nomplr=imim000|cst(nomplr)=imi|cst(nomsg)=iwm&|nomsg=iwm000)%1(noun)=jour
+iw331m000@noun!custom(nomplr=imim000|cst(nomplr)=imi|cst(nomsg)=iwm&|nomsg=iw331m000)%1(noun)=jour
 ih@noun!invmasc%1(noun)=le seigneur%1(noun)=YH(VH)
 ihwh@noun!invmasc%1(noun)=le seigneur%1(noun)=YHVH
 ihwdh@noun!invpur%1(noun)=yehouda
@@ -284,7 +284,7 @@ i64s29863r@adj!im-ot%1(adj)=correct%2(adj)=honnête
 i60s29956r64a61l@noun!invmasc%1(noun)=israël
 itsa@verb!norm%1(verb)=sortir
 itsa$@verb!norm%1(verb)=sortir
-its'hq@noun!invpur%1(noun)=isaac
+i60ts56'h64q@noun!invpur%1(noun)=isaac
 k@prep%1(prep)=comme
 k56@prep%1(prep)=comme
 k31559@prep%1(prep)=comme
@@ -311,6 +311,7 @@ ki@prep%1(prep)=car%2(prep)=lorsque%3(prep)=pour que%4(prep)=que
 k315i@prep%1(prep)=car%2(prep)=lorsque%3(prep)=pour que%4(prep)=que
 k31560i@prep%1(prep)=car%2(prep)=lorsque%3(prep)=pour que%4(prep)=que
 kiwwn@noun!im%1(noun)=direction
+kk000@prep%1(prep)=ainsi
 kl@prep%1(prep)=tout
 k31564l@prep%1(prep)=tout
 k64l@prep%1(prep)=tout
@@ -341,8 +342,8 @@ lib@noun!mascot%1(noun)=coeur
 lbd@prep%1(prep)=seulement
 lbn@noun!invmasc%1(noun)=blanc%2(noun)=laban
 lhln000@prep%1(prep)=ci-dessous
-l63i56l64h@noun!custom(nomplr=lilwt|cst(nomsg)=lil&|nomsg=lilh)%1(noun)=nuit
-l64i56l64h@noun!custom(nomplr=lilwt|cst(nomsg)=lil&|nomsg=lilh)%1(noun)=nuit
+l63i56l64h@noun!custom(nomplr=lilwt|cst(nomsg)=lil&|nomsg=l63i56l64h)%1(noun)=nuit
+l64i56l64h@noun!custom(nomplr=lilwt|cst(nomsg)=lil&|nomsg=l64i56l64h)%1(noun)=nuit
 lmd@verb!norm%1(verb)=enseigner
 lmd$@verb!norm%1(verb)=enseigner
 lmh@prep%1(prep)=pourquoi
@@ -356,7 +357,7 @@ lw331@prep%1(prep)=pour lui
 l'hm@noun!invpur%1(noun)=pain
 li@prep%1(prep)=à moi
 l56k00064@prep%1(prep)=à toi
-lk@prep%1(prep)=à toi
+lk000@prep%1(prep)=à toi
 lkm000@prep%1(prep)=à vous
 lkt@noun!invmasc%1(noun)=départ
 lqrwth@noun!invmasc%1(noun)=lire comme
@@ -396,11 +397,11 @@ mkan000@prep%1(prep)=de là
 mkiwn000@prep%1(prep)=puisque
 mktb@noun!im%1(noun)=lettre
 mlak@noun!im%1(noun)=messager%2(noun)=ange
-m62l62k000@noun!im%1(noun)=roi
+m62l62k00056@noun!im%1(noun)=roi
 mlkwt@noun!ot2%1(noun)=royauté
 mmk000@prep%1(prep)=depuis toi
 mmni@prep%1(prep)=depuis moi
-mn@prep%1(prep)=de
+mn000@prep%1(prep)=de
 m60n000@prep%1(prep)=de
 m00060n000@prep%1(prep)=de
 mpni@prep%1(prep)=contre
@@ -549,14 +550,14 @@ ytsmi@prep%1(prep)=moi-même
 tswtn@noun!invmasc%1(noun)=précepte
 tsrik@noun!im%1(noun)=besoin
 r'@noun!invpur%1(noun)=rabbi
-ra65s@noun!im%1(noun)=tête
+ra65s298@noun!im%1(noun)=tête
 r61as60it@noun!invmasc%1(noun)=commencement
 raexpr@noun!invpur%1(noun)=rabbi eliezer
 raswn@adj!im-ot%1(noun)=commencement%2(adj)=premier
 rah@verb!norm%1(noun)=apparaitre%2(verb)=voir
 rbw@noun!invpur%1(noun)=multiplie
 rbh@noun!invpur%1(noun)=grand
-rbi@noun!invmasc%1(noun)=rabbi
+r6464b60i@noun!invmasc%1(noun)=rabbi
 rbnw@noun!invmasc%1(noun)=notre rabbi
 r56b60iy60i@noun!invmasc%1(noun)=quatrième
 rbn@noun!invmasc%1(noun)=rabban
@@ -602,7 +603,7 @@ slis@noun!im%1(noun)=tiers
 slisi@noun!invpur%1(noun)=troisième
 sl'h@verb!norm%1(verb)=envoyer
 s29856l65m65h@noun!invpur%1(noun)=salomon
-s29856mw309a61l@noun!invpur%1(noun)=samuel
+s298mw309a61l@noun!invpur%1(noun)=samuel
 s29861m000@noun!mascot%1(noun)=nom
 smai@noun!invpur%1(noun)=shammai
 smwy@noun!invpur%1(noun)=écoutant

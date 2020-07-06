@@ -45,7 +45,7 @@ public class NounRepository {
     }
 
     public Collection<Noun> getNoun(String construction) {
-        return nounsMap.get(construction);
+        return nounsMap.get(construction,true);
     }
 
     private void addNoun(String definition) {

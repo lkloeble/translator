@@ -136,7 +136,7 @@ public class RootedConjugation {
 
     public String getValueByPosition(ConjugationPosition conjugationPosition) {
         for(ConjugationPart2 conjugationPart : conjugationPartList)  {
-            if(conjugationPart.getIndice().equals(conjugationPosition.getIndice())) {
+            if(conjugationPart.getConjugationPosition() == conjugationPosition) {
                 return conjugationPart.getValue();
             }
         }

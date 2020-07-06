@@ -37,14 +37,16 @@ public class NounMap {
         internalMap.put(new PairConstructionGender(construction, declension, gender), noun);
     }
 
-    public Collection<Noun> get(String construction) {
+    public Collection<Noun> get(String construction, boolean lastCall) {
         Collection<Noun> nouns = new ArrayList<>();
         Set<String> declensions = declensionsForConstructions.get(construction);
+        if(declensions == null && lastCall) return get(accentuer.unaccentuedWithSofit(construction), false);
+        if(declensions == null && !construction.contains("&")) return get(construction + "&",true);
         addNounByGenderAndContruction(construction, declensions, new Gender(Gender.MASCULINE), nouns);
         addNounByGenderAndContruction(construction, declensions, new Gender(Gender.FEMININE), nouns);
         addNounByGenderAndContruction(construction, declensions, new Gender(Gender.NEUTRAL), nouns);
         addNounByGenderAndContruction(construction, declensions, new Gender(Gender.ADJECTIVE), nouns);
-        return nouns.size() == 0  && !construction.equals(unaccentuedWithSofit(construction)) ? get(unaccentuedWithSofit(construction)) : nouns;
+        return nouns.size() == 0  && !construction.equals(unaccentuedWithSofit(construction)) ? get(unaccentuedWithSofit(construction),true) : nouns;
     }
 
     private String unaccentuedWithSofit(String value) {

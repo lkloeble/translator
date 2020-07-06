@@ -152,7 +152,7 @@ public class HebrewPhraseChanger extends CustomLanguageRulePhraseChanger {
         CaseOperator keepDeclinedDirectionalState  = new KeepCaseOperator(new HebrewConstructedStateCase("cst"));
         caseOperatorContainer.addCaseOperator(keepDeclinedDirectionalState);
         Phrase withoutOneWhichIsMinusForUnknowConstructedState = substituteEndPatternWithNewPrepositionAfterWord(startPhrase, "&", new Preposition(Language.HEBREW, "xxdexx", null), stopWordsOneSofit, NO_FOLLOWING_INTERRUPTION_VALUE, caseOperatorContainer);
-        Phrase erasedPatternOfMinus = erasePatternInWords(withoutOneWhichIsMinusForUnknowConstructedState, "&","#");
+        Phrase erasedPatternOfMinus = erasePatternInWords(withoutOneWhichIsMinusForUnknowConstructedState, "&","");
         caseOperatorContainer.emptyCases();
         Phrase withoutSingleInterrogationPoint = extractInterrogationPointFromNonRecongnizedAbbreviation(erasedPatternOfMinus);
         Phrase withoutWav56 = extractLetterFromBeginningOfNoun(withoutSingleInterrogationPoint, "w56", stopWords, ruleFactory, null);

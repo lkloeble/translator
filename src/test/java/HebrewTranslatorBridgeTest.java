@@ -70,9 +70,9 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getNouns(String nounFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "m62l62k000@masc%im"
+                "m62l62k00056@masc%im"
         });
-        */
+         */
         return getFileContentForRepository(nounFileDescription);
     }
 
