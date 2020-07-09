@@ -18,7 +18,7 @@ a63'h63r@prep%1(prep)=après
 a'hri@prep%1(prep)=après
 a63'h58r61i@prep%1(prep)=après
 a'hrih@prep%1(prep)=après elle
-a'hrim@prep%1(prep)=autres
+a'hrim000@prep%1(prep)=autres
 a58'h61r60im000@prep%1(prep)=autres
 a62'h64d@noun!empty%1(noun)=un
 a63'h63t@noun!empty%1(noun)=une
@@ -318,7 +318,7 @@ k64l@prep%1(prep)=tout
 kwl@prep%1(prep)=tout
 klwmr@prep%1(prep)=ce qui signifie
 kmw@prep%1(prep)=comme
-kmwk@prep%1(prep)=comme toi
+kmwk000@prep%1(prep)=comme toi
 k64mw331k00064@prep%1(prep)=comme toi
 kn000@prep%1(prep)=oui%2(prep)=ainsi
 knp@noun!im%1(noun)=aile
