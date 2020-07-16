@@ -1,0 +1,8 @@
+nom%sing%masc%υς
+nom%plr%masc%δες
+gen%sing%masc%δος
+gen%plr%masc%δων
+acc%sing%masc%δα
+acc%plr%masc%δας
+dat%sing%masc%δι
+dat%plr%masc%σσιν

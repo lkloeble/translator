@@ -16,6 +16,7 @@ public class RulePlurialNeutralWithSingularVerbMustChangeTimeVerbToPlural extend
             Verb verb = (Verb) (phrase.getWordContainerAtPosition(position + 1).getUniqueWord());
             verb.setPositionInTranslationTable(ConjugationPosition.PLURAL_THIRD_PERSON);
             verb.setPluralKnown(true);
+            verb.setHashBeenTransformedByRule(true);
         }
     }
 

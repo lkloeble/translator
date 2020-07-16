@@ -785,7 +785,6 @@ midrashrabahebcom1N=>[ומה שדרשו על תיבת פתחיה פירשתי ז
 midrashrabahebcom1O=>בספרי מדרש תנאים בלקוטים וחידושים]
 midrashrabahebcom1P=>continuer saisie après crochet [, première ligne en dessous du midrash encadré
 
-totoacc=>לוֹמְדִים
 א
 ב
 ג
@@ -814,4 +813,5 @@ totoacc=>לוֹמְדִים
 ש
 ת
 @N
-toto=>אלהים אחרים
+toto=>כל אדם יטו
+totoacc=>אֲנַ֫חְנוּ קֹרְאִים

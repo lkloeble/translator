@@ -1,0 +1,5 @@
+nom%sing%masc%ως
+gen%sing%masc%οος
+acc%sing%masc%ορα
+data%sing%masc%οα
+datb%sing%masc%ω

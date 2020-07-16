@@ -75,6 +75,7 @@
 αλλοτρι@adj!ος-α-ον%1(adj)=étranger%2(adj)=appartenant à un autre
 αλλοφυλ@adj!ος-ος-ον%1(adj)=étranger de langue
 αλφα@noun!inv%1(noun)=alpha
+ακροτατω@noun!inv%1(noun)=au point le plus haut
 αμαρταν@verb!norm%1(verb)=pecher
 αμαρτι@noun!α-ας%1(noun)=faute%2(noun)=péché
 αμαρτωλ@noun!ος-ου%1(noun)=pêcheur
@@ -359,6 +360,7 @@
 ελωρι@noun!ον-ου%1(noun)=oiseau de mer
 εμμανουηλ@noun!inv%1(noun)=emmanuel
 εμπλε@adj!ος-α-ον%1(adj)=plein
+εμποιε@verb!norm%1(verb)=introduire
 εμπροσθεν@prep%1(prep)=devant
 εν@prep%1(prep)=dans
 εναντιωσ@noun!ις-εως%1(noun)=opposition
@@ -398,6 +400,7 @@
 επιεικ@adj!ης-ης-ες%1(adj)=raisonnable
 επιθυμι@noun!α-ας%1(noun)=concupiscence%2(noun)=désir
 επικουρ@adj!ος-ος-ον%1(adj)=épicure
+επιρρω@verb!norm%1(verb)=bouger
 επιτελ@verb!norm%1(verb)=completer%2(verb)=accomplir
 επιστολ@noun!η-ης%1(noun)=lettre
 επιστροφ@noun!η-ης%1(noun)=retour
@@ -445,6 +448,7 @@
 εως@prep%1(prep)=jusqu'à
 ζ@verb!norm%1(verb)=vivre
 ζαθε@adj!ος-η-ον%1(adj)=sacrosaint%2(adj)=très sacré
+ζαθεοιο@adj!inv%1(adj)=sacrosaint%2(adj)=très sacré
 ζαρα@noun!inv%1(noun)=zara
 ζευς@noun!inv%1(noun)=zeus
 ζηλ@noun!ος-ου%1(noun)=zèle%2(noun)=envie
@@ -513,6 +517,7 @@
 ικετευ@verb!norm%1(verb)=supplier
 ιλεως@prep%1(prep)=avec bienveillance
 ιματι@noun!ον-ου%1(noun)=manteau%2(noun)=vêtement
+ιμεροεντας@adj!inv%1(adj)=charmants
 ινα@prep%1(prep)=en accord avec%2(prep)=à cause de%3(prep)=afin que
 ινατι@prep%1(prep)=pour quelle raison
 ισα@prep%1(prep)=égal à
@@ -530,6 +535,7 @@
 ισραηλ@noun!inv%1(noun)=Israël
 ιουδαι@noun!ος-ου%1(noun)=juif
 ιουδαι@noun!α-ας%1(noun)=judée
+ιππ@noun!ος-ου%1(noun)=cheval
 ιχθ@noun!υς-υος%1(noun)=poisson
 ιστορι@noun!α-ας%1(noun)=enquête%2(noun)=histoire
 ιστοριης@noun!inv%1(noun)=enquête%2(noun)=histoire
@@ -624,6 +630,7 @@
 λογ@noun!ος-ου%1(noun)=parole,sentence,question%2(noun)=mot%3(noun)=recit%4(noun)=raison,intelligence%5(noun)=opinion%6(noun)=relation,proportion,analogie%7(noun)=justification,explication%8(noun)=verbe
 λογι@noun!ος-ου%1(noun)=érudit
 λοιπ@adj!ος-η-ον%1(adj)=restant
+λου@verb!norm%1(verb)=purifier%2(verb)=laver
 λυ@verb!norm%1(verb)=delier,delivrer,lacher,laisser aller,mettre en liberte%2(verb)=dissoudre,rompre,briser,achever,terminer,resoudre,expliquer,se liberer de%3(verb)=delier
 λυπε@verb!norm%1(verb)=irriter
 μαγ@noun!ος-ου%1(noun)=mage
@@ -731,6 +738,7 @@
 οιων@noun!ος-ου2%1(noun)=augure (oiseau)
 ολ@noun!ος-η-ον%1(noun)=actuel%2(noun)=général%3(noun)=complet%4(noun)=entier%5(noun)=tout
 ολιγ@noun!ος-η-ον%1(noun)=peu
+ολμει@noun!ος-ου%1(noun)=olmée
 ομηρ@noun!ος-ου%1(noun)=homère
 ομικρον@noun!inv%1(noun)=omicron
 ομοι@adj!ος-α-ον%1(adj)=égal%2(adj)=comme%3(adj)=semblable
@@ -824,6 +832,7 @@
 πεμπτ@noun!ος-η-ον%1(noun)=cinquième
 πενθε@verb!norm%1(verb)=pleurer
 πεποιθησ@noun!ις-εως%1(noun)=confiance
+περμησσοιο@noun!inv%1(noun)=permesse
 περιβοητ@noun!ος-η-ον%1(noun)=célèbre
 περιacc@prep%1(prep)=autour de
 περιgen@prep%1(prep)=à propos
@@ -886,6 +895,7 @@
 ποτε@prep%1(prep)=à un moment
 ποτηρι@noun!ον-ου%1(noun)=coupe
 που@prep%1(prep)=où
+πο@noun!υς-δος%1(noun)=pied
 πραγμ@noun!α-ατος%1(noun)=chose
 πραξιαδ@noun!ης-ου%1(noun)=praxiades
 πρεσβυτερ@noun!ος-ου%1(noun)=ancien
@@ -1003,6 +1013,7 @@
 τελει@adj!ος-α-ον%1(adj)=parfait%2(adj)=accompli%3(adj)=terminé
 τελος@prep%1(prep)=enfin
 τελων@noun!ης-ου%1(noun)=péagier%2(noun)=collecteur de taxes%3(noun)=douanier
+τερ@adj!ην-εινα-εν%1(adj)=delicat
 τερμ@noun!α-ατος%1(noun)=limite
 τεταρτ@adj!ος-η-ον%1(adj)=quatrième
 τετραπ@adj!ους-ους-ουν%1(adj)=quadrupède
@@ -1133,10 +1144,12 @@
 χηρ@noun!α-ας%1(noun)=veuve
 χι@noun!ος-ου%1(noun)=chio
 χλωρ@adj!ος-α-ον%1(adj)=vert pâle
+χορ@noun!ος-ου%1(noun)=choeur%2(noun)=anneau de danse
 χορτ@noun!ος-ου%1(noun)=nourriture%2(noun)=foin%3(noun)=pâturage
 χρει@noun!α-ας%1(noun)=besoin
 χριστ@noun!ος-ου%1(noun)=Christ
 χρον@noun!ος-ου%1(noun)=époque%2(noun)=temps
+χρ@noun!ως-οος%1(noun)=peau
 χωμ@noun!η-ης%1(noun)=village
 χωρ@noun!ος-ου%1(noun)=pays%2(noun)=territoire%3(noun)=endroit
 χωριςgen@prep%1(prep)=sans

@@ -40,7 +40,7 @@ public class CaseOperatorContainer {
         if(nounCollection == null || nounCollection.isEmpty()) nounCollection = decorateInitialValueWithHebrewStartPepositions(wordContainer.getPosition(), initialValue);
         if(nounCollection == null || nounCollection.isEmpty()) return false;
         Noun noun = new Noun((Noun)nounCollection.toArray()[0]);
-        noun = affectCorrectCaseNumberGenre(noun, wordContainer);
+        noun = affectCorrectCaseNumberGenre(noun, wordContainer, initialValue);
         noun.updateInitialValue(initialValue);
         return validateNounAndCaseOperator(noun);
     }
@@ -56,7 +56,7 @@ public class CaseOperatorContainer {
         return false;
     }
 
-    private Noun affectCorrectCaseNumberGenre(Noun noun, WordContainer wordContainer) {
+    private Noun affectCorrectCaseNumberGenre(Noun noun, WordContainer wordContainer, String initialValue) {
         String declensionPattern = noun.getDeclension();
         Declension declensionByPattern = nounRepository.getDeclensionFactory().getDeclensionByPattern(declensionPattern);
         for(CaseNumberGenre cng : declensionByPattern.getAllEndings().keySet()) {
@@ -66,6 +66,7 @@ public class CaseOperatorContainer {
                 noun.addPossibleCaseNumber(cng);
             }
         }
+        noun.setInitialValue(initialValue);
         wordContainer.clearAll();
         wordContainer.putOtherPossibleWord(noun);
         return noun;

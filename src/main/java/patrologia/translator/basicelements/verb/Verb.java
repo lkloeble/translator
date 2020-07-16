@@ -18,6 +18,7 @@ public class Verb extends Word {
     private String onlyFormKnown;
     private String conjugation;
     private Set<String> forbiddenConjugations;
+    private boolean hasBeenTransformedByRule;
 
     public Verb(String initialValue, String root, Language language) {
         super(WordType.VERB, initialValue, root, language);
@@ -38,6 +39,7 @@ public class Verb extends Word {
         this.pluralKnown = toClone.pluralKnown;
         this.verbRepository = toClone.verbRepository;
         this.positionInTranslationTable = toClone.positionInTranslationTable;
+        this.hasBeenTransformedByRule = toClone.hasBeenTransformedByRule;
         this.rules = toClone.rules;
         this.onlyFormKnown = toClone.onlyFormKnown;
         this.isOnlyFormKnown = toClone.isOnlyFormKnown;
@@ -129,4 +131,11 @@ public class Verb extends Word {
         return verbRepository;
     }
 
+    public void setHashBeenTransformedByRule(boolean ruleMemory) {
+        hasBeenTransformedByRule = ruleMemory;
+    }
+
+    public boolean hasBeenTransformedByRule() {
+        return hasBeenTransformedByRule;
+    }
 }

@@ -45,3 +45,5 @@ PERFACTIND=>α,ας,ε,αμεν,ατε,ασι
 PERFMIDPART=>[ος-η-ον]
 PERMIDPASSINF=>σθαι,μενος,μενη,μενον
 AORPASSINF=>θηναι
+PARAORINFPAS=>σθαι,μενος,μενη,μεναι
+MIAOIN=>αμην,ω,ατο,αμεθα,ασθε,αντο

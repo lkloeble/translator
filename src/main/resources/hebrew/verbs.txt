@@ -65,7 +65,7 @@ nia,,[binyanhifil]
 nkns,,[mishna]
 nxl,,[paal]
 nxh,,[paal2],(AIF%substitute%nxh*xh*0@AIF%substitute(3:6:7:8:9)%xh*x*0)
-nxh$,,[binyanhifil],(BINHIPER%substitute(1:2:3:6:7:8)%nxh$*xi*0@BINHIPER%substitute(4:5:9)%nxh$*x*0)
+nxh$,,[binyanhifil],(BINHIPER%substitute(1:2:3:6:7:8)%nxh$*xi*0@BINHIPER%substitute(4:5:9)%nxh$*x*0@BINHIFUT%substitute%nxh$*x*0)
 nm,,[paal]
 ntn,tt,[paal],(AIP%leadingrootletter%n*n64@AIP%secondletterroot%t*t63@AIP%sofitrootletter%n3*n000@AIP%alternateaccentuation(5:9)%t63*t56@AIP%alternateaccentuation(5)%56n*56n64@IPR%substitute%nt*nwt*0@AIF%substitute%ntn*tn*0)
 ntn$,,[nifal],(AIMP%substitute%ntn$*ntn*0)
@@ -87,7 +87,7 @@ qby,,[paal]
 qdm,,[binyanhifil],(BINHIPER%substitute(4:5:9)%qdm*qdim*0@BINHIPER%substitute(4)%dimh*dim*2)
 qwh,,[nifal],(NIFAIF%substitute%qwh*qw*0)
 q'hn,,[paal]
-qra,qrwt,[paal],(AIP%leadingrootletter%q*q64@AIP%secondletterroot%r*r64@AIP%alternateaccentuation%q64*q6469@AIP%alternateaccentuation(5:9)%r64*r56@AIP%alternateaccentuation(5)%a*a64@ARAIPR%substitute%ra*wr*0@AIF%substitute(9)%qra*qr*0@IPR%substitute%qr*qwr*0@IPR%alternateaccentuation(8:9)%qwr*qr*0@ARAIPR%substitute(4)%wr*ri*0)
+qra,qrwt,[paal],(AIP%leadingrootletter%q*q64@AIP%secondletterroot%r*r64@AIP%alternateaccentuation%q64*q6469@AIP%alternateaccentuation(5:9)%r64*r56@AIP%alternateaccentuation(5)%a*a64@ARAIPR%substitute%ra*wr*0@AIF%substitute(9)%qra*qr*0@IPR%substitute%qr*qwr*0@IPR%alternateaccentuation(8:9)%qwr*qr*0@ARAIPR%substitute(3)%wr*ri*0)
 rah,,[paal],(AIP%leadingrootletter%r*r64@AIP%secondletterroot%a*a64@AIP%alternateaccentuation(9)%a64*a@AIP%deleteletter(9)%h@CONVFUT%deleteletter%h@IPR%substitute%ra*rwa*0
 rdp,,[paal]
 r'hp,,[binyan],(BINPRE%leadingrootletter%m*m56@BINPRE%secondletterroot%r*r63@BINPRE%alternateaccentuation%'h*'h62@BINPRE%alternateaccentuation%p*p62

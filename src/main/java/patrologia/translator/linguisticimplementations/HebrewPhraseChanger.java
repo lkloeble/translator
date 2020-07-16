@@ -345,7 +345,7 @@ public class HebrewPhraseChanger extends CustomLanguageRulePhraseChanger {
                 String pattern = "";
                 if(getPatternByTestingNounExistence(oldInitialValue, patternToReplaceIfExists)) pattern = patternToReplaceIfExists;
                 //value al root al1 | value dbr root dbr1
-                String newValue = oldRoot.replace(patternToErase,pattern);
+                String newValue = oldInitialValue.replace(patternToErase,pattern);
                 word.updateInitialValue(newValue);
                 word.updateRoot(newValue);
             }

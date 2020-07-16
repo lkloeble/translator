@@ -119,6 +119,8 @@ public class HebrewAnalyzer implements Analyzer {
                     break;
                 case 1440://signe sous lettre
                     break;
+                case 1441://signe sur lettre
+                    break;
                 case 1443://signe (bizarre) sous lettre
                     break;
                 case 1444://signe sous lettre
@@ -128,6 +130,8 @@ public class HebrewAnalyzer implements Analyzer {
                 case 1447://signe sous lettre
                     break;
                 case 1448://signe sous lettre
+                    break;
+                case 1449://signe sur lettre
                     break;
                 case 1451://signe < sur lettre
                     //sb.append("51");
@@ -170,6 +174,9 @@ public class HebrewAnalyzer implements Analyzer {
                     //sb.append("69");
                     break;
                 case 1470://sorte de minus supérieur
+                    sb.append(" ");
+                    break;
+                case 1472://signe | de cantillation (pause)
                     sb.append(" ");
                     break;
                 case 1473://signe sous lettre

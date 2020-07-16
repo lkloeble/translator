@@ -9,6 +9,7 @@ inv%invariable.txt
 η-ης%arxe.txt
 ον-ου%dendron.txt
 ωρ-ορος%pantocrator.txt
+ως-οος%xpws.txt
 ηρ-ερος%meter.txt
 ηρ-ρος%pater.txt
 η-αικος%gune.txt
@@ -57,3 +58,5 @@ perso%perso.txt
 ος-α-υ%polus.txt
 ων-νος%kuwn.txt
 ς-ος%prws.txt
+ην-εινα-εν%tepnv.txt
+υς-δος%pous.txt

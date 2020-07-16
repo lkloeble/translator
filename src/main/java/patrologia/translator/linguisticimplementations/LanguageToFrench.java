@@ -313,7 +313,7 @@ public abstract class LanguageToFrench implements TranslatorRepository {
                 resultsFound.add(translations.get(0));
             }
         }
-        if(resultsFound.size() == 0 && suggestedPositionInTranslation.getIndice() != 100) resultsFound = extractVerbTranslation(formPositionByConstructionName, frenchVerbDescription, ConjugationPosition.UNKNOWN, verb);
+        if(resultsFound.size() == 0 && suggestedPositionInTranslation != ConjugationPosition.UNKNOWN) resultsFound = extractVerbTranslation(formPositionByConstructionName, frenchVerbDescription, ConjugationPosition.UNKNOWN, verb);
         return resultsFound;
     }
 

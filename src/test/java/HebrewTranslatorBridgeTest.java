@@ -70,7 +70,7 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getNouns(String nounFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "m62l62k00056@masc%im"
+                "y60ir@fem%custom(nomplr=yrim|cst(nomplr)=yri&|dir(nomsg)=yirh|nomsg=y60ir)"
         });
          */
         return getFileContentForRepository(nounFileDescription);
@@ -79,9 +79,10 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getHebDico(String dictionaryFile) {
         /*
         return Arrays.asList(new String[]{
-                "hiw@verb!irrg%1(verb)=etre"
+                "qra@verb!norm%1(verb)=crier%2(verb)=lire%3(verb)=appeler",
+                "an'hnw@prep%1(prep)=nous"
         });
-        */
+         */
         return getFileContentForRepository(dictionaryFile);
     }
 
@@ -98,7 +99,7 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFiles) {
         /*
         return Arrays.asList(new String[]{
-                "bdl,,[hiphil],(HIFPER%leadingrootletter%h*h60@HIFPER%secondletterroot%b*b56@HIFPER%alternateaccentuation(4:5:9)%d*d60i)"
+                "nxh$,,[binyanhifil],(BINHIPER%substitute(1:2:3:6:7:8)%nxh$*xi*0@BINHIPER%substitute(4:5:9)%nxh$*x*0@BINHIFUT%substitute%nxh$*x*0)"
         });
          */
         return getFileContentForRepository(verbFiles);
@@ -407,7 +408,7 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
         return Arrays.asList(new String[]{
                 "ARAIPR=>x-,x-,,nw,x-,im000|in000"
         });
-        */
+         */
         return Arrays.asList(new String[]{
                 "AIP=>ti,t|t,|h,nw,tm000|tn,w309",
                 "AIPSHORT=>x-,x-,zz,x-,x-,x-",
@@ -443,6 +444,11 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     }
 
     private List<String> getBinyalHifilDefinition() {
+        /*
+        return Arrays.asList(new String[]{
+                "BINHIFUT=>*a*@,*t*@|*t*i,*i*@|*t*@,*n*@,*t*w|*t*h,*i*w|*t*h"
+        });
+         */
         return Arrays.asList(new String[]{
                 "BINHIPRE=>*m*@|*m*h,*m*@|*m*h,*m*@|*m*h,*m*im|*m*wt,*m*im|*m*wt,*m*im|*m*wt",
                 "ARAPRE=>x-,x-,x-,x-,x-,*m*in000",
@@ -926,8 +932,8 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     public void test_weingreen_chapter_35() {
         checkInMaps("wein35A1", translatorBridge);
         checkInMaps("wein35A2", translatorBridge);
-        checkInMaps("wein35B1", translatorBridge);
         checkInMaps("wein35B2", translatorBridge);
+        checkInMaps("wein35B1", translatorBridge);
         checkInMaps("wein35C1", translatorBridge);
         checkInMaps("wein35C2", translatorBridge);
         checkInMaps("wein35D1", translatorBridge);
@@ -1083,6 +1089,7 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failedones() {
         assertTrue(true);
+        checkInMaps("bereshit1U", translatorBridge);
         checkInMaps("toto", translatorBridge);
     }
 

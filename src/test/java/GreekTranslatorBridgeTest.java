@@ -69,11 +69,11 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getGreekDico(String greekFrenchDataFile) {
         /*
         return Arrays.asList(new String[]{
-                "γραφ@verb!norm%1(verb)=égratigner,écorcher%2(verb)=graver%3(verb)=rédiger,composer%4(verb)=ecrire",
-                "επιφερ@verb!norm%1(verb)=poser",
-                "θε@noun!ος-ου%1(noun)=dieu"
+                "πανυ@prep%1(prep)=entièrement",
+                "σωφρον@verb!norm%1(verb)=etresaindesprit"
         });
-        */
+
+         */
         return getFileContentForRepository(greekFrenchDataFile);
     }
 
@@ -110,24 +110,25 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "διδω,ειν,[μι-ς],(PAP*διδω*διδ*0*[ους-ουσα-ον]@MIDPASSPLUPERFIND*διδω*εδεδο*0@AORPASIND*διδω*εδοθ*0@PERFACTIND*διδω*δεδωκ*0)"
+                "σωφρον,ειν,[εω-εις]"
         });
-        */
+
+         */
         return getFileContentForRepository(verbFileDescription);
     }
 
-    private List<String> getLuoDefinitions() {
+    private List<String> getCustomVerbDefinitions() {
         return Arrays.asList(new String[]{
-                "ACAOIM=>ε,ετω,ετε,οντων"
+                "PRESACTPART=>ουσας"
         });
     }
 
     private Map<String, List<String>> getGreekConjugationDefinitions(String file, String directory) {
         /*
-        Map<String, List<String>> latinConjugationDefinitionsMap = new HashMap<>();
-        latinConjugationDefinitionsMap.put("ω-εις", getLuoDefinitions());
-        return latinConjugationDefinitionsMap;
-        */
+        Map<String, List<String>> greekConjugationDefinitionsMap = new HashMap<>();
+        greekConjugationDefinitionsMap.put("εω-εις", getCustomVerbDefinitions());
+        return greekConjugationDefinitionsMap;
+         */
 
         List<String> conjugationNameList = getFileContentForRepository(file);
         Map<String, List<String>> greekConjugationDefinitionsMap = new HashMap<>();
@@ -877,7 +878,7 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failed_ones() {
         assertTrue(true);
-        checkInMaps("herodote121C", translatorBridge);
+        checkInMaps("toto", translatorBridge);
         //checkInMaps("homereliv1lig004", translatorBridge);
     }
 }

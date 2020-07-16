@@ -85,9 +85,9 @@ atnw@prep%1(prep)=nous
 a62ts56lw331@prep%1(prep)=près de lui
 a63t64h@prep%1(prep)=toi
 ath@prep%1(prep)=toi
-atk@prep%1(prep)=avec toi
+atk000@prep%1(prep)=avec toi
 a65t56k00064@prep%1(prep)=avec toi
-atkm@prep%1(prep)=vous
+atkm000@prep%1(prep)=vous
 a62t56k62m000@prep%1(prep)=vous
 atw@prep%1(prep)=avec lui
 atm000@prep%1(prep)=vous%2(prep)=eux
@@ -502,7 +502,7 @@ qxr@noun!invmasc%1(noun)=encens%2(noun)=combustion
 qtsr@adj!adj%1(adj)=court
 yiin@noun!invpur%1(noun)=voir
 y63in@noun!im%1(noun)=oeil
-y60ir@noun!custom(nomplr=yrim|cst(nomplr)=yri&dir(nomsg)=yirh|nomsg=y60ir)%1(noun)=ville
+y60ir@noun!custom(nomplr=yrim|cst(nomplr)=yri&|dir(nomsg)=yirh|nomsg=y60ir)%1(noun)=ville
 ybir@noun!ot%1(noun)=crime%2(noun)=péché%3(noun)=transgression
 yd@prep%1(prep)=jusqu'à
 y63d@prep%1(prep)=jusqu'à
