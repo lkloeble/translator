@@ -370,6 +370,7 @@ gol@adj%adj
 grabit@adj%adj
 gre@adj%greu
 grec@adj%adj
+greseal@fem%fem
 grigorie@masc%inv
 grij@fem%femi
 gr@adj%adjos
@@ -774,6 +775,7 @@ ragusit@adj%adj
 rand@masc%ul
 ras@fem%fem
 rastimp@masc%locul
+rasuflare@fem%fem
 ratsional@adj%adj
 ratsionalita@fem%capacitate
 ratsiun@fem%ratsiune

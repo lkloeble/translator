@@ -625,6 +625,7 @@ goni@verb!norm%1(verb)=chasser
 grabit@adj!adj%1(adj)=pressé
 gre@noun!greu%1(adj)=lourd%2(adj)=difficile
 grec@adj!adj%1(adj)=grec
+greseal@noun!fem%1(noun)=faute
 grigorie@noun!inv%1(noun)=grégoire
 grij@noun!femi%1(noun)=garde%2(noun)=souci
 gr@adj!adjos%1(adj)=épais
@@ -1262,6 +1263,7 @@ rasad@verb!norm%1(verb)=planter
 rascula@verb!norm%1(verb)=serevolter
 raspun@verb!norm%1(verb)=repondre
 rastimp@noun!locul%1(noun)=période
+rasuflare@noun!fem%1(noun)=souffle
 ratsional@adj!adj%1(adj)=rationnel
 ratsionalita@noun!capacitate%1(noun)=rationalité
 ratsiun@noun!ratsiune%1(noun)=raison

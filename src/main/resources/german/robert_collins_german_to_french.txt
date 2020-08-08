@@ -276,6 +276,7 @@ bekomm@verb!norm%1(noun)=recevoir
 bekummert@noun!inv%1(noun)=concerné
 belast@verb!norm%1(noun)=incriminer
 beleg@noun!jahrzehnt%1(noun)=référence%2(noun)=évidence
+belehrung@noun!meinfem%1(noun)=instruction
 belohn@verb!norm%1(noun)=recompenser
 bemerkenswert@adj!ausreichend%1(adj)=remarquable
 bemuh@noun!meinmasc%1(noun)=effort
@@ -479,6 +480,7 @@ dessen@prep%1(prep)=dont le
 dessentwillen@noun!inv%1(noun)=occasionnel
 determiniert@adj!ausreichend%1(adj)=déterminé
 deut@verb!norm%1(verb)=interpreter
+deutlich@adj!ausreichend%1(adj)=clair
 deutlich@prep%1(prep)=clairement
 deutsch@adj!ausreichend%1(adj)=allemand
 deutschland@noun!inv%1(noun)=allemagne
@@ -582,6 +584,7 @@ einschlaf@verb!norm%1(verb)=sendormir
 eintragung@noun!meinfem%1(noun)=inscription
 einpaar@prep%1(prep)=quelque
 eins@noun!inv%1(noun)=un
+einsichtig@adj!ausreichend%1(adj)=raisonnable
 einstmals@prep%1(prep)=autrefois%2(prep)=jadis
 einstweilen@prep%1(prep)=entre-temps%2(prep)=en attendant
 eintret@verb!norm%1(verb)=entrer
@@ -647,6 +650,7 @@ erfolg@noun!jahrzehnt%1(noun)=succès
 erforderlich@adj!ausreichend%1(adj)=essentiel%2(adj)=nécessaire
 erfreulich@adj!ausreichend%1(noun)=plaisant
 erfull@verb!norm%1(verb)=remplir
+erhaben@adj!ausreichend%1(adj)=exalté
 erhabenheit@noun!meinfem%1(noun)=transcendance%2(noun)=grandeur
 erhalt@verb!norm%1(verb)=recevoir
 erheb@verb!norm%1(verb)=prelever%2(verb)=monter
@@ -896,6 +900,7 @@ gegeben@adj!ausreichend%1(adj)=factuel%2(noun)=préexistant%3(noun)=donné
 gegen@prep%1(prep)=contre
 gegensatz@noun!phanomen%1(noun)=contradiction
 gegensatzlichst@adj!ausreichend%1(adj)=le plus contradictoire
+gegenuberstellung@noun!meinfem%1(noun)=comparaison
 gegenwart@noun!inv%1(noun)=présence%2(noun)=temps présent
 gegenwartig@adj!ausreichend%1(adj)=existant%2(adj)=présent%3(adj)=contemporain%4(adj)=courant
 gegenwartigst@adj!ausreichend%1(adj)=le plus courant
@@ -987,6 +992,7 @@ goliath@noun!inv%1(noun)=goliath
 gotisch@adj!ausreichend%1(adj)=gothique
 gott@noun!inv%1(noun)=dieu
 gotte@noun!inv%1(noun)=de dieu
+gotter@adj!inv%1(adj)=divin
 gottes@noun!inv%1(noun)=de dieu
 gottlich@adj!ausreichend%1(adj)=divin
 grab@noun!licht%1(noun)=tombe
@@ -2293,6 +2299,7 @@ vermischung@noun!norm%1(noun)=mélange
 vermittel@noun!inv%1(noun)=intermédiaire
 vermog@verb!norm%1(verb)=etrecapablede
 vermutlich@prep%1(prep)=beaucoup
+vernehmbar@adj!ausreichend%1(adj)=audible
 vernein@verb!norm%1(verb)=exclure
 verneinung@noun!meinfem%1(noun)=négation
 vernichtend@adj!ausreichend%1(adj)=cinglant

@@ -176,6 +176,7 @@ beiwohnung@fem%inv
 bekenntnis@neut%jahrzehnt
 bekummert@neut%inv
 beleg@masc%jahrzehnt
+belehrung@fem%meinfem
 belichen@neut%inv
 bemerkenswert@adj%ausreichend
 bemuh@neut%meinmasc
@@ -282,6 +283,7 @@ der@masc%inv
 derartig@adj%ausreichend
 dessentwillen@neut%inv
 determiniert@adj%ausreichend
+deutlich@adj%ausreichend
 deutsch@adj%ausreichend
 deutschland@fem%inv
 deutung@fem%meinfem
@@ -358,6 +360,7 @@ einleitung@fem%norm
 einmutig@adj%ausreichend
 einweihung@fem%meinfem
 eisern@neut%inv
+einsichtig@adj%ausreichend
 eintragung@fem%meinfem
 einzeln@adj%ausreichend
 einzuraumen@neut%inv
@@ -385,6 +388,7 @@ erfahrung@fem%meinfem
 erfolg@masc%jahrzehnt
 erforderlich@adj%ausreichend
 erfreulich@adj%ausreichend
+erhaben@adj%ausreichend
 erhabenheit@fem%meinfem
 erhebung@fem%meinfem
 erkenntnis@fem%erkenntnis
@@ -552,6 +556,7 @@ gefuhlsam@neut%inv
 gegeben@adj%ausreichend
 gegensatz@masc%phanomen
 gegensatzlichst@adj%ausreichend
+gegenuberstellung@fem%meinfem
 gegenwart@fem%inv
 gegenwartig@adj%ausreichend
 gegenwartigst@adj%ausreichend
@@ -627,6 +632,7 @@ goliath@masc%inv
 gotisch@adj%ausreichend
 gott@masc%inv
 gotte@masc%inv
+gotter@adj%inv
 gottes@masc%inv
 gottlich@adj%ausreichend
 grab@neut%licht
@@ -1594,6 +1600,7 @@ verlobt@adj%meinmasc
 verlobung@fem%meinfem
 vermischung@neut%norm
 vermittel@neut%inv
+vernehmbar@adj%ausreichend
 verneinung@fem%meinfem
 vernichtend@adj%ausreichend
 vernichtung@fem%meinfem

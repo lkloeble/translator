@@ -38,7 +38,7 @@ public class RomanianAnalyzer implements Analyzer {
     public patrologia.translator.basicelements.Analysis analyze(String sentence) {
         String characterAlphaOnly = replaceRomanianSpecialsWithAlpha(sentence);
         String romanianFirstCleaning = replaceExpressions(characterAlphaOnly);
-        Phrase phrase = wordSplitter.splitSentence(romanianFirstCleaning, Language.ROMANIAN, new DefaultWordSplitterPattern());
+        Phrase phrase = wordSplitter.splitSentence(romanianFirstCleaning, Language.ROMANIAN, new RomanianWordSplitterPattern());
         Phrase phraseWithUAModified = replaceFinalAForUAFemininesNouns(phrase);
         Phrase phraseWithPastParticipeFound = identifyFemininePastParticipe(phraseWithUAModified);
         phrase = wordAnalyzer.affectAllPossibleInformationsWithAnotherRule(phraseWithPastParticipeFound, new CustomRule());

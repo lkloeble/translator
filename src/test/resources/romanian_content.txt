@@ -871,6 +871,14 @@ patericulegyptantonia5F=>orice vei face, să ai mărturie din Sfintele Scripturi
 patericulegyptantonia5G=>și ori în ce loc vei ședea, să nu te miști degrabă.
 patericulegyptantonia5H=>Acestea trei păzește­le și te vei mântui".
 
+patericulegyptantonia6A=>Zis-a avva Antonie către avva |Pimen| :
+patericulegyptantonia6B=>"Acestea este lucrarea cea mare a omului :
+patericulegyptantonia6C=>greşeala lui să o pună asupra sa înaintea lui Dumnezeu
+patericulegyptantonia6D=>şi să aştepte ispita până la răsuflarea cea mai de pe urmă."
+
+
+urlpatericaulegypt=>http://www.pateric.ro/despre-avva-antonie/
+
 stanibotez01=>Necesitatea absolută a Botezului pentru mântuire și Botezul copiilor.
 stanibotez02=>Dacă Botezul produce, prin unirea cu Hristos, desființarea păcatului originar al despărțirii de Dumnezeu,
 stanibotez03=>imprimată în firea noastră, și dăcă fără această unire cu Hristos nu se poate intra în Împărăția lui Dumnezeu,
