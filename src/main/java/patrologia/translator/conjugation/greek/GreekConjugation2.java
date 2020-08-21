@@ -48,6 +48,7 @@ import java.util.List;
  * AORACTSUBJ => AORiste ACTive SUBJonctive
  * PERFMIDPART => PERFect MIDdle PARTiciple
  * AORINFMID => verb aor inf mid ionic
+ * PARTMIDAOR => PARTicipe MIDdle AORist
  */
 public class GreekConjugation2 extends Conjugation2 {
 

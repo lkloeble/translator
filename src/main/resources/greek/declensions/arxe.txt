@@ -1,6 +1,7 @@
 nom%sing%fem%η
 nom%plr%fem%αι
-gen%sing%fem%ης
+gena%sing%fem%ης
+genb%sing%fem%ας
 gen%plr%fem%ων
 acc%sing%fem%ην
 acc%plr%fem%ας

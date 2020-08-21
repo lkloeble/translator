@@ -569,6 +569,26 @@ clement5G3=>de cette façon fut libéré du monde et vers le saint lieu fut repr
 clement5G4=>(du) persévérance(e) ancien@devenu@ plus grand exemple.
 clement5G'=>après avoir enseigné la justice au monde entier, jusqu'aux bornes du couchant, il a rendu son témoignage devant les autorités et c'est ainsi qu'il a quitté ce monde pour gagner le lieu saint, demeurant pour tous un illustre modèle de patience.
 
+
+clement6A'=>A ces héros dont la vie a été sainte vient s'adjoindre une grande foule d'élus qui ont souffert, par suite de la jalousie, toutes sortes d'outrages et de tortures, et sont devenus pour nous d'admirables exemples
+clement6A1=>ces aux homme(s) pieusement ont mené une vie
+clement6A2=>fut rassemblé nombreux est gonflé (des) élu(s)(e)@élu@,
+clement6A3=>qui (aux) nombreux(s)(e) (aux) outrage(s)(e) et (aux) torture(s) au travers de envie expérimenté
+clement6A4=>exemple(e) meilleur furent dans à nous.
+clement6B'=>C'est poursuivies par la jalousie que des femmes, nouvelles Danaïdes et Dircés, victimes d'outrages atroces et sacrilèges, ont parcouru jusqu'au bout d'un pas ferme la carrière de la foi, et ont remporté le prix glorieux malgré l'infirmité de leur nature.
+clement6B1=>au travers de envie persécuter femme(s)(e) danaïdes et dircées,
+clement6B2=>tourment(s)(e) horrible(s) et impie(e)@impie(s)@ expérimenté,
+clement6B3=>sur le la (du) confiance solide course arrivent
+clement6B4=>et pris honneur authentique les es faible au corps(e).
+clement6C'=>C'est la jalousie qui a séparé épouses et maris, faisant mentir le mot de notre père Adam "voici l'os de mes os et la chair de ma chair"
+clement6C1=>envie séparèrent (du) épouse (des) homme(s) et modifient
+clement6C2=>le qui a été dit par du père notre adam.
+clement6C3=>ce maintenant os hors de des os(s) mon et chair(e) hors de la (du) chair(e) mon.
+clement6D'=>La jalousie et la discorde ont renversé de grandes cités et ruiné de puissantes nations.
+clement6D1=>envie. et querelle cité(s) grand(s)(e) détruisirent
+clement6D2=>et peuple(s) grand(s) ruinèrent.
+
+
 hesiodtheogony001=>(des) muse(s)(e) (des) héliconien(s) sont commencés chanter,
 hesiodtheogony002=>qui (du) hélicon ont montagne grand(s) aussi très sacré aussi
 hesiodtheogony003=>et aussi autour de source(e) comme une fleur (aux) pieds (aux) doux(s)
@@ -617,4 +637,4 @@ homereliv1lig004=>(des) héros(s), le(s) d'autre part oiseau de mer(s) réalise 
 homereliv1lig005=>(aux) augure (oiseau)(s) aussi tous, zeus et accomplissait souhaites@volonté(e)@,
 homereliv1lig006=>foobar
 
-toto=>entièrement qui sont saines d'esprit.
+toto=>ruina

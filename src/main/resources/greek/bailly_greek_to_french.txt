@@ -21,6 +21,7 @@
 αγν@adj!ος-η-ον%1(adj)=pur
 αγορ@noun!α-ας%1(noun)=marché%2(noun)=harangue,discours%3(noun)=assemblée
 αγρ@noun!ος-ου%1(noun)=champ
+αδαμ@noun!inv%1(noun)=adam
 αδελφ@noun!ος-ου%1(noun)=frère
 αδελφοκτονι@noun!α-ας%1(noun)=fratricide
 αδελφοτ@noun!ης-ητος%(noun)=fraternité
@@ -48,6 +49,8 @@
 αιγυπτι@adj!ος-ος-ον%1(adj)=égyptien
 αιδ@noun!ης-αο%1(noun)=hadès
 αιδι@noun!ος-ου%1(noun)=éternel
+αικι@noun!α-ας%1(noun)=tourment%2(noun)=outrage
+αικισμ@noun!α-ατος%1(noun)=tourment
 αιθ@prep%1(prep)=qui
 αιτι@adj!ος-α-ον%1(adj)=coupable de
 αιτι@noun!α-ης%1(noun)=culpabilité
@@ -62,6 +65,7 @@
 ακολουθε@verb!norm%1(verb)=suivre
 ακου@verb!norm%1(verb)=ecouter%2(verb)=entendre
 αλαζονευ@verb!norm%1(verb)=etrearrogant
+αλλοι@verb!norm%1(verb)=modifier
 αλγ@noun!ος-εος%1(noun)=douleur
 αληθει@noun!α-ας%1(noun)=vérité
 αλικαρνησσεος@noun!inv%1(noun)=halicarnasse
@@ -116,6 +120,7 @@
 απαγγελλ@verb!norm%1(verb)=relater
 απαλ@adj!ος-α-ον%1(adj)=doux
 απαλλασσ@verb!norm%1(verb)=liberer
+απαλλοτρι@verb!norm%1(verb)=separer
 απειμι@verb!irrg%1(verb)=etreabsent
 απειρ@noun!ος-ου%1(noun)=infini
 απιστ@noun!ος-η-ον%1(noun)=infidèle%2(noun)=incroyant
@@ -198,6 +203,7 @@
 βαπτιστ@noun!ης-ου%1(noun)=baptiste
 βαρβαρ@noun!ος-ου%1(noun)=barbare
 βαρβαροισι@noun!inv%1(noun)=barbares
+βασαν@noun!ος-ου%1(noun)=tourment%2(noun)=torture
 βασιλε@noun!υς-ως%1(noun)=roi
 βασιλε@noun!υς-ος%1(noun)=roi
 βασιλει@noun!α-ας%1(noun)=règne%2(noun)=royaume
@@ -231,6 +237,7 @@
 γ@noun!η-ης-εων%1(noun)=terre (matière,minerai,élément producteur)%2(noun)=terre
 γαλε@noun!ος-ου%1(noun)=squale
 γαλιλαι@noun!α-ας%1(noun)=galilée
+γαμετ@noun!η-ης%1(noun)=épouse
 γαμε@verb!norm%1(verb)=marier
 γαρ@prep%1(prep)=en effet%2(prep)=car
 γαστ@noun!ηρ-ρος%1(noun)=estomac%2(noun)=ventre
@@ -242,6 +249,7 @@
 γενν@verb!norm%1(verb)=donner naissance à%2(verb)=engendrer
 γεννα@verb!norm%1(verb)=donner naissance à%2(verb)=engendrer2
 γενομεν@noun!ος-η-ον%1(noun)=ayant-été%2(noun)=ex%3(noun)=déroulé%4(noun)=ancien
+γερ@noun!ας-ως%1(noun)=honneur
 γεωργ@noun!ος-ου%1(noun)=paysan%2(noun)=cultivateur
 γιγν@verb!norm%1(verb)=advenir%2(verb)=devenir
 γιν@verb!norm%1(verb)=advenir%2(verb)=devenir2
@@ -261,18 +269,20 @@
 δ@verb!norm%1(verb)=lier
 δαθαν@noun!inv%1(noun)=dathan
 δαιμονι@noun!ον-ου%1(noun)=démon
+δαναιδες@noun!inv%1(noun)=danaïdes
 δαυιδ@noun!inv%1(noun)=david
 δεκατεσσαρες@noun!inv%1(noun)=quatorze
-δημ@noun!ος-ου%1(noun)=peuple
-δημοκριτ@noun!ος-ου%1(noun)=démocrite
 δε@noun!inv%1(noun)=d'autre part
 δειγματι@verb!norm%1(verb)=montrer2%2(verb)=faireunexemple%3(verb)=exposer
 δεικνυ@verb!norm%1(verb)=montrer
+δειν@adj!ος-η-ον%1(adj)=horrible
 δεσμ@noun!ος-ου2%1(noun)=entrave%2(noun)=chaîne
 δευτερ@noun!ος-α-ον%1(adj)=deuxième
 δευτερ@adj!η-ης%1(adj)=seconde
 δενδρ@noun!ον-ου%1(noun)=arbre
 δη@prep%1(prep)=maintenant%2(prep)=déjà%3(prep)=donc
+δημοκριτ@noun!ος-ου%1(noun)=démocrite
+δημ@noun!ος-ου%1(noun)=peuple
 δι@prep%1(prep)=au travers de
 δια@prep%1(prep)=au travers de
 διαβολ@noun!ος-ου%1(noun)=diviseur%2(noun)=diable
@@ -297,6 +307,7 @@
 δικαστ@noun!ης-ου%1(noun)=juge
 διο@prep%1(prep)=par quoi
 διος@noun!inv%1(noun)=zeus
+διρκαι@noun!inv%1(noun)=dircées
 διωγμ@noun!ος-ου%1(noun)=persécution
 διωκ@verb!norm%1(verb)=poursuivre%2(verb)=persecuter
 δοκε@verb!norm%1(verb)=ressembler
@@ -304,6 +315,7 @@
 δοξ@noun!α-ης%1(noun)=gloire
 δουλ@noun!ος-ου%1(noun)=esclave
 δουλει@noun!α-ας%1(noun)=esclavage
+δρομ@noun!ος-ου%1(noun)=course
 δυο@noun!inv%1(noun)=deux
 δυσ@noun!ις-εως%1(noun)=ouest%2(noun)=levant
 δωρ@noun!ον-ου%1(noun)=don
@@ -316,6 +328,7 @@
 εγγυς@prep%1(prep)=près
 εγγιστα@prep%1(prep)=plus près
 εγειρ@verb!norm%1(verb)=faire lever,ériger,dresser,mettre debout%2(verb)=s'éveiller%3(verb)=lever
+εθν@noun!ος-ους%1(noun)=peuple
 εικ@noun!ων-ονος%1(noun)=image
 ειλικριν@adj!ης-ης-ες%1(adj)=sincère
 εζεκι@noun!ας-ου%1(noun)=ezechias
@@ -379,6 +392,7 @@
 εξω@prep%1(prep)=hors de
 εξαγ@verb!norm%1(verb)=faireemerger%2(verb)=bannir%3(verb)=enlever%4(verb)=emmener
 εξερχ@verb!norm%1(verb)=passer%2(verb)=seterminer%3(verb)=sortir
+εξεριζ@verb!norm%1(verb)=ruiner
 επαγειρ@verb!norm%1(verb)=rassembler
 επεντιθη@verb!norm%1(verb)=
 εξουσι@noun!α-ας%1(noun)=autorité
@@ -562,6 +576,7 @@
 κακ@adj!ος-η-ον%1(adj)=mauvais
 καλ@verb!norm%1(verb)=nommer,invoquer%2(verb)=appeler
 καλ@adj!ος-η-ον%1(adj)=bon%2(adj)=beau
+καλλιστ@adj!ος-η-ον%1(adj)=meilleur
 καν@noun!ων-ονος%1(noun)=règle
 καρδι@noun!α-ας%1(noun)=coeur
 καρπ@noun!ος-ου%1(noun)=fruit
@@ -572,6 +587,8 @@
 καταacc@prep%1(prep)=selon
 καταγ@verb!norm%1(verb)=abaisser
 κατακυριευ@verb!norm%1(verb)=dominer
+καταντα@verb!norm%1(verb)=arriver
+καταστρεφ@verb!norm%1(verb)=detruire
 κατεργαζ@verb!norm%1(verb)=accomplir
 κατοικε@verb!norm%1(verb)=habiter
 κατω@prep%1(prep)=bas
@@ -735,6 +752,7 @@
 οικουργ@verb!norm%1(verb)=garderlamaison
 οιν@noun!ος-ου%1(noun)=vin
 οιον@prep%1(prep)=seul
+οιτινες@prep%1(prep)=quiconque%2(prep)=qui
 οιων@noun!ος-ου2%1(noun)=augure (oiseau)
 ολ@noun!ος-η-ον%1(noun)=actuel%2(noun)=général%3(noun)=complet%4(noun)=entier%5(noun)=tout
 ολιγ@noun!ος-η-ον%1(noun)=peu
@@ -762,6 +780,9 @@
 οσ@adj!ος-η-ον%1(adj)=et aussi grand
 ος@prep%1(prep)=qui
 οσι@adj!ος-α-ον%1(adj)=pieux
+οσιως@prep%1(prep)=pieusement
+οστε@noun!ον-ου%1(noun)=os
+οστουν@noun!inv%1(noun)=os
 οστις@prep%1(prep)=quiconque%2(prep)=qui
 οταν@prep%1(prep)=quand%2(prep)=chaque fois que
 οτι@prep%1(prep)=que
@@ -820,6 +841,7 @@
 πασης@prep%1(prep)=toute
 πασι@prep%1(prep)=tous
 πασιν@prep%1(prep)=tous
+πασχ@verb!norm%1(verb)=ressentir%2(verb)=experimenter
 πατ@noun!ηρ-ρος%1(noun)=père
 παυλ@noun!ος-ου%1(noun)=paul
 παχ@adj!υς-εια-υ2%1(adj)=gras%2(adj)=gros%3(adj)=large
@@ -879,11 +901,13 @@
 ποθ@noun!ος-ου%1(noun)=désir
 ποι@verb!norm%1(verb)=fabriquer,exécuter,confectionner%2(verb)=créer,produire,enfanter%3(verb)=imaginer,inventer%4(verb)=faire
 ποιμαιν@verb!norm%1(verb)=diriger%2(verb)=mener%3(verb)=rassembler
-πολεμε@verb!norm%1(verb)=fairelaguerre
 ποιητικ@noun!ος-ου%1(noun)=poétique
 ποιουν@noun!inv%1(noun)=qui fait
+πολεμε@verb!norm%1(verb)=fairelaguerre
 πολεμ@noun!ος-ου%1(noun)=guerre
+πολ@noun!ις-εως%1(noun)=cité
 πολιτευ@verb!norm%1(verb)=gouverner%2(verb)=menerunevie
+πολυ@noun!inv%1(noun)=nombreux
 πολλ@adj!ος-α-υ%1(adj)=nombreux
 πον@noun!ος-ου%1(noun)=affliction%2(noun)=détresse%3(noun)=souffrance
 πονηρ@adj!ος-α-ον%1(adj)=mauvais%(adj)=méchant%3(adj)=malin
@@ -942,6 +966,7 @@
 σαλμων@noun!inv%1(noun)=salmon
 σολομων@noun!salomon%1(noun)=salomon
 σαουλ@noun!inv%1(noun)=saül
+σαρ@noun!ξ-κος%1(noun)=chair
 σαταν@noun!ας-ου%1(noun)=satan
 σαφως@prep%1(prep)=de façon sûre
 σε@prep%1(prep)=toi
@@ -973,6 +998,7 @@
 στρατιωτ@noun!ης-ου%1(noun)=soldat
 στυλ@noun!ος-ου%1(noun)=colonne
 συμβαιν@verb!norm%1(verb)=saccomplir
+συναθροιζ@verb!norm%1(verb)=rassembler
 σφαιρ@noun!α-ας%1(noun)=boule%2(noun)=sphère
 σφιγξ@noun!inv%1(noun)=sphynx
 συ@prep%1(prep)=toi
@@ -1050,6 +1076,7 @@
 τουτο@prep%1(prep)=ce
 τουτον@prep%1(prep)=ce
 τουτου@prep%1(prep)=ce
+τουτοις@prep%1(prep)=ces
 τουτους@prep%1(prep)=ces
 τουτω@prep%1(prep)=à ce
 τουτων@prep%1(prep)=de ces

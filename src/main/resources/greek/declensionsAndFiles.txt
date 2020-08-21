@@ -60,3 +60,4 @@ perso%perso.txt
 ς-ος%prws.txt
 ην-εινα-εν%tepnv.txt
 υς-δος%pous.txt
+ας-ως%geras.txt
