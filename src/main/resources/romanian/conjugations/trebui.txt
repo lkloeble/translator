@@ -2,3 +2,4 @@ IPR=>,,e,im,tsi,e
 ACP=>xxx,xxx,,xxx,xxx,xxx
 PAP=>[adj]
 PAPR=>nd|ndu
+AIF=>voi,vei,va,vom,vetsi,vor

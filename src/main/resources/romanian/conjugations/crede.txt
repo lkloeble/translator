@@ -2,3 +2,4 @@ IPR=>d,zi,de,dem,detsi,d
 ASP=>d,zi,da,dem,detsi,da
 PAP=>[adj]
 CONJ=>d,zi,ada,dem,detsi,ada
+AII=>deam,deai,dea,deam,deatsi,deau

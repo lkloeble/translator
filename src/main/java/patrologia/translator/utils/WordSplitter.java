@@ -19,7 +19,7 @@ public class WordSplitter {
         Phrase result = new Phrase(stringTokenizer.countTokens(), language);
         while(stringTokenizer.hasMoreTokens()) {
             String wordToCorrect = stringTokenizer.nextToken();
-            Word word = new Word(WordType.UNKNOWN, correctOnlyNumberWithNoTranslationMark(wordToCorrect), language);
+            Word word = new Word(WordType.UNKNOWN, correctOnlyNumberWithNoTranslationMark(wordToCorrect.trim()), language);
             result.addWordAtPosition(indice++, word);
         }
         return result;

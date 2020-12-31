@@ -3,4 +3,6 @@ nomb%sing%fem%ea
 gen%sing%fem%ii
 noma%plr%fem%i
 nomb%plr%fem%ile
+nomc%plr%fem%si
+nomd%plr%fem%sile
 gen%plr%fem%ilor

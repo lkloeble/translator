@@ -99,6 +99,7 @@
 αναιρε@verb!norm%1(verb)=assassiner
 αναλαμβαν@verb!norm%1(verb)=reprendre
 αναμεσον@prep%1(prep)=au milieu de%2(prep)=entre
+ανα@noun!ξ-κτος%1(noun)=maître
 αναξιμανδρ@noun!ος-ου%1(noun)=anaximandre
 ανατολ@noun!η-ης%1(noun)=est
 ανεμ@noun!ος-ου%1(noun)=agitation de l'âme,passion tumultueuse%2(noun)=vent
@@ -151,6 +152,7 @@
 αποστολ@noun!ος-ου%1(noun)=apôtre
 αποστροφ@noun!η-ης%1(noun)=aversion
 απροσωπολημπτως@prep%1(prep)=de façon impartiale
+αρ@prep%1(prep)=c'est pourquoi
 αρα@prep%1(prep)=c'est pourquoi
 αραμ@noun!inv%1(noun)=aram
 αργος@noun!inv%1(noun)=argos
@@ -178,6 +180,7 @@
 αστρ@noun!ον-ου%1(noun)=astre
 αστραπ@noun!η-ης%1(noun)=éclair
 ατμιδ@noun!ος-ου%1(noun)=vapeur%2(noun)=humidité
+ατρειδ@noun!ης-ου%1(noun)=atréïde
 αυλ@noun!ος-ου%1(noun)=conduit%2(noun)=flûte
 αυλιζ@verb!norm%1(verb)=chasser
 αυξαν@verb!norm%1(verb)=croitre
@@ -190,6 +193,7 @@
 αχαι@adj!ος-α-ον%1(adj)=achéen
 αχας@noun!inv%1(noun)=achaz
 αχιλευς@noun!perso%1(noun)=achille
+αχιλλε@noun!υς-ως%1(noun)=achille
 αχιμ@noun!inv%1(noun)=achim
 αφ@prep%1(prep)=loin de%2(prep)=à partir de
 αφρον@adj!ων-ων-ον%1(adj)=stupide
@@ -207,6 +211,7 @@
 βασιλε@noun!υς-ως%1(noun)=roi
 βασιλε@noun!υς-ος%1(noun)=roi
 βασιλει@noun!α-ας%1(noun)=règne%2(noun)=royaume
+βασιληι@noun!inv%1(noun)=roi
 βδελυκτ@adj!ος-η-ο%1(adj)=abominable
 βε@noun!inv%1(noun)=be
 βεβαι@adj!ος-α-ον%1(adj)=solide
@@ -290,6 +295,7 @@
 διαυγασμ@noun!ος-ου%1(noun)=explosion flamboyante
 διακον@noun!ος-ου%1(noun)=diacre%2(noun)=serviteur
 διακονε@verb!norm%1(verb)=servir
+διαστητην@noun!inv%1(noun)=séparer
 διαστολ@noun!η-ης%1(noun)=expansion
 διαφορ@noun!α-ας%1(noun)=différence%2(noun)=inimitié
 διδασκ@verb!norm%1(verb)=enseigner
@@ -300,6 +306,7 @@
 διδασκαλ@noun!ος-ου%1(noun)=maître
 διδω@verb!norm%1(verb)=offrir
 διαιρε@verb!norm%1(verb)=separer%2(verb)=diviser
+διιστη@verb!norm%1(verb)=separer
 δικαι@adj!ος-α-ον%1(adj)=équitable%2(adj)=juste
 δικαιωμ@noun!α-ατος%1(noun)=précepte
 δικαιοσυν@noun!η-ης%1(noun)=justice
@@ -640,6 +647,7 @@
 λεπρ@noun!ος-ου%1(noun)=lépreux
 λεπτομερειαι@noun!inv%1(noun)=particules
 λευκιππ@noun!ος-ου%1(noun)=leucippe
+λητους@noun!inv%1(noun)=de léto
 λιαν@prep%1(prep)=grandement
 λιθ@noun!ος-ου%1(noun)=pierre
 λιθαζ@verb!norm%1(verb)=lapider
@@ -666,6 +674,7 @@
 μαρτυρησ@noun!ας-ου%1(noun)=témoignage
 ματθαν@noun!inv%1(noun)=matthan
 ματηρ@noun!inv%1(noun)=mère
+μαχ@verb!norm%1(verb)=faire la guerre%2(verb)=combattre
 με@prep%1(prep)=me
 μεγ@adj!ας-η-α%1(noun)=grand
 μεγαλ@adj!ας-η-α%1(noun)=grand
@@ -733,6 +742,7 @@
 νομ@noun!ος-ου%1(noun)=loi
 νομιμ@noun!ος-ου%1(noun)=légitime%2(noun)=légal
 νομιζ@verb!norm%1(verb)=reconnaitre%2(verb)=pratiquer%3(verb)=considerer
+νουσ@noun!ος-ου%1(noun)=peste
 νυ@noun!ξ-κτος%1(noun)=nuit
 νυν@prep%1(prep)=maintenant
 ξεν@noun!ος-ου%1(noun)=étranger
@@ -755,6 +765,7 @@
 οιτινες@prep%1(prep)=quiconque%2(prep)=qui
 οιων@noun!ος-ου2%1(noun)=augure (oiseau)
 ολ@noun!ος-η-ον%1(noun)=actuel%2(noun)=général%3(noun)=complet%4(noun)=entier%5(noun)=tout
+ολεκ@verb!norm%1(verb)=ruiner
 ολιγ@noun!ος-η-ον%1(noun)=peu
 ολμει@noun!ος-ου%1(noun)=olmée
 ομηρ@noun!ος-ου%1(noun)=homère
@@ -773,6 +784,7 @@
 ορ@verb!norm%1(verb)=voir
 ορ@noun!ος-ους%1(noun)=colline%2(noun)=montagne
 ορα@verb!norm%1(verb)=voir
+ορνυ@verb!norm%1(verb)=mettresur
 οργ@noun!η-ης%1(noun)=colère
 ορθως@prep%1(prep)=correctement
 ορχε@verb!norm%1(verb)=danser
@@ -988,6 +1000,7 @@
 στασ@noun!ις-εως%1(noun)=lieu%2(noun)=construction%3(noun)=position
 στασιαζ@verb!norm%1(noun)=serebeller
 σταυρ@noun!ος-ου%1(noun)=croix
+στρατ@noun!ος-ου%1(noun)=armée
 στεα@noun!ς-τος%1(noun)=meilleure graisse
 στερεωμ@noun!α-ατος%1(noun)=fondation%2(noun)=firmament
 στοιχει@noun!ος-ου%1(noun)=élément%2(noun)=cause%3(noun)=principe
@@ -1001,6 +1014,7 @@
 συναθροιζ@verb!norm%1(verb)=rassembler
 σφαιρ@noun!α-ας%1(noun)=boule%2(noun)=sphère
 σφιγξ@noun!inv%1(noun)=sphynx
+σφωε@prep%1(prep)=parmi
 συ@prep%1(prep)=toi
 συμπιπτ@verb!norm%1(verb)=tomber%2(verb)=seffondrer
 συμφορ@noun!α-ας%1(noun)=événement malheureux
@@ -1009,8 +1023,9 @@
 συναγωγ@noun!η-ης%1(noun)=assemblée%2(noun)=synagogue
 συνεδρι@noun!ον-ου%1(noun)=sanhédrin
 συνειδησ@noun!ις-εως%1(noun)=conscience
-συνεχ@verb!norm%1(verb)=assembler
 συνερχ@verb!norm%1(verb)=voyager%2(verb)=sassembler%3(verb)=avoirdesrelationssexuelles
+συνεχ@verb!norm%1(verb)=assembler
+συνιη@verb!norm%1(verb)=comprendre%2(verb)=apporter
 συστημα@noun!inv%1(noun)=système
 σφι@prep%1(prep)=eux
 σχισμ@noun!α-ατος%1(noun)=schisme%2(noun)=division
@@ -1171,6 +1186,7 @@
 χηρ@noun!α-ας%1(noun)=veuve
 χι@noun!ος-ου%1(noun)=chio
 χλωρ@adj!ος-α-ον%1(adj)=vert pâle
+χολ@verb!norm%1(verb)=mettreencolere
 χορ@noun!ος-ου%1(noun)=choeur%2(noun)=anneau de danse
 χορτ@noun!ος-ου%1(noun)=nourriture%2(noun)=foin%3(noun)=pâturage
 χρει@noun!α-ας%1(noun)=besoin

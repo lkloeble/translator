@@ -5,3 +5,4 @@ AIF=>voi,vei,va,vom,vetsi,vor
 PAP=>[adj,adjts]
 PAPR=>and|andu
 COND=>a,a,a,a,a,a
+CONJ=>,i,e,am,atsi,e
