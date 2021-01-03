@@ -1,5 +1,5 @@
 IPR=>n,i,ne,nem,netsi,n
 AIF=>nevoi,nevei,neva,nevom,nevetsi,nevor
 AIFINF=>neava
-PAP=>s
+PAP=>[adj]
 PAPR=>nand

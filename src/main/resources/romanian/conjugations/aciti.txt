@@ -6,3 +6,4 @@ PAP=>[adj]
 ASP=>esc,esti,asca,im,itsi,asca
 MMCP=>em,esi,e,eram,eratsi,era
 CONJ=>esc,esti,easca,im,itsi,easca
+ACP=>escarcond,estiarcond,estearcond,imarcond,itsiarcond,escarcond

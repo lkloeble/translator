@@ -3,3 +3,4 @@ PAP=>[adj]
 PAPR=>and|andu
 AIP=>ai,asi,a,aram,atsi,ara
 CONJ=>ez,ezi,eze,am,atsi,eze
+MMCP=>em,esi,e,eram,eratsi,era

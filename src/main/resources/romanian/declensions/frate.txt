@@ -1,3 +1,4 @@
 noma%sing%masc%ele
 noma%plr%masc%si
-nomb%plr%masc%sile
+nomb%plr%masc%sii
+nomc%plr%masc%sile

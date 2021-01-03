@@ -2,3 +2,4 @@ noma%sing%fem%ie
 nomb%sing%fem%ia
 gen%sing%fem%iei
 noma%plr%fem%ile
+nomb%plr%fem%ii

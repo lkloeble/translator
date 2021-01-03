@@ -7,3 +7,4 @@ AIFINF=>va
 PAPR=>ind|indu
 MMCP=>em,esi,e,eram,eratsi,era
 CONJ=>esc,esti,easca,im,itsi,easca
+PAP=>[adj]

@@ -65,6 +65,7 @@ public class RomanianAnalyzer implements Analyzer {
         replace = replace.replace("v[a] rog","varog");
         replace = replace.replace("c_a","cminusaexpress");
         replace = replace.replace(" _ "," underscoreexpr ");
+        replace = replace.replace("va fi"," vafiexpr ");
         return replace.replace("ce tsi","cetsiexpr");
     }
 

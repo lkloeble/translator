@@ -1,3 +1,4 @@
 IPR=>,si,e,em,etsi,
 PAP=>[adj]
 ACP=>,si,e,em,etsi,
+CONJ=>,si,a,em,etsi,a

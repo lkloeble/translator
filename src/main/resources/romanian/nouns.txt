@@ -17,6 +17,7 @@ adancim@fem%berea
 adancir@fem%berea
 adaptare@fem%inv
 adapost@masc%locul
+adevar@masc%locul
 adevarat@adj%adj
 afirmatsi@fem%fem
 aici@neut%inv
@@ -72,6 +73,7 @@ aspect@fem%fem
 aspiratsi@fem%fem
 aspirin@fem%fem
 astazi@neut%inv
+atac@masc%locul
 atanasie@masc%inv
 atotcuprinzator@neut%inv
 atribuit@adj%adj
@@ -196,6 +198,7 @@ copi@masc%copil
 copt@neut%inv
 corabi@fem%femi
 corespunzator@neut%inv
+coruptsi@fem%fem
 cos@masc%locul
 cosmos@masc%ul
 crear@neut%berea
@@ -221,12 +224,14 @@ curaj@masc%ul
 curajos@adj%adj
 curat@adj%adjts
 curind@neut%inv
+curiozitat@fem%berea
 curs@masc%ul
 cutezat@adj%adjor
 cuvant@masc%ul
 cuvint@masc%capul
 dadac@fem%fem
 dan@neut%inv
+dar@masc%ul
 dat@fem%fem
 datat@adj%adjor
 delegat@masc%ul
@@ -234,6 +239,7 @@ deosebire@fem%ereditate
 deosebit@adj%adj
 dependents@fem%fem
 depinde@neut%inv
+depravar@fem%berea
 desavarsir@fem%berea
 desavirsir@fem%berea
 deschis@adj%adj
@@ -263,6 +269,7 @@ direct@adj%adjts
 directi@fem%fem
 dispozitsi@fem%fem
 dispus@adj%adj
+divin@adj%adj
 doamne@neut%inv
 doctor@masc%doctor
 doctrin@fem%fem
@@ -294,6 +301,7 @@ durer@adj%pacatos
 dusmani@fem%tigara
 economic@adj%adj
 eficace@adj%adj
+efect@masc%ul
 efort@masc%ul
 egipt@masc%ul
 elev@masc%ul
@@ -301,6 +309,7 @@ energie@fem%ereditate
 epistol@fem%fem
 ereditate@fem%ereditate
 erei@fem%inv
+eretic@masc%ul
 erezi@fem%fem
 esents@fem%fem
 esentsial@adj%adj
@@ -415,12 +424,14 @@ impersonal@adj%adj
 implinir@fem%berea
 important@adj%adj
 imposibil@neut%inv
+impotrivir@fem%berea
 imprejurar@fem%berea
 impresi@fem%fem
 imprimat@adj%adj
 inaintar@fem%berea
 inalt@adj%adjts
 inca@neut%inv
+incepatur@fem%fem
 inceput@masc%ul
 incercar@fem%berea
 inconstient@adj%adjts
@@ -447,6 +458,7 @@ influent@fem%femts
 infranar@fem%berea
 infrinar@fem%berea
 inger@masc%ul
+inim@fem%fem
 inmultsir@fem%berea
 inrudiri@neut%inv
 insemnar@fem%ratsiune
@@ -465,6 +477,7 @@ intreg@adj%adj
 intretsinut@adj%adj
 intseleasa@adj%inv
 intseleger@fem%berea
+intselepciun@fem%berea
 intselept@adj%adjts
 intseleapta@adj%inv
 intunecare@neut%inv
@@ -513,6 +526,7 @@ limb@fem%fem
 limit@fem%fem
 limitar@fem%berea
 limitat@adj%adj
+limped@adj%adj
 lini@fem%femei
 linist@fem%berea
 linistit@adj%adjts
@@ -521,6 +535,7 @@ literatur@fem%fem
 litr@masc%filtru
 loc@masc%locul
 locuints@fem%fem
+luca@masc%inv
 lucr@masc%locul
 lucrar@fem%berea
 lucrator@masc%ul
@@ -549,6 +564,7 @@ marele@neut%inv
 mari@neut%inv
 marturi@fem%ratsiune
 marturisitor@masc%ul
+maruntai@fem%fem
 mas@fem%fem
 masin@fem%fem
 masur@fem%fem
@@ -577,6 +593,7 @@ mintuir@fem%berea
 minun@fem%ratsiune
 minunat@adj%adj
 minut@fem%fem
+mirar@fem%berea
 miscar@fem%berea
 mistrets@masc%ul
 mladits@fem%fem
@@ -590,6 +607,7 @@ monah@masc%ul
 monoton@adj%adj
 monotoni@fem%fem
 moral@adj%adj
+morav@masc%locul
 morcov@masc%ul
 mormint@masc%ul
 mort@adj%adjts
@@ -616,6 +634,7 @@ neavind@neut%inv
 necaz@masc%ul
 necesar@adj%adj
 necesitat@fem%berea
+necredincios@masc%ul
 necredints@fem%fem
 necunoscut@adj%adj
 nedrept@adj%adjts
@@ -623,9 +642,11 @@ nefericit@adj%adjts
 negr@adj%adj
 nehotarit@adj%adjts
 neimplinir@fem%berea
+neincreder@fem%berea
 neintselegator@adj%adj
 nelimitat@adj%adj
 nemurir@fem%berea
+nenorocir@fem%berea
 neplacut@adj%adj
 nepotrivit@adj%adjts
 neprihanir@fem%berea
@@ -656,6 +677,7 @@ numar@masc%ul
 nume@neut%iepure
 oamen@masc%ul
 oara@fem%inv
+obars@fem%conceptie
 obiect@masc%ul
 obisnuit@adj%adjts
 obosit@adj%adj
@@ -671,8 +693,10 @@ oper@fem%fem
 opt@neut%inv
 ora@fem%inv
 oras@masc%ul
+orbia@fem%inv
 ordin@fem%berea
 organic@adj%adj
+orgoli@masc%ul
 original@adj%adj
 originar@adj%adj
 originare@neut%inv
@@ -719,6 +743,7 @@ pere@masc%capacitate
 perfect@adj%adj
 periculos@neut%inv
 permanents@fem%fem
+persecutsi@fem%fem
 persoan@fem%fem
 personal@neut%inv
 personal@adj%adj
@@ -747,6 +772,7 @@ plin@adj%adj
 ploa@fem%conceptie[nomplr(a):ploile]
 plus@neut%inv
 poft@fem%fem
+pogoramant@fem%fem[nomplr(a):pogoramintele]
 politic@adj%adj
 politsist@adj%adj
 popescu@masc%inv
@@ -771,6 +797,7 @@ prieten@adj%adj
 prigoan@fem%fem
 prim@adj%adj
 primejd@fem%conceptie
+principi@masc%ul
 privints@fem%fem
 prob@fem%fem
 probabil@adj%adj
@@ -784,6 +811,7 @@ progres@masc%ul
 prooroc@masc%ul
 propri@adj%adj
 propriului@adj%inv
+prosperitat@fem%berea
 providents@fem%fem
 psihic@masc%ul
 psihic@adj%adj
@@ -828,6 +856,7 @@ relief@masc%ul
 relig@fem%conceptie
 repetitsi@fem%fem
 reportaj@fem%fem
+respinger@fem%berea
 restaurant@neut%inv
 retset@fem%fem
 revedere@neut%inv
@@ -860,6 +889,7 @@ salut@masc%inv
 samari@fem%fem
 sampani@fem%fem
 sanatate@fem%ereditate
+san@masc%ul
 saptamin@fem%fem
 sapte@neut%inv
 sarac@adj%adj
@@ -907,9 +937,11 @@ si@neut%inv
 sigur@adj%adj
 sigurant@fem%femts
 sil@fem%fem
+silints@fem%fem
 simon@masc%inv
 simpatic@adj%adj
 simplu@adj%adj
+simts@masc%locul
 sincer@adj%adj
 sinea@fem%inv
 singur@adj%adj
@@ -933,6 +965,7 @@ sporit@adj%adj
 sportiv@adj%adj
 stabilit@adj%adj
 stadi@masc%fiul
+stalp@masc%ul
 stanc@fem%fem
 stapan@masc%ul
 stare@fem%fem
@@ -975,6 +1008,7 @@ tatal@masc%inv
 taxi@neut%inv
 teafar@adj%adj[nomplr(mascplri):teferi]
 teatr@masc%ul
+temeli@fem%fem
 templ@masc%ul
 tendints@fem%fem
 tensiun@fem%berea
@@ -992,6 +1026,7 @@ toiag@masc%ul
 total@adj%adj
 totul@neut%inv
 traducer@fem%berea
+trainici@fem%fem
 transcendent@adj%adj
 treab@fem%treaba
 treapt@fem%fem
@@ -1005,6 +1040,7 @@ tren@masc%ul
 triumf@masc%ul
 tristets@fem%berea
 truf@fem%conceptie
+trufas@adj%adj
 trup@masc%ul
 tsaran@masc%ul
 tsarm@masc%ul
@@ -1028,6 +1064,7 @@ umbr@fem%fem
 umor@masc%ul
 un@adj%adj
 unchi@masc%ul
+uniarcond@neut%inv
 unic@adj%adj
 unir@fem%berea
 unitat@fem%berea
@@ -1043,6 +1080,7 @@ us@fem%fem
 uscat@adj%adj
 usor@adj%adj
 usuoar@adj%adj
+usurints@fem%fem
 va@neut%inv
 vadit@adj%adj
 valoar@fem%berea
@@ -1062,6 +1100,7 @@ vech@adj%adj
 vechi@adj%adj
 vecin@masc%ul
 veder@fem%berea
+venin@masc%ul
 ver@adj%adjverde
 vesel@adj%adj
 vesnic@adj%adj
