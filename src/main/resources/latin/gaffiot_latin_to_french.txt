@@ -625,6 +625,7 @@ erudio@verb!norm%1(verb)=cultiver%2(verb)=eduquer%3(verb)=instruire
 erudit@adj!us-a-um%1(adj)=éduqué%2(adj)=érudit
 esc@noun!a-ae%1(noun)=nourriture
 essenti@noun!a-ae%1(noun)=essence
+estceque@prep%1(prep)=est-ce que
 et@prep%1(prep)=et
 etc@prep%1(prep)=etc
 etenim@prep%1(prep)=parce  que
@@ -998,7 +999,6 @@ ire@verb!irrg%1(verb)=aller
 irenae@noun!us-i%1(noun)=irénée
 irrepen@adj!s-s-s%1(adj)=rampant
 irruen@adj!s-s-s%1(adj)=pressé
-isntit@prep%1(prep)=est-ce que
 ist@adj!e-a-ud%1(adj)=ceci
 istae@prep%1(prep)=celles-ci
 ita@prep%1(prep)=oui

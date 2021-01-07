@@ -27,7 +27,7 @@ public class LatinAnalyzer  implements Analyzer {
     }
 
     public Analysis analyze(String sentence) {
-        Phrase phrase = wordSplitter.splitSentence(sentence,Language.LATIN, new DefaultWordSplitterPattern());
+        Phrase phrase = wordSplitter.splitSentence(sentence,Language.LATIN, new LatinWordSplitterPattern());
         phrase = wordAnalyzer.affectAllPossibleInformations(phrase);
         phrase = addAdjectiveSelectionRule(phrase);
         return phraseAnalizer.affectAllPossibleInformationsBetweenWords(Language.LATIN, phrase);

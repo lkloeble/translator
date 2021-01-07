@@ -125,7 +125,8 @@ public class TranslationInformationBean {
                     wasFoundConstruction = true;
                 }
             }
-            formPositions.put(constructionName, getFormPositionByConstructionName(constructionName, toTranslate, verb));
+            ConjugationPosition formPositionByConstructionName = getFormPositionByConstructionName(constructionName, toTranslate, verb);
+            formPositions.put(constructionName, formPositionByConstructionName);
         }
         if (mustConstructionKnownBeFound && !wasFoundConstruction) {
             formPositions.put(verb.getOnlyFormKnown(), getFormPositionByConstructionName(verb.getRoot() + "@" + verb.getOnlyFormKnown(), toTranslate, verb));
@@ -145,7 +146,8 @@ public class TranslationInformationBean {
             return verb.getPositionInTranslationTable();
         }
         if (verb.isPluralKnown() && !rootedConjugation.isParticipleRelatedToNounDeclension()) {
-            return  rootedConjugation.getMaxPosition();
+            ConjugationPosition maxPosition = rootedConjugation.getMaxPosition();
+            return maxPosition.isPlural() ? maxPosition : ConjugationPosition.UNKNOWN;
         }
         return rootedConjugation.positionFound(toTranslate).get(0);
     }

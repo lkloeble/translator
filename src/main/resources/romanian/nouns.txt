@@ -72,6 +72,7 @@ asimilat@adj%adj
 aspect@fem%fem
 aspiratsi@fem%fem
 aspirin@fem%fem
+asprim@fem%berea
 astazi@neut%inv
 atac@masc%locul
 atanasie@masc%inv
@@ -290,10 +291,11 @@ drept@adj%adjts
 drept@masc%ul
 dreptate@neut%inv
 drum@masc%ul
-duh@masc%ul
+duh@masc%locul
 dumneavoastra@neut%inv
 dumneze@adj%iesc
 dumnezeir@fem%berea
+dumnezeiesc@adj%adj
 dumnezeu@neut%inv
 dumnezeul@neut%inv
 dumnezeule@neut%inv
@@ -411,10 +413,11 @@ iepure@neut%iepure
 ierb@fem%locul
 ieremia@masc%inv
 iesir@fem%femi
+ignorants@fem%fem
 iisus@masc%inv
 imanent@adj%adjts
 imbogatsir@fem%berea
-imparat@masc%inv
+imparat@masc%ul
 imparatsia@fem%inv
 impartasanie@neut%inv
 impartasanii@neut%inv
@@ -430,6 +433,7 @@ impresi@fem%fem
 imprimat@adj%adj
 inaintar@fem%berea
 inalt@adj%adjts
+inaltsim@fem%berea
 inca@neut%inv
 incepatur@fem%fem
 inceput@masc%ul
@@ -457,6 +461,7 @@ infinitate@fem%ereditate
 influent@fem%femts
 infranar@fem%berea
 infrinar@fem%berea
+infruntar@fem%berea
 inger@masc%ul
 inim@fem%fem
 inmultsir@fem%berea
@@ -485,8 +490,10 @@ intunecat@adj%adj
 intuneric@masc%ul
 invatsat@adj%adjts
 invatsatur@fem%fem
+invatsator@masc%ul
 invatsatorule@neut%inv
 invatsatur@fem%femi
+invechit@adj%adj
 invers@neut%inv
 inzestrat@adj%adj
 ioan@masc%inv
@@ -531,6 +538,7 @@ lini@fem%femei
 linist@fem%berea
 linistit@adj%adjts
 lips@fem%fem
+lipsit@fem%fem
 literatur@fem%fem
 litr@masc%filtru
 loc@masc%locul
@@ -631,6 +639,7 @@ neam@masc%locul
 neaservit@adj%adjts
 neatins@adj%adj
 neavind@neut%inv
+nebun@fem%fem
 necaz@masc%ul
 necesar@adj%adj
 necesitat@fem%berea
@@ -985,6 +994,7 @@ suferir@fem%berea
 suficient@neut%inv
 suflet@masc%capul
 sufragerie@fem%inv
+superb@adj%adj
 superio@adj%adjr
 superioritat@fem%berea
 supranatural@adj%adj
@@ -1014,6 +1024,7 @@ tendints@fem%fem
 tensiun@fem%berea
 terestr@adj%adj
 termen@masc%ul
+teroar@fem%berea
 testament@masc%ul
 text@neut%ul
 tiberiad@fem%fem
@@ -1069,6 +1080,7 @@ unic@adj%adj
 unir@fem%berea
 unitat@fem%berea
 ur@fem%fem
+urat@adj%adjts
 urgi@fem%fem
 urias@masc%ul
 urm@fem%fem

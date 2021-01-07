@@ -1,6 +1,6 @@
 IPR=>,,s,,, ,
 PAP=>d
-AIMP=>,, ,
+AIMP=>xxx,x,xxx,xxx,x,xxx
 PAPR=>ing
 AIP=>,,,,, ,
 ACP=>would,would,would,would,would,would

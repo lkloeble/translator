@@ -1181,5 +1181,5 @@ lightfoot_ch1549=>They are the words of Benjamin, in his Itinerary [p.51].
 
 lightfootbase=>http://biblehub.com/library/lightfoot/from_the_talmud_and_hebraica/index.html
 
-toto=>they report
+toto=>hear also
 

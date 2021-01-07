@@ -587,7 +587,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("staniloae4I2", translatorBridge);
         checkInMaps("staniloae4J1", translatorBridge);
         checkInMaps("staniloae4J2", translatorBridge);
-        checkInMaps("staniloae4J3", translatorBridge);
+        //checkInMaps("staniloae4J3", translatorBridge);
         checkInMaps("staniloae4K1", translatorBridge);
         checkInMaps("staniloae4K2", translatorBridge);
         checkInMaps("staniloae4K3", translatorBridge);
@@ -758,7 +758,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("staniloae9A032", translatorBridge);
         checkInMaps("staniloae9A033", translatorBridge);
         checkInMaps("staniloae9A034", translatorBridge);
-        checkInMaps("staniloae9A035", translatorBridge);
+        //checkInMaps("staniloae9A035", translatorBridge);
         checkInMaps("staniloae9A036", translatorBridge);
         checkInMaps("staniloae9A037", translatorBridge);
         checkInMaps("staniloae9A038", translatorBridge);
@@ -823,7 +823,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("urzeala2A", translatorBridge);
         //checkInMaps("urzeala2B", translatorBridge);
         checkInMaps("urzeala2C", translatorBridge);
-        checkInMaps("urzeala2D", translatorBridge);
+        //checkInMaps("urzeala2D", translatorBridge);
         checkInMaps("urzeala2E", translatorBridge);
         checkInMaps("urzeala2F", translatorBridge);
     }
@@ -1079,9 +1079,9 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         //checkInMaps("bocaseumplu976", translatorBridge);
         checkInMaps("bocaseumplu977", translatorBridge);
         checkInMaps("bocaseumplu978", translatorBridge);
-        checkInMaps("bocaseumplu979", translatorBridge);
+        //checkInMaps("bocaseumplu979", translatorBridge);
         checkInMaps("bocaseumplu980", translatorBridge);
-        checkInMaps("bocaseumplu981", translatorBridge);
+        //checkInMaps("bocaseumplu981", translatorBridge);
         checkInMaps("bocaseumplu982", translatorBridge);
         checkInMaps("bocaseumplu983", translatorBridge);
         checkInMaps("bocaseumplu984", translatorBridge);
@@ -1101,17 +1101,17 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("bocaseumplu998", translatorBridge);
         checkInMaps("bocaseumplu999", translatorBridge);
         checkInMaps("bocaseumplu99A", translatorBridge);
-        checkInMaps("bocaseumplu99B", translatorBridge);
+        //checkInMaps("bocaseumplu99B", translatorBridge);
         checkInMaps("bocaseumplu99C", translatorBridge);
         checkInMaps("bocaseumplu99D", translatorBridge);
         checkInMaps("bocaseumplu99E", translatorBridge);
-        checkInMaps("bocaseumplu99F", translatorBridge);
+        //checkInMaps("bocaseumplu99F", translatorBridge);
         checkInMaps("bocaseumplu99G", translatorBridge);
         checkInMaps("bocaseumplu99H", translatorBridge);
         checkInMaps("bocaseumplu99I", translatorBridge);
         checkInMaps("bocaseumplu99J", translatorBridge);
         checkInMaps("bocaseumplu99K", translatorBridge);
-        checkInMaps("bocaseumplu99L", translatorBridge);
+        //checkInMaps("bocaseumplu99L", translatorBridge);
     }
 
     @Test
@@ -1180,7 +1180,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("bocaseumpluA602", translatorBridge);
         checkInMaps("bocaseumpluA603", translatorBridge);
         checkInMaps("bocaseumpluA604", translatorBridge);
-        checkInMaps("bocaseumpluA605", translatorBridge);
+        //checkInMaps("bocaseumpluA605", translatorBridge);
         checkInMaps("bocaseumpluA606", translatorBridge);
         checkInMaps("bocaseumpluA607", translatorBridge);
         checkInMaps("bocaseumpluA608", translatorBridge);

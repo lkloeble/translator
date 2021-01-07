@@ -1,2 +1,3 @@
 IPR=>i,i,ie,im,itsi,ie
 PAP=>[adjts]
+PAPR=>ind

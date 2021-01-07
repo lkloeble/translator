@@ -306,7 +306,7 @@ public abstract class LanguageToFrench implements TranslatorRepository {
             List<String> translations = Arrays.asList(rightForm.split("=")[1].replace("]", "").replace("[", "").split(","));
             ConjugationPosition formPosition = formPositionByConstructionName.get(constructionName);
             if(suggestedPositionInTranslation != ConjugationPosition.UNKNOWN && suggestedPositionInTranslation.getIndice() > translations.size()) continue;
-            if(formPosition == ConjugationPosition.UNKNOWN) continue;
+            if(formPosition == ConjugationPosition.UNKNOWN && !"INFINITIVE".equals(constructionName)) continue;
             if(translations.size() > formPosition.getIndice() && formPosition.getIndice() > 0) {
                 resultsFound.add(translations.get(formPosition.getIndice()));
             } else {

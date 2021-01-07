@@ -3,3 +3,4 @@ AIF=>nevoi,nevei,neva,nevom,nevetsi,nevor
 AIFINF=>neava
 PAP=>[adj]
 PAPR=>nand
+CONJ=>n,i,na,nem,netsi,na

@@ -65,13 +65,14 @@ public class RootedConjugation {
         List<ConjugationPart2> conjugationPartList = new ArrayList<>();
         String[] valueTab = conjugationValues.split(",");
         if(valueTab.length == 0) return Collections.EMPTY_LIST;
-        int positionInDefinition = 1;
+        int positionInDefinition = 0;
         for(int i=0;i<valueTab.length;i++) {
             if(valueTab[i].contains("|")) {
                 String[] allValuesForIndice = valueTab[i].split("\\|");
                 for(String value : allValuesForIndice) {
-                    conjugationPartList.add(new ConjugationPart2(ConjugationPosition.getValueByPosition(i),value,accentuer.unaccentued(value),positionInDefinition++));
+                    conjugationPartList.add(new ConjugationPart2(ConjugationPosition.getValueByPosition(i),value,accentuer.unaccentued(value),positionInDefinition));
                 }
+                positionInDefinition++;
             } else {
                 if(valueTab[i] == null || valueTab[i].isEmpty()) continue;
                 conjugationPartList.add(new ConjugationPart2(ConjugationPosition.getValueByPosition(i),valueTab[i],accentuer.unaccentued(valueTab[i]),positionInDefinition++));

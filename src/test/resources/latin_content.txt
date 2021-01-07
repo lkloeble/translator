@@ -1186,4 +1186,4 @@ spinozaethi1F=>Definitio 6 : Per Deum intelligo ens absolute infinitum hoc est s
 spinozaethi1G=>Definitio 7 : Ea res libera dicitur quae ex sola suae naturae necessitate existit et a se sola ad agendum determinatur. Necessaria autem vel potius coacta quae ab alio determinatur ad existendum et operandum certa ac determinata ratione.
 spinozaethi1H=>Definitio 8 : Per aeternitatem intelligo ipsam existentiam quatenus ex sola rei aeternae definitione necessario sequi concipitur.
 
-toto=>dividebat
+toto=>famulus malus puerum auro@[ABL] seducit

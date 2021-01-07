@@ -17,7 +17,7 @@ amuz,,[bea]
 angaj,,[fumez]
 apar,ea,[face],(ACP*apar*arapar)
 apreci,,[aprecia]
-aprind,e,[merg],(IPR1*di*zi*1)
+aprind,e,[merg],(IPR1*di*zi*1@PAP*aprind*aprins)
 apropi,a,[manie]
 apropri,,[aprecia]
 apuc,a,[incerca],(PAP*apuc*apucat)
@@ -38,6 +38,7 @@ bat,e,[merg]
 be,,[bea]
 birui,,[mantui]
 bolt,,[primi]
+brazd,a,[fumez],(PAP*brazd*brazdat)
 cad,,[merg],(AII*cad*cade)
 calator,i,[locuiesc]
 cant,,[cauta]
@@ -82,6 +83,7 @@ cun,,[cunosc]
 cuprin,de,[crede]
 cuv,ine,[cuvine]
 da,,[da],(PAP*da*dat@ASP*da*d)
+dainu,i,[bantui]
 daram,a,[cauta]
 declar,a,[cauta],(PAP*declar*declarat)
 descuraj,,[fumez]
@@ -130,6 +132,7 @@ gol,i,[aciti]
 gon,i,[aciti],(PAP*gon*gonit)
 hotar,i,[hotarasc]
 hran,,[hrani]
+hul,i,[aciti]
 ies,,[dorm]
 imbatran,i,[aciti]
 imbi,,[manie]
@@ -146,6 +149,7 @@ impun,,[merg]
 inabus,,[aciti]
 inaint,,[fumez],(PAP*inaint*inaintat@MMCP*inaint*inaintas)
 incarc,,[incerca],(PAP*incarc*incarcat)
+incap,ea,[merg]
 incep,,[face],(PAP*incep*inceput)
 incerc,a,[incerca],(PAP*incerc*incercat)
 incet,a,[fumez]
@@ -188,12 +192,14 @@ intorc,,[face],(IPR234*intor*intoar)
 intovaras,,[locuiesc],(PAP*intovaras*intovarasit)
 intr,a,[intampla],(PAP*intr*intrat@MMCP*intr*intras*)
 intreb,,[cauta],(IPR25*intreba*intreaba@AIMP*intreba*intreaba@PAP*intreb*intrebat)
+intrebuints,a,[fumez]
 intrerup,,[face],(PAP*intrerup*intrerupt)
 intseleg,e,[merg],(PAP*intseleg*intseles@ASP*intseleg*intseleag)
 intunec,,[cauta]
 inva,,[invata],(IPR*atsi*etsi*1)
 invalu,i,[invalui],(PAP*invalu*invaluit)
 invinu,i,[locuiesc]
+irit,a,[cauta]
 isc,a,[cauta],(PAP*isc*iscat)
 istoris,,[locuiesc],(PAP*istoris*istorisit)
 iub,,[aciti]
@@ -203,6 +209,7 @@ izbut,i,[aciti],(PAP*izbut*izbutit)
 las,a,[cauta],(PAP*las*lasat)
 lats,i,[mantui],(PAP*latsi*latsit)
 lepad,,[incerca],(IPR25*lepad*leapad@IPR1*lepad*lepez@PAP*lepad*lepadat)
+lips,i,[aciti],(AII*lips*lipse@PAP*lips*lipsit)
 locu,,[locuiesc]
 lov,,[hrani],(PAP*lov*lovit)
 lua@IRREGULAR%[IPR]=[iau,iei,ia,luam,luatsi,iau]%[PAP]=[luat]%[PAPR]=[luand|luind]%[INFINITIVE]=[lua]
@@ -213,6 +220,7 @@ mani,e,[manie]
 manifest,,[fumez]
 maninc@IRREGULAR%[IPR]=[maninc,maninci,maninca,mancam,mancati,mananca]%[CONJ]=[mananc,mananci,manance,mancam,mancatsi,manance]%[PAP]=[mancat]%[MMCP]=[mancasem,mancasesi,mancase,mancaseram,mancaseratsi,mancasera]%[INFINITIVE]=[maninca]
 mantui,,[mantui]
+marturis,i,[aciti]
 ments,,[mentsin]
 merg,e,[merg],(AIP*merg*mers@AII*merg*merge@AIF*merg*merge@PAP*merg*mers)
 misc,a,[incerca],(IPR1*misc*mist)
@@ -254,12 +262,14 @@ potol,i,[primi],(PAP*potol*potolit)
 povest,,[locuiesc]
 praval,i,[aciti],(AII*praval*pravale)
 prefer,a,[incerca]
+pregat,i,[aciti]
 prelucr,,[fumez]
 pricep,,[merg]
 prigon,,[aciti],(PAP*prigon*prigonit)
 prim,,[primi],(PAP*prim*primit)
 prin,de,[crede],(PAP*prin*prins)
 priv,i,[primi]
+prob,a,[fumez],(PAP*proba*probat)
 produc,,[face]
 proiect,a,[fumez],(PAP*proiect*proiectat)
 promov,a,[fumez]
@@ -307,6 +317,7 @@ sil,i,[aciti],(PAP*sil*silit)
 simt,,[impart]
 sint@IRREGULAR%[IPR]=[sint,esti,este,sintem|suntem,sintetsi|suntetsi,sint|sunt]%[AII]=[eram,erai,era,eram,eratsi,erau]%[PAPR]=[fiind]%[ASP]=[fiu,fii,fie,fim,fitsi,fie]%[ACP]=[asfi,aifi,arfi,amfi,atsifi,arfi]%[PAP]=[fost]%[INFINITIVE]=[fi]
 sluj,,[locuiesc],(PAP*sluj*slujit)
+smint,i,[aciti],(MMCP*smint*smintis)
 smulg,,[merg]
 socot,,[mantui],(AIF*socoteste*socoti*0)
 solicit,,[cauta]
@@ -325,12 +336,13 @@ string,,[merg],(MMCP*string*strins)
 studi,a,[fumez]
 sublini,,[aprecia]
 succe,,[succeda]
-sufer,,[suferi],(IPR0*er*ar*1)
+sufer,,[suferi],(IPR0*er*ar*1@PAP*sufer*suferit)
 sui,,[trebui],(PAP*sui*suit)
 suport,,[cauta]
 supravietsu,i,[aciti],(PAP*supravietsu*supravietsuit)
 supun,a,[merg]
 surp,,[incerca],(PAP*surp*surpat)
+surprin,de,[vinde]
 suspin,,[incerca],(AIF*suspin*suspina)
 sustsi,,[ramane],(PAP*sustsi*sustsinut)
 tac,ea,[merg]
@@ -351,6 +363,7 @@ trez,i,[primi],(PAP*trez*trezit)
 trim,,[trimite]
 tsi,ne,[ramane],(PAP*tsi*tsinut@AIMP*tsi*tsina)
 tulbur,a,[incerca],(PAP*tulbur*tulburat)
+turt,i,[aciti],(PAP*turt*turtit)
 uim,i,[aciti],(PAP*uim*uimit)
 uit,a,[cauta],(PAP*uit*uitat)
 umaniz,,[fumez]
@@ -361,6 +374,7 @@ un,i,[aciti],(PAP*un*unit)
 urc,,[cauta]
 urm,,[fumez],(PAP*urm*urmat@MMCP*urm*urmas)
 urmar,,[aciti],(PAP*urmar*urmarit@MMCP*urmar*urmxxx)
+urz,i,[aciti]
 vad@IRREGULAR%[IPR]=[vad,vezi,vede,vedem,vedetsi,vad]%[AIPP]=[vazusem,vazusesi,vazuse,vazuseram,vazuseratsi,vazusera]%[INFINITIVE]=[vedea]%[PAP]=[vazut]%[PAPR]=[vazand|vazandu]%[AII]=[vedeam,vedeai,vedea,vedeam,vedeatsi,vedeau]
 van,,[vinde],(IPR1234*van*vin@PSP1234*van*vin)
 vasl,i,[aciti]
