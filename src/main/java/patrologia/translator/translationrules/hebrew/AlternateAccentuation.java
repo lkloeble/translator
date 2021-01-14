@@ -10,26 +10,26 @@ public class AlternateAccentuation extends TranslationRule {
 
     private String letterToUpdate;
     private String updatedValue;
-    private List<Integer> indices;
+    private List<Integer> strictPositions;
 
-    public AlternateAccentuation(String conjugationName, String ruleParameters, List<Integer> indices) {
+    public AlternateAccentuation(String conjugationName, String ruleParameters, List<Integer> strictPositions) {
         this.conjugationName = conjugationName;
         this.ruleParameters = ruleParameters;
         String[] parts = ruleParameters.split("\\*");
         letterToUpdate = parts[0];
         updatedValue = parts[1];
-        this.indices = indices;
+        this.strictPositions = strictPositions;
     }
 
     @Override
     public List<ConjugationPart2> transform(List<ConjugationPart2> conjugationPartList) {
         List<ConjugationPart2> modifiedList = new ArrayList<>();
         for(ConjugationPart2 conjugationPart : conjugationPartList) {
-            if(hasPatternToChange(conjugationPart) && isPositionAllowedForChange(conjugationPart, indices)) {
+            if(hasPatternToChange(conjugationPart) && isPositionAllowedForChange(conjugationPart, strictPositions)) {
                 String alternateValue = modifyValue(conjugationPart.getValue());
-                ConjugationPart2 alternateConjugationPart = new ConjugationPart2(conjugationPart.getConjugationPosition(), alternateValue, unaccentued(alternateValue), conjugationPart.getIndice());
+                ConjugationPart2 alternateConjugationPart = new ConjugationPart2(conjugationPart.getConjugationPosition(), alternateValue, unaccentued(alternateValue), conjugationPart.getIndice(),conjugationPart.getStrictPosition());
                 modifiedList.add(alternateConjugationPart);
-                if(isAllowedForAnyPosition(indices)) {
+                if(isAllowedForAnyPosition(strictPositions)) {
                     modifiedList.add(conjugationPart);
                 }
             } else {
@@ -49,7 +49,7 @@ public class AlternateAccentuation extends TranslationRule {
 
     @Override
     public String toString() {
-        return "AlternateAccentuation{" + conjugationName +  " " + ruleParameters + " " + indices + "}";
+        return "AlternateAccentuation{" + conjugationName +  " " + ruleParameters + " " + strictPositions + "}";
     }
 
 }

@@ -72,7 +72,7 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
         return Arrays.asList(new String[]{
                 "y60ir@fem%custom(nomplr=yrim|cst(nomplr)=yri&|dir(nomsg)=yirh|nomsg=y60ir)"
         });
-         */
+        */
         return getFileContentForRepository(nounFileDescription);
     }
 
@@ -89,8 +89,7 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getPrepositions(String prepositionFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "m@prep()",
-                "m62@prep()"
+                "h@prep()"
         });
         */
         return getFileContentForRepository(prepositionFileDescription);
@@ -99,7 +98,7 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFiles) {
         /*
         return Arrays.asList(new String[]{
-                "nxh$,,[binyanhifil],(BINHIPER%substitute(1:2:3:6:7:8)%nxh$*xi*0@BINHIPER%substitute(4:5:9)%nxh$*x*0@BINHIFUT%substitute%nxh$*x*0)"
+                "bdl,,[hiphil],(HIFPER%leadingrootletter%h*h60@HIFPER%secondletterroot%b*b56@HIFPER%alternateaccentuation(4:5:9)%d*d60i)"
         });
          */
         return getFileContentForRepository(verbFiles);
@@ -435,7 +434,8 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
         return Arrays.asList(new String[]{
                 "HIFPER=>*h*ti,*h*t|*h*t,*h*@|*h*h,*h*nw309,*h*tm|*h*tn,*h*w309"
         });
-         */
+        */
+
         return Arrays.asList(new String[]{
                 "HIFPER=>*h*ti,*h*t|*h*t,*h*@|*h*h,*h*nw309,*h*tm|*h*tn,*h*w309",
                 "HIFFUT=>*a*@,*t*@|*t*i,*i*@|*t*@,*n*@,*t*w|*t*nh,*i*w|*t*nh",
@@ -1089,8 +1089,9 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("bereshit1U", translatorBridge);
-        checkInMaps("toto", translatorBridge);
+        checkInMaps("totoacc", translatorBridge);
+        //checkInMaps("toto", translatorBridge);
+        //checkInMaps("bereshit1U", translatorBridge);
     }
 
 }

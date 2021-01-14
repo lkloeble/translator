@@ -380,7 +380,7 @@ van,,[vinde],(IPR1234*van*vin@PSP1234*van*vin)
 vasl,i,[aciti]
 vatam,a,[cauta],(ACPINF*vatam*arvatama)
 vietsu,i,[locuiesc]
-vin@IRREGULAR%[IPR]=[vin,vii,vine,venim,venitsi,vin]%[AII]=[veneam,veneai,venea,veneam,veneatsi,veneau]%[PAPR]=[venind]%[PAP]=[venit]%[MMCP]=[venisem,venisesi,venise,veniseram,veniseratsi,venisera]%[AIMP]=[vino,x,venitsi][INFINITIVE]=[veni]
+vin@IRREGULAR%[IPR]=[vin,vii,vine,venim,venitsi,vin]%[AII]=[veneam,veneai,venea,veneam,veneatsi,veneau]%[PAPR]=[venind]%[PAP]=[venit]%[MMCP]=[venisem,venisesi,venise,veniseram,veniseratsi,venisera]%[AIMP]=[x,vino,x,x,venitsi,x][INFINITIVE]=[veni]
 vindec,a,[incerca]
 voi,,[aciti],(PAP*voi*voit@MMCP*voi*voixxxx)
 vorb,i,[aciti],(PAP*vorb*vorbit)

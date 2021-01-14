@@ -28,7 +28,7 @@ public class SecondLetterRoot  extends TranslationRule {
                 int letterIndice = value.indexOf(letterToUpdate);
                 value = value.substring(0,letterIndice) + updatedValue  + value.substring(letterIndice+letterToUpdate.length());
             }
-            ConjugationPart2 modified = new ConjugationPart2(conjugationPart.getConjugationPosition(),value,conjugationPart.getUnaccentuedValue(), conjugationPart.getIndice());
+            ConjugationPart2 modified = new ConjugationPart2(conjugationPart.getConjugationPosition(),value,conjugationPart.getUnaccentuedValue(), conjugationPart.getIndice(), conjugationPart.getStrictPosition());
             modifiedList.add(modified);
         }
         return modifiedList;

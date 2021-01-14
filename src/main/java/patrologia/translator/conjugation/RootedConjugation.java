@@ -66,16 +66,18 @@ public class RootedConjugation {
         String[] valueTab = conjugationValues.split(",");
         if(valueTab.length == 0) return Collections.EMPTY_LIST;
         int positionInDefinition = 0;
+        int strictPosition = 1;
         for(int i=0;i<valueTab.length;i++) {
             if(valueTab[i].contains("|")) {
                 String[] allValuesForIndice = valueTab[i].split("\\|");
                 for(String value : allValuesForIndice) {
-                    conjugationPartList.add(new ConjugationPart2(ConjugationPosition.getValueByPosition(i),value,accentuer.unaccentued(value),positionInDefinition));
+                    conjugationPartList.add(new ConjugationPart2(ConjugationPosition.getValueByPosition(i),value,accentuer.unaccentued(value),positionInDefinition,strictPosition));
+                    strictPosition++;
                 }
                 positionInDefinition++;
             } else {
                 if(valueTab[i] == null || valueTab[i].isEmpty()) continue;
-                conjugationPartList.add(new ConjugationPart2(ConjugationPosition.getValueByPosition(i),valueTab[i],accentuer.unaccentued(valueTab[i]),positionInDefinition++));
+                conjugationPartList.add(new ConjugationPart2(ConjugationPosition.getValueByPosition(i),valueTab[i],accentuer.unaccentued(valueTab[i]),positionInDefinition++,strictPosition++));
             }
         }
         return conjugationPartList;
@@ -222,7 +224,7 @@ public class RootedConjugation {
         if(!constructionName.equals(time)) return;
         if(!translationInformationReplacement.hasReplacementForTime(time)) return;
         for(ConjugationPart2 conjugationPart : conjugationPartList) {
-            conjugationPart.updateValue(conjugationPart.getValue(),translationInformationReplacement.replace(time, conjugationPart));
+            conjugationPart.updateValue(conjugationPart.getValue(),conjugationPart.getUnaccentuedValue(),translationInformationReplacement.replace(time, conjugationPart));
         }
     }
 

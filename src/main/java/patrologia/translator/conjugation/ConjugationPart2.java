@@ -8,6 +8,7 @@ public class ConjugationPart2 {
     private String value;
     private String unaccentuedValue;
     private int indice;
+    private int strictPosition;
 
     public ConjugationPart2(ConjugationPosition conjugationPosition, String value) {
         this.conjugationPosition = conjugationPosition;
@@ -19,13 +20,15 @@ public class ConjugationPart2 {
         this.value=value;
         this.unaccentuedValue = unaccentuedValue;
         this.indice = 0;
+        this.strictPosition = 0;
     }
 
-    public ConjugationPart2(ConjugationPosition conjugationPosition, String value, String unaccentuedValue, int indice) {
+    public ConjugationPart2(ConjugationPosition conjugationPosition, String value, String unaccentuedValue, int indice, int strictPosition) {
         this.conjugationPosition = conjugationPosition;
         this.value=value.trim();
         this.unaccentuedValue = unaccentuedValue.trim();
         this.indice = indice;
+        this.strictPosition = strictPosition;
     }
 
     public String getValue() {
@@ -44,6 +47,10 @@ public class ConjugationPart2 {
         return indice;
     }
 
+    public Integer getStrictPosition() {
+        return strictPosition;
+    }
+
     public String getUnaccentuedValue() {
         return unaccentuedValue;
     }
@@ -56,13 +63,9 @@ public class ConjugationPart2 {
         return conjugationPosition;
     }
 
-    public void updateValue(String target, String replacement) {
-        this.value = value.replace(target,replacement);
-        this.unaccentuedValue = unaccentuedValue.replace(target,replacement);
-    }
-
-    public Integer getPositionInDefinition() {
-        return getConjugationPosition().getIndice();
+    public void updateValue(String targetValue, String targetUnaccentuedValue, String replacement) {
+        this.value = value.replace(targetValue,replacement);
+        this.unaccentuedValue = unaccentuedValue.replace(targetUnaccentuedValue,replacement);
     }
 
     @Override
@@ -72,6 +75,7 @@ public class ConjugationPart2 {
                 ", value='" + value + '\'' +
                 ", unaccentuedValue='" + unaccentuedValue + '\'' +
                 ", indice=" + indice +
+                ", strictPosition=" + strictPosition +
                 '}';
     }
 }

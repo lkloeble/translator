@@ -28,7 +28,7 @@ public class Substitute extends TranslationRule {
             if(isPositionAllowedForChange(conjugationPart, indices)) {
                 String alternateValue = modifyValue(conjugationPart.getValue());
                 String alternateUnaccentuedValue = modifyValue(conjugationPart.getUnaccentuedValue());
-                ConjugationPart2 alternateConjugationPart = new ConjugationPart2(conjugationPart.getConjugationPosition(), alternateValue, alternateUnaccentuedValue, conjugationPart.getPositionInDefinition());
+                ConjugationPart2 alternateConjugationPart = new ConjugationPart2(conjugationPart.getConjugationPosition(), alternateValue, alternateUnaccentuedValue, conjugationPart.getIndice(),conjugationPart.getStrictPosition());
                 modifiedList.add(alternateConjugationPart);
             } else {
                 modifiedList.add(conjugationPart);

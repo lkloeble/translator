@@ -32,7 +32,7 @@ public class GreekAnalyzer implements Analyzer {
 
     public Analysis analyze(String sentence) {
         String unaccentuetedCharacters = skipAccentuetedCharacters(sentence);
-        Phrase phrase = wordSplitter.splitSentence(unaccentuetedCharacters, Language.GREEK, new DefaultWordSplitterPattern());
+        Phrase phrase = wordSplitter.splitSentence(unaccentuetedCharacters, Language.GREEK, new GreekWordSplitterPattern());
         phrase = eraseSubstantiveSuffix(phrase);
         phrase = wordAnalyzer.affectAllPossibleInformations(phrase);
         phrase =  affectGreekGenders(phrase);

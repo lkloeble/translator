@@ -2,6 +2,6 @@ IPR=>e,st,t,en,t,en
 AIP=>,st,,en,t,en
 ASI=>e,est,e,en,et,en
 PAP=>[ausreichend]
-AIMP=>-,|e,-,-,t,-
+AIMP=>x,|e,x,x,t,x
 PAPR=>end
 ASP=>e,est,e,en,et,en

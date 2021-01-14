@@ -21,9 +21,9 @@ public abstract class TranslationRule {
         return sb.toString();
     }
 
-    protected boolean isPositionAllowedForChange(ConjugationPart2 conjugationPart, List<Integer> indices) {
-        if(indices.size() == 0) return true;
-        return indices.contains(conjugationPart.getIndice());
+    protected boolean isPositionAllowedForChange(ConjugationPart2 conjugationPart, List<Integer> strictPositions) {
+        if(strictPositions.size() == 0) return true;
+        return strictPositions.contains(conjugationPart.getStrictPosition());
     }
 
     protected boolean isAllowedForAnyPosition(List<Integer> indices) {

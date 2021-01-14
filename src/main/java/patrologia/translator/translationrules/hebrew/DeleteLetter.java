@@ -23,7 +23,7 @@ public class DeleteLetter extends TranslationRule {
         for(ConjugationPart2 conjugationPart : conjugationPartList) {
             if(isPositionAllowedForChange(conjugationPart, indices)) {
                 String alternateValue = modifyValue(conjugationPart.getValue());
-                ConjugationPart2 alternateConjugationPart = new ConjugationPart2(conjugationPart.getConjugationPosition(), alternateValue, unaccentued(alternateValue), conjugationPart.getPositionInDefinition());
+                ConjugationPart2 alternateConjugationPart = new ConjugationPart2(conjugationPart.getConjugationPosition(), alternateValue, unaccentued(alternateValue), conjugationPart.getIndice(),conjugationPart.getStrictPosition());
                 modifiedList.add(alternateConjugationPart);
                 if(isAllowedForAnyPosition(indices)) {
                     modifiedList.add(conjugationPart);

@@ -248,7 +248,7 @@ kenn,en,[leben],(PAPR*kenn*kennend@AIP*kenn*kannt)
 kling,en,[leben]
 knupf,en,[leben]
 koch,en,[leben]
-komm,en,[rufen],(AIP*komm*kam@PAP*kom*gekom@ASI*komm*kam@AIMP*komm*kommxxx)
+komm,en,[rufen],(AIP*komm*kam@PAP*kom*gekom@ASI*komm*kam)
 konn,en,[wollen],(PAPR*konn*konnend@IPR012*kon*kan@PAP*konn*gekonnt)
 kost,en,[leben]
 kriech,en,[leben]

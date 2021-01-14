@@ -28,7 +28,7 @@ public class SofitRootLetter  extends TranslationRule {
             if(isLastLetter(letterToUpdate, xLetter, conjugationPart.getValue())) {
                 int position = getPosition(letterToUpdate,xLetter, conjugationPart.getValue());
                 String modifiedValue = insertAtPosition(position,updatedValue, conjugationPart.getValue());
-                ConjugationPart2 modified = new ConjugationPart2(conjugationPart.getConjugationPosition(), modifiedValue, conjugationPart.getUnaccentuedValue(), conjugationPart.getPositionInDefinition());
+                ConjugationPart2 modified = new ConjugationPart2(conjugationPart.getConjugationPosition(), modifiedValue, conjugationPart.getUnaccentuedValue(), conjugationPart.getIndice(),conjugationPart.getStrictPosition());
                 modifiedList.add(modified);
             } else  {
                 modifiedList.add(conjugationPart);

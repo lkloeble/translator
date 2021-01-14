@@ -124,7 +124,7 @@ public class TranslationInformationReplacement {
                     if(authorizedPositionsForReplacements.size() == 0 || authorizedPositionsForReplacements.contains(conjugationPart.getIndice())) {
                         String target = toReplaceMap.get(possibleOperation);
                         String replacement = replacementMap.get(possibleOperation);
-                        conjugationPart.updateValue(target, replacement);
+                        conjugationPart.updateValue(target, target, replacement);
                     }
                 }
             }

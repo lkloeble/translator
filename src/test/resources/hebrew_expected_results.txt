@@ -769,5 +769,5 @@ midrashrabahebcom1N=>foobar
 midrashrabahebcom1O=>foobar
 midrashrabahebcom1P=>foobar
 
-totoacc=>voici comme ville(s) (des)(e) de de ville(s)(e)
+totoacc=>causa de séparer
 toto=>tout homme inclineront

@@ -27,7 +27,7 @@ public class LeadingRootLetter extends TranslationRule {
             if(value.startsWith(letterToUpdate)) {
                 value = updatedValue + value.substring(1);
             }
-            ConjugationPart2 modified = new ConjugationPart2(conjugationPart.getConjugationPosition(),value,conjugationPart.getUnaccentuedValue(),conjugationPart.getIndice());
+            ConjugationPart2 modified = new ConjugationPart2(conjugationPart.getConjugationPosition(),value,conjugationPart.getUnaccentuedValue(),conjugationPart.getIndice(),conjugationPart.getStrictPosition());
             modifiedList.add(modified);
         }
         return modifiedList;

@@ -312,7 +312,7 @@ orn,o,as,are,,,[o-as]
 ostend,o,is,ere,tendi,tentum,[o-is]
 par,o,as,are,,,[o-as],(ASPP*par*parass*0@ASI*par*parar*0)
 par,eo,es,ere,,,[eo-es]
-par,io,is,ere,,,[io-is],(AIP*par*peper*0@ASPP*par*parxxx*0)
+par,io,is,ere,,,[io-is],(AIP*par*peper*0@ASPP*par*parxxx*0@AIMP*par*parxx*0)
 pat,eo,es,ere,,,[eo-es]
 pat,ior,eris,,,,[ior-eris],(ASI*pat*pater*0)
 patr,o,as,are,,,[o-as],(ASI*patr*patrar*0)
@@ -407,7 +407,7 @@ sequ,or,eris,i,,,[or-eris]
 serv,o,as,are,,,[o-as]
 simul,o,as,are,,,[o-as]
 sin,o,is,ere,,,[o-is]
-sit,io,is,ire,,,[io-is],(ASI*site*siti*0)
+sit,io,is,ire,,,[io-is],(ASI*site*siti*0@AIMP*sit*sitxx)
 solv,o,is,ere,,,[o-is]
 son,o,as,are,,,[o-as]
 sparg,o,is,ere,,,[o-is]

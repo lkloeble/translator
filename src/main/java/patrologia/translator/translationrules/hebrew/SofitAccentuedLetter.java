@@ -25,7 +25,7 @@ public class SofitAccentuedLetter extends TranslationRule {
         for(ConjugationPart2 conjugationPart : conjugationPartList) {
             if(hasSofitCharacterToBeAccentued(conjugationPart.getValue())) {
                 String modifiedValue = conjugationPart.getValue().replaceAll(letterToUpdate,updatedValue);
-                ConjugationPart2 modifiedPart = new ConjugationPart2(conjugationPart.getConjugationPosition(), modifiedValue, conjugationPart.getUnaccentuedValue(), conjugationPart.getPositionInDefinition());
+                ConjugationPart2 modifiedPart = new ConjugationPart2(conjugationPart.getConjugationPosition(), modifiedValue, conjugationPart.getUnaccentuedValue(), conjugationPart.getIndice(),conjugationPart.getStrictPosition());
                 modifiedList.add(modifiedPart);
             } else {
                 modifiedList.add(conjugationPart);
