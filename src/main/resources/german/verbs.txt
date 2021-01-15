@@ -327,7 +327,7 @@ schleud,ern,[fordern]
 schliess,en,[schliessen],(AIP*schliess*schloss)
 schmah,en,[leben],(PAP*schmah*geschmaht)
 schreib,en,[rufen],(AIP*schreib*schrieb@PAP*schrei*geschrie)
-schutz,en,[leben],(IPR*schutzst*schutzt)
+schutz,en,[leben],(IPR*schutzst*schutzt@AII*schutz*schutzt@ASP*schutz*schutzt)
 schweb,en,[leben]
 schwor,en,[leben],(PAP*schwor*geschworen)
 sein@IRREGULAR%[INFINITIVE]=[sein]%[IPR]=[bin,bist,ist,sind,seid,sind]%[AII]=[war,warst,war,waren,wart,waren]%[AIF]=[werde,wirst,wird,werden,werdet,werden]%[AIMP]=[sei,sei]%[ASP]=[sei,seist,sei,seien,seiet,seien]%[ASI]=[ware,warest,ware,waren,waret,waren]

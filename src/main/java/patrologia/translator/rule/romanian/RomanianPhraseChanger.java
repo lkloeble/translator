@@ -175,6 +175,7 @@ public class RomanianPhraseChanger extends CustomLanguageRulePhraseChanger {
         for(Integer indice : indices) {
             Word unknownWordAtPosition = phrase.getYetUnknownWordAtPosition(indice);
             if(!unknownWordAtPosition.getRoot().equals("sti")) continue;
+            if(unknownWordAtPosition.getInitialValue().equals("stiind")) continue;
             Phrase portionAfterStiVerb = phrase.getSubPhraseFrom(indice+1);
             int numberOfWordsByType = verbRepository.knowsThisInitialValues(decorateInitialValuesForRomanianInfinitive(portionAfterStiVerb.getListOfInitialValues()));
             if(numberOfWordsByType > 0) {

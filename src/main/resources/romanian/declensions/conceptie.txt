@@ -3,3 +3,5 @@ nomb%sing%fem%ia
 gen%sing%fem%iei
 noma%plr%fem%ile
 nomb%plr%fem%ii
+nomc%plr%fem%iile
+gen%plr%fem%iilor

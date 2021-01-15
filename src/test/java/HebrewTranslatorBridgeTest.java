@@ -98,9 +98,9 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFiles) {
         /*
         return Arrays.asList(new String[]{
-                "bdl,,[hiphil],(HIFPER%leadingrootletter%h*h60@HIFPER%secondletterroot%b*b56@HIFPER%alternateaccentuation(4:5:9)%d*d60i)"
+                "qra,qrwt,[paal],(AIP%leadingrootletter%q*q64@AIP%secondletterroot%r*r64@AIP%alternateaccentuation%q64*q6469@AIP%alternateaccentuation(5:9)%r64*r56@AIP%alternateaccentuation(5)%a*a64@ARAIPR%substitute%ra*wr*0@AIF%substitute(9)%qra*qr*0@IPR%substitute%qr*qwr*0%qwr*qr*0@ARAIPR%substitute(3)%wr*ri*0)"
         });
-         */
+        */
         return getFileContentForRepository(verbFiles);
     }
 
@@ -405,9 +405,10 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getPaalDefinition() {
         /*
         return Arrays.asList(new String[]{
-                "ARAIPR=>x-,x-,,nw,x-,im000|in000"
+                "IPRPLU=>im",
+                "IPR=>|t,|t,|t,im|wt,im|wt,im|wt"
         });
-         */
+        */
         return Arrays.asList(new String[]{
                 "AIP=>ti,t|t,|h,nw,tm000|tn,w309",
                 "AIPSHORT=>x-,x-,zz,x-,x-,x-",
@@ -1089,6 +1090,7 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failedones() {
         assertTrue(true);
+        checkInMaps("wein35C1", translatorBridge);
         checkInMaps("totoacc", translatorBridge);
         //checkInMaps("toto", translatorBridge);
         //checkInMaps("bereshit1U", translatorBridge);

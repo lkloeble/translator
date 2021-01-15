@@ -1,6 +1,7 @@
 acoper,,[suferi],(PAP*acoper*acoperit)
 acord,,[incerca]
 actualiz,,[fumez]
+acuz,a,[suferi],(PAP*acuz*acuzat)
 adanc,i,[aciti]
 adorm,i,[dorm]
 aduc,e,[face],(PAP*aduc*adus@AIF*aduc*aduce)
@@ -28,6 +29,7 @@ ascult,,[cauta]
 aseman,a,[incerca],(PAP*aseman*asemanat)
 aspir,a,[incerca]
 astept,a,[cauta],(AIMP*astepta*asteapta*1)
+atac,a,[incerca]
 ating,,[merg],(AIF*ating*atinge@PAP*ating*atins)
 atrag,e,[merg],(PAP*atrag*atras)
 autoform,are,[aciti]
@@ -131,6 +133,7 @@ gind,,[mantui]
 gol,i,[aciti]
 gon,i,[aciti],(PAP*gon*gonit)
 hotar,i,[hotarasc]
+hotarnic,i,[aciti],(PAP*hotarnic*hotarnicit)
 hran,,[hrani]
 hul,i,[aciti]
 ies,,[dorm]
@@ -145,6 +148,7 @@ imping,e,[merg]
 implic,,[cauta],(PAP*implic*implicat)
 implin,,[locuiesc]
 impotriv,,[mantui],(AII*impotriv*impotrive@PAP*impotriv*impotrivxxx)
+imprasti,a,[manie],(MMCP*imprasti*imprastias)
 impun,,[merg]
 inabus,,[aciti]
 inaint,,[fumez],(PAP*inaint*inaintat@MMCP*inaint*inaintas)
@@ -166,6 +170,7 @@ indo,i,[indoi],(PAP*indo*indoit)
 indrazn,i,[hrani]
 indrept,a,[cauta]
 inec,a,[incerca]
+infrang,e,[merg],(PAP*infrang*infrant)
 infricos,a,[fumez],(PAP*infricos*infricosat)
 infrunt,,[cauta]
 infuri,a,[manie],(PAP*infuri*infuriat)
@@ -185,9 +190,9 @@ inspaimant,,[cauta],(PAP*inspaimant*inspaimantat)
 insus,i,[locuiesc]
 intampl,,[intampla]
 intimpl,,[intampla]
-intin,de,[vinde]
 intar,i,[aciti],(PAP*intar*intarit)
 interv,,[mentsin]
+intin,de,[vinde],(AII*intin*intinde)
 intorc,,[face],(IPR234*intor*intoar)
 intovaras,,[locuiesc],(PAP*intovaras*intovarasit)
 intr,a,[intampla],(PAP*intr*intrat@MMCP*intr*intras*)
@@ -196,6 +201,7 @@ intrebuints,a,[fumez]
 intrerup,,[face],(PAP*intrerup*intrerupt)
 intseleg,e,[merg],(PAP*intseleg*intseles@ASP*intseleg*intseleag)
 intunec,,[cauta]
+inund,a,[suferi]
 inva,,[invata],(IPR*atsi*etsi*1)
 invalu,i,[invalui],(PAP*invalu*invaluit)
 invinu,i,[locuiesc]
@@ -232,6 +238,7 @@ mus,,[musca]
 mustr,a,[cauta],(PAP*mustr*mustrat)
 mut,,[cauta],(PAP*mut*mutat)
 nast,e,[merg]
+naval,i,[aciti],(AII*naval*navale)
 num,i,[primi],(AII*num*nume)
 obos,,[locuiesc]
 omor,i,[merg],(PAP*omor*omorat)
@@ -245,14 +252,17 @@ pats,i,[hrani]
 paz,i,[aciti]
 pecetlu,i,[locuiesc],(PAP*pecetlu*pecetluit)
 pedeps,i,[locuiesc]
+permit,e,[scoate]
 persist,a,[incerca]
 petrec,e,[merg],(AIPP*petrec*petrecus@PAP*petrec*petrecut)
 pier,i,[pieri]
-pierd,e,[vinde],(AII*pie*pia@CONJ0134*pierd*pier@CONJ25*pierd*piard)
+pier,de,[vinde],(AII*pie*pia@CONJ25*pier*piar@ACP*pier*pierde)
 plac,,[merg],(PAP*plac*placut)
 plang,,[merg],(AIF*plang*plange)
 plat,i,[primi],(PAP*plat*platit)
 pleaca@IRREGULAR%[IPR]=[plec,pleci,pleaca,plecam,plecatsi,pleaca]%[PAP]=[plecat]%[PAPR]=[plecand]%[MMCP]=[plecasem,plecasesi,plecase,plecaseram,plecaseratsi,plecasera]%[INFINITIVE]=[pleca]
+plou,a,[suferi]
+plut,i,[aciti]
 pomen,,[aciti]
 porn,i,[aciti],(PAP*porn*pornit)
 port,,[cauta],(PAP*port*purtat)
@@ -264,6 +274,7 @@ praval,i,[aciti],(AII*praval*pravale)
 prefer,a,[incerca]
 pregat,i,[aciti]
 prelucr,,[fumez]
+prescri,e,[scrie]
 pricep,,[merg]
 prigon,,[aciti],(PAP*prigon*prigonit)
 prim,,[primi],(PAP*prim*primit)
@@ -274,7 +285,7 @@ produc,,[face]
 proiect,a,[fumez],(PAP*proiect*proiectat)
 promov,a,[fumez]
 propovadu,,[locuiesc]
-pun,e,[merg]
+pun,e,[merg],(PAP*pun*pus)
 rama,nea,[ramane],(PAP*rama*ramas)
 ran,i,[aciti],(PAP*ran*ranit)
 rasad,,[aciti],(PAP*rasad*rasadit)
@@ -324,7 +335,7 @@ solicit,,[cauta]
 spal,,[incerca]
 sparg,,[merg]
 speri,a,[manie]
-sprijin,i,[suferi],(AII*sprijin*sprijine)
+sprijin,i,[suferi],(AII*sprijin*sprijine@PAP*sprijin*sprijinit)
 spun,,[face],(IPR1*uni*ui*1@PAP*spun*spus)
 sta,,[stiu]
 stapan,,[aciti],(PAP*stapan*stapanit)

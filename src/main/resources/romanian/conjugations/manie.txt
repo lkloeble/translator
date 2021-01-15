@@ -3,3 +3,4 @@ AII=>am,ai,a,am,atsi,au
 INFIN=>ere
 PAPR=>ind|indu
 PAP=>[adj]
+MMCP=>em,esi,e,eram,eratsi,era

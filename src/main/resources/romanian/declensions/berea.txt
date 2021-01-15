@@ -5,4 +5,5 @@ noma%plr%fem%i
 nomb%plr%fem%ile
 nomc%plr%fem%si
 nomd%plr%fem%sile
-gen%plr%fem%ilor
+gena%plr%fem%ilor
+genb%plr%fem%silor
