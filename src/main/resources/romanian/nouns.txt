@@ -59,11 +59,13 @@ apetit@masc%ul
 apostol@masc%ul
 arab@adj%adj
 ardeleneasc@adj%adj
+ardoar@fem%berea
 argintiu@masc%inv
 argument@masc%ul
 armat@fem%fem
 articol@masc%ul
 ascet@masc%ul
+ascultar@fem%berea
 ascuns@adj%adj
 ascunzis@masc%ul
 asemanatoare@adj%inv
@@ -99,6 +101,7 @@ baz@fem%fem
 belsug@neut%inv
 ber@fem%berea
 berbec@masc%ul
+betsiv@adj%adj
 biblic@adj%adj
 bine@neut%inv
 biriunts@fem%fem
@@ -215,6 +218,7 @@ creatoare@adj%inv
 creator@masc%ul
 creatsi@fem%ratsiune
 creatur@fem%fem
+credincios@adj%adj
 credinciosul@neut%parinte
 credints@fem%fem
 crestin@adj%adj
@@ -240,9 +244,11 @@ cuvint@masc%capul
 dadac@fem%fem
 dan@neut%inv
 dar@masc%ul
+daramar@fem%berea
 dat@fem%fem
 datat@adj%adjor
 delegat@masc%ul
+denaturat@adj%adjts
 deosebire@fem%ereditate
 deosebit@adj%adj
 dependents@fem%fem
@@ -276,6 +282,7 @@ dintai@neut%inv
 dintii@neut%inv
 direct@adj%adjts
 directi@fem%fem
+disciplin@fem%fem
 dispozitsi@fem%fem
 dispus@adj%adj
 divin@adj%adj
@@ -294,6 +301,7 @@ dovad@fem%fem[nomplr(a):dovezi]
 dovedit@adj%adj
 drace@neut%inv
 drag@adj%adj
+dragost@fem%berea
 dreapta@neut%inv
 drept@adj%adjts
 drept@masc%ul
@@ -403,6 +411,7 @@ glum@fem%fem
 goal@adj%adj
 gol@adj%adj
 grabit@adj%adj
+grandoar@fem%berea
 gre@adj%greu
 grec@adj%adj
 greseal@fem%fem
@@ -411,11 +420,12 @@ grij@fem%femi
 gr@adj%adjos
 groaz@fem%fem
 gur@fem%tigara
-har@masc%inv
+har@masc%ul
 harnic@adj%adj
 hotar@fem%fem
 hots@masc%ul
 hristos@masc%inv
+hurui@fem%hurui
 iad@masc%ul
 iarba@fem%inv
 ide@fem%parinte
@@ -589,6 +599,7 @@ mare@neut%inv
 marele@neut%inv
 margin@fem%berea
 mari@neut%inv
+martor@masc%ul
 marturi@fem%ratsiune
 marturisitor@masc%ul
 maruntai@fem%fem
@@ -628,6 +639,7 @@ mladits@fem%fem
 moale@adj%adj[nomplr(a):moi]
 moart@fem%berea
 mod@masc%ul
+modest@fem%conceptie
 modest@adj%adj
 moise@masc%inv
 momeal@fem%fem
@@ -689,6 +701,7 @@ nesfarsit@adj%adjts
 nesocotit@adj%adjts
 nestiints@fem%fem
 nesuferit@adj%adjts
+netrebnic@adj%adj
 netrecat@adj%adjor
 nevast@fem%fem
 nici@neut%inv
@@ -741,10 +754,12 @@ orizont@masc%locul
 ortodox@fem%fem
 orz@masc%ul
 osand@fem%fem
+osteneal@fem%fem
 pacat@masc%ul
 pacat@adj%pacatos
 pacatuire@masc%inv
 pacatuit@adj%adjts
+pac@fem%berea
 pachet@fem%fem
 pacient@masc%ul
 pacost@fem%berea
@@ -798,6 +813,7 @@ pierder@fem%berea
 pierdut@adj%adjts
 pierit@adj%adjor
 pierzan@fem%conceptie
+pierzar@fem%berea
 pild@fem%fem
 pip@fem%fem
 piperat@adj%adj
@@ -896,6 +912,7 @@ relatsi@fem%fem
 rele@adj%inv
 relief@masc%ul
 relig@fem%conceptie
+remedi@masc%ul
 repetitsi@fem%fem
 reportaj@fem%fem
 respinger@fem%berea
@@ -923,8 +940,9 @@ rost@neut%ul
 royce@neut%inv
 roz@adj%adj
 rud@fem%fem
-rugaciun@fem%caine
+rugaciun@fem%berea
 ruin@fem%fem
+rusin@fem%berea
 salbatic@adj%adj
 salbaticit@adj%adj
 salbaticiun@fem%berea
@@ -937,7 +955,9 @@ saptamin@fem%fem
 sapte@neut%inv
 sarac@adj%adj
 sarbatoar@fem%berea
+sarutar@fem%berea
 sat@masc%ul
+satana@masc%inv
 satisfacat@adj%adjor
 scandal@masc%ul
 scandalos@adj%adj
@@ -970,6 +990,7 @@ sezand@adj%adj
 sfad@fem%fem
 sfadir@fem%fem
 sfant@adj%adj
+sfantului@adj%inv
 sfarsit@masc%ul
 sfat@masc%locul
 sfert@neut%inv
@@ -994,9 +1015,10 @@ sinucider@fem%berea
 slab@adj%adj
 slabiciun@fem%berea
 slujir@fem%berea
+sminteal@fem%fem
 soart@fem%fem[nomplr:sortsi]
 societat@fem%femts
-socot@fem%socoteala
+socot@fem%hurui
 sofer@masc%ul
 soi@neut%inv
 somn@masc%ul
@@ -1020,6 +1042,7 @@ stiints@fem%fem
 stra@fem%adjverde
 straj@fem%fem
 stradiani@fem%fem
+strafund@masc%locul
 stramutar@fem%berea
 strugur@masc%ul
 subiect@masc%ul
@@ -1047,6 +1070,7 @@ talaz@masc%locul
 talentat@adj%adjts
 tanar@masc%ul
 tanar@adj%adj[nomplr(mascplri):tineri]
+tar@adj%adj
 tare@neut%inv
 tarziu@neut%inv
 tata@masc%inv
@@ -1082,6 +1106,7 @@ trept@fem%fem
 trebuint@fem%femts
 trecatoar@adj%adj
 trei@neut%inv
+treia@neut%inv
 treisprezece@neut%inv
 treizeci@neut%inv
 tren@masc%ul
@@ -1182,10 +1207,12 @@ vrajmas@masc%ul
 vrem@fem%berea
 vremelnic@adj%adj
 will@neut%inv
+zadarnic@adj%adj
 zahar@neut%inv
 zambet@neut%ul
 zbuciumat@adj%adj
 zece@neut%inv
 zi@fem%cafea
 ziar@masc%ul
+zidir@fem%berea
 zori@masc%inv

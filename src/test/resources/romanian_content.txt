@@ -959,20 +959,20 @@ bocaseumpluA903=>şi de sfădirile pentru lege, fereşte-te, căci sunt nefolosi
 bocaseumpluA904=>10.	De omul eretic, după întâia şi a doua mustrare, depărtează-te,
 bocaseumpluA905=>11.	Ştiind că unul ca acesta s-a abătut şi a căzut în păcat, fiind singur de sine osândit. (Tit 3:9-11)
 bocaseumpluA906=>... dar@P curiozitatea minților trufașe nu poate suferi această modestie.
-bocaseumpluA907=>« Valurile se ridică până la cer și se pogoară până in străfunduri » - zice Scriptura (Ps 106:25-26)
-bocaseumpluA908=>« ... Ei sunt tulburați ca bețivii. În capul lor e huruială. Acolo toată înțelepciunea lor se împrăștie și pierzând drumul,
-bocaseumpluA909=>rătăcesc și se înfundă în erezii. Arie, Nestorie..., curiozitatea voastră v-a pierdut » (Bossuet Pg 210)
-bocaseumpluA110=>Singurul remediu sigur : ascultarea de Biserică.
-bocaseumpluA111=>« Trufia ereticului se răscoală :
-bocaseumpluA112=>- Ce ? Voi crede eu credința altuia ? Eu vreau să văd, să înțeleg eu. ... Copii denaturați... » (Bossuet pg 211)
+bocaseumpluA907=>"Valurile se ridică până la cer și se pogoară până in străfunduri" - zice Scriptura (Ps 106:25-26)
+bocaseumpluA908=>"... Ei sunt tulburați ca bețivii. În capul lor e huruială. Acolo toată înțelepciunea lor se împrăștie și pierzând drumul,
+bocaseumpluA909=>rătăcesc și se înfundă în erezii. Arie, Nestorie..., curiozitatea voastră v-a pierdut" (Bossuet Pg 210)
+bocaseumpluA110=>Singurul remediu sigur : ascultarea de Biserică.
+bocaseumpluA111=>"Trufia ereticului se răscoală :
+bocaseumpluA112=>Ce ? Voi crede eu credința altuia ? Eu vreau să văd, să înțeleg eu. ... Copii denaturați..." (Bossuet pg 211)
 bocaseumpluA113=>III Prosperitatea
-bocaseumpluA114=>« Nu vă pot ascunde rușinea sa (a Bisericii) : despre purtările stricate ale unora din sânul său.
+bocaseumpluA114=>" Nu vă pot ascunde rușinea sa (a Bisericii) : despre purtările stricate ale unora din sânul său.
 bocaseumpluA115=>Prosperitatea a atras pierzarea. Grandoarea a venit, disciplina a slăbit.
-bocaseumpluA116=>În vreme ce numărul credincioșilor creștea, ardoarea credinței scădea... »
+bocaseumpluA116=>În vreme ce numărul credincioșilor creștea, ardoarea credinței scădea..."
 bocaseumpluA117=>" Biserica nu-i făcută decât pentru sfinți – drept e că din toate părțile sunt chemați copiii lui Dumnezeu,
 bocaseumpluA118=>toți cei ce sunt în număr, să intre, - dar@P mulți intră peste număr.
 bocaseumpluA119=>... Dragostea s-a răcit, scandalul (sminteala) s-a ridicat până în casa lui Dumnezeu.
-bocaseumpluA120=>Iar satana va zice : « Aceasta e Biserica ? Aceștia sunt urmașii Apostolilor ? (II Cor 13 ; I Cor 13) » (Bossuet Pg 214)
+bocaseumpluA120=>Iar satana va zice : " Aceasta e Biserica ? Aceștia sunt urmașii Apostolilor ? (II Cor 13 ; I Cor 13)" (Bossuet Pg 214)
 bocaseumpluA121=>1.	A treia oară vin la voi. În gura a doi sau trei martori va sta tot cuvântul.
 bocaseumpluA122=>2.	Am spus dinainte şi spun iarăşi dinainte, ca atunci când am fost de faţă a doua oară, şi acum, nefiind de faţă,
 bocaseumpluA123=>scriu celor ce au păcătuit înainte şi tuturor celorlalţi că, de voi veni iarăşi, nu voi cruţa,
@@ -989,10 +989,12 @@ bocaseumpluA133=>9.	Căci ne bucurăm când noi suntem slabi, iar voi sunteţi t
 bocaseumpluA134=>Aceasta şi cerem în rugăciunea noastră: desăvârşirea voastră.
 bocaseumpluA135=>10.	Pentru aceea vă scriu acestea, nefiind de faţă, ca atunci, când voi fi de faţă, să nu cutez cu asprime,
 bocaseumpluA136=>după puterea pe care mi-a dat-o Domnul spre zidire, iar nu spre dărâmare.
-bocaseumpluA137=>11.	Deci, fraţilor, bucuraţi-vă! Desăvârşiţi-vă, mângâiaţi-vă, fiţi uniţi în cuget, trăiţi în pace şi Dumnezeul dragostei şi al păcii va fi cu voi.
-bocaseumpluA138=>12.	Îmbrăţişaţi-vă unii pe alţii cu sărutare sfântă. Sfinţii toţi vă îmbrăţişează.
-bocaseumpluA139=>13.	Harul Domnului nostru Iisus Hristos şi dragostea lui Dumnezeu şi împărtăşirea Sfântului Duh să fie cu voi cu toţi! (II Cor 13)
-bocaseumpluA140=>...Propășiți pururea în lucrul Domnului, știind că osteneala voastră nu e zadarnică înaintea Lui.
+bocaseumpluA137=>11.	Deci, fraţilor, bucuraţi-vă ! Desăvârşiţi-vă, mângâiaţi-vă, fiţi uniţi în cuget,
+bocaseumpluA138=>trăiţi în pace şi Dumnezeul dragostei şi al păcii va fi cu voi.
+bocaseumpluA139=>12.	Îmbrăţişaţi-vă unii pe alţii cu sărutare sfântă. Sfinţii toţi vă îmbrăţişează.
+bocaseumpluA140=>13.	Harul Domnului nostru Iisus Hristos şi dragostea lui Dumnezeu
+bocaseumpluA141=>şi împărtăşirea Sfântului Duh să fie cu voi cu toţi! (II Cor 13)
+bocaseumpluA142=>...Propășiți pururea în lucrul Domnului, știind că osteneala voastră nu e zadarnică înaintea Lui.
 
 patericulegyptantonie1A=>Sfântul avva Antonie, șezând odată în deșert, a fost cuprins de acedie și de o mare întunecare de gânduri.
 patericulegyptantonie1B=>și zicea către Dumnezeu :
@@ -1071,7 +1073,7 @@ stanibotez22=>Vom viețui împreună cu Hristos, pe Care moartea nu-L mai stăp�
 
 url2=>https://ro.orthodoxwiki.org/Patericul_egiptean#Pentru_avva_Antonie
 
-toto=>tot așa, știind că neînfrânarea minților se va întinde până la infinit, i-a hotărnicit limite peste care i-a poruncit să nu se întindă (Tit 3:9)
+toto=>Desăvârşiţi-vă
 ă
 ș
 ț

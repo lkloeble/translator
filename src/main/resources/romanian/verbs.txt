@@ -1,3 +1,4 @@
+abat,e,[merg],(PAP*abat*abatut)
 acoper,,[suferi],(PAP*acoper*acoperit)
 acord,,[incerca]
 actualiz,,[fumez]
@@ -26,6 +27,7 @@ arat,,[incerca],(AII*arat*aratar@PAP*arat*aratat)
 arunc,,[incerca],(PAP*arunc*aruncat)
 as,eza,[aprecia],(PAP*asat*asezat)
 ascult,,[cauta]
+ascun,de,[vinde]
 aseman,a,[incerca],(PAP*aseman*asemanat)
 aspir,a,[incerca]
 astept,a,[cauta],(AIMP*astepta*asteapta*1)
@@ -41,7 +43,8 @@ be,,[bea]
 birui,,[mantui]
 bolt,,[primi]
 brazd,a,[fumez],(PAP*brazd*brazdat)
-cad,,[merg],(AII*cad*cade)
+bucur,a,[incerca]
+cad,,[merg],(AII*cad*cade@PAP*cad*cazut)
 calator,i,[locuiesc]
 cant,,[cauta]
 castig,,[incerca]
@@ -74,7 +77,8 @@ conving,,[merg],(PAP*conving*convins)
 corespun,,[vinde]
 cost,,[cauta]
 cre,de,[crede]
-cres,c,[cresc]
+cres,te,[cresc]
+cruts,a,[incerca]
 cufun,da,[succeda]
 cuget,,[incerca],(PAP*cuget*cugetat)
 culeg,,[face]
@@ -83,6 +87,7 @@ cumpan,i,[aciti]
 cumpar,a,[cauta]
 cun,,[cunosc]
 cuprin,de,[crede]
+cut,a,[fumez]
 cuv,ine,[cuvine]
 da,,[da],(PAP*da*dat@ASP*da*d)
 dainu,i,[bantui]
@@ -94,6 +99,7 @@ depart,,[fumez],(PAP*depart*departat@MMCP*depart*departas)
 depas,,[aciti]
 deprind,e,[vinde]
 deranj,,[fumez]
+desavars,i,[aciti]
 deschi,,[vinde]
 descop,,[descopar]
 desfasoar,,[incerca]
@@ -132,6 +138,7 @@ gas,,[locuiesc]
 gind,,[mantui]
 gol,i,[aciti]
 gon,i,[aciti],(PAP*gon*gonit)
+gra,i,[locuiesc]
 hotar,i,[hotarasc]
 hotarnic,i,[aciti],(PAP*hotarnic*hotarnicit)
 hran,,[hrani]
@@ -141,6 +148,7 @@ imbatran,i,[aciti]
 imbi,,[manie]
 imbogats,,[aciti],(ASP25*imbogats*imbogatse)
 imbrac,a,[incerca],(PAP*imbrac*imbracat)
+imbratsis,a,[fumez]
 impart,si,[impart]
 impartasi,,[impart]
 impiedic,a,[incerca]
@@ -173,6 +181,7 @@ inec,a,[incerca]
 infrang,e,[merg],(PAP*infrang*infrant)
 infricos,a,[fumez],(PAP*infricos*infricosat)
 infrunt,,[cauta]
+infun,da,[succeda],()
 infuri,a,[manie],(PAP*infuri*infuriat)
 ingadui,,[trebui]
 inghits,i,[aciti],(PAP*inghits*inghitsit)
@@ -222,6 +231,7 @@ lua@IRREGULAR%[IPR]=[iau,iei,ia,luam,luatsi,iau]%[PAP]=[luat]%[PAPR]=[luand|luin
 lucr,,[fumez],(PAP*lucr*lucrat)
 lumin,,[fumez],(MMCP*lumin*luminas)
 lupt,,[cauta]
+mangai,a,[incheia]
 mani,e,[manie]
 manifest,,[fumez]
 maninc@IRREGULAR%[IPR]=[maninc,maninci,maninca,mancam,mancati,mananca]%[CONJ]=[mananc,mananci,manance,mancam,mancatsi,manance]%[PAP]=[mancat]%[MMCP]=[mancasem,mancasesi,mancase,mancaseram,mancaseratsi,mancasera]%[INFINITIVE]=[maninca]
@@ -237,6 +247,7 @@ munc,,[aciti]
 mus,,[musca]
 mustr,a,[cauta],(PAP*mustr*mustrat)
 mut,,[cauta],(PAP*mut*mutat)
+nadajdui,,[aciti]
 nast,e,[merg]
 naval,i,[aciti],(AII*naval*navale)
 num,i,[primi],(AII*num*nume)
@@ -244,6 +255,7 @@ obos,,[locuiesc]
 omor,i,[merg],(PAP*omor*omorat)
 opr,i,[hrani]
 organiz,,[fumez],(PAP*organiz*organizat)
+osand,i,[aciti],(PAP*osand*osandit@AII*osand*osande)
 par,e,[face],(PAP*par*parut)
 paras,i,[mantui],(AIF*par*vapar@MMCP*paras*parasis)
 pas,,[cresc],(PAP*pas*pascut)
@@ -263,11 +275,12 @@ plat,i,[primi],(PAP*plat*platit)
 pleaca@IRREGULAR%[IPR]=[plec,pleci,pleaca,plecam,plecatsi,pleaca]%[PAP]=[plecat]%[PAPR]=[plecand]%[MMCP]=[plecasem,plecasesi,plecase,plecaseram,plecaseratsi,plecasera]%[INFINITIVE]=[pleca]
 plou,a,[suferi]
 plut,i,[aciti]
+pogo,ri,[cobor]
 pomen,,[aciti]
 porn,i,[aciti],(PAP*porn*pornit)
 port,,[cauta],(PAP*port*purtat)
 porunc,,[aciti],(PAP*porunc*poruncit)
-pot@IRREGULAR%[INFINITIVE]=[putea]%[IPR]=[pot,potsi,poate|poata,putem,putetsi,pot]%[PAP]=[putut]%[ACP]=[asputea,aiputea,arputea,amputea,atsiputea,arputea]
+pot@IRREGULAR%[INFINITIVE]=[putea]%[IPR]=[pot,potsi,poate|poata,putem,putetsi,pot]%[PAP]=[putut]%[ACP]=[asputea,aiputea,arputea,amputea,atsiputea,arputea]%[AIF]=[potvoi,potvei,potva,potvom,potvetsi,potvor]
 potol,i,[primi],(PAP*potol*potolit)
 povest,,[locuiesc]
 praval,i,[aciti],(AII*praval*pravale)
@@ -284,13 +297,18 @@ prob,a,[fumez],(PAP*proba*probat)
 produc,,[face]
 proiect,a,[fumez],(PAP*proiect*proiectat)
 promov,a,[fumez]
+propas,i,[aciti]
 propovadu,,[locuiesc]
 pun,e,[merg],(PAP*pun*pus)
+rac,i,[aciti],(PAP*rac*racit)
 rama,nea,[ramane],(PAP*rama*ramas)
 ran,i,[aciti],(PAP*ran*ranit)
 rasad,,[aciti],(PAP*rasad*rasadit)
+rasc,oli,[rascol]
 rascul,a,[incerca],(PAP*rascul*rasculat)
 raspun,,[raspund]
+rastign,i,[aciti],(PAP*rastign*rastignit)
+ratac,i,[aciti]
 realiz,a,[fumez]
 recun,oaste,[cunosc]
 reduc,e,[merg]
@@ -314,6 +332,7 @@ satisfac,e,[merg]
 satur,a,[cauta],(PAP*satur*saturat)
 savars,i,[aciti]
 savirs,,[primi]
+sca,dea,[crede]
 scap,a,[cauta]
 scoat,,[scoate],(PAP*scoat*scos@IPR015*scoat*scot)
 scri,,[scrie]
@@ -327,6 +346,7 @@ sfars,,[primi]
 sil,i,[aciti],(PAP*sil*silit)
 simt,,[impart]
 sint@IRREGULAR%[IPR]=[sint,esti,este,sintem|suntem,sintetsi|suntetsi,sint|sunt]%[AII]=[eram,erai,era,eram,eratsi,erau]%[PAPR]=[fiind]%[ASP]=[fiu,fii,fie,fim,fitsi,fie]%[ACP]=[asfi,aifi,arfi,amfi,atsifi,arfi]%[PAP]=[fost]%[INFINITIVE]=[fi]
+slab,i,[aciti],(PAP*slab*slabit)
 sluj,,[locuiesc],(PAP*sluj*slujit)
 smint,i,[aciti],(MMCP*smint*smintis)
 smulg,,[merg]
@@ -366,7 +386,7 @@ ticalos,i,[aciti],(MMCP*ticalos*ticalosis)
 tin,de,[vinde]
 traduc,,[merg],(PAP*traduc*tradus)
 trag,e,[merg]
-trai,,[aciti],(PAP*trai*trait)
+trai,,[aciti],(PAP*trai*trait@IPR4*trai*tra)
 transmit,,[scoate],(ACP*transmit*artransmit)
 trebui,,[trebui],(ACP*trebui*artrebui@PAP*trebui*trebuit)
 trec,e,[merg],(PAP*trec*trecut@AII*trec*trece@CONJ25*trec*treac)
@@ -391,7 +411,7 @@ van,,[vinde],(IPR1234*van*vin@PSP1234*van*vin)
 vasl,i,[aciti]
 vatam,a,[cauta],(ACPINF*vatam*arvatama)
 vietsu,i,[locuiesc]
-vin@IRREGULAR%[IPR]=[vin,vii,vine,venim,venitsi,vin]%[AII]=[veneam,veneai,venea,veneam,veneatsi,veneau]%[PAPR]=[venind]%[PAP]=[venit]%[MMCP]=[venisem,venisesi,venise,veniseram,veniseratsi,venisera]%[AIMP]=[x,vino,x,x,venitsi,x][INFINITIVE]=[veni]
+vin@IRREGULAR%[IPR]=[vin,vii,vine,venim,venitsi,vin]%[AII]=[veneam,veneai,venea,veneam,veneatsi,veneau]%[PAPR]=[venind]%[PAP]=[venit]%[MMCP]=[venisem,venisesi,venise,veniseram,veniseratsi,venisera]%[AIMP]=[x,vino,x,x,venitsi,x]%[INFINITIVE]=[veni]%[AIF]=[venivoi,venivei,veniva,venivom,venivetsi,venivor]
 vindec,a,[incerca]
 voi,,[aciti],(PAP*voi*voit@MMCP*voi*voixxxx)
 vorb,i,[aciti],(PAP*vorb*vorbit)
@@ -399,5 +419,5 @@ vr,ea,[vrea],(AIF*vr*v)
 zar,,[aciti],(AII*zar*zare)
 zbor,,[incerca],(PAPR*zbor*zbur@AII*zbor*zbur)
 zbucium,a,[incerca]
-zic,,[merg],(AIP*zic*zis@AII*zic*zice@PAP*zic*zis)
+zic,,[merg],(AIP*zic*zis@AII*zic*zice@PAP*zic*zis@AIF*zic*zice)
 zid,i,[aciti],(PAP*zid*zidit)

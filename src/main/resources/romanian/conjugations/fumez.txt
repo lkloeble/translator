@@ -4,3 +4,4 @@ PAPR=>and|andu
 AIP=>ai,asi,a,aram,atsi,ara
 CONJ=>ez,ezi,eze,am,atsi,eze
 MMCP=>em,esi,e,eram,eratsi,era
+AIF=>ezvoi,ezivei,eazava,amvom,atsivetsi,eazavor

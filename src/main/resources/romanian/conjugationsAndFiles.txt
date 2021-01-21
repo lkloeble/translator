@@ -44,3 +44,4 @@ invalui%invalui.txt
 cobor%cobor.txt
 indoi%indoi.txt
 bantui%bantui.txt
+rascol%rascol.txt

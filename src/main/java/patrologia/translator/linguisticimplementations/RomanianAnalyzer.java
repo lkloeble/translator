@@ -60,12 +60,14 @@ public class RomanianAnalyzer implements Analyzer {
         replace = replace.replace("ndu-l","ndu lexpr");
         replace = replace.replace("s[a]_si","sasiexpr");
         replace = replace.replace("v_atsi","avetsi");
+        replace = replace.replace("v_a","vaexpr");
         replace = replace.replace(" atsi"," avetsi");
         replace = replace.replace("intr_adev[a]r","intradevar");
         replace = replace.replace("v[a] rog","varog");
         replace = replace.replace("c_a","cminusaexpress");
         replace = replace.replace(" _ "," underscoreexpr ");
         replace = replace.replace("va fi"," vafiexpr ");
+        replace = replace.replace("voi insiv[a]"," voiinsivaexpr ");
         return replace.replace("ce tsi","cetsiexpr");
     }
 

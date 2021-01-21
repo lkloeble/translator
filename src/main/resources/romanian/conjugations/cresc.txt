@@ -1,3 +1,4 @@
 IPR=>c,ti,te,tem,etsi,c
 PAPR=>cand|cind|cindu
 PAP=>[adj]
+AII=>team,teai,tea,team,teatsi,teau
