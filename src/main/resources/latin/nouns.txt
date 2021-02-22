@@ -106,6 +106,7 @@ asi@fem%a-ae
 aspectabil@adj%is-is-e
 assertor@masc%x-is2
 assyri@masc%us-i
+astaroth@fem%a-ae
 atlantic@adj%us-a-um
 atrament@neut%um-i
 atri@neut%um-i
@@ -128,7 +129,9 @@ baptist@masc%a-ae
 baptizat@adj%us-a-um
 barnabe@masc%inv
 bas@fem%is-is
+basanit@neut%es-idis
 basilid@fem%a-ae
+batanae@fem%a-ae
 bdelli@neut%um-i
 beat@adj%us-a-um
 belg@fem%a-ae
@@ -162,6 +165,7 @@ cap@neut%ut-itis
 capen@fem%a-ae
 capharnaum@neut%inv
 capitul@neut%um-i
+capt@adj%us-a-um
 capu@fem%a-ae
 car@adj%us-a-um
 car@fem%o-nis
@@ -195,6 +199,7 @@ chor@masc%us-i
 christ@masc%us-i2
 christian@adj%us-a-um
 chios@neut%inv
+chronologi@fem%a-ae
 cib@masc%us-i
 cibari@adj%us-a-um
 circumcisi@fem%o-onis
@@ -240,6 +245,7 @@ constan@adj%s-s-s
 constitut@neut%um-i
 consuetud@fem%o-inis
 consul@masc%x-is2
+consurgen@adj%s-s-s
 contract@adj%us-a-um
 contrit@adj%us-a-um
 controversi@fem%a-ae
@@ -287,6 +293,7 @@ david@masc%inv
 de@masc%us-i[nomplr:dii]
 debacchat@adj%us-a-um
 debit@neut%um-i
+decapolitan@fem%a-ae
 decem@neut%inv
 decept@adj%us-a-um
 decim@adj%us-a-um
@@ -323,6 +330,7 @@ dign@adj%us-a-um
 diligen@adj%s-tis
 dimiss@adj%us-a-um
 dionysi@masc%us-i
+dirut@adj%us-a-um
 disciplin@fem%a-ae
 discipul@masc%us-i
 disputand@adj%us-a-um
@@ -333,6 +341,7 @@ ditissim@adj%us-a-um
 divin@adj%us-a-um
 divinit@fem%as-atis
 divis@adj%us-a-um
+diviti@fem%a-ae
 doctissim@adj%us-a-um
 doctor@masc%x-is
 doctrin@fem%a-ae
@@ -340,6 +349,7 @@ document@neut%um-i
 dogma@neut%x-tis
 dolore@masc%inv[nomplr:dolori]
 doloros@adj%us-a-um
+domicili@neut%um-i
 domin@masc%us-a-um
 dom@masc%us-i
 don@neut%um-i
@@ -356,6 +366,8 @@ duo@adj%inv
 duodecim@adj%inv
 duos@adj%inv
 ebion@masc%us-i
+ebion@masc%inv
+ebionit@adj%us-a-um
 edit@adj%us-a-um
 ecclesi@fem%a-ae
 editi@fem%o-onis
@@ -390,6 +402,7 @@ evangelist@fem%a-ae
 exempl@neut%um-i
 excels@adj%us-a-um
 except@adj%us-a-um
+excidi@neut%um-i
 excitand@adj%us-a-um
 excus@adj%us-a-um
 exercit@adj%us-a-um
@@ -397,6 +410,7 @@ exercit@masc%us-us
 existen@adj%s-tis
 existenti@fem%a-ae
 exitios@adj%us-a-um
+exordi@neut%um-i
 exort@adj%us-a-um
 explicand@adj%us-a-um
 explicati@fem%o-onis
@@ -415,9 +429,11 @@ fabul@fem%a-ae
 faci@fem%es-ei
 facien@neut%s-tis
 fact@adj%us-a-um
+facti@fem%o-onis
 faciund@adj%us-a-um
 facult@fem%as-atis
 fals@adj%us-a-um
+fam@fem%a-ae
 famili@fem%a-ae
 familiarita@fem%s-tis2
 famul@masc%us-i
@@ -512,6 +528,7 @@ hermas@neut%inv
 hermae@neut%inv
 hieronymus@masc%inv
 hierosolym@fem%a-orum
+hierosolymitan@adj%us-a-um
 hispani@fem%a-ae
 histori@fem%a-ae
 hodie@neut%inv
@@ -564,6 +581,7 @@ incredibil@adj%is-is-e
 indici@neut%um-i
 indifferen@adj%s-s-s
 indign@adj%us-a-um
+indit@adj%us-a-um
 induct@adj%us-a-um
 indut@adj%us-a-um
 inept@adj%us-a-um
@@ -711,6 +729,7 @@ marc@masc%us-i
 mar@neut%e-is
 marcion@masc%is-is2
 mari@fem%a-ae
+mario@masc%inv
 martyr@masc%x-ys
 martyri@masc%um-i
 mascul@adj%us-a-um
@@ -726,6 +745,7 @@ memori@fem%a-ae
 men@fem%s-tis2
 menand@masc%er-ri
 menandrian@adj%us-a-um
+mendic@adj%us-a-um
 mens@fem%a-ae
 mens@adj%us-a-um
 mentio@fem%x-nis
@@ -864,6 +884,7 @@ pa@fem%x-cis
 pacat@adj%us-a-um
 pad@masc%us-i
 pagan@adj%us-a-um
+pag@masc%us-i
 palm@fem%a-ae
 pap@fem%a-ae
 par@adj%is-is-e[nomsing:par]
@@ -886,8 +907,10 @@ patientissim@adj%us-a-um
 pauc@adj%us-a-um
 paucissim@adj%us-a-um
 paul@masc%us-i
+paupert@masc%as-atis
 peccat@neut%um-i
 pecuni@fem%a-ae
+pell@fem%a-ae
 pene@neut%inv
 penit@adj%us-a-um
 perculs@adj%us-a-um
@@ -908,12 +931,14 @@ persuas@adj%us-a-um
 persuasur@adj%us-a-um
 pervers@adj%us-a-um
 pe@masc%s-dis
+peraea@fem%inv
 pessim@adj%us-a-um
 pest@fem%is-is
 petr@masc%us-i
 philastri@masc%us-i
 philipp@masc%us-i
 philosophic@adj%us-a-um
+philosoph@masc%us-i
 phoeni@fem%x-cis
 pi@adj%us-a-um
 piet@fem%as-atis
@@ -1136,12 +1161,14 @@ speci@fem%es-ei
 spiracul@neut%um-i
 spirit@masc%us-i
 spirital@adj%is-is-e
+spret@adj%us-a-um
 spuri@adj%us-a-um
 statu@fem%a-ae
 statut@adj%us-a-um
 stell@fem%a-ae
 stephan@masc%us-i
 stil@masc%us-i
+stoic@masc%us-i
 stupend@adj%us-a-um
 styl@masc%us-i
 studi@neut%um-i
@@ -1204,6 +1231,7 @@ totius@adj%inv
 tr@adj%es-es-ia
 tractand@adj%us-a-um
 tractat@masc%us-us
+tract@adj%us-us
 tradit@adj%us-a-um
 traditio@fem%x-nis
 transact@adj%us-a-um
@@ -1277,6 +1305,7 @@ viven@adj%s-s-s
 vocabul@neut%um-i
 vocat@adj%us-a-um
 volatil@adj%is-is-e
+voluntari@adj%us-a-um
 voluc@adj%er-ris-re
 volum@neut%en-inis
 volunta@fem%s-tis2

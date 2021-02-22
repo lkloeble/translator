@@ -11,3 +11,4 @@ or-ris%verere.txt
 or-eris%assequ.txt
 or-aris%adfor.txt
 ior-eris%patior.txt
+i-isti%coepisse.txt

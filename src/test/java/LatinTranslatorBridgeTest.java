@@ -67,7 +67,7 @@ public class LatinTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "excell,o,is,ere,,,[o-is],(INACPAS*excellpsiss*excelluiss*)"
+                "scrib,o,is,ere,,,[o-is],(AIP*scrib*scrips@IAP*scrib*scrips)"
         });
         */
         return getFileContentForRepository(verbFileDescription);
@@ -122,8 +122,8 @@ public class LatinTranslatorBridgeTest extends TranslatorBridgeTest {
 
     @Test
     public void test_failing_one() {
+        checkInMaps("patrologiacaput6A020", translatorBridge);
         checkInMaps("toto", translatorBridge);
-        checkInMaps("collins6K", translatorBridge);
     }
 
 
