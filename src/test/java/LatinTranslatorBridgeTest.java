@@ -58,9 +58,10 @@ public class LatinTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getFrenchDictionary(String latinFrenchDataFile) {
         /*
         return Arrays.asList(new String[]{
-                "do@verb!norm%1(verb)=octroyer, conceder%2(verb)=faire une concession%3(verb)=placer, mettre%4(verb)=apporter, causer%5(verb)=accorder, concéder%6(verb)=exposer, dire%7(verb)=donner"
+                "vir@noun!is-is%1(noun)=forces",
+                "vir@noun!x(us)-i%1(noun)=homme (oppose a femme)%2(noun)=homme, mari, epoux%3(noun)=soldat%4(noun)=personnage, individu%5(noun)=homme"
         });
-        */
+         */
         return getFileContentForRepository(latinFrenchDataFile);
     }
 
@@ -114,16 +115,17 @@ public class LatinTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getNouns(String nounFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "sement@neut%is-is"
+                "vir@fem%is-is",
+                "vir@masc%x(us)-i"
         });
-        */
+         */
         return getFileContentForRepository(nounFileDescription);
     }
 
     @Test
     public void test_failing_one() {
-        checkInMaps("patrologiacaput6A020", translatorBridge);
         checkInMaps("toto", translatorBridge);
+        //checkInMaps("patrologiacaput6A020", translatorBridge);
     }
 
 

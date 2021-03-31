@@ -165,7 +165,7 @@ erwachs,en,[genesen],(AII*erwachs*erwuchs)
 erwahn,en,[leben]
 erwart,en,[segnen],(PAP*erwart*erwartet)
 erwerb,en,[rufen],(AIP*erwe*erwa)
-erwider,n,[leben]
+erwider,n,[leben],(AIP*erwider*erwiderxxx)
 erzeig,en,[leben]
 erzeug,en,[leben]
 ess,en,[leben],(IPR1*ess*is)
@@ -286,7 +286,7 @@ muss,en,[leben]
 nachlauf,en,[rufen],(AIP*lauf*lief)
 nachsinn,en,[rufen],(AIP*nachsin*nachsan)
 nah,en,[rufen]
-nehm,en,[rufen],(IPR12*nehm*nimm@AIP*nehm*nahm@PAP*nehm*genommen@ASP*nehm*nahm)
+nehm,en,[rufen],(IPR12*nehm*nimm@AIP*nehm*nahm@PAP*nehm*genommen@ASP*nehm*nahm@ASI*nehm*nehmxxx)
 nenn,en,[leben],(AII*nenn*nann@PAP*nenn*gennant)
 niederschreib,en,[rufen]
 offenbar,en,[leben]
