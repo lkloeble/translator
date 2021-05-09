@@ -127,9 +127,9 @@ bwqr@noun!im%1(noun)=matin
 biat@noun!invpur%1(noun)=venue
 b60q62r@noun!im%1(noun)=matin
 bra@verb!norm%1(noun)=creer
-brk@verb!norm%1(noun)=benir
-brk$@verb!norm%1(noun)=benir
-b30556r60it@noun!mascot%1(noun)=alliance
+brk@verb!norm%1(verb)=benir
+brk$@verb!norm%1(verb)=benir
+b30556r60it@noun!ot2%1(noun)=alliance
 brii'@noun!invpur%1(noun)=beraitha
 b56r64k64@noun!ot%1(noun)=bénédiction
 brkwt@noun!invpur%1(noun)=berakot (traité)
@@ -511,7 +511,7 @@ ywl@noun!invpur%1(noun)=fardeau%2(noun)=injustice%3(noun)=joug
 ywlm@noun!im%1(noun)=globe%2(noun)=terre%2(noun)=monde
 ywp@noun!mascot%1(noun)=oiseau
 yzrih@noun!invpur%1(noun)=azarya
-ykb@noun!ot%1(noun)=retard
+ykb@noun!ot2%1(noun)=retard
 yl@prep%1(prep)=en faveur de%2(prep)=au dessus de%3(noun)=sur
 yli@prep%1(prep)=en faveur de%2(prep)=au dessus de%3(noun)=sur
 y63l@prep%1(prep)=en faveur de%2(prep)=au dessus de%3(noun)=sur
@@ -662,6 +662,8 @@ xma@verb!norm%1(verb)=profaner
 xxdexx@prep%1(prep)=de
 xxdirectionalhexx@prep%1(prep)=vers
 xxhexx@prep%1(prep)=à elle
+xxheandwavxx@prep%1(prep)=à elle
+xxtavandwavxx@prep%1(prep)=de lui
 xxixx@prep%1(prep)=de moi
 xxihxx@prep%1(prep)=à elle
 xxiwxx@prep%1(prep)=à lui

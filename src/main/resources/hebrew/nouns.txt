@@ -41,7 +41,7 @@ bwqr@masc%im
 biat@neut%invpur
 b60q62r@masc%im
 brii'@neut%invpur
-b30556r60it@fem%mascot
+b30556r60it@fem%ot2
 b56r64k64@fem%ot
 brkwt@neut%invpur
 b30564s29964r@masc%im
@@ -201,7 +201,7 @@ yzrih@masc%invpur
 yiin@masc%invpur
 y63in@masc%im
 y60ir@fem%custom(nomplr=yrim|cst(nomplr)=yri&|dir(nomsg)=yirh|nomsg=y60ir)
-ykb@fem%ot
+ykb@fem%ot2
 y64m000@masc%im
 ymwd@masc%im
 ynin@masc%im

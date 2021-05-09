@@ -1358,4 +1358,4 @@ spinozaethi1F=>foobar
 spinozaethi1G=>foobar
 spinozaethi1H=>foobar
 
-toto=>homme
+toto=>qui instruit, apprend

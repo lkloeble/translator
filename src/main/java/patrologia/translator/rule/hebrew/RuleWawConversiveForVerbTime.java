@@ -25,10 +25,12 @@ public class RuleWawConversiveForVerbTime extends Rule {
         futureTimes.add("CONVFUT");
         futureTimes.add("HIFFUT");
         futureTimes.add("BINHUFUT");
+        futureTimes.add("BINPUFUT");
         List<String> pastTimes = new ArrayList<>();
         pastTimes.add("AIP");
         pastTimes.add("HIFPER");
         pastTimes.add("BINHUPER");
+        pastTimes.add("BINPUPER");
         if(verbRepository.isOnlyInThisTime(followingVerb,futureTimes) != null) {
             followingVerb = verbRepository.affectTime(followingVerb, verbRepository.isOnlyInThisTime(followingVerb,futureTimes),  pastTimes);
         } else if(verbRepository.isOnlyInThisTime(followingVerb, pastTimes) != null) {

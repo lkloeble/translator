@@ -5,7 +5,6 @@ import patrologia.translator.basicelements.*;
 import patrologia.translator.basicelements.noun.NounRepository;
 import patrologia.translator.basicelements.preposition.PrepositionRepository;
 import patrologia.translator.basicelements.verb.VerbRepository2;
-import patrologia.translator.casenumbergenre.greek.GreekCaseFactory;
 import patrologia.translator.casenumbergenre.hebrew.HebrewCaseFactory;
 import patrologia.translator.conjugation.hebrew.HebrewConjugationFactory;
 import patrologia.translator.declension.Declension;
@@ -45,7 +44,7 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     @Before
     public void init() {
         HebrewRuleFactory ruleFactory = new HebrewRuleFactory();
-        PrepositionRepository prepositionRepository = new PrepositionRepository(Language.HEBREW, new HebrewCaseFactory(), ruleFactory, getFileContentForRepository(prepositionFileDescription));
+        PrepositionRepository prepositionRepository = new PrepositionRepository(Language.HEBREW, new HebrewCaseFactory(), ruleFactory, getPrepositions(prepositionFileDescription));
         HebrewDeclensionFactory hebrewDeclensionFactory = new HebrewDeclensionFactory(getDeclensions(), getDeclensionList());
         NounRepository nounRepository = new NounRepository(Language.HEBREW, hebrewDeclensionFactory, new Accentuer(), getNouns(nounFileDescription));
         VerbRepository2 verbRepository = new VerbRepository2(new HebrewConjugationFactory(getConjugations(), getHebrewConjugationsDefinitions(), hebrewDeclensionFactory), Language.HEBREW, new Accentuer(), getVerbs(verbFileDescription));
@@ -70,9 +69,11 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getNouns(String nounFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "y60ir@fem%custom(nomplr=yrim|cst(nomplr)=yri&|dir(nomsg)=yirh|nomsg=y60ir)"
+                "b30556r60it@fem%ot2",
+                "b62n000@masc%im-ot"
+                //"ykb@fem%ot2"
         });
-        */
+         */
         return getFileContentForRepository(nounFileDescription);
     }
 
@@ -89,7 +90,8 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getPrepositions(String prepositionFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "h@prep()"
+                "b56@prep()",
+                "b@prep()"
         });
         */
         return getFileContentForRepository(prepositionFileDescription);
@@ -98,7 +100,8 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFiles) {
         /*
         return Arrays.asList(new String[]{
-                "qra,qrwt,[paal],(AIP%leadingrootletter%q*q64@AIP%secondletterroot%r*r64@AIP%alternateaccentuation%q64*q6469@AIP%alternateaccentuation(5:9)%r64*r56@AIP%alternateaccentuation(5)%a*a64@ARAIPR%substitute%ra*wr*0@AIF%substitute(9)%qra*qr*0@IPR%substitute%qr*qwr*0%qwr*qr*0@ARAIPR%substitute(3)%wr*ri*0)"
+                "brk,,[binyan]",
+                "brk$,,[binyanpual],(BINPUFUT%substitute%rk$*rk*0@BINPUPER%substitute%rk$*rk*0)"
         });
         */
         return getFileContentForRepository(verbFiles);
@@ -237,8 +240,12 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getOtSansHElements() {
         return Arrays.asList(new String[]{
                 "nomsg%sing%fem%",
+                "decot-i%sing%fem%i",
                 "decot-w%sing%fem%w331",
                 "decim-nsof%sing%fem%n000",
+                "decot-tw%sing%fem%tw",
+                "decot-tk%sing%fem%t62k00064",
+                "decot-k%sing%fem%k00064",
                 "nomplr%plr%fem%wt"
         });
     }
@@ -406,9 +413,11 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
         /*
         return Arrays.asList(new String[]{
                 "IPRPLU=>im",
+                "ARAIPR=>x-,x-,,nw,x-,im000|in000",
                 "IPR=>|t,|t,|t,im|wt,im|wt,im|wt"
         });
-        */
+
+         */
         return Arrays.asList(new String[]{
                 "AIP=>ti,t|t,|h,nw,tm000|tn,w309",
                 "AIPSHORT=>x-,x-,zz,x-,x-,x-",
@@ -1090,9 +1099,9 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("wein35C1", translatorBridge);
-        checkInMaps("totoacc", translatorBridge);
-        //checkInMaps("toto", translatorBridge);
+        checkInMaps("sheilamoreiH", translatorBridge);
+        checkInMaps("toto", translatorBridge);
+        //checkInMaps("wein35C1", translatorBridge);
         //checkInMaps("bereshit1U", translatorBridge);
     }
 
