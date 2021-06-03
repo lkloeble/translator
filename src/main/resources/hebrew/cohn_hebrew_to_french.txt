@@ -7,6 +7,7 @@ agb@prep%1(prep)=d'ailleurs%2(prep)=à cause de
 a58d64m64h@noun!custom(nomsg=a58d64m64h|decim-nw=admtnw)%1(noun)=terre
 a64d64m000@noun!invmasc%1(noun)=homme
 awi@prep%1(prep)=oï
+awzn@noun!mascot%1(noun)=oreille
 aw331i@prep%1(prep)=oï
 awr@verb!norm%1(verb)=illuminer
 awth@prep%1(prep)=elle
@@ -30,6 +31,7 @@ ain000@prep%1(prep)=il n'y a pas
 ainw@prep%1(prep)=ce n'est pas
 a61in000@prep%1(prep)=il n'y a pas
 a60is@noun!custom(nomplr=ansim|cst(nomplr)=ansi&|dechsofit=aish|nomsg=a60is)%1(noun)=homme
+awtwtih@noun!invpur%1(noun)=énonciation des lettres
 ait@prep%1(prep)=il y a
 akl@verb!norm%1(verb)=manger
 akwl@verb!norm%1(verb)=manger2
@@ -155,6 +157,7 @@ dbr@verb!norm%1(verb)=parler
 dbri@noun!invmasc%1(noun)=paroles de
 dhai@noun!invpur%1(noun)=xxxdhaixxxpas traduitxxxx
 din@noun!invmasc%1(noun)=droit%2(noun)=justice
+diqdq@verb!norm%1(verb)=etremeticuleux
 dlt@noun!im%1(noun)=lettre d%2(noun)=porte
 dnn@verb!norm%1(verb)=discuter
 dyt@noun!invpur%1(noun)=opinion
@@ -239,6 +242,7 @@ ztslexpr@noun!invpur%1(noun)=de mémoire bénie
 'hwb@noun!ot%1(noun)=obligation
 'hwbt@noun!invpur%1(noun)=obligation
 'hzlexpr@noun!invpur%1(noun)='hazal (sages de bienheureuse mémoire)
+'hzr@verb!norm%1(verb)=retourner
 'hi@noun!im-ot%1(noun)=vivant
 'hidaexpr@noun!invpur%1(noun)='hida (rabbin azoulay)
 'hs29862k00056@noun!im-fem%1(noun)=arrêt,pause%2(noun)=sombre,obscur%3(noun)=obscurité
@@ -262,6 +266,7 @@ ihwh@noun!invmasc%1(noun)=le seigneur%1(noun)=YHVH
 ihwdh@noun!invpur%1(noun)=yehouda
 ihwswy@noun!invmasc%1(noun)=yehoshouah
 ikl@verb!norm%1(verb)=pouvoir
+iwsi@noun!invpur%1(noun)=yosé
 iwsp@noun!invpur%1(noun)=joseph
 ilqwx@noun!invpur%1(noun)=yalkout
 i61y58q65b@noun!invmasc%1(noun)=jacob
@@ -349,6 +354,7 @@ lmd$@verb!norm%1(verb)=enseigner
 lmh@prep%1(prep)=pourquoi
 lminhw@prep%1(prep)=selon son type
 lminhm@prep%1(prep)=selon leur types
+lmpry@prep%1(prep)=rétroactivement%2(prep)=incorrectement
 lmyn000@prep%1(prep)=afin que
 lpikk000@prep%1(prep)=par conséquent
 lpnikm000@prep%1(prep)=devant vous
@@ -659,6 +665,7 @@ xhr@verb!norm%1(verb)=etrepurifie
 xhr$@verb!norm%1(verb)=etrepurifie
 xwma@noun!endingh%1(noun)=impureté
 xma@verb!norm%1(verb)=profaner
+xyh@verb!norm%1(verb)=errer
 xxdexx@prep%1(prep)=de
 xxdirectionalhexx@prep%1(prep)=vers
 xxhexx@prep%1(prep)=à elle

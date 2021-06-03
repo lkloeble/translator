@@ -106,6 +106,7 @@ public class HebrewPhraseChanger extends CustomLanguageRulePhraseChanger {
         stopWordsWavSofit.addAll(prepositionRepository.getValuesEndingWith("w"));
         stopWordsNounWavSofit.addAll(nounRepository.getNounsRootValueForEndingWith("nw"));
         stopWordsNounWavSofit.add("minw");
+        stopWordsNounWavSofit.add("awznw");
         stopWordsNounWavSofit.addAll(prepositionRepository.getValuesEndingWith("nw"));
         stopWordsNounWavSofit.addAll(verbRepository.getValuesEndingWith("nw"));
         //stopWords = verbRepository.getAllFormsForRoot(stopWords,null);

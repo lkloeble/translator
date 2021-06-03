@@ -9,6 +9,8 @@ a63'h63t@masc%empty
 aikh@neut%invpur
 akilt@neut%invpur
 a60is@masc%custom(nomplr=ansim|cst(nomplr)=ansi&|dechsofit=aish|nomsg=a60is)
+awtwtih@masc%invpur
+awzn@masc%mascot
 aw331r@fem%invfem
 awr'h@masc%im-ot
 awrita@neut%invpur
@@ -110,6 +112,7 @@ ihwh@masc%invmasc
 ihwdh@masc%invpur
 ihwswy@masc%invmasc%
 iw331m000@masc%custom(nomplr=imim000|cst(nomplr)=imi|cst(nomsg)=iwm&|nomsg=iw331m000)
+iwsi@masc%invpur
 iwsp@masc%invpur
 ilqwx@neut%invpur
 i60r56a63t@neut%imonly

@@ -8,7 +8,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends HebrewTranslatorBridgeT
 
 
     @Test
-    public void test_mishnah_berakhot_chapter1() {
+    public void mishnah_berakhot_chapter1() {
         checkInMaps("mishnah1A", translatorBridge);
         checkInMaps("mishnah1B", translatorBridge);
         checkInMaps("mishnah1C", translatorBridge);
@@ -34,7 +34,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends HebrewTranslatorBridgeT
     }
 
     @Test
-    public void test_mishnah_berakhot_chapter2() {
+    public void mishnah_berakhot_chapter2() {
         checkInMaps("mishnaberakhot21A1", translatorBridge);
         checkInMaps("mishnaberakhot21A2", translatorBridge);
         checkInMaps("mishnaberakhot21A3", translatorBridge);
@@ -69,7 +69,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends HebrewTranslatorBridgeT
     }
 
         @Test
-    public void test_rachi_bereshit_chapter1() {
+    public void rachi_bereshit_chapter1() {
         checkInMaps("rachitext1A", translatorBridge);
         checkInMaps("rachitext1B", translatorBridge);
         checkInMaps("rachitext1C", translatorBridge);
@@ -85,7 +85,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends HebrewTranslatorBridgeT
     }
 
     @Test
-    public void test_shei_lamorei_rachi1() {
+    public void shei_lamorei_rachi1() {
         checkInMaps("sheilamoreiA", translatorBridge);
         checkInMaps("sheilamoreiB", translatorBridge);
         checkInMaps("sheilamoreiC", translatorBridge);

@@ -69,11 +69,10 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getNouns(String nounFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "b30556r60it@fem%ot2",
-                "b62n000@masc%im-ot"
+                "awzn@masc%mascot"
                 //"ykb@fem%ot2"
         });
-         */
+        */
         return getFileContentForRepository(nounFileDescription);
     }
 
@@ -100,10 +99,9 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFiles) {
         /*
         return Arrays.asList(new String[]{
-                "brk,,[binyan]",
-                "brk$,,[binyanpual],(BINPUFUT%substitute%rk$*rk*0@BINPUPER%substitute%rk$*rk*0)"
+                "smy,,[paal],(AIP%leadingrootletter%s*s29864@AIP%secondletterroot%m*m63@AIP%alternateaccentuation(5:9)%m63*m56@IPR%substitute%sm*swm*0@ARAIPR%substitute%smy*swmy*0@BINHIFPAST%substitute(3:4:8)%my*miy)"
         });
-        */
+         */
         return getFileContentForRepository(verbFiles);
     }
 
@@ -413,10 +411,8 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
         /*
         return Arrays.asList(new String[]{
                 "IPRPLU=>im",
-                "ARAIPR=>x-,x-,,nw,x-,im000|in000",
-                "IPR=>|t,|t,|t,im|wt,im|wt,im|wt"
+                "BINHIFPAST=>*h*ti,*h*t,*h*@|*h*i,*h*nw,*h*tm|*h*tn,*h*w"
         });
-
          */
         return Arrays.asList(new String[]{
                 "AIP=>ti,t|t,|h,nw,tm000|tn,w309",
@@ -426,6 +422,7 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "AIF=>*a*@,*t*@|*t*i,*i*@|*t*@,*n*@,*t*w|*t*nh,*i*w|*t*nh",
                 "CONVFUT=>x-,x-,*i*@,x-,x-,x-",
                 "NIFALAIP=>*n*ti,*n*t,*n*@|*n*h,*n*nw,*n*tm000|*n*tn,*n*w",
+                "BINHIFPAST=>*h*ti,*h*t,*h*@|*h*i,*h*nw,*h*tm|*h*tn,*h*w",
                 "IPR=>|t,|t,|t,im|wt,im|wt,im|wt",
                 "IPRPLU=>im",
                 "SUBST=>i"
@@ -1099,8 +1096,8 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_failedones() {
         assertTrue(true);
-        checkInMaps("sheilamoreiH", translatorBridge);
         checkInMaps("toto", translatorBridge);
+        //checkInMaps("sheilamoreiH", translatorBridge);
         //checkInMaps("wein35C1", translatorBridge);
         //checkInMaps("bereshit1U", translatorBridge);
     }
