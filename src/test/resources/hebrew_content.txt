@@ -746,6 +746,7 @@ hebbavli1ApagecommentA1=>רַבָן גַמְלִיאֵל חולק
 hebbavli1ApagecommentA2=>ואוֹמֵר : זמנה כל הלילה
 hebbavli1ApagecommentA3=>עַד שֶׁיַעֲלֶה עַמוּד הַשַׁחַר
 hebbavli1ApagecommentA4=>שכל הלילה קרוי זמן שכיבה
+hebbavli1ApagecommentA5=>gugu
 
 midrashrabaeng1A=>סֵדֶר בְּרֵאשִׁית
 midrashrabaeng1B=>פרשה א

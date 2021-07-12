@@ -4,6 +4,7 @@ acord,,[incerca]
 actualiz,,[fumez]
 acuz,a,[suferi],(PAP*acuz*acuzat)
 adanc,i,[aciti]
+adap,a,[incerca]
 adorm,i,[dorm]
 aduc,e,[face],(PAP*aduc*adus@AIF*aduc*aduce)
 adun,a,[incerca],(PAP*adun*adunat@AIF*adun*aduna)
@@ -139,6 +140,7 @@ gind,,[mantui]
 gol,i,[aciti]
 gon,i,[aciti],(PAP*gon*gonit)
 gra,i,[locuiesc]
+grij,i,[locuiesc]
 hotar,i,[hotarasc]
 hotarnic,i,[aciti],(PAP*hotarnic*hotarnicit)
 hran,,[hrani]
@@ -250,6 +252,7 @@ mut,,[cauta],(PAP*mut*mutat)
 nadajdui,,[aciti]
 nast,e,[merg]
 naval,i,[aciti],(AII*naval*navale)
+necun,,[cunosc]
 num,i,[primi],(AII*num*nume)
 obos,,[locuiesc]
 omor,i,[merg],(PAP*omor*omorat)
@@ -393,6 +396,7 @@ trec,e,[merg],(PAP*trec*trecut@AII*trec*trece@CONJ25*trec*treac)
 trez,i,[primi],(PAP*trez*trezit)
 trim,,[trimite]
 tsi,ne,[ramane],(PAP*tsi*tsinut@AIMP*tsi*tsina)
+tsintu,i,[locuiesc]
 tulbur,a,[incerca],(PAP*tulbur*tulburat)
 turt,i,[aciti],(PAP*turt*turtit)
 uim,i,[aciti],(PAP*uim*uimit)

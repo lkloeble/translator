@@ -90,7 +90,7 @@ anknupf@verb!norm%1(verb)=rattacher
 ankunft@noun!kunst%1(noun)=arrivée%2(noun)=avènement
 anlass@noun!jahrzehnt%1(noun)=occasion%2(noun)=motif%3(noun)=cause
 anlehnung@noun!meinmasc%1(noun)=dépendance%2(noun)=modèle
-anm@noun!inv%1(noun)=nb
+anm@noun!inv%1(noun)=note
 annahme@noun!flasche%1(noun)=acceptation
 anonym@adj!ausreichend%1(adj)=anonyme
 anruf@verb!norm%1(verb)=appeler

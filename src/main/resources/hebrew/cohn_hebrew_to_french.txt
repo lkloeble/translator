@@ -248,6 +248,7 @@ ztslexpr@noun!invpur%1(noun)=de mémoire bénie
 'hs29862k00056@noun!im-fem%1(noun)=arrêt,pause%2(noun)=sombre,obscur%3(noun)=obscurité
 'h63k63m000@adj!adj%1(noun)=sage
 'hlb@noun!im%1(noun)=lait%2(noun)=graisse
+'hlq@verb!norm%1(verb)=partager
 'h58lw331m000@noun!mascot%1(noun)=rêve
 'hmh@noun!invfem%1(noun)=soleil
 'htm@verb!norm%1(verb)=sceller%2(verb)=signer%3(verb)=finir

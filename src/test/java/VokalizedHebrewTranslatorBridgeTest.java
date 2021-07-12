@@ -199,6 +199,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends HebrewTranslatorBridgeT
         checkInMaps("hebbavli1ApagecommentA2", translatorBridge);
         checkInMaps("hebbavli1ApagecommentA3", translatorBridge);
         checkInMaps("hebbavli1ApagecommentA4", translatorBridge);
+        checkInMaps("hebbavli1ApagecommentA5", translatorBridge);
     }
 
 

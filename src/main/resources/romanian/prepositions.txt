@@ -97,6 +97,7 @@ ci@prep()
 cind@prep()
 cine@prep()
 cineva@prep()
+cit@prep()
 citava@prep()
 cu@prep()%[recomposeCuAtit]
 cuatit@prep()%[recomposeCuAtitMaiBine]

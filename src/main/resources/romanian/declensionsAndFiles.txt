@@ -37,3 +37,4 @@ greu%greu.txt
 neut%neut.txt
 hurui%huruiala.txt
 iesc%dumnezeiesc.txt
+dobitoc%dobitoc.txt

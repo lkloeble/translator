@@ -27,6 +27,7 @@ psd,hpsid,[hiphil],(HIFPER%substitute(4:5:9)%hpsd*hpsid)
 hr'hiq,hr'hiq,[paal]
 'hds,,[hitpael]
 'hzr,,[paal2],(AIF%substitute%zr*zwr)
+'hlq,,[paal],(IPR%substitute%'hl*'hwl)
 'htm,'htwm000,[paal]
 'hsk,'hswk,[paal],(BINHIFPAST%substitute%sk*sxxk)
 xbl,,[paal]

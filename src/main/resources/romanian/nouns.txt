@@ -89,6 +89,7 @@ autoconservare@neut%inv
 autoformare@neut%inv
 avel@masc%inv
 avraam@masc%inv
+avutsi@fem%fem
 avva@neut%inv
 bai@masc%baiat
 balta@neut%inv
@@ -287,6 +288,7 @@ dispozitsi@fem%fem
 dispus@adj%adj
 divin@adj%adj
 doamne@neut%inv
+dobit@neut%dobitoc
 doctor@masc%doctor
 doctrin@fem%fem
 dogm@fem%fem
@@ -415,6 +417,7 @@ grandoar@fem%berea
 gre@adj%greu
 grec@adj%adj
 greseal@fem%fem
+greutat@fem%bereats
 grigorie@masc%inv
 grij@fem%femi
 gr@adj%adjos
@@ -606,6 +609,7 @@ maruntai@fem%fem
 mas@fem%fem
 masin@fem%fem
 masur@fem%fem
+masurat@adj%adj
 material@adj%adj
 matus@fem%fem
 maxim@masc%inv
@@ -756,6 +760,7 @@ orz@masc%ul
 osand@fem%fem
 osteneal@fem%fem
 pacat@masc%ul
+pacate@neut%inv
 pacat@adj%pacatos
 pacatuire@masc%inv
 pacatuit@adj%adjts
@@ -770,6 +775,7 @@ palid@adj%adj
 palmier@masc%ul
 pamant@masc%ul
 pamant@adj%esc
+pamint@masc%locul
 papa@masc%inv
 papus@fem%tigara
 par@fem%capacitate
@@ -1015,6 +1021,7 @@ sinucider@fem%berea
 slab@adj%adj
 slabiciun@fem%berea
 slujir@fem%berea
+slujitor@masc%ul
 sminteal@fem%fem
 soart@fem%fem[nomplr:sortsi]
 societat@fem%femts
@@ -1200,6 +1207,7 @@ vizavi@masc%inv
 vizit@fem%fem
 voc@fem%berea
 voi@neut%inv
+voie@neut%inv
 voilor@neut%inv
 voints@fem%fem
 vrajb@fem%fem

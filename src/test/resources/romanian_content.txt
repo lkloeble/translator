@@ -614,12 +614,12 @@ filocalia1antonie1A=>Oamenii se socotesc raționali.
 filocalia1antonie1B=>Însă pe nedrept, căci nu sînt raționali.
 filocalia1antonie1C=>Unii au învățat cuvintele și cărțile vechilor înțelepți.
 filocalia1antonie1D=>dar@P raționali sînt numai aceia care au sufletul rațional, pot să deosebească ce este binele și ce este răul,
-filocalia1antonie1E=>se feresc de cele rele și vătămătoare sufletului și toată grija o au spre cele bune și folositoare sufletului;
+filocalia1antonie1E=>se feresc de cele rele și vătămătoare sufletului și toată grija@N o au spre cele bune și folositoare sufletului;
 filocalia1antonie1F=>iar acestea le săvîrșesc cu multă mulțumire către Dumnezeu.
 filocalia1antonie1G=>numai aceștia trebuie să se numească oameni raționali.
 
 
-filocalia1antonie2A=>omul cu adevărat rațional are o singură grijă :
+filocalia1antonie2A=>omul cu adevărat rațional are o singură grijă@N :
 filocalia1antonie2B=>să asculte de Dumnezeul tuturor și să-l placă ;
 filocalia1antonie2C=>și numai la aceasta își deprinde sufletul său :
 filocalia1antonie2D=>cum să-l placă lui Dumnezeu, mulțumindu-l pentru o așa de mare purtare de grijă și pentru cîrmuirea tuturor,
@@ -650,6 +650,11 @@ filocaliaantonie5A=>Omul cu judecată luînd aminte la sine cumpănește cele ce
 filocaliaantonie5B=>Acela cugetă care lucruri sînt folositoare pentru firea sufletului său și care nu.
 filocaliaantonie5C=>Așa se ferește el de cele nepotrivite, care i-ar vătăma sufletul și l-ar despărți de nemurire.
 
+filocaliaantonie6A=>cu cît cineva are viața mai măsurată, cu atît e mai fericit, că nu se grijește de multe :
+filocaliaantonie6B=>de slujitori, de lucrători, de pămînturi și de avuția dobitoacelor.
+filocaliaantonie6C=>Căci țintuindu-ne de acestea ne vom îneca în greutățile legate de ele și vom învinui pe Dumnezeu.
+filocaliaantonie6D=>Iată cum din pofta noastră cea de voie se adapă moartea
+filocaliaantonie6E=>și cum rătăcim în întunericul unei vieți cu păcate, necunoscîndu-ne pe noi înșine.
 
 urzeala1A=>ar trebui să ne întoarcem, ceru Gared pe când desișurile începură să se întunece  tot mai tare în jurul lor. Ierburile sunt moarte.
 urzeala1B=>moartea te înspăimântă ? întrebă ser |Waymar| |Royce| cu umbra unui zâmbet.
@@ -1073,7 +1078,7 @@ stanibotez22=>Vom viețui împreună cu Hristos, pe Care moartea nu-L mai stăp�
 
 url2=>https://ro.orthodoxwiki.org/Patericul_egiptean#Pentru_avva_Antonie
 
-toto=>Desăvârşiţi-vă
+toto=>țintuindu-ne
 ă
 ș
 ț
