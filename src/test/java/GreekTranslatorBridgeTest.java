@@ -110,7 +110,7 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "σωφρον,ειν,[εω-εις]"
+                "αποπλ,ειν,[εω-εις],(PRESACTPARTB*αποπλ*αποπλε)"
         });
          */
         return getFileContentForRepository(verbFileDescription);
@@ -119,7 +119,7 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getCustomVerbDefinitions() {
         return Arrays.asList(new String[]{
                 //"IPR=>ω,εις,ει,ουμεν,ειτε,ουσιν|ουσι",
-                "PRESACTPART=>ουσας"
+                "PRESACTPARTB=>[ους-ουσα-ον]"
         });
     }
 
@@ -705,7 +705,7 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
         //checkInMaps("clement1L", translatorBridge);
         checkInMaps("clement1M", translatorBridge);
         checkInMaps("clement1N", translatorBridge);
-        checkInMaps("clement1O", translatorBridge);
+        //checkInMaps("clement1O", translatorBridge);
     }
 
     @Test
@@ -855,6 +855,20 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("herodote111D", translatorBridge);
         checkInMaps("herodote111E", translatorBridge);
     }
+
+    @Test
+    public void test_herodote_book1_chapter1_section3() {
+        checkInMaps("herodote112A", translatorBridge);
+        checkInMaps("herodote112B", translatorBridge);
+        checkInMaps("herodote113A", translatorBridge);
+        checkInMaps("herodote113B", translatorBridge);
+        checkInMaps("herodote113C", translatorBridge);
+        checkInMaps("herodote114A", translatorBridge);
+        checkInMaps("herodote114B", translatorBridge);
+        checkInMaps("herodote114C", translatorBridge);
+        checkInMaps("herodote114D", translatorBridge);
+    }
+
 
     @Test
     public void test_homere_yliad_book1() {

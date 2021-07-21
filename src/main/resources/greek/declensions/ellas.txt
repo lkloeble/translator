@@ -1,0 +1,4 @@
+nom%sing%neut%ας
+gen%sing%neut%αδος
+dat%sing%neut%αδι
+acc%sing%neut%αδα

@@ -13,6 +13,7 @@
 ανευ@prep()
 ανω@prep()
 ανωτατω@prep()
+απ@prep()
 απο@prep()
 απλως@prep()
 απροσωπολημπτως@prep()
@@ -82,6 +83,7 @@
 κατωτατω@prep()
 λαθρα@prep()
 λιαν@prep()
+μαλιστα@prep()
 μαλλον@prep()
 με@prep(acc)
 μεγαλως@prep()
@@ -160,6 +162,7 @@
 συ@prep()
 συν@prep(acc)
 σφι@prep(dat)
+σχεδον@prep()
 τας@prep%prep(acc)%[electAccusativeForFollowingNoun]
 ταις@prep%prep(acc)%[electDativeForFollowingNoun]
 ταυτα@prep()
@@ -198,6 +201,7 @@
 τοθ@prep()
 τω@prep%prep(abl)%[electDativeForFollowingNoun]
 των@prep%prep(gen)%[electGenitiveForFollowingNoun]
+τωυτο@prep()
 υμας@prep()
 υμιν@prep(dat)
 υμων@prep(gen)
