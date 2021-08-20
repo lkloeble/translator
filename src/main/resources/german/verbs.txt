@@ -25,6 +25,7 @@ aufputz,en,[pflanzen]
 aufricht,en,[segnen]
 aufstell,en,[leben],(PAP*aufstell*aufgestellt)
 auftret,en,[leben]
+auftu,en,[leben],(PAP*auftu*aufgetan)
 aufwachs,en,[genesen]
 aufzufuhr,en,[leben]
 ausbrech,en,[leben],(PAP*ausbrech*ausgebrochen)
@@ -46,6 +47,7 @@ bedenk,en,[leben],(PAPR*bedenk*bedenkend@AII*bedenk*bedach)
 bedeut,en,[mochten]
 befass,en,[pflanzen]
 befind,en,[mochten],(AIP*befi*befa)
+befrag,en,[leben],[PAP*befrag*befragt)
 begegn,en,[segnen]
 begeh,en,[leben],(PAPR*begeh*begehend)
 beginn,en,[rufen],(AIP*beginn*begann)
@@ -60,9 +62,11 @@ beileg,en,[leben],(PAP*beileg*beigelegt)
 beischreib,en,[rufen],(AIP*beischreib*beischrieb@PAP*beischrei*beigeschrie)
 beitrag,en,[lassen],(AIP*beitrag*beitrug)
 beiwohn,en,[leben]
+beizubring,en,[leben]
 bekomm,en,[rufen],(AIP*bekomm*bekam@ASP*beko*beka)
 belast,en,[wenden]
 belohn,en,[leben]
+bemerk,en,[leben]
 benutz,en,[setzen]
 beobacht,en,[mochten]
 berat,en,[werden],(AIP*berate*beriet)
@@ -139,6 +143,7 @@ erblick,en,[leben]
 erdenk,en,[leben],(AII*erdenk*erdach)
 erdruck,en,[leben]
 ereign,en,[segnen]
+erfahr,en,[leben]
 erfind,en,[mochten],(PAP*erfind*erfunden@AIP*erfind*erfand)
 erfull,en,[leben]
 erhalt,en,[gelten]
@@ -147,7 +152,7 @@ erhell,en,[leben]
 erhoh,en,[leben]
 erhol,en,[leben]
 erhor,en,[leben],(PAPR*erhor*erhorend)
-erinner,n,[mochten]
+erinner,n,[mochten],(PAP*erinner*erinnert)
 erkenn,en,[leben],(PAP*erke*erka)
 erkies,en,[genesen],(PAP*erkies*erkoren)
 erklar,en,[leben]
@@ -204,6 +209,7 @@ geh,en,[lassen],(PAPR*geh*gehend@AIP*geh*ging@PAP*geh*gegang)
 gehor,en,[leben],(PAPR*gehor*gehorend)
 gelt,en,[gelten],(AIP*gel*gal@IPR12*gelt*gilt)
 genes,en,[genesen]
+geniess,en,[schliessen]
 genug,en,[leben]
 gernhaben@IRREGULAR%[INFINITIVE]=[gernhaben]%[IPR]=[gernhabe,gernhast,gernhat,gernhaben,gernhabt,gernhaben]
 gescheh,en,[rufen],(AIP*gescheh*geschah@IPR12*gescheh*geschieh)
@@ -263,6 +269,7 @@ laut,en,[wenden]
 leb,en,[leben],(PAPR*leben*lebend)
 leg,en,[leben]
 lehr,en,[leben],(PAPR*lehr*lehrend)
+leid,en,[mochten],(PAP*leid*leidxxx)
 leit,en,[wenden]
 lern,en,[leben]
 les,en,[rufen],(IPR124*les*lies@PAP*les*geles@AIP*les*las@AIMP1*les*lies)
@@ -275,6 +282,7 @@ mach,en,[leben],(PAPR*mach*machend@AIP*mach*macht@PAP*mach*gemacht)
 mart,ern,[bedauern]
 mehr,en,[leben]
 mein,en,[leben],(PAPR*mein*meinend@PAP*mein*gemeint)
+merk,en,[leben]
 miet,en,[leben]
 miss,en,[leben],(PAPR*miss*missend)
 miteinzuschliess,en,[schliessen]
@@ -286,11 +294,15 @@ muss,en,[leben]
 nachlauf,en,[rufen],(AIP*lauf*lief)
 nachsinn,en,[rufen],(AIP*nachsin*nachsan)
 nah,en,[rufen]
+naherzubring,en,[leben]
 nehm,en,[rufen],(IPR12*nehm*nimm@AIP*nehm*nahm@PAP*nehm*genommen@ASP*nehm*nahm@ASI*nehm*nehmxxx)
 nenn,en,[leben],(AII*nenn*nann@PAP*nenn*gennant)
 niederschreib,en,[rufen]
 offenbar,en,[leben]
+offn,en,[mochten]
+paar,en,[leben],(PAP*paar*gepaart)
 pass,en,[leben]
+perpetuier,en,[leben]
 pflanz,en,[pflanzen]
 pfleg,en,[leben]
 plan,en,[leben],(PAPR*plan*planend@PAP*plan*geplant)
@@ -372,10 +384,13 @@ tob,en,[leben]
 trag,en,[lassen],(AIP*trag*trug@PAP*trag*getrag)
 trau,en,[leben]
 treib,en,[leben]
-trenn,en,[leben]
+trenn,en,[leben],(PAP*trenn*getrennt)
+tret,en,[entstehen],(AIP*tret*trat)
 trink,en,[leben]
 trost,en,[segnen],(PAP*trost*getrostet)
 tu,n,[leben],(PAP*tu*getan@IPR35*tuen*tun@AIP*tu*ta)
+ub,en,[leben],(PAPR*ub*ubxxx@PAP*ub*ubwww@AIMP*ub*ubnnnn)
+uberbruck,en,[leben],(PAP*uberbruck*uberbruckt)
 ubereinstimm,en,[leben]
 uberrasch,en,[leben]
 uberschaum,en,[leben]

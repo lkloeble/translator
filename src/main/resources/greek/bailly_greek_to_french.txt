@@ -494,6 +494,7 @@
 ηδ@adj!υς-εια-υ%1(adj)=doux%2(adj)=plaisant
 ηδε@prep%1(prep)=ici%2(prep)=cette
 ηδη@prep%1(prep)=déjà%2(prep)=maintenant
+ηερι@noun!inv%1(noun)=air
 ηι@prep%1(prep)=lequel
 ηθ@noun!ος-ους%1(noun)=coutûme%2(noun)=charactère
 ηλι@noun!ος-ου%1(noun)=soleil

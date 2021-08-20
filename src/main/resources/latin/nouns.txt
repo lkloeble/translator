@@ -60,6 +60,7 @@ alien@adj%us-a-um
 aliment@neut%um-i
 aliqu@adj%is-is-id
 allobrog@masc%scriptor
+alpes@neut%inv
 alt@adj%us-a-um
 alter@adj%us-a-um
 alter@adj%x-a-um
@@ -105,6 +106,7 @@ appellat@adj%us-a-um
 appi@fem%a-ae
 april@masc%is-is
 aqu@fem%a-ae
+aquilei@fem%a-ae
 aquitan@adj%us-a-um
 aquitani@fem%a-ae
 ar@fem%s-tis2
@@ -152,6 +154,7 @@ beat@adj%us-a-um
 belg@fem%a-ae
 bell@neut%um-i
 belland@adj%us-a-um
+bellicos@adj%us-a-um
 bene@neut%inv
 benedict@adj%us-a-um
 benefici@neut%um-i
@@ -224,6 +227,7 @@ circuit@masc%us-us
 circumcisi@fem%o-onis
 circumfus@adj%us-a-um
 citat@adj%us-a-um
+citeri@adj%or-or-us
 civit@fem%as-atis
 clar@adj%us-a-um
 claudi@masc%us-i
@@ -518,6 +522,7 @@ frat@masc%er-ris
 frau@fem%s-dis
 fruct@masc%us-i
 frument@neut%um-i
+frumentari@adj%us-a-um
 fug@fem%a-ae
 fugien@adj%s-s-s
 fus@masc%us-i
@@ -573,6 +578,7 @@ hercul@masc%es-is
 heri@neut%inv
 hermae@neut%inv
 hermas@neut%inv
+hibern@adj%us-a-um
 hieronym@masc%us-i
 hierosolym@fem%a-orum
 hierosolymitan@adj%us-a-um
@@ -964,6 +970,7 @@ passion@fem%o-nis
 pastor@masc%x-is
 pat@masc%er-ris
 patefact@adj%us-a-um
+paten@adj%s-s-s
 patern@adj%us-a-um
 patientissim@adj%us-a-um
 patriarch@fem%a-ae
@@ -1098,6 +1105,7 @@ pulcher@neut%inv
 pulcherrim@adj%us-a-um
 pulchr@adj%us-a-um
 puls@masc%us-us
+puls@adj%us-a-um
 puri@adj%or-or-us
 pyrenae@fem%x-ri
 qint@masc%us-i
@@ -1178,6 +1186,7 @@ sanctissim@adj%us-a-um
 sanctita@fem%s-tis
 sangui@masc%s-nis
 sanguine@adj%us-a-um
+santon@masc%scriptor
 sapienti@fem%a-ae
 sardini@fem%a-ae
 satiat@adj%us-a-um
@@ -1199,6 +1208,7 @@ secul@neut%um-i
 secund@adj%us-a-um
 secut@adj%us-a-um
 sedecim@neut%inv
+segusiav@masc%us-i
 semen@fem%x-is
 sement@neut%is-is
 semin@fem%x-is
@@ -1316,6 +1326,7 @@ tigri@neut%s-dis
 tit@masc%us-i
 titul@masc%us-i
 tolerand@adj%us-a-um
+tolosatium@neut%inv
 torment@neut%um-i
 tot@adj%us-a-um
 totius@adj%inv
@@ -1400,6 +1411,7 @@ viven@adj%s-s-s
 vo@fem%x-cis
 vocabul@neut%um-i
 vocat@adj%us-a-um
+voconti@masc%us-i
 volatil@adj%is-is-e
 voluc@adj%er-ris-re
 volum@neut%en-inis

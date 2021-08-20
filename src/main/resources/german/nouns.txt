@@ -31,9 +31,11 @@ affekt@neut%kunst
 agypten@neut%inv
 ah@neut%inv
 ahn@masc%schmerz
+ahnlich@adj%ausreichend
 ahnung@fem%meinfem
 ahroniden@neut%inv
 ailonith@neut%inv
+akt@neut%meinmasc
 alkohol@neut%inv
 all@adj%ausreichend
 allegorisch@adj%ausreichend
@@ -58,6 +60,7 @@ andrer@adj%masc
 anfang@masc%norm
 angabe@fem%flasche
 angeblich@adj%ausreichend
+angenehm@adj%ausreichend
 angesehn@neut%inv
 angst@fem%angst
 anhanglichkeit@fem%meinfem
@@ -101,6 +104,7 @@ artistisch@adj%ausreichend
 asiatisch@adj%ausreichend
 assyrien@neut%inv
 asthetisch@adj%ausreichend
+attisch@adj%ausreichend
 auffallend@adj%ausreichend
 aufgabe@fem%flasche
 aufgewendet@adj%ausreichend
@@ -150,9 +154,11 @@ bahnhof@fem%meinfem
 banane@fem%flasche
 band@masc%jahrzehnt
 bandiges@neut%inv
+banglich@adj%ausreichend
 baren@neut%inv
 baruch@neut%inv
 bastard@neut%bastard
+bau@neut%inv
 baum@neut%jahrzehnt
 bauamt@neut%inv
 beamt@masc%artist
@@ -167,6 +173,7 @@ begrundung@fem%meinfem
 befremdlich@adj%ausreichend
 begehren@neut%inv
 begriff@masc%jahrzehnt
+befahigung@fem%meinfem
 behorde@fem%flasche
 behutsam@adj%ausreichend
 beigefugt@adj%ausreichend
@@ -219,6 +226,7 @@ bikkurim@neut%inv
 bild@neut%licht
 bilderwirrig@neut%inv
 bilderwutig@neut%inv
+bildner@masc%arbeiter
 billerbeck@neut%inv
 bindend@adj%ausreichend
 birne@fem%flasche
@@ -226,6 +234,7 @@ bisherig@adj%ausreichend
 blatt@neut%licht
 blick@masc%ort
 blitz@masc%jahrzehnt
+bloss@adj%ausreichend
 blume@fem%flasche
 blut@fem%phanomen
 bock@masc%phanomen
@@ -283,6 +292,7 @@ der@masc%inv
 derartig@adj%ausreichend
 dessentwillen@neut%inv
 determiniert@adj%ausreichend
+deuterei@fem%inv
 deutlich@adj%ausreichend
 deutsch@adj%ausreichend
 deutschland@fem%inv
@@ -291,6 +301,7 @@ dezember@neut%inv
 dialektik@neut%inv
 dialektisch@adj%ausreichend
 dichter@masc%arbeiter
+dichtkunst@fem%inv
 dick@adj%norm
 die@fem%inv
 diener@masc%arbeiter
@@ -319,6 +330,7 @@ dt@neut%inv
 dukhan@neut%inv
 duplizitat@fem%inv
 durchfigurierung@fem%inv
+durchschimmernd@adj%ausreichend
 durchsicht@fem%meinfem
 durst@neut%inv
 dumm@neut%inv
@@ -345,6 +357,7 @@ einzig@adj%ausreichend
 einzigst@adj%ausreichend
 einzusenden@neut%inv
 elias@masc%inv
+empfindung@fem%meinfem
 england@neut%inv
 ende@fem%flasche
 endlich@neut%inv
@@ -376,6 +389,7 @@ entgegengesetzt@adj%ausreichend
 entsprechend@adj%ausreichend
 entweihter@masc%arbeiter
 entwickelung@masc%meinmasc
+entzuckend@adj%ausreichend
 entzuckung@fem%meinfem
 epikur@neut%inv
 epikurisch@adj%ausreichend
@@ -405,6 +419,7 @@ ermudung@fem%meinfem
 erneut@adj%ausreichend
 ernst@masc%jahrzehnt
 ernsthaft@adj%ausreichend
+erregbar@adj%ausreichend
 erregung@fem%meinfem
 erscheinung@fem%meinfem
 erschopfung@fem%meinfem
@@ -413,7 +428,9 @@ erste@neut%masc
 erstehn@neut%inv
 erstling@neut%inv
 erwartende@adj%ausreichend
+erwartung@fem%meinfem
 erz@neut%jahrzehnt
+erzeugung@fem%meinfem
 erziehung@fem%inv
 esra@neut%inv
 esras@neut%inv
@@ -467,7 +484,7 @@ finale@neut%zeichen
 finanzierung@fem%meinfem
 findling@masc%bastard
 finger@masc%arbeiter
-finster@neut%inv
+finster@adj%ausreichend
 finsternis@neut%inv
 firmament@masc%jahrzehnt
 fisch@masc%angst
@@ -479,6 +496,7 @@ fleiss@masc%inv
 florenz@fem%inv
 flote@fem%norm
 fluch@masc%jahrzehnt
+fluchtig@adj%ausreichend
 xxfluche@fem%flasche
 flug@neut%meinmasc
 flugel@masc%arbeiter
@@ -506,6 +524,7 @@ fremde@fem%inv
 freude@fem%flasche
 freundin@fem%inv
 freund@masc%meer
+freundlich@adj%ausreichend
 freveltat@masc%meinmasc
 frevlerisch@adj%ausreichend
 frieden@masc%autor
@@ -529,6 +548,7 @@ furst@masc%artist
 fuss@masc%phanomen
 fussganger@masc%meinmasc
 fusstapfe@fem%flasche
+gabe@fem%flasche
 ganz@adj%ausreichend
 garten@masc%inv
 gast@neut%meer
@@ -622,7 +642,9 @@ gibeonit@adj%ausreichend
 glaubwurdig@adj%ausreichend
 glaubwurdiger@adj%ausreichend
 gleich@adj%ausreichend
+gleichgultig@adj%ausreichend
 gleichzeitig@adj%ausreichend
+glied@neut%holz
 gluck@fem%flasche
 gn@neut%inv
 gnade@fem%flasche
@@ -634,6 +656,7 @@ gott@masc%inv
 gotte@masc%inv
 gotter@adj%inv
 gottes@masc%inv
+gottheit@fem%meinfem
 gottlich@adj%ausreichend
 grab@neut%licht
 grad@neut%jahrzehnt
@@ -657,6 +680,7 @@ gulasch@neut%inv
 gunsten@neut%inv
 gut@adj%mein
 halb@adj%inv
+halfte@fem%flasche
 halle@fem%inv
 hallo@neut%inv
 halluzination@fem%meinfem
@@ -669,6 +693,7 @@ hasslich@adj%ausreichend
 haufen@neut%zeichen
 haufig@adj%ausreichend
 haufiger@adj%ausreichend
+haufigkeit@fem%meinfem
 haupt@neut%licht
 hauptmasse@neut%inv
 hauptstadt@fem%flasche
@@ -691,7 +716,9 @@ heiterer@adj%ausreichend
 heiterkeit@fem%norm
 held@masc%artist
 hellene@masc%flasche
+hellenisch@adj%ausreichend
 helles@neut%inv
+hemmung@fem%meinfem
 henoch@neut%inv
 herabzusetzen@neut%inv
 heranwachsend@adj%ausreichend
@@ -827,6 +854,7 @@ kaufmann@masc%burger
 keil@masc%phanomen
 kenntnis@fem%angst
 kenntniss@fem%angst
+kennzeichen@neut%zeichen
 kern@masc%meer
 kind@masc%ort
 kinnback@fem%meinfem
@@ -843,6 +871,7 @@ knechtschaft@fem%meinfem
 knieen@neut%inv
 komisch@adj%ausreichend
 kommunikation@fem%meinfem
+komodie@fem%inv
 kongress@neut%inv
 konig@masc%phanomen
 konstanz@neut%inv
@@ -853,6 +882,7 @@ korrektur@fem%meinfem
 kosten@neut%inv
 kostlich@adj%ausreichend
 kraft@fem%angst
+kraftiger@adj%ausreichend
 krank@adj%mein
 krankheit@fem%meinfem
 kraut@fem%meinfem
@@ -869,6 +899,7 @@ kultur@fem%inv
 kultus@neut%inv
 kunst@masc%kunst
 kunstler@masc%arbeiter
+kunstlerisch@adj%ausreichend
 kur@fem%flasche
 kurz@adj%ausreichend
 kurzest@adj%ausreichend
@@ -1053,6 +1084,7 @@ narkotikum@neut%inv
 nase@fem%flasche
 nathanael@neut%inv
 nebel@neut%arbeiter
+neckerei@fem%meinfem
 neh@neut%inv
 nein@neut%inv
 nennung@fem%meinfem
@@ -1071,6 +1103,7 @@ nieder@adj%ausreichend
 niedergang@masc%arbeiter
 nihilismus@neut%inv
 norm@fem%meinfem
+normalitat@fem%meinfem
 not@fem%kunst
 notig@adj%ausreichend
 notwehr@neut%inv
@@ -1106,6 +1139,7 @@ ort@masc%ort
 ostern@neut%inv
 ostlich@adj%ausreichend
 paare@neut%inv
+paarung@fem%meinfem
 palast@masc%phanomen
 palastina@neut%inv
 palastinisch@adj%ausreichend
@@ -1130,11 +1164,14 @@ pessimist@adj%meinmasc
 peter@neut%inv
 petre@neut%inv
 petrus@masc%inv
+philosophisch@adj%ausreichend
 physiologisch@adj%ausreichend
 pfleger@masc%arbeiter
 phanomen@neut%phanomen
 phantastisch@adj%ausreichend
+phantom@neut%jahrzehnt
 philologe@masc%flasche
+philosoph@masc%meinmasc
 philosophie@masc%flasche
 pinchas@neut%inv
 pizza@neut%meinmasc
@@ -1143,6 +1180,8 @@ plan@masc%ausreichend
 plato@masc%inv
 platos@masc%inv
 platz@masc%phanomen
+plotzlich@adj%ausreichend
+poetisch@adj%ausreichend
 politik@fem%inv
 politiker@masc%arbeiter
 pompejus@neut%inv
@@ -1192,6 +1231,7 @@ ratsel@neut%arbeiter
 ratselhaft@adj%ausreichend
 ratte@fem%flasche
 rauberisch@neut%meinmasc
+rausch@masc%traum
 recht@adj%ausreichend
 rechtfertigung@fem%meinfem
 rechts@neut%inv
@@ -1257,6 +1297,7 @@ schade@neut%inv
 schaf@neut%jahrzehnt
 schar@fem%meinfem
 scharfst@adj%ausreichend
+schattenspiel@neut%rest
 schauerlich@adj%ausreichend
 schauspielerisch@adj%ausreichend
 scheck@fem%meinfem
@@ -1421,6 +1462,7 @@ synagoge@neut%inv
 synedrium@neut%inv
 synthesis@neut%inv
 syrisch@adj%ausreichend
+szene@fem%flasche
 tabelle@fem%flasche
 tag@masc%jahrzehnt
 talmud@masc%meinmasc
@@ -1476,15 +1518,18 @@ tradition@fem%meinfem
 tragisch@adj%ausreichend
 tragodie@fem%flasche
 traktat@neut%angst
+traum@masc%traum
 traumgesicht@neut%licht
 trauertag@neut%inv
-traurig@adj%inv
+traurig@adj%ausreichend
 treu@adj%ausreichend
+trieb@masc%reis
 trost@masc%jahrzehnt
 trosterei@neut%inv
 trotz@masc%meer
 trotzig@adj%ausreichend
 trocken@adj%ausreichend
+trub@adj%ausreichend
 trunk@masc%jahrzehnt
 tugend@fem%meinfem
 turm@masc%jahrzehnt
@@ -1496,6 +1541,7 @@ uberhebend@neut%inv
 ubereilt@adj%ausreichend
 uberlebend@adj%ausreichend
 uberlieferung@fem%meinfem
+ubermenschlich@adj%ausreichend
 uberschrift@fem%meinfem
 ubersetzung@fem%meinfem
 uberstromen@adj%ausreichend
@@ -1517,6 +1563,7 @@ unbekannten@neut%inv
 unbekummert@neut%inv
 unberedt@adj%ausreichend
 unbescheidenheit@neut%inv
+unbildlich@adj%ausreichend
 unerkannt@adj%ausreichend
 unerlasslich@adj%ausreichend
 unerschrockenheit@neut%inv
@@ -1538,6 +1585,7 @@ unlustigkeit@neut%inv
 unmittelbar@adj%ausreichend
 unmoglich@neut%meinmasc
 unmoralisch@adj%ausreichend
+unnotig@adj%ausreichend
 unrecht@masc%arbeiter
 unser@adj%ausreichend
 unschlussig@neut%inv
@@ -1571,6 +1619,7 @@ verandert@adj%ausreichend
 veranlassung@fem%meinfem
 verarmung@neut%inv
 verbindung@masc%meinmasc
+verborgen@adj%ausreichend
 verborgenheit@masc%meinmasc
 verbot@neut%phanomen
 verboten@adj%ausreichend
@@ -1612,8 +1661,10 @@ versammlung@fem%meinfem
 versand@fem%norm
 versaumt@adj%meinmasc
 verschied@neut%inv
+verschieden@adj%ausreichend
+verschiedne@neut%inv
 verschreibung@fem%meinfem
-verstandnis@fem%inv
+verstandnis@fem%erkenntnis
 versuch@neut%meinmasc
 versucherisch@adj%ausreichend
 verunglimpfung@neut%meinmasc
@@ -1675,6 +1726,7 @@ wahrheit@fem%norm
 wahrsager@masc%arbeiter
 wahrscheinlich@adj%ausreichend
 wahrscheinlicher@adj%ausreichend
+wahrst@adj%ausreichend
 walfisch@masc%meer
 wanderung@fem%meinfem
 ware@fem%flasche
@@ -1703,7 +1755,7 @@ wesen@fem%inv
 wesentlich@adj%ausreichend
 wesentliche@fem%flasche
 wetter@neut%inv
-wichtig@neut%inv
+wichtig@adj%ausreichend
 wichtigst@adj%ausreichend
 widder@masc%arbeiter
 widerspruch@masc%phanomen
@@ -1762,6 +1814,7 @@ zerspalten@fem%angst
 zerstorung@fem%meinfem
 zerstreuung@fem%meinfem
 zeugnis@neut%erkenntnis
+zeugung@fem%meinfem
 ziehn@neut%inv
 ziel@neut%jahrzehnt
 zigarette@fem%flasche
@@ -1773,6 +1826,7 @@ zorn@masc%phanomen
 zornigst@adj%ausreichend
 zucht@fem%meinfem
 zuchtrute@fem%flasche
+zufall@masc%bastard
 zug@masc%jahrzehnt
 zuganglich@adj%meinmasc
 zugehorig@adj%ausreichend
@@ -1793,3 +1847,4 @@ zweifel@masc%zeichen
 zweiheit@fem%inv
 zweit@adj%ausreichend
 zwiegesprach@neut%inv
+zwiespalt@masc%ort

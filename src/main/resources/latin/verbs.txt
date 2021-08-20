@@ -112,6 +112,7 @@ congreg,o,as,are,,,[o-as]
 conjug,o,is,ere,,,[o-is]
 conjung,o,is,ere,,,[o-is]
 conpl,eo,es,ere,,,[eo-es],(AIP*conpl*conplev)
+conscrib,o,is,ere,,,[o-is]
 consecr,o,as,are,,,[o-as]
 consect,or,aris,ari,,,[or-aris]
 conserv,o,as,are,,,[o-as]
@@ -180,6 +181,7 @@ duc,o,is,ere,foobar,foobar,[o-is],(AIP*duc*dux@AIPP*duc*dux)
 dur,o,as,are,,,[o-as]
 ed,o,is,ere,foobar,foobar,[o-is],(IAP*ed*edid@AIP*ed*edid@AIPP*ed*edid)
 edoc,eo,es,ere,,,[eo-es]
+educ,o,is,ere,,,[o-is]
 effer,o,s,re,tuli,latum,[o-s],(AIP*effer*extul)
 effic,io,is,ere,,,[io-is],[AIP=effec]
 egred,or,eris,i,,,[or-eris],(AII*egred*egredi)
@@ -211,7 +213,7 @@ exst,o,as,are,-,-,[o-as]
 extend,o,is,ere,,,[o-is]
 exsult,o,as,are,,,[o-as]
 exstingu,o,is,ere,,,[o-is],(AIP*exstingu*exstinx)
-fac,io,is,ere,,,[io-is2],(AIP*fac*fec@AIPP*fac*fec@PII*fac*fieb)
+fac,io,is,ere,,,[io-is2],(AIP*fac*fec@AIPP*fac*fec@PII*fac*fieb@PSI*fac*fier)
 fate,or,ris,ri,,,[or-ris]
 fer,o,s,re,tuli,latum,[o-s],(AIP*fer*tul@AIPP*fer*tuler)
 fi,o,s,ere,foobar,foobar,[o-s-fiat]
@@ -231,6 +233,7 @@ glori,or,aris,ari,,,[or-aris]
 gubern,o,as,are,,,[o-as]
 hab,eo,es,ere,foo,bar,[eo-es2],(ASP*hab*habe@AIP*hab*habu@ASI*hab*haber)
 habit,o,as,are,avi,atus,[o-as]
+hiem,o,as,are,,,[o-as]
 honor,o,as,are,,,[o-as]
 hort,or,aris,ari,,,[or-aris]
 illud,o,is,ere,,,[o-is]
@@ -271,6 +274,7 @@ inscrib,o,is,ere,,,[o-is]
 inspir,o,as,are,,,[o-as]
 inst,o,as,are,,,[o-as]
 instill,o,as,are,,,[o-as]
+intelleg,o,is,ere,,,[o-is]
 intellig,o,is,ere,,,[o-is]
 inter,eo,is,ire,ii,itum,[eo-is]
 interced,o,is,ere,,,[o-is]
@@ -370,6 +374,7 @@ poti,or,ris,ri,,,[or-ris],(IAPP*poti*potitus)
 praeced,o,is,ere,,,[o-is]
 praedic,o,as,are,,,[o-as]
 praecip,io,is,ere,,,[io-is],(AIP*praecip*praecep)
+praefic,io,is,ere,,,[io-is]
 praefig,o,is,ere,,,[o-is],(IAP*praefig*praefix)
 praepar,o,as,are,,,[o-as]
 praest,o,as,are,,,[o-as],(ASI*praest*praestar@AIP*praestav*praestit)
@@ -409,6 +414,7 @@ reg,o,is,ere,,,[o-is]
 relab,or,eris,i,,,[or-eris]
 relinqu,o,is,ere,,,[o-is],(AIP*relin*reli)
 renasc,or,eris,i,,,[or-eris],(ASI*renasc*renascer)
+renunti,o,as,are,,,[o-as]
 reper,io,is,ire,,,[io-is]
 repl,eo,es,ere,,,[eo-es],(AIP*repl*replev)
 report,o,as,are,,,[o-as]

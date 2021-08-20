@@ -39,3 +39,4 @@ herz%herz.txt
 zeh%zeh.txt
 prinzip%prinzip.txt
 hirte%hirte.txt
+traum%traum.txt
