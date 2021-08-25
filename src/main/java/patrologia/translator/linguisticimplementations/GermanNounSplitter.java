@@ -6,6 +6,7 @@ import patrologia.translator.basicelements.preposition.PrepositionRepository;
 import patrologia.translator.basicelements.verb.Verb;
 import patrologia.translator.basicelements.verb.VerbRepository2;
 
+import java.util.Locale;
 import java.util.Set;
 
 public class GermanNounSplitter {
@@ -42,7 +43,10 @@ public class GermanNounSplitter {
         }
         for (int indiceSplit = MINIMUM_LENGTH_TO_TRY_SPLIT; indiceSplit < initialValue.length(); indiceSplit++) {
             String leftWord = initialValue.substring(0, indiceSplit);
-            if (leftWord.endsWith("s")) leftWord = leftWord.substring(0, leftWord.length() - 1);
+            if (isAGenitiveOfCombination(leftWord)) {
+                leftWord = leftWord.substring(0, leftWord.length() - 1);
+                if(!nounRepository.hasNoun(leftWord)) leftWord += "s";
+            }
             String rightWord = initialValue.substring(indiceSplit, initialValue.length());
             if (isWordInRepositories(leftWord) && isWordInRepositories(rightWord)) {
                 Word word0 = getWordFromEitherRepository(leftWord);
@@ -57,6 +61,14 @@ public class GermanNounSplitter {
             }
         }
         return null;
+    }
+
+    private boolean isAGenitiveOfCombination(String leftWord) {
+        String withoutS = leftWord.substring(0, leftWord.length() - 1);
+        if(leftWord.toLowerCase(Locale.ROOT).endsWith("s") && nounRepository.hasNoun(leftWord) || nounRepository.hasNoun(withoutS)) {
+            return true;
+        }
+        return false;
     }
 
     private boolean thereAreSplitsToDo(Phrase phrase) {

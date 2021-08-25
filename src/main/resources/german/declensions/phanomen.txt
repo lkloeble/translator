@@ -1,6 +1,7 @@
 nom%sing%masc%
 nom%plr%masc%e
-gen%sing%masc%s
+gena%sing%masc%s
+genb%sing%masc%es
 gen%plr%masc%e
 data%sing%masc%e
 datb%sing%masc%
