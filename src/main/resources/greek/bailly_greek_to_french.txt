@@ -52,6 +52,7 @@
 αικι@noun!α-ας%1(noun)=tourment%2(noun)=outrage
 αικισμ@noun!α-ατος%1(noun)=tourment
 αιθ@prep%1(prep)=qui
+αιμ@noun!α-ατος%1(noun)=sang
 αιτι@adj!ος-α-ον%1(adj)=coupable de
 αιτι@noun!α-ης%1(noun)=culpabilité
 αιφνιδι@noun!ος-ου%1(noun)=soudain
@@ -81,6 +82,7 @@
 αλφα@noun!inv%1(noun)=alpha
 ακροτατω@noun!inv%1(noun)=au point le plus haut
 αμαρταν@verb!norm%1(verb)=pecher
+αμαρτημ@noun!α-ατος%1(noun)=faute%2(noun)=péché
 αμαρτι@noun!α-ας%1(noun)=faute%2(noun)=péché
 αμαρτωλ@noun!ος-ου%1(noun)=pêcheur
 αμβλυωπησαι@noun!inv%1(noun)=obscurci le regard
@@ -178,6 +180,7 @@
 ασεβ@adj!ης-ης-ες%1(adj)=impie%2(adj)=sacrilège
 ασσυρια@noun!inv%1(noun)=assyrie
 ασθεν@verb!norm%1(verb)=etrefaible
+ατενιζ@verb!norm%1(verb)=fixer
 ασφαλ@adj!ης-ης-ες%1(adj)=sûr
 αστ@noun!ηρ-ερος%1(noun)=étoile
 αστρ@noun!ον-ου%1(noun)=astre
@@ -285,6 +288,7 @@
 δεικνυ@verb!norm%1(verb)=montrer
 δειν@adj!ος-η-ον%1(adj)=horrible
 δεσμ@noun!ος-ου2%1(noun)=entrave%2(noun)=chaîne
+δεσποτ@noun!ης-ου%1(noun)=despote%2(noun)=maître
 δευτερ@noun!ος-α-ον%1(adj)=deuxième
 δευτερ@adj!η-ης%1(adj)=seconde
 δενδρ@noun!ον-ου%1(noun)=arbre
@@ -335,6 +339,7 @@
 εικοσαπλασιονα@noun!inv%1(noun)=vingt fois
 εαυτω@prep%1(prep)=lui-même
 εαυτοις@prep%1(prep)=eux-même
+εαυτους@prep%1(prep)=eux-même
 εαυτων@prep%1(prep)=à nous-mêmes%2(prep)=à vous-mêmes%3(prep)=à eux-mêmes
 εγγιγν@verb!norm%1(verb)=etrenedans
 εγγυς@prep%1(prep)=près
@@ -369,6 +374,7 @@
 εκτ@adj!ος-η-ον%1(adj)=sixième
 εκφαιν@verb!norm%1(verb)=reveler
 εκφερ@verb!norm%1(verb)=produire%2(verb)=effectuer
+εκχ@verb!norm%1(verb)=repandre
 εκχυσ@noun!ις-εως%1(noun)=effusion%2(noun)=sortie
 ελασσω@noun!inv%1(noun)=plus petit
 ελαχιστ@adj!ος-η-ο%1(adj)=plus petit
@@ -407,6 +413,7 @@
 εξαγ@verb!norm%1(verb)=faireemerger%2(verb)=bannir%3(verb)=enlever%4(verb)=emmener
 εξερχ@verb!norm%1(verb)=passer%2(verb)=seterminer%3(verb)=sortir
 εξεριζ@verb!norm%1(verb)=ruiner
+εξιλασκ@verb!norm%1(verb)=apaiser
 επαγειρ@verb!norm%1(verb)=rassembler
 επεντιθη@verb!norm%1(verb)=
 εξεμπολημενων@noun!inv%1(adj)=vendus
@@ -423,6 +430,7 @@
 επιgen@prep%1(prep)=au temps de%2(prep)=à côté%3(prep)=dans le cas où%4(prep)=sous l'autorité de%5(prep)=sur
 επιdat@prep%1(prep)=au temps de%2(prep)=à côté%3(prep)=dans le cas où%4(prep)=sous l'autorité de%5(prep)=sur
 επιγινωσκ@verb!norm%1(verb)=reconnaitre
+επικει@verb!norm%1(verb)=reposersur
 επιζητ@verb!norm%1(verb)=souhaiter%2(verb)=rechercher
 επιμελως@prep%1(prep)=avec soin
 επιπεδ@noun!ος-ου%1(noun)=niveau%2(noun)=plan
@@ -430,6 +438,8 @@
 επιθυμι@noun!α-ας%1(noun)=concupiscence%2(noun)=désir
 επικουρ@adj!ος-ος-ον%1(adj)=épicure
 επιρρω@verb!norm%1(verb)=bouger
+επιστελλ@verb!norm%1(verb)=envoyerunelettre
+επιστρεφ@verb!norm%1(verb)=restaurer%2(verb)=revenir
 επιτελ@verb!norm%1(verb)=completer%2(verb)=accomplir
 επιστολ@noun!η-ης%1(noun)=lettre
 επιστροφ@noun!η-ης%1(noun)=retour
@@ -463,6 +473,7 @@
 ετοιμ@noun!ος-ος-ον%1(adj)=prêt
 ευ@noun!inv%1(noun)=bien
 ευαγγελι@noun!ον-ου%1(noun)=bonne nouvelle%2(noun)=évangile
+ευκλε@adj!ης-ης-ες%1(adj)=renommé%2(adj)=glorieux
 ευλογ@verb!norm%1(verb)=parler avec bienveillance%2(verb)=dire du bien,célébrer%3(verb)=honorer%4(verb)=benir
 ευρισκ@verb!norm%1(verb)=rencontrer%2(verb)=trouver
 ευρωπ@noun!η-ης%1(noun)=europe
@@ -500,6 +511,7 @@
 ηλι@noun!ος-ου%1(noun)=soleil
 ηλι@noun!ας-ου%1(noun)=élie
 ηλικι@noun!α-ας%1(noun)=âge
+ημας@prep%1(prep)=nous
 ημερ@noun!α-ας%1(noun)=jour
 ημερ@noun!η-ης%1(noun)=jour
 ημιν@prep%1(prep)=à nous
@@ -576,6 +588,7 @@
 ιφθιμ@adj!ος-η-ον%1(adj)=robuste
 ιωαθαμ@noun!inv%1(noun)=joatham
 ιωανν@noun!ης-ου%1(noun)=jean
+ιωνας@noun!inv%1(noun)=jonas
 ιωραμ@noun!inv%1(noun)=joram
 ιωσαφατ@noun!inv%1(noun)=josaphat
 ιωτα@noun!inv%1(noun)=iota
@@ -589,6 +602,7 @@
 και@prep%1(prep)=et
 καιν@noun!perso%1(adj)=caïn
 καιν@adj!ος-η-ον%1(adj)=nouveau
+καιπερ@prep%1(prep)=pourtant
 καιρε@noun!inv%1(noun)=salut
 καιρ@noun!ος-ου%1(noun)=saison%2(noun)=occasion%3(noun)=temps fixé
 καιρ@verb!norm%1(verb)=serejouir
@@ -607,12 +621,15 @@
 καταacc@prep%1(prep)=selon
 καταγ@verb!norm%1(verb)=abaisser
 κατακυριευ@verb!norm%1(verb)=dominer
+καταμανθαν@verb!norm%1(verb)=decouvrir
 καταντα@verb!norm%1(verb)=arriver
 καταστρεφ@verb!norm%1(verb)=detruire
+καταστροφ@noun!η-ης%1(noun)=catastrophe%2(noun)=ruine
 κατεργαζ@verb!norm%1(verb)=accomplir
 κατοικε@verb!norm%1(verb)=habiter
 κατω@prep%1(prep)=bas
 κατωτατω@prep%1(prep)=le plus bas
+κεν@adj!ος-η-ον%1(adj)=inutile%2(adj)=vain
 κεραυν@noun!ος-ου%1(noun)=éclairs
 κεφαλ@noun!η-ης%1(noun)=dirigeant%2(noun)=tête
 κηρυ@noun!ξ-κος%1(noun)=héraut
@@ -683,6 +700,7 @@
 μανθαν@verb!norm%1(verb)=percevoir%2(verb)=avoir l'habitude de%3(verb)=rechercher%4(verb)=comprendre%5(verb)=apprendre
 μαρι@noun!α-ας%1(noun)=marie
 μαριαμ@noun!inv%1(noun)=myriam
+μαται@adj!ος-η-ον%1(adj)=vain%2(adj)=inutile
 μαρτυρ@verb!norm%1(verb)=attester,donner l'assurance%2(verb)=temoigner
 μαρτυρι@noun!α-ας%1(noun)=témoignage
 μαρτυρησ@noun!ας-ου%1(noun)=témoignage
@@ -752,13 +770,16 @@
 νεφελ@noun!η-ης%1(noun)=nuée%2(noun)=nuage
 νεφ@noun!ος-εος%1(noun)=nuage
 νεφους@noun!inv%1(noun)=nuage
+νινευιτ@noun!η-ης%1(noun)=ninivite
 νοε@verb!norm%1(verb)=observer
 νομ@noun!ος-ου%1(noun)=loi
 νομιμ@noun!ος-ου%1(noun)=légitime%2(noun)=légal
 νομιζ@verb!norm%1(verb)=reconnaitre%2(verb)=pratiquer%3(verb)=considerer
+νουθετ@verb!norm%1(verb)=exhorter%2(verb)=instruire%3(verb)=conseiller
 νουσ@noun!ος-ου%1(noun)=peste
 νυ@noun!ξ-κτος%1(noun)=nuit
 νυν@prep%1(prep)=maintenant
+νωε@noun!inv%1(noun)=noé
 ξεν@noun!ος-ου%1(noun)=étranger
 ξηρ@adj!ος-α-ον%1(noun)=terre
 ξηροτερ@adj!ος-α-ον%1(adj)=le plus sec
@@ -793,6 +814,7 @@
 οναρ@noun!inv%1(noun)=rêve
 ονμβαινειν@noun!inv%1(noun)=enfermer
 ονομ@noun!α-ατος%1(noun)=nom
+οντες@prep%1(prep)=chose%2(prep)=étant
 οντων@prep%1(prep)=chose%2(prep)=étant
 οπως@prep%1(prep)=de telle façon que
 οπισω@prep%1(prep)=derrière%2(prep)=à nouveau
@@ -854,6 +876,7 @@
 παραβολ@noun!η-ης%1(noun)=comparaison%2(noun)=parabole
 παραγγελλ@verb!norm%1(verb)=ordonner
 παραγιγν@verb!norm%1(verb)=arriver
+παραδοσ@noun!ις-εως%1(noun)=transmission%2(noun)=tradition
 παρακαλ@verb!norm%1(verb)=demander%2(verb)=encourager%3(verb)=envoyer
 παραλαμβαν@verb!norm%1(verb)=recevoir
 παραπλησι@noun!ος-ου%1(noun)=ressemblant
@@ -866,6 +889,7 @@
 πασα@noun!inv%1(noun)=toute
 πασαι@noun!inv%1(noun)=toutes
 πασαν@noun!inv%1(noun)=toute
+πασας@prep%1(prep)=toutes
 παση@prep%1(prep)=toute
 πασης@prep%1(prep)=toute
 πασι@prep%1(prep)=tous
@@ -961,6 +985,7 @@
 προθυμι@noun!α-ας%1(noun)=disponibilité
 προιαπτ@verb!norm%1(verb)=envoyer
 προπετη@noun!inv%1(noun)=imprudent%2(noun)=énervé
+προσδεκτ@adj!ος-η-ον%1(adj)=favorable%2(adj)=approuvé
 προφητ@noun!ης-ου%1(noun)=prophète
 προφητευ@verb!norm%1(verb)=prophetiser
 προσωπ@noun!ον-ου%1(noun)=face%2(noun)=figure%3(noun)=visage
@@ -1008,6 +1033,7 @@
 σημει@noun!ον-ου%1(noun)=signe
 σιγμα@noun!inv%1(noun)=sigma
 σιωπ@verb!norm%1(verb)=setaire
+σκαμμ@noun!α-ατος%1(noun)=arène%2(noun)=fossé%3(noun)=tranchée
 σκοτ@noun!ος-ου%1(noun)=obscurité
 σοφ@noun!ος-η-ον%1(noun)=sage
 σοφι@noun!α-ας%1(noun)=sagesse
@@ -1077,10 +1103,12 @@
 τελων@noun!ης-ου%1(noun)=péagier%2(noun)=collecteur de taxes%3(noun)=douanier
 τερ@adj!ην-εινα-εν%1(adj)=delicat
 τερμ@noun!α-ατος%1(noun)=limite
+τερπν@adj!ος-η-ον%1(adj)=plaisant
 τεταρτ@adj!ος-η-ον%1(adj)=quatrième
 τετραπ@adj!ους-ους-ουν%1(adj)=quadrupède
 τευχ@verb!norm%1(verb)=realiser
 τιμ@noun!η-ης%1(noun)=prix%2(noun)=honneur
+τιμι@adj!ος-α-ον%1(adj)=coûteux%2(adj)=précieux
 τη@prep%1(prep)=la
 την@prep%1(prep)=la
 τηνδε@prep%1(prep)=ce
@@ -1156,11 +1184,12 @@
 υποδειγμ@noun!α-ατος%1(noun)=figure%2(noun)=imitation%3(noun)=exemple
 υποκατω@prep%1(prep)=au dessous
 υποκριτ@noun!ης-ου%1(noun)=hypocrite
+υπομιμνησκ@verb!norm%1(verb)=serappelerde
 υπομον@noun!η-ης%1(noun)=constance%2(noun)=persévérance
 υποταγ@noun!η-ης%1(noun)=obéissance%2(noun)=soumission
 υποτασσ@verb!norm%1(verb)=soumettre
 υποτιθη@verb!norm%1(verb)=voie moyenne:suggérer,ordonner,apprendre%2(verb)=placersous
-υποφερ@verb!norm%1(verb)=endurer
+υποφερ@verb!norm%1(verb)=offrir%2(verb)=endurer
 υστατ@adj!ος-η-ον%1(adj)=dernier
 υστερ@adj!ος-α-ον%1(adj)=tardif
 υστερημ@noun!α-ατος%1(noun)=déficience
@@ -1192,6 +1221,7 @@
 φορτ@noun!ος-ου%1(noun)=cargo
 φορε@verb!norm%1(verb)=porter
 φρονιμ@noun!ος-ου%1(noun)=sage
+φροντι@noun!ς-δος%1(noun)=attention%2(noun)=pensée pour%3(noun)=préoccupation
 φυγαδευ@verb!norm%1(verb)=exiler
 φυλακ@noun!η-ης%1(noun)=garde%2(noun)=prison
 φυλλ@noun!ον-ου%1(noun)=feuille
@@ -1205,7 +1235,7 @@
 χαλεπ@noun!ος-η-ον%1(adj)=difficile
 χαλεπως@noun!inv%1(noun)=difficilement
 χαρ@noun!α-ας%1(noun)=joie
-χαρι@noun!ς-τος%1(noun)=grâce
+χαρι@noun!ς-τος2%1(noun)=grâce
 χειρ@noun!x-ος2%1(noun)=main
 χηρ@noun!α-ας%1(noun)=veuve
 χι@noun!ος-ου%1(noun)=chio

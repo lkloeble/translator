@@ -36,7 +36,7 @@ apas%apas.txt
 ξ-γος%flox.txt
 ξ-κτος%nux.txt
 ρ-ρος%aer.txt
-ς-τος%xaris.txt
+ς-τος2%xaris.txt
 υς-εια-υ%brad.txt
 υς-εια-υ2%pakus.txt
 ης-ητος%omoiotns.txt
@@ -63,3 +63,4 @@ perso%perso.txt
 ας-ως%geras.txt
 ας-αδος%ellas.txt
 x-α-x%stas.txt
+ας-ασα-αν%poiesas.txt

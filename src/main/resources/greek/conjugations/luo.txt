@@ -29,6 +29,7 @@ AORPASSPART=>-x,-x,ηναι,εις,εισα,εν
 PRPARPASS=>-x,-x,-x,ομενων
 FUTPARTACT=>ειν|ιν,-x,-x,-x
 PRESPASPART=>-x,-x,ομενοι,ουμενοι
+PRESACTPARTB=>[ους-ουσα-ον]
 MIDPASSSUBJPRE=>ωμαι,η,ηται,ωμεθα|ωμεθ,ησθε,ωνται|εσθωσαν
 AORACTPART=>ας|ων,θεις,ουσαι,οντας,οντες
 PERACTPAR=>[ος-η-ον]

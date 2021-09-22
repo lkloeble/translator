@@ -390,6 +390,7 @@ einleitung@fem%norm
 einmutig@adj%ausreichend
 einweihung@fem%meinfem
 eisern@neut%inv
+einsicht@fem%meinfem
 einsichtig@adj%ausreichend
 eintragung@fem%meinfem
 einzeln@adj%ausreichend
@@ -1869,6 +1870,7 @@ wien@neut%inv
 widerspruch@masc%phanomen
 wilder@adj%ausreichend
 wille@fem%wille
+willkur@fem%inv
 willkurlich@adj%ausreichend
 wind@masc%phanomen
 winkel@masc%arbeiter

@@ -1,0 +1,8 @@
+noma%sing%fem%ie
+nomb%sing%fem%ia
+gena%sing%fem%ii
+genb%sing%fem%iei
+noma%plr%fem%ii
+noma%plr%fem%iile
+gena%plr%fem%ii
+genb%plr%fem%iilor

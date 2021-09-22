@@ -11,6 +11,7 @@ IMPMIDPASSIND=>ουμην,ου,ειτο,ουμεθα,εισθε,ουντο
 AORACTINF=>αι,ας,ασα,αν
 AORACTSUBJ=>ω,ης,η,ωμεν,ητε,ωσιν|ωσι
 AORACTPART=>[ας-ου]
+AORACTPARTB=>[ας-ασα-αν]
 AORPASIND=>ην,ης,η,ημεν,ητε,ησαν
 PRESACTPART=>[ος-η-ο]
 PRESACTPARTB=>[ους-ουσα-ον]

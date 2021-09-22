@@ -626,6 +626,7 @@ einschlaf@verb!norm%1(verb)=sendormir
 eintragung@noun!meinfem%1(noun)=inscription
 einpaar@prep%1(prep)=quelque
 eins@noun!inv%1(noun)=un
+einsicht@noun!meinfem%1(noun)=compréhension
 einsichtig@adj!ausreichend%1(adj)=raisonnable
 einstmals@prep%1(prep)=autrefois%2(prep)=jadis
 einstweilen@prep%1(prep)=entre-temps%2(prep)=en attendant
@@ -1976,7 +1977,7 @@ schauspielerisch@adj!ausreichend%1(adj)=théâtral
 scheck@noun!meinfem%1(noun)=chèque
 scheid@verb!norm%1(verb)=separer
 schein@verb!norm%1(verb)=briller
-schein@noun!phanomen%1(noun)=lueur
+schein@noun!phanomen%1(noun)=lueur%2(noun)=apparence
 scheinbar@prep%1(prep)=apparemment
 schelle@noun!flasche%1(noun)=pince
 schenk@noun!meinmasc%1(noun)=verseur
@@ -2691,6 +2692,7 @@ wieviel@prep%1(prep)=combien
 wider@prep%1(prep)=contre
 wilder@adj!ausreichend%1(adj)=plus sauvage
 wille@noun!wille%1(noun)=volonté
+willkur@noun!inv%1(noun)=despotisme
 willkurlich@adj!ausreichend%1(adj)=aléatoire
 wind@noun!phanomen%1(noun)=vent
 wink@verb!norm%1(verb)=fairesigne

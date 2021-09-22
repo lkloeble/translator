@@ -110,16 +110,16 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "αποπλ,ειν,[εω-εις],(PRESACTPARTB*αποπλ*αποπλε)"
+                "ποι,ειν,[εω-εις],(AII*ποι*εποι@ACAOIN*ποι*εποιησ@PERMIDPASSINF*ποι*πεποιη@AIF*ποι*ποιησ@IMPMIDPASSIND*ποι*εποι@AORACTSUBJ*ποι*ποιησ@AORACTPARTBIS*ποι*ποιησ)"
         });
-         */
+        */
         return getFileContentForRepository(verbFileDescription);
     }
 
     private List<String> getCustomVerbDefinitions() {
         return Arrays.asList(new String[]{
-                //"IPR=>ω,εις,ει,ουμεν,ειτε,ουσιν|ουσι",
-                "PRESACTPARTB=>[ους-ουσα-ον]"
+                "IPR=>ω,εις,ει,ουμεν,ειτε,ουσιν|ουσι",
+                "AORACTPARTBIS=>[ας-ασα-αν]"
         });
     }
 
@@ -689,121 +689,6 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("lxxgen1EE", translatorBridge);
     }
 
-    @Test
-    public void test_clement1() {
-        checkInMaps("clement1A", translatorBridge);
-        checkInMaps("clement1B", translatorBridge);
-        checkInMaps("clement1C", translatorBridge);
-        checkInMaps("clement1D", translatorBridge);
-        checkInMaps("clement1E", translatorBridge);
-        //checkInMaps("clement1F", translatorBridge);
-        checkInMaps("clement1G", translatorBridge);
-        checkInMaps("clement1H", translatorBridge);
-        checkInMaps("clement1I", translatorBridge);
-        checkInMaps("clement1J", translatorBridge);
-        checkInMaps("clement1K", translatorBridge);
-        //checkInMaps("clement1L", translatorBridge);
-        checkInMaps("clement1M", translatorBridge);
-        checkInMaps("clement1N", translatorBridge);
-        //checkInMaps("clement1O", translatorBridge);
-    }
-
-    @Test
-    public void test_clement2() {
-        //checkInMaps("clement2A1", translatorBridge);
-        checkInMaps("clement2A2", translatorBridge);
-        //checkInMaps("clement2B1", translatorBridge);
-        checkInMaps("clement2B2", translatorBridge);
-        checkInMaps("clement2C1", translatorBridge);
-        checkInMaps("clement2C2", translatorBridge);
-        checkInMaps("clement2C3", translatorBridge);
-        //checkInMaps("clement2C4", translatorBridge);
-        checkInMaps("clement2D1", translatorBridge);
-        checkInMaps("clement2D2", translatorBridge);
-        checkInMaps("clement2E", translatorBridge);
-        checkInMaps("clement2F1", translatorBridge);
-        checkInMaps("clement2F2", translatorBridge);
-        //checkInMaps("clement2F3", translatorBridge);
-        checkInMaps("clement2G", translatorBridge);
-        checkInMaps("clement2H", translatorBridge);
-        checkInMaps("clement2I", translatorBridge);
-    }
-
-    @Test
-    public void test_clement3() {
-        checkInMaps("clement3A", translatorBridge);
-        checkInMaps("clement3B", translatorBridge);
-        checkInMaps("clement3C", translatorBridge);
-        checkInMaps("clement3D", translatorBridge);
-        checkInMaps("clement3E", translatorBridge);
-        checkInMaps("clement3F", translatorBridge);
-        checkInMaps("clement3G", translatorBridge);
-        checkInMaps("clement3H", translatorBridge);
-        checkInMaps("clement3I", translatorBridge);
-        checkInMaps("clement3J", translatorBridge);
-    }
-
-    @Test
-    public void test_clement4() {
-        checkInMaps("clement4A1", translatorBridge);
-        checkInMaps("clement4A2", translatorBridge);
-        checkInMaps("clement4B", translatorBridge);
-        checkInMaps("clement4C", translatorBridge);
-        checkInMaps("clement4D1", translatorBridge);
-        checkInMaps("clement4D2", translatorBridge);
-        checkInMaps("clement4E", translatorBridge);
-        checkInMaps("clement4F1", translatorBridge);
-        checkInMaps("clement4F2", translatorBridge);
-        checkInMaps("clement4F3", translatorBridge);
-        checkInMaps("clement4G", translatorBridge);
-        checkInMaps("clement4H", translatorBridge);
-        checkInMaps("clement4I", translatorBridge);
-        checkInMaps("clement4J1", translatorBridge);
-        checkInMaps("clement4J2", translatorBridge);
-        checkInMaps("clement4J3", translatorBridge);
-        checkInMaps("clement4K", translatorBridge);
-        checkInMaps("clement4L", translatorBridge);
-        checkInMaps("clement4M1", translatorBridge);
-        checkInMaps("clement4M2", translatorBridge);
-    }
-
-    @Test
-    public void test_clement5() {
-        checkInMaps("clement5A1", translatorBridge);
-        checkInMaps("clement5A2", translatorBridge);
-        checkInMaps("clement5A3", translatorBridge);
-        checkInMaps("clement5B1", translatorBridge);
-        checkInMaps("clement5B2", translatorBridge);
-        checkInMaps("clement5C1", translatorBridge);
-        checkInMaps("clement5D1", translatorBridge);
-        checkInMaps("clement5D2", translatorBridge);
-        checkInMaps("clement5D3", translatorBridge);
-        checkInMaps("clement5E1", translatorBridge);
-        checkInMaps("clement5F1", translatorBridge);
-        checkInMaps("clement5F2", translatorBridge);
-        checkInMaps("clement5F3", translatorBridge);
-        checkInMaps("clement5G1", translatorBridge);
-        checkInMaps("clement5G2", translatorBridge);
-        checkInMaps("clement5G3", translatorBridge);
-        checkInMaps("clement5G4", translatorBridge);
-    }
-
-    @Test
-    public void test_clement6() {
-        checkInMaps("clement6A1", translatorBridge);
-        checkInMaps("clement6A2", translatorBridge);
-        checkInMaps("clement6A3", translatorBridge);
-        checkInMaps("clement6A4", translatorBridge);
-        checkInMaps("clement6B1", translatorBridge);
-        checkInMaps("clement6B2", translatorBridge);
-        checkInMaps("clement6B3", translatorBridge);
-        checkInMaps("clement6B4", translatorBridge);
-        checkInMaps("clement6C1", translatorBridge);
-        checkInMaps("clement6C2", translatorBridge);
-        checkInMaps("clement6C3", translatorBridge);
-        checkInMaps("clement6D1", translatorBridge);
-        checkInMaps("clement6D2", translatorBridge);
-    }
 
 
     @Test

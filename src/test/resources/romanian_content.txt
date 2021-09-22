@@ -64,7 +64,7 @@ assimil5E=>da cu plăcere. Am nevoie de o cafea tare, fără zahăr.
 assimil5F=>ești destul de palid. Ești bolnav ?
 assimil5G=>nu, deloc, dar@P sînt foarte obosit.
 assimil5H=>cred că lucrezi prea mult.
-assimil5I=>ai nevoie de o zi de odihnă, nu-i așa ?
+assimil5I=>ai nevoie de o zi de odihnă@N, nu-i așa ?
 assimil5J=>ai dreptate. Mai ales după o noapte de petrecere.
 assimil5K=>bună dimineața, ești grăbit ?
 assimil5L=>nu sînt grăbit, am timp
@@ -127,7 +127,7 @@ assimil10E=>eu ? eu sînt singur, nu sînt înca însurat.
 assimil10F=>mai aștept, mai caut...
 assimil10G=>te cunosc eu, ești prea nehotărît !
 assimil10H=>sau ceri prea mult de la femei...
-assimil10I=>n-ai dreptate, nu cer nimic extraordinar !
+assimil10I=>n-ai dreptate, nu cer@V nimic extraordinar !
 assimil10J=>caut o femeie normală, blondă, brunetă sau roscată,
 assimil10K=>dar@P neapărat tînără, frumoasă, inteligentă, bogată și harnică
 assimil10L=>sînt casatorit si am cinci copii
@@ -569,6 +569,53 @@ staniloaeP20P2B=>tuturor persoanelor umane împlinirea sensului lor,
 staniloaeP20P2C=>acordându-le în acelaşi timp posibilitatea unei veşnice şi perfecte comuniuni între ele înseşi.
 
 
+staniloaeEndChap1_01=>Raţionalitatea subiectului care se serveşte conştient - în scopul dăinuirii şi al bunei sale dezvoltări - de raţionalitatea naturii este infinit superioară acesteia,
+staniloaeEndChap1_02=>întrucât natura se desfăşoară în sine rigid şi fără conştiinţa unui scop al ei.
+staniloaeEndChap1_03=>Potrivit credinţei noastre, raţionalitatea care există în univers se cere completată, îşi cere o explicaţie în raţionalitatea persoanei.
+staniloaeEndChap1_04=>Ea nu epuizează toată raţionalitatea. Raţionalitatea aceasta, privită în sine ca singura existentă, a făcut pe mulţi scriitori şi gânditori moderni să meargă până acolo încât să considere universul,
+staniloaeEndChap1_05=>care duce orice persoană la moarte, ca o uriaşă necropolă, ca un univers al absurdului, al lipsei de sens, al unei raţionalităţi iraţionale.
+staniloaeEndChap1_06=>Raţionalitatea universului nu poate fi însă iraţională sau absurdă. Dar ea îşi capătă sensul deplin când e considerată ca avându-şi izvorul într-o persoană raţională,
+staniloaeEndChap1_07=>care se serveşte de ea pentru un dialog etern al iubirii cu alte persoane.
+staniloaeEndChap1_08=>Deci raţionalitatea lumii implică pentru împlinirea ei existenţa unui subiect superior, după analogia superiorităţii raţionale a persoanei umane,
+staniloaeEndChap1_09=>a unui subiect liber care a creat şi a imprimat lumii o raţionalitate la nivelul înţelegerii umane, pentru un dialog cu omul,
+staniloaeEndChap1_10=>prin care omul să fie condus spre o comuniune eternă şi superior raţională cu infinitul subiect creator. Tot ce e obiect raţional este numai mijlocul unui dialog interpersonal.
+staniloaeEndChap1_11=>Deci lumea ca obiect e numai mijlocul unui dialog de gânduri şi de fapte iubitoare între Persoana raţională supremă şi persoanele raţionale umane, ca şi între acestea înseşi.
+staniloaeEndChap1_12=>Universul poartă marca pe care i-o dă originea sa în Persoana creatoare raţională şi destinaţia sa de a fi mijlocul unui dialog interpersonal dintre acea Persoană şi persoanele umane,
+staniloaeEndChap1_13=>în vederea eternizării lor în acea fericire a comuniunii dintre ele.
+staniloaeEndChap1_14=>Tot universul poartă marca unei raţionalităţi personale destinate eternizării persoanelor umane.
+staniloaeEndChap1_15=>Numai în participarea eternă la infinitatea acestei Persoane supreme, fiinţa noastră socoteşte că-şi va vedea împlinit sensul.
+staniloaeEndChap1_16=>în aceasta constă înţelesul doctrinei creştine ortodoxe despre îndumnezeirea fiinţei noastre prin participare la Dumnezeu sau prin har.
+staniloaeEndChap1_17=>Cu alte cuvinte, fiinţa noastră socoteşte că sensul ei şi odată cu aceasta sensul întregii realităţi se va împlini numai prin faptul că între persoana noastră şi
+staniloaeEndChap1_18=>Persoana supremă sau dumnezeiască nu există loc pentru o existenţă intermediară: omul după Dumnezeu, e într-un fel imediat, putându-se împărtăşi nemijlocit de tot ce are EI ca treaptă a supremei existenţe, rămânând însă om.
+staniloaeEndChap1_19=>Pentru atingerea acestui scop, sau pentru împlinirea acestui sens adevărat spre care tinde fiinţa noastră, nu numai noi urcăm la comuniunea cu Persoana supremă, ci şi acea Persoană Se coboară la noi.
+staniloaeEndChap1_20=>Căci iubirea cere mişcarea fiecăruia din cei ce se iubesc, spre celălalt. Dumnezeu Se dăruieşte prin toate omului, iar omul, lui Dumnezeu.
+staniloaeEndChap1_21=>Acesta e în general conţinutul credinţei impus de sensul existenţei. Această credinţă se impune cu evidenţă naturală. Şi departe de a stingheri dezvoltarea creaţiei, ea asigură această dezvoltare la infinit şi în eternitate, aşa cum aspiră omul.
+staniloaeEndChap1_22=>Credinţa aceasta dă expresie faptului incontestabil că lumea e făcută pentru un sens, deci e produsul unui Creator dătător de sens,
+staniloaeEndChap1_23=>că e condusă de acest Creator spre împlinirea sensului ei în El însuşi, iar în vederea acestui scop Creatorul însuşi conduce fiinţa noastră spre unirea cea mai strânsă cu El.
+staniloaeEndChap1_24=>Aceste puncte ale credinţei sunt un fel de dogme naturale, având izvorul în ceea ce se numeşte revelaţia naturală prin care Dumnezeu Se face cunoscut din însuşi faptul că a creat lumea şi pe om, imprimând în ele sensurile amintite.
+staniloaeEndChap1_25=>Aceste puncte ale credinţei sunt o recunoaştere a faptului că lumea culminează în persoana umană care se mişcă spre unirea cu Persoana supremă, ca spre scopul ei final.
+staniloaeEndChap1_26=>Dogmele acestea ale credinţei naturale susţin menţinerea vieţii în planul superior al sensurilor şi dinamismul ascendent al persoanelor umane purtătoare ale acestor sensuri spre sensul deplin care este eternizarea în unirea cu Persoana supremă.
+staniloaeEndChap1_27=>Departe de a reduce existenţa la un orizont închis, ele îi deschid orizontul infinitului, căutând să o scape din orizontul îngust şi monoton care se încheie cu moartea.
+staniloaeEndChap1_28=>Sfântul Maxim Mărturisitorul descrie dinamismul ascendent al lumii astfel:
+staniloaeEndChap1_29=>"Ţinta finală a mişcării celor ce se -mişcă este să ajungă la veşnica existenţă bună, precum începutul lor este în existenţa care e Dumnezeu.
+staniloaeEndChap1_30=>Căci El este atât dătătorul existenţei cât şi dăruitorul existenţei celei bune, ca început şi ţintă a ei" (2)
+staniloaeEndChap1_31=>2 . Fiinţa umană nu se poate odihni până nu se eternizează în infinitatea şi deci în fericirea existenţei depline. Fericitul Augustin a spus: "Inquietum est cor noster donec requiescat in Te".
+staniloaeEndChap1_32=>2. Ambigua; P.G., 91, col. 1073.
+staniloaeEndChap1_33=>Dar sensurile existenţei, inclusiv sensul ei final, oricât de evidente apar, nu se impun în mod ştiinţific, cum se impun fenomenele naturii prin faptul că se repetă în mod uniform şi pot fi supuse experimentării.
+staniloaeEndChap1_34=>De aceea, acceptarea lor fermă are caracterul unei credinţe.
+staniloaeEndChap1_35=>Mai bine zis, în recunoaşterea lor se îmbină într-un mod paradoxal evidenţa lor şi necesitatea acceptării lor în mod voit pentru menţinerea existenţei umane
+staniloaeEndChap1_36=>pe un plan superior unei existenţe naturale a repetiţiei încheiate prin moarte, deci în acceptarea lor intră şi faptul libertăţii.
+staniloaeEndChap1_37=>Persoana semenului meu îmi revelează nişte sensuri ale ei, dar recunoaşterea lor depinde, pe de altă parte, de libertatea mea. Acceptarea lor liberă presupune credinţa.
+staniloaeEndChap1_38=>Această acceptare prin credinţă este proprie domeniului relaţiei între persoana umană şi Persoana divină şi desăvârşirii ei pe planul eternităţii, oricât de evidentă apare necesitatea acestei relaţii şi desăvârşirea ei în eternitate ca sens al existenţei.
+staniloaeEndChap1_39=>Domeniul acesta e un domeniu al sintezei între evidenţă şi credinţă, pentru că e un domeniu al libertăţii şi al spiritului.
+staniloaeEndChap1_40=>De aceea, Sfântul |Isaac| |Şirul| spune despre credinţă că e "mai subţire decât cunoştinţa lucrurilor sensibile", sau "mai înaltă" decât aceea.
+staniloaeEndChap1_41=>Pe de altă parte, având în vedere că credinţa se îmbină cu evidenţa unui domeniu superior, tot el spune:
+staniloaeEndChap1_42=>"Cunoştinţa se desăvârşeşte în credinţă şi primeşte putere să înţeleagă şi să simtă pe Cel ce e mai presus de orice senzaţie şi să vadă lumina cea necuprinsă de minte şi de cunoştinţa creaturilor...
+staniloaeEndChap1_43=>Credinţa deci ne arată de pe acum adevărul desăvârşirii, şi în credinţa noastră aflăm cele necuprinse şi care nu stau în puterea cercetării şi a cunoştinţei" (3) .
+staniloaeEndChap1_44=>Dar atât ca conţinut cât şi ca putere de acceptare, credinţa naturală sau credinţa bazată pe revelaţia naturală are nevoie de completarea ei prin credinţa ce ni se dăruieşte prin Revelaţia supranaturală.
+staniloaeEndChap1_45=>3. Ta eopeGevra aaxi' rl X a > Atena, 1893, p. 254.
+
+
 https://archive.org/stream/dumitru-staniloae-teologia-dogmatica-ortodoxa-vol-i/dumitru-staniloae-teologia-dogmatica-ortodoxa-vol-i_djvu.txt
 
 ă
@@ -656,7 +703,7 @@ filocaliaantonie6C=>Căci țintuindu-ne de acestea ne vom îneca în greutățil
 filocaliaantonie6D=>Iată cum din pofta noastră cea de voie se adapă moartea
 filocaliaantonie6E=>și cum rătăcim în întunericul unei vieți cu păcate, necunoscîndu-ne pe noi înșine.
 
-urzeala1A=>ar trebui să ne întoarcem, ceru Gared pe când desișurile începură să se întunece  tot mai tare în jurul lor. Ierburile sunt moarte.
+urzeala1A=>ar trebui să ne întoarcem, ceru@V Gared pe când desișurile începură să se întunece  tot mai tare în jurul lor. Ierburile sunt moarte.
 urzeala1B=>moartea te înspăimântă ? întrebă ser |Waymar| |Royce| cu umbra unui zâmbet.
 urzeala1C=>gared nu mușcă din momeală. Era un om bătrân, trecut de cincizeci de ani, și văzuse destui stăpâni venind și plecând.
 urzeala1D=>ce-i mort e mort zise el. Nu avem nimic cu ce-i mort.
@@ -669,7 +716,7 @@ urzeala1I2=>Să nu crezi niciodată ce auzi la țâța unei femei.
 urzeala1I3=>Există lucruri care pot fi învățate chiar și de la morți.
 urzeala1J=>glasul său se reverbera, poate prea puternic, prin pădurea întunecată.
 urzeala1K=>Avem un drum lung înaintea noastră, sublinie Gared. Opt zile, poate nouă. și noapte se aproprie.
-urzeala1L=>Ser |Waymar| Royce privi spre cer fără niciun interes.
+urzeala1L=>Ser |Waymar| Royce privi spre cer@N fără niciun interes.
 urzeala2A=>așa se întâmplă în fiecare zi pe vremea asta. Îți piere curajul pe întuneric, Gared  ?
 urzeala2B=>Will putea vedea încordarea gurii lui Gared, furia abia stăpânită din ochii lui, sub gluga neagră și groasă.
 urzeala2C=>Gared petrecuse@1 patruzeci de ani în rondul de noapte, bărbat și băiat, și nu era obișnuit să fie luat în râs.
@@ -964,7 +1011,7 @@ bocaseumpluA903=>şi de sfădirile pentru lege, fereşte-te, căci sunt nefolosi
 bocaseumpluA904=>10.	De omul eretic, după întâia şi a doua mustrare, depărtează-te,
 bocaseumpluA905=>11.	Ştiind că unul ca acesta s-a abătut şi a căzut în păcat, fiind singur de sine osândit. (Tit 3:9-11)
 bocaseumpluA906=>... dar@P curiozitatea minților trufașe nu poate suferi această modestie.
-bocaseumpluA907=>"Valurile se ridică până la cer și se pogoară până in străfunduri" - zice Scriptura (Ps 106:25-26)
+bocaseumpluA907=>"Valurile se ridică până la cer@N și se pogoară până in străfunduri" - zice Scriptura (Ps 106:25-26)
 bocaseumpluA908=>"... Ei sunt tulburați ca bețivii. În capul lor e huruială. Acolo toată înțelepciunea lor se împrăștie și pierzând drumul,
 bocaseumpluA909=>rătăcesc și se înfundă în erezii. Arie, Nestorie..., curiozitatea voastră v-a pierdut" (Bossuet Pg 210)
 bocaseumpluA110=>Singurul remediu sigur : ascultarea de Biserică.
@@ -1014,7 +1061,7 @@ patericulegyptantonie1J=>și, făcând așa, se mântuia.
 patericulegyptantonia2A=>|Cronie|, preotul Nitriei, ne-a istorisit nouă că fericitul Antonie povestea :
 patericulegyptantonia2B=>"un an întreg m-am rugat să mi descopere locul drepților și al pacatoșilor.
 patericulegyptantonia2C=>și am văzut un uriaș care ajungea până la nori.
-patericulegyptantonia2D=>Era negru și avea mâinile întinse până la cer, și sub el se afla un lac având măsura mării.
+patericulegyptantonia2D=>Era negru și avea mâinile întinse până la cer@N, și sub el se afla un lac având măsura mării.
 patericulegyptantonia2E=>Și am văzut suflete zburând ca niște păsări.
 patericulegyptantonia2F=>Cele ce zburau deasupra mâinilor și capului uriașului se mântuiau.
 patericulegyptantonia2G=>Dimpotrivă, cele ce erau prinse de mâinile lui cădeau în lac.
@@ -1049,8 +1096,11 @@ patericulegyptantonia6B=>"Acestea este lucrarea cea mare a omului :
 patericulegyptantonia6C=>greşeala lui să o pună asupra sa înaintea lui Dumnezeu
 patericulegyptantonia6D=>şi să aştepte ispita până la răsuflarea cea mai de pe urmă."
 
+patericulegyptantonia7A=>Acelaşi a zis :  nimeni neispitit nu va putea să intre în Împărăţia Cerurilor.
+patericulegyptantonia7B=>Că, ridică, zice, ispitele, şi nimeni nu este care să se mântuiască.
 
-urlpatericaulegypt=>http://www.pateric.ro/despre-avva-antonie/
+
+urlpatericaulegypt=>fichier pdf pateric egypt
 
 stanibotez01=>Necesitatea absolută a Botezului pentru mântuire și Botezul copiilor.
 stanibotez02=>Dacă Botezul produce, prin unirea cu Hristos, desființarea păcatului originar al despărțirii de Dumnezeu,
@@ -1078,7 +1128,7 @@ stanibotez22=>Vom viețui împreună cu Hristos, pe Care moartea nu-L mai stăp�
 
 url2=>https://ro.orthodoxwiki.org/Patericul_egiptean#Pentru_avva_Antonie
 
-toto=>țintuindu-ne
+toto=>nu va putea sa intre
 ă
 ș
 ț

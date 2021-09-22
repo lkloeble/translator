@@ -8,4 +8,5 @@
 ευω-εις%mvinsteuw.txt
 ω-οις%meiw.txt
 ω-ης%zaw.txt
+μαι-σαι%keimai.txt
 unknown%unknown.txt
