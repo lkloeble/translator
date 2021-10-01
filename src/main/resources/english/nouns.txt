@@ -24,6 +24,7 @@ agreement@masc%normmasc
 air@neut%invmasc
 airport@masc%normmasc
 akkadian@neut%normmasc
+akibah@masc%invmasc
 alleged@neut%invmasc
 allusion@neut%normmasc
 alone@neut%normmasc
@@ -39,6 +40,7 @@ ancestr@fem%endy
 ancient@neut%normmasc
 anciently@neut%invmasc
 and@neut%invmasc
+anger@neut%invmasc
 animal@neut%normmasc
 angry@adj%invmasc
 anna@fem%invfem
@@ -125,6 +127,7 @@ bob@neut%invmasc
 bod@neut%endy
 boding@neut%invmasc
 boiled@neut%invmasc
+bond@neut%normmasc
 bondage@neut%invmasc
 bone@neut%normmasc
 book@neut%normmasc
@@ -215,6 +218,7 @@ civill@adj%invmasc
 classical@adj%normmasc
 clause@fem%normfem
 clay@neut%normmasc
+class@masc%church
 clean@adj%invmasc
 clear@adj%invmasc
 cloudy@neut%invmasc
@@ -246,10 +250,12 @@ conception@fem%normfem
 concert@neut%normmasc
 concord@neut%invmasc
 condition@neut%normmasc
+confidence@neut%normmasc
 confine@neut%normmasc
 congratulation@neut%normmasc
 congregation@neut%normmasc
 conjecture@neut%normmasc
+conqueror@neut%normmasc
 conscious@adj%invmasc
 consequence@fem%normfem
 conservative@adj%normmasc
@@ -285,6 +291,7 @@ cow@neut%normmasc
 craftsman@neut%normmasc
 creation@fem%normfem
 creature@neut%normmasc
+credible@adj%normmasc
 crime@neut%normmasc
 crisp@neut%normmasc
 crucial@adj%normmasc
@@ -418,11 +425,13 @@ erastian@adj%normmasc
 essene@neut%normmasc
 essential@neut%invmasc
 etc@neut%invmasc
+eternal@adj%normmasc
 ethic@neut%normmasc
 euphrates@neut%invmasc
 eusebius@neut%invmasc
 evening@neut%invmasc
 eve@neut%invfem
+everlasting@neut%invmasc
 evil@neut%invmasc
 exact@neut%normmasc
 exaggeration@fem%normfem
@@ -448,6 +457,8 @@ ezekiel@masc%invmasc
 ezra@masc%invmasc
 face@masc%normmasc
 facing@neut%invmasc
+fainting@neut%invmasc
+fame@masc%normmasc
 famed@adj%invmasc
 famous@adj%invmasc
 fantastic@neut%invmasc
@@ -484,11 +495,13 @@ flavour@fem%invfem
 fleet@fem%invfem
 flesh@fem%invfem
 flock@neut%normmasc
+floor@neut%normmasc
 fluently@neut%invmasc
 flute@fem%normfem
 fol@neut%invmasc
 folio@neut%invmasc
 food@fem%normfem
+fool@neut%normmasc
 foot@neut%invmasc
 footnote@neut%normmasc
 footstep@neut%normmasc
@@ -517,6 +530,7 @@ galilee@neut%invmasc
 galler@fem%endy
 gallon@neut%normmasc
 gallows@neut%invmasc
+gamaliel@neut%invmasc
 game@neut%normmasc
 garden@neut%normmasc
 gate@neut%normmasc
@@ -551,6 +565,7 @@ goodness@neut%invmasc
 gospel@neut%normmasc
 grandson@masc%normmasc
 grass@neut%invmasc
+grave@neut%normmasc
 great@adj%invmasc
 greater@adj%invmasc
 greatest@adj%invmasc
@@ -569,6 +584,7 @@ haggai@masc%invmasc
 hagigah@neut%invmasc
 half@neut%invmasc
 hall@neut%normmasc
+hammer@neut%normmasc
 hampstead@neut%invmasc
 hand@neut%normmasc
 handling@neut%invmasc
@@ -583,6 +599,7 @@ haven@neut%normmasc
 havilah@neut%invmasc
 hazard@neut%normmasc
 head@neut%normfem
+headship@neut%normmasc
 health@neut%invmasc
 heart@neut%normmasc
 heathen@neut%normmasc
@@ -657,6 +674,7 @@ instruction@neut%normmasc
 intended@adj%invmasc
 intent@adj%invmasc
 intercalation@neut%invmasc
+intercession@neut%invmasc
 interest@masc%normmasc
 interesting@neut%invmasc
 interpretation@fem%normfem
@@ -669,7 +687,9 @@ isaiah@neut%invmasc
 isle@fem%normfem
 israel@neut%invmasc
 israelite@neut%normmasc
+itinerar@neut%endy
 jabal@masc%invmasc
+jabneh@neut%invmasc
 james@masc%invmasc
 jealous@neut%invmasc
 jeremiah@masc%invmasc
@@ -680,6 +700,7 @@ jew@neut%normmasc
 jewish@neut%invmasc
 jn@neut%invmasc
 job@masc%normmasc
+jochanan@neut%invmasc
 john@neut%invmasc
 jonah@neut%invmasc
 joppa@neut%invmasc
@@ -707,6 +728,7 @@ kenite@neut%normmasc
 kernel@neut%normmasc
 key@neut%normmasc
 kid@masc%normmasc
+killing@masc%normmasc
 kind@masc%normmasc
 king@masc%normmasc
 kingdom@masc%normmasc
@@ -718,8 +740,10 @@ lamb@masc%normmasc
 lamech@masc%invmasc
 land@neut%normmasc
 language@neut%normmasc
+languishing@adj%invmasc
 last@adj%invmasc
 late@neut%invmasc
+latest@neut%invmasc
 latin@neut%normmasc
 latine@neut%normmasc
 laura@fem%invfem
@@ -820,6 +844,7 @@ mile@neut%normmasc
 milk@neut%invmasc
 mind@neut%invmasc
 minded@neut%invmasc
+miserable@adj%normmasc
 mishna@neut%invmasc
 mishnaic@adj%invmasc
 mist@neut%normmasc
@@ -931,6 +956,7 @@ pain@masc%normmasc
 palestine@neut%invmasc
 palestinian@adj%normmasc
 palm@neut%normmasc
+paradise@masc%normmasc
 paragraph@masc%normmasc
 parallel@neut%normmasc
 paraphrast@neut%normmasc
@@ -952,6 +978,7 @@ performe@neut%invmasc
 persecution@fem%normfem
 person@neut%normmasc
 personal@adj%invmasc
+pharisee@masc%normmasc
 philistine@neut%normmasc
 phoenice@neut%invmasc
 phoenicia@neut%invmasc
@@ -960,6 +987,7 @@ physical@adj%normmasc
 phone@neut%invmasc
 phrase@fem%normfem
 piano@neut%invmasc
+pillar@masc%normmasc
 pint@fem%normfem
 pishon@neut%invmasc
 place@fem%normfem
@@ -994,6 +1022,7 @@ preposition@fem%normfem
 presence@fem%normfem
 present@masc%normmasc
 preserveth@neut%invmasc
+president@masc%normmasc
 pretence@neut%normmasc
 pretty@adj%invmasc
 previous@adj%invmasc
@@ -1021,6 +1050,7 @@ proscription@fem%normfem
 proselyte@neut%normmasc
 protection@neut%normmasc
 protestant@neut%normmasc
+proverb@neut%normmasc
 providence@neut%invmasc
 provision@neut%normmasc
 psalm@neut%normmasc
@@ -1035,6 +1065,7 @@ question@neut%normmasc
 quotation@fem%normfem
 r@neut%invmasc
 rab@neut%normmasc
+rabban@neut%normmasc
 rabbi@neut%normmasc
 rabbin@neut%normmasc
 railway@neut%normmasc
@@ -1064,6 +1095,7 @@ rejection@neut%normmasc
 related@masc%invmasc
 relation@fem%normfem
 religion@fem%normfem
+remembrance@neut%normmasc
 remote@masc%invmasc
 reprinted@neut%normmasc
 restaurant@neut%normmasc
@@ -1107,6 +1139,7 @@ samaria@fem%invfem
 samaritan@masc%normmasc
 same@neut%normmasc
 samson@neut%invmasc
+samuel@neut%invmasc
 sand@neut%normmasc
 sandy@adj%invmasc
 sanhedrim@neut%invmasc
@@ -1167,6 +1200,7 @@ sign@masc%normmasc
 significance@masc%normmasc
 silence@neut%normmasc
 silent@adj%normmasc
+simeon@masc%invmasc
 similitude@fem%normmasc
 simon@masc%invmasc
 sin@masc%normmasc
@@ -1177,6 +1211,7 @@ six@neut%invmasc
 sixth@neut%invmasc
 sixty@neut%invmasc
 skin@neut%normmasc
+slain@neut%invmasc
 sleep@masc%invmasc
 small@adj%invmasc
 societ@fem%endy
@@ -1224,6 +1259,7 @@ stock@neut%normmasc
 strabo@neut%invmasc
 strength@fem%church
 string@fem%normfem
+strong@adj%normmasc
 stone@fem%normfem
 storehouse@neut%normmasc
 stor@fem%endy
@@ -1262,6 +1298,7 @@ targumist@neut%normmasc
 tea@neut%normmasc
 teacher@neut%normmasc
 teaching@neut%normmasc
+tear@neut%normmasc
 temple@neut%normmasc
 ten@neut%invmasc
 tendenc@fem%endy
@@ -1293,10 +1330,12 @@ time@neut%normmasc
 tiny@adj%invmasc
 tithe@masc%normmasc
 title@masc%normmasc
+titus@neut%invmasc
 tm@neut%invmasc
 today@neut%invmasc
 toil@neut%invmasc
 tomb@neut%normmasc
+tomorrow@neut%invmasc
 tongue@neut%normmasc
 top@neut%normmasc
 torment@neut%normmasc
@@ -1339,7 +1378,7 @@ underemphasis@neut%invmasc
 unhappy@adj%invmasc
 uninhabited@neut%invmasc
 unit@neut%endy
-university@fem%invfem
+universit@fem%endy
 unknown@neut%invmasc
 unsatisfactory@neut%invmasc
 unusual@adj%invmasc
@@ -1433,5 +1472,6 @@ yes@neut%invmasc
 young@masc%normmasc
 your@neut%invmasc
 youth@adj%normmasc
+zaccai@masc%invmasc
 zechariah@masc%invmasc
 zillah@fem%invfem

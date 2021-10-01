@@ -25,14 +25,15 @@ public class EnglishVerbDefinition extends VerbDefinition {
             return;
         }
         root = nameForms[0];
-        baseConjugationRoot = nameForms[0];
-        conjugationPattern = removeBrackets(nameForms[1]);
+        String supplementToRoot = nameForms[1];
+        baseConjugationRoot = root;
+        conjugationPattern = removeBrackets(nameForms[2]);
         alternateRootByTime = nameForms.length == 4 ? createAlternateRoot(removeBrackets(nameForms[3])) : null;
-        String translationDefinition = nameForms.length == 3 ? removeParenthesis(nameForms[2]) : null;
+        String translationDefinition = nameForms.length == 4 ? removeParenthesis(nameForms[3]) : null;
         if(translationDefinition != null && isNotARulePattern(translationDefinition)) {
             translationInformationReplacement = new TranslationInformationReplacement2(translationDefinition);
         }
-        infinitiveForm = "to " + baseConjugationRoot;
+        infinitiveForm = "to " + baseConjugationRoot + supplementToRoot;
     }
 
     @Override

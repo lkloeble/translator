@@ -1,2 +1,4 @@
 IPR=>y,y,ies,y,y,y
 PAP=>ied
+PAPR=>ying
+AIF=>will,will,swill,will,will,will

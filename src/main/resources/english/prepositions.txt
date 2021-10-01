@@ -189,6 +189,7 @@ properly@prep()
 rather@prep()
 remarkably@prep()
 scarce@prep()
+scarcely@prep()
 self@prep()
 she@prep()%[electPersonInFollowingVerb(SINGULAR_THIRD_PERSON)]
 since@prep()
