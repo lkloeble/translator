@@ -1,0 +1,4 @@
+nom%sing%fem%ω
+acc%sing%fem%ω
+dat%sing%fem%vι
+gen%sing%fem%ους

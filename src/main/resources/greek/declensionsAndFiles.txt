@@ -64,3 +64,6 @@ perso%perso.txt
 ας-αδος%ellas.txt
 x-α-x%stas.txt
 ας-ασα-αν%poiesas.txt
+ω-ους%leto.txt
+ις-ις-ι%eukvemis.txt
+ων-οντος%gerwv.txt

@@ -3,6 +3,7 @@ nom%plr%neut%α
 gen%sing%neut%ου
 gen%plr%neut%ων
 acc%sing%neut%ον
+accion%sing%neut%ηα
 acc%plr%neut%α
 voc%sing%neut%ον
 voc%plr%neut%α

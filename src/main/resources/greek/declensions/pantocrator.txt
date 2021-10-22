@@ -8,3 +8,4 @@ voc%sing%masc%ορ
 voc%plr%masc%ορες
 dat%sing%masc%ορι
 dat%plr%masc%ορσι
+dunom%sing%masc%ορε

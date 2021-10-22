@@ -14,6 +14,9 @@ voc%sing%neut%ον
 dat%sing%masc%ω
 dat%sing%fem%η
 dat%sing%neut%ω
+nom%dual%masc%ω
+nom%dual%fem%α
+nom%dual%neut%ω
 nom%plr%masc%οι
 nom%plr%fem%αι
 nom%plr%neut%α

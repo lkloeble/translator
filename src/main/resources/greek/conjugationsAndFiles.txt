@@ -5,6 +5,7 @@
 ω-ας%gennao.txt
 μι-ς%deikvumi.txt
 ομαι-η%gignomai.txt
+ομαι-εαι%veomai.txt
 ευω-εις%mvinsteuw.txt
 ω-οις%meiw.txt
 ω-ης%zaw.txt

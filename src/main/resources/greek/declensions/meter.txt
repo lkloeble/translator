@@ -3,7 +3,8 @@ nom%plr%fem%ερες
 gena%sing%fem%ερος
 genb%sing%fem%ρος
 gen%plr%fem%ερων
-acc%sing%fem%ερα
+acca%sing%fem%ερα
+accb%sing%fem%ρα
 acc%plr%fem%ερας
 voc%sing%fem%ηρ
 voc%plr%fem%ερες

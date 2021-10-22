@@ -754,43 +754,6 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("herodote114D", translatorBridge);
     }
 
-
-    @Test
-    public void test_homere_yliad_book1() {
-        checkInMaps("homereliv1lig001", translatorBridge);
-        checkInMaps("homereliv1lig002", translatorBridge);
-        //checkInMaps("homereliv1lig003", translatorBridge);
-        checkInMaps("homereliv1lig004", translatorBridge);
-        checkInMaps("homereliv1lig005", translatorBridge);
-        checkInMaps("homereliv1lig006", translatorBridge);
-        checkInMaps("homereliv1lig007", translatorBridge);
-        checkInMaps("homereliv1lig008", translatorBridge);
-        checkInMaps("homereliv1lig009", translatorBridge);
-        checkInMaps("homereliv1lig010", translatorBridge);
-        checkInMaps("homereliv1lig011", translatorBridge);
-        checkInMaps("homereliv1lig012", translatorBridge);
-        checkInMaps("homereliv1lig013", translatorBridge);
-        checkInMaps("homereliv1lig014", translatorBridge);
-        checkInMaps("homereliv1lig015", translatorBridge);
-        checkInMaps("homereliv1lig016", translatorBridge);
-        checkInMaps("homereliv1lig017", translatorBridge);
-        checkInMaps("homereliv1lig018", translatorBridge);
-        checkInMaps("homereliv1lig019", translatorBridge);
-        checkInMaps("homereliv1lig020", translatorBridge);
-        checkInMaps("homereliv1lig021", translatorBridge);
-        checkInMaps("homereliv1lig022", translatorBridge);
-        checkInMaps("homereliv1lig023", translatorBridge);
-        checkInMaps("homereliv1lig024", translatorBridge);
-        checkInMaps("homereliv1lig025", translatorBridge);
-        checkInMaps("homereliv1lig026", translatorBridge);
-        checkInMaps("homereliv1lig027", translatorBridge);
-        checkInMaps("homereliv1lig028", translatorBridge);
-        checkInMaps("homereliv1lig029", translatorBridge);
-        checkInMaps("homereliv1lig030", translatorBridge);
-        checkInMaps("homereliv1lig031", translatorBridge);
-        checkInMaps("homereliv1lig032", translatorBridge);
-    }
-
     @Test
     public void test_failed_ones() {
         assertTrue(true);

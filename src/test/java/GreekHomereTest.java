@@ -19,7 +19,9 @@ import patrologia.translator.utils.Analyzer;
 
 import java.util.*;
 
-public class GreekClementRomeFirstCorinthiansTest extends TranslatorBridgeTest {
+import static org.junit.Assert.assertTrue;
+
+public class GreekHomereTest  extends TranslatorBridgeTest {
 
     private TranslatorBridge translatorBridge;
 
@@ -38,8 +40,8 @@ public class GreekClementRomeFirstCorinthiansTest extends TranslatorBridgeTest {
         String declensionsAndFiles = localResourcesPath + "declensionsAndFiles.txt";
         String conjugationPath = localResourcesPath + "conjugations";
         String conjugationsAndFiles = localResourcesPath + "conjugationsAndFiles.txt";
-        String greekPathFile = localTestPath + "clement_content.txt";
-        String greekResultFile = localTestPath + "clement_expected_result.txt";
+        String greekPathFile = localTestPath + "homere_content.txt";
+        String greekResultFile = localTestPath + "homere_expected_result.txt";
         GreekRuleFactory ruleFactory = new GreekRuleFactory();
         GreekDeclensionFactory greekDeclensionFactory = new GreekDeclensionFactory(getDeclensions(declensionsAndFiles), getDeclensionList(declensionsAndFiles, declensionPath));
         PrepositionRepository prepositionRepository = new PrepositionRepository(Language.GREEK, new GreekCaseFactory(), ruleFactory, getFileContentForRepository(prepositionFileDescription));
@@ -147,135 +149,47 @@ public class GreekClementRomeFirstCorinthiansTest extends TranslatorBridgeTest {
     }
 
     @Test
-    public void test_clement1() {
-        checkInMaps("clement1A", translatorBridge);
-        checkInMaps("clement1B", translatorBridge);
-        checkInMaps("clement1C", translatorBridge);
-        checkInMaps("clement1D", translatorBridge);
-        checkInMaps("clement1E", translatorBridge);
-        //checkInMaps("clement1F", translatorBridge);
-        checkInMaps("clement1G", translatorBridge);
-        checkInMaps("clement1H", translatorBridge);
-        checkInMaps("clement1I", translatorBridge);
-        checkInMaps("clement1J", translatorBridge);
-        checkInMaps("clement1K", translatorBridge);
-        //checkInMaps("clement1L", translatorBridge);
-        checkInMaps("clement1M", translatorBridge);
-        checkInMaps("clement1N", translatorBridge);
-        //checkInMaps("clement1O", translatorBridge);
+    public void test_homere_yliad_book1() {
+        checkInMaps("homereliv1lig001", translatorBridge);
+        checkInMaps("homereliv1lig002", translatorBridge);
+        //checkInMaps("homereliv1lig003", translatorBridge);
+        checkInMaps("homereliv1lig004", translatorBridge);
+        checkInMaps("homereliv1lig005", translatorBridge);
+        checkInMaps("homereliv1lig006", translatorBridge);
+        checkInMaps("homereliv1lig007", translatorBridge);
+        checkInMaps("homereliv1lig008", translatorBridge);
+        checkInMaps("homereliv1lig009", translatorBridge);
+        checkInMaps("homereliv1lig010", translatorBridge);
+        checkInMaps("homereliv1lig011", translatorBridge);
+        checkInMaps("homereliv1lig012", translatorBridge);
+        checkInMaps("homereliv1lig013", translatorBridge);
+        checkInMaps("homereliv1lig014", translatorBridge);
+        checkInMaps("homereliv1lig015", translatorBridge);
+        checkInMaps("homereliv1lig016", translatorBridge);
+        checkInMaps("homereliv1lig017", translatorBridge);
+        checkInMaps("homereliv1lig018", translatorBridge);
+        checkInMaps("homereliv1lig019", translatorBridge);
+        checkInMaps("homereliv1lig020", translatorBridge);
+        checkInMaps("homereliv1lig021", translatorBridge);
+        checkInMaps("homereliv1lig022", translatorBridge);
+        checkInMaps("homereliv1lig023", translatorBridge);
+        checkInMaps("homereliv1lig024", translatorBridge);
+        checkInMaps("homereliv1lig025", translatorBridge);
+        checkInMaps("homereliv1lig026", translatorBridge);
+        checkInMaps("homereliv1lig027", translatorBridge);
+        checkInMaps("homereliv1lig028", translatorBridge);
+        checkInMaps("homereliv1lig029", translatorBridge);
+        checkInMaps("homereliv1lig030", translatorBridge);
+        checkInMaps("homereliv1lig031", translatorBridge);
+        checkInMaps("homereliv1lig032", translatorBridge);
     }
 
-    @Test
-    public void test_clement2() {
-        //checkInMaps("clement2A1", translatorBridge);
-        checkInMaps("clement2A2", translatorBridge);
-        //checkInMaps("clement2B1", translatorBridge);
-        checkInMaps("clement2B2", translatorBridge);
-        checkInMaps("clement2C1", translatorBridge);
-        checkInMaps("clement2C2", translatorBridge);
-        checkInMaps("clement2C3", translatorBridge);
-        //checkInMaps("clement2C4", translatorBridge);
-        checkInMaps("clement2D1", translatorBridge);
-        checkInMaps("clement2D2", translatorBridge);
-        checkInMaps("clement2E", translatorBridge);
-        checkInMaps("clement2F1", translatorBridge);
-        checkInMaps("clement2F2", translatorBridge);
-        //checkInMaps("clement2F3", translatorBridge);
-        checkInMaps("clement2G", translatorBridge);
-        checkInMaps("clement2H", translatorBridge);
-        checkInMaps("clement2I", translatorBridge);
-    }
 
     @Test
-    public void test_clement3() {
-        checkInMaps("clement3A", translatorBridge);
-        checkInMaps("clement3B", translatorBridge);
-        checkInMaps("clement3C", translatorBridge);
-        checkInMaps("clement3D", translatorBridge);
-        checkInMaps("clement3E", translatorBridge);
-        checkInMaps("clement3F", translatorBridge);
-        checkInMaps("clement3G", translatorBridge);
-        checkInMaps("clement3H", translatorBridge);
-        checkInMaps("clement3I", translatorBridge);
-        checkInMaps("clement3J", translatorBridge);
-    }
-
-    @Test
-    public void test_clement4() {
-        checkInMaps("clement4A1", translatorBridge);
-        //checkInMaps("clement4A2", translatorBridge);
-        checkInMaps("clement4B", translatorBridge);
-        checkInMaps("clement4C", translatorBridge);
-        checkInMaps("clement4D1", translatorBridge);
-        checkInMaps("clement4D2", translatorBridge);
-        checkInMaps("clement4E", translatorBridge);
-        checkInMaps("clement4F1", translatorBridge);
-        checkInMaps("clement4F2", translatorBridge);
-        checkInMaps("clement4F3", translatorBridge);
-        checkInMaps("clement4G", translatorBridge);
-        checkInMaps("clement4H", translatorBridge);
-        checkInMaps("clement4I", translatorBridge);
-        checkInMaps("clement4J1", translatorBridge);
-        checkInMaps("clement4J2", translatorBridge);
-        checkInMaps("clement4J3", translatorBridge);
-        checkInMaps("clement4K", translatorBridge);
-        checkInMaps("clement4L", translatorBridge);
-        checkInMaps("clement4M1", translatorBridge);
-        checkInMaps("clement4M2", translatorBridge);
-    }
-
-    @Test
-    public void test_clement5() {
-        checkInMaps("clement5A1", translatorBridge);
-        checkInMaps("clement5A2", translatorBridge);
-        checkInMaps("clement5A3", translatorBridge);
-        checkInMaps("clement5B1", translatorBridge);
-        checkInMaps("clement5B2", translatorBridge);
-        checkInMaps("clement5C1", translatorBridge);
-        checkInMaps("clement5D1", translatorBridge);
-        checkInMaps("clement5D2", translatorBridge);
-        checkInMaps("clement5D3", translatorBridge);
-        checkInMaps("clement5E1", translatorBridge);
-        checkInMaps("clement5F1", translatorBridge);
-        checkInMaps("clement5F2", translatorBridge);
-        checkInMaps("clement5F3", translatorBridge);
-        checkInMaps("clement5G1", translatorBridge);
-        checkInMaps("clement5G2", translatorBridge);
-        checkInMaps("clement5G3", translatorBridge);
-        checkInMaps("clement5G4", translatorBridge);
-    }
-
-    @Test
-    public void test_clement6() {
-        checkInMaps("clement6A1", translatorBridge);
-        checkInMaps("clement6A2", translatorBridge);
-        checkInMaps("clement6A3", translatorBridge);
-        checkInMaps("clement6A4", translatorBridge);
-        checkInMaps("clement6B1", translatorBridge);
-        checkInMaps("clement6B2", translatorBridge);
-        checkInMaps("clement6B3", translatorBridge);
-        checkInMaps("clement6B4", translatorBridge);
-        checkInMaps("clement6C1", translatorBridge);
-        checkInMaps("clement6C2", translatorBridge);
-        checkInMaps("clement6C3", translatorBridge);
-        checkInMaps("clement6D1", translatorBridge);
-        checkInMaps("clement6D2", translatorBridge);
-    }
-
-    @Test
-    public void test_clement7() {
-        checkInMaps("clement7A1", translatorBridge);
-        checkInMaps("clement7A2", translatorBridge);
-        checkInMaps("clement7B1", translatorBridge);
-        checkInMaps("clement7C1", translatorBridge);
-        checkInMaps("clement7D1", translatorBridge);
-        checkInMaps("clement7D2", translatorBridge);
-        checkInMaps("clement7E1", translatorBridge);
-        checkInMaps("clement7E2", translatorBridge);
-        //checkInMaps("clement7F1", translatorBridge);
-        //checkInMaps("clement7G1", translatorBridge);
-        //checkInMaps("clement7G2", translatorBridge);
-        checkInMaps("clement7G3", translatorBridge);
+    public void test_failed_ones() {
+        assertTrue(true);
+        checkInMaps("toto", translatorBridge);
+        //checkInMaps("homereliv1lig004", translatorBridge);
     }
 
 }
