@@ -763,6 +763,7 @@ repeter@NORM%[INFINITIVE]=[répèter]%[IPR]=[répète,répètes,répète,répèt
 repondre@NORM%[INFINITIVE]=[répondre]%[IPR]=[réponds,réponds,répond,répondons,répondez,répondent]%[AIMP]=[réponds,répondez]%[PAP]=[répondu]%[AIP]=[répondis,répondis,répondit,répondîmes,répondîtes,répondirent]%[BINHIPRE]=[réponds,réponds,répond,répondons,répondez,répondent]%[PAPR]=[répondant]%[AII]=[répondais,répondais,répondait,répondions,répondiez,répondaient]
 reposer@NORM%[INFINITIVE]=[reposer]%[IPR]=[repose,reposes,repose,reposons,reposez,reposent]%[PAP]=[reposé]%[AIP]=[reposai,reposas,reposa,reposâmes,reposâtes,reposèrent]%[AIMP]=[repose,reposons,reposez]
 reposersur@NORM%[INFINITIVE]=[reposer sur]%[IPR]=[repose sur,reposes sur,repose sur,reposons sur,reposez sur,reposent sur]%[ASP]=[repose sur,reposes sur,repose sur,reposions sur,reposiez sur,reposent sur]
+repousser@NORM%[INFINITIVE]=[repousser]%[IPR]=[repousse,repousses,repousse,repoussons,repoussez,repoussent]%[HIFFUT]=[repousserai,repousseras,repoussera,repousserons,repousserez,repousseront]
 reprendre@NORM%[INFINITIVE]=[reprendre]%[IPR]=[reprends,reprends,reprend,reprenons,reprenez,reprennent]%[PERACTPAR]=[repris]%[AORPASIND]=[fus repris,fus repris,fut repris,fûmes repris,fûtes repris,furent repris]
 representer@NORM%[INFINITIVE]=[représenter]%[IPR]=[représente,représentes,représente,représentons,représentez,représentent]
 reprimander@NORM%[INFINITIVE]=[réprimander]%[IPR]=[réprimande,réprimandes,réprimande,réprimandons,réprimandez,réprimandent]%[PAP]=[réprimandé]

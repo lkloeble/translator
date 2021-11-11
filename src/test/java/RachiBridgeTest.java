@@ -1,4 +1,3 @@
-import junit.framework.Assert;
 import org.junit.Before;
 import org.junit.Test;
 import patrologia.translator.TranslatorBridge;
@@ -20,12 +19,9 @@ import patrologia.translator.utils.Analyzer;
 
 import java.util.*;
 
-import static org.junit.Assert.assertTrue;
+import static junit.framework.Assert.assertTrue;
 
-/**
- * Created by lkloeble on 28/09/2017.
- */
-public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
+public class RachiBridgeTest extends TranslatorBridgeTest {
 
     protected TranslatorBridge translatorBridge;
 
@@ -38,8 +34,8 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     String prepositionFileDescription = localResourcesPath + "prepositions.txt";
     String hebrewFrenchDataFile = localResourcesPath + "cohn_hebrew_to_french.txt";
     String frenchVerbsDataFile = localCommonPath + "french_verbs.txt";
-    String hebrewPathFile = localTestPath + "talmud_content.txt";
-    String hebrewResultFile = localTestPath + "talmud_expected_results.txt";
+    String hebrewPathFile = localTestPath + "rachi_content.txt";
+    String hebrewResultFile = localTestPath + "rachi_expected_results.txt";
 
 
     @Before
@@ -70,7 +66,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getNouns(String nounFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "kpr@fem%endingh"
+                "awzn@masc%mascot"
                 //"ykb@fem%ot2"
         });
         */
@@ -90,7 +86,8 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getPrepositions(String prepositionFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "xxtavandwavxx@prep()"
+                "b56@prep()",
+                "b@prep()"
         });
         */
         return getFileContentForRepository(prepositionFileDescription);
@@ -99,7 +96,7 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFiles) {
         /*
         return Arrays.asList(new String[]{
-                "ylh$,hylwt,[binyanhifil]"
+                "smy,,[paal],(AIP%leadingrootletter%s*s29864@AIP%secondletterroot%m*m63@AIP%alternateaccentuation(5:9)%m63*m56@IPR%substitute%sm*swm*0@ARAIPR%substitute%smy*swmy*0@BINHIFPAST%substitute(3:4:8)%my*miy)"
         });
          */
         return getFileContentForRepository(verbFiles);
@@ -323,7 +320,6 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                         "nomb%sing%fem%t",
                         "noma%plr%fem%wt",
                         "nomb%plr%fem%iw",
-                        "decot-tw%sing%fem%tw",
                         "decot-tk%sing%fem%t56k00064",
                         "decot-tm%plr%fem%tm000"
                 });
@@ -493,139 +489,57 @@ public class VokalizedHebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                 "IPR=>-,-,-,-,-,in000"
         });
     }
-
     @Test
-    public void englishBavliRashi() {
-        checkInMaps("engbavli1Arashi001", translatorBridge);
-        checkInMaps("engbavli1Arashi002", translatorBridge);
-        checkInMaps("engbavli1Arashi003", translatorBridge);
-        checkInMaps("engbavli1Arashi004", translatorBridge);
-        checkInMaps("engbavli1Arashi005", translatorBridge);
-        checkInMaps("engbavli1Arashi006", translatorBridge);
-        checkInMaps("engbavli1Arashi007", translatorBridge);
-        checkInMaps("engbavli1Arashi008", translatorBridge);
-        checkInMaps("engbavli1Arashi009", translatorBridge);
-        checkInMaps("engbavli1Arashi010", translatorBridge);
-        checkInMaps("engbavli1Arashi011", translatorBridge);
-        checkInMaps("engbavli1Arashi012", translatorBridge);
-        checkInMaps("engbavli1Arashi013", translatorBridge);
-        checkInMaps("engbavli1Arashi014", translatorBridge);
-        checkInMaps("engbavli1Arashi015", translatorBridge);
-        checkInMaps("engbavli1Arashi016", translatorBridge);
-        checkInMaps("engbavli1Arashi017", translatorBridge);
-        checkInMaps("engbavli1Arashi018", translatorBridge);
-        checkInMaps("engbavli1Arashi019", translatorBridge);
-        checkInMaps("engbavli1Arashi020", translatorBridge);
-    }
-
-
-    @Test
-    public void englishYeroushalmi() {
-        checkInMaps("engyerou1Apneimoshe1", translatorBridge);
-        checkInMaps("engyerou1Apneimoshe2", translatorBridge);
-        checkInMaps("engyerou1Apneimoshe3", translatorBridge);
-        checkInMaps("engyerou1Apneimoshe4A", translatorBridge);
-        checkInMaps("engyerou1Apneimoshe4B", translatorBridge);
-        checkInMaps("engyerou1Apneimoshe5", translatorBridge);
-        checkInMaps("engyerou1Apneimoshe6", translatorBridge);
-        checkInMaps("engyerou1Apneimoshe7", translatorBridge);
-        checkInMaps("engyerou1Apneimoshe8", translatorBridge);
-        checkInMaps("engyerou1Apneimoshe9", translatorBridge);
-        checkInMaps("engyerou1Apneimoshe10", translatorBridge);
-        checkInMaps("engyerou1Apneimoshe11", translatorBridge);
-        checkInMaps("engyerou1Apneimoshe12", translatorBridge);
-        checkInMaps("engyerou1Apneimoshe13", translatorBridge);
-        checkInMaps("engyerou1Apneimoshe14", translatorBridge);
-        checkInMaps("engyerou1Apneimoshe15", translatorBridge);
-        checkInMaps("engyerou1Apneimoshe16", translatorBridge);
-        checkInMaps("engyerou1Apneimoshe17", translatorBridge);
-        checkInMaps("engyerou1Apneimoshe18", translatorBridge);
-        checkInMaps("engyerou1Apneimoshe19", translatorBridge);
-        checkInMaps("engyerou1Apneimoshe20", translatorBridge);
+    public void rachi_bereshit_chapter1() {
+        checkInMaps("rachitext1A", translatorBridge);
+        checkInMaps("rachitext1B", translatorBridge);
+        checkInMaps("rachitext1C", translatorBridge);
+        checkInMaps("rachitext1D", translatorBridge);
+        checkInMaps("rachitext1E", translatorBridge);
+        checkInMaps("rachitext1F", translatorBridge);
+        checkInMaps("rachitext1G", translatorBridge);
+        checkInMaps("rachitext1H", translatorBridge);
+        checkInMaps("rachitext1I", translatorBridge);
+        checkInMaps("rachitext1J", translatorBridge);
+        checkInMaps("rachitext1K", translatorBridge);
+        checkInMaps("rachitext1L", translatorBridge);
     }
 
     @Test
-    public void hebrewBavli() {
-        checkInMaps("hebbavli1ApagecommentA", translatorBridge);
-        checkInMaps("hebbavli1ApagecommentB", translatorBridge);
-        checkInMaps("hebbavli1ApagecommentC", translatorBridge);
-        checkInMaps("hebbavli1ApagecommentD", translatorBridge);
-        checkInMaps("hebbavli1ApagecommentE", translatorBridge);
-        checkInMaps("hebbavli1ApagecommentF", translatorBridge);
-        checkInMaps("hebbavli1ApagecommentG", translatorBridge);
-        checkInMaps("hebbavli1ApagecommentH", translatorBridge);
-        checkInMaps("hebbavli1ApagecommentI", translatorBridge);
-        checkInMaps("hebbavli1ApagecommentJ", translatorBridge);
-        checkInMaps("hebbavli1ApagecommentK", translatorBridge);
-        checkInMaps("hebbavli1ApagecommentL", translatorBridge);
-        checkInMaps("hebbavli1ApagecommentM", translatorBridge);
-        checkInMaps("hebbavli1ApagecommentN", translatorBridge);
-        checkInMaps("hebbavli1ApagecommentO", translatorBridge);
-        checkInMaps("hebbavli1ApagecommentP", translatorBridge);
-        checkInMaps("hebbavli1ApagecommentQ", translatorBridge);
-        checkInMaps("hebbavli1ApagecommentR", translatorBridge);
-        checkInMaps("hebbavli1ApagecommentS", translatorBridge);
-        checkInMaps("hebbavli1ApagecommentT", translatorBridge);
-        checkInMaps("hebbavli1ApagecommentU", translatorBridge);
-        checkInMaps("hebbavli1ApagecommentV", translatorBridge);
-        checkInMaps("hebbavli1ApagecommentW", translatorBridge);
-        checkInMaps("hebbavli1ApagecommentX", translatorBridge);
-        checkInMaps("hebbavli1ApagecommentY", translatorBridge);
-        checkInMaps("hebbavli1ApagecommentZ", translatorBridge);
-        checkInMaps("hebbavli1ApagecommentA1", translatorBridge);
-        checkInMaps("hebbavli1ApagecommentA2", translatorBridge);
-        checkInMaps("hebbavli1ApagecommentA3", translatorBridge);
-        checkInMaps("hebbavli1ApagecommentA4", translatorBridge);
-        checkInMaps("hebbavli1ApagecommentA5", translatorBridge);
-    }
-
-
-    @Test
-    public void midrabaeng() {
-        checkInMaps("midrashrabaeng1A", translatorBridge);
-        checkInMaps("midrashrabaeng1B", translatorBridge);
-        checkInMaps("midrashrabaeng1C", translatorBridge);
-        checkInMaps("midrashrabaeng1D", translatorBridge);
-        checkInMaps("midrashrabaeng1E", translatorBridge);
-        checkInMaps("midrashrabaeng1F", translatorBridge);
-        checkInMaps("midrashrabaeng1G", translatorBridge);
-        checkInMaps("midrashrabaeng1H", translatorBridge);
-        checkInMaps("midrashrabaeng1I", translatorBridge);
-        checkInMaps("midrashrabaeng1J", translatorBridge);
-        checkInMaps("midrashrabaeng1K", translatorBridge);
-        checkInMaps("midrashrabaeng1L", translatorBridge);
-        checkInMaps("midrashrabaeng1M", translatorBridge);
-        checkInMaps("midrashrabaeng1N", translatorBridge);
-        checkInMaps("midrashrabaeng1O", translatorBridge);
-        checkInMaps("midrashrabaeng1P", translatorBridge);
-        checkInMaps("midrashrabaeng1Q", translatorBridge);
-        checkInMaps("midrashrabaeng1R", translatorBridge);
-        checkInMaps("midrashrabaeng1S", translatorBridge);
-        checkInMaps("midrashrabaeng1T", translatorBridge);
+    public void shei_lamorei_rachi1() {
+        checkInMaps("sheilamoreiA", translatorBridge);
+        checkInMaps("sheilamoreiB", translatorBridge);
+        checkInMaps("sheilamoreiC", translatorBridge);
+        checkInMaps("sheilamoreiD", translatorBridge);
+        checkInMaps("sheilamoreiE", translatorBridge);
+        checkInMaps("sheilamoreiF", translatorBridge);
+        checkInMaps("sheilamoreiG", translatorBridge);
+        checkInMaps("sheilamoreiH", translatorBridge);
+        checkInMaps("sheilamoreiB1", translatorBridge);
+        checkInMaps("sheilamoreiB2", translatorBridge);
+        checkInMaps("sheilamoreiB3", translatorBridge);
+        checkInMaps("sheilamoreiB4", translatorBridge);
+        checkInMaps("sheilamoreiB5", translatorBridge);
+        checkInMaps("sheilamoreiB6", translatorBridge);
+        checkInMaps("sheilamoreiB7", translatorBridge);
+        checkInMaps("sheilamoreiB8", translatorBridge);
+        checkInMaps("sheilamoreiB9", translatorBridge);
+        checkInMaps("sheilamoreiB10", translatorBridge);
+        checkInMaps("sheilamoreiB11", translatorBridge);
+        checkInMaps("sheilamoreiB12", translatorBridge);
+        checkInMaps("sheilamoreiC1", translatorBridge);
+        checkInMaps("sheilamoreiC2", translatorBridge);
+        checkInMaps("sheilamoreiC3", translatorBridge);
+        checkInMaps("sheilamoreiC4", translatorBridge);
+        checkInMaps("sheilamoreiC5", translatorBridge);
+        checkInMaps("sheilamoreiC6", translatorBridge);
+        checkInMaps("sheilamoreiC7", translatorBridge);
+        checkInMaps("sheilamoreiC8", translatorBridge);
+        checkInMaps("sheilamoreiC9", translatorBridge);
     }
 
     @Test
-    public void midrabheb() {
-        checkInMaps("midrashrabahebcom1A", translatorBridge);
-        checkInMaps("midrashrabahebcom1B", translatorBridge);
-        checkInMaps("midrashrabahebcom1C", translatorBridge);
-        checkInMaps("midrashrabahebcom1D", translatorBridge);
-        checkInMaps("midrashrabahebcom1E", translatorBridge);
-        checkInMaps("midrashrabahebcom1F", translatorBridge);
-        checkInMaps("midrashrabahebcom1G", translatorBridge);
-        checkInMaps("midrashrabahebcom1H", translatorBridge);
-        checkInMaps("midrashrabahebcom1I", translatorBridge);
-        checkInMaps("midrashrabahebcom1J", translatorBridge);
-        checkInMaps("midrashrabahebcom1K", translatorBridge);
-        checkInMaps("midrashrabahebcom1L", translatorBridge);
-        checkInMaps("midrashrabahebcom1M", translatorBridge);
-        checkInMaps("midrashrabahebcom1N", translatorBridge);
-        checkInMaps("midrashrabahebcom1O", translatorBridge);
-        checkInMaps("midrashrabahebcom1P", translatorBridge);
-    }
-
-    @Test
-    public void test_failed_ones() {
+    public void test_failedones() {
         assertTrue(true);
         checkInMaps("toto", translatorBridge);
     }

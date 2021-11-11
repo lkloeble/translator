@@ -6,9 +6,11 @@ abrhm000@noun!invpur%1(noun)=abraham
 agb@prep%1(prep)=d'ailleurs%2(prep)=à cause de
 a58d64m64h@noun!custom(nomsg=a58d64m64h|decim-nw=admtnw)%1(noun)=terre
 a64d64m000@noun!invmasc%1(noun)=homme
+aw@prep%1(prep)=ou
 awi@prep%1(prep)=oï
 awzn@noun!mascot%1(noun)=oreille
 aw331i@prep%1(prep)=oï
+awmnin@noun!invpur%1(noun)=ouvriers
 awr@verb!norm%1(verb)=illuminer
 awth@prep%1(prep)=elle
 awtm000@prep%1(prep)=eux
@@ -27,8 +29,10 @@ aikh@noun!invpur%1(noun)=lamentations (livre biblique)
 akilt@noun!invpur%1(noun)=manger
 aiir@verb!norm%1(verb)=illustrer
 ailk000@prep%1(prep)=désormais
+ailn@noun!invpur%1(noun)=arbre
 ain000@prep%1(prep)=il n'y a pas
 ainw@prep%1(prep)=ce n'est pas
+ainn000@prep%1(prep)=ce ne sont pas
 a61in000@prep%1(prep)=il n'y a pas
 a60is@noun!custom(nomplr=ansim|cst(nomplr)=ansi&|dechsofit=aish|nomsg=a60is)%1(noun)=homme
 awtwtih@noun!invpur%1(noun)=énonciation des lettres
@@ -161,6 +165,7 @@ diqdq@verb!norm%1(verb)=etremeticuleux
 dlt@noun!im%1(noun)=lettre d%2(noun)=porte
 dnn@verb!norm%1(verb)=discuter
 dyt@noun!invpur%1(noun)=opinion
+dkti@noun!invpur%1(noun)=pauvre
 dm@noun!im%1(noun)=sang
 dp@noun!im%1(noun)=page
 d64b64r@noun!im%1(noun)=chose,acte%2(noun)=parole
@@ -172,6 +177,7 @@ drsh@noun!invpur%1(noun)=interprétation
 drsinn@noun!invpur%1(noun)=xxxxdarshinenxxxpas traduitxxx
 dsa@noun!im%1(noun)=végétation
 dsa@verb!norm%1(verb)=verdir
+dtima@noun!invpur%1(noun)=religiosité
 h@prep%1(prep)=le[les,la]
 h?q@prep%1(prep)=ainsi soit-il
 h59@prep%1(prep)=le[les,la]
@@ -251,6 +257,7 @@ ztslexpr@noun!invpur%1(noun)=de mémoire bénie
 'hlq@verb!norm%1(verb)=partager
 'h58lw331m000@noun!mascot%1(noun)=rêve
 'hmh@noun!invfem%1(noun)=soleil
+'hmisi@noun!invpur%1(noun)=cinquième
 'htm@verb!norm%1(verb)=sceller%2(verb)=signer%3(verb)=finir
 'hsk@verb!norm%1(verb)=obscurcir
 'htswt@noun!invmasc%1(noun)=milieu de la nuit
@@ -329,8 +336,9 @@ k64mw331k00064@prep%1(prep)=comme toi
 kn000@prep%1(prep)=oui%2(prep)=ainsi
 knp@noun!im%1(noun)=aile
 kns@verb!norm%1(verb)=entrer
-kpr@verb!norm%1(verb)=renier
 knst@noun!invpur%1(noun)=knesset%2(noun)=assemblée
+kpr@verb!norm%1(verb)=renier
+kpr@noun!endingh%1(noun)=expiation
 krt@verb!norm%1(verb)=couper
 ksh@verb!norm%1(verb)=couvrir
 ksh$@verb!norm%1(verb)=couvrir
@@ -350,11 +358,13 @@ lbn@noun!invmasc%1(noun)=blanc%2(noun)=laban
 lhln000@prep%1(prep)=ci-dessous
 l63i56l64h@noun!custom(nomplr=lilwt|cst(nomsg)=lil&|nomsg=l63i56l64h)%1(noun)=nuit
 l64i56l64h@noun!custom(nomplr=lilwt|cst(nomsg)=lil&|nomsg=l64i56l64h)%1(noun)=nuit
+lin@verb!norm%1(verb)=seplaindre%2(verb)=suspendre%3(verb)=repousser
 lmd@verb!norm%1(verb)=enseigner
 lmd$@verb!norm%1(verb)=enseigner
 lmh@prep%1(prep)=pourquoi
 lminhw@prep%1(prep)=selon son type
 lminhm@prep%1(prep)=selon leur types
+lmxh@prep%1(prep)=en bas
 lmpry@prep%1(prep)=rétroactivement%2(prep)=incorrectement
 lmyn000@prep%1(prep)=afin que
 lpikk000@prep%1(prep)=par conséquent
@@ -363,6 +373,7 @@ lw@prep%1(prep)=pour lui
 lw331@prep%1(prep)=pour lui
 l'hm@noun!invpur%1(noun)=pain
 li@prep%1(prep)=à moi
+lin@noun!endingh%1(noun)=habitation%2(noun)=logement
 l56k00064@prep%1(prep)=à toi
 lk000@prep%1(prep)=à toi
 lkm000@prep%1(prep)=à vous
@@ -390,12 +401,13 @@ mawr@noun!custom(nomsg=mawr|nomplr=mart)%1(noun)=luminaire
 mawr@noun!ot%1(noun)=repaire
 mair@noun!invpur%1(noun)=méir
 mwyd@noun!im%1(noun)=fête
+mzb'h@noun!im%1(noun)=autel
 mx@noun!ot%1(noun)=lit
 mh@prep%1(prep)=quoi
 m63h@prep%1(prep)=quoi
 m64h@prep%1(prep)=quoi
 mi@prep%1(prep)=qui
-m60i@prep%1(prep)=qui
+m60i@prep%1noun!(prep)=qui
 milh@noun!invpur%1(noun)=circoncision
 milta@noun!invpur%1(noun)=chose%2(noun)=mot
 m64i60m000@noun!invpur%1(noun)=eaux
@@ -440,9 +452,11 @@ n64y63r@noun!im%1(noun)=jeune homme%2(noun)=garçon
 n62p62s@noun!ot2%1(noun)=âme
 nw@prep%1(prep)=nous
 n64b60ia@noun!im-ot%1(noun)=prophète
+ndbk@noun!invpur%1(noun)=mur%2(noun)=niveau
 ngd@verb!norm%1(verb)=dire
 ngy@verb!norm%1(verb)=arriver
 nhg@verb!norm%1(verb)=estcoutumier
+nwpl@noun!invpur%1(noun)=tombe
 n'hl@verb!norm%1(verb)=heriter
 nia@verb!norm%1(verb)=dissuader
 nkns@verb!norm%1(verb)=entrer
@@ -450,6 +464,7 @@ nxh@verb!norm%1(verb)=incliner
 nxh$@verb!norm%1(verb)=incliner
 nxl@verb!norm%1(verb)=assumer%2(verb)=prendre
 nm@verb!norm%1(verb)=dormir
+npsl@adj!im-ot%1(adj)=disqualifié
 nyr@verb!norm%1(verb)=braire
 ntn@verb!norm%1(verb)=donner
 ntn$@verb!norm%1(verb)=donner
@@ -529,6 +544,7 @@ ykb@verb!norm%1(verb)=retarder
 yliw@prep%1(prep)=sur lui
 ylinw@prep%1(prep)=sur nous
 ylh@verb!norm%1(verb)=grandir%2(verb)=couter%3(verb)=selever
+ylh$@verb!norm%1(verb)=grandir%2(verb)=couter%3(verb)=selever
 ylpiexpr@prep%1(prep)=selon
 ypiexpr@prep%1(prep)=selon
 ymd@verb!norm%1(verb)=lever
@@ -580,6 +596,7 @@ r'hp@verb!norm%1(verb)=planer
 ris@noun!invpur%1(noun)=resh (lettre R)
 rms@verb!norm%1(verb)=ramper
 rqiy@noun!invpur%1(noun)=firmament
+rsa@verb!norm%1(verb)=etreautorisea
 rsai@noun!invpur%1(noun)=autorisé
 rashiexpr@noun!invpur%1(noun)=rashi
 r64s29864y@noun!im%1(noun)=impie
@@ -655,6 +672,7 @@ tlwi@adj!im-ot%1(adj)=dépendant
 tna@noun!im%1(noun)=tannah
 tnin@noun!im%1(noun)=crocodile%2(noun)=monstre marin
 tninm@noun!invpur%1(noun)=monstres marins
+tpilh@noun!invpur%1(noun)=prière
 tplh@noun!invpur%1(noun)=prière
 trwm@noun!ot%1(noun)=térouma
 tsan@noun!im%1(noun)=troupeau

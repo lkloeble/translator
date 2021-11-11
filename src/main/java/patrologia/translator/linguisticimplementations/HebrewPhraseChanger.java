@@ -95,6 +95,7 @@ public class HebrewPhraseChanger extends CustomLanguageRulePhraseChanger {
         stopWordsVerbHeSofit.add("ysh");
         stopWordsVerbHeSofit.add("sl'h");
         stopWordsVerbHeSofit.add("hith");
+        stopWordsVerbHeSofit.add("kprh");
         stopWordsVerbHeSofit.add("hnh");
         stopWordsWavSofit.add("w");
         stopWordsWavSofit.add("lw");
@@ -428,8 +429,6 @@ public class HebrewPhraseChanger extends CustomLanguageRulePhraseChanger {
     private boolean isUnknownInRepositories(Word newWordWithoutEndingPattern) {
         if(nounRepository.getNoun(newWordWithoutEndingPattern.getInitialValue()).size() > 0) return false;
         if(prepositionRepository.getPreposition(newWordWithoutEndingPattern.getInitialValue()) != null) return false;
-        Verb verb = verbRepository.getVerb(newWordWithoutEndingPattern.getInitialValue());
-        if(!verb.isNullVerb()) return false;
         return true;
     }
 

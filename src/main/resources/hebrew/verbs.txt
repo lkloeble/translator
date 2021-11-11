@@ -55,6 +55,7 @@ krt,,[paal],(AIP%leadingrootletter%k*k31564@AIP%secondletterroot%r*r63@IPR%subst
 ksh,,[binyan],(BINPART%substitute%ksh*ks*0@BINPART%alternateaccentuation%ks*kws*0)
 ksh$,,[binyanpual],(BINHUPER%substitute%ksh$*kwsh*0)
 ktb,,[nifal]
+lin,,[hiphil]
 lmd,,[nifal]
 lmd$,,[paal],(ARAIPR%substitute%lmd$*lwmd*0)
 lq'h,,[paal],(AIP%leadingrootletter%l*l64@AIP%secondletterroot%q*q63@AIP%alternateaccentuation(5:9)%q63*q56@AIP%alternateaccentuation(5)%'h*'h64@IPR%substitute%lq*lwq*0)
@@ -80,6 +81,7 @@ ybr,,[paal]
 ywp,,[piel],(PIEAIF%substitute%ywp*ywpp*0)
 ykb,,[binyan]
 ylh,,[paal],(IPR%substitute%yl*ywl*0@ARAIPR%substitute%ylh*ywlh*0)
+ylh$,hylwt,[binyanhifil]
 ymd,,[paal],(ARAIPR%substitute%ym*ywm*0@AIF%substitute%ymd*ymwd*0)
 ysh,yswt,[paal],(AIP%leadingrootletter%y*y64@AIP%secondletterroot%s*s29964@AIPSHORT%substitute%yshzz*iys*0@IPR%substitute%ys*yws*0)
 psq,,[hiphil],(HIFFUT%substitute%ps*psi*0)
@@ -96,6 +98,7 @@ rah,,[paal],(AIP%leadingrootletter%r*r64@AIP%secondletterroot%a*a64@AIP%alternat
 rdp,,[paal]
 r'hp,,[binyan],(BINPRE%leadingrootletter%m*m56@BINPRE%secondletterroot%r*r63@BINPRE%alternateaccentuation%'h*'h62@BINPRE%alternateaccentuation%p*p62
 rms,,[paal],(BINHIFPAST%substitute%rm*rmxxx)
+rsa,,[mishna]
 sal,,[paal],(IPR%substitute%sa*swa*0)
 sap,,[paal]
 swb,,[binyanhifil],(BINHIPRE%substitute%sw*si*0)

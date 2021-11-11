@@ -39,15 +39,21 @@ public class HebrewAnalyzer implements Analyzer {
     private String replaceExpressions(String sentence) {
         String replace1 = sentence.replace("hqb \" h", "hqbh");
         replace1 = replace1.replace("yp?'","ypprep");
+        replace1 = replace1.replace("yp?i","ypiexpr");
         replace1 = replace1.replace("qm?l","qmlexpr");
         replace1 = replace1.replace("'hz?l","'hzlexpr");
         replace1 = replace1.replace("'hid?a","'hidaexpr");
         replace1 = replace1.replace("r63s29860?i","rashiexpr");
+        replace1 = replace1.replace("rs?i","rashiexpr");
         replace1 = replace1.replace("zts?l","ztslexpr");
         replace1 = replace1.replace("pr?a","praexpr");
         replace1 = replace1.replace("r?a","raexpr");
         replace1 = replace1.replace("z?l","zlexpr");
         replace1 = replace1.replace("yl pi","ylpiexpr");
+        replace1 = replace1.replace("dkti'","dkti");
+        replace1 = replace1.replace("bar mim000 'hiim000","hayyimtyrer");
+        replace1 = replace1.replace("b30561it& d60in000","bitdinexpr");
+        replace1 = replace1.replace("g60id h63n64s29862h","gidhanasheexpr");
         return replace1.replace("hqb?h", "hqbhexpr");
     }
 

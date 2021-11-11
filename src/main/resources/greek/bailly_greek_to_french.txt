@@ -1113,8 +1113,8 @@
 σταυρ@noun!ος-ου%1(noun)=croix
 στρατ@noun!ος-ου%1(noun)=armée
 στεα@noun!ς-τος%1(noun)=meilleure graisse
-στεμμ@noun!α-ατος%1(noun)=colère
-στεμματ@noun!inv%1(noun)=colères
+στεμμ@noun!α-ατος%1(noun)=couronne
+στεμματ@noun!inv%1(noun)=couronne
 στερεωμ@noun!α-ατος%1(noun)=fondation%2(noun)=firmament
 στοιχει@noun!ος-ου%1(noun)=élément%2(noun)=cause%3(noun)=principe
 στοιχει@noun!ον-ου%1(noun)=élément

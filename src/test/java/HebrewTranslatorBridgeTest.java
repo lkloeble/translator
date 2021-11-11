@@ -324,6 +324,7 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
                         "noma%plr%fem%wt",
                         "nomb%plr%fem%iw",
                         "decot-tk%sing%fem%t56k00064",
+                        "decot-tw%sing%fem%tw",
                         "decot-tm%plr%fem%tm000"
                 });
     }
@@ -1056,42 +1057,6 @@ public class HebrewTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("wein41U", translatorBridge);
     }
 
-    @Test
-    public void test_bereshit_chapter1() {
-        checkInMaps("bereshit1A1", translatorBridge);
-        checkInMaps("bereshit1A2", translatorBridge);
-        checkInMaps("bereshit1B1", translatorBridge);
-        checkInMaps("bereshit1B2", translatorBridge);
-        checkInMaps("bereshit1C", translatorBridge);
-        checkInMaps("bereshit1D", translatorBridge);
-        checkInMaps("bereshit1E", translatorBridge);
-        checkInMaps("bereshit1F", translatorBridge);
-        checkInMaps("bereshit1G", translatorBridge);
-        checkInMaps("bereshit1H", translatorBridge);
-        checkInMaps("bereshit1I", translatorBridge);
-        checkInMaps("bereshit1J", translatorBridge);
-        checkInMaps("bereshit1K", translatorBridge);
-        checkInMaps("bereshit1L", translatorBridge);
-        checkInMaps("bereshit1M", translatorBridge);
-        checkInMaps("bereshit1N", translatorBridge);
-        checkInMaps("bereshit1O", translatorBridge);
-        checkInMaps("bereshit1P", translatorBridge);
-        checkInMaps("bereshit1Q", translatorBridge);
-        checkInMaps("bereshit1R", translatorBridge);
-        checkInMaps("bereshit1S", translatorBridge);
-        checkInMaps("bereshit1T", translatorBridge);
-        checkInMaps("bereshit1U", translatorBridge);
-        checkInMaps("bereshit1V", translatorBridge);
-        checkInMaps("bereshit1W", translatorBridge);
-        checkInMaps("bereshit1X", translatorBridge);
-        checkInMaps("bereshit1Y", translatorBridge);
-        checkInMaps("bereshit1Z", translatorBridge);
-        checkInMaps("bereshit1AA", translatorBridge);
-        checkInMaps("bereshit1BB", translatorBridge);
-        checkInMaps("bereshit1CC", translatorBridge);
-        checkInMaps("bereshit1DD", translatorBridge);
-        checkInMaps("bereshit1EE", translatorBridge);
-    }
 
     @Test
     public void test_failedones() {

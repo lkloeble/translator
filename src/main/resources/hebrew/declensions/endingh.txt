@@ -5,6 +5,7 @@ decending-tk%sing%fem%tk
 decending-iw%plr%fem%iw
 nome%sing%fem%to
 decendingh-th%sing%fem%th
+decot-tw%sing%fem%tw
 nomg%sing%fem%tnw
 nomh%sing%fem%tkm
 nomi%sing%fem%tkn
