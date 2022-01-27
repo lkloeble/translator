@@ -1,4 +1,5 @@
 abdic,o,is,ere,,,[o-is],(AIP*abdic*abdicav)
+abdic,o,is,ere,,,[o-is],(AIP*abdic*abdicav)
 abjic,io,is,ere,,,[io-is]
 absolv,o,is,ere,,,[o-is]
 absolv,o,is,ere,,,[o-is]
@@ -63,6 +64,7 @@ blasphem,o,as,are,,,[o-as]
 can,o,is,ere,,,[o-is],(ASPP*can*ceciniss)
 cant,o,as,are,,,[o-as]
 cap,io,is,ere,,,[io-is],(AIP*cap*cep)
+car,eo,es,ere,,,[eo-es]
 carp,o,is,ere,,,[o-is]
 castig,o,as,are,,,[o-as]
 cav,eo,es,ere,-,-,[eo-es]
@@ -90,6 +92,7 @@ combur,o,is,ere,,,[o-is]
 comed,o,is,ere,,,[o-is]
 comme,o,as,are,avi,atum,[o-as]
 commemor,o,as,are,,,[o-as],(ASI*commemor*commemorar)
+communic,o,as,are,,,[o-as]
 commun,io,is,ire,,,[io-is]
 compar,o,as,are,avi,atum,[o-as]
 compell,o,is,ere,,,[o-is]
@@ -146,6 +149,7 @@ decert,o,as,are,,,[o-as]
 decip,io,is,ere,,,[io-is],(IAPP124*decip*decep)
 declar,o,as,are,,,[o-as]
 defic,io,is,ire,-,-,[io-is]
+defin,io,is,ire,-,-,[io-is]
 deg,o,is,ere,,,[o-is]
 delab,or,eris,i,,,[or-eris]
 del,eo,es,ere,-,-,[eo-es],(AIP*del*delev)
@@ -159,6 +163,7 @@ descend,o,is,ere,,,[o-is],(AIFP*descends*descend@INACPAS*descendps*descend)
 desin,o,is,ere,,,[o-is],(AIP*desin*desi)
 desist,o,is,ere,,,[o-is],(AIP*desist*destit)
 devinc,io,is,ire,,,[io-is],(AIP*devinc*devinx)
+devov,eo,es,ere,,,[eo-es]
 dic,o,is,ere,foobar,foobar,[o-is],(AIP*dic*dix@AIPP*dic*dix@AIFP*dics*dix@ASPP*dic*dixiss)
 dict,o,as,are,,,[o-as]
 differ,o,s,re,tuli,latum,[o-s]
@@ -170,6 +175,7 @@ discern,o,is,ere,,,[o-is]
 dispon,o,is,ere,,,[o-is]
 disput,o,as,are,,,[o-as]
 dissemin,o,as,are,,,[o-as]
+dissid,eo,es,ere,,,[eo-es]
 distrah,o,is,ere,,,[o-is]
 divid,o,is,ere,,,[o-is],(AIP*divid*divis)
 doc,eo,es,ere,,,[eo-es],(AIP*doc*docu)
@@ -179,6 +185,7 @@ dorm,io,is,ire,,,[io-is]
 dubit,o,as,are,,,[o-as]
 duc,o,is,ere,foobar,foobar,[o-is],(AIP*duc*dux@AIPP*duc*dux)
 dur,o,as,are,,,[o-as]
+edisser,o,is,ere,,,[o-is]
 ed,o,is,ere,foobar,foobar,[o-is],(IAP*ed*edid@AIP*ed*edid@AIPP*ed*edid)
 edoc,eo,es,ere,,,[eo-es]
 educ,o,is,ere,,,[o-is]
@@ -205,6 +212,7 @@ exhib,eo,es,ere,,,[eo-es]
 existim,o,as,are,,,[o-as]
 exist,o,is,ere,,,[o-is],(IAPP1*exist*extit)
 explod,o,is,ere,,,[o-is]
+exprim,o,is,ere,,,[o-is],(AIP*exprim*express)
 exprob,io,is,ere,,,[io-is2]
 exsequ,or,eris,i,,,[or-eris]
 exsist,o,is,ere,,,[o-is],(AIFP*exsists*exstit)
@@ -215,6 +223,7 @@ exsult,o,as,are,,,[o-as]
 exstingu,o,is,ere,,,[o-is],(AIP*exstingu*exstinx)
 fac,io,is,ere,,,[io-is2],(AIP*fac*fec@AIPP*fac*fec@PII*fac*fieb@PSI*fac*fier)
 fate,or,ris,ri,,,[or-ris]
+fav,eo,es,ere,,,[eo-es]
 fer,o,s,re,tuli,latum,[o-s],(AIP*fer*tul@AIPP*fer*tuler)
 fi,o,s,ere,foobar,foobar,[o-s-fiat]
 fin,io,is,ire,,,[io-is],(AIP*fin*finiv)
@@ -242,6 +251,7 @@ imbu,o,is,ere,,,[o-is]
 imper,o,as,are,avi,atus,[o-as],(ASI*imper*imperar)
 impetr,o,as,are,avi,atus,[o-as],(ASI*impetr*impetrar)
 impl,eo,es,ere,,,[eo-es]
+implic,o,as,are,,,[o-as]
 impend,o,is,ere,,,[o-is]
 impend,eo,es,ere,,,[eo-es]
 impon,o,is,ere,,,[o-is],(AIP*impon*imposu)
@@ -265,6 +275,7 @@ influ,o,is,ere,,,[o-is],(IAPP124*influ*influx)
 inform,o,as,are,,,[o-as]
 infud,o,is,ere,,,[o-is]
 initi,o,as,are,,,[o-as]
+injic,io,is,ere,,,[io-is]
 inlumin,o,as,are,,,[o-as]
 inmitt,o,is,ere,,,[o-is],(AIP*inmitt*inmis)
 innit,or,eris,i,,,[or-eris]
@@ -287,6 +298,7 @@ invit,o,as,are,avi,atum,[o-as]
 invoc,o,as,are,avi,atum,[o-as]
 involv,o,is,ere,,,[o-is]
 ire@IRREGULAR%[INFINITIVE]=[ire]%[IPR]=[eo,is,it,imus,itis,eunt]
+irrep,o,is,ere,,,[o-is]
 iter,o,as,are,,,[o-as]
 iub,eo,es,ere,,,[eo-es]
 jact,o,as,are,,,[o-as],(ASI*jact*jactar)
@@ -322,9 +334,11 @@ mutu,or,aris,ari,,,[or-aris]
 narr,o,as,are,,,[o-as]
 nasc,or,eris,i,,,[or-eris]
 neg,o,as,are,,,[o-as]
+nequ,eo,es,ire,,,[eo-es],(AIMP*nequ*xxxxx)
 nesc,io,is,ire,,,[io-is]
 nolo@IRREGULAR%[INFINITIVE]=[nolere]%[IPR]=[nolo,non vis,non vult,nollumus,non vultis,nolunt]
 not,o,as,are,,,[o-as]
+nuncup,o,as,are,,,[o-as]
 numer,o,as,are,,,[o-as]
 obdorm,io,is,ire,,,[io-is],(ASPP*obdorm*obdormiss)
 observ,o,as,are,,,[o-as]
@@ -416,6 +430,7 @@ relinqu,o,is,ere,,,[o-is],(AIP*relin*reli)
 renasc,or,eris,i,,,[or-eris],(ASI*renasc*renascer)
 renunti,o,as,are,,,[o-as]
 reper,io,is,ire,,,[io-is]
+repet,o,is,ere,,,[o-is]
 repl,eo,es,ere,,,[eo-es],(AIP*repl*replev)
 report,o,as,are,,,[o-as]
 repudi,o,as,are,,,[o-as]
@@ -428,6 +443,7 @@ respond,eo,es,ere,,,[eo-es]
 rest,o,as,are,,,[o-as]
 result,o,as,are,,,[o-as]
 resurg,o,is,are,,,[o-is],(AIP*resurg*resurrex@INACPAS*resurgps*resurrex)
+retin,eo,es,ere,,,[eo-es]
 revert,or,eris,ere,,,[or-eris],(ASI*revert*reverter)
 revert,o,is,ere,,,[o-is]
 rog,o,as,are,,,[o-as]
@@ -486,6 +502,7 @@ toll,o,is,ere,,,[o-is],(AIP*toll*sustul)
 tract,o,as,are,avi,atum,[o-as],(VENO*tract*xxx)
 trad,o,is,ere,,,[o-is],(AIP*trad*tradid@AIFP*trads*tradid@AIPP*trad*tradid@IAPP*trad*tradid)
 trans,eo,is,ire,,,[eo-is],(AIPP*trans*transi)
+transfer,o,s,re,,,[o-s],(AIP*transfer*transtul)
 transfund,o,is,ere,,,[o-is]
 transmitt,o,is,ere,,,[o-is]
 tribu,o,is,ere,,,[o-is]
