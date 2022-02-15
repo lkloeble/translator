@@ -1174,7 +1174,6 @@ patrologiacaput719=>in excogitando tamen pravissimo dogmate sese invicem express
 patrologiacaput720=>Utrum vero ipsis et cum |Cerinthianis| eodem modo convenerit, anceps ille est :
 patrologiacaput721=>De Christo vero, inquiebat (72), certo affirmare nequeo, utrum Cerinthi,
 patrologiacaput722=>vel Merinthi impietate illa decepti, simplicem illum hominem asseverent,
-patrologiacaput723a=>singulorum vitam plenissime novit. universae fraternitatis, suffragio et episcoporum judicio
 patrologiacaput723=>ac uti sese res habet, per Spiritum sanctum de Maria Virgine genitum esse fateantur.
 patrologiacaput724=>Theodoretus vero brevius planiusque edisserit, qui fuerint Nazaraei,
 patrologiacaput725=>et quae eorum haeresis, quo tempore exorta, et a quibus tandem expugnata :

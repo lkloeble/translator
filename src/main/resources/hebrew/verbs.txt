@@ -44,6 +44,7 @@ zry$,,[hiphil],(HIFPART%substitute%y$*iy*0)
 idy,,[paal],(AIP%leadingrootletter%i*i64@AIP%secondletterroot%d*d63@AIP%alternateaccentuation(5:9)%d63*d56@AIP%alternateaccentuation(5)%y*y64@IPR%substitute%id*iwd*0)
 ikl,wkl,[paal],(ARAIPR%substitute%ikl*ikwl*0@BINHIFPAST%substitute%kl*kxxl)
 inq,,[binyanhufal],(BINHUPER%substitute(4)%hinqa*hinq*0)
+irh,hwrwt,[hiphil]
 ird,,[paal],(IPR%substitute%ir*iwr*0@ARAIPR%substitute%ird*iwrd*0)
 isb,,[paal],(AIP%leadingrootletter%i*i64@AIP%secondletterroot%s*s29863@AIP%alternateaccentuation(5:9)%s29863*s29856@AIP%alternateaccentuation(5)%b*b64@IPR%substitute%is*iws*0@BINHIFPAST%substitute%sb*sxxb)
 itsa,,[paal],(AIP%leadingrootletter%i*i64@AIP%secondletterroot%ts*ts64@AIP%alternateaccentuation(5:9)%ts64*ts56@IPR%substitute%it*iwt*0)

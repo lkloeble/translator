@@ -71,6 +71,7 @@ a58n60i@prep%1(prep)=je
 anki@prep%1(prep)=je
 a64n65k60i@prep%1(prep)=je
 a58n6363'hnw309@prep%1(prep)=nous
+aygexpr@prep%1(prep)=malgré%2(prep)=même si
 arwk@adj!adj%1(adj)=long
 arih@noun!invpur%1(noun)=lion
 ark@verb!norm%1(verb)=prolonger
@@ -110,6 +111,7 @@ ba@verb!norm%1(verb)=venir
 bar@verb!norm%1(verb)=expliquer
 bdl@verb!norm%1(verb)=separer
 bh@prep%1(prep)=en elle
+bhdia@prep%1(prep)=explicitement
 b65hw@noun!invpur%1(noun)=vide
 bw@prep%1(prep)=en lui
 b305w331@prep()%1(prep)=en lui
@@ -167,6 +169,7 @@ dnn@verb!norm%1(verb)=discuter
 dyt@noun!invpur%1(noun)=opinion
 dkti@noun!invpur%1(noun)=pauvre
 dm@noun!im%1(noun)=sang
+dngy@noun!im%1(noun)=impureté
 dp@noun!im%1(noun)=page
 d64b64r@noun!im%1(noun)=chose,acte%2(noun)=parole
 dktib@prep%1(prep)=comme dit l'écriture
@@ -174,15 +177,18 @@ dla@prep%1(prep)=qui n'est pas
 drk@noun!im%1(noun)=voie%2(noun)=chemin
 drs@verb!norm%1(verb)=demander%2(verb)=rechercher
 drsh@noun!invpur%1(noun)=interprétation
+dwrsn@noun!invpur%1(noun)=verset suivant
 drsinn@noun!invpur%1(noun)=xxxxdarshinenxxxpas traduitxxx
 dsa@noun!im%1(noun)=végétation
 dsa@verb!norm%1(verb)=verdir
 dtima@noun!invpur%1(noun)=religiosité
+dtninn@noun!invpur%1(noun)=nous avons affirmé
 h@prep%1(prep)=le[les,la]
 h?q@prep%1(prep)=ainsi soit-il
 h59@prep%1(prep)=le[les,la]
 hayyimtyrer@noun!invpur%1(noun)=Hayyim ben Solomon Tyrer (rabbin hassidique)
 hdsh@noun!invpur%1(noun)=hadassah
+hwrah@noun!invpur%1(noun)=instruction
 hwsyih@noun!invpur%1(noun)=hoshaya
 h62m000@prep%1(prep)=eux
 hm000@prep%1(prep)=eux
@@ -288,6 +294,7 @@ i60r56a63t@noun!imonly%1(noun)=crainte
 ird@verb!norm%1(verb)=descendre
 inq@verb!norm%1(verb)=allaiter
 i56rw309s29864l63i60m000@noun!invmasc%1(noun)=jérusalem
+irh@verb!norm%1(verb)=instruire
 ir'h@noun!im%1(noun)=mois%2(noun)=lune
 is@prep%(prep)=il y a
 isb@verb!norm%1(noun)=demeurer
@@ -427,6 +434,7 @@ mpni@prep%1(prep)=contre
 mqwh@noun!invpur%1(noun)=rassemblement des eaux
 mqr@noun!mascendingh%1(noun)=accident%2(noun)=occurence
 mqra@noun!invpur%1(noun)=verset biblique%2(noun)=proclamation (biblique)
+mrdki@noun!invpur%1(noun)=mordechai (mardochée)
 mrgl@noun!im%1(noun)=explorateur%2(noun)=espion
 mys@noun!endingh%1(noun)=acte%2(noun)=oeuvre
 mswm000@prep%1(prep)=parce que
@@ -457,6 +465,7 @@ ngd@verb!norm%1(verb)=dire
 ngy@verb!norm%1(verb)=arriver
 nhg@verb!norm%1(verb)=estcoutumier
 nwpl@noun!invpur%1(noun)=tombe
+n'hwm@noun!invpur%1(noun)=nahum
 n'hl@verb!norm%1(verb)=heriter
 nia@verb!norm%1(verb)=dissuader
 nkns@verb!norm%1(verb)=entrer
@@ -609,6 +618,7 @@ s29860b56y64h@noun!invpur%1(noun)=sept
 sbyim000@noun!invpur%1(noun)=soixante-dix
 sbt@noun!invpur%1(noun)=shabbat
 sdr@noun!im%1(noun)=ordre
+shri@prep%1(prep)=car
 s'hr@noun!im%1(noun)=aube
 swb@verb!norm%1(verb)=retourner%2(verb)=repondre
 swkb@noun!invmasc%1(noun)=coucher

@@ -69,14 +69,18 @@ dkti@neut%invpur
 dlt@fem%im
 dyt@fem%invpur
 dm@masc%im
+dngy@masc%im
 dp@masc%im
 drk@masc%im
 drsh@fem%invpur
+dwrsn@neut%invpur
 drsinn@neut%invpur
 dsa@masc%im
 dtima@neut%invpur
+dtninn@neut%invpur
 hayyimtyrer@neut%invpur
 hdsh@fem%invpur
+hwrah@fem%invpur
 hwsyih@neut%invpur
 h61ik64l@masc%im
 hll@neut%invpur
@@ -186,6 +190,7 @@ mlkwt@fem%ot2
 mqwh@neut%invpur
 mqr@masc%mascendingh
 mqra@masc%invpur
+mrdki@masc%invpur
 mrgl@masc%im
 mys@masc%endingh
 mtsw@fem%ot
@@ -205,6 +210,7 @@ ndbk@masc%invpur
 n56h63r@masc%mascot
 n64y63r@masc%im
 nwpl@neut%invpur
+n'hwm@masc%invpur
 npsl@adj%im-ot
 nts@masc%im
 ybir@fem%ot
