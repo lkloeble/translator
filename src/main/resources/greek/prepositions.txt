@@ -2,6 +2,7 @@
 αει@prep()
 αι@prep()
 αιθ@prep()
+αιεν@prep()
 αλλ@prep()
 αλληλα@prep(nom)
 αλληλους@prep(acc)
@@ -50,13 +51,14 @@
 ενι@prep()
 ενθ@prep()
 ενθα@prep()
+ενθεν@prep()
 ενωπιον@prep()
 επ@prep()
 επι@prep()
 επτακις@prep()
 εξ@prep()
 εξω@prep()
-εως@prep()
+εοντων@prep(gen)
 επανω@prep()
 επι@prep%[electGenitiveForFollowingNoun(επιgen),electDativeForFollowingNoun(επιdat),electAccusativeForFollowingNoun(επιacc)]
 επιgen@prep()
@@ -65,6 +67,7 @@
 ες@prep()
 εφ@prep()
 εχθες@prep()
+εως@prep()
 ηδε@prep()
 ηδη@prep()
 ηι@prep()
@@ -72,6 +75,7 @@
 ημιν@prep()
 ημων@prep()
 ηστινος@prep()
+ιδε@prep()
 ιδου@prep()
 ιλεως@prep()
 ινα@prep()
@@ -165,6 +169,7 @@
 περι@prep%[electAccusativeForFollowingNoun(περιacc),electGenitiveForFollowingNoun(περιgen)]
 περιacc@prep()
 περιgen@prep()
+ποθ@prep()
 πορρω@prep()
 ποτε@prep()
 που@prep()
@@ -204,6 +209,7 @@
 τοιγαρουν@prep()
 τοις@prep()prep(dat)%[electDativeForFollowingNoun]
 τον@prep%prep(acc)%[electAccusativeForFollowingNoun]
+τονδε@prep(acc)
 τοτε@prep()
 του@prep%prep(gen)%[electGenitiveForFollowingNoun]
 τουδε@prep()

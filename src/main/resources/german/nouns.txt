@@ -969,6 +969,7 @@ ledig@adj%ausreichend
 legitim@adj%ausreichend
 legitimitat@fem%inv
 lehn@neut%inv
+lehnstelle@fem%flasche
 lehr@neut%inv
 lehre@fem%flasche
 lehrer@masc%autor

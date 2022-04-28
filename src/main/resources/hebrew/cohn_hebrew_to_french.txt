@@ -32,6 +32,7 @@ ailk000@prep%1(prep)=désormais
 ailn@noun!invpur%1(noun)=arbre
 ain000@prep%1(prep)=il n'y a pas
 ainw@prep%1(prep)=ce n'est pas
+aini@prep%1(prep)=je ne
 ainn000@prep%1(prep)=ce ne sont pas
 a61in000@prep%1(prep)=il n'y a pas
 a60is@noun!custom(nomplr=ansim|cst(nomplr)=ansi&|dechsofit=aish|nomsg=a60is)%1(noun)=homme
@@ -72,6 +73,7 @@ anki@prep%1(prep)=je
 a64n65k60i@prep%1(prep)=je
 a58n6363'hnw309@prep%1(prep)=nous
 aygexpr@prep%1(prep)=malgré%2(prep)=même si
+apilw@prep%1(prep)=même
 arwk@adj!adj%1(adj)=long
 arih@noun!invpur%1(noun)=lion
 ark@verb!norm%1(verb)=prolonger
@@ -116,6 +118,7 @@ b65hw@noun!invpur%1(noun)=vide
 bw@prep%1(prep)=en lui
 b305w331@prep()%1(prep)=en lui
 bwa@verb!norm%1(verb)=apporter
+bxl@verb!norm%1(verb)=annuler
 b'hr@verb!norm%1(verb)=choisir
 bi'hd@prep()%1(prep)=ensemble
 b30561in000@prep%1(prep)=entre
@@ -265,6 +268,7 @@ ztslexpr@noun!invpur%1(noun)=de mémoire bénie
 'hmh@noun!invfem%1(noun)=soleil
 'hmisi@noun!invpur%1(noun)=cinquième
 'htm@verb!norm%1(verb)=sceller%2(verb)=signer%3(verb)=finir
+'htn@noun!im%1(noun)=fiancé
 'hsk@verb!norm%1(verb)=obscurcir
 'htswt@noun!invmasc%1(noun)=milieu de la nuit
 xym@noun!im%1(noun)=goût
@@ -365,6 +369,7 @@ lbn@noun!invmasc%1(noun)=blanc%2(noun)=laban
 lhln000@prep%1(prep)=ci-dessous
 l63i56l64h@noun!custom(nomplr=lilwt|cst(nomsg)=lil&|nomsg=l63i56l64h)%1(noun)=nuit
 l64i56l64h@noun!custom(nomplr=lilwt|cst(nomsg)=lil&|nomsg=l64i56l64h)%1(noun)=nuit
+limdtnw@noun!invpur%1(noun)=nous a enseigné
 lin@verb!norm%1(verb)=seplaindre%2(verb)=suspendre%3(verb)=repousser
 lmd@verb!norm%1(verb)=enseigner
 lmd$@verb!norm%1(verb)=enseigner
@@ -408,6 +413,7 @@ mawr@noun!custom(nomsg=mawr|nomplr=mart)%1(noun)=luminaire
 mawr@noun!ot%1(noun)=repaire
 mair@noun!invpur%1(noun)=méir
 mwyd@noun!im%1(noun)=fête
+mwtsai@noun!invpur%1(noun)=soir de
 mzb'h@noun!im%1(noun)=autel
 mx@noun!ot%1(noun)=lit
 mh@prep%1(prep)=quoi
@@ -434,6 +440,7 @@ mpni@prep%1(prep)=contre
 mqwh@noun!invpur%1(noun)=rassemblement des eaux
 mqr@noun!mascendingh%1(noun)=accident%2(noun)=occurence
 mqra@noun!invpur%1(noun)=verset biblique%2(noun)=proclamation (biblique)
+mqri@adj!ot%1(adj)=accidentel
 mrdki@noun!invpur%1(noun)=mordechai (mardochée)
 mrgl@noun!im%1(noun)=explorateur%2(noun)=espion
 mys@noun!endingh%1(noun)=acte%2(noun)=oeuvre
@@ -482,6 +489,7 @@ nsa@verb!norm%1(verb)=porter
 pdgwg@noun!im%1(noun)=pédagogue
 pi'@noun!invpur%1(noun)=paracha
 pirws@noun!im%1(noun)=commentaire
+pxwr@noun!im%1(noun)=exemption
 p64n64@noun!im-fem%1(noun)=face
 psq@verb!norm%1(verb)=sarreter
 p56r60i@noun!im%1(noun)=fruit

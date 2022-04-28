@@ -1,4 +1,5 @@
 IPR=>or,aris,atur,amur,amini,antur
+AIP=>abar,abaris,abatur,abamur,abamini,abantur
 ASP=>er,eris,etur,emur,emini,entur
 ASI=>arer,areris,aretur,aremur,aremini,arentur
 AIMP=>xxx,are,xxx,xxx,amini,xxx

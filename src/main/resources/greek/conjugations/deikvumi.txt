@@ -11,3 +11,4 @@ ACAOIN=>ην,ης,η,ημεν,ητε,ησαν
 ACAOINBIS=>-x,-x,εν,-x,-x,-x
 ACAOINTER=>α,ας,ε,αμεν,ατε,ασι
 PRESPASSINF=>εσθαι
+PRESACTPART=>[apas]

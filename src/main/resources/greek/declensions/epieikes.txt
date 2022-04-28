@@ -5,7 +5,8 @@ gen%sing%masc%ους
 gen%sing%fem%ους
 gen%sing%neut%ους
 acc%sing%masc%η
-acc%sing%fem%η
+acca%sing%fem%η
+accb%sing%fem%εα
 acc%sing%neut%ες
 voc%sing%masc%ες
 voc%sing%fem%ες

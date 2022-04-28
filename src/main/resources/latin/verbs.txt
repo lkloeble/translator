@@ -1,5 +1,6 @@
 abdic,o,is,ere,,,[o-is],(AIP*abdic*abdicav)
 abdic,o,is,ere,,,[o-is],(AIP*abdic*abdicav)
+abduc,o,is,ere,,,[o-is]
 abjic,io,is,ere,,,[io-is]
 absolv,o,is,ere,,,[o-is]
 absolv,o,is,ere,,,[o-is]
@@ -148,6 +149,7 @@ deb,eo,es,ere,-,-,[eo-es]
 decert,o,as,are,,,[o-as]
 decip,io,is,ere,,,[io-is],(IAPP124*decip*decep)
 declar,o,as,are,,,[o-as]
+defend,o,is,ere,,,[o-is]
 defic,io,is,ire,-,-,[io-is]
 defin,io,is,ire,-,-,[io-is]
 deg,o,is,ere,,,[o-is]
@@ -157,6 +159,7 @@ delig,o,is,ere,,,[o-is]
 delect,o,as,are,avi,atum,[o-as]
 demonstr,o,as,are,avi,atum,[o-as]
 depon,o,is,ere,,,[o-is]
+depopul,o,as,are,,,[o-as]
 deput,o,as,are,,,[o-as]
 derid,eo,es,ere,,,[eo-es]
 descend,o,is,ere,,,[o-is],(AIFP*descends*descend@INACPAS*descendps*descend)
@@ -214,6 +217,7 @@ exist,o,is,ere,,,[o-is],(IAPP1*exist*extit)
 explod,o,is,ere,,,[o-is]
 exprim,o,is,ere,,,[o-is],(AIP*exprim*express)
 exprob,io,is,ere,,,[io-is2]
+expugn,o,as,are,,,[o-as]
 exsequ,or,eris,i,,,[or-eris]
 exsist,o,is,ere,,,[o-is],(AIFP*exsists*exstit)
 exspect,o,as,are,,,[o-as]
@@ -382,6 +386,7 @@ pl,eo,es,ere,ui,itum,[eo-es]
 plant,o,as,are,,,[o-as]
 plor,o,as,are,,,[o-as]
 pon,o,is,ere,,,[o-is],(AIP*pon*posu)
+popul,or,aris,ari,,,[or-aris]
 port,o,as,are,,,[o-as]
 possum@IRREGULAR%[INFINITIVE]=[posse]%[IPR]=[possum,potes,potest,possumus,potestis,possunt]%[AIP]=[potui,potuisti,potuit,potuimus,potuistis,potuerunt]%[AIF]=[potero,poteris,poterit,poterimus,poteritis,poterunt]%[ASI]=[possem,posses,posset,possemus,possetis,possent]%[ASP]=[possim,possis,possit,possimus,possitis,possint]%[AIFP]=[potuero,potueris,potuerit,potuerimus,potueritis,potuerint]%[INACPAS]=[posse,potuisse,,,,,]%[AII]=[poteram,poteras,poterat,poteramus,poteratis,poterant]
 poti,or,ris,ri,,,[or-ris],(IAPP*poti*potitus)
@@ -475,6 +480,7 @@ spect,o,as,are,,,[o-as]
 spern,o,is,ere,,,[o-is],(AIP*spern*sprev)
 sper,o,as,are,,,[o-as]
 st,o,as,are,,,[o-as],(AIP*stav*stet)
+statu,o,is,ere,,,[o-is]
 stud,eo,es,ere,,,[eo-es]
 subd,o,is,ere,,,[o-is]
 subic,io,is,ere,,,[io-is]
@@ -501,6 +507,7 @@ tim,eo,es,ere,,,[eo-es]
 toll,o,is,ere,,,[o-is],(AIP*toll*sustul)
 tract,o,as,are,avi,atum,[o-as],(VENO*tract*xxx)
 trad,o,is,ere,,,[o-is],(AIP*trad*tradid@AIFP*trads*tradid@AIPP*trad*tradid@IAPP*trad*tradid)
+traduc,o,is,ere,,,[o-is],(AIPP*traduc*tradux)
 trans,eo,is,ire,,,[eo-is],(AIPP*trans*transi)
 transfer,o,s,re,,,[o-s],(AIP*transfer*transtul)
 transfund,o,is,ere,,,[o-is]
@@ -511,6 +518,7 @@ ut,or,eris,i,,,[or-eris]
 vad,o,is,ere,,,[o-is]
 vag,or,aris,ari,,,[or-aris]
 val,eo,es,ere,ui,itum,[eo-es]
+vast,o,as,are,,,[o-as]
 veh,o,is,ere,,,[o-is]
 vend,o,is,ere,,,[o-is],(AIP*vend*vendid)
 venen,o,as,are,,,[o-as],(PSI*venen*venenar)

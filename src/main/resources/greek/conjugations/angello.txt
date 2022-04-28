@@ -3,3 +3,4 @@ ACAOIN=>-x,ας,α,-x,-x,αν
 AORPASIND=>-x,-x,-x,-x,-x,αν
 AII=>ον,ες,εν|ε|ει,ομεν|ουμεν,ετε|ειτε,ον|ουν
 AORICONJ=>[apas]
+PERACTPAR=>[ος-α-ον]

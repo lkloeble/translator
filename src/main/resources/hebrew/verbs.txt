@@ -11,6 +11,7 @@ ba,,[paal2],(AIP%leadingrootletter%b*b30564@AIP%alternateaccentuation(5)%a*a64))
 bar,,[piel]
 bdl,,[hiphil],(HIFPER%leadingrootletter%h*h60@HIFPER%secondletterroot%b*b56@HIFPER%alternateaccentuation(4:5:9)%d*d60i)
 bwa,hbia,[hiphil]
+bxl,,[piel]
 b'hr,,[paal],(IPR%substitute%b'h*bw'h*0)
 bra,,[paal],(AIP%leadingrootletter%*b30564@AIP%secondletterroot%r*r64@AIP%secondletterrootexception(5:9)%r*r56@AIP%alternateaccentuation%b30564*b64@IPR%substitute%br*bwr*0
 brk,,[binyan]

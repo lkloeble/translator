@@ -689,40 +689,6 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("lxxgen1EE", translatorBridge);
     }
 
-
-
-    @Test
-    public void test_hesiode_theogony1to100() {
-        checkInMaps("hesiodtheogony001", translatorBridge);
-        checkInMaps("hesiodtheogony002", translatorBridge);
-        checkInMaps("hesiodtheogony003", translatorBridge);
-        checkInMaps("hesiodtheogony004", translatorBridge);
-        checkInMaps("hesiodtheogony005", translatorBridge);
-        checkInMaps("hesiodtheogony006", translatorBridge);
-        checkInMaps("hesiodtheogony007", translatorBridge);
-        checkInMaps("hesiodtheogony008", translatorBridge);
-        checkInMaps("hesiodtheogony009", translatorBridge);
-        checkInMaps("hesiodtheogony010", translatorBridge);
-        checkInMaps("hesiodtheogony011", translatorBridge);
-        checkInMaps("hesiodtheogony012", translatorBridge);
-        checkInMaps("hesiodtheogony013", translatorBridge);
-        checkInMaps("hesiodtheogony014", translatorBridge);
-        checkInMaps("hesiodtheogony015", translatorBridge);
-        checkInMaps("hesiodtheogony016", translatorBridge);
-        checkInMaps("hesiodtheogony017", translatorBridge);
-        checkInMaps("hesiodtheogony018", translatorBridge);
-        checkInMaps("hesiodtheogony019", translatorBridge);
-        checkInMaps("hesiodtheogony020", translatorBridge);
-        checkInMaps("hesiodtheogony021", translatorBridge);
-        checkInMaps("hesiodtheogony022", translatorBridge);
-        checkInMaps("hesiodtheogony023", translatorBridge);
-        checkInMaps("hesiodtheogony024", translatorBridge);
-        checkInMaps("hesiodtheogony025", translatorBridge);
-        checkInMaps("hesiodtheogony026", translatorBridge);
-        checkInMaps("hesiodtheogony027", translatorBridge);
-        checkInMaps("hesiodtheogony028", translatorBridge);
-    }
-
     @Test
     public void test_herodote_book1_chapter1() {
         checkInMaps("herodote110A", translatorBridge);

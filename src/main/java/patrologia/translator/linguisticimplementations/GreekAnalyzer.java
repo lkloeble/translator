@@ -375,6 +375,7 @@ public class GreekAnalyzer implements Analyzer {
     private Phrase substituteAbbreviations(Phrase phrase) {
         Map<String,String> toSubstitute = new HashMap<>();
         toSubstitute.put("δ","δε");
+        toSubstitute.put("τ","τε");
         Set<Integer> indices = phrase.keySet();
         for(Integer indice : indices) {
             Word currentWord = phrase.getYetUnknownWordAtPosition(indice);

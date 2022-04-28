@@ -1465,6 +1465,7 @@ leg@verb!norm%1(verb)=reposer
 legitim@adj!ausreichend%1(adj)=légitime
 legitimitat@noun!inv%1(noun)=légitimité
 lehn@noun!inv%1(noun)=repos
+lehnstelle@noun!flasche%1(noun)=référence
 lehr@noun!inv%1(noun)=apprentissage
 lehre@noun!flasche%1(noun)=doctrine
 lehr@verb!norm%1(verb)=enseigner

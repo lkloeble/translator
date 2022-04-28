@@ -64,3 +64,4 @@ es-itis%superstes.txt
 es-idis%obses.txt
 or-oris%adjutor.txt
 x-a-um%adjectiveXAUm.txt
+us-utis%servitus.txt

@@ -111,6 +111,7 @@ ztslexpr@neut%invpur
 'h63k63m000@adj%adj
 'hlb@masc%im
 'h58lw331m000@masc%mascot
+'htn@masc%im
 xym@masc%im
 xrpwn000@masc%invpur
 ibm@fem%ot
@@ -159,6 +160,7 @@ lbn@masc%invmasc
 l'hm@neut%invpur
 l63i56l64h@fem%custom(nomplr=lilwt|cst(nomsg)=lil&|nomsg=l63i56l64h)
 l64i56l64h@fem%custom(nomplr=lilwt|cst(nomsg)=lil&|nomsg=l64i56l64h)
+limdtnw@neut%invpur
 lin@fem%endingh
 lsxim000@neut%invpur
 lsxin000@neut%invpur
@@ -175,6 +177,7 @@ mawr@masc%custom(nomsg=mawr|nomplr=mart)
 mawr@fem%ot
 mair@masc%invpur
 mwyd@masc%im
+mwtsai@neut%invpur
 mzb'h@masc%im
 mx@fem%ot
 milh@neut%invpur
@@ -190,6 +193,7 @@ mlkwt@fem%ot2
 mqwh@neut%invpur
 mqr@masc%mascendingh
 mqra@masc%invpur
+mqri@adj%ot
 mrdki@masc%invpur
 mrgl@masc%im
 mys@masc%endingh
@@ -238,6 +242,7 @@ p64n64@fem%im-fem
 pdgwg@masc%im
 pi'@neut%invpur
 pirws@masc%im
+pxwr@masc%im
 praexpr@neut%invpur
 prw@neut%invpur
 p56r60i@masc%im

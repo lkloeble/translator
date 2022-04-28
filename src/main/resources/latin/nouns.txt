@@ -70,6 +70,7 @@ alti@adj%or-or-us
 altissim@adj%us-a-um
 altitud@fem%o-inis
 amarissim@adj%us-a-um
+ambarr@masc%us-i
 ambo@adj%inv
 amen@neut%inv
 amic@fem%a-ae
@@ -144,6 +145,7 @@ aur@neut%um-i
 aureli@fem%a-ae
 aus@adj%us-a-um
 authentic@adj%us-a-um
+auxili@neut%um-i
 av@fem%is-is
 ave@neut%inv
 azym@adj%us-a-um
@@ -179,7 +181,7 @@ cael@neut%um-i
 cael@neut%us-i
 caelest@adj%is-is-e
 caeremoni@fem%a-ae
-caesar@masc%x-is
+caesar@masc%x-is2
 caeter@adj%us-a-um
 cai@masc%us-i
 calam@masc%us-i
@@ -282,15 +284,19 @@ congregatio@neut%x-nis
 coniurati@fem%o-onis
 conjectur@adj%us-a-um
 conjuncti@fem%o-onis
+consanguine@adj%us-a-um
 conscript@adj%us-a-um
 consepult@adj%us-a-um
 consili@neut%um-i
+conspect@masc%us-us
+conspect@adj%us-a-um
 conspurcat@adj%us-a-um
 constan@adj%s-s-s
 constitut@adj%us-a-um
 constitut@neut%um-i
 consuetud@fem%o-inis
 consul@masc%x-is2
+consumpt@adj%us-a-um
 consurgen@adj%s-s-s
 contect@adj%us-a-um
 contract@adj%us-a-um
@@ -477,6 +483,7 @@ existenti@fem%a-ae
 exitios@adj%us-a-um
 exordi@neut%um-i
 exort@adj%us-a-um
+expectand@adj%us-a-um
 explicand@adj%us-a-um
 explicat@masc%us-us
 explicati@fem%o-onis
@@ -534,6 +541,7 @@ fon@masc%s-tis
 for@neut%um-i
 fortissim@adj%us-a-um
 fortitud@fem%o-inis
+fortun@fem%a-ae
 foss@fem%a-ae
 frat@masc%er-ris
 frau@fem%s-dis
@@ -843,6 +851,7 @@ mercator@masc%x-is2
 merinth@masc%us-i
 merinthianos@neut%inv
 merit@neut%um-i
+merit@adj%us-a-um
 messi@masc%as-ae
 mili@neut%um-i
 milit@masc%x-is2[nomsing:miles]
@@ -895,6 +904,7 @@ nav@fem%is-is
 nax@masc%us-i
 nazarae@adj%e-a-um
 nazaren@masc%us-i
+necessari@adj%us-a-um
 necesse@adj%inv
 nefari@adj%us-a-um
 nequiti@fem%a-ae
@@ -1067,6 +1077,7 @@ port@fem%a-ae
 portatur@adj%us-a-um
 portent@adj%us-a-um
 posit@adj%us-a-um
+possessi@fem%o-onis
 poster@adj%us-a-um
 postrem@adj%us-a-um
 postulati@fem%o-onis
@@ -1219,7 +1230,7 @@ sanctissim@adj%us-a-um
 sanctita@fem%s-tis
 sangui@masc%s-nis
 sanguine@adj%us-a-um
-santon@masc%scriptor
+santon@masc%x-ri
 sapienti@fem%a-ae
 sardini@fem%a-ae
 satiat@adj%us-a-um
@@ -1264,6 +1275,7 @@ servand@adj%us-a-um
 servator@masc%x-is2
 servien@masc%s-tis
 serviend@adj%us-a-um
+servit@fem%us-utis
 severi@adj%or-or-us
 sex@neut%inv
 sext@adj%us-a-um

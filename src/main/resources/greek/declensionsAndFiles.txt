@@ -67,3 +67,5 @@ x-α-x%stas.txt
 ω-ους%leto.txt
 ις-ις-ι%eukvemis.txt
 ων-οντος%gerwv.txt
+ας-αινα-αν%melas.txt
+ην-ος%apvhs.txt

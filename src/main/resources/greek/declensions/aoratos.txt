@@ -1,7 +1,8 @@
 nom%sing%masc%ος
 nom%sing%fem%ος
 nom%sing%neut%ον
-gen%sing%masc%ου
+gena%sing%masc%ου
+genb%sing%masc%οιο
 gen%sing%fem%ου
 gen%sing%neut%ου
 acc%sing%masc%ον
