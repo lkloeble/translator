@@ -480,7 +480,7 @@ spect,o,as,are,,,[o-as]
 spern,o,is,ere,,,[o-is],(AIP*spern*sprev)
 sper,o,as,are,,,[o-as]
 st,o,as,are,,,[o-as],(AIP*stav*stet)
-statu,o,is,ere,,,[o-is]
+statu,o,is,ere,,,[o-is],(AIF*statu*statuxxx@ASP*statu*statuxxx)
 stud,eo,es,ere,,,[eo-es]
 subd,o,is,ere,,,[o-is]
 subic,io,is,ere,,,[io-is]

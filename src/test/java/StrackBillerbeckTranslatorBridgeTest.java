@@ -661,7 +661,7 @@ public class StrackBillerbeckTranslatorBridgeTest extends TranslatorBridgeTest {
 
     @Test
     public void test_strack_page14_par1() {
-        checkInMaps("", translatorBridge);
+        checkInMaps("toto", translatorBridge);
     }
 
     }

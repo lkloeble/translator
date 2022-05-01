@@ -44,7 +44,7 @@ alterer@NORM%[INFINITIVE]=[altérer]%[IPR]=[altère,altères,altère,altèrons,a
 ameliorer@NORM%[INFINITIVE]=[améliorer]%[IPR]=[améliore,améliores,améliore,améliorons,améliorez,améliorent]
 amener@NORM%[INFINITIVE]=[amener]%[IPR]=[amène,amènes,amène,amènons,amènez,amènent]%[PAP]=[amené]%[AORACTPART]=[amené,amené,amené,amenés,amenés]
 amuser@NORM%[IPR]=[amuse,amuses,amuse,amusons,amusez,amusent]%[INFINITIVE]=[amuser]
-annoncer@NORM%[INFINITIVE]=[annoncer]%[IPR]=[annonce,annonces,annonce,annonçons,annoncez,annoncent]%[ASI]=[annonçasse,annonçasses,annonçasse,annonçassions,annonçassiez,annonçassent]%[PEACINF]=[soit annoncé]
+annoncer@NORM%[INFINITIVE]=[annoncer]%[IPR]=[annonce,annonces,annonce,annonçons,annoncez,annoncent]%[ASI]=[annonçasse,annonçasses,annonçasse,annonçassions,annonçassiez,annonçassent]%[PEACINF]=[soit annoncé]%[PERACTPAR]=[annoncé]
 annuler@NORM%[INFINITIVE]=[annuler]%[IPR]=[annule,annules,annule,annulons,annulez,annulent]%[AIP]=[annulai,annulas,annula,annulâmes,annulâtes,annulèrent]
 apaiser@NORM%[INFINITIVE]=[apaiser]%[IPR]=[apaise,apaises,apaise,apaisons,apaisez,apaisent]%[MIAOIN]=[apaisai,apaisas,apaisa,apaisâmes,apaisâtes,apaisèrent]
 aplanir@NORM%[INFINITIVE]=[aplanir]%[IPR]=[aplanis,aplanis,aplanit,aplanissons,aplanissez,aplanissent]

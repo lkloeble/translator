@@ -571,3 +571,5 @@ strackp14par35=>damit hat er dich zum Anhängsel (Nebensache) deinen Brüdern ge
 strackp14par36=>Das wollen die Worte besagen: Ganz schön bist du, meine Freundin. || NuR 13 (169c):
 strackp14par37=>Nu 7, 12: „Nachschon, Sohn des Amminadab vom Stamme Jehuda." Die Schrift genealogisiert ihn nach dem Namen seines Stammes:
 strackp14par38=>das ist eine Ehre (Lob) für ihn, eine Ehre für seinen Vater, eine Ehre für seinen Stamm.
+
+toto=>david
