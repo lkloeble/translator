@@ -3,6 +3,6 @@ AII=>am,ai,a,am,atsi,au
 ASP=>,i,e,am,atsi,e
 AIF=>voi,vei,va,vom,vetsi,vor
 PAP=>[adj,adjts]
-PAPR=>and|andu
+PAPR=>and|andu|ind|indu
 COND=>a,a,a,a,a,a
 CONJ=>,i,e,am,atsi,e

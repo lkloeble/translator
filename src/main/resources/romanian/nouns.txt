@@ -251,6 +251,7 @@ curs@masc%ul
 cutezat@adj%adjor
 cuvant@masc%ul
 cuvint@masc%capul
+cuvi@adj%pacatos
 dadac@fem%fem
 dainuir@fem%berea
 dan@neut%inv
@@ -428,6 +429,7 @@ gared@neut%inv
 gen@masc%ul
 general@neut%inv
 genetic@fem%fem
+gind@masc%locul
 git@masc%ul
 glas@masc%ul
 glug@fem%fem
@@ -611,6 +613,7 @@ lucr@masc%locul
 lucrar@fem%berea
 lucrator@masc%ul
 lum@fem%berea
+lum@adj%esc
 lumin@fem%fem
 lun@fem%fem
 lung@adj%adj
@@ -738,6 +741,7 @@ neoranduiel@fem%fem
 neplacut@adj%adj
 nepotrivit@adj%adjts
 neprihanir@fem%berea
+neputints@fem%fem
 nesfarsit@adj%adjts
 nesocotit@adj%adjts
 nestiints@fem%fem
@@ -972,6 +976,7 @@ revist@fem%fem
 rezemat@adj%adj
 rezumat@masc%ul
 rigid@adj%adj
+rind@masc%ul
 risc@masc%locul
 roat@fem%fem[nomplr(a):roate,nomplr(b):rotsi,nomplr(c):roatele,nomplr(d):rotsile]
 rod@masc%ul[nomplr(a):roadele]
@@ -1011,6 +1016,7 @@ satisfacat@adj%adjor
 scandal@masc%ul
 scandalos@adj%adj
 scaun@masc%ul
+schimbaci@adj%pacatos
 scoal@fem%fem
 scop@masc%locul
 scrier@fem%berea
@@ -1169,11 +1175,13 @@ treia@neut%inv
 treisprezece@neut%inv
 treizeci@neut%inv
 tren@masc%ul
+trindav@fem%conceptie
 triumf@masc%ul
 tristets@fem%berea
 truf@fem%conceptie
 trufas@adj%adj
 trup@masc%ul
+trup@adj%esc
 tsaran@masc%ul
 tsarm@masc%ul
 tseser@fem%berea

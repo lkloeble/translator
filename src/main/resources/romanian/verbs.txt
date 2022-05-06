@@ -19,6 +19,7 @@ amint,i,[aciti],(MMCP*amint*amintis)
 amuz,,[bea]
 angaj,,[fumez]
 apar,ea,[face],(ACP*apar*arapar)
+aplec,a,[incerca]
 apreci,,[aprecia]
 aprind,e,[merg],(IPR1*di*zi*1@PAP*aprind*aprins)
 apropi,a,[manie]
@@ -121,6 +122,7 @@ distrug,e,[merg]
 dizolv,a,[cauta]
 doar,,[dorm],(IPR0*doar*dor)
 doband,,[aciti],(PAP*doband*dobandit)
+dobind,,[aciti],(PAP*dobind*dobindit)
 domn,i,[aciti]
 dor,,[aciti],(PAP*dor*dorit)
 dorm,i,[dorm]
@@ -160,7 +162,8 @@ imbogats,,[aciti],(ASP25*imbogats*imbogatse)
 imbrac,a,[incerca],(PAP*imbrac*imbracat)
 imbratsis,a,[fumez]
 impart,si,[impart]
-impartasi,,[impart]
+impartas,i,[aciti]
+ximpartasi,,[impart]
 impiedic,a,[incerca]
 imping,e,[merg]
 implic,,[cauta],(PAP*implic*implicat)
@@ -232,6 +235,7 @@ iub,,[aciti]
 iv,i,[aciti],(PAP*iv*ivit)
 izb,i,[aciti],(PAP*izb*izbit)
 izbut,i,[aciti],(PAP*izbut*izbutit)
+lamur,i,[aciti]
 las,a,[cauta],(PAP*las*lasat)
 lats,i,[mantui],(PAP*latsi*latsit)
 lepad,,[incerca],(IPR25*lepad*leapad@IPR1*lepad*lepez@PAP*lepad*lepadat)
@@ -318,6 +322,7 @@ rac,i,[aciti],(PAP*rac*racit)
 rama,nea,[ramane],(PAP*rama*ramas)
 ran,i,[aciti],(PAP*ran*ranit)
 rasad,,[aciti],(PAP*rasad*rasadit)
+rasar,i,[dorm],(PAP*rasar*rasarit)
 rasc,oli,[rascol]
 rascul,a,[incerca],(PAP*rascul*rasculat)
 raspun,,[raspund]
@@ -349,6 +354,7 @@ savars,i,[aciti]
 savirs,,[primi]
 sca,dea,[crede]
 scap,a,[cauta]
+schimb,a,[incerca]
 scoat,,[scoate],(PAP*scoat*scos@IPR015*scoat*scot)
 scri,,[scrie]
 scufun,da,[succeda]

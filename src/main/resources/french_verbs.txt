@@ -840,7 +840,7 @@ seffondrer@NORM%[INFINITIVE]=[s'effonder]=[IPR]=[m'effondre,t'effondres,s'effond
 sefiancer@NORME%[INFINITIVE]=[se fiancer]%[AORPASSPART]=[fiancée]
 selamenter@NORM%[INFINITIVE]=[se lamenter]%[IPR]=[me lamente,te lamentes,se lamente,nous lamentons,vous lamentez,se lamentent]
 selectionner@NORM%[INFINITIVE]=[sélectionner]%[IPR]=[sélectionne,sélectionnes,sélectionne,sélectionnons,sélectionnez,sélectionnent]%[PAP]=[sélectionné]
-selever@NORM%[INFINITIVE]=[se lever]%[IPR]=[me lève,te lèves,se lève,nous levons,vous levez,se lèvent]%[AIMP]=[-,lève-toi,-,levons-nous,levez-vous,-]%[AIF]=[me leverai,te leveras,se levera,nous léverons,vous léverez,se léveront]%[ARAIPR]=[me lève,te lèves,se lève,nous levons,vous levez,se lèvent]%[AIP]=[me levai,te levas,se leva,nous levâmes,vous levâtes,se levèrent]
+selever@NORM%[INFINITIVE]=[se lever]%[IPR]=[me lève,te lèves,se lève,nous levons,vous levez,se lèvent]%[AIMP]=[-,lève-toi,-,levons-nous,levez-vous,-]%[AIF]=[me leverai,te leveras,se levera,nous léverons,vous léverez,se léveront]%[ARAIPR]=[me lève,te lèves,se lève,nous levons,vous levez,se lèvent]%[AIP]=[me levai,te levas,se leva,nous levâmes,vous levâtes,se levèrent]%[PAPR]=[se levant]
 semanifester@NORM%[se manifester]%[IPR]=[me manifeste,te manifestes,se manifeste,nous manifestons,vous manifestez,se manifestent]%[AII]=[me manifestais,te manifestais,se manifestait,nous manifestions,vous manifestiez,se manifestaient]
 sembler@NORM%[INFINITIVE]=[sembler]%[IPR]=[semble,sembles,semble,semblons,semblez,semblent]%[AII]=[semblais,semblais,semblait,semblions,sembliez,semblaient]%[PAP]=[semblé]%[PAPR]=[semblant]
 semefier@NORM%[INFINITIVE]=[se méfier]%[IPR]=[me méfie,te méfies,se méfie,nous méfions,vous méfiez,se méfient]

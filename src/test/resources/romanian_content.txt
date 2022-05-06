@@ -623,85 +623,11 @@ https://archive.org/stream/dumitru-staniloae-teologia-dogmatica-ortodoxa-vol-i/d
 ț
 
 
-filocalia1A=>Sfintul Antonie a fost cel dintîi monah care s-a retras în pustie, fiind urmat de mai mulți ucenici.
-filocalia1B=>viața lui, care a umplut de uimire lumea din acea vreme, a fost descrisă de Sfîntul Atanasie, patriarhul Alexandriei.
-filocalia1C=>Născut într-un sat din Egiptul de Mijloc, după moartea părinților săi, țărani cu bună stare, Antonie s-a hotărît, pe la vîrsta de |18|-|20| ani, să vîndă tot ce@1 moștenise, să împartă săracilor și să-și închine viața Domnului.
-filocalia1D=>aceasta s-a întîmplat@1 pe la anul 270 după  Hristos.
-filocalia1E=>La  început@N nu s-a depărtat prea mult de locurile în care trăiau oameni.
-filocalia1F=>Cîtăva vreme i-a slujit drept@1 adăpost un mormînt gol.
-filocalia1G=>Pe urmă, crescîndu-i dorința după singurătate, s-a retras în munții nisipoși de pe malul drept al Nilului.
-filocalia1H=>Mai tîrziu a părăsit și acest loc, și pe monahii care se strînseseră în jurul lui și s-a dus în mijlocul pustiei din preajma Mării Roșii, de unde venea numai la anumite răstimpuri pentru a da sfaturi pelerinilor care alergau să i le ceară.
-filocalia1I=>a murit în anul 356 și a fost înmormîntat intr-un loc necunoscut, neavînd lîngă el decît@1 doi oameni de încredere@1, cărora le-a poruncit să nu descopere@1 locul mormîntului.
-filocalia1J=>ca scrieri adevărate ale lui au fost dovedite pînă acum șapte scrisori amintite încă de Sfîntul |Ieronim| (1)
-filocalia1K=>1 : Dovada a făcut-o F. Klejna cu lucrarea Antonius und Ammonas. Eine Untersuchung über Herkunft und Eigenart der ältesten  Mïnchsbriefe, în "Zeitschrift für katholische Theologie", 62 (1938), pp 309-348 (cf Marcel Viller S.I. Karl Rahner S.I. Aszese und Mytik in der Väterzeit, Herder, Freiburg im Breisgau, 1939, p. 89).
-filocalia1L=>aceste șapte epistole sînt tipărite (în Migne, Patrologia Graeca, toom 40) în două redacții, ambele în traducere latină.
-filocalia1M=>Prima redacție (977B-1000B) e o traducere de la 1516 a lui Symphorian Champerius după un manuscris grec, care n-a fost indicat și a rămas necunoscut.
-filocalia1N=>a doua, care cuprinde un text mai larg, tradus după un manuscris arab, o formează primele șapte epistole din cele douăzeci date toate sub numele lui Antonie (999C-1066B), din care însă pe cele treisprezece din urmă (1015D-1066B) Klejna le-a dovedit că sînt ale lui Ammonas, ucenicul și urmașul lui Antonie la conducerea chinoviei de la Pispir.
-filocalia1O=>în timpul mai nou a început să fie descoperit și  textul copt, cel original, al unora din aceste epistole.
-filocalia1P=>O. Bardenhewer (Geschichte der altkirchlichen Literatur, Vol III, ed. a II-a Herder, Freiburg im Breisgau, p 81) scria la 1923, pînă nu se dovedise că aceste epistole sînt ale lui Antonie, că ele nu pot fi ale lui și din motivul că sînt prea de cuprins general și lipsite de putere și de sevă ca să fie de la marele ascet
-filocalia1Q=>cum stăm însă cu autenticitatea celor 170 de capete pe care |Nicodim| |Aghioritul|, care a trăit la sfîrșitul veacului al XVIII-lea, le-a așezat în fruntea Filocaliei ?
-filocalia1R=>Nici |Bardenhewer|, nici |Viller-Rahner|, din care iau aceste însemnări, nu le pomenesc între scrierile atribuite lui Antonie.
-filocalia1S=>Ele nu se cuprind nici în |Patrologia| lui |Migne|.
-filocalia1T=>Nu știm, de asemenea, după ce manuscris le-a luat |Nicodim| |Aghioritul|.
-filocalia1U=>Ne dă această dreptul să afirmăm cu siguranță că nu sînt ale Sfîntului Antonie ?
-filocalia1V=>Nu, acest drept nu-l avem.
-filocalia1W1=>Chiar dacă azi ele nu s-ar mai găsi în nici un manuscris ascuns pe cine știe unde,
-filocalia1W2=>|Nicodim| |Aghioritul| le-a luat sigur din vreun manuscris care s-a putut pierde.
-filocalia1X=>faptul că  aceste au și ele același caracter general nu poate fi un argument sigur că nu sînt ale lui Antonie, cum nu e pentru epistole se pot constata, deși ele sînt o lucrare deosebită, cu cuprinsul ei propriu.
-filocalia1Y=>Asemenea înrudiri am avea, de pildă, în ideea de "om rațional" pe care o folosesc și capetele și epistolele;
-filocalia1Z=>în prețul ce se spune și în unele, și în altele pe "deosebirea dintre bine și rău", pe caracterizarea lui Dumnezeu ca "medic" ș.a.m.d
 
 ă
 ș
 ț
 
-filocalia1antonie1=>ale celui dintre sfinți părintelui nostru antonie cel mare
-filocalia1antonie2=>învățături despre viața morală a oamenilor și despre buna purtare, în 170 de capete@1
-filocalia1antonie1A=>Oamenii se socotesc raționali.
-filocalia1antonie1B=>Însă pe nedrept, căci nu sînt raționali.
-filocalia1antonie1C=>Unii au învățat cuvintele și cărțile vechilor înțelepți.
-filocalia1antonie1D=>dar@P raționali sînt numai aceia care au sufletul rațional, pot să deosebească ce este binele și ce este răul,
-filocalia1antonie1E=>se feresc de cele rele și vătămătoare sufletului și toată grija@N o au spre cele bune și folositoare sufletului;
-filocalia1antonie1F=>iar acestea le săvîrșesc cu multă mulțumire către Dumnezeu.
-filocalia1antonie1G=>numai aceștia trebuie să se numească oameni raționali.
-
-
-filocalia1antonie2A=>omul cu adevărat rațional are o singură grijă@N :
-filocalia1antonie2B=>să asculte de Dumnezeul tuturor și să-l placă ;
-filocalia1antonie2C=>și numai la aceasta își deprinde sufletul său :
-filocalia1antonie2D=>cum să-l placă lui Dumnezeu, mulțumindu-l pentru o așa de mare purtare de grijă și pentru cîrmuirea tuturor,
-filocalia1antonie2E=>orice soartă ar avea el în viață.
-filocalia1antonie2F=>Pentru că e nepotrivit să mulțumim pentru sănătatea trupului doctorilor care ne dau leacuri amare și neplacute,
-filocalia1antonie2G=>iar lui Dumnezeu să-l mulțumim pentru cele ce ni se par@V nouă grele și să nu cunoastem că toate ni se întîmplă cum trebuie,
-filocalia1antonie2H=>spre folosul nostru si după purtarea Lui de grijă.
-filocalia1antonie2I=>Căci în cunoștința si credința cea către Dumnezeu stau mîntuirea și desăvîrșirea sufletului.
-
-filocaliaantonie3A=>Am primit de la Dumnezeu puteri virtuoase și foarte mari :
-filocaliaantonie3B=>înfrînarea, suferirea răului, neprihănirea, stăruința, răbdarea și cele asemenea,
-filocaliaantonie3C=>care ne ajută să ne împotrivim și să luptăm împotriva@P celor rele.
-filocaliaantonie3D=>Avînd la îndemînă puterile acestea și punîndu-le la lucru, socotim că nimic nu ni se mai întîmplă neplăcut, dureros sau nesuferit.
-filocaliaantonie3E=>Credem atunci că toate-s omenești și se biruiesc de virtuțile noastre.
-filocaliaantonie3F=>Nu se gîndesc la aceasta însă cei neînțelegători ;
-filocaliaantonie3G=>de aceea ei nici nu pricep că toate ni se fac spre bine și precum se cuvine pentru folosul nostru,
-filocaliaantonie3H=>ca să strălucească virtuțile noastre și să ne încununăm de la Dumnezeu.
-
-filocaliaantonie4A=>Când vei socoti câştigarea banilor şi multul lor folos,
-filocaliaantonie4B=>ca pe-o amăgire vremelnică, vei cunoaşte că petrecerea cea virtuoasă şi plăcută lui Dumnezeu,
-filocaliaantonie4C=>e altceva decât bogăţia.
-filocaliaantonie4D=>Gândindu-te la aceasta cu încredinţare şi cu ţinere de minte,
-filocaliaantonie4E=>nu vei suspina, nu vei plânge, nu vei învinui pe nimeni, ci pentru toate vei mulţumi lui Dumnezeu.
-filocaliaantonie4F=>Nu te vei clăti văzând pe cei mai răi ca tine rezemându-se pe bani şi pe socoteli,
-filocaliaantonie4G=>căci foarte rea patimă a sufletului este pofta, părerea şi neştiinţa.
-
-filocaliaantonie5A=>Omul cu judecată luînd aminte la sine cumpănește cele ce i se cuvin și-i sînt spre folos.
-filocaliaantonie5B=>Acela cugetă care lucruri sînt folositoare pentru firea sufletului său și care nu.
-filocaliaantonie5C=>Așa se ferește el de cele nepotrivite, care i-ar vătăma sufletul și l-ar despărți de nemurire.
-
-filocaliaantonie6A=>cu cît cineva are viața mai măsurată, cu atît e mai fericit, că nu se grijește de multe :
-filocaliaantonie6B=>de slujitori, de lucrători, de pămînturi și de avuția dobitoacelor.
-filocaliaantonie6C=>Căci țintuindu-ne de acestea ne vom îneca în greutățile legate de ele și vom învinui pe Dumnezeu.
-filocaliaantonie6D=>Iată cum din pofta noastră cea de voie se adapă moartea
-filocaliaantonie6E=>și cum rătăcim în întunericul unei vieți cu păcate, necunoscîndu-ne pe noi înșine.
 
 urzeala1A=>ar trebui să ne întoarcem, ceru@V Gared pe când desișurile începură să se întunece  tot mai tare în jurul lor. Ierburile sunt moarte.
 urzeala1B=>moartea te înspăimântă ? întrebă ser |Waymar| |Royce| cu umbra unui zâmbet.

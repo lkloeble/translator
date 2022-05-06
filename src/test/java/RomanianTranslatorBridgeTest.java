@@ -837,101 +837,6 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         //checkInMaps("urzeala2F", translatorBridge);
     }
 
-    @Test
-    public void test_filocalia1() {
-        checkInMaps("filocalia1A", translatorBridge);
-        checkInMaps("filocalia1B", translatorBridge);
-        checkInMaps("filocalia1C", translatorBridge);
-        checkInMaps("filocalia1D", translatorBridge);
-        checkInMaps("filocalia1E", translatorBridge);
-        checkInMaps("filocalia1F", translatorBridge);
-        checkInMaps("filocalia1G", translatorBridge);
-        checkInMaps("filocalia1H", translatorBridge);
-        //checkInMaps("filocalia1I", translatorBridge);
-        checkInMaps("filocalia1J", translatorBridge);
-        checkInMaps("filocalia1K", translatorBridge);
-        checkInMaps("filocalia1L", translatorBridge);
-        //checkInMaps("filocalia1M", translatorBridge);
-        //checkInMaps("filocalia1N", translatorBridge);
-        checkInMaps("filocalia1O", translatorBridge);
-        //checkInMaps("filocalia1P", translatorBridge);
-        //checkInMaps("filocalia1Q", translatorBridge);
-        checkInMaps("filocalia1R", translatorBridge);
-        checkInMaps("filocalia1S", translatorBridge);
-        checkInMaps("filocalia1T", translatorBridge);
-        checkInMaps("filocalia1U", translatorBridge);
-        checkInMaps("filocalia1V", translatorBridge);
-        checkInMaps("filocalia1W1", translatorBridge);
-        checkInMaps("filocalia1W2", translatorBridge);
-        //checkInMaps("filocalia1X", translatorBridge);
-        checkInMaps("filocalia1Y", translatorBridge);
-        //checkInMaps("filocalia1Z", translatorBridge);
-    }
-
-    @Test
-    public void test_filocalia1_antonie1() {
-        checkInMaps("filocalia1antonie1", translatorBridge);
-        checkInMaps("filocalia1antonie2", translatorBridge);
-        checkInMaps("filocalia1antonie1A", translatorBridge);
-        checkInMaps("filocalia1antonie1B", translatorBridge);
-        checkInMaps("filocalia1antonie1C", translatorBridge);
-        checkInMaps("filocalia1antonie1D", translatorBridge);
-        checkInMaps("filocalia1antonie1E", translatorBridge);
-        checkInMaps("filocalia1antonie1F", translatorBridge);
-        checkInMaps("filocalia1antonie1G", translatorBridge);
-    }
-
-    @Test
-    public void test_filocalia1_antonie2() {
-        //checkInMaps("filocalia1antonie2A", translatorBridge);
-        checkInMaps("filocalia1antonie2B", translatorBridge);
-        checkInMaps("filocalia1antonie2C", translatorBridge);
-        //checkInMaps("filocalia1antonie2D", translatorBridge);
-        checkInMaps("filocalia1antonie2E", translatorBridge);
-        checkInMaps("filocalia1antonie2F", translatorBridge);
-        checkInMaps("filocalia1antonie2G", translatorBridge);
-        //checkInMaps("filocalia1antonie2H", translatorBridge);
-        checkInMaps("filocalia1antonie2I", translatorBridge);
-    }
-
-    @Test
-    public void test_filocalia1_antonie3() {
-        checkInMaps("filocaliaantonie3A", translatorBridge);
-        checkInMaps("filocaliaantonie3B", translatorBridge);
-        checkInMaps("filocaliaantonie3C", translatorBridge);
-        checkInMaps("filocaliaantonie3D", translatorBridge);
-        checkInMaps("filocaliaantonie3E", translatorBridge);
-        checkInMaps("filocaliaantonie3F", translatorBridge);
-        checkInMaps("filocaliaantonie3G", translatorBridge);
-        checkInMaps("filocaliaantonie3H", translatorBridge);
-    }
-
-    @Test
-    public void test_filocalia1_antonie4() {
-        checkInMaps("filocaliaantonie4A", translatorBridge);
-        //checkInMaps("filocaliaantonie4B", translatorBridge);
-        checkInMaps("filocaliaantonie4C", translatorBridge);
-        checkInMaps("filocaliaantonie4D", translatorBridge);
-        checkInMaps("filocaliaantonie4E", translatorBridge);
-        checkInMaps("filocaliaantonie4F", translatorBridge);
-        checkInMaps("filocaliaantonie4G", translatorBridge);
-    }
-
-    @Test
-    public void test_filocalia5() {
-        //checkInMaps("filocaliaantonie5A", translatorBridge);
-        checkInMaps("filocaliaantonie5B", translatorBridge);
-        checkInMaps("filocaliaantonie5C", translatorBridge);
-    }
-
-    @Test
-    public void test_filocalia6() {
-        checkInMaps("filocaliaantonie6A", translatorBridge);
-        checkInMaps("filocaliaantonie6B", translatorBridge);
-        checkInMaps("filocaliaantonie6C", translatorBridge);
-        checkInMaps("filocaliaantonie6D", translatorBridge);
-        checkInMaps("filocaliaantonie6E", translatorBridge);
-    }
 
     @Test
     public void test_boca1() {
@@ -1217,7 +1122,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("bocaseumpluA801", translatorBridge);
         checkInMaps("bocaseumpluA802", translatorBridge);
         checkInMaps("bocaseumpluA803", translatorBridge);
-        checkInMaps("bocaseumpluA804", translatorBridge);
+        //checkInMaps("bocaseumpluA804", translatorBridge);
         checkInMaps("bocaseumpluA805", translatorBridge);
         checkInMaps("bocaseumpluA806", translatorBridge);
         checkInMaps("bocaseumpluA807", translatorBridge);
