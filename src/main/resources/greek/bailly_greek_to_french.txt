@@ -46,6 +46,7 @@
 αθλε@verb!norm%1(verb)=combattre
 αθλητ@noun!ης-ου%1(noun)=athlète%2(noun)=champion
 αι@prep%1(prep)=les
+αι@noun!α-ας%1(noun)=terre
 αιγιοχ@adj!ος-ος-ον%1(adj)=porteur de l'aegis
 αιγυπτ@noun!ος-ου%1(noun)=égypte
 αιγυπτι@adj!ος-ος-ον%1(adj)=égyptien
@@ -62,6 +63,7 @@
 αιτι@adj!ος-α-ον%1(adj)=coupable de
 αιτι@noun!α-ης%1(noun)=culpabilité
 αιφνιδι@noun!ος-ου%1(noun)=soudain
+αιτε@verb!norm%1(verb)=prier%2(verb)=demander
 αιτ@verb!norm%1(verb)=demander
 αιχμαλωσι@noun!α-ας%1(noun)=captivité
 ακ@adj!ων-ουσα-ον%1(adj)=involontaire
@@ -135,6 +137,7 @@
 απα@adj!apas%1(noun)=tout
 απαγινεοντας@noun!inv%1(noun)=transportant
 απαγγελλ@verb!norm%1(verb)=relater
+απαιτε@verb!norm%1(verb)=demanderarestituer
 απαλ@adj!ος-α-ον%1(adj)=doux
 απαλλασσ@verb!norm%1(verb)=liberer
 απαλλοτρι@verb!norm%1(verb)=separer
@@ -142,6 +145,7 @@
 απειρ@noun!ος-ου%1(noun)=infini
 απερεισι@adj!inv%1(adj)=incalculable
 απερεισι@adj!ος-α-ον%1(adj)=incalculable
+απικατο@noun!inv%1(noun)=arrivé
 απιστ@noun!ος-η-ον%1(noun)=infidèle%2(noun)=incroyant
 αποδεξ@noun!ις-εως%1(noun)=réalisation
 αποιν@noun!ον-ου%1(noun)=rançon
@@ -183,6 +187,7 @@
 αρητηρ@adj!x-α-x%1(adj)=celui qui adresse les prières aux dieux%2(adj)=personne qui prie%3(adj)=orant%4(adj)=prêtre
 αριθμ@noun!ος-ου%1(noun)=somme
 αρματει@noun!ος-ου%1(noun)=char
+αρπαγ@noun!η-ης%1(noun)=viol%2(noun)=enlèvement
 αρν@noun!ην-ος%1(noun)=agneau
 αρσ@adj!ων-ων-ον%1(adj)=mâle
 αρσην@noun!inv%1(adj)=mâle
@@ -335,6 +340,7 @@
 διαυγασμ@noun!ος-ου%1(noun)=explosion flamboyante
 διακον@noun!ος-ου%1(noun)=diacre%2(noun)=serviteur
 διακονε@verb!norm%1(verb)=servir
+διαπρασσ@verb!norm%1(verb)=accomplir
 διαστητην@noun!inv%1(noun)=séparer
 διαστολ@noun!η-ης%1(noun)=expansion
 διατιθη@verb!norm%1(verb)=disposerde
@@ -354,6 +360,7 @@
 δικαιοσυν@noun!η-ης%1(noun)=justice
 δικαιοτατ@adj!ος-η-ον%1(adj)=plus juste
 δικαστ@noun!ης-ου%1(noun)=juge
+δικ@noun!η-ης%1(noun)=pénalité%2(noun)=procès%2(noun)=loi%3(noun)=coutume
 διο@prep%1(prep)=par quoi
 διος@noun!inv%1(noun)=zeus
 διρκαι@noun!inv%1(noun)=dircées
@@ -384,10 +391,12 @@
 εγειρ@verb!norm%1(verb)=faire lever,ériger,dresser,mettre debout%2(verb)=s'éveiller%3(verb)=lever
 εγω@prep%1(prep)=pour ma part
 εθν@noun!ος-ους%1(noun)=peuple
+ενθευτεν@prep%1(prep)=par conséquent
 εικ@noun!ων-ονος%1(noun)=image
 ειλικριν@adj!ης-ης-ες%1(adj)=sincère
 εζεκι@noun!ας-ου%1(noun)=ezechias
 ειμι@verb!irrg%1(verb)=etre
+εινεκεν@prep%1(prep)=à cause de
 ειρ@verb!norm%1(verb)=appeler
 ειρην@noun!η-ης%1(noun)=paix
 εις@prep%1(prep)=dans%2(prep)=vers
@@ -401,6 +410,7 @@
 εκατον@noun!inv%1(noun)=cent
 εκβαλλ@verb!norm%1(verb)=chasser%2(verb)=jeter dehors
 εκειν@noun!ος-η-ο%1(adj)=ce
+εκεινοισι@adj!inv%1(adj)=ces
 εκηβολ@noun!ος-ου%1(noun)=visant le but
 εκκαυσ@noun!ις-εως%1(noun)=brûlant
 εκκλησι@noun!α-ας%1(noun)=assemblée%2(noun)=église
@@ -649,6 +659,7 @@
 ιεσσαι@noun!inv%1(noun)=isaï
 ιησ@noun!ους-ου%1(noun)=Jésus
 ιοειδ@noun!ης-ου%1(noun)=comme une fleur
+ι@noun!ος-ου%1(noun)=Io%2(noun)=poison
 ισραηλ@noun!inv%1(noun)=Israël
 ιουδαι@noun!ος-ου%1(noun)=juif
 ιουδαι@noun!α-ας%1(noun)=judée
@@ -697,6 +708,7 @@
 κατακυριευ@verb!norm%1(verb)=dominer
 καταμανθαν@verb!norm%1(verb)=decouvrir
 καταντα@verb!norm%1(verb)=arriver
+καταπλ@verb!norm%1(verb)=naviguer
 καταστρεφ@verb!norm%1(verb)=detruire
 καταστροφ@noun!η-ης%1(noun)=catastrophe%2(noun)=ruine
 κατεργαζ@verb!norm%1(verb)=accomplir
@@ -719,7 +731,8 @@
 κλε@noun!ος-εος%1(noun)=célébrité%2(noun)=gloire
 κοιλ@adj!ος-η-ον%1(adj)=creux
 κοιλησιν@adj!inv%1(adj)=(aux) creux
-πολιτει@noun!α-ας%1(noun)=façon d'être%2(noun)=citoyenneté
+κολχ@noun!ις-ιδος%1(noun)=colchide
+κολχ@adj!ος-η-ον%1(adj)=colchide
 κομισας@noun!inv%1(noun)=pris en compte
 κορινθ@noun!ος-ου%1(noun)=corinthe
 κοσμ@noun!ος-ου%1(noun)=monde
@@ -732,7 +745,7 @@
 κρατερ@adj!ος-η-ον%1(adj)=puissant%2(adj)=fort
 κρατουμεν@noun!η-ης%1(noun)=prisonnier
 κρην@noun!η-ης%1(noun)=puits%2(noun)=fontaine%3(noun)=source
-κρη@noun!ς-τος%1(noun)=crétois
+κρη@noun!ς-τος2%1(noun)=crétois
 κριν@verb!norm%1(verb)=séparer,distinguer,choisir%2(verb)=décider,trancher,résoudre,expliquer,interpréter%3(verb)=juger
 κριτ@noun!ης-ου%1(noun)=juge
 κροκοδειλ@noun!ος-ου%1(noun)=crocodile
@@ -776,6 +789,7 @@
 μαθημ@noun!α-ατος%1(noun)=sujet%2(noun)=leçon
 μαθητ@noun!ης-ου%1(noun)=disciple
 μακρ@adj!ος-α-ον%1(adj)=grand
+μακρ@adj!ος-η-ο%1(adj)=long
 μακαρι@adj!ος-α-ον%1(adj)=bienheureux%2(adj)=heureux
 μακαριζ@verb!norm%1(verb)=rendre heureux%2(verb)=benir
 μαλιστα@prep%1(prep)=très
@@ -828,6 +842,7 @@
 μηδεν@prep%1(prep)=pas un
 μηδενος@prep%1(prep)=rien
 ημετερ@adj!ος-α-ον%1(adj)=notre
+μηδει@noun!ος-ην%1(noun)=médée
 μην@prep%1(prep)=absolument
 μην@noun!ις-εως%1(noun)=colère (divine)
 μητ@noun!ηρ-ερος%1(noun)=terre nourricière%2(noun)=femme âgée%3(noun)=mère
@@ -1062,6 +1077,7 @@
 πολεμε@verb!norm%1(verb)=fairelaguerre
 πολεμ@noun!ος-ου%1(noun)=guerre
 πολ@noun!ις-εως%1(noun)=cité
+πολιτει@noun!α-ας%1(noun)=façon d'être%2(noun)=citoyenneté
 πολιτευ@verb!norm%1(verb)=gouverner%2(verb)=menerunevie
 πολυ@noun!inv%1(noun)=nombreux
 πολλ@adj!ος-α-υ%1(adj)=nombreux
@@ -1293,6 +1309,7 @@
 υπερ@prep%1(prep)=au dessus
 υπογραμμ@noun!ος-ου%1(noun)=exemple
 υποδεικνυ@verb!norm%1(verb)=montrer
+υποκριν@verb!norm%1(verb)=repondre
 υπολειπ@verb!norm%1(verb)=laisserpour
 υπν@noun!ος-ου%1(noun)=sommeil
 υπο@prep%1(prep)=au dessous

@@ -1,0 +1,61 @@
+herodote110A=>(du) hérodote halicarnasse (du) enquête(e)@enquête@ réalisation cette,
+herodote110B=>comme ni le ancien(s) hors de (des) homme(s) au temps sorti(e)@sorti(s)@ devenu,
+herodote110C=>ni oeuvre(s) grand(s) aussi et admirable(e)@admirable(s)@,
+herodote110D=>le d'une part (aux) grec(s) le d'autre part barbares accepté, anonyme devenu,
+herodote110E=>le aussi autre(s)@mais@ et au travers de la@était@ culpabilité(e) nous font la guerre (aux) l'un l'autre(s).
+
+herodote111fullenglish=>The Persian learned men say that the Phoenicians were the cause of the dispute.
+herodote111fullenglish=>These (they say) came to our seas from the sea which is called Red,
+herodote111fullenglish=>and having settled in the country which they still occupy,
+herodote111fullenglish=>at once began to make long voyages.
+herodote111fullenglish=>Among other places to which they carried Egyptian and Assyrian merchandise, they came to Argos,
+herodote111A=>(des) perse(s)(e) d'une part maintenant les érudit(s) phénicie(s)(e) coupable de(s) disent devenu la (du) inimitié(e).
+herodote111B=>ces car depuis la (du) rouge(e) (du) appelé(e) (du) mer(e) arrivé(s) sur ce la mer(e),
+herodote111C=>et habitant ce le endroit le et maintenant habitent,
+herodote111D=>à ce moment (aux) expédition maritime(s) (aux) grand(s)(e)@long@ placer,
+herodote111E=>transportant d'autre part marchandise(s) égyptien(s) aussi et assyrie la aussi autre(e) être arrivé et donc et vers argos.
+
+herodote112=>which was at that time preeminent in every way among the people of what is now called Hellas. The Phoenicians came to Argos, and set out their cargo.
+herodote112A=>le d'autre part argos ce le temps précédait (aux) tout(s)@tout@ aux dans la maintenant (au) hellas appelé(e) se retira.
+herodote112B=>arrivé(s) d'autre part les phénicie(s)(e) vers donc le argos ce disposé de le cargo.
+herodote113=>On the fifth or sixth day after their arrival, when their wares were almost all sold, many women came to the shore and among them especially the daughter of the king, whose name was Io (according to Persians and Greeks alike), the daughter of Inachus.
+herodote113A=>cinquième(e) d'autre part la sixième(e) jour(e) depuis étais arrivèrent, vendus eux pratiquement tous,
+herodote113B=>venir sur la mer(e) femme(s)(e) autre(s)(e) aussi nombreux(s)(e) et donc et du roi fille(e)
+herodote113C=>le d'autre part les nom(e) être, selon même le et grec (hellène)(s) disent, io (lune) la (du) inachus
+herodote114=>As these stood about the stern of the ship bargaining for the wares they liked, the Phoenicians incited one another to set upon them. Most of the women escaped: Io and others were seized and thrown into the ship, which then sailed away for Egypt.
+herodote114A=>celles-ci tenu(s)(e) selon le plus bas(e) la nouveau être acheté des marchandise(s) aux eux la@était@ coeur très
+herodote114B=>et les phénicie(s)(e) recommandé(s) mettre en mouvement sur le(s)(e). les d'une part donc la plupart des femme(s)(e) échapper,
+herodote114C=>la d'autre part io (lune) plus (aux) autre(s)(e) être arraché.
+herodote114D=>jeté dans d'autre part vers la nouveau(e)@nouveau(s)@ être parti navigué(s) sur (du) égypte.
+
+herodote121fullenglish=>In this way, the Persians say (and not as the Greeks), was how Io came to Egypt, and this, according to them,
+herodote121fullenglish=>was the first wrong that was done. Next, according to their story, some Greeks (they cannot say who) landed at Tyre in Phoenicia
+herodote121fullenglish=>and carried off the king's daughter Europa. These Greeks must, I suppose, have been Cretans.
+herodote121fullenglish=>So far, then, the account between them was balanced. But after this (they say), it was the Greeks who were guilty of the second wrong.
+herodote121A=>ainsi d'une part io (lune) vers égypte arriver disent perse(s),
+herodote121B=>ne comme grec (hellène)(s), et des tort(s)(e) premier ce commencerait.
+herodote121C=>après d'autre part ceux-ci (des) grec(s)@grec (hellène)@ qui ( ne car ont nommé diriger )
+herodote121D=>disent la (du) phénicie(e) vers tyr amenés arracher du roi la fille(e) europe(e).
+herodote121E=>seraient et si ces crétois(s)(e).
+herodote121F=>ceux-ci d'une part donc égal à vers égal à eux devenu,
+herodote121G=>après d'autre part ceux-ci grec (hellène)(s) coupable de(s) la (du) deuxième(e)@(du) seconde(e)@ (du) injustice(e) devenu
+
+
+herodote122fullenglish=>They sailed in a long ship to Aea, a city of the Colchians,
+herodote122fullenglish=>and to the river Phasis(1) and when they had done the business for which they came,
+herodote122fullenglish=>they carried off the king's daughter Medea.
+herodote122fullenglish=>(1) : This is the legendary cruise of the Argonauts.
+herodote122A=>navigué car long(e) (au) bâteau vers terre(e) aussi la colchide(e)
+herodote122B=>et sur φασιν fleuve, par conséquent,
+herodote122C=>ont accompli et autre(s) aux à cause de arrivé,
+herodote122D=>arracher du roi la fille(e) médée(e).
+
+herodote123fullenglish=>When the Colchian king sent a herald to demand reparation for the robbery and restitution of his daughter,
+herodote123fullenglish=>the Greeks replied that, as they had been refused reparation for the abduction of the Argive Io,
+herodote123fullenglish=>they would not make any to the Colchians.
+herodote123A=>envoyé(s) d'autre part le (des) colchide(s)(e)@colchide@ roi vers la hellas héraut(e)
+herodote123B=>prier aussi (du) coutume la (du) enlèvement(e) et demander à restituer la fille(e).
+herodote123C=>les d'autre part répondu comme ni ce(s) Io(s) la (du) de argos(e)
+herodote123D=>offrirent eux (du) coutume la (du) enlèvement(e) ni étant le(s) vont offrir ces.
+
+toto=>prier

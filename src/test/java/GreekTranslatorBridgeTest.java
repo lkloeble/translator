@@ -689,36 +689,6 @@ public class GreekTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("lxxgen1EE", translatorBridge);
     }
 
-    @Test
-    public void test_herodote_book1_chapter1() {
-        checkInMaps("herodote110A", translatorBridge);
-        //checkInMaps("herodote110B", translatorBridge);
-        checkInMaps("herodote110C", translatorBridge);
-        checkInMaps("herodote110D", translatorBridge);
-        checkInMaps("herodote110E", translatorBridge);
-    }
-
-    @Test
-    public void test_herodote_book1_chapter1_section2() {
-        //checkInMaps("herodote111A", translatorBridge);
-        checkInMaps("herodote111B", translatorBridge);
-        checkInMaps("herodote111C", translatorBridge);
-        checkInMaps("herodote111D", translatorBridge);
-        checkInMaps("herodote111E", translatorBridge);
-    }
-
-    @Test
-    public void test_herodote_book1_chapter1_section3() {
-        checkInMaps("herodote112A", translatorBridge);
-        checkInMaps("herodote112B", translatorBridge);
-        checkInMaps("herodote113A", translatorBridge);
-        checkInMaps("herodote113B", translatorBridge);
-        checkInMaps("herodote113C", translatorBridge);
-        checkInMaps("herodote114A", translatorBridge);
-        checkInMaps("herodote114B", translatorBridge);
-        checkInMaps("herodote114C", translatorBridge);
-        checkInMaps("herodote114D", translatorBridge);
-    }
 
     @Test
     public void test_failed_ones() {

@@ -69,3 +69,5 @@ x-α-x%stas.txt
 ων-οντος%gerwv.txt
 ας-αινα-αν%melas.txt
 ην-ος%apvhs.txt
+ις-ιδος%kolchis.txt
+ος-ην%medee.txt
