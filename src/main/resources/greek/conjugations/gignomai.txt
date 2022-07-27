@@ -22,3 +22,4 @@ AORPASSUB=>-,-,αι,-,-,-
 AORPASSPART=>θεντα
 AORINFMID=>θαι
 PRESPASSINF=>εσθαι
+AORMIDIMP=>ω,ω,ε,ων

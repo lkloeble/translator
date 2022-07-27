@@ -52,3 +52,4 @@ AORPASSINF=>θηναι
 PARAORINFPAS=>σθαι,μενος,μενη,μεναι
 MIAOIN=>αμην,ω,ατο,αμεθα,ασθε,αντο
 PARTMIDAOR=>-,-,μενοις,μενους
+AORMIDIMP=>αι,ω,ε,ων

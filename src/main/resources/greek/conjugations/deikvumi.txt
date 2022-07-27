@@ -13,3 +13,4 @@ ACAOINTER=>α,ας,ε,αμεν,ατε,ασι
 PRESPASSINF=>εσθαι
 PRESACTPART=>[apas]
 FUTACTINFPART=>ειν,ων,ουσα,ον
+PAINPRMI=>εναι,εις,εισα,εν

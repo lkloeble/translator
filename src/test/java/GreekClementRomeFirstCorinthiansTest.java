@@ -19,6 +19,8 @@ import patrologia.translator.utils.Analyzer;
 
 import java.util.*;
 
+import static org.junit.Assert.assertTrue;
+
 public class GreekClementRomeFirstCorinthiansTest extends TranslatorBridgeTest {
 
     private TranslatorBridge translatorBridge;
@@ -278,4 +280,28 @@ public class GreekClementRomeFirstCorinthiansTest extends TranslatorBridgeTest {
         checkInMaps("clement7G3", translatorBridge);
     }
 
+
+    @Test
+    public void test_clement8() {
+        checkInMaps("clement8A", translatorBridge);
+        checkInMaps("clement8B1", translatorBridge);
+        checkInMaps("clement8B2", translatorBridge);
+        checkInMaps("clement8C1", translatorBridge);
+        checkInMaps("clement8C2", translatorBridge);
+        checkInMaps("clement8C3", translatorBridge);
+        checkInMaps("clement8D1", translatorBridge);
+        checkInMaps("clement8D2", translatorBridge);
+        checkInMaps("clement8D3", translatorBridge);
+        checkInMaps("clement8D4", translatorBridge);
+        checkInMaps("clement8D5", translatorBridge);
+        checkInMaps("clement8D6", translatorBridge);
+        checkInMaps("clement8D7", translatorBridge);
+        checkInMaps("clement8E", translatorBridge);
+    }
+
+    @Test
+    public void test_failed_ones() {
+        assertTrue(true);
+        checkInMaps("clement8D5", translatorBridge);
+    }
 }

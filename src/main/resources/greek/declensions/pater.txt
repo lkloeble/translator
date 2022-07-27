@@ -4,3 +4,4 @@ gen%sing%masc%ρος
 gen%plr%masc%ρων
 dat%sing%masc%ρι
 acc%sing%masc%ερα
+voc%sing%masc%ερ
