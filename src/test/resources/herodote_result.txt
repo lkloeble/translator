@@ -17,7 +17,7 @@ herodote111E=>transportant d'autre part marchandise(s) égyptien(s) aussi et ass
 
 herodote112=>which was at that time preeminent in every way among the people of what is now called Hellas. The Phoenicians came to Argos, and set out their cargo.
 herodote112A=>le d'autre part argos ce le temps précédait (aux) tout(s)@tout@ aux dans la maintenant (au) hellas appelé(e) se retira.
-herodote112B=>arrivé(s) d'autre part les phénicie(s)(e) vers donc le argos ce disposé de le cargo.
+herodote112B=>arrivé(s) d'autre part les phénicie(s)(e)@pourpre(s)(e)@ vers donc le argos ce disposé de le cargo.
 herodote113=>On the fifth or sixth day after their arrival, when their wares were almost all sold, many women came to the shore and among them especially the daughter of the king, whose name was Io (according to Persians and Greeks alike), the daughter of Inachus.
 herodote113A=>cinquième(e) d'autre part la sixième(e) jour(e) depuis étais arrivèrent, vendus eux pratiquement tous,
 herodote113B=>venir sur la mer(e) femme(s)(e) autre(s)(e) aussi nombreux(s)(e) et donc et du roi fille(e)

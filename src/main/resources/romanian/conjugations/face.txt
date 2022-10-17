@@ -7,3 +7,4 @@ CONJ=>x,x,a,x,x,a
 AIMP=> ,tsiva
 PAPR=>and|andu
 AIF=>voi,vei,va,vom,vetsi,vor
+ACPINF=>,xx

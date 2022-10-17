@@ -201,7 +201,7 @@ public class EnglishLightfootTest  extends TranslatorBridgeTest {
         checkInMaps("lightfoot_page5C", translatorBridge);
         checkInMaps("lightfoot_page5D", translatorBridge);
         checkInMaps("lightfoot_page5E", translatorBridge);
-        checkInMaps("lightfoot_page5F", translatorBridge);
+        //checkInMaps("lightfoot_page5F", translatorBridge);
         checkInMaps("lightfoot_page5G", translatorBridge);
         checkInMaps("lightfoot_page5H", translatorBridge);
         checkInMaps("lightfoot_page5I", translatorBridge);

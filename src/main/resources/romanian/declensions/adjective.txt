@@ -4,6 +4,7 @@ nomnounmascsg%sing%masc%ul
 nomnounfemsga%sing%fem%a
 nomnounfemsge%sing%fem%e
 gennounmascsga%sing%masc%ui
+gennounmascsgb%sing%masc%ului
 gennounfemsg%sing%masc%ei
 gennounmascsgb%plr%masc%ilor
 gennounmascsgc%plr%masc%or

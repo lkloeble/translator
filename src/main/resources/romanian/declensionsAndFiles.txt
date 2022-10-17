@@ -39,3 +39,4 @@ hurui%huruiala.txt
 iesc%dumnezeiesc.txt
 dobitoc%dobitoc.txt
 expresie%expresie.txt
+vesmant%vesmant.txt

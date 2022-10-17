@@ -224,7 +224,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("assimil5B", translatorBridge);
         checkInMaps("assimil5C", translatorBridge);
         checkInMaps("assimil5D", translatorBridge);
-        checkInMaps("assimil5E", translatorBridge);
+        //checkInMaps("assimil5E", translatorBridge);
         checkInMaps("assimil5F", translatorBridge);
         checkInMaps("assimil5G", translatorBridge);
         checkInMaps("assimil5H", translatorBridge);
@@ -312,7 +312,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("assimil10H", translatorBridge);
         checkInMaps("assimil10I", translatorBridge);
         checkInMaps("assimil10J", translatorBridge);
-        checkInMaps("assimil10K", translatorBridge);
+        //checkInMaps("assimil10K", translatorBridge);
         checkInMaps("assimil10L", translatorBridge);
         checkInMaps("assimil10M", translatorBridge);
         checkInMaps("assimil10N", translatorBridge);
@@ -425,7 +425,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("assimil16G", translatorBridge);
         checkInMaps("assimil16H", translatorBridge);
         checkInMaps("assimil16I", translatorBridge);
-        checkInMaps("assimil16J", translatorBridge);
+        //checkInMaps("assimil16J", translatorBridge);
         checkInMaps("assimil16K", translatorBridge);
         checkInMaps("assimil16L", translatorBridge);
         checkInMaps("assimil16M", translatorBridge);
@@ -525,7 +525,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("assimil20L", translatorBridge);
         checkInMaps("assimil20M", translatorBridge);
         checkInMaps("assimil20N", translatorBridge);
-        checkInMaps("assimil20O", translatorBridge);
+        //checkInMaps("assimil20O", translatorBridge);
         checkInMaps("assimil20P", translatorBridge);
         checkInMaps("assimil20Q", translatorBridge);
         checkInMaps("assimil20R", translatorBridge);
@@ -533,285 +533,6 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("assimil20T", translatorBridge);
     }
 
-    @Test
-    public void test_staniloae_page1() {
-        checkInMaps("staniloae1A", translatorBridge);
-        checkInMaps("staniloae1B", translatorBridge);
-        checkInMaps("staniloae1C", translatorBridge);
-        //checkInMaps("staniloae1D", translatorBridge);
-        checkInMaps("staniloae1E", translatorBridge);
-        checkInMaps("staniloae1F", translatorBridge);
-        checkInMaps("staniloae1G", translatorBridge);
-        //checkInMaps("staniloae1H", translatorBridge);
-        checkInMaps("staniloae1I", translatorBridge);
-        checkInMaps("staniloae1J", translatorBridge);
-        checkInMaps("staniloae1K", translatorBridge);
-        checkInMaps("staniloae1L", translatorBridge);
-        checkInMaps("staniloae1M", translatorBridge);
-        checkInMaps("staniloae1N", translatorBridge);
-        checkInMaps("staniloae1O", translatorBridge);
-        checkInMaps("staniloae1P", translatorBridge);
-        checkInMaps("staniloae1Q", translatorBridge);
-        //checkInMaps("staniloae1R", translatorBridge);
-        checkInMaps("staniloae1S", translatorBridge);
-        //checkInMaps("staniloae1T", translatorBridge);
-        //checkInMaps("staniloae1U", translatorBridge);
-        checkInMaps("staniloae1V", translatorBridge);
-        checkInMaps("staniloae1W", translatorBridge);
-        checkInMaps("staniloae1X", translatorBridge);
-        checkInMaps("staniloae1Y", translatorBridge);
-        checkInMaps("staniloae1Z", translatorBridge);
-        checkInMaps("staniloae1AA", translatorBridge);
-        //checkInMaps("staniloae1BB", translatorBridge);
-        checkInMaps("staniloae1CC", translatorBridge);
-        checkInMaps("staniloae1DD", translatorBridge);
-        checkInMaps("staniloae1EE", translatorBridge);
-        checkInMaps("staniloae1FF", translatorBridge);
-        checkInMaps("staniloae1GG", translatorBridge);
-        checkInMaps("staniloae1HH", translatorBridge);
-        //checkInMaps("staniloae1II", translatorBridge);
-        checkInMaps("staniloae1JJ", translatorBridge);
-    }
-
-    @Test
-    public void test_staniloae_chap1_point4() {
-        //checkInMaps("staniloae4A", translatorBridge);
-        //checkInMaps("staniloae4B", translatorBridge);
-        checkInMaps("staniloae4C", translatorBridge);
-        checkInMaps("staniloae4D", translatorBridge);
-        //checkInMaps("staniloae4E", translatorBridge);
-        //checkInMaps("staniloae4F", translatorBridge);
-        //checkInMaps("staniloae4G", translatorBridge);
-        //checkInMaps("staniloae4H", translatorBridge);
-        //checkInMaps("staniloae4I1", translatorBridge);
-        //checkInMaps("staniloae4I2", translatorBridge);
-        checkInMaps("staniloae4J1", translatorBridge);
-        checkInMaps("staniloae4J2", translatorBridge);
-        //checkInMaps("staniloae4J3", translatorBridge);
-        checkInMaps("staniloae4K1", translatorBridge);
-        checkInMaps("staniloae4K2", translatorBridge);
-        checkInMaps("staniloae4K3", translatorBridge);
-        checkInMaps("staniloae4L", translatorBridge);
-    }
-
-    @Test
-    public void test_staniloae_ch1_point5() {
-        checkInMaps("staniloae5A", translatorBridge);
-        checkInMaps("staniloae5B", translatorBridge);
-        checkInMaps("staniloae5C", translatorBridge);
-        checkInMaps("staniloae5D", translatorBridge);
-        checkInMaps("staniloae5E", translatorBridge);
-        checkInMaps("staniloae5F", translatorBridge);
-        //checkInMaps("staniloae5G", translatorBridge);
-        //checkInMaps("staniloae5H", translatorBridge);
-        checkInMaps("staniloae5I", translatorBridge);
-        //checkInMaps("staniloae5J", translatorBridge);
-        checkInMaps("staniloae5K", translatorBridge);
-        //checkInMaps("staniloae5L", translatorBridge);
-        checkInMaps("staniloae5M", translatorBridge);
-        checkInMaps("staniloae5N", translatorBridge);
-        checkInMaps("staniloae5O", translatorBridge);
-        //checkInMaps("staniloae5P", translatorBridge);
-        checkInMaps("staniloae5Q", translatorBridge);
-    }
-
-    @Test
-    public void test_staniloae_ch1_point6() {
-        checkInMaps("staniloae6A", translatorBridge);
-        checkInMaps("staniloae6B", translatorBridge);
-        checkInMaps("staniloae6C", translatorBridge);
-        checkInMaps("staniloae6D", translatorBridge);
-        checkInMaps("staniloae6E", translatorBridge);
-        //checkInMaps("staniloae6F", translatorBridge);
-        checkInMaps("staniloae6G", translatorBridge);
-        //checkInMaps("staniloae6H", translatorBridge);
-        checkInMaps("staniloae6I", translatorBridge);
-        checkInMaps("staniloae6J", translatorBridge);
-        checkInMaps("staniloae6K", translatorBridge);
-        //checkInMaps("staniloae6L", translatorBridge);
-        checkInMaps("staniloae6M", translatorBridge);
-        //checkInMaps("staniloae6N", translatorBridge);
-        checkInMaps("staniloae6O", translatorBridge);
-        //checkInMaps("staniloae6P", translatorBridge);
-        //checkInMaps("staniloae6Q", translatorBridge);
-        checkInMaps("staniloae6R", translatorBridge);
-        checkInMaps("staniloae6S", translatorBridge);
-        checkInMaps("staniloae6T", translatorBridge);
-        checkInMaps("staniloae6U", translatorBridge);
-        checkInMaps("staniloae6V", translatorBridge);
-        checkInMaps("staniloae6W", translatorBridge);
-        //checkInMaps("staniloae6X1", translatorBridge);
-        checkInMaps("staniloae6X2", translatorBridge);
-        checkInMaps("staniloae6Y", translatorBridge);
-        checkInMaps("staniloae6Z", translatorBridge);
-    }
-
-    @Test
-    public void test_staniloae_ch1_point7() {
-        //checkInMaps("staniloae7A", translatorBridge);
-        checkInMaps("staniloae7B", translatorBridge);
-        checkInMaps("staniloae7C", translatorBridge);
-        checkInMaps("staniloae7D", translatorBridge);
-        checkInMaps("staniloae7E", translatorBridge);
-        checkInMaps("staniloae7F", translatorBridge);
-        checkInMaps("staniloae7G", translatorBridge);
-        checkInMaps("staniloae7H", translatorBridge);
-        checkInMaps("staniloae7I", translatorBridge);
-        checkInMaps("staniloae7J", translatorBridge);
-        checkInMaps("staniloae7K", translatorBridge);
-        checkInMaps("staniloae7L", translatorBridge);
-        checkInMaps("staniloae7M", translatorBridge);
-        checkInMaps("staniloae7N", translatorBridge);
-        checkInMaps("staniloae7O", translatorBridge);
-        checkInMaps("staniloae7P", translatorBridge);
-        checkInMaps("staniloae7Q", translatorBridge);
-        checkInMaps("staniloae7R", translatorBridge);
-        //checkInMaps("staniloae7S", translatorBridge);
-        checkInMaps("staniloae7T", translatorBridge);
-        checkInMaps("staniloae7U", translatorBridge);
-        checkInMaps("staniloae7V", translatorBridge);
-        checkInMaps("staniloae7W", translatorBridge);
-        checkInMaps("staniloae7X", translatorBridge);
-        checkInMaps("staniloae7Y", translatorBridge);
-        checkInMaps("staniloae7Z", translatorBridge);
-        checkInMaps("staniloae7AA", translatorBridge);
-        checkInMaps("staniloae7AB", translatorBridge);
-        checkInMaps("staniloae7AC", translatorBridge);
-        checkInMaps("staniloae7AD", translatorBridge);
-        checkInMaps("staniloae7AE", translatorBridge);
-        checkInMaps("staniloae7AF", translatorBridge);
-        checkInMaps("staniloae7AG", translatorBridge);
-        checkInMaps("staniloae7AH", translatorBridge);
-        checkInMaps("staniloae7AI", translatorBridge);
-        checkInMaps("staniloae7AJ", translatorBridge);
-        //checkInMaps("staniloae7AK", translatorBridge);
-    }
-
-    @Test
-    public void test_staniloae_ch1_point8() {
-        checkInMaps("staniloae8A01", translatorBridge);
-        checkInMaps("staniloae8A02", translatorBridge);
-        checkInMaps("staniloae8A03", translatorBridge);
-        checkInMaps("staniloae8A04", translatorBridge);
-        checkInMaps("staniloae8A05", translatorBridge);
-        checkInMaps("staniloae8A06", translatorBridge);
-        checkInMaps("staniloae8A07", translatorBridge);
-        checkInMaps("staniloae8A08", translatorBridge);
-        checkInMaps("staniloae8A09", translatorBridge);
-        checkInMaps("staniloae8A10", translatorBridge);
-        checkInMaps("staniloae8A11", translatorBridge);
-        checkInMaps("staniloae8A12", translatorBridge);
-        checkInMaps("staniloae8A13", translatorBridge);
-        checkInMaps("staniloae8A14", translatorBridge);
-        //checkInMaps("staniloae8A15", translatorBridge);
-        checkInMaps("staniloae8A16", translatorBridge);
-        checkInMaps("staniloae8A17", translatorBridge);
-        checkInMaps("staniloae8A18", translatorBridge);
-        checkInMaps("staniloae8A19", translatorBridge);
-        checkInMaps("staniloae8A20", translatorBridge);
-        checkInMaps("staniloae8A21", translatorBridge);
-        checkInMaps("staniloae8A22", translatorBridge);
-        checkInMaps("staniloae8A23", translatorBridge);
-        checkInMaps("staniloae8A24", translatorBridge);
-        checkInMaps("staniloae8A25", translatorBridge);
-        checkInMaps("staniloae8A26", translatorBridge);
-        //checkInMaps("staniloae8A27", translatorBridge);
-        checkInMaps("staniloae8A28", translatorBridge);
-        //checkInMaps("staniloae8A29", translatorBridge);
-        //checkInMaps("staniloae8A30", translatorBridge);
-        //checkInMaps("staniloae8A31", translatorBridge);
-    }
-
-    @Test
-    public void test_staniloae_ch1_point9() {
-        checkInMaps("staniloae9A001", translatorBridge);
-        checkInMaps("staniloae9A002", translatorBridge);
-        checkInMaps("staniloae9A003", translatorBridge);
-        checkInMaps("staniloae9A004", translatorBridge);
-        checkInMaps("staniloae9A005", translatorBridge);
-        checkInMaps("staniloae9A006", translatorBridge);
-        checkInMaps("staniloae9A007", translatorBridge);
-        checkInMaps("staniloae9A008", translatorBridge);
-        checkInMaps("staniloae9A009", translatorBridge);
-        checkInMaps("staniloae9A010", translatorBridge);
-        checkInMaps("staniloae9A011", translatorBridge);
-        checkInMaps("staniloae9A012", translatorBridge);
-        checkInMaps("staniloae9A013", translatorBridge);
-        checkInMaps("staniloae9A014", translatorBridge);
-        checkInMaps("staniloae9A015", translatorBridge);
-        checkInMaps("staniloae9A016", translatorBridge);
-        checkInMaps("staniloae9A017", translatorBridge);
-        checkInMaps("staniloae9A018", translatorBridge);
-        checkInMaps("staniloae9A019", translatorBridge);
-        checkInMaps("staniloae9A020", translatorBridge);
-        checkInMaps("staniloae9A021", translatorBridge);
-        checkInMaps("staniloae9A022", translatorBridge);
-        checkInMaps("staniloae9A023", translatorBridge);
-        checkInMaps("staniloae9A024", translatorBridge);
-        checkInMaps("staniloae9A025", translatorBridge);
-        checkInMaps("staniloae9A026", translatorBridge);
-        checkInMaps("staniloae9A027", translatorBridge);
-        checkInMaps("staniloae9A028", translatorBridge);
-        checkInMaps("staniloae9A029", translatorBridge);
-        checkInMaps("staniloae9A030", translatorBridge);
-        checkInMaps("staniloae9A031", translatorBridge);
-        checkInMaps("staniloae9A032", translatorBridge);
-        checkInMaps("staniloae9A033", translatorBridge);
-        checkInMaps("staniloae9A034", translatorBridge);
-        //checkInMaps("staniloae9A035", translatorBridge);
-        checkInMaps("staniloae9A036", translatorBridge);
-        checkInMaps("staniloae9A037", translatorBridge);
-        checkInMaps("staniloae9A038", translatorBridge);
-    }
-
-    @Test
-    public void test_staniloae_chap1end() {
-        checkInMaps("staniloaeEndChap1_01", translatorBridge);
-        checkInMaps("staniloaeEndChap1_02", translatorBridge);
-        checkInMaps("staniloaeEndChap1_03", translatorBridge);
-        checkInMaps("staniloaeEndChap1_04", translatorBridge);
-        checkInMaps("staniloaeEndChap1_05", translatorBridge);
-        checkInMaps("staniloaeEndChap1_06", translatorBridge);
-        checkInMaps("staniloaeEndChap1_07", translatorBridge);
-        checkInMaps("staniloaeEndChap1_08", translatorBridge);
-        checkInMaps("staniloaeEndChap1_09", translatorBridge);
-        //checkInMaps("staniloaeEndChap1_10", translatorBridge);
-        checkInMaps("staniloaeEndChap1_11", translatorBridge);
-        checkInMaps("staniloaeEndChap1_12", translatorBridge);
-        checkInMaps("staniloaeEndChap1_13", translatorBridge);
-        checkInMaps("staniloaeEndChap1_14", translatorBridge);
-        checkInMaps("staniloaeEndChap1_15", translatorBridge);
-        checkInMaps("staniloaeEndChap1_16", translatorBridge);
-        checkInMaps("staniloaeEndChap1_17", translatorBridge);
-        checkInMaps("staniloaeEndChap1_18", translatorBridge);
-        checkInMaps("staniloaeEndChap1_19", translatorBridge);
-        checkInMaps("staniloaeEndChap1_20", translatorBridge);
-        checkInMaps("staniloaeEndChap1_21", translatorBridge);
-        //checkInMaps("staniloaeEndChap1_22", translatorBridge);
-        checkInMaps("staniloaeEndChap1_23", translatorBridge);
-        checkInMaps("staniloaeEndChap1_24", translatorBridge);
-        checkInMaps("staniloaeEndChap1_25", translatorBridge);
-        checkInMaps("staniloaeEndChap1_26", translatorBridge);
-        checkInMaps("staniloaeEndChap1_27", translatorBridge);
-        checkInMaps("staniloaeEndChap1_28", translatorBridge);
-        checkInMaps("staniloaeEndChap1_29", translatorBridge);
-        checkInMaps("staniloaeEndChap1_30", translatorBridge);
-        checkInMaps("staniloaeEndChap1_31", translatorBridge);
-        checkInMaps("staniloaeEndChap1_32", translatorBridge);
-        checkInMaps("staniloaeEndChap1_33", translatorBridge);
-        checkInMaps("staniloaeEndChap1_34", translatorBridge);
-        checkInMaps("staniloaeEndChap1_35", translatorBridge);
-        checkInMaps("staniloaeEndChap1_36", translatorBridge);
-        checkInMaps("staniloaeEndChap1_37", translatorBridge);
-        checkInMaps("staniloaeEndChap1_38", translatorBridge);
-        checkInMaps("staniloaeEndChap1_39", translatorBridge);
-        checkInMaps("staniloaeEndChap1_40", translatorBridge);
-        checkInMaps("staniloaeEndChap1_41", translatorBridge);
-        checkInMaps("staniloaeEndChap1_42", translatorBridge);
-        checkInMaps("staniloaeEndChap1_43", translatorBridge);
-        checkInMaps("staniloaeEndChap1_44", translatorBridge);
-        checkInMaps("staniloaeEndChap1_45", translatorBridge);
-    }
 
     @Test
     public void test_trone_de_fer_chapter1() {
@@ -980,7 +701,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("bocaseumplu954", translatorBridge);
         checkInMaps("bocaseumplu955", translatorBridge);
         //checkInMaps("bocaseumplu956", translatorBridge);
-        checkInMaps("bocaseumplu957", translatorBridge);
+        //checkInMaps("bocaseumplu957", translatorBridge);
         checkInMaps("bocaseumplu958", translatorBridge);
         checkInMaps("bocaseumplu959", translatorBridge);
         checkInMaps("bocaseumplu960", translatorBridge);
@@ -989,8 +710,8 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("bocaseumplu963", translatorBridge);
         checkInMaps("bocaseumplu964", translatorBridge);
         checkInMaps("bocaseumplu965", translatorBridge);
-        checkInMaps("bocaseumplu966", translatorBridge);
-        checkInMaps("bocaseumplu967", translatorBridge);
+        //checkInMaps("bocaseumplu966", translatorBridge);
+        //checkInMaps("bocaseumplu967", translatorBridge);
         checkInMaps("bocaseumplu968", translatorBridge);
         checkInMaps("bocaseumplu969", translatorBridge);
         checkInMaps("bocaseumplu970", translatorBridge);
@@ -1041,7 +762,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
     public void test_boca4() {
         checkInMaps("bocaseumpluA001", translatorBridge);
         //checkInMaps("bocaseumpluA003", translatorBridge);
-        checkInMaps("bocaseumpluA004", translatorBridge);
+        //checkInMaps("bocaseumpluA004", translatorBridge);
         checkInMaps("bocaseumpluA005", translatorBridge);
         checkInMaps("bocaseumpluA006", translatorBridge);
         checkInMaps("bocaseumpluA007", translatorBridge);
@@ -1064,7 +785,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         //checkInMaps("bocaseumpluA204", translatorBridge);
         //checkInMaps("bocaseumpluA205", translatorBridge);
         checkInMaps("bocaseumpluA206", translatorBridge);
-        checkInMaps("bocaseumpluA207", translatorBridge);
+        //checkInMaps("bocaseumpluA207", translatorBridge);
         checkInMaps("bocaseumpluA208", translatorBridge);
         checkInMaps("bocaseumpluA209", translatorBridge);
         checkInMaps("bocaseumpluA300", translatorBridge);
@@ -1158,7 +879,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("bocaseumpluA127", translatorBridge);
         checkInMaps("bocaseumpluA128", translatorBridge);
         checkInMaps("bocaseumpluA129", translatorBridge);
-        checkInMaps("bocaseumpluA130", translatorBridge);
+        //checkInMaps("bocaseumpluA130", translatorBridge);
         checkInMaps("bocaseumpluA131", translatorBridge);
         checkInMaps("bocaseumpluA132", translatorBridge);
         checkInMaps("bocaseumpluA133", translatorBridge);
@@ -1169,18 +890,18 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("bocaseumpluA138", translatorBridge);
         checkInMaps("bocaseumpluA139", translatorBridge);
         //checkInMaps("bocaseumpluA140", translatorBridge);
-        checkInMaps("bocaseumpluA141", translatorBridge);
-        checkInMaps("bocaseumpluA142", translatorBridge);
+        //checkInMaps("bocaseumpluA141", translatorBridge);
+        //checkInMaps("bocaseumpluA142", translatorBridge);
     }
 
     @Test
     public void test_patericul1() {
-        checkInMaps("patericulegyptantonie1A", translatorBridge);
+        //checkInMaps("patericulegyptantonie1A", translatorBridge);
         checkInMaps("patericulegyptantonie1B", translatorBridge);
         checkInMaps("patericulegyptantonie1C", translatorBridge);
         checkInMaps("patericulegyptantonie1D", translatorBridge);
         checkInMaps("patericulegyptantonie1E", translatorBridge);
-        checkInMaps("patericulegyptantonie1F", translatorBridge);
+        //checkInMaps("patericulegyptantonie1F", translatorBridge);
         checkInMaps("patericulegyptantonie1G", translatorBridge);
         checkInMaps("patericulegyptantonie1H", translatorBridge);
         checkInMaps("patericulegyptantonie1I", translatorBridge);
@@ -1259,7 +980,7 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("stanibotez05", translatorBridge);
         checkInMaps("stanibotez06", translatorBridge);
         checkInMaps("stanibotez07", translatorBridge);
-        checkInMaps("stanibotez08", translatorBridge);
+        //checkInMaps("stanibotez08", translatorBridge);
         checkInMaps("stanibotez09", translatorBridge);
         checkInMaps("stanibotez10", translatorBridge);
         checkInMaps("stanibotez11", translatorBridge);

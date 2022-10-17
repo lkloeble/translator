@@ -1,2 +1,2 @@
 IPR=>re,ere,er,ern,ert,ern
-PAPR=>ernd
+PAPR=>[ausreichend]

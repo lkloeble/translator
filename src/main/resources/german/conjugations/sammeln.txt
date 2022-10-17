@@ -3,3 +3,4 @@ AII=>te,test,te,ten,tet,ten
 ASP=>ele,elest,ele,eln,let,eln
 AIMP=>le,elt
 PAP=>[ausreichend]
+PAPR=>[ausreichend]

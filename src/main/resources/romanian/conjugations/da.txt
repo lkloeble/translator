@@ -1,5 +1,5 @@
 IPR=>u,i,,m,tsi,u
 PAP=>[adj]
-PAPR=>nd
+PAPR=>nd|ndu
 ASP=>au,ai,ea,am,atsi,ea
 AIF=>voi,vei,va,vom,vetsi,vor

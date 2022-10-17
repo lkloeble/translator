@@ -4,4 +4,5 @@ nomc%sing%masc%ele
 gen%sing%masc%elui
 noma%plr%masc%si
 nomb%plr%masc%sii
+nomc%plr%masc%i
 gen%plr%masc%silor

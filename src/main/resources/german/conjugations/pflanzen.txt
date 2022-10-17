@@ -1,2 +1,3 @@
 IPR=>e,t,t,en,t,en
 AII=>te,test,te,ten,tet,ten
+PAP=>[ausreichend]

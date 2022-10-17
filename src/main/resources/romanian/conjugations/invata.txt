@@ -1,1 +1,2 @@
 IPR=>ts,tsi,tsa,tsam,tatsi,tsa
+PAPR=>tsand

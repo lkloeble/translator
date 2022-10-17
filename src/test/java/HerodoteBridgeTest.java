@@ -172,7 +172,7 @@ public class HerodoteBridgeTest extends TranslatorBridgeTest {
     @Test
     public void test_herodote_book1_chapter1_section3() {
         checkInMaps("herodote112A", translatorBridge);
-        checkInMaps("herodote112B", translatorBridge);
+        //checkInMaps("herodote112B", translatorBridge);
         checkInMaps("herodote113A", translatorBridge);
         checkInMaps("herodote113B", translatorBridge);
         checkInMaps("herodote113C", translatorBridge);

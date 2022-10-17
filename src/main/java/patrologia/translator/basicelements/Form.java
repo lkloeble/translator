@@ -81,13 +81,13 @@ public class Form {
     }
 
     public Form updateToUnaccentued() {
-        return new Form(unaccentued(value),value,type,declension,1, infinitiveBuilder);
+        return new Form(unaccentued(value),value,type,declension,preferedTranslation, infinitiveBuilder);
     }
 
     public Form updateToAlternateInfinitiveForm() {return new Form(infinitiveBuilder.getInfinitiveFromInitialValue(value), value, type,declension,1, infinitiveBuilder);}
 
     public Form updateToUnaccentuedOriginValue() {
-        return new Form(unaccentued(value),unaccentued(value),type,declension,1,infinitiveBuilder);
+        return new Form(unaccentued(value),unaccentued(value),type,declension,preferedTranslation,infinitiveBuilder);
     }
 
     private String unaccentued(String value) {
