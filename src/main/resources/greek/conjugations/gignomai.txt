@@ -23,3 +23,5 @@ AORPASSPART=>θεντα
 AORINFMID=>θαι
 PRESPASSINF=>εσθαι
 AORMIDIMP=>ω,ω,ε,ων
+MPII=>-,-,ετο,-,-,-
+ACAOINBIS=>ομην,εο,ετο,ομεθα,εσθε,οντο

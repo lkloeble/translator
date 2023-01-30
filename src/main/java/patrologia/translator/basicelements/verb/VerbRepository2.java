@@ -3,6 +3,9 @@ package patrologia.translator.basicelements.verb;
 import patrologia.translator.basicelements.*;
 import patrologia.translator.conjugation.*;
 
+import java.time.Instant;
+import java.time.LocalDateTime;
+import java.time.ZoneId;
 import java.util.*;
 
 public class VerbRepository2 {
@@ -90,7 +93,6 @@ public class VerbRepository2 {
         formsList.forEach(form -> extractIrregularForm(verbDefinition, form));
         Verb verb = new Verb(verbDefinition.getRoot(), this, language);
         verbMap.put(verbDefinition.getRoot(), verb);
-
     }
 
     private void extractIrregularForm(IrregularVerbDefinition verbDefinition, String form) {
@@ -140,15 +142,17 @@ public class VerbRepository2 {
         Verb verb = new Verb(verbDefinition.getRoot(), this, language);
         rootedConjugationMap.put(verbDefinition.getRoot() + "@" + time, rootedConjugation);
         verbMap.put(verbDefinition.getRoot(), verb);
-
     }
 
     private void storeAllConjugations(RootedConjugation rootedConjugation, TranslationInformationReplacement2 translationInformationReplacement, String time, VerbDefinition verbDefinition) {
-        for (String value : rootedConjugation.allFormsByTime()) {
+        List<String> allFormsByTime = rootedConjugation.allFormsByTime();
+        for (String value : allFormsByTime) {
             String replace = value;
-            conjugationMap.put(replace, verbDefinition.getRoot());
-            if(!conjugationMap.containsKey(accentuer.cleanAll(replace))) {
-                conjugationMap.put(accentuer.cleanAll(replace),verbDefinition.getRoot());
+            String root = verbDefinition.getRoot();
+            conjugationMap.put(replace, root);
+            String cleanAll = accentuer.cleanAll(replace);
+            if(!conjugationMap.containsKey(cleanAll)) {
+                conjugationMap.put(cleanAll, root);
             }
         }
     }

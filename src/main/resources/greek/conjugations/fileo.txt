@@ -15,3 +15,4 @@ AORACTPARTB=>[ας-ασα-αν]
 AORPASIND=>ην,ης,η,ημεν,ητε,ησαν
 PRESACTPART=>[ος-η-ο]
 PRESACTPARTB=>[ους-ουσα-ον]
+MIAOIN=>σαμην,σω,σατο,σαμεθα,σασθε,σαντο

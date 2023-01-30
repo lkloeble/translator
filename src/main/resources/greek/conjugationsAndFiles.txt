@@ -11,3 +11,4 @@
 ω-ης%zaw.txt
 μαι-σαι%keimai.txt
 unknown%unknown.txt
+attic%attic_verb.txt

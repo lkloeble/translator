@@ -31,6 +31,44 @@ homereliv1lig030=>(au) notre@notre@ dans (au) maison dans (au) argos très loin 
 homereliv1lig031=>métier à tisser s'approchant(e) et mon lit dans le but de rencontrer face à face
 homereliv1lig032=>mais sois non μ mettais en colère plus sûr comme {futur} ailles.
 
+
+homereliv1lig033=>comme disait, craignit et le (des) honneur(s)@vieillard@ et persuada (au) parole
+homereliv1lig034=>marche et doucement à côté de rivage (du) fort et retentissant@fort et retentissant@ (du) mer(e)
+homereliv1lig035=>nombreux(e)@nombreux(s)@ et puis loin de allant pria le vieux
+homereliv1lig036=>(au) apollon (au) maître(e), le belle chevelure@belle chevelure(e)@ enfante léto(e)
+homereliv1lig037=>entends moi arc d'argent, qui chrysè(e) es entouré
+homereliv1lig038=>cilla(e) aussi très sacré(e) (sur) ténédos aussi puissamment gouvernes,
+homereliv1lig039=>smintheus es à un moment te grâcieux sur temple ai couvert,
+homereliv1lig040=>la es donc à un moment te selon gras@gras(e)@gras(s)@ fémurs suis brûlé
+homereliv1lig041=>(des) taureau(s) cette (des) bouc(s)(e), le d'autre part moi accomplis désir
+homereliv1lig042=>paient danéens mon(e)@mon(s)@ larme(s) tes flèches.
+homereliv1lig043=>comme disait qui prie, de et entendait phoebus apollon,
+homereliv1lig044=>marche d'autre part selon (de) l'olympe (des) tête(s) en colère coeur,
+homereliv1lig045=>arc (aux) épaule(s) a/ayant/eu protégé des deux côtés aussi carquois(e)
+homereliv1lig046=>produisent un son perçant et c'est pourquoi flèche(s) sur (des) épaule(s) en colère,
+homereliv1lig047=>(du) le mis en mouvement le et était (au) nuit(e) semblable.
+homereliv1lig048=>il s'assit puis loin de (des) nouveau(s)(e)@nouveau@, avec et poison relacha
+homereliv1lig049=>horrible(e) d'autre part fracas(e) créé argenté arc
+homereliv1lig050=>mule(s) d'une part premier s'approchait et chien(s) (du) argos,
+homereliv1lig051=>mais puis à eux-mêmes flèche perçants laisse partir
+homereliv1lig052=>envoyait toujours d'autre part bûcher funéraire(s)(e) (des) cadavre(s) ont été enflammés bondées.
+homereliv1lig053=>pendant neuf jours d'une part sur armée était parti flèche(s) (de) dieu,
+homereliv1lig054=>la dixième(e) et assemblée(e) d'autre part appela peuple achille
+homereliv1lig055=>au car sur entraille(s) placèrent déesse(e) arme-blanche héra(e)
+homereliv1lig056=>trouble car (des) danéens, que ainsi mort avait été vu.
+homereliv1lig057=>les et après cela donc furent assemblés assemblé@assemblé(e)@ aussi devinrent,
+homereliv1lig058=>à eux et dressé parla pied(s) rapide achille
+homereliv1lig059=>(au) atréïde maintenant moi-même refoulé je présume
+homereliv1lig060=>de retour retourner, es pourrait mort du moins fuirions,
+homereliv1lig061=>es donc ensemble guerre aussi maîtrisera et peste achéen(s)
+homereliv1lig062=>mais allons donc quelqu'un devin demandons la temple
+homereliv1lig063=>la et interpréteur de rêve, et car  rêve hors de zeus est,
+homereliv1lig064=>qui il devint disant/dit le qui à ce point se mit en colère phoebus apollon,
+homereliv1lig065=>ou bien c'est pourquoi le du moins (du) prière(e) accuse cette (du) hécatombe(e),
+homereliv1lig066=>les pourrait que (des) agneau(s) (du) odeur de graisse(e) (des) bouc(s)(e) aussi (des) terminé(s)(e)@terminé@
+homereliv1lig067=>souhaite rencontre à nous depuis destruction défendrait.
+
+
 traduct_remacle=>http://remacle.org/bloodwolf/poetes/homere/iliade1.htm
 
-toto=>bien
+toto=>chante

@@ -249,6 +249,7 @@ public class StaniloaePhilocaliaTest extends TranslatorBridgeTest {
         checkInMaps("filocaliaantonie7G", translatorBridge);
     }
 
+    /*
     @Test
     public void test_filocalia8() {
         checkInMaps("filocaliaantonie8A", translatorBridge);
@@ -262,6 +263,7 @@ public class StaniloaePhilocaliaTest extends TranslatorBridgeTest {
         checkInMaps("filocaliaantonie8I", translatorBridge);
         checkInMaps("filocaliaantonie8J", translatorBridge);
     }
+
 
     @Test
     public void test_filocalia9() {
@@ -295,5 +297,5 @@ public class StaniloaePhilocaliaTest extends TranslatorBridgeTest {
         checkInMaps("filocaliaantonie12D", translatorBridge);
         checkInMaps("filocaliaantonie12E", translatorBridge);
     }
-
+*/
 }

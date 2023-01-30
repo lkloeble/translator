@@ -86,10 +86,9 @@ public class GreekHomereTest  extends TranslatorBridgeTest {
     private List<String> getNouns(String nounFileDescription) {
         /*
             return Arrays.asList(new String[]{
-                    "ιω@neut%inv[accsg:ιουν]"
+                    "σμινθ@masc%υς-ως"
             });
-
-         */
+        */
         return getFileContentForRepository(nounFileDescription);
     }
 
@@ -107,8 +106,9 @@ public class GreekHomereTest  extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "αποπλ,ειν,[εω-εις],(PRESACTPARTB*αποπλ*αποπλε)"
+                "οιχ,ομαι,[ομαι-η],(MPII*οιχ*ωχ)"
         });
+        µ:
          */
         return getFileContentForRepository(verbFileDescription);
     }
@@ -149,7 +149,7 @@ public class GreekHomereTest  extends TranslatorBridgeTest {
     }
 
     @Test
-    public void test_homere_yliad_book1() {
+    public void test_homere_yliad_book1_card1() {
         checkInMaps("homereliv1lig001", translatorBridge);
         checkInMaps("homereliv1lig002", translatorBridge);
         //checkInMaps("homereliv1lig003", translatorBridge);
@@ -186,6 +186,46 @@ public class GreekHomereTest  extends TranslatorBridgeTest {
 
 
     @Test
+    public void test_homere_yliad_book1_card2() {
+        checkInMaps("homereliv1lig033", translatorBridge);
+        checkInMaps("homereliv1lig034", translatorBridge);
+        checkInMaps("homereliv1lig035", translatorBridge);
+        checkInMaps("homereliv1lig036", translatorBridge);
+        checkInMaps("homereliv1lig037", translatorBridge);
+        checkInMaps("homereliv1lig038", translatorBridge);
+        checkInMaps("homereliv1lig039", translatorBridge);
+        checkInMaps("homereliv1lig040", translatorBridge);
+        checkInMaps("homereliv1lig041", translatorBridge);
+        checkInMaps("homereliv1lig042", translatorBridge);
+        checkInMaps("homereliv1lig043", translatorBridge);
+        checkInMaps("homereliv1lig044", translatorBridge);
+        checkInMaps("homereliv1lig045", translatorBridge);
+        checkInMaps("homereliv1lig046", translatorBridge);
+        checkInMaps("homereliv1lig047", translatorBridge);
+        checkInMaps("homereliv1lig048", translatorBridge);
+        checkInMaps("homereliv1lig049", translatorBridge);
+        checkInMaps("homereliv1lig050", translatorBridge);
+        checkInMaps("homereliv1lig051", translatorBridge);
+        checkInMaps("homereliv1lig052", translatorBridge);
+        checkInMaps("homereliv1lig053", translatorBridge);
+        checkInMaps("homereliv1lig054", translatorBridge);
+        checkInMaps("homereliv1lig055", translatorBridge);
+        checkInMaps("homereliv1lig056", translatorBridge);
+        checkInMaps("homereliv1lig057", translatorBridge);
+        checkInMaps("homereliv1lig058", translatorBridge);
+        checkInMaps("homereliv1lig059", translatorBridge);
+        checkInMaps("homereliv1lig060", translatorBridge);
+        checkInMaps("homereliv1lig061", translatorBridge);
+        checkInMaps("homereliv1lig062", translatorBridge);
+        checkInMaps("homereliv1lig063", translatorBridge);
+        checkInMaps("homereliv1lig064", translatorBridge);
+        checkInMaps("homereliv1lig065", translatorBridge);
+        checkInMaps("homereliv1lig066", translatorBridge);
+        checkInMaps("homereliv1lig067", translatorBridge);
+    }
+
+
+        @Test
     public void test_failed_ones() {
         assertTrue(true);
         checkInMaps("toto", translatorBridge);

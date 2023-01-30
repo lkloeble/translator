@@ -71,3 +71,5 @@ x-α-x%stas.txt
 ην-ος%apvhs.txt
 ις-ιδος%kolchis.txt
 ος-ην%medee.txt
+ως-υια-ος%eoikos.txt
+ευς-εως%oupeos.txt

@@ -9,3 +9,4 @@ voc%plr%masc%οι
 dat%sing%masc%ω
 data%plr%masc%οις
 datb%plr%masc%οισι
+datc%plr%masc%οισιν

@@ -4,7 +4,7 @@ gen%sing%masc%ος
 gen%plr%masc%ων
 acc%sing%masc%α
 acc%plr%masc%ας
-voc%sing%masc%ευ
+voc%sing%masc%υ
 voc%plr%masc%ες
 dat%sing%masc%ι
 dat%plr%masc%ευσιν

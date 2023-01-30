@@ -2,4 +2,4 @@ IPR=>ω,οις,οι,ουμεν,ουτε,ουσι|ουσιν
 FUTPARTACT=>ουμενην,-x,-x,-x
 ACAOIN=>-x,-x,-x,-x,-x,ωσεν
 PARAORINFPAS=>ηναι,εις,εισα,εν
-ACAOIM=>-,-,σατε,-
+ACAOIM=>-x,-x,σατε,-x
