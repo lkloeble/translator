@@ -9,6 +9,7 @@ IMP=>abam,abas,abat,abamus,abatis,abant
 AIF=>abo,abis,abit,abimus,abitis,abunt
 AII=>abam,abas,abat,abamus,abatis,abant
 PIF=>abor,aberis,abitur,abimur,abimini,abuntur
+PIF2=>ator,ator,antor
 PASUPR=>er,eris,etur,emur,emini,entur
 AIPP=>averam,averas,averat,averamus,averatis,averant
 AIFP=>avero,averis,averit,averimus,averitis,averint

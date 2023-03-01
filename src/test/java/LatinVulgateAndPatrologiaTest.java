@@ -1,9 +1,130 @@
+import org.junit.Before;
 import org.junit.Test;
+import patrologia.translator.TranslatorBridge;
+import patrologia.translator.basicelements.DummyAccentuer;
+import patrologia.translator.basicelements.Language;
+import patrologia.translator.basicelements.noun.NounRepository;
+import patrologia.translator.basicelements.preposition.PrepositionRepository;
+import patrologia.translator.basicelements.verb.VerbRepository2;
+import patrologia.translator.casenumbergenre.latin.LatinCaseFactory;
+import patrologia.translator.conjugation.latin.LatinConjugationFactory;
+import patrologia.translator.declension.Declension;
+import patrologia.translator.declension.latin.LatinDeclension;
+import patrologia.translator.declension.latin.LatinDeclensionFactory;
+import patrologia.translator.linguisticimplementations.FrenchTranslator;
+import patrologia.translator.linguisticimplementations.LatinAnalyzer;
+import patrologia.translator.linguisticimplementations.Translator;
+import patrologia.translator.rule.latin.LatinRuleFactory;
+import patrologia.translator.utils.Analyzer;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 
 /**
  * Created by lkloeble on 02/01/2017.
  */
 public class LatinVulgateAndPatrologiaTest extends LatinTranslatorBridgeTest {
+
+    protected TranslatorBridge translatorBridge;
+
+    private String localTestPath="C:\\Users\\kloeble.l\\IdeaProjects\\translator\\src\\test\\resources\\";
+    private String localResourcesPath="C:\\Users\\kloeble.l\\IdeaProjects\\translator\\src\\main\\resources\\latin\\";
+    private String localCommonPath="C:\\Users\\kloeble.l\\IdeaProjects\\translator\\src\\main\\resources\\";
+
+    @Before
+    public void init() {
+        String prepositionFileDescription = localResourcesPath + "prepositions.txt";
+        String nounFileDescription = localResourcesPath + "nouns.txt";
+        String verbFileDescription = localResourcesPath + "verbs.txt";
+        String latinFrenchDataFile = localResourcesPath + "gaffiot_latin_to_french.txt";
+        String frenchVerbsDataFile = localCommonPath + "french_verbs.txt";
+        String declensionLatinFiles = localResourcesPath + "declensions";
+        String conjugationLatinFiles = localResourcesPath + "conjugations";
+        String declensionsAndFiles = localResourcesPath + "declensionsAndFiles.txt";
+        String conjugationsAndFiles = localResourcesPath + "conjugationsAndFiles.txt";
+        String latinPathFile = localTestPath + "vulgate_patrologia_content.txt";
+        String latinResultFile = localTestPath + "vulgate_patrologia_expected_result.txt";
+        LatinDeclensionFactory latinDeclensionFactory = new LatinDeclensionFactory(getDeclensions(declensionsAndFiles), getDeclensionList(declensionsAndFiles, declensionLatinFiles));
+        LatinRuleFactory ruleFactory = new LatinRuleFactory();
+        PrepositionRepository prepositionRepository = new PrepositionRepository(Language.LATIN, new LatinCaseFactory(), ruleFactory, getFileContentForRepository(prepositionFileDescription));
+        NounRepository nounRepository = new NounRepository(Language.LATIN, latinDeclensionFactory, new DummyAccentuer(),getNouns(nounFileDescription));
+        VerbRepository2 verbRepository = new VerbRepository2(new LatinConjugationFactory(getLatinConjugations(conjugationsAndFiles), getLatinConjugationDefinitions(conjugationsAndFiles, conjugationLatinFiles),latinDeclensionFactory), Language.LATIN, new DummyAccentuer(),getVerbs(verbFileDescription));
+        Analyzer latinAnalyzer = new LatinAnalyzer(prepositionRepository, nounRepository, verbRepository);
+        Translator frenchTranslator = new FrenchTranslator(getFrenchDictionary(latinFrenchDataFile), getFileContentForRepository(frenchVerbsDataFile), verbRepository, nounRepository, declensionLatinFiles, declensionsAndFiles, latinDeclensionFactory);
+        translatorBridge = new TranslatorBridge(latinAnalyzer, frenchTranslator);
+        mapValuesForTest = loadMapFromFiles(latinPathFile);
+        mapValuesForResult = loadMapFromFiles(latinResultFile);
+    }
+
+    private List<String> getFrenchDictionary(String latinFrenchDataFile) {
+        /*
+        return Arrays.asList(new String[]{
+                "vir@noun!is-is%1(noun)=forces",
+                "vir@noun!x(us)-i%1(noun)=homme (oppose a femme)%2(noun)=homme, mari, epoux%3(noun)=soldat%4(noun)=personnage, individu%5(noun)=homme"
+        });
+         */
+        return getFileContentForRepository(latinFrenchDataFile);
+    }
+
+    private List<String> getVerbs(String verbFileDescription) {
+        /*
+        return Arrays.asList(new String[]{
+                "scrib,o,is,ere,,,[o-is],(AIP*scrib*scrips@IAP*scrib*scrips)"
+        });
+        */
+        return getFileContentForRepository(verbFileDescription);
+    }
+
+    private List<Declension> getDeclensionList(String file, String directory) {
+        List<String> declensionNameList = getFileContentForRepository(file);
+        List<Declension> declensionList = new ArrayList<>();
+        for (String declensionName : declensionNameList) {
+            String parts[] = declensionName.split("%");
+            String fileName = parts[1];
+            //declensionList.add(new LatinDeclension(fileName, getDeclensionElements(fileName, directory), false));
+            declensionList.add(new LatinDeclension(fileName, getDeclensionElements(fileName, directory)));
+        }
+        return declensionList;
+    }
+
+    private List<String> getLatinConjugations(String conjugationsAndFiles) {
+        /*
+        return Arrays.asList(new String[]{
+                "o-is%permittere.txt"
+        });
+        */
+        return getFileContentForRepository(conjugationsAndFiles);
+    }
+
+    private Map<String, List<String>> getLatinConjugationDefinitions(String file, String directory) {
+        /*
+        Map<String, List<String>> latinConjugationDefinitionsMap = new HashMap<>();
+        latinConjugationDefinitionsMap.put("io-is", Arrays.asList("IPR=>io,is,it,imus,itis,iunt","AIF=>iam,ies,iet,iemus,ietis,ient"));
+        return latinConjugationDefinitionsMap;
+        */
+        List<String> conjugationNameList = getFileContentForRepository(file);
+        Map<String, List<String>> latinConjugationDefinitionsMap = new HashMap<>();
+        for(String conjugationName : conjugationNameList) {
+            String parts[] = conjugationName.split("%");
+            String fileName = parts[1];
+            String nameOnly = parts[0];
+            latinConjugationDefinitionsMap.put(nameOnly, getConjugationElements(directory,fileName));
+        }
+        return latinConjugationDefinitionsMap;
+    }
+
+    private List<String> getNouns(String nounFileDescription) {
+        /*
+        return Arrays.asList(new String[]{
+                "vir@fem%is-is",
+                "vir@masc%x(us)-i"
+        });
+         */
+        return getFileContentForRepository(nounFileDescription);
+    }
+
 
     @Test
     public void test_vocabulary_vulgate_ch01() {
@@ -553,4 +674,99 @@ public class LatinVulgateAndPatrologiaTest extends LatinTranslatorBridgeTest {
         checkInMaps("patrologiacaput742", translatorBridge);
         checkInMaps("patrologiacaput743", translatorBridge);
     }
+
+
+    @Test
+    public void test_patrologia_chapter8() {
+        checkInMaps("patrologiacaput800", translatorBridge);
+        checkInMaps("patrologiacaput801", translatorBridge);
+        checkInMaps("patrologiacaput802", translatorBridge);
+        checkInMaps("patrologiacaput803", translatorBridge);
+        checkInMaps("patrologiacaput804", translatorBridge);
+        checkInMaps("patrologiacaput805", translatorBridge);
+        checkInMaps("patrologiacaput806", translatorBridge);
+        checkInMaps("patrologiacaput807", translatorBridge);
+        checkInMaps("patrologiacaput808", translatorBridge);
+        checkInMaps("patrologiacaput809A", translatorBridge);
+        checkInMaps("patrologiacaput809B", translatorBridge);
+        checkInMaps("patrologiacaput810", translatorBridge);
+        checkInMaps("patrologiacaput811", translatorBridge);
+        checkInMaps("patrologiacaput812", translatorBridge);
+        checkInMaps("patrologiacaput813", translatorBridge);
+        checkInMaps("patrologiacaput814", translatorBridge);
+        checkInMaps("patrologiacaput815", translatorBridge);
+        checkInMaps("patrologiacaput816", translatorBridge);
+        checkInMaps("patrologiacaput817", translatorBridge);
+        checkInMaps("patrologiacaput818", translatorBridge);
+        checkInMaps("patrologiacaput819", translatorBridge);
+        checkInMaps("patrologiacaput820", translatorBridge);
+        checkInMaps("patrologiacaput821", translatorBridge);
+        checkInMaps("patrologiacaput822", translatorBridge);
+        checkInMaps("patrologiacaput823", translatorBridge);
+        checkInMaps("patrologiacaput824", translatorBridge);
+        checkInMaps("patrologiacaput825", translatorBridge);
+        checkInMaps("patrologiacaput826", translatorBridge);
+        checkInMaps("patrologiacaput827", translatorBridge);
+        checkInMaps("patrologiacaput828", translatorBridge);
+        checkInMaps("patrologiacaput829", translatorBridge);
+        checkInMaps("patrologiacaput830", translatorBridge);
+        checkInMaps("patrologiacaput831", translatorBridge);
+        checkInMaps("patrologiacaput832", translatorBridge);
+        checkInMaps("patrologiacaput833", translatorBridge);
+        checkInMaps("patrologiacaput834", translatorBridge);
+        checkInMaps("patrologiacaput835", translatorBridge);
+        checkInMaps("patrologiacaput836", translatorBridge);
+        checkInMaps("patrologiacaput837", translatorBridge);
+        checkInMaps("patrologiacaput838", translatorBridge);
+        checkInMaps("patrologiacaput839", translatorBridge);
+        checkInMaps("patrologiacaput840", translatorBridge);
+        checkInMaps("patrologiacaput841", translatorBridge);
+        checkInMaps("patrologiacaput842", translatorBridge);
+        checkInMaps("patrologiacaput843", translatorBridge);
+        checkInMaps("patrologiacaput844", translatorBridge);
+        checkInMaps("patrologiacaput845", translatorBridge);
+        checkInMaps("patrologiacaput846", translatorBridge);
+        checkInMaps("patrologiacaput847", translatorBridge);
+        checkInMaps("patrologiacaput848", translatorBridge);
+        checkInMaps("patrologiacaput849", translatorBridge);
+        checkInMaps("patrologiacaput850", translatorBridge);
+        checkInMaps("patrologiacaput851", translatorBridge);
+        checkInMaps("patrologiacaput852", translatorBridge);
+        checkInMaps("patrologiacaput853", translatorBridge);
+        checkInMaps("patrologiacaput854", translatorBridge);
+        checkInMaps("patrologiacaput855", translatorBridge);
+        checkInMaps("patrologiacaput856", translatorBridge);
+        checkInMaps("patrologiacaput857", translatorBridge);
+        checkInMaps("patrologiacaput858", translatorBridge);
+        checkInMaps("patrologiacaput859", translatorBridge);
+        checkInMaps("patrologiacaput860", translatorBridge);
+        checkInMaps("patrologiacaput861", translatorBridge);
+        checkInMaps("patrologiacaput862", translatorBridge);
+        checkInMaps("patrologiacaput863", translatorBridge);
+        checkInMaps("patrologiacaput864", translatorBridge);
+        checkInMaps("patrologiacaput865", translatorBridge);
+        checkInMaps("patrologiacaput866", translatorBridge);
+        checkInMaps("patrologiacaput867", translatorBridge);
+        checkInMaps("patrologiacaput868", translatorBridge);
+        checkInMaps("patrologiacaput869", translatorBridge);
+        checkInMaps("patrologiacaput870", translatorBridge);
+        checkInMaps("patrologiacaput871", translatorBridge);
+        checkInMaps("patrologiacaput872", translatorBridge);
+        checkInMaps("patrologiacaput873", translatorBridge);
+        checkInMaps("patrologiacaput874", translatorBridge);
+        checkInMaps("patrologiacaput875", translatorBridge);
+        checkInMaps("patrologiacaput876", translatorBridge);
+        checkInMaps("patrologiacaput877", translatorBridge);
+        checkInMaps("patrologiacaput878", translatorBridge);
+        checkInMaps("patrologiacaput879", translatorBridge);
+        checkInMaps("patrologiacaput880", translatorBridge);
+        checkInMaps("patrologiacaput881", translatorBridge);
+    }
+
+    @Test
+    public void test_failing_one() {
+        checkInMaps("toto", translatorBridge);
+        //checkInMaps("patrologiacaput6A020", translatorBridge);
+    }
+
 }

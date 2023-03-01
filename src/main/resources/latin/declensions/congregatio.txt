@@ -1,4 +1,5 @@
-nom%sing%neut%
+noma%sing%neut%
+nomb%sing%neut%n
 gen%sing%neut%nis
 dat%sing%neut%ni
 acc%sing%neut%nem
