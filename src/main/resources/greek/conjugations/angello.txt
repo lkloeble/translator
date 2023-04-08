@@ -7,3 +7,4 @@ AII=>ον,ες,εν|ε|ει,ομεν|ουμεν,ετε|ειτε,ον|ουν
 AORICONJ=>[apas]
 PERACTPAR=>[ος-α-ον]
 ACAOOP=>οιμι,οις,οι,οιμεν,οιτε,οιεν
+AORACTINF=>αι,ειν,-x,conjpassure

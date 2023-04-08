@@ -1,6 +1,9 @@
 acc%sing%masc%αν
 acc%sing%fem%ην
 acc%sing%adj%x
+gen%sing%masc%ου
+gen%sing%fem%ης
+gen%sing%neut%ου
 acc%plr%masc%ους
 acc%plr%fem%ας
 acc%plr%neut%α

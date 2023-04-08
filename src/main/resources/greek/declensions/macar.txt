@@ -1,0 +1,6 @@
+nom%sing%masc%
+acc%sing%masc%α
+gen%sing%masc%ος
+nom%plr%masc%ες
+acc%plr%masc%ας
+gen%plr%masc%ων

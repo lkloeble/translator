@@ -1,5 +1,6 @@
 ﻿a@noun!invpur%1(noun)=un
 ab@noun!mascot%1(noun)=père
+abil@noun!invpur%1(noun)=endeuillé
 abl@verb!norm%1(verb)=pleurer
 abr@noun!imonly%1(noun)=membre
 abrhm000@noun!invpur%1(noun)=abraham
@@ -73,6 +74,7 @@ anki@prep%1(prep)=je
 a64n65k60i@prep%1(prep)=je
 a58n6363'hnw309@prep%1(prep)=nous
 aygexpr@prep%1(prep)=malgré%2(prep)=même si
+asxnis@adj!invpur%1(adj)=délicat
 apilw@prep%1(prep)=même
 arwk@adj!adj%1(adj)=long
 arih@noun!invpur%1(noun)=lion
@@ -82,7 +84,7 @@ aswr@adj!im-ot%1(noun)=interdit
 asmwr@noun!endingh%1(noun)=veille
 asr@prep%1(prep)=qui
 a59s29862r@prep%1(prep)=qui
-a60s29864h@noun!custom(nomplr=nsim|cst(nomplr)=nsi&|nomsg=a60s29864h|cst(nomsg)=ast|decim-k=a60s29856t56k00064|decimplr-k=n64s29862ik00064|decimplr-h=nsihm000)%1(noun)=femme
+a60s29864h@noun!custom(nomplr=nsim|cst(nomplr)=nsi&|nomsg=a60s29864h|cst(nomsg)=ast|decim-k=a60s29856t56k00064|decimplr-k=n64s29862ik00064|decimplr-h=nsihm000|decimot-tw=astw)%1(noun)=femme
 astr@noun!invpur%1(noun)=esther
 atsxrik@noun!invpur%1(noun)=il est nécessaire
 at@prep%1(prep)=COD
@@ -351,6 +353,7 @@ knst@noun!invpur%1(noun)=knesset%2(noun)=assemblée
 kpr@verb!norm%1(verb)=renier
 kpr@noun!endingh%1(noun)=expiation
 krt@verb!norm%1(verb)=couper
+ksar@prep%1(prep)=comme
 ksh@verb!norm%1(verb)=couvrir
 ksh$@verb!norm%1(verb)=couvrir
 krti@noun!invmasc%1(noun)=poireau
@@ -458,6 +461,7 @@ msk@verb!norm%1(verb)=durer
 msl@verb!norm%1(verb)=diriger
 mspx@noun!im%1(noun)=justice%2(noun)=juge%3(noun)=jugement
 msth@noun!invmasc%1(noun)=fête%2(noun)=banquet
+mt@adj!adj%1(adj)=mort
 m63t56'h60il@noun!invpur%1(noun)=début
 mti@prep%1(prep)=quand
 mtsa@verb!norm%1(verb)=etretrouve
@@ -610,6 +614,7 @@ ry63@noun!im-ot%1(noun)=mauvais
 r63y@noun!im-ot%1(noun)=mauvais
 r'hl@noun!invpur%1(noun)=rachel
 r'hp@verb!norm%1(verb)=planer
+r'hts@verb!norm%1(verb)=laver
 ris@noun!invpur%1(noun)=resh (lettre R)
 rms@verb!norm%1(verb)=ramper
 rqiy@noun!invpur%1(noun)=firmament

@@ -19,6 +19,8 @@ import patrologia.translator.utils.Analyzer;
 
 import java.util.*;
 
+import static junit.framework.Assert.assertTrue;
+
 public class MishnahBridgeTest extends TranslatorBridgeTest {
 
     protected TranslatorBridge translatorBridge;
@@ -94,7 +96,7 @@ public class MishnahBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFiles) {
         /*
         return Arrays.asList(new String[]{
-                "smy,,[paal],(AIP%leadingrootletter%s*s29864@AIP%secondletterroot%m*m63@AIP%alternateaccentuation(5:9)%m63*m56@IPR%substitute%sm*swm*0@ARAIPR%substitute%smy*swmy*0@BINHIFPAST%substitute(3:4:8)%my*miy)"
+                "r'hts,r'hwts,[paal]"
         });
          */
         return getFileContentForRepository(verbFiles);
@@ -549,5 +551,11 @@ public class MishnahBridgeTest extends TranslatorBridgeTest {
         checkInMaps("mishnaberakhot21H2", translatorBridge);
     }
 
+    @Test
+    public void test_failedones() {
+        assertTrue(true);
+        checkInMaps("toto", translatorBridge);
+        //checkInMaps("bocaseumpluA112", translatorBridge);
+    }
 
 }

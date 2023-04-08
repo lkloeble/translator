@@ -26,6 +26,7 @@
 αγν@adj!ος-η-ον%1(adj)=pur
 αγορ@noun!α-ας%1(noun)=marché%2(noun)=harangue,discours%3(noun)=assemblée
 αγορ@noun!η-ης%1(noun)=marché%2(noun)=harangue,discours%3(noun)=assemblée
+αγραυλ@adj!ος-η-ον%1(adj)=habitant dans les champs
 αγρ@noun!ος-ου%1(noun)=champ
 αδαμ@noun!inv%1(noun)=adam
 αδελφ@noun!ος-ου%1(noun)=frère
@@ -89,6 +90,7 @@
 αλλοι@verb!norm%1(verb)=modifier
 αλγ@noun!ος-εος%1(noun)=douleur
 αληθει@noun!α-ας%1(noun)=vérité
+αληθ@adj!ης-ης-ες%1(adj)=chose vrai
 αλικαρνησσεος@noun!inv%1(noun)=halicarnasse
 αλλα@prep%1(prep)=mais
 αλλ@adj!ος-η-ο%1(adj)=autre
@@ -216,6 +218,7 @@
 αρτ@noun!ος-ου%1(noun)=pain
 αρπαζ@verb!norm%1(verb)=transporter loin%2(verb)=arracher
 αρτεμι@noun!ς-δος%1(noun)=artémis
+αρτιεπειαι@noun!inv%1(noun)=prêtes avec la voix
 αρχ@noun!η-ης%1(noun)=principe,origine%2(noun)=point de depart%3(noun)=extremite finale,recapitulation,total%4(noun)=commandement,pouvoir,autorite%5(noun)=commencement
 αρκε@verb!norm%1(verb)=assister%2(verb)=ecarter
 αρχ@verb!norm%1(verb)=gouverner%2(verb)=commencer
@@ -235,6 +238,7 @@
 ατιμαζ@verb!norm%1(verb)=deshonorer
 ατμιδ@noun!ος-ου%1(noun)=vapeur%2(noun)=humidité
 ατρειδ@noun!ης-ου%1(noun)=atréïde
+αυδ@noun!η-ης%1(noun)=ode%2(noun)=oracle%3(noun)=son%4(noun)=voix
 αυλ@noun!ος-ου%1(noun)=conduit%2(noun)=flûte
 αυλιζ@verb!norm%1(verb)=chasser
 αυξαν@verb!norm%1(verb)=croitre
@@ -316,6 +320,7 @@
 γαμε@verb!norm%1(verb)=marier
 γαρ@prep%1(prep)=en effet%2(prep)=car
 γαστ@noun!ηρ-ρος%1(noun)=estomac%2(noun)=ventre
+γαστ@noun!ηρ-ερος%1(noun)=estomac%2(noun)=ventre
 γε@prep%1(prep)=en tout cas%2(prep)=du moins
 γεηοχον@noun!inv%1(noun)=XXinconnuXX
 γεν@noun!ος-ους%1(noun)=espèce%2(noun)=gens%3(noun)=nation%4(noun)=famille%5(noun)=race
@@ -332,6 +337,7 @@
 γεραι@adj!ος-α-ον%1(adj)=vieux
 γεωργ@noun!ος-ου%1(noun)=paysan%2(noun)=cultivateur
 γηρας@noun!inv%1(noun)=âgé
+γηρυσασθαι@noun!inv%1(noun)=proclamer
 γιγν@verb!norm%1(verb)=advenir%2(verb)=devenir
 γιν@verb!norm%1(verb)=advenir%2(verb)=devenir2
 γινωσκ@verb!norm%1(verb)=apprendre à connaître,se rendre compte%2(verb)=prendre une décision,décider%3(verb)=faire connaître,chanter,célébrer%4(verb)=avoirdesrelationssexuelles%5(verb)=savoir
@@ -359,6 +365,7 @@
 δαναοι@noun!inv%1(noun)=danéens
 δαναων@noun!inv%1(noun)=(des) danéens
 δαυιδ@noun!inv%1(noun)=david
+δαφν@noun!η-ης%1(noun)=laurier
 δεκατεσσαρες@noun!inv%1(noun)=quatorze
 δεκατ@adj!ος-η-ον%1(adj)=dixième
 δε@noun!inv%1(noun)=d'autre part
@@ -419,6 +426,8 @@
 δουλ@noun!ος-ου%1(noun)=esclave
 δουλει@noun!α-ας%1(noun)=esclavage
 δρομ@noun!ος-ου%1(noun)=course
+δρεψασαι@noun!inv%1(noun)=lauriers
+δρ@noun!υς-υος%1(noun)=chêne
 δυο@noun!inv%1(noun)=deux
 δυσ@noun!ις-εως%1(noun)=ouest%2(noun)=levant
 δυω@noun!inv%1(noun)=deux
@@ -436,8 +445,10 @@
 εγγιστα@prep%1(prep)=plus près
 εγειρ@verb!norm%1(verb)=faire lever,ériger,dresser,mettre debout%2(verb)=s'éveiller%3(verb)=lever
 εγω@prep%1(prep)=pour ma part
+εγω@noun!inv%1(prep)=pour ma part
 εελδωρ@noun!inv%1(noun)=souhait%2(noun)=désir
 εθ@verb!norm%1(verb)=habituer
+εθελ@verb!norm%1(verb)=vouloir
 εθν@noun!ος-ους%1(noun)=peuple
 ενθευτεν@prep%1(prep)=par conséquent
 εικ@noun!ων-ονος%1(noun)=image
@@ -484,6 +495,7 @@
 ελαχιστ@adj!ος-η-ο%1(adj)=plus petit
 ελε@verb!norm%1(verb)=avoirpitie
 ελεαζαρ@noun!inv%1(noun)=éléazar
+ελεγχ@noun!ος-ους%1(noun)=reproche%2(noun)=réfutation
 ελιακιμ@noun!inv%1(noun)=éliakim
 ελιουδ@noun!inv%1(noun)=éliud
 ελε@noun!ος-ου%1(noun)=pitié%2(noun)=miséricorde
@@ -499,6 +511,7 @@
 εμ@adj!ος-η-ον%1(adj)=mon
 εμβαιν@verb!norm%1(verb)=intervenir
 εμμανουηλ@noun!inv%1(noun)=emmanuel
+εμπνε@verb!norm%1(verb)=inspirer
 εμοι@prep%1(prep)=moi
 εμπλε@adj!ος-α-ον%1(adj)=plein
 εμποιε@verb!norm%1(verb)=introduire
@@ -530,6 +543,7 @@
 εξερχ@verb!norm%1(verb)=passer%2(verb)=seterminer%3(verb)=sortir
 εξεριζ@verb!norm%1(verb)=ruiner
 εξιλασκ@verb!norm%1(verb)=apaiser
+εοντα@noun!inv%1(noun)=choses
 εοντων@prep%1(prep)=étant
 επαγειρ@verb!norm%1(verb)=rassembler
 επακου@verb!norm%1(verb)=ecouter
@@ -585,6 +599,7 @@
 ερημ@adj!ος-η-ον%1(adj)=solitaire%2(adj)=désolé%3(adj)=désert
 ερι@noun!ς-δος%1(noun)=querelle
 ερι@noun!ον-ου%1(noun)=laine
+εριθηλεος@adj!inv%1(noun)=très luxuriant
 ερισαντε@noun!inv%1(noun)=lutte
 ερισθεν@noun!ος-εος%1(noun)=très puissant
 ερπ@verb!norm%1(verb)=ramper
@@ -597,9 +612,11 @@
 εσθι@verb!norm%1(verb)=dévorer,consumer%2(verb)=manger
 εσπερ@noun!α-ας%1(noun)=ouest%2(noun)=soir
 εσρωμ@noun!inv%1(noun)=esrom
+εσσομενα@noun!inv%1(noun)=furent
 εσχατ@noun!ος-η-ον%1(adj)=dernier
 ετερ@adj!ος-α-ον%1(adj)=autre
 ετοιμ@noun!ος-ος-ον%1(adj)=prêt
+ετυμοισιν@noun!inv%1(noun)=sûrs%2(noun)=réels%3(noun)=vrais
 ευ@noun!inv%1(noun)=bien
 ευαγγελι@noun!ον-ου%1(noun)=bonne nouvelle%2(noun)=évangile
 ευκλε@adj!ης-ης-ες%1(adj)=renommé%2(adj)=glorieux
@@ -609,6 +626,8 @@
 ευρωπ@noun!η-ης%1(noun)=europe
 ευσεβ@adj!ης-ης-ες%1(adj)=dévot
 ευσεβει@noun!α-ας%1(noun)=piété
+ευτ@prep%1(prep)=quand
+ευτε@prep%1(prep)=quand
 ευχαριστ@verb!norm%1(verb)=remercier
 ευχωλ@noun!η-ης%1(noun)=voeu%2(noun)=prière
 ευχ@verb!norm%1(verb)=prier
@@ -684,8 +703,10 @@
 θεραπευ@verb!norm%1(verb)=servir,s'occuper de%2(verb)=soigner
 θεραποντ@noun!ος-ος%1(noun)=esclave
 θερμ@noun!ος-ου%1(noun)=chaud
+θεσπ@noun!ις-εως%1(noun)=révélation divine
 θεωρ@verb!norm%1(verb)=observer,examiner,contempler%2(verb)=regarder
 θηλ@adj!υς-εια-υ%1(adj)=femelle
+θηητον@adj!inv%1(adj)=admirable
 θηρι@noun!ον-ου%1(noun)=animal sauvage
 θι@noun!ων-νος%1(noun)=tas de sable%2(noun)=rivage
 θνησκ@verb!norm%1(verb)=mourir
@@ -701,6 +722,7 @@
 ιατρ@noun!ος-ου%1(noun)=médecin
 ιδε@prep%1(prep)=et
 ιδι@adj!ος-α-ον%1(adj)=appartenant à%2(adj)=propre
+ιδμεν@noun!inv%1(noun)=savoir comment
 ιδου@prep%1(prep)=voici !
 ιερ@noun!ον-ου%1(noun)=temple
 ιεροσολυμα@noun!inv%1(noun)=jérusalem
@@ -767,6 +789,7 @@
 καιρ@noun!ος-ου%1(noun)=saison%2(noun)=occasion%3(noun)=temps fixé
 καιρ@verb!norm%1(verb)=serejouir
 καιρετε@noun!inv%1(noun)=salut à vous
+κακ@prep%1(prep)=misérablement%2(prep)=mal
 κακ@adj!ος-η-ον%1(adj)=mauvais
 κακως@prep%1(prep)=misérablement%2(prep)=mal
 καλ@verb!norm%1(verb)=nommer,invoquer%2(verb)=appeler
@@ -795,6 +818,7 @@
 κατω@prep%1(prep)=bas
 κατωτατω@prep%1(prep)=le plus bas
 κε@prep%1(prep)={futur}
+κελ@verb!norm%1(verb)=ordonner
 κεν@adj!ος-η-ον%1(adj)=inutile%2(adj)=vain
 κεν@prep%1(prep)=pourrait
 κεραυν@noun!ος-ου%1(noun)=éclairs
@@ -815,6 +839,7 @@
 κλαγγ@noun!η-ης%1(noun)=fracas
 κλαι@verb!norm%1(verb)=pleurer
 κλαζ@verb!norm%1(verb)=produireunsonaigu
+κλει@verb!norm%1(verb)=celebrer%2(verb)=fermer
 κλητ@noun!ος-ου%1(noun)=invoqué%2(noun)=choisi%3(noun)=appelé
 κλε@noun!ος-εος%1(noun)=célébrité%2(noun)=gloire
 κλυ@verb!norm%1(verb)=entendre
@@ -891,7 +916,7 @@
 μαθητ@noun!ης-ου%1(noun)=disciple
 μακρ@adj!ος-α-ον%1(adj)=grand
 μακρ@adj!ος-η-ο%1(adj)=long
-μαχαιρ@noun!α-ας%1(noun)=épée
+μακαρ@adj!x-x-x%1(adj)=heureux%2(adj)=béni
 μακαρι@adj!ος-α-ον%1(adj)=bienheureux%2(adj)=heureux
 μακαριζ@verb!norm%1(verb)=rendre heureux%2(verb)=benir
 μαλιστα@prep%1(prep)=très
@@ -908,6 +933,7 @@
 ματθαν@noun!inv%1(noun)=matthan
 ματηρ@noun!inv%1(noun)=mère
 μαχ@verb!norm%1(verb)=faire la guerre%2(verb)=combattre
+μαχαιρ@noun!α-ας%1(noun)=épée
 με@prep%1(prep)=me
 μεγ@adj!ας-η-α%1(noun)=grand
 μεγαλ@adj!ας-η-α%1(noun)=grand
@@ -1006,6 +1032,7 @@
 οδε@prep%1(prep)=celui-ci
 οδυσσευς@noun!inv%1(noun)=ulysse
 οζι@noun!ας-ου%1(noun)=osias
+οζ@noun!ος-ου%1(noun)=branche%3(noun)=brindille%3(noun)=rameau
 οι@noun!inv%1(noun)=les
 οικ@noun!ος-ου%1(noun)=maison
 οικαδ@prep%1(prep)=vers la maison
@@ -1147,6 +1174,7 @@
 περιβοητ@noun!ος-η-ον%1(noun)=célèbre
 περιacc@prep%1(prep)=autour de
 περιgen@prep%1(prep)=à propos
+περιnom@prep%1(prep)=à propos
 περιεχ@verb!norm%1(verb)=entourer
 περιεχομεν@noun!ος-η-ον%1(noun)=entourant
 περικαλλ@adj!ης-ης-ες%1(adj)=très magnifique
@@ -1167,6 +1195,7 @@
 πετειν@noun!ον-ου%1(noun)=oiseau
 μετεφη@noun!inv%1(noun)=parla
 πετρ@noun!ος-ου%1(noun)=pierre
+πετρ@noun!η-ης%1(noun)=pierre
 πηληιαδης@noun!perso%1(noun)=Péléïdes (fils de Peleus)
 πιλημ@noun!α-ατος%1(noun)=mèche
 πιν@verb!norm%1(verb)=boire
@@ -1197,6 +1226,7 @@
 ποιμαιν@verb!norm%1(verb)=diriger%2(verb)=mener%3(verb)=rassembler
 ποιμαινονθ@noun!inv%1(noun)=rassemblait
 ποιητικ@noun!ος-ου%1(noun)=poétique
+ποιμ@noun!ην-ενος%1(noun)=berger
 ποιουν@noun!inv%1(noun)=qui fait
 πολεμε@verb!norm%1(verb)=fairelaguerre
 πολεμ@noun!ος-ου%1(noun)=guerre
@@ -1337,6 +1367,7 @@
 συνιη@verb!norm%1(verb)=comprendre%2(verb)=apporter
 συστημα@noun!inv%1(noun)=système
 σφαιρ@noun!α-ας%1(noun)=boule%2(noun)=sphère
+σφας@prep%1(prep)=leur
 σφι@prep%1(prep)=eux
 σφιγξ@noun!inv%1(noun)=sphynx
 σφωε@prep%1(prep)=parmi
@@ -1504,6 +1535,7 @@
 φρε@noun!x-ος%1(noun)=entraille
 φρονιμ@noun!ος-ου%1(noun)=sage
 φροντι@noun!ς-δος%1(noun)=attention%2(noun)=pensée pour%3(noun)=préoccupation
+ψευδ@noun!ος-ους%1(noun)=mensonge
 φυγαδευ@verb!norm%1(verb)=exiler
 φυλακ@noun!η-ης%1(noun)=garde%2(noun)=prison
 φυλλ@noun!ον-ου%1(noun)=feuille

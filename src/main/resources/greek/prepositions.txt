@@ -83,6 +83,8 @@
 επιdat@prep()
 επιμελως@prep()
 ες@prep()
+ευτ@prep()
+ευτε@prep()
 εφ@prep()
 εχθες@prep()
 εως@prep()
@@ -109,6 +111,7 @@
 καθ@prep()%[findFollowindEmerav]
 καθηκοντως@prep()
 καθημεραν@prep()%[electGenitiveForFollowingNoun(καταgen),electAccusativeForFollowingNoun(καταacc)]
+κακ@prep()
 κακως@prep()
 κατ@prep()%[electGenitiveForFollowingNoun(καταgen),electAccusativeForFollowingNoun(καταacc)]
 κατα@prep()
@@ -190,9 +193,10 @@
 πασης@prep(gen)
 πασι@prep(dat)
 πασιν@prep(dat)
-περι@prep%[electAccusativeForFollowingNoun(περιacc),electGenitiveForFollowingNoun(περιgen)]
+περι@prep%[electAccusativeForFollowingNoun(περιacc),electGenitiveForFollowingNoun(περιgen),electNominativeForFollowingNoun(περιnom)]
 περιacc@prep()
 περιgen@prep()
+περιnom@prep()
 ποθ@prep()
 πορρω@prep()
 ποτε@prep()
@@ -210,8 +214,9 @@
 σου@prep(gen)
 συ@prep()
 συν@prep(acc)
-σφωε@prep()
+σφας@prep()
 σφι@prep(dat)
+σφωε@prep()
 σχεδον@prep()
 τας@prep%prep(acc)%[electAccusativeForFollowingNoun]
 ταις@prep%prep(acc)%[electDativeForFollowingNoun]

@@ -84,11 +84,12 @@ public class GreekHesiodTheogonyTest extends TranslatorBridgeTest {
     }
 
     private List<String> getNouns(String nounFileDescription) {
-            /*
+        /*
             return Arrays.asList(new String[]{
-                    "ηως@neut%inv[accsg:ηω]"
+                    "Θεσπ@neut%ις-εως"
             });
-            */
+
+         */
         return getFileContentForRepository(nounFileDescription);
     }
 
@@ -177,6 +178,13 @@ public class GreekHesiodTheogonyTest extends TranslatorBridgeTest {
         checkInMaps("hesiodtheogony026", translatorBridge);
         checkInMaps("hesiodtheogony027", translatorBridge);
         checkInMaps("hesiodtheogony028", translatorBridge);
+        checkInMaps("hesiodtheogony029", translatorBridge);
+        checkInMaps("hesiodtheogony030", translatorBridge);
+        checkInMaps("hesiodtheogony031", translatorBridge);
+        checkInMaps("hesiodtheogony032", translatorBridge);
+        checkInMaps("hesiodtheogony033", translatorBridge);
+        checkInMaps("hesiodtheogony034", translatorBridge);
+        checkInMaps("hesiodtheogony035", translatorBridge);
     }
 
     @Test

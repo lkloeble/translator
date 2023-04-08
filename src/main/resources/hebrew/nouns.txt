@@ -1,5 +1,6 @@
 a@masc%invpur
 ab@masc%mascot
+abil@neut%invpur
 abr@masc%imonly
 abrhm000@masc%invpur
 a58d64m64h@fem%custom(nomsg=a58d64m64h|decim-nw=admtnw)
@@ -27,10 +28,11 @@ amh@fem%custom(nomsg=amh|cst(nomsg)=amt|nomplr=a67mw331t)
 amnim@neut%invpur
 a64mw331n000@masc%im
 amtsy@neut%invpur
+asxnis@adj%invpur
 arih@neut%invpur
 a62r62ts@fem%custom(nomplr=artswt|nomsg=a62r62ts)
 arwk@adj%adj
-a60s29864h@fem%custom(nomplr=nsim|cst(nomplr)=nsi&|nomsg=a60s29864h|cst(nomsg)=ast|decim-k=a60s29856t56k00064|decimplr-k=n64s29862ik00064|decimplr-h=nsihm000)
+a60s29864h@fem%custom(nomplr=nsim|cst(nomplr)=nsi&|nomsg=a60s29864h|cst(nomsg)=ast|decim-k=a60s29856t56k00064|decimplr-k=n64s29862ik00064|decimplr-h=nsihm000|decimot-tw=astw)
 aswr@adj%im-ot
 asmwr@fem%endingh
 astr@fem%invpur
@@ -206,6 +208,7 @@ msikir@neut%invmasc
 msi'h@masc%invpur
 mspx@masc%im
 msth@masc%invmasc
+mt@adj%adj
 m63t56'h60il@neut%invpur
 nakl@masc%im
 n62p62s@fem%ot2

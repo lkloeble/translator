@@ -39,6 +39,7 @@ public class GreekAnalyzer implements Analyzer {
         phrase = affectRuleForNeutralWords(phrase);
         phrase = linkAdjectiveAndNouns(phrase);
         phrase = substituteAbbreviations(phrase);
+        phrase = wordAnalyzer.affectAllPossibleInformations(phrase);
         return phraseAnalizer.affectAllPossibleInformationsBetweenWords(Language.GREEK, phrase);
     }
 
@@ -388,6 +389,7 @@ public class GreekAnalyzer implements Analyzer {
         Map<String,String> toSubstitute = new HashMap<>();
         toSubstitute.put("δ","δε");
         toSubstitute.put("τ","τε");
+        toSubstitute.put("μ","εγω");
         Set<Integer> indices = phrase.keySet();
         for(Integer indice : indices) {
             Word currentWord = phrase.getYetUnknownWordAtPosition(indice);

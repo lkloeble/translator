@@ -50,7 +50,9 @@ public abstract class Case {
         return "toimplement";
     }
 
-    protected String getDifferentier() { return "toimplement";}
+    protected String getDifferentier() {
+        return "toimplement";
+    }
 
     public String getTrigramForCase() { return "toimplement";}
 

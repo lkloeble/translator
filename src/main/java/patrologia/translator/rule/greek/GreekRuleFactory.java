@@ -16,6 +16,8 @@ public class GreekRuleFactory extends RuleFactory {
             return new RuleElectGenitiveForFollowingNoun(parameter);
         } else if("electAccusativeForFollowingNoun".equals(ruleName)) {
             return new RuleElectAccusativeForFollowingNoun(parameter);
+        } else if("electNominativeForFollowingNoun".equals(ruleName)) {
+            return new RuleElectNominativeForFollowingNoun(parameter);
         } else if("electPlurialNeutralWithSingularVerbMustChangeTimeVerbToPlural".equals(ruleName)) {
             return new RulePlurialNeutralWithSingularVerbMustChangeTimeVerbToPlural();
         } else if("electDativeForFollowingNoun".equals(ruleName)) {

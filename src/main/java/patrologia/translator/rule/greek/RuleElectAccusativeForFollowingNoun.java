@@ -19,6 +19,7 @@ public class RuleElectAccusativeForFollowingNoun extends GreekRule {
     public void apply(Word word, Phrase phrase, int position) {
         Word nextWord = phrase.getWordContainerAtPosition(position + 1).getUniqueWord();
         AccusativeGreekCase accusative = new AccusativeGreekCase("");
+        accusative.setDifferentier(nextWord);
         if(checkByGender(new Gender(Gender.MASCULINE), nextWord, accusative)) updatePreposition(word);
         if(checkByGender(new Gender(Gender.FEMININE), nextWord, accusative)) updatePreposition(word);
         if (checkByGender(new Gender(Gender.NEUTRAL), nextWord, accusative)) updatePreposition(word);

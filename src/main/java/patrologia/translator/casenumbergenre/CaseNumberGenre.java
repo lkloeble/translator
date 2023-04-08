@@ -56,6 +56,10 @@ public class CaseNumberGenre implements Comparable {
                 '}';
     }
 
+    public String getDifferentier() {
+        return _case.getDifferentier();
+    }
+
     public static CaseNumberGenre electMostProbable(List<CaseNumberGenre> possibleCaseNumbers, Phrase phrase, int positionInPhrase, Gender gender) {
         Set<CaseNumberGenre> matchingOnesSet = new HashSet<>();
         for(CaseNumberGenre caseNumber : possibleCaseNumbers) {
@@ -117,6 +121,9 @@ public class CaseNumberGenre implements Comparable {
 
     public boolean isDative() {
         return _case != null && _case.toString().toLowerCase().contains("dat");
+    }
+    public boolean isAccusative() {
+        return _case != null && _case.toString().toLowerCase().contains("acc");
     }
 
     public Number getNumber() {

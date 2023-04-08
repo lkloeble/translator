@@ -1,5 +1,11 @@
 package patrologia.translator.casenumbergenre.greek;
 
+import patrologia.translator.basicelements.Word;
+import patrologia.translator.basicelements.noun.Noun;
+import patrologia.translator.casenumbergenre.CaseNumberGenre;
+
+import java.util.List;
+
 public class AccusativeGreekCase extends GreekCase {
 
     public AccusativeGreekCase(String differentier) {
@@ -8,6 +14,8 @@ public class AccusativeGreekCase extends GreekCase {
             this.differentier = "foobar";
         }
     }
+
+
 
     @Override
     public boolean equals(Object o) {
