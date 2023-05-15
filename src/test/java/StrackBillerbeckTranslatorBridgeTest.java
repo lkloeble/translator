@@ -17,10 +17,7 @@ import patrologia.translator.linguisticimplementations.Translator;
 import patrologia.translator.rule.german.GermanRuleFactory;
 import patrologia.translator.utils.Analyzer;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 public class StrackBillerbeckTranslatorBridgeTest extends TranslatorBridgeTest {
 
@@ -89,7 +86,8 @@ public class StrackBillerbeckTranslatorBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "heirat,en,[mochten],(PAP*heirat*geheiratet*0@AIP*heirat*heiratet*0)"
+                "bring,en,[leben],(AII*bring*brach)",
+                "darbring,en,[leben],(AII*darbring*darbrach)"
         });
         */
         return getFileContentForRepository(verbFileDescription);
@@ -661,6 +659,49 @@ public class StrackBillerbeckTranslatorBridgeTest extends TranslatorBridgeTest {
 
     @Test
     public void test_strack_page14_par1() {
+        checkInMaps("strackp14par01", translatorBridge);
+        //checkInMaps("strackp14par02", translatorBridge);
+        checkInMaps("strackp14par03", translatorBridge);
+        checkInMaps("strackp14par04", translatorBridge);
+        checkInMaps("strackp14par05", translatorBridge);
+        //checkInMaps("strackp14par06", translatorBridge);
+        checkInMaps("strackp14par07", translatorBridge);
+        //checkInMaps("strackp14par08", translatorBridge);
+        //checkInMaps("strackp14par09", translatorBridge);
+        checkInMaps("strackp14par10", translatorBridge);
+        checkInMaps("strackp14par11", translatorBridge);
+        checkInMaps("strackp14par12", translatorBridge);
+        //checkInMaps("strackp14par13", translatorBridge);
+        checkInMaps("strackp14par14", translatorBridge);
+        //checkInMaps("strackp14par15", translatorBridge);
+        checkInMaps("strackp14par16", translatorBridge);
+        checkInMaps("strackp14par17", translatorBridge);
+        checkInMaps("strackp14par18", translatorBridge);
+        checkInMaps("strackp14par19", translatorBridge);
+        checkInMaps("strackp14par20", translatorBridge);
+        checkInMaps("strackp14par21", translatorBridge);
+        checkInMaps("strackp14par22", translatorBridge);
+        checkInMaps("strackp14par23", translatorBridge);
+        checkInMaps("strackp14par24", translatorBridge);
+        checkInMaps("strackp14par25", translatorBridge);
+        checkInMaps("strackp14par26", translatorBridge);
+        checkInMaps("strackp14par27", translatorBridge);
+        checkInMaps("strackp14par28", translatorBridge);
+        checkInMaps("strackp14par29", translatorBridge);
+        checkInMaps("strackp14par30", translatorBridge);
+        checkInMaps("strackp14par31", translatorBridge);
+        checkInMaps("strackp14par32", translatorBridge);
+        checkInMaps("strackp14par33", translatorBridge);
+        checkInMaps("strackp14par34", translatorBridge);
+        checkInMaps("strackp14par35", translatorBridge);
+        checkInMaps("strackp14par36", translatorBridge);
+        checkInMaps("strackp14par37", translatorBridge);
+        checkInMaps("strackp14par38", translatorBridge);
+    }
+
+
+    @Test
+    public void failed_test() {
         checkInMaps("toto", translatorBridge);
     }
 

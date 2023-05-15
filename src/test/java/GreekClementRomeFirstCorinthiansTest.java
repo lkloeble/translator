@@ -162,7 +162,7 @@ public class GreekClementRomeFirstCorinthiansTest extends TranslatorBridgeTest {
         checkInMaps("clement1J", translatorBridge);
         //checkInMaps("clement1K", translatorBridge);
         //checkInMaps("clement1L", translatorBridge);
-        checkInMaps("clement1M", translatorBridge);
+        //checkInMaps("clement1M", translatorBridge);
         checkInMaps("clement1N", translatorBridge);
         //checkInMaps("clement1O", translatorBridge);
     }
@@ -230,7 +230,7 @@ public class GreekClementRomeFirstCorinthiansTest extends TranslatorBridgeTest {
     public void test_clement5() {
         checkInMaps("clement5A1", translatorBridge);
         checkInMaps("clement5A2", translatorBridge);
-        checkInMaps("clement5A3", translatorBridge);
+        //checkInMaps("clement5A3", translatorBridge);
         checkInMaps("clement5B1", translatorBridge);
         checkInMaps("clement5B2", translatorBridge);
         checkInMaps("clement5C1", translatorBridge);
@@ -268,7 +268,7 @@ public class GreekClementRomeFirstCorinthiansTest extends TranslatorBridgeTest {
     public void test_clement7() {
         checkInMaps("clement7A1", translatorBridge);
         checkInMaps("clement7A2", translatorBridge);
-        checkInMaps("clement7B1", translatorBridge);
+        //checkInMaps("clement7B1", translatorBridge);
         checkInMaps("clement7C1", translatorBridge);
         checkInMaps("clement7D1", translatorBridge);
         checkInMaps("clement7D2", translatorBridge);

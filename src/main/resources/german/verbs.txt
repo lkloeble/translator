@@ -26,6 +26,7 @@ aufdeck,en,[leben],(PAP*aufdeck*aufgedeckt)
 auffind,en,[leben],(PAPR*auffind*auffindend)
 aufbau,en,[leben],(PAP*aufbaut*aufgebaut)
 aufdruck,en,[leben],(PAP*aufdruck*aufgedruckt)
+auffuhr,en,[leben],(PAP*auffuhr*aufgefuhrt)
 aufgeh,en,[leben],(PAPR*aufgeh*aufgehend@PAP*aufgeh*aufgegangen)
 aufheb,en,[leben],(PAP*aufheb*aufgehoben)
 aufhor,en,[leben],(PAPR*aufhor*aufhorend@ASP*aufhor*aufhorx)
@@ -124,6 +125,7 @@ bring,en,[leben],(AII*bring*brach)
 brumm,en,[leben]
 dank,en,[leben],(PAPR*dank*dankend)
 darbiet,en,[mochten],(AIP*darbiet*darbot)
+darbring,en,[leben],(AII*darbring*darbrach)
 darf,en,[wollen]
 darleg,en,[leben]
 dasteh,en,[stehen],(AIP*dasteh*dastand)
@@ -172,6 +174,7 @@ ergreif,en,[leben]
 erhalt,en,[gelten]
 erheb,en,[leben],(PAP*erheb*erhoben)
 erhell,en,[leben]
+erh,en,[leben],(PAP*erh*geerht)
 erhoh,en,[leben]
 erhol,en,[leben]
 erhor,en,[leben],(PAPR*erhor*erhorend)
@@ -191,6 +194,7 @@ erreich,en,[leben]
 erprob,en,[leben]
 erschein,en,[leben],(PAP*erschein*erschienen)
 erschutt,ern,[bedauern],(PAPR*erschutt*erschutternd)
+ersteh,en,[leben]
 erwach,en,[leben]
 erwachs,en,[genesen],(AII*erwachs*erwuchs)
 erwahn,en,[leben]
@@ -330,7 +334,7 @@ nachsinn,en,[rufen],(AIP*nachsin*nachsan)
 nah,en,[rufen]
 naherzubring,en,[leben]
 nehm,en,[rufen],(IPR12*nehm*nimm@AIP*nehm*nahm@PAP*nehm*genommen@ASP*nehm*nahm@ASI*nehm*nehmxxx)
-nenn,en,[leben],(AII*nenn*nann@PAP*nenn*gennant)
+nenn,en,[leben],(AII*nenn*nann@PAP*nenn*genannt)
 niederschreib,en,[rufen]
 offenbar,en,[leben],(PAP*offenbar*offenbart)
 offn,en,[mochten]

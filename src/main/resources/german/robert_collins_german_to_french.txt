@@ -105,6 +105,7 @@ angehor@verb!norm%1(verb)=appartenir
 angesehn@noun!inv%1(noun)=considéré
 angst@noun!angst%1(noun)=peur
 anhanglichkeit@noun!meinfem%1(noun)=attachement
+anhangsel@noun!arbeiter%1(noun)=appendice
 anknupf@verb!norm%1(verb)=rattacher
 ankunft@noun!kunst%1(noun)=arrivée%2(noun)=avènement
 anlang@verb!norm%1(verb)=atteindre
@@ -169,7 +170,9 @@ aufbau@verb!norm%1(verb)=construire
 aufdruck@verb!norm%1(verb)=imprimer
 aufdeck@verb!norm%1(verb)=decouvrir
 auffind@verb!norm%1(verb)=trouver2
+auffuhr@verb!norm%1(verb)=repertorier
 aufgabe@noun!flasche%1(noun)=devoir%2(noun)=challenge%3(noun)=exercice
+aufgehn@noun!inv%1(noun)=jaillir
 aufgeh@verb!norm%1(verb)=ouvrir
 aufgewendet@adj!ausreichend%1(adj)=utilisé%2(adj)=épuisé%3(adj)=dépensé
 aufgrund@prep%1(prep)=sur la base de
@@ -347,6 +350,7 @@ berg@noun!arbeiter%1(noun)=mont
 bergpredigt@noun!inv%1(noun)=sermon sur la montagne
 bericht@verb!norm%1(noun)=rapporter
 berlin@noun!inv%1(noun)=berlin
+besagen@noun!inv%1(noun)=signifier
 beschaftigung@noun!meinfem%1(noun)=occupation
 beruf@verb!norm%1(verb)=invoquer
 beruh@verb!norm%1(verb)=reposer
@@ -418,6 +422,7 @@ birne@noun!flasche%1(noun)=poire
 bis@prep%1(prep)=jusque
 bisher@prep%1(prep)=jusqu'à présent
 bisherig@adj!ausreichend%1(noun)=précédent
+biss@noun!traum%1(noun)=morsure
 bitte@prep%1(prep)=s'il vous plait
 blas@verb!norm%1(verb)=souffler
 blatt@noun!licht%1(noun)=pétale%2(noun)=feuille
@@ -490,16 +495,19 @@ danach@prep%1(prep)=ensuite
 dank@noun!norm%1(noun)=merci
 dank@verb!norm%1(verb)=remercier
 dann@prep%1(prep)=ensuite
+dar@prep%1(prep)=gugu
 daran@prep%1(prep)=à ceci
 darauf@prep%1(prep)=après
 daraufhin@prep%1(prep)=ensuite
 daraus@prep%1(prep)=ainsi
 darbiet@verb!norm%1(verb)=offrir
+darbring@verb!norm%1(verb)=sacrifier
 darein@prep%1(prep)=là-dedans
 darf@verb!norm%1(verb)=avoirledroit
 darin@prep%1(prep)=dedans
 darleg@verb!norm%1(verb)=presenter
 dasteh@verb!norm%1(verb)=setenir
+darbrachten@noun!inv%1(noun)=sacrifiait
 darstellung@noun!meinfem%1(noun)=représentation
 daruber@prep%1(prep)=au-dessus
 darum@prep%1(prep)=donc%2(prep)=dès lors
@@ -518,6 +526,7 @@ dazu@prep%1(prep)=et en plus
 deckung@noun!meinfem%1(noun)=couverture
 dein@prep%1(prep)=ton
 deine@prep%1(prep)=ta
+deinem@prep%1(prep)=ton
 deinetwillen@noun!inv%1(noun)=ton bien
 delphisch@adj!ausreichend%1(adj)=delphique
 dem@prep%1(prep)=du
@@ -757,6 +766,7 @@ erhalt@verb!norm%1(verb)=recevoir
 erheb@verb!norm%1(verb)=prelever%2(verb)=monter
 erhebung@noun!meinfem%1(noun)=enquête%2(noun)=élévation
 erhell@verb!norm%1(verb)=briller%2(verb)=illuminer
+erh@verb!norm%1(verb)=honorer
 erhoh@verb!norm%1(verb)=augmenter
 erhol@verb!norm%1(verb)=récupérer%2(verb)=reposer
 erhor@verb!norm%1(verb)=entendre%2(verb)=exaucer
@@ -795,6 +805,7 @@ erscheinung@noun!meinfem%1(noun)=apparence
 erschein@verb!norm%1(verb)=publier%2(verb)=apparaitre
 erschopfung@noun!meinfem%1(noun)=épuisement
 erschutt@verb!norm%1(verb)=secouer
+ersteh@verb!norm%1(verb)=selever2
 erst@prep%1(prep)=d'abord
 erstaunen@noun!burger%1(noun)=stupéfaction%2(noun)=surprise
 erste@noun!masc%1(noun)=premier
@@ -1022,6 +1033,8 @@ geburt@noun!meinfem%1(noun)=naissance
 geburtstag@noun!inv%1(noun)=anniversaire
 gedachtnis@noun!phanomen%1(noun)=souvenir%2(noun)=mémoire
 gedanke@noun!flasche%1(noun)=pensée
+geerhter@adj!ausreichend%1(adj)=plus honoré
+geerhtest@adj!ausreichend%1(adj)=le plus honoré
 gefahr@noun!meinfem%1(noun)=menace%2(noun)=danger
 gefahrlich@adj!ausreichend%1(adj)=dangereux
 gefahrlichkeit@noun!meinfem%1(noun)=dangerosité
@@ -1061,6 +1074,7 @@ geltend@noun!ausreichend%1(adj)=effectif%2(adj)=courant%3(adj)=valide%4(adj)=app
 gemach@noun!licht%1(noun)=chambre
 gemalde@noun!meer%1(noun)=peinture
 gemaldegalerie@noun!flasche%1(noun)=galerie de tableaux
+gemassheit@noun!meinfem%1(noun)=tempérance
 gemeinde@noun!flasche%1(noun)=paroisse%2(noun)=ville%3(noun)=communauté
 gemeinsam@adj!ausreichend%1(adj)=commun
 gemeinsamkeit@noun!meinmasc%1(noun)=terrain d'entente
@@ -1139,6 +1153,7 @@ gleich@adj!ausreichend%1(adj)=identique%(adj)=égal
 gleichfalls@prep%1(prep)=également
 gleichgultig@adj!ausreichend%1(adj)=indifférent
 gleichnisartig@adj!ausreichend%1(adj)=symbolique
+gleichwertigkeit@noun!meinfem%1(noun)=équivalence
 gleichzeitig@adj!ausreichend%1(adj)=simultané
 glied@noun!holz%1(noun)=membre%2(noun)=élément
 gluck@noun!flasche%1(noun)=chance
@@ -1265,6 +1280,7 @@ herrscher@noun!arbeiter%1(noun)=souverain
 hervorragend@adj!ausreichend%1(adj)=excellent%2(adj)=remarquable
 herstamm@verb!norm%1(verb)=provenir
 herstellung@noun!meinfem%1(noun)=production
+hervorgehn@noun!inv%1(noun)=sortir
 herum@prep%1(prep)=autour
 hervorgetreten@noun!inv%1(noun)=apparu
 hervor@prep%1(prep)=en avant
@@ -1298,6 +1314,7 @@ hinweg@prep%1(prep)=tout au long
 hinweis@verb!norm%1(verb)=attirer
 hinzu@prep%1(prep)=en plus
 hinzunahme@noun!flasche%1(noun)=ajout
+hirsch@noun!schmerz%1(noun)=cerf
 hirte@noun!hirte%1(noun)=berger
 hoch@adj!inv%1(adj)=haut
 hochmutig@adj!ausreichend%1(adj)=arrogant
@@ -1596,6 +1613,7 @@ limonade@noun!inv%1(noun)=limonade
 lippe@noun!flasche%1(noun)=lèvre
 literatur@noun!inv%1(noun)=littérature
 lk@noun!inv%1(noun)=lc
+lob@noun!rest%1(noun)=louange
 lock@verb!norm%1(verb)=attirer
 logik@noun!meinfem%1(noun)=logique
 logisch@adj!ausreichend%1(adj)=logique
@@ -1835,6 +1853,7 @@ oberflachlich@adj!ausreichend%1(adj)=superficiel
 obig@adj!ausreichend%1(adj)=précédent
 objektiv@noun!norm%1(noun)=objectivité
 obst@noun!inv%1(noun)=fruits
+ochs@noun!meinmasc%1(noun)=boeuf
 odem@noun!inv%1(noun)=souffle
 oder@prep%1(prep)=ou
 offb@noun!inv%1(noun)=apo
@@ -1851,6 +1870,7 @@ ol@noun!inv%1(noun)=huile
 olbaum@noun!jahrzehnt%1(noun)=olivier
 olivenol@noun!jahrzehnt%1(noun)=huile d'olive
 oper@noun!flasche%1(noun)=opéra
+opfer@noun!arbeiter%1(noun)=sacrifice
 opfergabe@noun!flasche%1(noun)=offrande%2(noun)=sacrifice
 opferdarbringung@noun!meinfem%1(noun)=sacrifice
 optik@noun!meinmasc%1(noun)=optique
@@ -2046,6 +2066,7 @@ ruhelager@noun!inv%1(noun)=litière
 ruhig@adj!ausreichend%1(adj)=tranquille
 ruhr@verb!norm%1(verb)=bouger
 rund@prep%1(prep)=environ
+rute@noun!flasche%1(noun)=tige
 ruth@noun!inv%1(noun)=ruth
 rhythmik@noun!inv%1(noun)=rythmique
 rhythmisch@adj!ausreichend%1(adj)=rythmique
@@ -2101,6 +2122,7 @@ schlafmittel@noun!arbeiter%1(noun)=somnifère
 schlaflosigkeit@noun!inv%1(noun)=insomnie
 schlafstorung@noun!meinfem%1(noun)=trouble du sommeil
 schlag@noun!bastard%1(noun)=coup
+schlange@noun!flasche%1(noun)=serpent
 schlank@adj!inv%1(noun)=mince
 schlauheit@noun!meinfem%1(noun)=ruse
 schlecht@adj!ausreichend%1(adj)=mauvais
@@ -2119,6 +2141,7 @@ schmah@verb!norm%1(noun)=moquer%2(verb)=blasphemer
 schmerz@noun!schmerz%A(noun)=douleur
 schnee@noun!arbeiter%1(noun)=neige
 schnell@prep%1(prep)=rapidement
+schnelligkeit@noun!meinfem%1(noun)=rapidité
 schon@adj!ausreichend%1(adj)=beau
 schon@prep%1(prep)=déjà
 schonheit@noun!meinfem%1(noun)=beauté
@@ -2168,6 +2191,7 @@ sechst@adj!ausreichend%1(adj)=sixième
 sechzehn@noun!inv%1(noun)=seize
 see@noun!flasche%1(noun)=mer
 seele@noun!flasche%1(noun)=esprit%2(noun)=âme
+segen@noun!burger%1(noun)=bénédiction
 segn@verb!irrg%1(verb)=benir
 segnung@noun!meinfem%1(noun)=bénédiction
 seh@verb!irrg%1(verb)=voir
@@ -2320,6 +2344,7 @@ strom@noun!phanomen%1(noun)=flux
 strotzend@prep%1(prep)=plein
 stuck@noun!inv%1(noun)=morceau
 studier@verb!norm%1(verb)=etudier
+stumpf@noun!angst%1(noun)=souche
 stumpfsinn@noun!inv%1(noun)=bêtise
 stunde@noun!flasche%1(noun)=heure
 sturm@noun!jahrzehnt%1(noun)=tempête
@@ -2946,6 +2971,7 @@ zugehorig@adj!ausreichend%1(adj)=associé
 zugehorigkeit@noun!meinfem%1(noun)=appartenance
 zugleich@prep%1(prep)=au même moment
 zugrunde@noun!flasche%1(noun)=base
+zukunft@noun!angst%1(noun)=futur
 zukunftig@adj!ausreichend%1(adj)=futur
 zulass@verb!norm%1(verb)=permettre
 zuletzt@prep%1(prep)=en dernier lieu

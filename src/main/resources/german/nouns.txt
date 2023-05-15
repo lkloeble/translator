@@ -75,6 +75,7 @@ angenehm@adj%ausreichend
 angesehn@neut%inv
 angst@fem%angst
 anhanglichkeit@fem%meinfem
+anhangsel@masc%arbeiter
 ankunft@fem%kunst
 anlass@masc%jahrzehnt
 anlehnung@masc%meinmasc
@@ -123,6 +124,7 @@ attisch@adj%ausreichend
 attribut@neut%kunst
 auffallend@adj%ausreichend
 aufgabe@fem%flasche
+aufgehn@neut%inv
 aufgewendet@adj%ausreichend
 auflosung@fem%meinfem
 aufregend@adj%ausreichend
@@ -222,6 +224,7 @@ bereit@adj%ausreichend
 berg@neut%arbeiter
 bergpredigt@fem%inv
 berlin@neut%inv
+besagen@neut%inv
 beschaftigung@fem%meinfem
 beschamung@fem%inv
 beschaulich@adj%ausreichend
@@ -261,6 +264,7 @@ billerbeck@neut%inv
 bindend@adj%ausreichend
 birne@fem%flasche
 bisherig@adj%ausreichend
+biss@masc%traum
 blatt@neut%licht
 blick@masc%ort
 blitz@masc%jahrzehnt
@@ -310,6 +314,7 @@ christlich@adj%ausreichend
 chronologisch@adj%ausreichend
 dame@fem%flasche
 dank@fem%norm
+darbrachten@neut%inv
 darstellung@fem%meinfem
 dasein@neut%rest
 dasitzen@neut%inv
@@ -641,6 +646,8 @@ geburt@fem%meinfem
 geburtstag@masc%inv
 gedachtnis@neut%erkenntnis
 gedanke@masc%flasche
+geerhter@adj%ausreichend
+geerhtest@adj%ausreichend
 gefahr@fem%meinfem
 gefahrlich@adj%ausreichend
 gefahrlichkeit@fem%meinfem
@@ -674,6 +681,7 @@ geltend@adj%ausreichend
 gemach@neut%licht
 gemalde@fem%meer
 gemaldegalerie@fem%flasche
+gemassheit@fem%meinfem
 gemeinde@fem%flasche
 gemeinsam@adj%ausreichend
 gemeinsamkeit@masc%meinmasc
@@ -737,6 +745,7 @@ glaubwurdiger@adj%ausreichend
 gleich@adj%ausreichend
 gleichgultig@adj%ausreichend
 gleichnisartig@adj%ausreichend
+gleichwertigkeit@fem%meinfem
 gleichzeitig@adj%ausreichend
 glied@neut%holz
 gluck@fem%flasche
@@ -836,6 +845,7 @@ herrlichkeit@fem%meinfem
 herrschaft@fem%meinfem
 herrscher@masc%arbeiter
 herstellung@fem%meinfem
+hervorgehn@neut%inv
 hervorgetreten@neut%inv
 hervorragend@adj%ausreichend
 herz@neut%herz
@@ -853,6 +863,7 @@ hinschwindet@neut%inv
 hinsicht@fem%meinfem
 hintersinn@fem%inv
 hinzunahme@fem%flasche
+hirsch@masc%schmerz
 hirte@masc%hirte
 hoch@adj%inv
 hochmutig@adj%ausreichend
@@ -1076,6 +1087,7 @@ linie@fem%flasche
 lippe@fem%flasche
 literatur@neut%inv
 lk@neut%inv
+lob@neut%rest
 logik@fem%meinfem
 logisch@adj%ausreichend
 logisierung@fem%inv
@@ -1260,6 +1272,7 @@ oberflachlich@adj%ausreichend
 obig@adj%ausreichend
 objektiv@neut%norm
 obst@neut%inv
+ochs@masc%meinmasc
 odem@neut%inv
 offb@neut%inv
 offenbarung@fem%inv
@@ -1271,6 +1284,7 @@ ol@neut%inv%
 olbaum@neut%jahrzehnt
 olivenol@neut%jahrzehnt
 oper@neut%flasche
+opfer@neut%arbeiter
 opferdarbringung@fem%meinfem
 opfergabe@neut%flasche
 optik@neut%meinmasc
@@ -1438,6 +1452,7 @@ rucksicht@fem%meinfem
 ruf@masc%bastard
 ruhelager@neut%inv
 ruhig@adj%ausreichend
+rute@fem%flasche
 ruth@neut%inv
 rhythmik@neut%inv
 rhythmisch@adj%ausreichend
@@ -1480,6 +1495,7 @@ schlag@masc%bastard
 schlank@adj%inv
 schlacht@fem%meinfem
 schlaf@masc%ort
+schlange@fem%flasche
 schlauheit@fem%meinfem
 schlecht@adj%ausreichend
 schleier@masc%arbeiter
@@ -1492,6 +1508,7 @@ schlussfolgerung@fem%meinfem
 schlusssatz@fem%inv
 schmerz@masc%schmerz
 schnee@fem%arbeiter
+schnelligkeit@fem%meinfem
 schon@adj%ausreichend
 schonheit@fem%meinfem
 schonst@adj%ausreichend
@@ -1534,6 +1551,7 @@ sechst@adj%ausreichend
 sechzehn@neut%inv
 see@fem%flasche
 seele@fem%flasche
+segen@masc%burger
 segnung@fem%meinfem
 sehn@neut%inv
 sehnsuchtigst@adj%ausreichend
@@ -1622,6 +1640,7 @@ streitsuchtiger@adj%ausreichend
 streng@adj%ausreichend
 strom@neut%phanomen
 stuck@neut%inv
+stumpf@masc%angst
 stumpfsinn@masc%inv
 stunde@fem%flasche
 sturm@masc%jahrzehnt
@@ -2072,6 +2091,7 @@ zugehorig@adj%ausreichend
 zugehorigkeit@fem%meinfem
 zugrunde@fem%flasche
 zunge@fem%flasche
+zukunft@fem%angst
 zukunftig@adj%ausreichend
 zurechtmachung@fem%inv
 zusammenbruch@masc%jahrzehnt
