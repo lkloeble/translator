@@ -390,6 +390,7 @@ public class GreekAnalyzer implements Analyzer {
         toSubstitute.put("δ","δε");
         toSubstitute.put("τ","τε");
         toSubstitute.put("μ","εγω");
+        toSubstitute.put("θ","τε");
         Set<Integer> indices = phrase.keySet();
         for(Integer indice : indices) {
             Word currentWord = phrase.getYetUnknownWordAtPosition(indice);

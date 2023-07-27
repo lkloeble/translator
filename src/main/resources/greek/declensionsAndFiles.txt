@@ -75,3 +75,5 @@ x-α-x%stas.txt
 ευς-εως%oupeos.txt
 ην-ενος%poimev.txt
 x-x-x%macar.txt
+η-ητος%kare.txt
+αν-αντος%gigas.txt

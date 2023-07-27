@@ -49,6 +49,7 @@ ahn@verb!norm%1(verb)=ressembler
 ahnen@noun!inv%1(noun)=deviner
 ahnest@noun!inv%1(noun)=devines
 ahn@noun!schmerz%1(noun)=ancêtre
+ahnherr@noun!meinmasc%1(noun)=ancêtre
 ahnlich@adj!ausreichend%1(adj)=semblable
 ahnlich@prep%1(prep)=semblable
 ahnung@noun!meinfem%1(noun)=intuition

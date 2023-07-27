@@ -28,6 +28,7 @@ aut@prep()
 autem@prep()
 brevi@prep()
 breviter@prep()
+casu@prep()
 certe@prep()
 circa@prep()%[electAccusativeForFollowingNoun]
 circum@prep()%[electAccusativeForFollowingNoun]

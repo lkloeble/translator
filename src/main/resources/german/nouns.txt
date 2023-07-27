@@ -37,6 +37,7 @@ agypten@neut%inv
 ah@neut%inv
 ahn@masc%schmerz
 ahnen@neut%inv
+ahnherr@masc%meinmasc
 ahnest@neut%inv
 ahnlich@adj%ausreichend
 ahnung@fem%meinfem

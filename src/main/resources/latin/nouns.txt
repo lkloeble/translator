@@ -25,6 +25,7 @@ adimplet@adj%us-a-um
 adipat@neut%um-i
 adiutor@masc%x-is2
 adiutori@neut%um-i
+adgress@adj%us-a-um
 adjut@masc%or-oris
 admirabil@adj%is-is-e
 admirati@fem%o-onis
@@ -123,6 +124,7 @@ aquitan@adj%us-a-um
 aquitani@fem%a-ae
 ar@fem%s-tis2
 arabi@fem%a-ae
+arar@masc%inv
 arbitrat@adj%us-a-um
 archangel@masc%us-i
 ardor@masc%x-is
@@ -156,6 +158,7 @@ authentic@adj%us-a-um
 auxili@neut%um-i
 av@fem%is-is
 ave@neut%inv
+av@masc%us-i
 azym@adj%us-a-um
 bacul@neut%um-i
 balne@neut%um-i
@@ -195,6 +198,7 @@ caesar@masc%x-is2
 caeter@adj%us-a-um
 cai@masc%us-i
 calam@masc%us-i
+calamit@fem%as-atis
 campani@fem%a-ae
 can@masc%is-is
 canal@masc%is-is
@@ -216,6 +220,7 @@ carr@masc%us-i
 castell@neut%um-i
 castigatio@fem%x-nis
 castit@fem%as-atis
+castr@neut%um-i
 catholic@adj%us-a-um
 caus@fem%a-ae
 celeberrim@adj%us-a-um
@@ -518,6 +523,7 @@ expectand@adj%us-a-um
 explicand@adj%us-a-um
 explicat@masc%us-us
 explicati@fem%o-onis
+explorat@masc%or-oris
 expositi@fem%o-onis
 exprobata@neut%inv
 expugnand@adj%us-a-um
@@ -685,6 +691,7 @@ immedicabile@adj%inv
 immortal@adj%is-is-e
 immutat@adj%us-a-um
 impassibil@adj%is-is-e
+impedit@adj%us-a-um
 imperan@adj%s-s-s
 imperi@masc%um-i
 imperiti@fem%a-ae
@@ -738,11 +745,13 @@ initiat@adj%us-a-um
 iniuri@fem%a-ae
 innocenti@fem%a-ae
 innumer@adj%us-a-um
+inopinan@adj%s-s-s
 inquie@adj%s-tis
 inrigan@adj%s-tis
 inscripti@fem%o-onis
 inscript@adj%us-a-um
 insecut@adj%us-a-um
+insign@adj%is-is-e
 instituend@adj%us-a-um
 institut@neut%um-i
 insul@fem%a-ae
@@ -832,6 +841,7 @@ legati@fem%o-onis
 legio@fem%x-nis
 lemann@masc%us-i
 lemnos@neut%inv
+lenit@fem%as-atis
 lepr@fem%a-ae
 lesbos@neut%inv
 lev@neut%e-is
@@ -844,6 +854,7 @@ lign@neut%um-i
 lili@fem%a-ae
 lim@masc%us-i
 lingu@fem%a-ae
+lint@mas%er-ris
 liquid@adj%us-a-um
 litter@fem%a-ae
 liturgi@fem%a-ae
@@ -1186,6 +1197,7 @@ princip@adj%s-s-s2
 princip@masc%x-is2
 principalit@fem%as-atis
 principat@masc%us-us
+princeps@neut%inv
 principi@neut%um-i
 privat@adj%us-a-um
 prob@adj%us-a-um
@@ -1365,6 +1377,7 @@ sext@adj%us-a-um
 sicili@fem%a-ae
 sign@masc%um-i
 silenti@neut%um-i
+silv@fem%a-ae
 sim@masc%o-onis
 simil@adj%is-is-e
 similitud@fem%o-inis
@@ -1376,6 +1389,7 @@ simulati@fem%o-onis
 singul@adj%us-a-um
 sinistr@fem%a-ae
 sit@adj%us-a-um
+socer@masc%x-ri
 soci@adj%us-a-um
 sol@adj%us-a-um
 sol@masc%x-is2
@@ -1493,6 +1507,7 @@ tyrann@masc%us-i
 ull@adj%us-a-um
 ulteri@adj%or-or-us
 ultim@adj%us-a-um
+ult@adj%us-a-um
 umbr@fem%a-ae
 umer@masc%us-i
 un@adj%us-a-um
@@ -1507,6 +1522,7 @@ urs@masc%us-i
 us@adj%us-a-um
 us@masc%us-us
 uterque@masc%inv
+ut@adj%er-ra-rum
 uxor@fem%x-is2
 v@fem%is-is
 vacu@adj%us-a-um
@@ -1534,6 +1550,7 @@ vi@fem%a-ae
 vic@masc%us-i
 vict@masc%us-us
 victori@fem%a-ae
+vigili@fem%a-ae
 vill@fem%a-ae
 vin@neut%um-i
 vincul@neut%um-i

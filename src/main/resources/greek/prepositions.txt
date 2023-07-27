@@ -29,6 +29,7 @@
 αρα@prep()
 αυται@prep()
 αυταρ@prep()
+αυτε@prep()
 αυτικα@prep()
 αυτις@prep()
 αυτοισι@prep(dat)
@@ -77,6 +78,7 @@
 εξω@prep()
 εοντων@prep(gen)
 εννημαρ@prep()
+εντος@prep()
 επανω@prep()
 επι@prep%[electGenitiveForFollowingNoun(επιgen),electDativeForFollowingNoun(επιdat),electAccusativeForFollowingNoun(επιacc)]
 επιgen@prep()
@@ -159,6 +161,7 @@
 ορθως@prep()
 ος@prep()
 οσιως@prep()
+οσσον@prep()
 οστις@prep()
 οταν@prep()
 οτι@prep()
