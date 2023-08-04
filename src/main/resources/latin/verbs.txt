@@ -12,7 +12,7 @@ accip,io,is,ere,,,[io-is],(AIP*acci*acce@AIPP*acci*acce@INACPAS*accip*accep)
 acclam,o,as,are,,,[o-as]
 accus,o,as,are,,,[o-as]
 add,o,is,ere,,,[o-is]
-ad,eo,is,ire,,,[eo-is]
+ad,eo,is,ire,,,[eo-is],(AII*ad*adib)
 adf,or,aris,ere,,,[or-aris]
 adfic,io,is,ere,,,[io-is]
 adfer,o,s,re,tuli,latum,[o-s]
