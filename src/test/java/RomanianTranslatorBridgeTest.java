@@ -969,6 +969,13 @@ public class RomanianTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("patericulegyptantonia7B", translatorBridge);
     }
 
+    @Test
+    public void test_patericul8() {
+        checkInMaps("patericulegyptantonia8A", translatorBridge);
+        checkInMaps("patericulegyptantonia8B", translatorBridge);
+        checkInMaps("patericulegyptantonia8C", translatorBridge);
+        checkInMaps("patericulegyptantonia8D", translatorBridge);
+    }
 
 
     @Test

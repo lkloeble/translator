@@ -713,6 +713,19 @@ patericulegyptantonia6D=>şi să aştepte ispita până la răsuflarea cea mai d
 patericulegyptantonia7A=>Acelaşi a zis :  nimeni neispitit nu va putea să intre în Împărăţia Cerurilor.
 patericulegyptantonia7B=>Că, ridică, zice, ispitele, şi nimeni nu este care să se mântuiască.
 
+patericulegyptantonia8A=>Intrebat-a avva |Pamvo| pe avva Antonie : ce voi face ?
+patericulegyptantonia8B=>Zis-a lui batranul : sa nu fii nadajduindu-te spre dreptatea ta,
+patericulegyptantonia8C=>nici sa te caiesti pentru lucrul trecut;
+patericulegyptantonia8D=>si stapaneste-ti limba si pantecele.
+
+patericulegyptantonia9A=>Zis-a avva Antonie : am vazut toate cursele vrajmasului intinse pe pamant si suspinand am zis ;
+patericulegyptantonia9B=>oare cine poate sa le treaca pe acestea ? Si am auzit glas zicandu-mi : smerenia.
+
+patericulegyptantonia10A=>Zis-a iarasi : sunt unii care si-au topit trupurile lor cu nevointa
+patericulegyptantonia10B=>si pentru ca nu au avut ei dreapta socoteala, departe de Dumnezeu s-au facut.
+
+
+
 
 urlpatericaulegypt=>fichier pdf pateric egypt
 

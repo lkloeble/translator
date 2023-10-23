@@ -341,6 +341,7 @@ drace@neut%inv
 drag@adj%adj
 dragost@fem%berea
 dreapta@neut%inv
+dreptat@fem%berea
 drept@adj%adjts
 drept@masc%ul
 dreptate@neut%inv
@@ -883,6 +884,7 @@ palmier@masc%ul
 pamant@masc%ul
 pamant@adj%esc
 pamint@masc%locul
+pantecele@masc%inv
 papa@masc%inv
 papus@fem%tigara
 par@fem%capacitate

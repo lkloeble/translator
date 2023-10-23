@@ -1,8 +1,8 @@
-herodote110A=>(du) hérodote halicarnasse (du) enquête(e)@enquête@ réalisation cette,
+herodote110A=>(du) hérodote halicarnasse enquête@enquête(s)@ réalisation cette,
 herodote110B=>comme ni le ancien(s) hors de (des) homme(s) au temps sorti(e)@sorti(s)@ devenu,
-herodote110C=>ni oeuvre(s) grand(s) aussi et admirable(e)@admirable(s)@,
+herodote110C=>ni oeuvre(s) grand(s) aussi et admirable@admirable(e)@,
 herodote110D=>le d'une part (aux) grec(s) le d'autre part barbares accepté, anonyme devenu,
-herodote110E=>le aussi autre(s)@mais@ et au travers de la@était@ culpabilité(e) nous font la guerre (aux) l'un l'autre(s).
+herodote110E=>le aussi autre(s)@mais@ et au travers de la@était@ coupable de(e) nous font la guerre (aux) l'un l'autre(s).
 
 herodote111fullenglish=>The Persian learned men say that the Phoenicians were the cause of the dispute.
 herodote111fullenglish=>These (they say) came to our seas from the sea which is called Red,
@@ -12,7 +12,7 @@ herodote111fullenglish=>Among other places to which they carried Egyptian and As
 herodote111A=>(des) perse(s)(e) d'une part maintenant les érudit(s) phénicie(s)(e) coupable de(s) disent devenu la (du) inimitié(e).
 herodote111B=>ces car depuis la (du) rouge(e) (du) appelé(e) (du) mer(e) arrivé(s) sur ce la mer(e),
 herodote111C=>et habitant ce le endroit le et maintenant habitent,
-herodote111D=>à ce moment (aux) expédition maritime(s) (aux) grand(s)(e)@long@ placer,
+herodote111D=>à ce moment (aux) expédition maritime(s) (aux) grand(s)(e)@grand(e)@ placer,
 herodote111E=>transportant d'autre part marchandise(s) égyptien(s) aussi et assyrie la aussi autre(e) être arrivé et donc et vers argos.
 
 herodote112=>which was at that time preeminent in every way among the people of what is now called Hellas. The Phoenicians came to Argos, and set out their cargo.
@@ -23,10 +23,10 @@ herodote113A=>cinquième(e) d'autre part la sixième(e) jour(e) depuis étais ar
 herodote113B=>venir sur la mer(e) femme(s)(e) autre(s)(e) aussi nombreux(s)(e) et donc et du roi fille(e)
 herodote113C=>le d'autre part les nom(e) être, selon même le et grec (hellène)(s) disent, io (lune) la (du) inachus
 herodote114=>As these stood about the stern of the ship bargaining for the wares they liked, the Phoenicians incited one another to set upon them. Most of the women escaped: Io and others were seized and thrown into the ship, which then sailed away for Egypt.
-herodote114A=>celles-ci tenu(s)(e) selon le plus bas(e) la nouveau être acheté des marchandise(s) aux eux la@était@ coeur très
-herodote114B=>et les phénicie(s)(e) recommandé(s) mettre en mouvement sur le(s)(e). les d'une part donc la plupart des femme(s)(e) échapper,
+herodote114A=>celles-ci position(s)(e) selon le plus bas(e) la nouveau être acheté des marchandise(s) aux eux la@était@ coeur très
+herodote114B=>et les phénicie(e)@phénicie(s)(e)@ recommandé(s) mettre en mouvement sur le(s)(e). les d'une part donc la plupart des femme(s)(e) échapper,
 herodote114C=>la d'autre part io (lune) plus (aux) autre(s)(e) être arraché.
-herodote114D=>jeté dans d'autre part vers la nouveau(e)@nouveau(s)@ être parti navigué(s) sur (du) égypte.
+herodote114D=>jeté dans d'autre part vers la nouveau(s) être parti navigué(s) sur (du) égypte.
 
 herodote121fullenglish=>In this way, the Persians say (and not as the Greeks), was how Io came to Egypt, and this, according to them,
 herodote121fullenglish=>was the first wrong that was done. Next, according to their story, some Greeks (they cannot say who) landed at Tyre in Phoenicia
@@ -38,7 +38,7 @@ herodote121C=>après d'autre part ceux-ci (des) grec(s)@grec (hellène)@ qui ( n
 herodote121D=>disent la (du) phénicie(e) vers tyr amenés arracher du roi la fille(e) europe(e).
 herodote121E=>seraient et si ces crétois(s)(e).
 herodote121F=>ceux-ci d'une part donc égal à vers égal à eux devenu,
-herodote121G=>après d'autre part ceux-ci grec (hellène)(s) coupable de(s) la (du) deuxième(e)@(du) seconde(e)@ (du) injustice(e) devenu
+herodote121G=>après d'autre part ceux-ci grec (hellène)(s) coupable de(s) la (du) seconde(e)@deuxième(e)@ (du) injustice(e) devenu
 
 
 herodote122fullenglish=>They sailed in a long ship to Aea, a city of the Colchians,
@@ -56,6 +56,18 @@ herodote123fullenglish=>they would not make any to the Colchians.
 herodote123A=>envoyé(s) d'autre part le (des) colchide(s)(e)@colchide@ roi vers la hellas héraut(e)
 herodote123B=>prier aussi (du) coutume la (du) enlèvement(e) et demander à restituer la fille(e).
 herodote123C=>les d'autre part répondu comme ni ce(s) Io(s) la (du) de argos(e)
-herodote123D=>offrirent eux (du) coutume la (du) enlèvement(e) ni étant le(s) vont offrir ces.
+herodote123D=>offrirent eux (du) coutume(e) la (du) enlèvement(e) ni étant le(s) vont offrir ces.
 
-toto=>prier
+
+herodote131A=>seconde(e) d'autre part disent génération(e) avec ceux-ci alexandre le (du) priam,
+herodote131B=>entendu(s) ceux-ci, voudrait les hors de la (du) hellas au travers du enlèvement(e) devenu femme(e),
+herodote131C=>su de toute façon que ne offrira (du) coutume(e). ni car ce(s) διδοναι.
+herodote132A=>ainsi donc enlevé (du) le hélène(e),
+herodote132B=>à eux (aux) grec(s) gloire(s)(e) premier envoyé(s) ange(s) demander à restituer aussi hélène(e) et (du) coutume(e) la (du) enlèvement(e) demander.
+herodote132C=>les d'autre part, tenus devant ceux-ci, apporter devant eux (du) médée(e) la enlèvement(e),
+herodote132D=>comme ne offert(s) le(s) (du) coutume(e) ni abandonné(s) demandant à restituer
+herodote132E=>demandé eux d'à côté de (des) autre(s)@autre@autre(e)@ (du) coutume(e) être devenu.
+
+
+
+toto=>offrirent vont offrir

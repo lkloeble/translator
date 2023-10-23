@@ -88,6 +88,7 @@
 ακολουθε@verb!norm%1(verb)=suivre
 ακου@verb!norm%1(verb)=ecouter%2(verb)=entendre
 αλαζονευ@verb!norm%1(verb)=etrearrogant
+αλεξανδρ@noun!ον-ου%1(noun)=alexandre
 αλλοι@verb!norm%1(verb)=modifier
 αλγ@noun!ος-εος%1(noun)=douleur
 αληθει@noun!α-ας%1(noun)=vérité
@@ -213,6 +214,7 @@
 αριθμ@noun!ος-ου%1(noun)=somme
 αρματει@noun!ος-ου%1(noun)=char
 αρπαγ@noun!η-ης%1(noun)=viol%2(noun)=enlèvement
+αρπασαντος@noun!inv%1(noun)=enlevé
 αρν@noun!ην-ος%1(noun)=agneau
 αρσ@adj!ων-ων-ον%1(adj)=mâle
 αρσην@noun!inv%1(adj)=mâle
@@ -308,6 +310,7 @@
 βουλ@noun!η-ης%1(noun)=résolution%2(noun)=volonté
 βουλημ@noun!α-ατος%1(noun)=plan%2(noun)=intention%3(noun)=volonté
 βουλ@verb!norm%1(verb)=preferer%2(verb)=planifier%3(verb)=souhaiter
+βουλοιατο@noun!inv%1(noun)=demandé
 βραβει@noun!ον-ου%1(noun)=récompense
 βραδ@adj!υς-εια-υ%1(adj)=tardif
 βροντ@noun!η-ης%1(noun)=tonnerre
@@ -331,6 +334,7 @@
 γεν@noun!ος-ους%1(noun)=espèce%2(noun)=gens%3(noun)=nation%4(noun)=famille%5(noun)=race
 γεν@noun!ος-ους2%1(noun)=espèce%2(noun)=gens%3(noun)=nation%4(noun)=famille%5(noun)=race
 γενε@noun!α-ας%1(noun)=génération
+γενε@noun!η-ης%1(noun)=génération
 γενετ@adj!inv%1(adj)=créé
 γενεσ@noun!ις-εως%1(noun)=création%2(noun)=source%3(noun)=origine
 γενναι@adj!ος-α-ον%1(adj)=noble%2(adj)=authentique
@@ -481,6 +485,7 @@
 εκατον@noun!inv%1(noun)=cent
 εκβαιν@verb!norm%1(verb)=sortir
 εκβαλλ@verb!norm%1(verb)=chasser%2(verb)=jeter dehors
+εκδιδω@verb!norm%1(verb)=abandonner
 εκκαι@verb!norm%1(verb)=bruler
 εκειν@noun!ος-η-ο%1(adj)=ce
 εκεινοισι@adj!inv%1(adj)=ces
@@ -506,6 +511,7 @@
 ελε@verb!norm%1(verb)=avoirpitie
 ελεαζαρ@noun!inv%1(noun)=éléazar
 ελεγχ@noun!ος-ους%1(noun)=reproche%2(noun)=réfutation
+ελεν@noun!η-ης%1(noun)=hélène
 ελιακιμ@noun!inv%1(noun)=éliakim
 ελιουδ@noun!inv%1(noun)=éliud
 ελε@noun!ος-ου%1(noun)=pitié%2(noun)=miséricorde
@@ -587,6 +593,7 @@
 επιθυμι@noun!α-ας%1(noun)=concupiscence%2(noun)=désir
 επικουρ@adj!ος-ος-ον%1(adj)=épicure
 επιρρω@verb!norm%1(verb)=bouger
+επισταμενον@noun!inv%1(noun)=su
 επιστελλ@verb!norm%1(verb)=envoyerunelettre
 επιστρεφ@verb!norm%1(verb)=restaurer%2(verb)=revenir
 επιτελ@verb!norm%1(verb)=completer%2(verb)=accomplir
@@ -1155,6 +1162,7 @@
 παντων@prep%1(prep)=tous
 παντοκρατ@noun!ωρ-ορος%1(noun)=tout-puissant
 παντοκρατορικ@adj!ος-η-ον%1(adj)=tout-puissant
+παντως@prep%1(prep)=de toute façon
 πανυ@prep%1(prep)=entièrement
 παραacc@prep%1(prep)=à côté de
 παραdat@prep%1(prep)=avec
@@ -1193,6 +1201,7 @@
 πειρασμ@noun!ος-ου%1(noun)=preuve%2(noun)=tentation%3(noun)=épreuve
 πεμπ@verb!norm%1(verb)=renvoyer,congédier%2(verb)=envoyer
 πεμπτ@noun!ος-η-ον%1(noun)=cinquième
+πεμψ@noun!αν-αντος%1(noun)=envoyé
 πενθε@verb!norm%1(verb)=pleurer
 πεποιθησ@noun!ις-εως%1(noun)=confiance
 περμησσοιο@noun!inv%1(noun)=permesse
@@ -1288,6 +1297,7 @@
 προβατ@noun!ον-ου%1(noun)=piscine%2(noun)=brebis
 προθυμι@noun!α-ας%1(noun)=disponibilité
 προιαπτ@verb!norm%1(verb)=envoyer
+προισχομενων@noun!inv%1(noun)=tenus devant
 προπετη@noun!inv%1(noun)=imprudent%2(noun)=énervé
 προσδεκτ@adj!ος-η-ον%1(adj)=favorable%2(adj)=approuvé
 προφητ@noun!ης-ου%1(noun)=prophète
@@ -1302,6 +1312,7 @@
 προσταγμ@noun!α-ατος%1(noun)=commandement
 προστασσ@verb!norm%1(verb)=ordonner
 προστιθη@verb!norm%1(verb)=ajouter%2(verb)=imposer%3(verb)=mettredevant
+προφερειν@noun!inv%1(noun)=apporter devant
 πρυμν@adj!ος-η-ον%1(adj)=le plus bas
 πρωι@prep%1(prep)=tôt le matin
 πρωτ@adj!ος-η-ον%1(adj)=premier

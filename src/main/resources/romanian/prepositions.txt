@@ -292,6 +292,7 @@ tai@prep()
 tau@prep()
 te@prep()%[terogFinder]
 terog@prep()
+ti@prep()
 tine@prep()
 toata@prep()
 toate@prep()

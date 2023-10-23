@@ -107,9 +107,9 @@ public class HerodoteBridgeTest extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "πεμπ,ειν,[ω-εις],(AORACTPARTB*πεμπ*πεμψ)"
+                "αιτ,εειν,[εω-εις]"
         });
-         */
+        */
         return getFileContentForRepository(verbFileDescription);
     }
 
@@ -211,10 +211,23 @@ public class HerodoteBridgeTest extends TranslatorBridgeTest {
 
 
     @Test
+    public void test_herodote_book1_chapter3() {
+        checkInMaps("herodote131A", translatorBridge);
+        checkInMaps("herodote131B", translatorBridge);
+        checkInMaps("herodote131C", translatorBridge);
+        checkInMaps("herodote132A", translatorBridge);
+        checkInMaps("herodote132B", translatorBridge);
+        checkInMaps("herodote132C", translatorBridge);
+        checkInMaps("herodote132D", translatorBridge);
+        checkInMaps("herodote132E", translatorBridge);
+    }
+
+
+    @Test
     public void test_failed_ones() {
         assertTrue(true);
         checkInMaps("toto", translatorBridge);
-        //checkInMaps("herodote123B", translatorBridge);
+        //checkInMaps("herodote132B", translatorBridge);
     }
 
 }

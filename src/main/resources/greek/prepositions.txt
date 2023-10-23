@@ -185,6 +185,7 @@
 παντες@prep(nom)
 παντι@prep(dat)
 παντων@prep(gen)
+παντως@prep()
 πανυ@prep()
 παρ@prep%[electAccusativeForFollowingNoun(παραacc),electDativeForFollowingNoun(παραdat),electGenitiveForFollowingNoun(παραgen)]
 παρα@prep%[electAccusativeForFollowingNoun(παραacc),electDativeForFollowingNoun(παραdat),electGenitiveForFollowingNoun(παραgen)]

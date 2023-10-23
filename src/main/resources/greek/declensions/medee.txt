@@ -1,2 +1,3 @@
 nom%sing%fem%ος
 acc%sing%fem%ην
+gen%sing%fem%ης

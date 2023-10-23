@@ -53,6 +53,7 @@ bolt,,[primi]
 brazd,a,[fumez],(PAP*brazd*brazdat)
 bucur,a,[incerca]
 cad,,[merg],(AII*cad*cade@PAP*cad*cazut)
+cai,,[mantui]
 calator,i,[locuiesc]
 cant,,[cauta]
 capat,,[cauta]
@@ -279,7 +280,7 @@ munc,,[aciti]
 mus,,[musca]
 mustr,a,[cauta],(PAP*mustr*mustrat)
 mut,,[cauta],(PAP*mut*mutat)
-nadajdui,,[aciti]
+nadajdui,,[aciti],(PAPR*nadajduii*nadajdui)
 nast,e,[merg]
 naval,i,[aciti],(AII*naval*navale)
 necun,,[cunosc]

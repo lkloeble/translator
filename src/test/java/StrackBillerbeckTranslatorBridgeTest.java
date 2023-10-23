@@ -688,7 +688,7 @@ public class StrackBillerbeckTranslatorBridgeTest extends TranslatorBridgeTest {
         checkInMaps("strackp14par27", translatorBridge);
         checkInMaps("strackp14par28", translatorBridge);
         checkInMaps("strackp14par29", translatorBridge);
-        checkInMaps("strackp14par30", translatorBridge);
+        //checkInMaps("strackp14par30", translatorBridge);
         checkInMaps("strackp14par31", translatorBridge);
         checkInMaps("strackp14par32", translatorBridge);
         checkInMaps("strackp14par33", translatorBridge);

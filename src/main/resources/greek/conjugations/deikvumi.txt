@@ -16,3 +16,4 @@ PRESACTPART=>[apas]
 FUTACTINFPART=>ειν,ων,ουσα,ον
 PAINPRMI=>εναι,εις,εισα,εν
 PAINPRAC=>εναι,εις,εισα,εν
+AIF=>ω,εις,ει,ομεν,οτε,ουσιν

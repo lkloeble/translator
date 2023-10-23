@@ -65,7 +65,7 @@ assimil5F=>es assez de pâle. es malade ?
 assimil5G=>ne, du tout, mais suis très fatigué.
 assimil5H=>croie/crois que travailler/travailles trop beaucoup.
 assimil5I=>as besoin de une jour(e) de la repos(e)@se reposait@, ne est comme ceci ?
-assimil5J=>as raison. plus choisi@davantage@ après une nuit(e) de fête(e).
+assimil5J=>as justice@raison@. plus choisi@davantage@ après une nuit(e) de fête(e).
 assimil5K=>bon(e) matin, es pressé ?
 assimil5L=>ne suis pressé, ai temps
 assimil5M=>ai besoin de un thé
@@ -126,7 +126,7 @@ assimil10E=>je ? je suis seul, ne suis encore marié.
 assimil10F=>plus attende/attends, plus cherche...
 assimil10G=>te connais je, es trop indécis !
 assimil10H=>ou demandes trop beaucoup de à femme(s)(e)...
-assimil10I=>ne as raison, ne demande rien extraordinaire !
+assimil10I=>ne as justice@raison@, ne demande rien extraordinaire !
 assimil10J=>cherche une femme(e) normal(e), blond(e), brun(e) ou roux(e),
 assimil10K=>mais nécessairement jeune(e), belle, intelligent(e), riche(e) et travailleur(e)
 assimil10L=>suis marié et ai cinq enfant(s)
@@ -711,6 +711,19 @@ patericulegyptantonia6D=>et  attende la tentation(e) jusque à la souffle(e) cel
 
 patericulegyptantonia7A=>identique ah dit : personne non tenté ne pourra  entre dans royaume (des) ciel(s).
 patericulegyptantonia7B=>que, relever/relève, a dit/dit, tentation(s)(e), et personne ne est qui  se sauve.
+
+patericulegyptantonia8A=>demandé ah avva pamvo sur avva antoine : comment voudrai@vous@ faire/fait ?
+patericulegyptantonia8B=>dit de lui vieux :  ne fils(s)@sois@ espérant te en direction de la justice(e) ta,
+patericulegyptantonia8C=>ni  te te repends pour le travail passé;
+patericulegyptantonia8D=>et maîtrise toi la langue(e) et ventre.
+
+patericulegyptantonia9A=>foobar
+patericulegyptantonia9B=>foobar
+
+patericulegyptantonia10A=>foobar
+patericulegyptantonia10B=>foobar
+
+
 
 
 stanibotez01=>la nécessité(e) absolu(e) de (du) baptême pour salut(e) et le baptême (des) enfant(s).
