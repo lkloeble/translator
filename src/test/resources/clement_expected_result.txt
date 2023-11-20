@@ -26,7 +26,7 @@ clement2C2=>dans bon(e) disponibilité(e) avec (du) dévot@dévot@dévot(e)@ (du
 clement2C3=>tendiez les main(s) de vous vers le tout-puissant dieu,
 clement2C4=>supplié(s) le avec bienveillance devenu, es qui involontaire(s) péchèrent.
 clement2D1'=>vous luttiez jour et nuit pour toute la communauté des frères afin que soit sauvé (grâce à votre compassion et à votre communion de sentiments) le nombre des élus de Dieu.
-clement2D1=>allant la@était@ à vous (du) jour(e) aussi et (du) nuit(e) au dessus toute la (du) fraternité(e),
+clement2D1=>allant@guidé@ la@était@ à vous (du) jour(e) aussi et (du) nuit(e) au dessus toute la (du) fraternité(e),
 clement2D2=>vers le soit sauvé après miséricorde(s) et (du) conscience le somme des élu(s)@élu@élu(e)@ (du) le.
 clement2E'=>vous étiez sincères, simples, sans rancune?
 clement2E=>sincère(s) et innocent(s) soient/étaient et sans rancune(s) vers autres@l'un l'autre(s)@.
@@ -141,7 +141,7 @@ clement6D2=>et peuple(s) grand(s) ruinèrent.
 
 clement7A'=>En vous écrivant tout cela, bien-aimés, nous ne faisons pas que vous réprimander, nous nous avertissons aussi nous-mêmes, car nous sommes dans la même arène et le même combat nous attend.
 clement7A1=>ceux-ci, bien-aimé(s), ne seul vous conseillant envoyons une lettre, autre(s)@mais@ et eux-même se rappelant de.
-clement7A2=>dans car au le sommes (au) tranchée(e), et le le à nous allant repose sur.
+clement7A2=>dans car au le sommes (au) tranchée(e), et le le à nous allant@guidé@ repose sur.
 clement7B'=>C'est pourquoi laissons là toutes les préoccupations vaines et inutiles et revenons à la règle glorieuse et sainte de la tradition
 clement7B1=>par quoi que nous délaissions les vain(s)(e) et inutile(s)(e) préoccupation(s), et que nous venions sur le glorieux(s)@glorieux(s)(e)@ et saint la (du) tradition notre règle,
 clement7C'=>et voyons ce qu'approuve, ce qu'aime, ce qu'agréee celui qui nous a faits.
@@ -160,9 +160,6 @@ clement7G2=>sur aux péché(s)(e) (des) le(s) apaisèrent le dieu supplié
 clement7G3=>et pris salut(e), pourtant appartenant à un autre(s) du dieu étant.
 
 
-
-traduction_anglaise=>https://www.earlychristianwritings.com/text/1clement-roberts.html
-
 clement8A=>les serviteur (culte)(s) la grâce(s)(e) du dieu au travers du air(e) (du) saint@saint@ à propos (du) repentance(e) parlent,
 clement8B1=>et le d'autre part le maître des tout(s)@tout@ à propos (du) repentance(e) parla avec (du) serment.
 clement8B2=>vis car habitue, dit seigneur, ne souhaite le mort du pêcheur, comme la repentance(e). ajouté et jugement(e) bon(e).
@@ -179,4 +176,16 @@ clement8D7=>épée(e) vous est dévoré. le car bouche(e) (du) seigneur parla ce
 clement8E=>tous donc les bien-aimé(s) (du) le souhaitant (du) repentance(e) participant supporta au tout-puissant (au) volonté(e) (du) le.
 
 
-toto=>à propos (du) repentance(e)
+clement9A1=>par quoi obéissions la splendide@splendide(e)@ et (au) honoré@honoré@ souhaiteras (du) le,
+clement9A2=>et celui qui implore(s) βενομενοι de miséricorde(s) et la (du) bonté(e) (du) le que nous attaquions
+clement9A3=>et que nous revenions sur les pitié(s) (du) le,
+clement9A4=>abandonné(s) la travail inutile(e) la aussi querelle et le vers mort allé@guidé@ envie.
+clement9B=>que nous fixions vers les complètement ceux qui furent serviteurs du culte la splendide@splendide(e)@ (au) gloire(e) (du) le.
+clement9C=>que nous prenions enoch, qui dans obéissance juste trouvé transféré, et ne fut trouvé (du) le mort.
+clement9D1=>noé confiance trouvé au travers de la (du) service(e) (du) le régénération(e) (au) monde proclama,
+clement9D2=>et sauve au travers du le le maître le étant entrés dans accord(e) animal(s) vers la arche.
+
+
+traduction_anglaise=>https://www.earlychristianwritings.com/text/1clement-roberts.html
+
+toto=>et

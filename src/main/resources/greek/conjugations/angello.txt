@@ -8,3 +8,4 @@ AORICONJ=>[apas]
 PERACTPAR=>[ος-α-ον]
 ACAOOP=>οιμι,οις,οι,οιμεν,οιτε,οιεν
 AORACTINF=>αι,ειν,-x,conjpassure
+AORACTSUBJ=>ω,ης,η,ωμεν,ητε,ωσιν

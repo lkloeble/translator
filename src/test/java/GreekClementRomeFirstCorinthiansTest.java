@@ -300,6 +300,18 @@ public class GreekClementRomeFirstCorinthiansTest extends TranslatorBridgeTest {
     }
 
     @Test
+    public void test_clement9() {
+        checkInMaps("clement9A1", translatorBridge);
+        checkInMaps("clement9A2", translatorBridge);
+        checkInMaps("clement9A3", translatorBridge);
+        checkInMaps("clement9A4", translatorBridge);
+        checkInMaps("clement9B", translatorBridge);
+        checkInMaps("clement9C", translatorBridge);
+        checkInMaps("clement9D1", translatorBridge);
+        checkInMaps("clement9D2", translatorBridge);
+    }
+
+    @Test
     public void test_failed_ones() {
         assertTrue(true);
         checkInMaps("toto", translatorBridge);

@@ -229,6 +229,7 @@
 ταυτην@prep()
 ταυτι@prep()
 τε@prep()
+τελειως@prep()
 τελος@prep()
 τη@prep%prep(dat)%[electDativeForFollowingNoun]
 τηλοθι@prep()
