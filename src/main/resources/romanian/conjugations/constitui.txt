@@ -2,3 +2,4 @@ IPR=>,,e,m,tsi,e
 PAPR=>nd
 AIMP=>e,atsi
 AII=>am,ai,a,am,atsi,au
+PAP=>[adj,adjts]

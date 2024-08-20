@@ -8,3 +8,4 @@ AIMP=> ,tsiva
 PAPR=>and|andu
 AIF=>voi,vei,va,vom,vetsi,vor
 ACPINF=>,xx
+ASP=>,i,a,em,etsi,a

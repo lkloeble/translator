@@ -68,6 +68,7 @@ public class RomanianAnalyzer implements Analyzer {
         replace = replace.replace(" _ "," underscoreexpr ");
         replace = replace.replace("va fi"," vafiexpr ");
         replace = replace.replace("voi insiv[a]"," voiinsivaexpr ");
+        replace = replace.replace("s_ar"," se ar ");
         return replace.replace("ce tsi","cetsiexpr");
     }
 

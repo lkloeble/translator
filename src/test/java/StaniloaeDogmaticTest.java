@@ -58,10 +58,10 @@ public class StaniloaeDogmaticTest  extends TranslatorBridgeTest {
     private List<String> getRomanianDico(String romanianFrenchDataFile) {
         /*
         return Arrays.asList(new String[]{
-                        "pot@verb!irrg%1(verb)=pouvoir",
-                        "deveni@verb!norm%1(verb)=devenir"
+                        "pierde@verb!norm%1(verb)=perdre",
+                        "se@prep%1(prep)=se"
                 });
-                */
+         */
         return getFileContentForRepository(romanianFrenchDataFile);
     }
 
@@ -77,9 +77,9 @@ public class StaniloaeDogmaticTest  extends TranslatorBridgeTest {
     private List<String> getNouns(String nounFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "alt@adj%adjts"
+                "instiintsar@fem%berea"
         });
-         */
+        */
         return getFileContentForRepository(nounFileDescription);
     }
 
@@ -114,7 +114,7 @@ public class StaniloaeDogmaticTest  extends TranslatorBridgeTest {
     private List<String> getVerbs(String verbFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "par,ea,[face],(PAP*par*parut)"
+                "pier,de,[vinde],(AII*pie*pia@CONJ25*pier*piar@ACP*pier*arpier@ACPINF*pier*pierde)"
         });
          */
         return getFileContentForRepository(verbFileDescription);
@@ -123,9 +123,9 @@ public class StaniloaeDogmaticTest  extends TranslatorBridgeTest {
     private List<String> getFrenchVerbs(String frenchVerbFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "devenir@NORM%[INFINITIVE]=[devenir]%[IPR]=[deviens,deviens,devient,devenons,devenez,deviennent]%[PII]=[étais devenu,étais devenu,était devenu,étions devenus,étiez devenus,étaient devenus]%[PIP]=[suis devenu,es devenu,est devenu,sommes devenus,êtes devenus,sont devenus]%[AIP]=[devins,devins,devint,devînmes,devîntes,devinrent]%[PIF]=[serai devenu,seras devenu,sera devenu,serons devenus,serez devenus,seront devenus]%[PRPARPASS]=[être devenu,qui est devenu,qui est devenu,qui est devenu]%[PAAOIM]=[-,que sois,que soit,-,que soyez,que soient]%[MIAOIN]=[fus,fus,fut,fûmes,fûtes,furent]%[AORPASSIMP]=[sois,sois,soit,soyons,soyez,soient]%[PAP]=[devenu]%[PERACTPAR]=[devenu,-,-,-]"
+                "succeder@NORM%[INFINITIVE]=[succéder]%[IPR]=[succède,succèdes,succède,succèdons,succèdez,succèdent]%[ACP]=[succèderais,succèderais,succèderait,succèderions,succèderiez,succèderaient]"
         });
-        */
+         */
         return getFileContentForRepository(frenchVerbFileDescription);
     }
 
@@ -577,6 +577,267 @@ public class StaniloaeDogmaticTest  extends TranslatorBridgeTest {
         checkInMaps("staniloaeChap2152", translatorBridge);
 
     }
+
+    @Test
+    public void test_chapitre3() {
+        checkInMaps("StaniloaeChap2501", translatorBridge);
+        checkInMaps("StaniloaeChap2502", translatorBridge);
+        checkInMaps("StaniloaeChap2503", translatorBridge);
+        checkInMaps("StaniloaeChap2504", translatorBridge);
+        checkInMaps("StaniloaeChap2505", translatorBridge);
+        checkInMaps("StaniloaeChap2506", translatorBridge);
+        checkInMaps("StaniloaeChap2507", translatorBridge);
+        checkInMaps("StaniloaeChap2508", translatorBridge);
+        checkInMaps("StaniloaeChap2509", translatorBridge);
+
+        checkInMaps("StaniloaeChap2601", translatorBridge);
+        checkInMaps("StaniloaeChap2602", translatorBridge);
+        checkInMaps("StaniloaeChap2603", translatorBridge);
+        checkInMaps("StaniloaeChap2604", translatorBridge);
+        checkInMaps("StaniloaeChap2605", translatorBridge);
+        checkInMaps("StaniloaeChap2606", translatorBridge);
+        checkInMaps("StaniloaeChap2607", translatorBridge);
+        checkInMaps("StaniloaeChap2608", translatorBridge);
+        checkInMaps("StaniloaeChap2609", translatorBridge);
+        checkInMaps("StaniloaeChap2610", translatorBridge);
+        checkInMaps("StaniloaeChap2611", translatorBridge);
+        checkInMaps("StaniloaeChap2612", translatorBridge);
+        checkInMaps("StaniloaeChap2613", translatorBridge);
+        checkInMaps("StaniloaeChap2614", translatorBridge);
+        checkInMaps("StaniloaeChap2615", translatorBridge);
+        checkInMaps("StaniloaeChap2616", translatorBridge);
+        checkInMaps("StaniloaeChap2617", translatorBridge);
+        checkInMaps("StaniloaeChap2618", translatorBridge);
+        checkInMaps("StaniloaeChap2619", translatorBridge);
+        checkInMaps("StaniloaeChap2620", translatorBridge);
+        checkInMaps("StaniloaeChap2621", translatorBridge);
+        checkInMaps("StaniloaeChap2622", translatorBridge);
+        checkInMaps("StaniloaeChap2623", translatorBridge);
+        checkInMaps("StaniloaeChap2624", translatorBridge);
+        checkInMaps("StaniloaeChap2625", translatorBridge);
+        checkInMaps("StaniloaeChap2626", translatorBridge);
+        checkInMaps("StaniloaeChap2627", translatorBridge);
+        checkInMaps("StaniloaeChap2628", translatorBridge);
+        checkInMaps("StaniloaeChap2629", translatorBridge);
+        checkInMaps("StaniloaeChap2630", translatorBridge);
+        checkInMaps("StaniloaeChap2631", translatorBridge);
+        checkInMaps("StaniloaeChap2632", translatorBridge);
+        checkInMaps("StaniloaeChap2633", translatorBridge);
+        checkInMaps("StaniloaeChap2634", translatorBridge);
+        checkInMaps("StaniloaeChap2635", translatorBridge);
+        checkInMaps("StaniloaeChap2636", translatorBridge);
+        checkInMaps("StaniloaeChap2637", translatorBridge);
+        checkInMaps("StaniloaeChap2638", translatorBridge);
+        checkInMaps("StaniloaeChap2639", translatorBridge);
+        checkInMaps("StaniloaeChap2640", translatorBridge);
+        checkInMaps("StaniloaeChap2641", translatorBridge);
+
+
+
+        checkInMaps("StaniloaeChap2701", translatorBridge);
+        checkInMaps("StaniloaeChap2702", translatorBridge);
+        checkInMaps("StaniloaeChap2703", translatorBridge);
+        checkInMaps("StaniloaeChap2704", translatorBridge);
+        checkInMaps("StaniloaeChap2705", translatorBridge);
+        checkInMaps("StaniloaeChap2706", translatorBridge);
+        checkInMaps("StaniloaeChap2707", translatorBridge);
+        checkInMaps("StaniloaeChap2708", translatorBridge);
+        checkInMaps("StaniloaeChap2709", translatorBridge);
+        checkInMaps("StaniloaeChap2710", translatorBridge);
+        checkInMaps("StaniloaeChap2711", translatorBridge);
+        checkInMaps("StaniloaeChap2712", translatorBridge);
+        checkInMaps("StaniloaeChap2713", translatorBridge);
+        checkInMaps("StaniloaeChap2714", translatorBridge);
+        checkInMaps("StaniloaeChap2715", translatorBridge);
+        checkInMaps("StaniloaeChap2716", translatorBridge);
+        checkInMaps("StaniloaeChap2717", translatorBridge);
+        checkInMaps("StaniloaeChap2718", translatorBridge);
+        checkInMaps("StaniloaeChap2719", translatorBridge);
+        checkInMaps("StaniloaeChap2720", translatorBridge);
+        checkInMaps("StaniloaeChap2721", translatorBridge);
+        checkInMaps("StaniloaeChap2722", translatorBridge);
+        checkInMaps("StaniloaeChap2723", translatorBridge);
+        checkInMaps("StaniloaeChap2724", translatorBridge);
+        checkInMaps("StaniloaeChap2725", translatorBridge);
+        checkInMaps("StaniloaeChap2726", translatorBridge);
+        checkInMaps("StaniloaeChap2727", translatorBridge);
+        checkInMaps("StaniloaeChap2728", translatorBridge);
+        checkInMaps("StaniloaeChap2729", translatorBridge);
+        checkInMaps("StaniloaeChap2730", translatorBridge);
+        checkInMaps("StaniloaeChap2731", translatorBridge);
+        checkInMaps("StaniloaeChap2732", translatorBridge);
+        checkInMaps("StaniloaeChap2733", translatorBridge);
+        checkInMaps("StaniloaeChap2734", translatorBridge);
+        checkInMaps("StaniloaeChap2735", translatorBridge);
+        checkInMaps("StaniloaeChap2736", translatorBridge);
+        checkInMaps("StaniloaeChap2737", translatorBridge);
+        checkInMaps("StaniloaeChap2738", translatorBridge);
+        checkInMaps("StaniloaeChap2739", translatorBridge);
+        checkInMaps("StaniloaeChap2740", translatorBridge);
+
+
+
+        checkInMaps("StaniloaeChap2801", translatorBridge);
+        checkInMaps("StaniloaeChap2802", translatorBridge);
+        checkInMaps("StaniloaeChap2803", translatorBridge);
+        checkInMaps("StaniloaeChap2804", translatorBridge);
+        checkInMaps("StaniloaeChap2805", translatorBridge);
+        checkInMaps("StaniloaeChap2806", translatorBridge);
+        checkInMaps("StaniloaeChap2807", translatorBridge);
+        checkInMaps("StaniloaeChap2808", translatorBridge);
+        checkInMaps("StaniloaeChap2809", translatorBridge);
+        checkInMaps("StaniloaeChap2810", translatorBridge);
+        checkInMaps("StaniloaeChap2811", translatorBridge);
+        checkInMaps("StaniloaeChap2812", translatorBridge);
+        checkInMaps("StaniloaeChap2813", translatorBridge);
+        checkInMaps("StaniloaeChap2814", translatorBridge);
+        checkInMaps("StaniloaeChap2815", translatorBridge);
+        checkInMaps("StaniloaeChap2816", translatorBridge);
+        checkInMaps("StaniloaeChap2817", translatorBridge);
+        checkInMaps("StaniloaeChap2818", translatorBridge);
+        checkInMaps("StaniloaeChap2819", translatorBridge);
+        checkInMaps("StaniloaeChap2820", translatorBridge);
+        checkInMaps("StaniloaeChap2821", translatorBridge);
+        checkInMaps("StaniloaeChap2822", translatorBridge);
+        checkInMaps("StaniloaeChap2823", translatorBridge);
+        checkInMaps("StaniloaeChap2824", translatorBridge);
+        checkInMaps("StaniloaeChap2825", translatorBridge);
+        checkInMaps("StaniloaeChap2826", translatorBridge);
+        checkInMaps("StaniloaeChap2827", translatorBridge);
+        checkInMaps("StaniloaeChap2828", translatorBridge);
+        checkInMaps("StaniloaeChap2829", translatorBridge);
+        checkInMaps("StaniloaeChap2830", translatorBridge);
+        checkInMaps("StaniloaeChap2831", translatorBridge);
+        checkInMaps("StaniloaeChap2832", translatorBridge);
+        checkInMaps("StaniloaeChap2833", translatorBridge);
+        checkInMaps("StaniloaeChap2834", translatorBridge);
+        checkInMaps("StaniloaeChap2835", translatorBridge);
+        checkInMaps("StaniloaeChap2836", translatorBridge);
+        checkInMaps("StaniloaeChap2837", translatorBridge);
+        checkInMaps("StaniloaeChap2838", translatorBridge);
+        checkInMaps("StaniloaeChap2839", translatorBridge);
+        checkInMaps("StaniloaeChap2840", translatorBridge);
+
+
+
+        checkInMaps("StaniloaeChap2901", translatorBridge);
+        checkInMaps("StaniloaeChap2902", translatorBridge);
+        checkInMaps("StaniloaeChap2903", translatorBridge);
+        checkInMaps("StaniloaeChap2904", translatorBridge);
+        checkInMaps("StaniloaeChap2905", translatorBridge);
+        checkInMaps("StaniloaeChap2906", translatorBridge);
+        checkInMaps("StaniloaeChap2907", translatorBridge);
+        checkInMaps("StaniloaeChap2908", translatorBridge);
+        checkInMaps("StaniloaeChap2909", translatorBridge);
+        checkInMaps("StaniloaeChap2910", translatorBridge);
+        checkInMaps("StaniloaeChap2911", translatorBridge);
+        checkInMaps("StaniloaeChap2912", translatorBridge);
+        checkInMaps("StaniloaeChap2913", translatorBridge);
+        checkInMaps("StaniloaeChap2914", translatorBridge);
+        checkInMaps("StaniloaeChap2915", translatorBridge);
+        checkInMaps("StaniloaeChap2916", translatorBridge);
+        checkInMaps("StaniloaeChap2917", translatorBridge);
+        checkInMaps("StaniloaeChap2918", translatorBridge);
+        checkInMaps("StaniloaeChap2919", translatorBridge);
+        checkInMaps("StaniloaeChap2920", translatorBridge);
+        checkInMaps("StaniloaeChap2921", translatorBridge);
+        checkInMaps("StaniloaeChap2922", translatorBridge);
+        checkInMaps("StaniloaeChap2923", translatorBridge);
+        checkInMaps("StaniloaeChap2924", translatorBridge);
+        checkInMaps("StaniloaeChap2925", translatorBridge);
+        checkInMaps("StaniloaeChap2926", translatorBridge);
+        checkInMaps("StaniloaeChap2927", translatorBridge);
+        checkInMaps("StaniloaeChap2928", translatorBridge);
+        checkInMaps("StaniloaeChap2929", translatorBridge);
+        checkInMaps("StaniloaeChap2930", translatorBridge);
+        checkInMaps("StaniloaeChap2931", translatorBridge);
+        checkInMaps("StaniloaeChap2932", translatorBridge);
+        checkInMaps("StaniloaeChap2933", translatorBridge);
+        checkInMaps("StaniloaeChap2934", translatorBridge);
+        checkInMaps("StaniloaeChap2935", translatorBridge);
+        checkInMaps("StaniloaeChap2936", translatorBridge);
+        checkInMaps("StaniloaeChap2937", translatorBridge);
+        checkInMaps("StaniloaeChap2938", translatorBridge);
+        checkInMaps("StaniloaeChap2939", translatorBridge);
+        checkInMaps("StaniloaeChap2940", translatorBridge);
+        checkInMaps("StaniloaeChap2941", translatorBridge);
+
+
+        checkInMaps("StaniloaeChap3001", translatorBridge);
+        checkInMaps("StaniloaeChap3002", translatorBridge);
+        checkInMaps("StaniloaeChap3003", translatorBridge);
+        checkInMaps("StaniloaeChap3004", translatorBridge);
+        checkInMaps("StaniloaeChap3005", translatorBridge);
+        checkInMaps("StaniloaeChap3006", translatorBridge);
+        checkInMaps("StaniloaeChap3007", translatorBridge);
+        checkInMaps("StaniloaeChap3008", translatorBridge);
+        checkInMaps("StaniloaeChap3009", translatorBridge);
+        checkInMaps("StaniloaeChap3010", translatorBridge);
+        checkInMaps("StaniloaeChap3011", translatorBridge);
+        checkInMaps("StaniloaeChap3012", translatorBridge);
+        checkInMaps("StaniloaeChap3013", translatorBridge);
+        checkInMaps("StaniloaeChap3014", translatorBridge);
+        checkInMaps("StaniloaeChap3015", translatorBridge);
+        checkInMaps("StaniloaeChap3016", translatorBridge);
+        checkInMaps("StaniloaeChap3017", translatorBridge);
+        checkInMaps("StaniloaeChap3018", translatorBridge);
+        checkInMaps("StaniloaeChap3019", translatorBridge);
+        checkInMaps("StaniloaeChap3020", translatorBridge);
+        checkInMaps("StaniloaeChap3021", translatorBridge);
+        checkInMaps("StaniloaeChap3022", translatorBridge);
+        checkInMaps("StaniloaeChap3023", translatorBridge);
+        checkInMaps("StaniloaeChap3024", translatorBridge);
+        checkInMaps("StaniloaeChap3025", translatorBridge);
+        checkInMaps("StaniloaeChap3026", translatorBridge);
+        checkInMaps("StaniloaeChap3027", translatorBridge);
+        checkInMaps("StaniloaeChap3028", translatorBridge);
+        checkInMaps("StaniloaeChap3029", translatorBridge);
+        checkInMaps("StaniloaeChap3030", translatorBridge);
+        checkInMaps("StaniloaeChap3031", translatorBridge);
+        checkInMaps("StaniloaeChap3032", translatorBridge);
+        checkInMaps("StaniloaeChap3033", translatorBridge);
+        checkInMaps("StaniloaeChap3034", translatorBridge);
+        checkInMaps("StaniloaeChap3035", translatorBridge);
+        checkInMaps("StaniloaeChap3036", translatorBridge);
+        checkInMaps("StaniloaeChap3037", translatorBridge);
+        checkInMaps("StaniloaeChap3038", translatorBridge);
+        checkInMaps("StaniloaeChap3039", translatorBridge);
+
+
+
+        checkInMaps("StaniloaeChap3101", translatorBridge);
+        checkInMaps("StaniloaeChap3102", translatorBridge);
+        checkInMaps("StaniloaeChap3103", translatorBridge);
+        checkInMaps("StaniloaeChap3104", translatorBridge);
+        checkInMaps("StaniloaeChap3105", translatorBridge);
+        checkInMaps("StaniloaeChap3106", translatorBridge);
+        checkInMaps("StaniloaeChap3107", translatorBridge);
+        checkInMaps("StaniloaeChap3108", translatorBridge);
+        checkInMaps("StaniloaeChap3109", translatorBridge);
+        checkInMaps("StaniloaeChap3110", translatorBridge);
+        checkInMaps("StaniloaeChap3111", translatorBridge);
+        checkInMaps("StaniloaeChap3112", translatorBridge);
+        checkInMaps("StaniloaeChap3113", translatorBridge);
+        checkInMaps("StaniloaeChap3114", translatorBridge);
+        checkInMaps("StaniloaeChap3115", translatorBridge);
+        checkInMaps("StaniloaeChap3116", translatorBridge);
+        checkInMaps("StaniloaeChap3117", translatorBridge);
+        checkInMaps("StaniloaeChap3118", translatorBridge);
+        checkInMaps("StaniloaeChap3119", translatorBridge);
+        checkInMaps("StaniloaeChap3120", translatorBridge);
+        checkInMaps("StaniloaeChap3121", translatorBridge);
+        checkInMaps("StaniloaeChap3122", translatorBridge);
+        checkInMaps("StaniloaeChap3123", translatorBridge);
+        checkInMaps("StaniloaeChap3124", translatorBridge);
+        checkInMaps("StaniloaeChap3125", translatorBridge);
+        checkInMaps("StaniloaeChap3126", translatorBridge);
+        checkInMaps("StaniloaeChap3127", translatorBridge);
+        checkInMaps("StaniloaeChap3128", translatorBridge);
+        checkInMaps("StaniloaeChap3129", translatorBridge);
+
+
+    }
+
 
     @Test
     public void test_failedones() {

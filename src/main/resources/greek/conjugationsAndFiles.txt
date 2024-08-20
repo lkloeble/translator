@@ -12,3 +12,4 @@
 μαι-σαι%keimai.txt
 unknown%unknown.txt
 attic%attic_verb.txt
+α-ας%oida.txt

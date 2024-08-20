@@ -51,6 +51,7 @@ import java.util.List;
  * PARTMIDAOR => PARTicipe MIDdle AORist
  * AORICONJ => AORIst CONJugation
  * AORMIDIMP => AORist MIDdle IMPerative
+ * PLPERF => Pluperfect
  */
 public class GreekConjugation2 extends Conjugation2 {
 

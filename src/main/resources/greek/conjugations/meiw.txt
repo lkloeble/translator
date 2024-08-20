@@ -3,3 +3,5 @@ FUTPARTACT=>ουμενην,-x,-x,-x
 ACAOIN=>-x,-x,-x,-x,-x,ωσεν
 PARAORINFPAS=>ηναι,εις,εισα,εν
 ACAOIM=>-x,-x,σατε,-x
+FUTPARTACT=>ωσεμεν
+AIF=>ω,εις,ει,ομεν,ετε,ουσιν

@@ -49,8 +49,8 @@ public class GreekAnalyzer implements Analyzer {
         char[] chars = sentence.toLowerCase().toCharArray();
         int[] charsz = new int[]{7936,7937,7938,7939,7940,7941,7942,7952,7953,7955,7956,7957,7968,7969,7970,7971,7972,7973,7974,7975,
                 7984,7985,7987,7988,7989,7990,7991,8000,8001,8003,8004,8005,8016,8017,8019,8020,8021,8022,8023,8032,8033,8035,8036,8037,8038,8039,8048,8049,
-                8050,8051,8052,8053,8054,8055,8056,8057,8058,8059,8060,8061,8069,8100,8103,8115,8118,8119,8125,8127,8131,8134,8135,8147,8150,8165,
-                8166,8179,8180,8182,8183,8217,8230,65288,65289};
+                8050,8051,8052,8053,8054,8055,8056,8057,8058,8059,8060,8061,8069,8084,8100,8103,8115,8118,8119,8125,8127,8131,8134,8135,8146,8147,8150,8165,
+                8166,8179,8180,8182,8183,8216,8217,8230,65288,65289};
         for (char c : chars) {
             int i = (int) c;
             if(i>6000 && notInTab(i,charsz)) {
@@ -287,6 +287,9 @@ public class GreekAnalyzer implements Analyzer {
                 case 8069://'ᾅ' 8069
                     sb.append("α");
                     break;
+                case 8084://'ᾔ' 8084
+                    sb.append("η");
+                    break;
                 case 8100://'ᾤ' 8100
                     sb.append("ω");
                     break;
@@ -317,6 +320,9 @@ public class GreekAnalyzer implements Analyzer {
                 case 8135://'ῇ' 8135
                     sb.append("η");
                     break;
+                case 8146://'ῒ' 8146
+                    sb.append("ι");
+                    break;
                 case 8147://'ΐ' 8147
                     sb.append("ι");
                     break;
@@ -340,6 +346,9 @@ public class GreekAnalyzer implements Analyzer {
                     break;
                 case 8183://'ῷ' 8183
                     sb.append("ω");
+                    break;
+                case 8216://'‘' 8216
+                    sb.append("'");
                     break;
                 case 8217://'’' 8217
                     sb.append("'");

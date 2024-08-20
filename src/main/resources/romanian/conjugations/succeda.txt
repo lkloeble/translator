@@ -1,4 +1,5 @@
 IPR=>d,zi,da,dam,datsi,da
 AII=>dam,dai,da,dam,datsi,dau
-ACP=>darcond,ziarcond,daarcond,damarcond,datsiarcond,daarcond
+ACPold=>darcond,ziarcond,daarcond,damarcond,datsiarcond,daarcond
+ACP=>d,zi,da,dam,datsi,da
 CONJ=>d,zi,de,dam,datsi,de

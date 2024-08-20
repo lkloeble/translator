@@ -12,6 +12,7 @@ aci@neut%inv
 acomodat@adj%adj
 act@masc%ul
 act@masc%chil
+activ@adj%adj
 actsiun@masc%ul
 actsiune@fem%ereditate
 actual@adj%adj
@@ -61,6 +62,7 @@ aparar@fem%berea
 aparat@masc%ul
 apartament@masc%ul
 apartsinand@neut%inv
+apel@masc%locul
 apetit@masc%ul
 aport@masc%ul
 apostol@masc%ul
@@ -86,6 +88,7 @@ aspiratsi@fem%fem
 aspirin@fem%fem
 asprim@fem%berea
 astazi@neut%inv
+asternut@masc%ul
 atac@masc%locul
 atanasie@masc%inv
 atinger@fem%berea
@@ -123,7 +126,7 @@ biseric@fem%fem
 blocat@adj%adj
 blond@adj%adj
 bo@masc%fiul
-boal@fem%fem
+boal@fem%fem[nomplr(a):boli]
 boar@fem%berea
 bogat@adj%adjts
 bogatsi@fem%fem
@@ -132,6 +135,7 @@ botez@masc%ul
 brichet@fem%fem
 brunet@adj%adj
 bucatarie@neut%inv
+bucate@fem%inv
 bucuresti@neut%inv
 bucur@neut%conceptie
 bulevard@fem%fem
@@ -158,6 +162,8 @@ capernaum@neut%inv
 caracter@neut%chil
 caracter@masc%ul
 caracterizar@fem%berea
+carmuit@adj%adj
+carn@fem%berea
 cart@fem%frate
 cartier@masc%ul
 cartof@masc%ul
@@ -198,6 +204,7 @@ confundar@fem%berea
 col@neut%inv
 coleg@masc%ul
 coloan@fem%fem
+combinats@fem%conceptie
 comun@adj%adj
 comunicar@fem%berea
 comuniun@fem%berea
@@ -228,6 +235,7 @@ continuare@fem%ereditate
 contopir@fem%berea
 contrare@neut%inv
 contsinut@masc%locul
+convergents@fem%fem
 conversatsie@fem%ereditate
 copi@masc%copil
 copt@neut%inv
@@ -265,6 +273,7 @@ curind@neut%inv
 curiozitat@fem%berea
 curs@masc%ul
 cutezat@adj%adjor
+cutremur@masc%ul
 cuvant@masc%ul
 cuvint@masc%capul
 cuvi@adj%pacatos
@@ -276,6 +285,7 @@ daramar@fem%berea
 daruito@adj%adjr
 dat@fem%fem
 datato@adj%adjr
+dator@masc%conceptie
 datorat@adj%adj
 david@masc%inv
 deciz@fem%conceptie
@@ -303,11 +313,13 @@ despartsir@fem%berea
 despartsit@adj%adj
 destinat@adj%adjts
 destinatsi@fem%fem
+detasar@fem%berea
 devreme@neut%inv
 dezlegar@fem%berea
 dezvoltar@fem%berea
 dialog@masc%ul
 diavol@masc%ul
+diferit@adj%adjts
 dificil@fem%fem
 dimensiun@fem%ratsiune
 dimineatsa@neut%inv
@@ -355,6 +367,7 @@ dumnezeu@neut%inv
 dumnezeul@neut%inv
 dumnezeule@neut%inv
 durer@adj%pacatos
+durer@fem%berea
 dusman@masc%ul
 dusmani@fem%tigara
 economic@adj%adj
@@ -391,6 +404,7 @@ exempl@masc%ul
 existent@adj%adj
 existents@fem%fem
 experimentar@fem%berea
+explicit@adj%adj
 expres@fem%expresie
 exprimar@fem%berea
 exteri@adj%adjor
@@ -409,7 +423,8 @@ farmacie@neut%inv
 fat@fem%fem
 fats@fem%fem
 favoar@fem%berea
-fel@neut%ul
+fel@neut%locul
+felurit@adj%adjts
 femei@fem%femei
 fenomen@masc%ul
 fericir@fem%berea
@@ -464,12 +479,13 @@ general@neut%inv
 genetic@fem%fem
 gind@masc%locul
 git@masc%ul
-glas@masc%ul
+glas@masc%locul
 glug@fem%fem
 glum@fem%fem
 goal@adj%adj
 gol@adj%adj
 grabit@adj%adj
+grai@neut%locul
 grair@fem%berea
 grandoar@fem%berea
 grav@adj%adj
@@ -480,6 +496,7 @@ greutat@fem%bereats
 grigorie@masc%inv
 grij@fem%femi
 gr@adj%adjos
+groap@fem%fem
 groaz@fem%fem
 gur@fem%tigara
 har@masc%ul
@@ -490,18 +507,21 @@ hristos@masc%inv
 hurui@fem%hurui
 iad@masc%ul
 iarba@fem%inv
+ibid@neut%inv
 ide@fem%parinte
 identic@adj%adj
 ieftin@adj%adj
 iepure@neut%iepure
 ierb@fem%locul
 ieremia@masc%inv
+iertar@fem%berea
 iesir@fem%femi
 ignorants@fem%fem
 iisus@masc%inv
 ilie@masc%inv
 imanent@adj%adjts
 imbogatsir@fem%berea
+imediat@adj%adj
 imparat@masc%ul
 imparatsia@fem%inv
 impartasanie@neut%inv
@@ -509,6 +529,7 @@ impartasanii@neut%inv
 impartasir@fem%berea
 imperativ@adj%adj
 impersonal@adj%adj
+impilar@fem%berea
 implinir@fem%berea
 important@adj%adj
 imposibil@neut%inv
@@ -564,6 +585,7 @@ insemnat@adj%adj
 insirar@fem%berea
 insomnie@fem%fem
 inspiratsi@fem%fem
+instiintsar@fem%berea
 instrument@masc%ul
 insurat@adj%adjts
 insusir@fem%berea
@@ -686,6 +708,7 @@ marc@fem%fem
 marcu@masc%inv
 mare@neut%inv
 marele@neut%inv
+marets@fem%conceptie
 margin@fem%berea
 mari@neut%inv
 marir@fem%berea
@@ -745,6 +768,7 @@ monotoni@fem%fem
 moral@adj%adj
 morav@masc%locul
 morcov@masc%ul
+mormant@masc%ul
 mormint@masc%ul
 mort@adj%adjts
 mostenire@fem%fem
@@ -772,7 +796,7 @@ neatins@adj%adj
 neavind@neut%inv
 nebun@fem%fem
 nebun@adj%esc
-necaz@masc%ul
+necaz@masc%locul
 necesar@adj%adj
 necesitat@fem%berea
 neclar@adj%adj
@@ -781,6 +805,8 @@ necredints@fem%fem
 necropol@fem%fem
 necunoscut@adj%adj
 necuprins@adj%adj
+nedespartsir@fem%berea
+nedespartsit@adj%adjts
 nedrept@adj%adjts
 nedreptat@fem%ereditate
 nefericit@adj%adjts
@@ -828,6 +854,7 @@ nor@masc%ul
 nord@neut%inv
 normal@adj%adj
 noroc@neut%inv
+noroi@masc%ul
 nou@adj%adj[nomplr(a):noi]
 noul@adj%inv
 noutate@fem%ereditate
@@ -835,11 +862,13 @@ numar@masc%ul
 nume@neut%iepure
 oamen@masc%ul
 oara@fem%inv
+oasele@fem%inv
 obars@fem%conceptie
 obiect@masc%ul
 obiectiv@fem%fem
 obisnuit@adj%adjts
 obosit@adj%adj
+occidental@adj%adj
 och@masc%copil
 ocupat@adj%adj
 odata@neut%inv
@@ -907,6 +936,7 @@ patra@neut%inv
 patriarh@masc%ul
 patru@neut%inv
 patruzeci@neut%inv
+pat@masc%ul
 pavel@masc%inv
 pecet@fem%berea
 pelerin@masc%ul
@@ -930,6 +960,7 @@ pg@neut%inv
 pian@masc%ul
 pic@neut%inv
 picatur@fem%fem
+piel@fem%berea
 pierder@fem%berea
 pierdut@adj%adjts
 pierit@adj%adjor
@@ -966,15 +997,19 @@ pozitsi@fem%fem
 prabusir@fem%berea
 practic@adj%adj
 prapad@masc%locul
+prapast@fem%conceptie
 preainalt@adj%inv
 preajm@fem%fem
 precis@adj%adj
+precizar@fem%berea
 prelucrar@fem%berea
 prelucratoare@neut%inv
 preocupar@fem%berea
 preot@masc%ul
 prets@masc%ul
+prezents@fem%fem
 priceper@fem%berea
+pricin@fem%fem
 prieten@adj%adj
 prigoan@fem%fem
 prim@adj%adj
@@ -1169,6 +1204,7 @@ situats@fem%conceptie
 slab@adj%adj
 slabiciun@fem%berea
 slabir@fem%berea
+slava@fem%inv
 slujir@fem%berea
 slujitor@masc%ul
 sminteal@fem%fem
@@ -1249,6 +1285,7 @@ templ@masc%ul
 tendints@fem%fem
 tensiun@fem%berea
 tentats@fem%conceptie
+teologi@fem%fem
 terestr@adj%adj
 termen@masc%ul
 teroar@fem%berea
@@ -1256,6 +1293,7 @@ testament@masc%ul
 text@neut%ul
 tiberiad@fem%fem
 tibrul@masc%inv
+ticalos@fem%conceptie
 timp@masc%ul
 tinar@adj%adj
 tinerets@fem%femi
@@ -1284,6 +1322,7 @@ trindav@fem%conceptie
 triumf@masc%ul
 trist@adj%adj
 tristets@fem%berea
+trud@fem%fem
 truf@fem%conceptie
 trufas@adj%adj
 trup@masc%ul
@@ -1359,6 +1398,7 @@ vesm@neut%vesmant
 vesnic@adj%adj
 vesnic@fem%conceptie
 vest@fem%berea
+vestir@fem%berea
 veterinar@masc%ul
 vi@adj%adj
 viats@fem%fem[nomplr(a):vietsi,gensg(a):vietsii]
@@ -1375,6 +1415,7 @@ virst@fem%fem
 virtu@adj%pacatos
 virtual@adj%adj
 virtut@fem%bereats
+vis@masc%ul
 vit@fem%femts
 vitez@fem%fem
 vizavi@masc%inv
@@ -1396,7 +1437,7 @@ zahar@neut%inv
 zambet@neut%ul
 zbuciumat@adj%adj
 zece@neut%inv
-zi@fem%cafea
+zi@fem%cafea[gensg(a):zilei]
 ziar@masc%ul
 zidir@fem%berea
 zori@masc%inv

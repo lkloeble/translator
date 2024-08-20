@@ -4,6 +4,7 @@ abgeb,en,[rufen],(IPR124*abgeb*abgib)
 abhang,en,[leben],(PAPR*abhang*abhangend)
 abschliess,en,[pflanzen]
 abstamm,en,[leben],(PAPR*abstamm*abstammend)
+abtrag,en,[lassen]
 abwend,en,[mochten]
 acht,en,[segnen]
 ahn,eln,[sammeln],(PAPR*ahn*ahnelnd)
@@ -16,6 +17,7 @@ angehor,en,[leben],(PAPR*angehor*angehorend)
 anknupf,en,[leben]
 anlang,en,[leben],(PAP*anlang*angelangt)
 anruf,en,[leben],(PAPR*anruf*anrufend)
+anschau,en,[leben]
 antwort,en,[wenden]
 anzuhor,en,[leben],(PAPR*anzuhor*anzuhorend)
 anzuseh,en,[leben],(PAPR*anzuseh*anzusehend)
@@ -39,7 +41,7 @@ auftu,en,[leben],(PAP*auftu*aufgetan)
 aufwachs,en,[genesen]
 aufzieh,en,[leben],(PAP*aufzieh*aufgezogen)
 aufzufuhr,en,[leben]
-ausbrech,en,[leben],(PAP*ausbrech*ausgebrochen)
+ausbrech,en,[leben],(PAP*ausbrech*ausgebrochen@IPR23*ausbrech*ausbrich)
 ausbreit,en,[segnen]
 ausdruck,en,[leben],(PAP*ausdruck*ausgedruckt)
 auswahl,en,[leben],(PAP*auswahl*ausgewahlt)
@@ -64,6 +66,8 @@ befriedig,en,[leben]
 begegn,en,[segnen]
 begeh,en,[leben],(PAPR*begeh*begehend)
 beginn,en,[rufen],(AIP*beginn*begann)
+begreif,en,[leben]
+begrund,en,[segnen],(PAP*begrund*begrundet)
 begruss,en,[pflanzen]
 behaft,en,[mochten]
 behalt,en,[entstehen],(SPA*behal*behiel)
@@ -73,6 +77,7 @@ behaupt,en,[mochten]
 beherrsch,en,[leben]
 beibring,en,[leben],(PAPR*beibring*beibringend)
 beileg,en,[leben],(PAP*beileg*beigelegt)
+beirr,en,[leben]
 beischreib,en,[rufen],(AIP*beischreib*beischrieb@PAP*beischrei*beigeschrie)
 beitrag,en,[lassen],(AIP*beitrag*beitrug)
 beiwohn,en,[leben]
@@ -111,6 +116,7 @@ bewund,ern,[fordern]
 bezahl,en,[leben]
 bezeichn,en,[segnen],(PAP*bezeichn*bezeichnet)
 bezeug,en,[leben]
+bezieh,en,[rufen]
 biet,en,[leben],(PAPR*biet*bietend)
 bild,en,[segnen]
 bind,en,[mochten],(PAP*bind*gebunden)
@@ -126,6 +132,7 @@ brumm,en,[leben]
 dank,en,[leben],(PAPR*dank*dankend)
 darbiet,en,[mochten],(AIP*darbiet*darbot)
 darbring,en,[leben],(AII*darbring*darbrach)
+darstell,en,[leben],(PAP*darstell*dargestellt)
 darf,en,[wollen]
 darleg,en,[leben]
 dasteh,en,[stehen],(AIP*dasteh*dastand)
@@ -160,9 +167,11 @@ entnehm,en,[leben]
 entreiss,en,[stehen]
 entschlaf,en,[leben],(PAP*entschlaf*entschlafen)
 entsprech,en,[leben],(PAP*entsprech*entsprochen)
+entspring,en,[rufen],(AIP*entspring*entsprang)
 entsteh,en,[entstehen],(AIP*entsteh*entstand)
 entweih,en,[leben]
 entwick,eln,[sammeln],(PAP*entwick*entwickelt)
+entzieh,en,[leben],(PAP*entzieh*entzogen)
 erblick,en,[leben]
 erdenk,en,[leben],(AII*erdenk*erdach)
 erdruck,en,[leben]
@@ -195,6 +204,8 @@ erprob,en,[leben]
 erschein,en,[leben],(PAP*erschein*erschienen)
 erschutt,ern,[bedauern],(PAPR*erschutt*erschutternd)
 ersteh,en,[leben]
+erton,en,[leben]
+ertrag,en,[leben]
 erwach,en,[leben]
 erwachs,en,[genesen],(AII*erwachs*erwuchs)
 erwahn,en,[leben]
@@ -205,6 +216,7 @@ erwider,n,[leben],(AIP*erwider*erwiderxxx)
 erzahl,en,[leben]
 erzeig,en,[leben]
 erzeug,en,[leben]
+erzieh,en,[rufen],(PAP*erzieh*erzogen)
 ess,en,[leben],(IPR1*ess*is)
 fahr,en,[leben],(PAPR*fahr*fahrend@AIP*fahr*fuhr)
 fall,en,[rufen],(AIP*fall*fiel@PAP*fall*gefallen)
@@ -245,12 +257,13 @@ geh,en,[lassen],(PAPR*geh*gehend@AIP*geh*ging@PAP*geh*gegang)
 gehor,en,[leben],(PAPR*gehor*gehorend)
 gelt,en,[gelten],(AIP*gel*gal@IPR12*gelt*gilt)
 genes,en,[genesen]
-geniess,en,[schliessen]
+geniess,en,[schliessen],(PAP*geniess*genoss)
 genug,en,[leben]
 gernhaben@IRREGULAR%[INFINITIVE]=[gernhaben]%[IPR]=[gernhabe,gernhast,gernhat,gernhaben,gernhabt,gernhaben]
 gescheh,en,[rufen],(AIP*gescheh*geschah@IPR12*gescheh*geschieh)
 gestatt,en,[segnen]
 gesteh,en,[entstehen],(AIP*gesteh*gestand)
+gewahr,en,[leben]
 gewinn,en,[leben],(PAPR*gewinn*gewinnend@PAP*gewinn*gewonnen)
 gewohn,en,[leben]
 glaub,en,[leben]
@@ -272,6 +285,7 @@ herbeischaff,en,[rufen]
 herleit,en,[mochten]
 herstamm,en,[leben]
 herrsch,en,[leben]
+hervorbrech,en,[rufen]
 hervortret,en,[leben],(PAP*hervortret*hervortrat)
 heul,en,[leben]
 hinder,n,[leben]
@@ -283,11 +297,12 @@ informier,en,[leben]
 innewerd,en,[werden]
 interessier,en,[leben]
 irr,en,[leben]
+jag,en,[leben],(PAP*jag*gejagt)
 jogg,en,[leben]
 kampf,en,[leben]
 kauf,en,[leben]
 kehr,en,[starken]
-kenn,en,[leben],(PAPR*kenn*kennend@AIP*kenn*kannt)
+kenn,en,[leben],(PAPR*kenn*kennend@AIP*kenn*kann)
 kling,en,[leben]
 knet,en,[mochten],(PAP*knet*geknetet)
 knupf,en,[leben]
@@ -382,6 +397,7 @@ schreib,en,[rufen],(AIP*schreib*schrieb@PAP*schrei*geschrie)
 schreit,en,[mochten]
 schutz,en,[leben],(IPR*schutzst*schutzt@AII*schutz*schutzt@ASP*schutz*schutzt)
 schweb,en,[leben]
+schweig,en,[leben]
 schwor,en,[leben],(PAP*schwor*geschworen)
 sein@IRREGULAR%[INFINITIVE]=[sein]%[IPR]=[bin,bist,ist,sind,seid,sind]%[AII]=[war,warst,war,waren,wart,waren]%[AIF]=[werde,wirst,wird,werden,werdet,werden]%[AIMP]=[sei,sei]%[ASP]=[sei,seist,sei,seien,seiet,seien]%[ASI]=[ware,warest,ware,waren,waret,waren]
 seinold@IRREGULAR%[AII]=[ward,ward,ward,ward,ward,warden]
@@ -416,6 +432,7 @@ stell,en,[leben]
 sterb,en,[rufen],(AIP*sterb*starb@PAP*sterb*gestorben)
 stimm,en,[leben]
 stor,en,[leben]
+streck,en,[leben]
 stutz,en,[genesen],(PAP*stutz*gestutzt)
 streich,en,[leben]
 streit,en,[leben]
@@ -467,6 +484,8 @@ vergleich,en,[leben]
 verhalt,en,[halten]
 verheirat,en,[segnen],(PAP*verheirat*verheiratet)
 verheiss,en,[leben],(PAP*verheiss*verheissen)
+verherrlich,en,[leben]
+verhull,en,[leben],(PAP*verhull*verhullt)
 verkleid,en,[wenden],(PAP*verklei*verkleidet)
 verlang,en,[leben],(PAPR*verlang*verlangend)
 verlass,en,[leben]
@@ -490,6 +509,7 @@ verschreib,en,[rufen]
 verschieb,en,[rufen],(AIP*verschieb*verschob)
 verschweig,en,[lassen],(PAP*verschweig*verschwieg)
 versetz,en,[pflanzen]
+versinnlicht,en,[mochten]
 versohn,en,[leben],(PAP*versohn*versohnt)
 versteck,en,[leben],(PAP*versteck*versteckt)
 versteh,en,[rufen],(AIP*versteh*verstand)
@@ -501,6 +521,7 @@ verteidig,en,[leben]
 vertrag,en,[leben]
 vertrau,en,[leben],(PAPR*vertrau*vertrauend)
 verurteil,en,[leben]
+verwend,en,[mochten],(PAP*verwend*verwendet)
 verwahr,en,[leben]
 verwand,eln,[sammeln]
 verwehr,en,[leben]
@@ -508,12 +529,14 @@ verweis,en,[leben],(PAP*verweis*verweist)
 vollzieh,en,[rufen],(PAP*vollziehen*vollzogen)
 vorbereit,en,[leben]
 vorhaben@IRREGULAR%[IPR]=[vorhabe,vorhast,vorhat,vorhaben,vorhabt,vorhaben]%[INFINITIVE]=[vorhaben]
+vorhalt,en,[leben],(AIP*vorhalt*vorhielt)
 vorleg,en,[leben]
 vorstell,en,[leben]
 vortrag,en,[leben],(PAP*vortrag*vorgetragen)
 vorubergeh,en,[rufen],(PAP*vorubergeh*voruberzugehen)
 wachs,en,[genesen],(PAP*wa*gewa)
 wag,en,[leben],(PAP*wag*gewagt)
+wahn,en,[leben]
 walz,en,[pflanzen]
 wand,eln,[sammeln]
 web,en,[leben],(PAPR*web*webend)
@@ -538,6 +561,7 @@ zerreiss,en,[genesen],(PAP*zerreiss*zerrissen)
 zerstor,en,[leben]
 zerstreu,en,[leben]
 zieh,en,[rufen],(PAP*ziehen*gezogen@AIP*zieh*zog)
+zier,en,[leben]
 zulass,en,[lassen],(PAP*zulassen*zugelassen@AIP*zulass*zuliess)
 zumach,en,[leben],(PAPR*zumach*zumachend)
 zurn,en,[leben]
@@ -550,3 +574,4 @@ zuruf,en,[rufen],(PAP*zuruf*zugerufen)
 zusammenhal,en,[halten]
 zusteh,en,[stehen],(PAP*zustehen*zugestand)
 zuwink,en,[leben],(PAPR*zuwink*zuwinkend)
+zwing,en,[leben],(PAP*zwing*gezwungen)

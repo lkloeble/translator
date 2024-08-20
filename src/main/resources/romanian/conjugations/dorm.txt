@@ -1,3 +1,4 @@
 IPR=>,i,e,im,itsi,e
 PAP=>it
 PAPR=>ind
+CONJ=>,i,a,im,itsi,a
