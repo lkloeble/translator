@@ -4,6 +4,7 @@ abundance@fem%normfem
 access@neut%church
 according@neut%invmasc
 account@neut%normmasc
+accrued@neut%invmasc
 act@neut%normmasc
 active@adj%normmasc
 activit@fem%endy
@@ -15,6 +16,7 @@ adequate@adj%normmasc
 adjacent@adj%normmasc
 adorned@adj%invmasc
 advantage@masc%normmasc
+affair@fem%normfem
 affection@fem%normfem
 affinit@fem%endy
 afraid@fem%invfem
@@ -91,9 +93,11 @@ bacon@neut%invmasc
 baptism@neut%invmasc
 bar@neut%normmasc
 barbarous@adj%invmasc
+barber@adj%normmasc
 barley@neut%invmasc
 barren@neut%invmasc
 barrenness@neut%invmasc
+bath@neut%invmasc
 bay@neut%invmasc
 bdellium@neut%invmasc
 beast@neut%normmasc
@@ -104,10 +108,12 @@ begining@masc%normmasc
 beginning@masc%normmasc
 behaviour@neut%normmasc
 bell@neut%endy
+ben@neut%normmasc
 benefit@neut%normmasc
 benjamin@masc%invmasc
 better@neut%invmasc
 betters@neut%invmasc
+bewailed@neut%invmasc
 bewitching@neut%invmasc
 bible@neut%normmasc
 big@adj%normmasc
@@ -119,6 +125,7 @@ bitumen@neut%invmasc
 bituminous@adj%invmasc
 black@adj%normmasc
 blast@neut%normmasc
+blind@adj%invmasc
 blood@neut%normmasc
 blouse@fem%normfem
 blue@adj%invmasc
@@ -190,10 +197,12 @@ century@neut%invmasc
 cereal@neut%normmasc
 certain@adj%normmasc
 ch@neut%invmasc
+chamber@neut%normmasc
 champaign@neut%normmasc
 change@masc%normmasc
 chapter@neut%normmasc
 character@neut%normmasc
+chariot@masc%normmasc
 charles@masc%invmasc
 cheese@masc%normmasc
 cherubim@masc%invmasc
@@ -232,6 +241,7 @@ cold@adj%invmasc
 colleague@neut%normmasc
 colon@fem%endy
 comfortable@adj%invmasc
+commendation@masc%normmasc
 comment@masc%normmasc
 commentar@masc%endy
 commentator@masc%normmasc
@@ -294,6 +304,7 @@ creature@neut%normmasc
 credible@adj%normmasc
 crime@neut%normmasc
 crisp@neut%normmasc
+crowned@neut%invmasc
 crucial@adj%normmasc
 cunning@neut%invmasc
 cup@fem%normfem
@@ -320,6 +331,7 @@ death@fem%church
 deborah@fem%invfem
 deceit@fem%invfem
 declination@fem%normfem
+dedication@fem%normfem
 deep@adj%invmasc
 defence@neut%normmasc
 degree@neut%normmasc
@@ -337,6 +349,7 @@ desperate@adj%normmasc
 destined@neut%invmasc
 destitute@adj%normmasc
 destruction@neut%normmasc
+detained@neut%invmasc
 deut@neut%invmasc
 deuteronomy@neut%invmasc
 devout@adj%invmasc
@@ -348,6 +361,7 @@ difficult@adj%normmasc
 diffused@adj%invmasc
 dignit@fem%endy
 dinner@neut%normmasc
+disadvantage@masc%normmasc
 disciple@neut%normmasc
 discussion@neut%normmasc
 disparagement@neut%invmasc
@@ -367,6 +381,7 @@ door@fem%normfem
 double@adj%normmasc
 doubt@neut%normmasc
 doubtful@adj%normmasc
+dough@neut%invmasc
 dreadful@adj%normmasc
 dress@fem%invfem
 dressing@neut%invmasc
@@ -419,9 +434,11 @@ enmit@fem%endy
 enoch@neut%invmasc
 entrance@fem%normfem
 env@fem%endy
+ephraim@masc%invmasc
 equal@adj%normmasc
 equity@fem%invfem
 erastian@adj%normmasc
+erring@neut%invmasc
 essene@neut%normmasc
 essential@neut%invmasc
 etc@neut%invmasc
@@ -473,6 +490,7 @@ favoring@neut%invmasc
 favourite@adj%normmasc
 fear@neut%normmasc
 feare@neut%normmasc
+feast@neut%normmasc
 female@fem%normfem
 festival@neut%normmasc
 fiction@fem%normfem
@@ -560,19 +578,23 @@ gloss@neut%invmasc
 god@masc%normmasc
 gold@masc%normmasc
 gomorrha@neut%invmasc
+gone@neut%invmasc
 good@adj%invmasc
 goodness@neut%invmasc
 gospel@neut%normmasc
+government@neut%normmasc
 grandson@masc%normmasc
 grass@neut%invmasc
 grave@neut%normmasc
 great@adj%invmasc
 greater@adj%invmasc
 greatest@adj%invmasc
+greatness@fem%church
 greek@neut%normmasc
 green@adj%invmasc
 ground@masc%normmasc
 grove@masc%normmasc
+growth@fem%invmasc
 guide@masc%normmasc
 guilty@adj%invmasc
 gun@masc%normmasc
@@ -601,6 +623,7 @@ hazard@neut%normmasc
 head@neut%normfem
 headship@neut%normmasc
 health@neut%invmasc
+hearse@neut%invmasc
 heart@neut%normmasc
 heathen@neut%normmasc
 heaven@masc%normmasc
@@ -634,6 +657,7 @@ home@fem%normfem
 hope@neut%normmasc
 horeb@neut%invmasc
 horrid@adj%invmasc
+horsemen@neut%invmasc
 hospitalit@neut%endy
 host@neut%normmasc
 hot@neut%invmasc
@@ -711,6 +735,7 @@ joynt@neut%normmasc
 jones@neut%invmasc
 jos@neut%invmasc
 joseph@masc%invmasc
+journey@neut%normmasc
 joy@fem%normfem
 jubal@masc%invmasc
 judah@masc%invmasc
@@ -757,6 +782,7 @@ lean@adj%invmasc
 learning@neut%normmasc
 leave@fem%normfem
 leave@fem%normfem
+leavened@neut%invmasc
 legal@adj%invmasc
 length@neut%church
 lenny@neut%invmasc!agenitive
@@ -788,6 +814,7 @@ long@adj%invmasc
 longer@adj%invmasc
 looketh@neut%invmasc
 lord@neut%normmasc
+loss@fem%church
 lost@adj%invmasc
 lot@neut%normmasc
 low@adj%invmasc
@@ -851,8 +878,10 @@ mist@neut%normmasc
 mistaken@neut%invmasc
 moab@neut%invmasc
 moabite@neut%normmasc
+moderator@neut%normmasc
 moment@neut%invmasc
 money@neut%normmasc
+moneyer@neut%normmasc
 month@neut%normmasc
 monument@neut%normmasc
 moon@neut%normmasc
@@ -892,6 +921,7 @@ necessit@neut%endy
 need@neut%normmasc
 needful@neut%invmasc
 needfull@neut%invmasc
+nehemiah@masc%invmasc
 neighbourhood@neut%invmasc
 neighbouring@neut%invmasc
 nerve@neut%normmasc
@@ -918,12 +948,14 @@ notion@neut%normmasc
 novel@adj%invmasc
 num@neut%invmasc
 number@neut%normmasc
+numberless@neut%invmasc
 numbered@neut%invmasc
 o@neut%invmasc
 object@neut%normmasc
 oblation@neut%normmasc
 obscure@adj%invmasc
 observation@neut%normmasc
+obstinate@adj%invmasc
 occasion@neut%normmasc
 occasional@adj%normmasc
 odd@masc%normmasc
@@ -953,6 +985,7 @@ pace@neut%normmasc
 pact@neut%normmasc
 page@fem%normfem
 pain@masc%normmasc
+pair@fem%normfem
 palestine@neut%invmasc
 palestinian@adj%normmasc
 palm@neut%normmasc
@@ -1084,6 +1117,7 @@ reasonable@adj%normmasc
 recension@fem%normfem
 recent@adj%normmasc
 receptacle@neut%normmasc
+rector@neut%normmasc
 red@adj%invmasc
 reference@fem%normfem
 reflected@adj%invmasc
@@ -1144,6 +1178,7 @@ sand@neut%normmasc
 sandy@adj%invmasc
 sanhedrim@neut%invmasc
 sarah@fem%invfem
+satisfied@neut%invmasc
 saturday@neut%normmasc
 saved@adj%invmasc
 saviour@neut%normmasc
@@ -1187,6 +1222,7 @@ shadow@fem%normfem
 sheaf@neut%church
 shekhina@neut%invmasc
 ship@neut%normmasc
+shop@neut%normmasc
 shore@neut%normmasc
 show@neut%invmasc
 shower@neut%normmasc
@@ -1207,6 +1243,7 @@ sin@masc%normmasc
 sion@masc%invmasc
 sir@masc%invmasc
 sister@masc%normmasc
+situation@fem%normfem
 six@neut%invmasc
 sixth@neut%invmasc
 sixty@neut%invmasc
@@ -1219,6 +1256,7 @@ sodom@neut%invmasc
 soft@adj%invmasc
 software@neut%normmasc
 soil@neut%normmasc
+solemnit@fem%endy
 solomon@neut%invmasc
 someone@neut%invmasc
 something@neut%invmasc
@@ -1261,6 +1299,7 @@ strength@fem%church
 string@fem%normfem
 strong@adj%normmasc
 stone@fem%normfem
+stoned@neut%invmasc
 storehouse@neut%normmasc
 stor@fem%endy
 stream@neut%normmasc
@@ -1281,11 +1320,13 @@ super@neut%invmasc
 superfic@fem%endy
 suppl@fem%endy
 sure@neut%invmasc
+surprised@neut%invmasc
 suspicious@adj%invmasc
 sweat@neut%invmasc
 swelling@neut%normmasc
 sword@fem%normfem
 syrian@neut%normmasc
+tabernacle@neut%normmasc
 table@neut%normmasc
 talented@neut%invmasc
 talmud@neut%normmasc
@@ -1303,6 +1344,7 @@ temple@neut%normmasc
 ten@neut%invmasc
 tendenc@fem%endy
 tent@fem%normfem
+tenth@neut%invmasc
 term@neut%normmasc
 terrible@neut%invmasc
 testament@neut%normmasc
@@ -1381,6 +1423,7 @@ unit@neut%endy
 universit@fem%endy
 unknown@neut%invmasc
 unsatisfactory@neut%invmasc
+unskillful@adj%invmasc
 unusual@adj%invmasc
 upper@neut%invmasc
 usually@neut%invmasc
@@ -1394,6 +1437,7 @@ valley@neut%normmasc
 venerable@adj%invmasc
 vengeance@neut%normmasc
 verse@neut%normmasc
+versed@neut%invmasc
 version@neut%normmasc
 vessel@neut%normmasc
 view@fem%normfem
@@ -1410,7 +1454,9 @@ vol@neut%invmasc
 volume@neut%normmasc
 vote@neut%normmasc
 voyage@neut%normmasc
+vow@neut%normmasc
 vulgar@adj%invmasc
+vulgarly@neut%invmasc
 waiter@masc%normmasc
 wales@neut%invmasc
 wall@neut%normmasc

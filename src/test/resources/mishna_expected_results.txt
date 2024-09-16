@@ -68,10 +68,10 @@ mishnaberakhot21E4=>dit à eux, je ne entend/entends à vous annuler depuis moi 
 mishnaberakhot21F1=>lave dans nuit(e) le premier que mort(e) femme de lui.
 mishnaberakhot21F2=>dirent pour lui, ne nous a enseigné que endeuillé interdit de laver.
 mishnaberakhot21F3=>dit à eux, je ne comme tout homme, délicat je.
-mishnaberakhot21G1=>foobar
-mishnaberakhot21G2=>foobar
-mishnaberakhot21G3=>foobar
+mishnaberakhot21G1=>et comme que mort tabi esclave@servirent@, accepta sur lui condoléances.
+mishnaberakhot21G2=>dirent pour lui, ne nous a enseigné que il n'y a pas coutume(s) condoléances sur les esclave(s).
+mishnaberakhot21G3=>dit à eux, il n'y a pas tabi esclave(s) (des) comme tout les esclave(s), casher fut.
 mishnaberakhot21H1=>foobar
 mishnaberakhot21H2=>foobar
 
-toto=>comme
+toto=>coutume(s)

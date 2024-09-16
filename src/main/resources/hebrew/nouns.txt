@@ -114,6 +114,7 @@ ztslexpr@neut%invpur
 'hlb@masc%im
 'h58lw331m000@masc%mascot
 'htn@masc%im
+xbi@masc%invpur
 xym@masc%im
 xrpwn000@masc%invpur
 ibm@fem%ot
@@ -155,6 +156,7 @@ knp@masc%im
 knst@neut%invpur
 kpr@fem%endingh
 krti@neut%invmasc
+ksr@adj%adj
 ktib@neut%invpur
 lb@masc%mascot
 lib@masc%mascot
@@ -192,6 +194,7 @@ mtsriim000@masc%invmasc
 mlak@masc%im
 m62l62k00056@masc%im
 mlkwt@fem%ot2
+mqbl@adj%adj
 mqwh@neut%invpur
 mqr@masc%mascendingh
 mqra@masc%invpur
@@ -220,6 +223,7 @@ nwpl@neut%invpur
 n'hwm@masc%invpur
 npsl@adj%im-ot
 nts@masc%im
+ybd@masc%im
 ybir@fem%ot
 ywl@masc%invpur
 ywlm@masc%im
@@ -356,6 +360,7 @@ tklt@adj%invmasc
 t65hw@neut%invpur
 tlwi@adj%im-ot
 tna@neut%im
+tn'hwmin000@neut%invpur
 tnin@neut%im
 tninm@neut%invpur
 tpilh@fem%invpur

@@ -91,6 +91,7 @@ prs,,[piel]
 pt'h,,[paal],(IPR%substitute%pt*pwt*0)
 tswh,,[hitpael],(HITAIP%substitute%tswh*tsxw*0)
 qbl,,[piel]
+qibl,,[binyan]
 qby,,[paal]
 qdm,,[binyanhifil],(BINHIPER%substitute(4:5:9)%qdm*qdim*0@BINHIPER%substitute(4)%dimh*dim*2)
 qwh,,[nifal],(NIFAIF%substitute%qwh*qw*0)

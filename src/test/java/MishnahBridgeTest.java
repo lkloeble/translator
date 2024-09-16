@@ -66,7 +66,7 @@ public class MishnahBridgeTest extends TranslatorBridgeTest {
     private List<String> getNouns(String nounFileDescription) {
         /*
         return Arrays.asList(new String[]{
-                "awzn@masc%mascot"
+                "mqbl@adj%adj"
                 //"ykb@fem%ot2"
         });
         */
@@ -252,6 +252,7 @@ public class MishnahBridgeTest extends TranslatorBridgeTest {
                 "nomot%plr%fem%wt",
                 "nomempty%sing%masc%",
                 "nomim%plr%masc%im",
+                "nomin%plr%masc%in",
                 "nomfemplr%plr%fem%w331t",
                 "decim-iw%sing%masc%iw",
                 "cst(nomim)%plr%masc%i&"

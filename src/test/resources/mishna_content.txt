@@ -52,5 +52,6 @@ mishnaberakhot21G3=>אמר להם, אין טבי עבדי כשאר כל העבד
 mishnaberakhot21H1=>חתן--אם רצה לקרות את שמע בלילה הראשון, קורא.
 mishnaberakhot21H2=>רבן שמעון בן גמליאל אומר, לא כל הרוצה ליטול את השם ייטול.
 
+source=>https://mechon-mamre.org/b/h/h11.htm
 
-toto=>כשאר
+toto=>מקבלין

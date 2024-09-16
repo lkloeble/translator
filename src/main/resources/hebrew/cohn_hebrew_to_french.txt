@@ -273,6 +273,7 @@ ztslexpr@noun!invpur%1(noun)=de mémoire bénie
 'htn@noun!im%1(noun)=fiancé
 'hsk@verb!norm%1(verb)=obscurcir
 'htswt@noun!invmasc%1(noun)=milieu de la nuit
+xbi@noun!invpur%1(noun)=tabi
 xym@noun!im%1(noun)=goût
 xrpwn000@noun!invpur%1(noun)=tarfon
 ibm@noun!ot%1(noun)=belle-soeur
@@ -360,6 +361,7 @@ krti@noun!invmasc%1(noun)=poireau
 ktb@verb!norm%1(verb)=ecrire
 ktib@noun!invpur%1(noun)=écriture
 ksofit@prep%1(prep)=de-toi
+ksr@adj!adj%1(adj)=légitime%2(adj)=casher
 l@prep%1(prep)=à
 l56@prep%1(prep)=à
 la@prep%1(prep)=ne
@@ -440,6 +442,7 @@ mn000@prep%1(prep)=de
 m60n000@prep%1(prep)=de
 m00060n000@prep%1(prep)=de
 mpni@prep%1(prep)=contre
+mqbl@adj!adj%1(adj)=coutume
 mqwh@noun!invpur%1(noun)=rassemblement des eaux
 mqr@noun!mascendingh%1(noun)=accident%2(noun)=occurence
 mqra@noun!invpur%1(noun)=verset biblique%2(noun)=proclamation (biblique)
@@ -528,6 +531,7 @@ qw331l@noun!mascot%1(noun)=voix
 qwm@noun!invmasc%1(noun)=lever
 qwr'hh@noun!invpur%1(noun)=korhah
 q'hn@verb!norm%1(verb)=tirer
+qibl@verb!norm%1(verb)=accepter
 qwra@noun!invpur%1(noun)=lecteur
 qm@noun!empty%1(noun)=lever
 qm@noun!im%1(noun)=ennemi
@@ -546,6 +550,7 @@ qtsr@adj!adj%1(adj)=court
 yiin@noun!invpur%1(noun)=voir
 y63in@noun!im%1(noun)=oeil
 y60ir@noun!custom(nomplr=yrim|cst(nomplr)=yri&|dir(nomsg)=yirh|nomsg=y60ir)%1(noun)=ville
+ybd@noun!im%1(noun)=esclave
 ybir@noun!ot%1(noun)=crime%2(noun)=péché%3(noun)=transgression
 yd@prep%1(prep)=jusqu'à
 y63d@prep%1(prep)=jusqu'à
@@ -693,6 +698,7 @@ tibt@noun!invpur%1(noun)=arche
 tklt@adj!invmasc%1(adj)=bleu
 tlwi@adj!im-ot%1(adj)=dépendant
 tna@noun!im%1(noun)=tannah
+tn'hwmin000@noun!invpur%1(noun)=condoléances
 tnin@noun!im%1(noun)=crocodile%2(noun)=monstre marin
 tninm@noun!invpur%1(noun)=monstres marins
 tpilh@noun!invpur%1(noun)=prière
