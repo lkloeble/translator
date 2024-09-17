@@ -37,7 +37,7 @@ sheilamoreiC3=>commandement(e) la torah(e),
 sheilamoreiC4=>car langue(e) " torah(e) lui langue(e) " instruction instruire à nous
 sheilamoreiC5=>la oeuvre(e) qui ferons,
 sheilamoreiC6=>si ainsi il n'y a pas écrire en elle parla (avec intensité)@parole@ après,
-sheilamoreiC7=>foobar
+sheilamoreiC7=>seulement la commandement(e) dans seulement,
 sheilamoreiC8=>foobar
 sheilamoreiC9=>foobar
 

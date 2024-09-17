@@ -622,6 +622,7 @@ r'hp@verb!norm%1(verb)=planer
 r'hts@verb!norm%1(verb)=laver
 ris@noun!invpur%1(noun)=resh (lettre R)
 rms@verb!norm%1(verb)=ramper
+rq@prep%1(prep)=seulement
 rqiy@noun!invpur%1(noun)=firmament
 rsa@verb!norm%1(verb)=etreautorisea
 rsai@noun!invpur%1(noun)=autorisé
