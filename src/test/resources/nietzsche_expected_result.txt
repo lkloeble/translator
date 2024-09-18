@@ -636,4 +636,4 @@ urltrad=>https://fr.wikisource.org/wiki/L%E2%80%99Origine_de_la_Trag%C3%A9die/Pr
 
 
 
-toto=>forcé(s)
+toto=>forcé

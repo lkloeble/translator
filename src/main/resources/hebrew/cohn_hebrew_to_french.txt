@@ -218,6 +218,7 @@ h6469@prep%1(prep)=le[les,la]
 h69@prep%1(prep)=le[les,la]
 hri@prep%1(prep)=voici
 hrmst@noun!invpur%1(noun)=rampant
+htixbi@noun!invpur%1(noun)=feras-tu mieux
 hiw@verb!irrg%1(verb)=etre
 h61ik64l@noun!im%1(noun)=palais
 hwa@prep%1(prep)=lui
@@ -468,6 +469,7 @@ mt@adj!adj%1(adj)=mort
 m63t56'h60il@noun!invpur%1(noun)=début
 mti@prep%1(prep)=quand
 mtsa@verb!norm%1(verb)=etretrouve
+na@noun!invpur%1(noun)=no (début du nom de la ville no amon)
 nakl@noun!im%1(noun)=destiné à être mangé
 n56h63r@noun!mascot%1(noun)=rivière
 n64y63r@noun!im%1(noun)=jeune homme%2(noun)=garçon

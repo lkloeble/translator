@@ -89,6 +89,7 @@ hll@neut%invpur
 hqbhexpr@neut%invpur
 h63r@masc%im
 hrmst@neut%invpur
+htixbi@neut%invpur
 wtrin@adj%im-ot
 zb@masc%invpur
 zhr@neut%invpur
@@ -213,6 +214,7 @@ mspx@masc%im
 msth@masc%invmasc
 mt@adj%adj
 m63t56'h60il@neut%invpur
+na@neut%invpur
 nakl@masc%im
 n62p62s@fem%ot2
 n64b60ia@masc%im-ot

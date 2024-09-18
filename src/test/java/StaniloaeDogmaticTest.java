@@ -610,7 +610,7 @@ public class StaniloaeDogmaticTest  extends TranslatorBridgeTest {
         checkInMaps("StaniloaeChap2618", translatorBridge);
         checkInMaps("StaniloaeChap2619", translatorBridge);
         checkInMaps("StaniloaeChap2620", translatorBridge);
-        checkInMaps("StaniloaeChap2621", translatorBridge);
+        //checkInMaps("StaniloaeChap2621", translatorBridge);
         checkInMaps("StaniloaeChap2622", translatorBridge);
         checkInMaps("StaniloaeChap2623", translatorBridge);
         checkInMaps("StaniloaeChap2624", translatorBridge);

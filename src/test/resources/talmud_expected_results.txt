@@ -91,7 +91,7 @@ midrashrabaeng1M=>( esther dans, zayin )
 midrashrabaeng1N=>" et fut fut élevé COD hadassah ",
 midrashrabaeng1O=>" artisan important, comme quoi religiosité
 midrashrabaeng1P=>( nahum [XXX], [XXX] )
-midrashrabaeng1Q=>foobar
+midrashrabaeng1Q=>" feras-tu mieux de no (début du nom de la ville no amon) artisan "
 midrashrabaeng1R=>foobar
 midrashrabaeng1S=>foobar
 
